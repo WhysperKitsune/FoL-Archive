@@ -1,0 +1,2195 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Official Announcements - Forum of Lies | Throne of Lies | by Imperium42</title>
+    <link>https://forum.throneoflies.com/c/announcements/8</link>
+    <description>Topics in the &#39;Official Announcements&#39; category Official staff announcements. &lt;strong&gt;Although you can’t post, you &lt;em&gt;can&lt;/em&gt; reply.&lt;/strong&gt;&lt;br&gt;
+Chat @ &lt;a href=&quot;https://discord.gg/tol&quot;&gt;https://discord.gg/tol&lt;/a&gt;</description>
+    
+      <lastBuildDate>Tue, 24 Aug 2021 09:47:15 +0000</lastBuildDate>
+      <atom:link href="https://forum.throneoflies.com/c/announcements/8.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>Patch v5.0.0: Gfx Revamp (pt1) + Bye Faction Rotations</title>
+          <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+          <category>Official Announcements</category>
+          <description><![CDATA[
+            <h2>
+<a name="major-gfx-revamp-part-1-1" class="anchor" href="#major-gfx-revamp-part-1-1"></a>Major Gfx Revamp (Part 1)</h2>
+<p><strong>Early Access:</strong> This is essentially a live beta test of our graphics revamp (part 1), that we’re happy to share!</p>
+<p>Mystic New (GIF):</p>
+<p>                    <a href="https://cdn.discordapp.com/attachments/580380189079502868/879307181999128626/mystic-anim.gif" target="_blank" rel="noopener" class="onebox">
+            <img src="https://cdn.discordapp.com/attachments/580380189079502868/879307181999128626/mystic-anim.gif" width="690" height="384">
+          </a>
+
+</p>
+<p>Mystic Old:</p>
+<p>                    <a href="https://cdn.discordapp.com/attachments/580380189079502868/879307206149943316/unknown.png" target="_blank" rel="noopener" class="onebox">
+            <img src="https://cdn.discordapp.com/attachments/580380189079502868/879307206149943316/unknown.png" width="690" height="384">
+          </a>
+
+</p>
+<p>King New:</p>
+<p>                    <a href="https://cdn.discordapp.com/attachments/580380189079502868/879621181559414784/unknown.png" target="_blank" rel="noopener" class="onebox">
+            <img src="https://cdn.discordapp.com/attachments/580380189079502868/879621181559414784/unknown.png" width="690" height="385">
+          </a>
+
+</p>
+<p>King Old:</p>
+<p>                    <a href="https://cdn.discordapp.com/attachments/580380189079502868/879621198592479252/unknown.png" target="_blank" rel="noopener" class="onebox">
+            <img src="https://cdn.discordapp.com/attachments/580380189079502868/879621198592479252/unknown.png" width="690" height="380">
+          </a>
+
+</p>
+<p><strong>Part 1, Live Now:</strong></p>
+<ul>
+<li>Ground-up lighting/shading/particle revamps for every day/night/death room.</li>
+<li>Added shadows, god rays and environmental dust.</li>
+<li>Darker environment, but brighter focus points with better color differences.</li>
+<li>Added some environmental texture upgrades.</li>
+<li>HDR support.</li>
+<li>Optimization - Should still have decent FPS!</li>
+<li>
+<strong>@ Veterans:</strong> If you have the  tag with the crystal <em>flair</em>, you got a visual upgrade:<br>
+<a href="https://cdn.discordapp.com/attachments/580380189079502868/879316269315276810/ezgif.com-gif-maker_1.gif">https://cdn.discordapp.com/attachments/580380189079502868/879316269315276810/ezgif.com-gif-maker_1.gif</a>
+</li>
+</ul>
+<ul>
+<li>Known bugs to be hotfixed:
+<ul>
+<li>Some areas have Bloom intensity too high, like Sellsword/Merc room.</li>
+<li>Some areas are too dark (or the character is too dark).</li>
+<li>Part 1 has “dev tweaks”. Part 2 will have “<em>actual artist</em>” tweaks.</li>
+</ul>
+</li>
+</ul>
+<p><strong>Part 2+, Roadmap:</strong></p>
+<ol>
+<li>Lighting is actually <em>too</em> dark right now: We will tweak this.</li>
+<li>Camera angle improvements.</li>
+<li>More textures (armor + weapons).</li>
+<li>Reflective surfaces (armor/weapons/windows).</li>
+<li>Additional prop varieties (like furniture).</li>
+<li>Potential fixes for previously-disabled weapons+executions.</li>
+<li>Better idle/sitting animations.</li>
+<li>Significant optimization boost (baked lights).</li>
+</ol>
+<hr>
+<h2>
+<a name="faction-rotations-gone-2" class="anchor" href="#faction-rotations-gone-2"></a>Faction Rotations GONE!</h2>
+<p>We’re back to <em>classic mode</em>, for now! <img src="https://forum.throneoflies.com/images/emoji/twitter/tada.png?v=10" title=":tada:" class="emoji" alt=":tada:"></p>
+<p>                    <a href="https://cdn.discordapp.com/attachments/643778163402342420/879662484091441162/classicmodereturns.gif" target="_blank" rel="noopener" class="onebox">
+            <img src="https://cdn.discordapp.com/attachments/643778163402342420/879662484091441162/classicmodereturns.gif" width="690" height="430">
+          </a>
+
+</p>
+<p>In the future, we’ll likely add optional rotation modes to <em>100% private</em> games, **if you really feel like an Unseen or Cult game, specifically.</p>
+<hr>
+<h2>
+<a name="major-fixes-3" class="anchor" href="#major-fixes-3"></a>Major Fixes</h2>
+<ol>
+<li>Fixed crash when typing <code>&lt;</code> or <code>&gt;</code> in chat.</li>
+<li>Fixed some <code>&lt;styles&gt;</code> being revealed during select class card hovers.</li>
+<li>Fixed buggy text selection (when trying to copy text from chat) - it should now work similarly to a text editor, where you can drag to select / double click to highlight the word / triple click to highlight the entire sentence.</li>
+<li>Potentially fixed quest progression bug for executing players.</li>
+</ol>
+<p>*<em>These are early access fixes, at least working in Unity — let us know if it worked for you!</em></p>
+<h2>
+<a name="minor-improvements-4" class="anchor" href="#minor-improvements-4"></a>Minor Improvements</h2>
+<ol>
+<li>Fixed some class card consistency issues, like with Marshal/Seeker’s <em>Expose</em>.</li>
+<li>Seems like <em>Voidstone of Corax</em> execution was missing an entire particle layer - fixed.</li>
+<li>Fixed stacking text: The moment the player dies in an execution, we’ll hide the name above their head (so both players’ names don’t jarble together).</li>
+<li>Death reveals no longer <strong>bold</strong> the name of Neutral classes.</li>
+<li>Tutorial night ability description has returned.</li>
+<li>Made the names above your head prettier.</li>
+</ol>
+<hr>
+<h2>
+<a name="hotfixes-5" class="anchor" href="#hotfixes-5"></a>Hotfixes</h2>
+<p>This had some MAJOR changes, both front and backend – here come the hotfixes (thanks for the awesome bug reports <img src="https://forum.throneoflies.com/images/emoji/twitter/clap.png?v=10" title=":clap:" class="emoji" alt=":clap:"> )!</p>
+<h2>
+<a name="colorredhotfix-v500acolor-6" class="anchor" href="#colorredhotfix-v500acolor-6"></a><font color="red">Hotfix v5.0.0a</font>
+</h2>
+<p><a href="https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/5">Patch Notes</a></p>
+<h2>
+<a name="colorredhotfix-v500bcolor-7" class="anchor" href="#colorredhotfix-v500bcolor-7"></a><font color="red">Hotfix v5.0.0b</font>
+</h2>
+<p><a href="https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/5">Patch Notes</a></p>
+<h2>
+<a name="colorredhotfix-v501color-8" class="anchor" href="#colorredhotfix-v501color-8"></a><font color="red">Hotfix v5.0.1</font>
+</h2>
+<p><a href="https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/7">Patch Notes</a></p>
+<h2>
+<a name="colorredv501acolor-9" class="anchor" href="#colorredv501acolor-9"></a><font color="red">v5.0.1a</font>
+</h2>
+<p><a href="https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/5">Patch Notes</a></p>
+<h2>
+<a name="colorredv501bcolor-10" class="anchor" href="#colorredv501bcolor-10"></a><font color="red">v5.0.1b</font>
+</h2>
+<p><a href="https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/11">Patch Notes</a></p>
+<hr>
+<p>—Xblade @ <a href="https://discord.gg/tol">https://discord.gg/tol</a></p>
+            <p><small>11 posts - 4 participants</small></p>
+            <p><a href="https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953</link>
+          <pubDate>Tue, 24 Aug 2021 09:47:15 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.throneoflies.com-topic-88953</guid>
+          <source url="https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953.rss">Patch v5.0.0: Gfx Revamp (pt1) + Bye Faction Rotations</source>
+        </item>
+        <item>
+          <title>Security v4.1.5 + Stability v4.1.6 Patches</title>
+          <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+          <category>Official Announcements</category>
+          <description><![CDATA[
+            <h2>
+<a name="stability-patch-v416-1" class="anchor" href="#stability-patch-v416-1"></a>Stability Patch v4.1.6</h2>
+<ul>
+<li>Fixed King  text</li>
+<li>Fixed numerous class card innaccuracies.</li>
+<li>Overall, things feel stable! See below for hotfixes leading up to this patch.</li>
+</ul>
+<hr>
+<h2>
+<a name="security-patch-v415-colorlime-livecolor-2" class="anchor" href="#security-patch-v415-colorlime-livecolor-2"></a>Security Patch v4.1.5 <font color="lime">- Live</font>
+</h2>
+<p>Pretty straight-forward patch – <font color="orange">This is an “early access” patch; bare with us <img src="https://forum.throneoflies.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></font></p>
+<ul>
+<li>Enhanced Throne’s security.</li>
+<li>Lobby chat anti-spam added:
+<ul>
+<li>1.5s cooldown (same as in-game).</li>
+<li>Filters.</li>
+<li>Server-side inspection, to be improved upon over time.</li>
+</ul>
+</li>
+</ul>
+<p>–Xblade @ <a href="https://discord.gg/tol">https://discord.gg/tol</a></p>
+<hr>
+<h3>
+<a name="v415b-7-19-3" class="anchor" href="#v415b-7-19-3"></a>v4.1.5b (7-19)</h3>
+<ul>
+<li>Fixed login screen crashes for some</li>
+<li>Fixed Paladin class card Unseen convert (should show nothing).</li>
+<li>Fixed Alcoholic class card that should be showing occ immune icon.</li>
+<li>Fixed tutorial wording for King’s DM to “suspect” he’s BD rather than “knows”.</li>
+<li>Fixed tutorial <code>&lt;color&gt;</code> tags showing.</li>
+</ul>
+<h3>
+<a name="v415c-7-19-4" class="anchor" href="#v415c-7-19-4"></a>v4.1.5c (7-19)</h3>
+<ul>
+<li>Single exe security is too strong (triggering antivirus): No point, if unplayable! Removed this security feature - we’ll observe and adjust, as necessary.</li>
+<li>Fixed quest flip issues for new quests.</li>
+<li>Potentially fixed quest swap (refresh) credits.</li>
+</ul>
+<h3>
+<a name="v415d-7-20-5" class="anchor" href="#v415d-7-20-5"></a>v4.1.5d (7-20)</h3>
+<ul>
+<li>Slightly more security.</li>
+<li>Fixed most of the lobby chat and in-game bugs. Special shoutout to those that submitted Discord <code>#bug-reports</code>!!</li>
+</ul>
+<h3>
+<a name="v415e-7-22-6" class="anchor" href="#v415e-7-22-6"></a>v4.1.5e (7-22)</h3>
+<ul>
+<li>Fixed desyncs.</li>
+<li>Still has known breaking bugs caused by the massive backend changes in the security patch: Game will be down until ver <code>e</code>.</li>
+</ul>
+<h3>
+<a name="v415f-7-26-7" class="anchor" href="#v415f-7-26-7"></a>v4.1.5f (7-26)</h3>
+<ul>
+<li>Fixed ability bugs.</li>
+<li>Fixed end-game chat.</li>
+<li>Day phase minimum timer is now 30s from 15s (unintended).</li>
+</ul>
+<h3>
+<a name="v415g-7-27-8" class="anchor" href="#v415g-7-27-8"></a>v4.1.5g (7-27)</h3>
+<ul>
+<li>Fixed Day 1 abilities like Imprison that didn’t show up</li>
+<li>Fixed reporting players at the end screen.</li>
+<li>Can no longer move pardon/exe window (it was bugging off the screen).</li>
+<li>Numerous quest progression bugs fixed.</li>
+</ul>
+<hr>
+<p><font color="cyan">THANKS everyone who helped test the early access security patch and reporting things to Discord <code>#bugs-dont-ping</code> !! The things that had to be done devastated many in-game scripts that can’t all be discovered with only 2 clients (my test environment).  You guys rock!!</font></p>
+<p>– Xblade @ <a href="https://discord.gg/tol">https://discord.gg/tol</a></p>
+            <p><small>2 posts - 1 participant</small></p>
+            <p><a href="https://forum.throneoflies.com/t/security-v4-1-5-stability-v4-1-6-patches/88320">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.throneoflies.com/t/security-v4-1-5-stability-v4-1-6-patches/88320</link>
+          <pubDate>Thu, 15 Jul 2021 07:04:53 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.throneoflies.com-topic-88320</guid>
+          <source url="https://forum.throneoflies.com/t/security-v4-1-5-stability-v4-1-6-patches/88320.rss">Security v4.1.5 + Stability v4.1.6 Patches</source>
+        </item>
+        <item>
+          <title>Patch v4.1.4: Less text, less confusion, higher-quality of life</title>
+          <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+          <category>Official Announcements</category>
+          <description><![CDATA[
+            <p><img src="https://forum.throneoflies.com/images/emoji/twitter/mega.png?v=9" title=":mega:" class="emoji" alt=":mega:"> We believe a solid foundation is important to build upon. This patch offers:</p>
+<ol>
+<li>Lower learning curve for new and returning players</li>
+<li>Less bloaty text for everyone, when hopping through class cards, glossary, or guide texts trying to find “that one thing”.</li>
+<li>Significantly-more accurate and less-confusing class cards, tips, glossary, guide, etc.</li>
+<li>Legibility of text (since it’s a text game!) with less “weight” and less homework to learn things.</li>
+<li>Quality of life: Things can get overwhelming fast – now, less so.</li>
+</ol>
+<h2>
+<a name="class-fixes-1" class="anchor" href="#class-fixes-1"></a>Class Fixes</h2>
+<ul>
+<li>Fixed nearly every reported inaccuracy within class cards (too many to list).</li>
+<li>Chronomancer’s <em>Distort Reality</em> abil feedback text to the victim no longer shows the incorrect text in green, as if it was a good thing happening you.</li>
+</ul>
+<h2>
+<a name="bug-fixes-2" class="anchor" href="#bug-fixes-2"></a>Bug Fixes</h2>
+<ul>
+<li>Fixed specific win conditions for quests.</li>
+<li>Suspended players will no longer get stuck at the login screen (and stuck “Loading…” from news): They should now properly see the popup and an explanation in the news area.</li>
+</ul>
+<h2>
+<a name="qol-3" class="anchor" href="#qol-3"></a>QoL</h2>
+<ul>
+<li>Clicking on an underlined link now has an animated arrow guide you to the exact term you are looking for:</li>
+</ul>
+<p>                    <a href="https://cdn.discordapp.com/attachments/580380189079502868/860036095005425674/lerp-cc-glossary.gif" target="_blank" rel="noopener" class="onebox">
+            <img src="https://cdn.discordapp.com/attachments/580380189079502868/860036095005425674/lerp-cc-glossary.gif" width="690" height="363">
+          </a>
+
+</p>
+<ul>
+<li>Streamlined numerous class cards, abilities and tips to get the point across with shorter, to-the-point descriptions. In addition, wording should now feel more-similar and streamlined. There may be some new “info passives” that simply explain deeper mechanics better.</li>
+<li>Changed all class card tips to be short bullet points.</li>
+<li>Fixed class card glossary/class links - they should all be clickable and accuracy, now.</li>
+<li>Tutorial now initially hides most the UI, then slowly introduces elements.</li>
+<li>Some UI elements are now draggable, where you shouldn’t be able to “lose” them off the screen:</li>
+</ul>
+          <div class="onebox video-onebox">
+            <video width="100%" height="100%" controls="">
+              <source src="https://thumbs.gfycat.com/RingedExhaustedCuscus-mobile.mp4">
+              <a href="https://thumbs.gfycat.com/RingedExhaustedCuscus-mobile.mp4" rel="noopener">https://thumbs.gfycat.com/RingedExhaustedCuscus-mobile.mp4</a>
+            </source></video>
+          </div>
+
+<ul>
+<li>Glossary links now work (to other parts of the glossary, or class cards).</li>
+<li>Glossary/class card links are now clickable from the rotating tips.</li>
+<li>Updated and streamlined glossary to have less text and be more-legible.
+<ul>
+<li>Also added new clickable terms (that interact via clicks from other places, such as class cards), such as Poison, Intensify and several player-meta terms.</li>
+</ul>
+</li>
+<li>Updated the Guide, similarly to above.</li>
+<li>Clickable neutral class links are sometimes <strong>bolded</strong> when seen with other white text. If you see other areas that have a good fit for this, treat it like a bug and toss it into Discord <span class="hashtag">#bug-report</span> (thanks!).</li>
+<li>Faction colors are now more-legible, dynamically changing based on the background: They are now brighter or darker, depending on what is more-legible to read. This should take effect throughout the game: Please report inconsistencies.</li>
+<li>All in-game class card links should now work — and added a few more acronyms for classes.</li>
+<li>Fixed in-game, automated mute system to be less confusing and more-informative; additionally, it now alerts you <em>how long</em> you’ll be [temporarily] muted for and <em>when</em> the mute lifts (almost ported to lobby, too, but delayed due to hackers):</li>
+</ul>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/b/f/bf6f5a25d61e9e5d2b32c1084f8de4168461f25f.jpeg" data-download-href="https://forum.throneoflies.com/uploads/default/bf6f5a25d61e9e5d2b32c1084f8de4168461f25f" title="image"><img src="https://forum.throneoflies.com/uploads/default/original/3X/b/f/bf6f5a25d61e9e5d2b32c1084f8de4168461f25f.jpeg" alt="image" data-base62-sha1="rjvLB60bC0OvjmbOWOTwdryArBt" width="690" height="310" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/b/f/bf6f5a25d61e9e5d2b32c1084f8de4168461f25f_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">724×326 49.8 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<ul>
+<li>Deathnote colors in the store no longer show a tier color, to prevent confusion:</li>
+</ul>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/9/f/9fa5aeb14dafe5985e6ffff7c475172d095fdfe8.jpeg" data-download-href="https://forum.throneoflies.com/uploads/default/9fa5aeb14dafe5985e6ffff7c475172d095fdfe8" title="image"><img src="https://forum.throneoflies.com/uploads/default/optimized/3X/9/f/9fa5aeb14dafe5985e6ffff7c475172d095fdfe8_2_690x360.jpeg" alt="image" data-base62-sha1="mMiTdODFDxdNFbeUCNgPC6YSKN2" width="690" height="360" srcset="https://forum.throneoflies.com/uploads/default/optimized/3X/9/f/9fa5aeb14dafe5985e6ffff7c475172d095fdfe8_2_690x360.jpeg, https://forum.throneoflies.com/uploads/default/original/3X/9/f/9fa5aeb14dafe5985e6ffff7c475172d095fdfe8.jpeg 1.5x, https://forum.throneoflies.com/uploads/default/original/3X/9/f/9fa5aeb14dafe5985e6ffff7c475172d095fdfe8.jpeg 2x" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/9/f/9fa5aeb14dafe5985e6ffff7c475172d095fdfe8_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">885×463 118 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<hr>
+<p>We thought we may as well toss you what we were working on before moving to anti-hack (next patch) <img src="https://forum.throneoflies.com/images/emoji/twitter/+1.png?v=9" title=":+1:" class="emoji" alt=":+1:"></p>
+<p>–Xblade @ <a href="https://discord.gg/tol">https://discord.gg/tol</a></p>
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.throneoflies.com/t/patch-v4-1-4-less-text-less-confusion-higher-quality-of-life/88284">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.throneoflies.com/t/patch-v4-1-4-less-text-less-confusion-higher-quality-of-life/88284</link>
+          <pubDate>Mon, 05 Jul 2021 04:52:44 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.throneoflies.com-topic-88284</guid>
+          <source url="https://forum.throneoflies.com/t/patch-v4-1-4-less-text-less-confusion-higher-quality-of-life/88284.rss">Patch v4.1.4: Less text, less confusion, higher-quality of life</source>
+        </item>
+        <item>
+          <title>Patch v4.1.4</title>
+          <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+          <category>Official Announcements</category>
+          <description><![CDATA[
+            <h2>
+<a name="colorredplaceholdercolor-1" class="anchor" href="#colorredplaceholdercolor-1"></a><font color="red">Placeholder</font>
+</h2>
+<p>Patch + notes arrive ~Mon @ midnight EST!</p>
+<h2>
+<a name="teaser-2" class="anchor" href="#teaser-2"></a>Teaser</h2>
+<p><a href="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/44fc2f56-c13f-4823-af16-108d0d561840/lerp-cc-glossary.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210701%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20210701T042649Z&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=08e7336eb928d11ed601f37fab84578d66f5c3bf807e4a64d5411a3f823c3183&amp;X-Amz-SignedHeaders=host" class="onebox" target="_blank" rel="noopener">https://s3.us-west-2.amazonaws.com/secure.notion-static.com/44fc2f56-c13f-4823-af16-108d0d561840/lerp-cc-glossary.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210701%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20210701T042649Z&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=08e7336eb928d11ed601f37fab84578d66f5c3bf807e4a64d5411a3f823c3183&amp;X-Amz-SignedHeaders=host</a></p>
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.throneoflies.com/t/patch-v4-1-4/88273">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.throneoflies.com/t/patch-v4-1-4/88273</link>
+          <pubDate>Thu, 01 Jul 2021 04:56:16 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.throneoflies.com-topic-88273</guid>
+          <source url="https://forum.throneoflies.com/t/patch-v4-1-4/88273.rss">Patch v4.1.4</source>
+        </item>
+        <item>
+          <title>Patch 4.1.3 Notes - The Quest System</title>
+          <dc:creator><![CDATA[DaDaSama]]></dc:creator>
+          <category>Official Announcements</category>
+          <description><![CDATA[
+            <p>Hear ye hear ye!</p>
+<blockquote>
+<p>To all my hero citizens out there, it is your time to shine! The Royal Court is announcing the brand new Quest system for all brave and adventurous citizens who are up for the challenge. The Royal Court will announce 3 quests per day (refreshed on 12:00 EST) with promises of gold. While the Royal Court is still perfecting the system, we welcome all citizens to give it a try and let us know your thoughts on it!</p>
+</blockquote>
+<blockquote>
+<p>The Royal Court has also updated the Law of Castle Adiart (Code of Conduct). Please read it carefully and obey them accordingly. Let us keep our land secure and safe for every citizen in Castle Adiart.</p>
+</blockquote>
+<h2>
+<a name="patch-highlights-1" class="anchor" href="#patch-highlights-1"></a><em><strong>Patch Highlights</strong></em>
+</h2>
+<ul>
+<li>
+<p>New Quest system (Beta)<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/7/1/719ca73ff93958472ec2a42ce0ae9b2ea2b18bb3.png" data-download-href="https://forum.throneoflies.com/uploads/default/719ca73ff93958472ec2a42ce0ae9b2ea2b18bb3" title="image 2"><img src="https://forum.throneoflies.com/uploads/default/optimized/3X/7/1/719ca73ff93958472ec2a42ce0ae9b2ea2b18bb3_2_690x270.png" alt="image 2" data-base62-sha1="gd3A6yuiGMeN1JPupiLnhS6rSuf" width="690" height="270" srcset="https://forum.throneoflies.com/uploads/default/optimized/3X/7/1/719ca73ff93958472ec2a42ce0ae9b2ea2b18bb3_2_690x270.png, https://forum.throneoflies.com/uploads/default/optimized/3X/7/1/719ca73ff93958472ec2a42ce0ae9b2ea2b18bb3_2_1035x405.png 1.5x, https://forum.throneoflies.com/uploads/default/optimized/3X/7/1/719ca73ff93958472ec2a42ce0ae9b2ea2b18bb3_2_1380x540.png 2x" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/7/1/719ca73ff93958472ec2a42ce0ae9b2ea2b18bb3_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image 2</span><span class="informations">2028×796 494 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+</li>
+<li>
+<p>New Code of Conduct</p>
+</li>
+</ul>
+<h2>
+<a name="class-balance-and-updates-2" class="anchor" href="#class-balance-and-updates-2"></a><em><strong>Class Balance and Updates</strong></em>
+</h2>
+<ul>
+<li>Fixed Butler’s 2x target in a row</li>
+</ul>
+<h2>
+<a name="system-and-game-improvements-3" class="anchor" href="#system-and-game-improvements-3"></a><em><strong>System and Game Improvements</strong></em>
+</h2>
+<ul>
+<li>Fixed friend invite bug.</li>
+<li>Minor bugs fixed.</li>
+</ul>
+<p>See you in the King’s Courtroom!</p>
+            <p><small>3 posts - 3 participants</small></p>
+            <p><a href="https://forum.throneoflies.com/t/patch-4-1-3-notes-the-quest-system/87997">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.throneoflies.com/t/patch-4-1-3-notes-the-quest-system/87997</link>
+          <pubDate>Thu, 03 Jun 2021 10:43:25 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.throneoflies.com-topic-87997</guid>
+          <source url="https://forum.throneoflies.com/t/patch-4-1-3-notes-the-quest-system/87997.rss">Patch 4.1.3 Notes - The Quest System</source>
+        </item>
+        <item>
+          <title>Patch v4.1.2 Notes - Vote-to-Start System</title>
+          <dc:creator><![CDATA[DaDaSama]]></dc:creator>
+          <category>Official Announcements</category>
+          <description><![CDATA[
+            <p>Hear ye hear ye!</p>
+<blockquote>
+<p>Tired of waiting for fellow citizens to join the game of deceit? The Royal Court proudly presents the new vote-to-start-early system! When there are 8+ citizens waiting for the next court, citizens can vote to start after 1 minute of wait, and the game of deceit will begin with more than 60% consent.</p>
+</blockquote>
+<blockquote>
+<p>With the global climate changes, the sun of Castle Adiart will shine upon our land 120s per Day, but note that the sun reacts to the number of deaths happening in Castle Adiart. With the increase of grieving souls floating around, the sunlight will also shorten until it reaches as low as 30s per Day. Nights will only be slightly longer (especially night 1). As citizens rely on the moon for night activities, the moon will glow upon Castle Adiart for 55s per Night. Citizens will have 40s to get familiar with the King’s Courtroom on Day 1. And the Royal Court decided to light up the castle with torch fire to welcome the citizens to King’s Courtroom, which grants an additional 10s to a total of 65s for citizen’s First Night activities.</p>
+</blockquote>
+<h2><em><strong>Patch Highlights</strong></em></h2>
+<ul>
+<li>Vote-to-start-early System LIVE: When there are 8+ citizens in the queue, citizens can vote to start the game early after 1 minute of waiting in the queue, with more than 60% of citizens vote for it.</li>
+<li>Time Adjustments:
+<ul>
+<li>Day time raised from 90s to 120s, with a falling timer with fewer citizens alive in the game. It can be as low as 30s.</li>
+<li>Nighttime raised from 45s to 55s, with a falling timer with fewer citizens alive in the game. It can be as low as 45s.</li>
+<li>The First Day is now 40s.</li>
+<li>The First Night is now 65s.</li>
+</ul>
+</li>
+</ul>
+<h2><em><strong>Class Balance and Updates</strong></em></h2>
+<ul>
+<li>Change Butler’s <em>Serve Wine</em> to be unable to use on the same target twice in a row.</li>
+<li>Chronomancer’s <em>Distort Reality</em> now notifies the victim it was moved to.</li>
+<li>Replace <em>Tenacity</em> from the Kings (minus Psycho King) to <em>Privileged</em>, allowing the Kings to talk during Trial.</li>
+<li>Replace Ritualist’s <em>Brotherhood</em> with <em>Intensify</em> with 2 charges.</li>
+<li>Reduce Court Wizard’s <em>Icy Veins</em> to 2 charges.</li>
+<li>Reduce Alchemist’s <em>Stoneskin</em> to 2 charges.</li>
+<li>Reduce Sellsword’s <em>Stonewall</em> to 3 charges.</li>
+<li>Reduce Observer’s <em>Overlook</em> to 3 charges.</li>
+<li>Change Sage to Offensive Class Type.</li>
+<li>Change Herbalist to Social Class Type.</li>
+<li>Unseen and Cult classes that cancel his/her night ability that is NOT a self/auto-targeted ability will now properly warn allies (self-auto already worked).</li>
+<li>Fixed Observer/Seeker flipped problem.</li>
+</ul>
+<h2><em><strong>UI and Tutorial</strong></em></h2>
+<ul>
+<li>Rearranged lobby header.</li>
+<li>Add collapsed “Knowledgebase” menu at the top-right for UI improvement.</li>
+<li>Move “Class Cards” to the top-left to be more dominant for UI improvement.</li>
+<li>Additional tutorial content on clickable chat links by Mastermind.</li>
+</ul>
+<h2><em><strong>System and Game Improvements</strong></em></h2>
+<ul>
+<li>Class Card Improvements</li>
+<li>Fixed class card stuck problem.</li>
+<li>Fixed class card underline links’ click-ability.</li>
+<li>Fixed logbook’s “Send to Chat” to pass multiple lines for readability.</li>
+<li>Fixed de-sync problem.</li>
+<li>Fixed the friend interaction bug.</li>
+<li>Remove class card scrollbars.</li>
+<li>Hover over abilities for longer class card descriptions no longer block by yellow memos.</li>
+<li>Press ESC to exit the glossary.</li>
+</ul>
+<p>See you in the King’s Courtroom!</p>
+            <p><small>29 posts - 12 participants</small></p>
+            <p><a href="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579</link>
+          <pubDate>Mon, 19 Apr 2021 09:43:25 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.throneoflies.com-topic-87579</guid>
+          <source url="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579.rss">Patch v4.1.2 Notes - Vote-to-Start System</source>
+        </item>
+        <item>
+          <title>Patch v4.1.1 Notes - No Public Court Fee</title>
+          <dc:creator><![CDATA[DaDaSama]]></dc:creator>
+          <category>Official Announcements</category>
+          <description><![CDATA[
+            <p>Greetings!</p>
+<blockquote>
+<p><strong>Hear ye hear ye! A change of tax regulation in Castle Adiart! The Royal Court will no longer charge a public court fee from this patch! Thanks to all good citizens for your feedback and comments. The Royal Court has heard you and decided to create a court fee-free environment for the beloved citizens of Castle Adiart (for public games). In addition, the Royal Court also made adjustments to the classes and faction rotation rate, improved the quality of citizen’s life by UI and tutorial improvements, and maintained the environment with bugs fixed. Come and join us in the courtroom to enjoy the game of deceit!</strong></p>
+</blockquote>
+<h2><em><strong>Patch Highlights</strong></em></h2>
+<ul>
+<li>Removed Public court fees.</li>
+<li>Reduced faction rotation period from 7 days to 4 days.</li>
+</ul>
+<h2><em><strong>Classes</strong></em></h2>
+<ul>
+<li>Mystic and Hunter are Unique classes again.</li>
+<li>Increased the probability of spawning investigative Blue Dragons variety.</li>
+<li>Fixed Maid’s Matchmake with a Fool in the game.</li>
+<li>Facelift, Exhume, Blood of Mithras, and Gather Darkness can no longer be canceled once used.</li>
+<li>If you are converted on a night that you were occupied or redirected, it will count towards granted immunity count (3 times grants immunity).</li>
+<li>Nobles can no longer use Political Pressure when there is no vote day (or max trials exceeded).</li>
+</ul>
+<h2><em><strong>UI and Tutorial</strong></em></h2>
+<ul>
+<li>New button link to the logbook examples at the top-left of the logbook.</li>
+<li>Updated in-game name appearance.</li>
+<li>Added a stay-in tutorial feature to get familiar with the UI before exiting tutorial mode.</li>
+</ul>
+<h2><em><strong>System and Game Improvements</strong></em></h2>
+<ul>
+<li>Fixed Gold de-syncs.</li>
+<li>Fixed emotes.</li>
+<li>Fixed empty-class bugs.</li>
+<li>Fixed Discord-related bugs.</li>
+<li>Fixed exiting game crash.</li>
+<li>Improved language filter.</li>
+<li>Citizens can open class cards during the tutorial after they are introduced.</li>
+</ul>
+<p>See you in the King’s Courtroom!</p>
+            <p><small>13 posts - 9 participants</small></p>
+            <p><a href="https://forum.throneoflies.com/t/patch-v4-1-1-notes-no-public-court-fee/87281">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.throneoflies.com/t/patch-v4-1-1-notes-no-public-court-fee/87281</link>
+          <pubDate>Tue, 30 Mar 2021 07:41:14 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.throneoflies.com-topic-87281</guid>
+          <source url="https://forum.throneoflies.com/t/patch-v4-1-1-notes-no-public-court-fee/87281.rss">Patch v4.1.1 Notes - No Public Court Fee</source>
+        </item>
+        <item>
+          <title>Patch v4.1.0 Notes - Faction Rotations</title>
+          <dc:creator><![CDATA[DaDaSama]]></dc:creator>
+          <category>Official Announcements</category>
+          <description><![CDATA[
+            <p>Greetings!</p>
+<blockquote>
+<p>The latest patch is live to help the new citizens to get familiar with life in Castle Adiart. Introducing Weekly Faction Rotation system - as loyal Blue Dragons, citizens are bound to study everything about the enemies - Unseen and Cult, to ensure the protection of the throne. With weekly rotation to face off one faction at a time, new loyal citizens will gradually understand how to investigate and defend themselves while new recruits of the dark side learn how to blend in and master the craft of deception. The Royal Court will also offer sample logbooks to help new citizens get on their feet! Come and join us in the courtroom to unveil the next truth!</p>
+</blockquote>
+<h2><em><strong>Patch Highlights</strong></em></h2>
+<ul>
+<li>New Faction Rotation System - Rotate Unseen and Cult game every Wednesday at 0:00 UTC.</li>
+<li>Class card logbook tab is available with Templates, Examples, and Notes.</li>
+</ul>
+<p><img src="https://forum.throneoflies.com/uploads/default/original/3X/1/8/18e1e0930b4ec780bc485738fda0d883f5eafe52.jpeg" alt="image (1)" data-base62-sha1="3y7oJXD4SyZ4leCiPJktbPT9vs6" width="494" height="173"></p>
+<h2><em><strong>System and Game Improvements</strong></em></h2>
+<ul>
+<li>Improved class card UI by keeping the last tab open.</li>
+<li>Improved class abilities UI by simplifying the wording for clarity. Hover over will reveal additional information.</li>
+</ul>
+<p>See you in the King’s Courtroom!</p>
+            <p><small>6 posts - 5 participants</small></p>
+            <p><a href="https://forum.throneoflies.com/t/patch-v4-1-0-notes-faction-rotations/87050">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.throneoflies.com/t/patch-v4-1-0-notes-faction-rotations/87050</link>
+          <pubDate>Fri, 12 Mar 2021 10:13:29 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.throneoflies.com-topic-87050</guid>
+          <source url="https://forum.throneoflies.com/t/patch-v4-1-0-notes-faction-rotations/87050.rss">Patch v4.1.0 Notes - Faction Rotations</source>
+        </item>
+        <item>
+          <title>Patch v4.0.3 Notes - New Quality of Life!</title>
+          <dc:creator><![CDATA[DaDaSama]]></dc:creator>
+          <category>Official Announcements</category>
+          <description><![CDATA[
+            <p>Greetings!</p>
+<blockquote>
+<p>A new patch is live to improve the quality of life in Castle Adiart. Introducing Tier Gem system - a brand new way to show off your favorite weapons to your opponents! In addition, the Shop is now upgraded with a filter feature. Citizens can now quickly identify what weapons are owned and what weapons are yet to be collected!</p>
+<p>Patch 4.03 offers some minor improvements to the gaming environment. Citizens of the Castle Adiart can now find game tips during the queue and enjoy a more secure and stable gameplay experience!</p>
+</blockquote>
+<h2><em><strong>Patch Highlights</strong></em></h2>
+<ul>
+<li>New Tier Gem system on gear.</li>
+<li>New filter feature in the Shop.</li>
+<li>New rotate tip feature during lobby and queue.</li>
+</ul>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/8/e/8e904d4daaaf3e40490f2de1e1376f084cb16244.jpeg" data-download-href="https://forum.throneoflies.com/uploads/default/8e904d4daaaf3e40490f2de1e1376f084cb16244" title="Gem"><img src="https://forum.throneoflies.com/uploads/default/optimized/3X/8/e/8e904d4daaaf3e40490f2de1e1376f084cb16244_2_690x396.jpeg" alt="Gem" data-base62-sha1="klaXUC4zv0hlwcShSpbNPQQ6q0c" width="690" height="396" srcset="https://forum.throneoflies.com/uploads/default/optimized/3X/8/e/8e904d4daaaf3e40490f2de1e1376f084cb16244_2_690x396.jpeg, https://forum.throneoflies.com/uploads/default/optimized/3X/8/e/8e904d4daaaf3e40490f2de1e1376f084cb16244_2_1035x594.jpeg 1.5x, https://forum.throneoflies.com/uploads/default/original/3X/8/e/8e904d4daaaf3e40490f2de1e1376f084cb16244.jpeg 2x" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/8/e/8e904d4daaaf3e40490f2de1e1376f084cb16244_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">Gem</span><span class="informations">1257×723 286 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div></p>
+<h2><em><strong>System and Game Improvements</strong></em></h2>
+<ul>
+<li>Improved item UI.</li>
+<li>Improved tips UI</li>
+<li>Improved game stabilities and minor bugs fixed.</li>
+</ul>
+<p>See you in the King’s Courtroom!</p>
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.throneoflies.com/t/patch-v4-0-3-notes-new-quality-of-life/86174">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.throneoflies.com/t/patch-v4-0-3-notes-new-quality-of-life/86174</link>
+          <pubDate>Tue, 09 Feb 2021 09:17:05 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.throneoflies.com-topic-86174</guid>
+          <source url="https://forum.throneoflies.com/t/patch-v4-0-3-notes-new-quality-of-life/86174.rss">Patch v4.0.3 Notes - New Quality of Life!</source>
+        </item>
+        <item>
+          <title>Patch v4.0.2 Notes - Celebrating the Year of Ox</title>
+          <dc:creator><![CDATA[DaDaSama]]></dc:creator>
+          <category>Official Announcements</category>
+          <description><![CDATA[
+            <p>Greetings!</p>
+<blockquote>
+<p>A new patch is live to improve the gaming environment in the King’s Courtroom! To celebrate the Year of Ox, all active citizens in the past 30 days shall receive 4000 Gold, and all new citizens of the King’s Courtroom will now start their new life with 5000 Gold! Hooray!</p>
+<p>Patch 4.02 offers some minor redecorations to improve the gaming environment! Citizens of the Castle Adiart can now find game tips in the lobby and enjoy a more secure and stable gameplay experience!</p>
+</blockquote>
+<h2><em><strong>Patch Highlights</strong></em></h2>
+<ul>
+<li>The Year of Ox event grants 4000 Gold to all players who have been active since January 1st, 2021.</li>
+<li>New registered players will start the game with 5000 Gold.</li>
+<li>We added a tip function in the lobby so players can enjoy miscellaneous game knowledge and tips during the queue.</li>
+</ul>
+<h2><em><strong>System and Game Improvements</strong></em></h2>
+<ul>
+<li>Fixed players’ logs format on copy and paste function.</li>
+<li>Improved Lobby UI by removing the number of players to avoid confusion.</li>
+<li>Improved BUY GOLD interface and functions.</li>
+<li>Improved moderation security and interface.</li>
+<li>Improved game stabilities and minor bugs fixed.</li>
+</ul>
+<p>See you in the King’s Courtroom!</p>
+            <p><small>2 posts - 2 participants</small></p>
+            <p><a href="https://forum.throneoflies.com/t/patch-v4-0-2-notes-celebrating-the-year-of-ox/85854">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.throneoflies.com/t/patch-v4-0-2-notes-celebrating-the-year-of-ox/85854</link>
+          <pubDate>Fri, 29 Jan 2021 09:55:31 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.throneoflies.com-topic-85854</guid>
+          <source url="https://forum.throneoflies.com/t/patch-v4-0-2-notes-celebrating-the-year-of-ox/85854.rss">Patch v4.0.2 Notes - Celebrating the Year of Ox</source>
+        </item>
+        <item>
+          <title>Patch v4.0.1 - Stability</title>
+          <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+          <category>Official Announcements</category>
+          <description><![CDATA[
+            <h2>Status</h2>
+<p>Live!</p>
+<h2>Desync/Stability Fixes</h2>
+<ul>
+<li>If someone leaves at the name selection screen, it’ll no longer desync the party (freeze 1 minute &gt;&gt; then throw you back into the lobby). Apologies this took so long to fix! <img src="https://forum.throneoflies.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:">
+</li>
+<li>Local gold cache should now be better sync’d with the server (eg, buying items, getting bonus gold, etc).</li>
+<li>Bonus gold now <em>always</em> factors in – not just when you get MVP and other odd cases. This includes MVP voting others (5 gp per), among other bonuses.</li>
+<li>Bonus gp is now properly separated from win/loss gold at the end screen.</li>
+<li>Fixed the lobby memory leak when you’re there for a long time.</li>
+</ul>
+<h2>Class Fixes</h2>
+<ul>
+<li>Scorned Incriminate abil now properly rewards marks as intended.</li>
+<li>If a Sorc gets silenced, and silence expires when they could normally use “Escape Fate” (at pardon/exe selection), they can now properly use it again.</li>
+<li>If a Sorc gets silenced, and silence expires <em>before</em> they can normally use “Escape Fate” in a trial, it will no longer allow it’s use.</li>
+<li>At a trial’s pardon/exe select phase, Noble/Aristo force vote abils will no longer allow its use.</li>
+<li>When Possessor’s Puppet Strings abil forces a player into a player shielded by the Merc, there will be better feedback that you were <strong>forced</strong> to attack.</li>
+<li>[4.0.1a] Sellsword can now self-target with <em>Stonewall</em> (thx <code>@Sellsword</code> + <code>@Amelia</code>)</li>
+</ul>
+<h2>Class Cards / Feedback</h2>
+<ul>
+<li>Seeker’s “Can’t Target King” feedback now adjusted to explain that it’s more of a fallback (the feedback is sync’d with feedback - I’ll add some exceptions at a later date).</li>
+<li>Fixed some class cards that target more than 1 player were showing  in feedback section instead of  (eg, a list of players).</li>
+<li>Wolf Companion’s “Not useable until D3” text moved to memo for consistency and less bloat.</li>
+<li>Added Inquisitor missing Heretic info about Prince+Hunter.</li>
+</ul>
+<h2>Fluff</h2>
+<ul>
+<li>If you’re a guest of a private room, you’ll now receive a toast saying {host name} treated you the court fee (free).
+<ul>
+<li><img src="https://forum.throneoflies.com/uploads/default/original/3X/3/9/3996acb4f1b389db133e5aeb94014a12d8fcfae2.png" alt="image" data-base62-sha1="8ds29waOOoD4XYthcztv9Uy0YBs" width="335" height="100"></li>
+</ul>
+</li>
+<li>Status icon text on the left no longer break to new lines when hovering over them.</li>
+<li>Silence icon prettied up a bit.</li>
+<li>Loading screen clipped text fixed that sometimes showed at tips.</li>
+<li>Less generic colors for you win/loss @ end screen.</li>
+<li>Player panel text now looks less pixelated in some resolutions.</li>
+<li>“You are now the private host” popup prettified.</li>
+</ul>
+<hr>
+<h2>Looking for the last major patch(es)?</h2>
+<aside class="quote quote-modified" data-post="1" data-topic="85089">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="20" height="20" src="/user_avatar/forum.throneoflies.com/í42-xblade/40/2827_2.png" class="avatar">
+    <a href="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089">Patch v4.0.0a: Throne goes FREE (F2P)!</a> <a class="badge-wrapper  bullet" href="/c/announcements/8"><span class="badge-category-bg" style="background-color: #F7941D;"></span><span style="" data-drop-close="true" class="badge-category clear-badge" title="Official staff announcements. Although you can’t post, you can reply.
+Chat @ https://discord.gg/tol">Official Announcements</span></a>
+  </div>
+  <blockquote>
+    Throne Goes Free-to-Play Dec 18th @ 6pm EST! (LIVE)
+ <a class="lightbox" href="https://i.imgur.com/meEjmFD.png" title="">[image]</a> 
+
+  <a href="https://www.youtube.com/watch?v=KuyrkHj7Tjg" target="_blank" rel="noopener">
+    [Throne of Lies: Medieval Politics - Gameplay Trailer v4 (F2P Relaunch)]
+  </a>
+
+
+
+
+
+
+Patch Status? LIVE (Dec 21)!
+
+When is F2P (UPDATED)? LIVE (Dec 23 @ 6pm EST)!
+
+Veterans? Vets claim an exclusive, crystal-flaired “Veteran” title + Veteran avatar~
+
+Queue Times? Expected to be seriously low (even during offpeak hours)! <img width="20" height="20" src="https://forum.throneoflies.com/images/emoji/twitter/tada.png?v=9" title="tada" alt="tada" class="emoji">
+
+
+Gold (gp)
+To better fit the f2p model, we have adjusted goldflow to be more progressive: 
+
+MVP gold now…
+  </blockquote>
+</aside>
+
+<hr>
+<p>–Xblade @ <a href="https://discord.gg/tol">https://discord.gg/tol</a></p>
+            <p><small>2 posts - 1 participant</small></p>
+            <p><a href="https://forum.throneoflies.com/t/patch-v4-0-1-stability/85436">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.throneoflies.com/t/patch-v4-0-1-stability/85436</link>
+          <pubDate>Tue, 05 Jan 2021 08:58:10 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.throneoflies.com-topic-85436</guid>
+          <source url="https://forum.throneoflies.com/t/patch-v4-0-1-stability/85436.rss">Patch v4.0.1 - Stability</source>
+        </item>
+        <item>
+          <title>Welcome to Forum of Lies! - Forum Hub</title>
+          <dc:creator><![CDATA[Chloe]]></dc:creator>
+          <category>Official Announcements</category>
+          <description><![CDATA[
+            <p><img src="https://i.imgur.com/cdLeUII.png" alt="Throne of Lies Banner" width="690" height="210"></p>
+<div align="center">
+Welcome to Forum of Lies!
+<p>This thread contains important links to help you navigate the forums.</p>
+ </div>
+<hr>
+<h1>
+<a name="div-aligncenter-rules-and-moderation-shield-div-1" class="anchor" href="#div-aligncenter-rules-and-moderation-shield-div-1"></a><div align="center"> Rules and Moderation <img src="https://forum.throneoflies.com/images/emoji/twitter/shield.png?v=9" title=":shield:" class="emoji" alt=":shield:"> </div>
+</h1>
+<p><a href="https://forum.throneoflies.com/t/global-forum-discord-game-meta-rules-please-read-first/244"><strong>Global Rules</strong></a><br>
+<a href="https://forum.throneoflies.com/t/official-forum-mafia-and-forum-of-lies-rules/78926"><strong>Forum Game Rules</strong></a><br>
+<a href="https://toli.es/legal"><strong>Terms of Service + Privacy Policy + GDPR</strong></a><br>
+<a href="https://forum.throneoflies.com/t/public-moderation-logs/82218">Public Moderation Logs</a><br>
+<a href="https://forum.throneoflies.com/t/list-of-forum-staff-volunteers-ordered-alphabetically/81361">List of Forum Staff/Volunteers</a></p>
+<hr>
+<h1>
+<a name="div-align-centerforum-games-male_detective-div-2" class="anchor" href="#div-align-centerforum-games-male_detective-div-2"></a><div align="center">Forum Games <img src="https://forum.throneoflies.com/images/emoji/twitter/male_detective.png?v=9" title=":male_detective:" class="emoji" alt=":male_detective:"> </div>
+</h1>
+<h2>
+<a name="hosting-fm-3" class="anchor" href="#hosting-fm-3"></a>Hosting FM</h2>
+<p><a href="https://forum.throneoflies.com/t/updated-official-hosting-guide/83521">Hosting Guide</a><br>
+<a href="https://forum.throneoflies.com/t/fm-queue-queues-and-submit-thread/79675">Queue Thread</a><br>
+<a href="https://forum.throneoflies.com/t/alternate-account-applications-beta/82086">Alternate Account Applications</a></p>
+<h2>
+<a name="playing-fm-4" class="anchor" href="#playing-fm-4"></a>Playing FM</h2>
+<p><a href="https://forum.throneoflies.com/t/guide-using-discourse/83609">Guide to Using Discourse</a><br>
+<a href="https://forum.throneoflies.com/t/guide-using-discourse-for-forum-mafia/83610">Guide to Using Discourse for FM</a></p>
+<h2>
+<a name="fol-information-5" class="anchor" href="#fol-information-5"></a>FoL Information</h2>
+<p><a href="https://forum.throneoflies.com/t/new-forum-of-lies-classcards-now-officially-official/87793">FoL Class Cards</a><br>
+<a href="https://forum.throneoflies.com/t/forum-of-lies-hosting-feedback-list/75082">FoL Hosting Feedback List</a></p>
+<hr>
+<h1>
+<a name="div-aligncenterthe-community-speech_balloon-div-6" class="anchor" href="#div-aligncenterthe-community-speech_balloon-div-6"></a><div align="center">The Community <img src="https://forum.throneoflies.com/images/emoji/twitter/speech_balloon.png?v=9" title=":speech_balloon:" class="emoji" alt=":speech_balloon:"> </div>
+</h1>
+<h2>
+<a name="useful-links-7" class="anchor" href="#useful-links-7"></a>Useful Links</h2>
+<p><a href="https://store.steampowered.com/app/595280/Throne_of_Lies_Medieval_Politics/">Throne of Lies Steam Store Page</a><br>
+<a href="https://www.throneoflies.com/">Throne of Lies Official Site</a><br>
+<a href="http://discord.gg/tol">Throne of Lies Discord</a><br>
+<a href="https://tol.fandom.com/wiki/Throne_of_Lies:_The_Online_Game_of_Lies_and_Deceit_Wikia">Throne of Lies Wiki</a><br>
+<a href="https://www.reddit.com/r/ThroneOfLiesGame/">Throne of Lies Subreddit</a><br>
+<a href="https://forum.throneoflies.com/t/new-thronepass-patreon-community-perks-forum-name-colors-titles-flairs/76833">Thronepass Patreon Perks</a></p>
+<h2>
+<a name="common-discussion-threads-8" class="anchor" href="#common-discussion-threads-8"></a>Common Discussion Threads</h2>
+<p><a href="https://forum.throneoflies.com/t/queue-status-site-fm-fol-state-of-things-discussion-thread-discuss-stuff-here-instead-of-in-the-queue-thread-going-forward/82430">Queue Discussion Thread</a><br>
+<a href="https://forum.throneoflies.com/t/fol-feedback-thread/36636">FoL Feedback Thread</a><br>
+<a href="https://forum.throneoflies.com/t/big-thread-of-birthdays/45506">Big Thread of Birthdays</a><br>
+<a href="https://forum.throneoflies.com/t/fol-awards-2021-nominations-thread/87187">FoL Awards - Nomination Thread</a><br>
+<a href="https://forum.throneoflies.com/t/discussion-introducing-the-forum-of-lies-awards/87059">FoL Awards - Discussion Thread</a><br>
+<a href="https://forum.throneoflies.com/t/list-of-completed-fm-games-2020/87205">List of Completed FM Games - 2020</a><br>
+<a href="https://forum.throneoflies.com/t/fol-games-2021-list-thread/87188">List of Completed FM Games - 2021</a></p>
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.throneoflies.com/t/welcome-to-forum-of-lies-forum-hub/85279">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.throneoflies.com/t/welcome-to-forum-of-lies-forum-hub/85279</link>
+          <pubDate>Tue, 22 Dec 2020 22:08:12 +0000</pubDate>
+          <discourse:topicPinned>Yes</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.throneoflies.com-topic-85279</guid>
+          <source url="https://forum.throneoflies.com/t/welcome-to-forum-of-lies-forum-hub/85279.rss">Welcome to Forum of Lies! - Forum Hub</source>
+        </item>
+        <item>
+          <title>Patch v4.0.0a: Throne goes FREE (F2P)!</title>
+          <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+          <category>Official Announcements</category>
+          <description><![CDATA[
+            <h1>Throne Goes Free-to-Play Dec 18th @ 6pm EST! (LIVE)</h1>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://i.imgur.com/meEjmFD.png" title=""><img src="https://i.imgur.com/meEjmFD.png" alt="" width="690" height="222"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename"></span><span class="informations">756×244</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div></p>
+<div class="onebox lazyYT lazyYT-container" data-youtube-id="KuyrkHj7Tjg" data-youtube-title="Throne of Lies: Medieval Politics - Gameplay Trailer v4 (F2P Relaunch)" data-parameters="feature=oembed&amp;wmode=opaque">
+  <a href="https://www.youtube.com/watch?v=KuyrkHj7Tjg" target="_blank" rel="noopener">
+    <img class="ytp-thumbnail-image" src="https://i.ytimg.com/vi/KuyrkHj7Tjg/maxresdefault.jpg" title="Throne of Lies: Medieval Politics - Gameplay Trailer v4 (F2P Relaunch)" width="690" height="388">
+  </a>
+</div>
+
+<aside class="quote quote-modified" data-post="1" data-topic="85006">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="20" height="20" src="/user_avatar/forum.throneoflies.com/í42-xblade/40/2827_2.png" class="avatar">
+    <a href="https://forum.throneoflies.com/t/throne-goes-free-to-play-dec-18th/85006/">Throne goes FREE to play Dec 18th!</a> <a class="badge-wrapper  bullet" href="/c/announcements/8"><span class="badge-category-bg" style="background-color: #F7941D;"></span><span style="" data-drop-close="true" class="badge-category clear-badge" title="Official staff announcements. Although you can’t post, you can reply.
+Chat @ https://discord.gg/tol">Official Announcements</span></a>
+  </div>
+  <blockquote>
+    <img width="20" height="20" src="https://forum.throneoflies.com/images/emoji/twitter/mega.png?v=9" title="mega" alt="mega" class="emoji"> I am excited to announce that Throne will be going FREE to play with our target relaunch date of December 18, 2020 @ 6pm EST! <img width="20" height="20" src="https://forum.throneoflies.com/images/emoji/twitter/tada.png?v=9" title="tada" alt="tada" class="emoji"><img width="20" height="20" src="https://forum.throneoflies.com/images/emoji/twitter/tada.png?v=9" title="tada" alt="tada" class="emoji"> 
+As always, we continue our commitment to no loot boxes, no pay-to-win. 
+This means many exciting things, such as lower queue times, new faces, and better offpeak timezone support, (We &lt;3 you, too, EU/Aussie players)! 
+As we grow, we want to thank all our veteran players that helped us reach this point: We’ll be tossing our premium players the exclusiv…
+  </blockquote>
+</aside>
+
+<ul>
+<li>
+<font color="red"><strong>Patch Status?</strong></font> LIVE (Dec 21)!</li>
+<li>
+<font color="red"><strong>When is F2P (UPDATED)?</strong></font> LIVE (Dec 23 @ 6pm EST)!</li>
+<li>
+<font color="red"><strong>Veterans?</strong></font> Vets claim an exclusive, <em>crystal-flaired</em> “Veteran” title + Veteran avatar~</li>
+<li>
+<font color="red"><strong>Queue Times?</strong></font> Expected to be seriously low (even during offpeak hours)! <img src="https://forum.throneoflies.com/images/emoji/twitter/tada.png?v=9" title=":tada:" class="emoji" alt=":tada:">
+</li>
+</ul>
+<h2><font color="red">Gold (gp)</font></h2>
+<p>To better fit the f2p model, we have adjusted goldflow to be more progressive:</p>
+<ul>
+<li>MVP gold now grants 200 gp</li>
+<li>MVP silver now grants 125 gp</li>
+<li>MVP bronze now grants 50 gp</li>
+<li>Public game wins now grant 70 gp</li>
+<li>Public game losses now grant 35 gp</li>
+<li>Private game wins now grant 30 gp</li>
+<li>Private game losses now grant 15 gp</li>
+<li>Gold for win/loss no longer decreases with less starting players</li>
+<li>Double gp weekends have been pending-shifted to double gp Thursdays to better support offpeak hours – for launch weekend, we’ll keep double gp <em>weekend</em> around for one more go <img src="https://forum.throneoflies.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:">
+</li>
+</ul>
+<h2><font color="red">Court Fees</font></h2>
+<p>Introducing <em>Court Fees</em>:</p>
+<p><font color="cyan"><strong>Why court fees?</strong></font></p>
+<ul>
+<li>
+<p>Instead of bloating our store with finite items, jacking up the prices 10x, and having updates concentrate only on the <em>store</em> (like many other f2p games do), this route allows us to concentrate on the <strong>game</strong> like we did while premium.</p>
+</li>
+<li>
+<p>This way, we don’t have to shove buying gold in your face! We calculated it: <strong>It’s pretty much impossible to go broke</strong> (you even get gold when you lose; we also won’t allow players to buy items if it’ll mean they’ll go below 50gp).</p>
+</li>
+<li>
+<p>To further aid this, we’ll continuously add more promo/progression goodies to help get more bonuses (eg, login promos and achievements are planned). Isn’t it nice that we can actually concentrate on login promos / achievements / progression <strong>instead of just store items</strong>? This is why court fees!</p>
+</li>
+</ul>
+<p><strong>Mechanics:</strong></p>
+<ul>
+<li>
+<p>When you start a public game and fully enter the game without being disconnected, there will be a 50gp “court fee” consumed.</p>
+</li>
+<li>
+<p><strong>Introducing Court Ticket:</strong> If you go &lt;50gp and try to play, we’ll give you a free ticket to play a public (or semi-private) match. For now, you have unlimited: Later, we’ll port them to login bonuses (that can stack up to a maximum — meaning, you can have free entries even if you <em>can</em> afford it).</p>
+<ul>
+<li><img src="https://forum.throneoflies.com/uploads/default/original/3X/0/9/0920c69a26bb6ebb66950de7c7029723fa9cebb8.png" alt="image" data-base62-sha1="1iKwbbExnDnS2ETomwOotIHANrq" width="349" height="289"></li>
+</ul>
+</li>
+<li>
+<p>Court fees (and game info) is now displayed when you hover over the start/create buttons.</p>
+</li>
+<li>
+<p>Public court fee public reserves are checked <em>before</em> you queue up or create a room.</p>
+</li>
+<li>
+<p>Once you get in game, you will receive a toast (bottom-right popup) notifying court fee withdrawn.</p>
+</li>
+<li>
+<p>Private Games</p>
+<ul>
+<li>
+<p>Semi Private (1~15p) court fee = 50 gp (same as public; merged into public queue)</p>
+</li>
+<li>
+<p>100% Private (16p) court fee = 500gp (Host pays; all guests play FREE)</p>
+<ul>
+<li>
+<strong>^ Why?</strong> 100% private means -16 players in the queue, to encourage public queues. However, this also can lead to cool things like a gold-rich player treating the community to a hosted game with 0 court fees (eg, drop a Discord link invite). We can do something cool with this later.</li>
+</ul>
+</li>
+<li>
+<p>If a private room “Queues as Group” (now called “Merge into Public”), the 50gp court fee will be consumed as if queued publicly</p>
+</li>
+<li>
+<p>Yes, if you have 15 (out of 16), you may still merge into public for normal, public court fees.</p>
+</li>
+<li>
+<p>Guests of the private room are <strong>free</strong>, courtesy of the host, as long as they don’t “Queue as Group” (where it’ll revert back to public court fees).</p>
+</li>
+<li>
+<p>The host will be notified of the private court fee when they click “Start”.</p>
+</li>
+<li>
+<p>If you host a private game, but you leave or d/c, the new host will be prompted about the 500gp court fee (in case it’s unexpected) if they click the <em>Start Privately</em> button.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Leaving a room will not charge you court fees unless you’re already in-game (Day 1+). You are not actually charged until you’re confirmed to be in the game without issues.</p>
+</li>
+<li>
+<p>You cannot purchase a new item without having a leftover 50gp public court fee reserve (we’ll make sure you don’t “oops”). <strong>It’s going to be almost impossible <em>to actually go broke</em>.</strong></p>
+</li>
+</ul>
+<h2><font color="red">Customization Shop</font></h2>
+<ul>
+<li>
+<p><font color="red"><strong>New <em>Perpetual</em> (Available outside <em>Snowcrest</em>), Winter-Themed Avatars:</strong></font></p>
+<ol>
+<li>Snow King</li>
+<li>Snowine</li>
+<li>Snow God Mithras</li>
+</ol>
+</li>
+<li>
+<p><font color="red"><strong>New <em>Perpetual</em> (Available outside <em>Snowcrest</em>), Winter-Themed Titles:</strong></font></p>
+<ol>
+<li>Icecrafter</li>
+<li>Snowmancer</li>
+<li>Frosty One</li>
+</ol>
+</li>
+<li>
+<p><em>Rune of Focus</em> weapon temporarily disabled due to execution animation issues.</p>
+</li>
+<li>
+<p><em>Trueshot Crossbow</em> weapon temporarily disabled due to execution animation issues and possibly freezing the game.</p>
+</li>
+<li>
+<p>Customization shop prices been adjusted to better match the new f2p model (more up, some down).</p>
+</li>
+<li>
+<p>We have added 2 new gold buying options:</p>
+<ul>
+<li>
+<strong>Tier 5:</strong> 100,000gp for $49.99</li>
+<li>
+<strong>Tier 6:</strong> 250,000gp for $99.99</li>
+</ul>
+</li>
+<li>
+<p>Refreshed the “buy gold” art to look way more satisfying since we’re now <em>solely supported</em> by this <img src="https://forum.throneoflies.com/images/emoji/twitter/joy.png?v=9" title=":joy:" class="emoji" alt=":joy:"></p>
+</li>
+</ul>
+<h2><font color="red">Balance</font></h2>
+<ol>
+<li>
+<p><strong>Remove Telepathy from Mystic, Apostle and Illusionist</strong></p>
+<ul>
+<li>Ever since whisper meta’s stopped, this ability has lost it’s purpose, and is currently used similarly to the old <em>Noble Twin</em> ability, which was removed because it had no actual purpose other than day-confirming the noble.</li>
+</ul>
+</li>
+<li>
+<p><strong>Hunters Mark: Cancel on redirection</strong></p>
+<ul>
+<li>This brings <em>Hunters Mark</em> abil in line with <em>Cold Steel</em> - all while making it less frustrating to use in certain situations.</li>
+</ul>
+</li>
+<li>
+<p><strong>Give Apostle and Illusionist 2 charges of “Trollbox” with a new, more fitting name "Sinister Echoes"</strong></p>
+<ul>
+<li>This ability fits thematically well into the classes, being a <em>social</em> ability and accomplishing similar things to the current <em>Telepathy</em> abil:</li>
+</ul>
+</li>
+</ol>
+<ul>
+<li><div class="lightbox-wrapper"><a class="lightbox" href="https://i.imgur.com/DWSdtyT.png" title=""><img src="https://i.imgur.com/DWSdtyT.png" alt="" width="690" height="362"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename"></span><span class="informations">1679×883</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div></li>
+<li><div class="lightbox-wrapper"><a class="lightbox" href="https://i.imgur.com/VS2Fb5p.png" title=""><img src="https://i.imgur.com/VS2Fb5p.png" alt="" width="690" height="360"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename"></span><span class="informations">1710×893</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div></li>
+</ul>
+<ol start="4">
+<li>
+<p><strong>Increase charges of “Expose” on Seeker to 2</strong></p>
+<ul>
+<li>This change aims at making <em>starting</em> Seeker be more in line with other <em>starting</em> Cultists.</li>
+</ul>
+</li>
+<li>
+<p><strong>Allow Enforcer to target himself with “Protection”. Also, allow Sellsword to target herself with "Stonewall"</strong></p>
+<ul>
+<li>"This will help them protect themselves from being found as evil as well as reduce the chance of players being able to confirm anyone as unable to be either of those classes.</li>
+<li>This will also allow players to more-easily fake offensive classes - all while reducing the overall confirmability of those.</li>
+</ul>
+</li>
+<li>
+<p><strong>Reduce charges of “Ritualist Brotherhood” to 2.</strong></p>
+<ul>
+<li>Ritualist is currently the strongest Cult convert; this change is aimed at <em>reducing</em> it’s power while making Paladin <em>less frustrating</em> to play.</li>
+</ul>
+</li>
+<li>
+<p><strong>Allow Invoker to target Cult members as second target with "String of Mithras"</strong></p>
+<ul>
+<li>Allowing the Invoker to redirect into Cult members allows him to potentially redirect protectives into fellow cult members, offering some utility to the abil.</li>
+</ul>
+</li>
+<li>
+<p><strong>Don’t allow non-Possessor force votes to be used, unless there can currently be a trial.</strong></p>
+<ul>
+<li>Currently, Noble’s <em>force vote</em> primarily gets used to confirm yourself as the Noble after the trial happened, which goes against the spirit of the ability.</li>
+</ul>
+</li>
+<li>
+<p><strong>Scorned Mark now persists until a new target is marked at night.</strong></p>
+<ul>
+<li>Getting occupied as Scorned was extremely frustrating. This change allows for the Scorned to still be able to push their win condition, unless they were both occupied and their previous target was killed by other means.</li>
+</ul>
+</li>
+<li>
+<p><strong>Sheriff “Scout” will no longer be useable Day 1</strong></p>
+<ul>
+<li>Being found as visited Night 1 has very little counterplay and can swing the game heavily; not just due to conversions, but also because this commonly got the <em>Neutral Killer</em> executed early. This issue became even bigger with multiple Sheriffs in the game.</li>
+</ul>
+</li>
+</ol>
+<h2><font color="red">Class Fixes</font></h2>
+<ul>
+<li>Raised <em>Bear Traps</em> abil priority to allow <em>Intensify</em> abil to work with it.</li>
+<li>
+<em>Puppet Strings</em> abil feedback now shows the correct target <strong>1</strong>’s name (instead of target 2).</li>
+<li>Removed <em>Intensify</em> mention for occupy immune feedback.</li>
+</ul>
+<h2><font color="red">Other Fixes/Improvements</font></h2>
+<ul>
+<li>
+<p>Fixed MVP bonus gp</p>
+</li>
+<li>
+<p>Set server’s in-game player timeout timer (TTL) from 0 &gt;&gt; to 5 seconds.</p>
+<ul>
+<li>This will hopefully allow people to experience less disconnects, with the timeframe short enough to hopefully not experience desyncs. This is experimental (but tested in test realm).</li>
+</ul>
+</li>
+<li>
+<p>In lobby, hovering over any of the center play buttons to play will now reveal the “classic mode” info (formerly only if you hovered over the mode banner) and now shows the “court fee” amounts</p>
+</li>
+<li>
+<p>Toggling <em>show FPS</em> in-game will now instantly toggle when applied (instead of next game)</p>
+</li>
+</ul>
+<h2><font color="red">Fluff</font></h2>
+<ul>
+<li>Pending new key art/logo by Adiart (top banner preview) - like it? <img src="https://forum.throneoflies.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:">
+</li>
+<li>Lobby buttons at the bottom-right are now less bloaty.</li>
+<li>Tutorial NPCs now have an assortment of weapons.</li>
+<li>More-consistent use of “Xgp” vs “X gp”</li>
+<li>More consistent customization shop layout.</li>
+<li>Customization shop now orders from owned &gt;&gt; price &gt;&gt; alphabetical. <em>Filters coming soon!</em>
+</li>
+<li>Tutorial can no longer be skipped.</li>
+<li>Win7 users will no longer see video previews for weps and emotes (Win7 is missing the modern Windows media packs and shows a white screen).</li>
+</ul>
+<h2><font color="red">Pre-Registrant Reward?</font></h2>
+<p>If you visited our promo link <em>before</em> we went F2P and registered your email (that matches your in-game email), you’ll be marked as a pre-registrant: Shortly after the dust settles, we’ll reward ya as promised! Give us a bit to code this <img src="https://forum.throneoflies.com/images/emoji/twitter/hourglass.png?v=9" title=":hourglass:" class="emoji" alt=":hourglass:"></p>
+<hr>
+<p>We thank our new partners to contributing to this magic <img src="https://forum.throneoflies.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> Missed the intro? See Discord <span class="hashtag">#news</span></p>
+<p>We know both veterans and new players, alike, have asked us repeatedly to go F2P - This has been a ton of work over an incredibly short period of time. We hope you enjoy it!</p>
+<p>–Xblade @ <a href="https://discord.gg/tol">https://discord.gg/tol</a></p>
+            <p><small>62 posts - 20 participants</small></p>
+            <p><a href="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089</link>
+          <pubDate>Thu, 17 Dec 2020 07:42:17 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.throneoflies.com-topic-85089</guid>
+          <source url="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089.rss">Patch v4.0.0a: Throne goes FREE (F2P)!</source>
+        </item>
+        <item>
+          <title>Throne goes FREE to play Dec 18th!</title>
+          <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+          <category>Official Announcements</category>
+          <description><![CDATA[
+            <p><img src="https://forum.throneoflies.com/images/emoji/twitter/mega.png?v=9" title=":mega:" class="emoji" alt=":mega:"> I am excited to announce that <em>Throne</em> will be going <strong>FREE</strong> to play with our target relaunch date of <strong>December 18, 2020</strong> @ 6pm EST! <img src="https://forum.throneoflies.com/images/emoji/twitter/tada.png?v=9" title=":tada:" class="emoji" alt=":tada:"><img src="https://forum.throneoflies.com/images/emoji/twitter/tada.png?v=9" title=":tada:" class="emoji" alt=":tada:"></p>
+<p>As always, we continue our commitment to no loot boxes, no pay-to-win.</p>
+<p>This means many exciting things, such as lower queue times, new faces, and better offpeak timezone support, (We &lt;3 you, too, EU/Aussie players)!</p>
+<p>As we grow, we want to thank all our veteran players that helped us reach this point: We’ll be tossing our premium players the exclusive  title (that will be the 1st title to stand out by more than just words) as well as the exclusive Veteran avatar. We urge our current veterans to take advantage of the premium goldflow/prices before we switch over~</p>
+<p>–<br>
+<img src="https://forum.throneoflies.com/images/emoji/twitter/moneybag.png?v=9" title=":moneybag:" class="emoji" alt=":moneybag:"> <strong>Claim 1,000gp</strong> shortly after the relaunch by simply pre-registering with your email here:</p>
+<p><a href="https://toli.es/goldpromo">https://toli.es/goldpromo</a></p>
+<p><strong>Current Users:</strong> After pre-registering, be sure to update your email in your in-game “Account” section if you skipped out on email during registration via the newsletter sub section.</p>
+<p><strong>Users awaiting F2P:</strong> In-game, be sure to use the same email used in the pre-registration link above. Then <em>wishlist</em> us @ <a href="https://store.steampowered.com/app/595280">https://store.steampowered.com/app/595280</a></p>
+<hr>
+<p><font color="red">*<strong>More info in Discord <span class="hashtag">#news</span></strong></font></p>
+<p>–Xblade @ <a href="https://discord.gg/tol">https://discord.gg/tol</a></p>
+            <p><small>18 posts - 14 participants</small></p>
+            <p><a href="https://forum.throneoflies.com/t/throne-goes-free-to-play-dec-18th/85006">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.throneoflies.com/t/throne-goes-free-to-play-dec-18th/85006</link>
+          <pubDate>Mon, 07 Dec 2020 03:41:54 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.throneoflies.com-topic-85006</guid>
+          <source url="https://forum.throneoflies.com/t/throne-goes-free-to-play-dec-18th/85006.rss">Throne goes FREE to play Dec 18th!</source>
+        </item>
+        <item>
+          <title>Winter Event with Mafia Colosseum! - Forum Event</title>
+          <dc:creator><![CDATA[Chloe]]></dc:creator>
+          <category>Official Announcements</category>
+          <description><![CDATA[
+            <div align="center"> 
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/4/d/4d5bbace52659e18584b7f597dbaba8a0dccd95d.jpeg" data-download-href="https://forum.throneoflies.com/uploads/default/4d5bbace52659e18584b7f597dbaba8a0dccd95d" title="image"><img src="https://forum.throneoflies.com/uploads/default/optimized/3X/4/d/4d5bbace52659e18584b7f597dbaba8a0dccd95d_2_690x259.jpeg" alt="image" data-base62-sha1="b2liiQ0kog3yGkzzRR6ZCPJyw21" width="690" height="259" srcset="https://forum.throneoflies.com/uploads/default/optimized/3X/4/d/4d5bbace52659e18584b7f597dbaba8a0dccd95d_2_690x259.jpeg, https://forum.throneoflies.com/uploads/default/original/3X/4/d/4d5bbace52659e18584b7f597dbaba8a0dccd95d.jpeg 1.5x, https://forum.throneoflies.com/uploads/default/original/3X/4/d/4d5bbace52659e18584b7f597dbaba8a0dccd95d.jpeg 2x" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/4/d/4d5bbace52659e18584b7f597dbaba8a0dccd95d_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">878×330 84 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div></p>
+<h1><font color="e62020"><strong>Happy Holidays!</strong></font></h1>
+</div>
+<p>To celebrate another year of Throne of Lies, as well as the upcoming holidays, we’ve worked together with <a href="https://www.mafiacolosseum.com/threads/welcome-to-the-winter-event.500"><strong>Mafia Colosseum</strong></a> to create some fun games and activities for you all to enjoy.</p>
+<h2>Forum Games</h2>
+<ul>
+<li>
+<p><strong><a class="mention" href="/u/osieorb18">@osieorb18</a>’s Micro League</strong> - <a href="https://www.mafiacolosseum.com/threads/the-cyberiad-mafia-micro-mini-league-signups-1-14.499/"><strong>SIGNUPS</strong></a></p>
+<p><em>Trurl and Klapaucius are two genius robot constructors who travel around the universe aiding those in need. This 14-player anonymous mafia league is the story of the Seven (Nine) major Sallies into Space of Trurl and Klapaucius.</em></p>
+<ul>
+<li>Hosted on Mafia Colosseum</li>
+<li>14 players</li>
+<li>Anonymous</li>
+<li>Closed setups</li>
+<li>Phases are 48/24</li>
+<li>Starts as soon as it fills!</li>
+</ul>
+</li>
+<li>
+<p><strong><a class="mention" href="/u/datbird">@DatBird</a>’s JoJo’s Part 7 Forum Mafia - <a href="https://www.mafiacolosseum.com/threads/jojos-bizarre-adventure-part-7-forum-mafia-signups-6-19.498/">SIGNUPS</a></strong></p>
+<p><em>A rolemadness game based on Part 7 of the fan favorite manga/anime JoJo’s Bizarre Adventure</em></p>
+<ul>
+<li>Hosted on Mafia Colosseum</li>
+<li>19 players</li>
+<li>Closed setup</li>
+<li>Phases are 48/24</li>
+<li>Starts December 14th</li>
+</ul>
+</li>
+<li>
+<p><strong><a class="mention" href="/u/arete">@Arete</a>’s JoatJoatJoat13</strong></p>
+<p>JoaTJoaTJoaT13 is an open set-up where every power role is a JoaT. Since it has 3 JoaTs, it’s 1.5x better than JoaT^2.</p>
+<ul>
+<li>Hosted on Forum of Lies</li>
+<li>13 players</li>
+<li>Open setup</li>
+<li>Phases are 48/24</li>
+<li>Starts December 21st</li>
+</ul>
+</li>
+</ul>
+<h2>Other Activities</h2>
+<p>Don’t have time for FM? Join us on our Event Discord to participate in other games and activities such as:</p>
+<ul>
+<li>Live Mafia</li>
+<li><a href="http://Skribbl.io">Skribbl.io</a></li>
+<li>Keep Talking and Nobody Explodes</li>
+<li>Jackbox Party Packs</li>
+<li>Blood on the Clocktower</li>
+<li>Among Us</li>
+<li>Wolfia</li>
+<li>Simulwatch</li>
+</ul>
+<p><strong>Schedule updates and announcements can be found on the FoL/MC Crossover Discord Server! We hope to see you there!</strong></p>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico" class="site-icon" width="32" height="32">
+      <a href="https://discord.com/invite/W33GY7m3QX" target="_blank" rel="noopener">Discord</a>
+  </header>
+  <article class="onebox-body">
+    <img src="https://cdn.discordapp.com/icons/777038513509105664/aa145e660f44578ddeaab09fdaef040c.jpg?size=256" class="thumbnail onebox-avatar" width="256" height="256">
+
+<h3><a href="https://discord.com/invite/W33GY7m3QX" target="_blank" rel="noopener">Join the FoL/MC Crossover Discord Server!</a></h3>
+
+<p>Check out the FoL/MC Crossover community on Discord - hang out with 74 other members and enjoy free voice and text chat.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p><em>Reminder: By playing on Mafia Colosseum, you agree to follow their <a href="https://www.mafiacolosseum.com/threads/forum-rules.9/#post-34">rules</a>. Breaking any rules during this event will lead to consequences on both sites.</em></p>
+            <p><small>39 posts - 17 participants</small></p>
+            <p><a href="https://forum.throneoflies.com/t/winter-event-with-mafia-colosseum-forum-event/84896">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.throneoflies.com/t/winter-event-with-mafia-colosseum-forum-event/84896</link>
+          <pubDate>Tue, 01 Dec 2020 04:14:39 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.throneoflies.com-topic-84896</guid>
+          <source url="https://forum.throneoflies.com/t/winter-event-with-mafia-colosseum-forum-event/84896.rss">Winter Event with Mafia Colosseum! - Forum Event</source>
+        </item>
+        <item>
+          <title>Forum.imperium42 &gt;&gt; is now forum.throneoflies.com</title>
+          <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+          <category>Official Announcements</category>
+          <description><![CDATA[
+            <p>For a number of reasons, but mostly to split i42 stuff from tol stuff (publishers like it), we have moved from <a href="http://forum.imperium42.com">forum.imperium42.com</a> to <a href="http://forum.throneoflies.com">forum.throneoflies.com</a> ~</p>
+<ul>
+<li>Update bookmarks: Links with cached bookmarks do weird things.</li>
+<li>Links should now work again as long as they’re from <a href="http://forum.throneoflies.com">forum.throneoflies.com</a>
+</li>
+<li>oAuth2 (“login with {something}”) works again EXCEPT for FB, for now: FB didn’t like we changed hosts so fast, so awaiting an unblock. I suggest an alt for the time being since they said COVID slowed down approval process and it is now weekend.</li>
+</ul>
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.throneoflies.com/t/forum-imperium42-is-now-forum-throneoflies-com/84220">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.throneoflies.com/t/forum-imperium42-is-now-forum-throneoflies-com/84220</link>
+          <pubDate>Sat, 10 Oct 2020 01:04:16 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.throneoflies.com-topic-84220</guid>
+          <source url="https://forum.throneoflies.com/t/forum-imperium42-is-now-forum-throneoflies-com/84220.rss">Forum.imperium42 &gt;&gt; is now forum.throneoflies.com</source>
+        </item>
+        <item>
+          <title>Mini Patch v3.0.2: 3rd Anniversary Event + Draggables</title>
+          <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+          <category>Official Announcements</category>
+          <description><![CDATA[
+            <p><div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/d/c/dccad214405692ce40e07965c1ab6364631d2280.png" data-download-href="https://forum.throneoflies.com/uploads/default/dccad214405692ce40e07965c1ab6364631d2280" title="AVATAR_KINGSLAYER_2020-512"><img src="https://forum.throneoflies.com/uploads/default/optimized/3X/d/c/dccad214405692ce40e07965c1ab6364631d2280_2_375x375.png" alt="AVATAR_KINGSLAYER_2020-512" data-base62-sha1="vvdAfuJoDGx6roy7gIWhBBmlTZ6" width="375" height="375" srcset="https://forum.throneoflies.com/uploads/default/optimized/3X/d/c/dccad214405692ce40e07965c1ab6364631d2280_2_375x375.png, https://forum.throneoflies.com/uploads/default/original/3X/d/c/dccad214405692ce40e07965c1ab6364631d2280.png 1.5x, https://forum.throneoflies.com/uploads/default/original/3X/d/c/dccad214405692ce40e07965c1ab6364631d2280.png 2x" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/d/c/dccad214405692ce40e07965c1ab6364631d2280_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">AVATAR_KINGSLAYER_2020-512</span><span class="informations">512×512 92.5 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div></p>
+<h2><font color="lime">Event: 3rd Anniversary</font></h2>
+<ul>
+<li>To celebrate our 3rd anniversary, @ those that login within the next 2~3 weeks, you will be rewarded with an exclusive, progressive title and avatar similar to the previous anniversary rewards.</li>
+<li><div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/e/8/e84a8653730cda9b7368d3ab257e1779decd011a.jpeg" data-download-href="https://forum.throneoflies.com/uploads/default/e84a8653730cda9b7368d3ab257e1779decd011a" title="image"><img src="https://forum.throneoflies.com/uploads/default/original/3X/e/8/e84a8653730cda9b7368d3ab257e1779decd011a.jpeg" alt="image" data-base62-sha1="x8WrnvPhXLtBUqQYcAwr0vTsYJk" width="609" height="500" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/e/8/e84a8653730cda9b7368d3ab257e1779decd011a_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">814×668 151 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div></li>
+<li>To those that hang out within our Discord ( <a href="https://discord.gg/tol">https://discord.gg/tol</a> ) shortly after this patch launches, you will receive an exclusive/colored <code>Kingslayer III</code> role that will never be handed out again. We will do a small purge before we hand out this role, so be sure you’ve participated at least once within the past month!</li>
+<li>Ends Oct 31</li>
+</ul>
+<h2><font color="lime">Event: Moon Festival</font></h2>
+<p><img src="https://forum.throneoflies.com/uploads/default/original/3X/8/b/8b268ccd3aea19d85e342d37828ee2931d5a5357.jpeg" alt="moonFestivalBanner" data-base62-sha1="jQYXBCFMGChFzNpGlUXBwa8ODDp" width="512" height="256"></p>
+<ul>
+<li>Ends Oct 31</li>
+</ul>
+<h2>New/Impr</h2>
+<ul>
+<li>
+<s>You now have the ability to <strong>disable</strong> chat clicky links in options. Although it says glossary links, this also applies to class card links in chat.</s> (Requires further testing for a future update)</li>
+<li>When you click your class portrait at the top-left, it will now always open <em>your class</em> card. Pressing TAB will continue “resuming” whatever the previous class card was.</li>
+<li>Tutorial now mentions the <strong>glossary</strong> for acronyms.</li>
+<li>Added a new “draggable” cursor (the compass-like one) for things draggable.</li>
+<li>Added new draggable goodies (that, like chat, reset each game):
+<ul>
+<li>Whisper panel</li>
+<li>Pardon/Execute panel</li>
+<li>“Step Forward” button (the outside area)</li>
+</ul>
+</li>
+<li>Allowed the chat to resize larger and wider (ability buttons on top).</li>
+<li>Chat resizer is now less “wonky” (for lack of a better word) after exceeding max thresholds.</li>
+<li>Draggables demo:<br>
+<img src="https://forum.throneoflies.com/uploads/default/original/3X/a/e/ae66169a784014d0eb1ab410297271a4f578d46d.png" alt="image" data-base62-sha1="oSNNMOfkJ477XjngsYlspzZZ4HH" width="386" height="140"><br>
+<img src="https://forum.throneoflies.com/uploads/default/original/3X/2/9/2946b46ef90c26e82137c583e4e4a2b36c80ac50.jpeg" alt="image" data-base62-sha1="5T93LbGW3kCBqlagyuckSUdEunS" width="483" height="276">
+</li>
+</ul>
+<h2>Fixes</h2>
+<ul>
+<li>Sorc’s day abils should be more consistent.</li>
+<li>You can no longer see friends online that are in different regions to prevent confusion when joining/inviting would fail.</li>
+<li>You can no longer receive queued invites from those in another region (it would fail, anyway, if accepted - this is just less confusing).</li>
+<li>Fixed garbled class card description when you clicked a link before your normally entering class cards.</li>
+<li>Emotes buttons fixed.</li>
+<li>Suicide <em>“are you sure?”</em> panel will no longer show preemptively.</li>
+<li>Fix a style typo for “Poison ended your life” feedback to King.</li>
+<li>More of a workaround than a fix: <em>Spectator Mode</em> has been temporarily disabled while we fix the bugs that are preventing matches from starting.</li>
+<li>Fixed Snare Trap abil that was literally showing %TARGET% instead of target name.</li>
+<li>Fixed bad translation key for MVP panel for starting King (eg, “B_D_KING–SOMETHING”).</li>
+<li>You may now click-thru the winner banner when the game is ending</li>
+<li>Potentially fixed early-game “fake disconnects” that now check for a heartbeat at NIGHT 1 instead of day 1 (perhaps some folks loaded in slow).</li>
+<li>Potentially fixed disconnected players’ death that would sometimes occur the <em>following</em> night (bug) instead of the immediate night (intended).</li>
+<li>MVP no longer awards bonus gp in private matches (sorry folks, ancient bug).</li>
+<li>Name selection, when changing names, will now correctly show the old&lt;&gt;new names.</li>
+<li>Merc’s extra brilders will now offer the bonus gp promised.</li>
+<li>Fixed tutorial journal button that should now properly open the journal, once it’s enabled (outside the normal force click).</li>
+</ul>
+<h2>Chinese Only</h2>
+<details>
+<summary>
+僅中文 (Click to Expand)</summary>
+<h2>僅中文</h2>
+<ol>
+<li>因應中文玩家反映，白天時間由90秒延長至110秒。（由於中文輸入較英文耗時，因此調整以便配合英語地區的節奏）</li>
+<li>移除中文職業名稱旁的英文名稱。（主要方便作者在中文版本測試間，能更快解決bug而設）</li>
+<li>修正MVP及玩家介面的中文化bug。</li>
+<li>修正結算版面 開始及終結 時的職業中文名稱。</li>
+<li>修正由中文玩家 <span class="hashtag">#feedback所報告的漢化問題。</span>（感謝中文玩家的報告！請繼續協助我們找出更多漢化出現的問題）</li>
+<li>修正玩家介面中，首王的顯示錯誤 （例如：“B_D_KING–SOMETHING”）</li>
+<li>我們在2019年時發現並向開發團隊報告了一項，當輸入中文並轉換成英文時所造成的<a href="https://forum.unity.com/threads/tmp-breaking-chinese-bugs-for-traditional-zhuyin-bopomofo-taiwan-locale.717308/#post-6343383">IME bug</a>，開發團隊將會在未來數天內完成修正，並盡快提出修正。</li>
+</ol>
+<p>謝謝 <code>@bAo</code> 的翻譯！</p>
+<h2>Chinese Only (English)</h2>
+<ul>
+<li>
+<strong>Day timer increased from 90s &gt;&gt; 110s</strong> by popular demand (takes longer to type Chinese than English, so this should better match the English region’s pace).</li>
+<li>English class names next to the Chinese ones have been removed (mostly used during Chinese alpha to resolve bugs faster as an English speaker).</li>
+<li>MVP and player panel localization bugs fixed.</li>
+<li>End screen start/final classes list is now localized.</li>
+<li>Misc English localizations now in Chinese that were reported to <a class="hashtag" href="/c/feedback/12">#<span>feedback:</span></a> Thanks! Please report more unexpected English, as seen.</li>
+<li>Fixed bad translation key for player panel for starting King (eg, “B_D_KING–SOMETHING”).</li>
+<li>We are aware of the IME bug that messes up typing Chinese and swaps to English: <a href="https://forum.unity.com/threads/tmp-breaking-chinese-bugs-for-traditional-zhuyin-bopomofo-taiwan-locale.717308/#post-6343383">This is a <strong>unity</strong> bug</a> for a bug report we submitted in 2019. The dev claims they will have a patch ready “within the next few days”. As soon as it’s available (see above link for updates), we’ll patch it in.</li>
+</ul>
+</details>
+<hr>
+<h2>Recent Discord Poll Result</h2>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/6/d/6d542aee1fa0ec209e7e42331502148ab1ed2f29.png" data-download-href="https://forum.throneoflies.com/uploads/default/6d542aee1fa0ec209e7e42331502148ab1ed2f29" title="image"><img src="https://forum.throneoflies.com/uploads/default/original/3X/6/d/6d542aee1fa0ec209e7e42331502148ab1ed2f29.png" alt="image" data-base62-sha1="fBan6Np4gBiNftkGHP0gZNxItg5" width="690" height="351" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/6/d/6d542aee1fa0ec209e7e42331502148ab1ed2f29_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">765×390 44.4 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div></p>
+<hr>
+<h2>Related</h2>
+<ul>
+<li><a href="https://forum.throneoflies.com/t/mini-patch-v3-0-1-clicky-links/83893" class="inline-onebox">Mini Patch v3.0.1: Clicky Links</a></li>
+<li><a href="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299" class="inline-onebox">Patch v3.0.0: Major Balance / 中文 Chinese Localization</a></li>
+</ul>
+            <p><small>2 posts - 1 participant</small></p>
+            <p><a href="https://forum.throneoflies.com/t/mini-patch-v3-0-2-3rd-anniversary-event-draggables/84133">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.throneoflies.com/t/mini-patch-v3-0-2-3rd-anniversary-event-draggables/84133</link>
+          <pubDate>Wed, 30 Sep 2020 15:52:51 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.throneoflies.com-topic-84133</guid>
+          <source url="https://forum.throneoflies.com/t/mini-patch-v3-0-2-3rd-anniversary-event-draggables/84133.rss">Mini Patch v3.0.2: 3rd Anniversary Event + Draggables</source>
+        </item>
+        <item>
+          <title>Mini Patch v3.0.1: Clicky Links</title>
+          <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+          <category>Official Announcements</category>
+          <description><![CDATA[
+            <h2>New</h2>
+<ul>
+<li>
+<font color="lime"><strong><span class="bbcode-u"><a href="https://www.youtube.com/watch?v=HEXWRTEbj1I">Underlined links</a></span> are finally clickable! And more:</strong></font>
+<ul>
+<li>Class cards (both lobby and in-game) now open glossary upon clicking underlined keywords.</li>
+<li>In-game chat will underline and faction color class names to show it’s clickable. This is for both system chat and player chat.</li>
+<li>Common acronyms are also clickable from player chat, such as “cw” for court wizard.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://cdn.discordapp.com/attachments/580380189079502868/754954862084489276/2020-09-14_14-38-39.gif" title=""><img src="https://cdn.discordapp.com/attachments/580380189079502868/754954862084489276/2020-09-14_14-38-39.gif" alt="" width="576" height="500"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename"></span><span class="informations">646×560</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div><br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://cdn.discordapp.com/attachments/580380189079502868/757421689763004456/unknown.png" title=""><img src="https://cdn.discordapp.com/attachments/580380189079502868/757421689763004456/unknown.png" alt="" width="690" height="195"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename"></span><span class="informations">833×236</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div>
+</li>
+</ul>
+</li>
+</ul>
+<h2>Major Fixes</h2>
+<ul>
+<li>Better spawning: While it’s too hard to test without a full match, <em>in theory</em>:
+<ul>
+<li>Mercs should now be unique - for real (we hope).</li>
+<li>Paladins and Sheriffs should no longer go over max expected # (ancient rare bug).</li>
+<li>If one of these bug fixes worked, they likely <em>all</em> worked.</li>
+</ul>
+</li>
+</ul>
+<h2>Minor Fixes</h2>
+<ul>
+<li>Fixed survey issues.</li>
+<li>Fixed a couple silence icon issues.</li>
+<li>You will no longer see “you gained <strong>0</strong> brilders!” We’ll only show <em>positive</em> gains (since 0 is assumed).</li>
+<li>Hide day abilities on game over with fancy fade.</li>
+<li>Moved MVP vote over more to the right.</li>
+<li>Fixed MVP anchoring for misc resolutions that’d “shift” the panel over to the right.</li>
+</ul>
+<h2>Chinese</h2>
+<ul>
+<li>[Major] Fixed Seeker that was not returning the type.</li>
+<li>Patched in some missing Chinese that was still English. Let me know, if more!</li>
+<li>Fixed some vertically-misaligned buttons.</li>
+<li>English surveys will no longer show for Chinese locale.</li>
+<li>Localized the end screen.</li>
+</ul>
+            <p><small>5 posts - 3 participants</small></p>
+            <p><a href="https://forum.throneoflies.com/t/mini-patch-v3-0-1-clicky-links/83893">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.throneoflies.com/t/mini-patch-v3-0-1-clicky-links/83893</link>
+          <pubDate>Mon, 21 Sep 2020 01:30:47 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.throneoflies.com-topic-83893</guid>
+          <source url="https://forum.throneoflies.com/t/mini-patch-v3-0-1-clicky-links/83893.rss">Mini Patch v3.0.1: Clicky Links</source>
+        </item>
+        <item>
+          <title>Patch v3.0.0: Major Balance / 中文 Chinese Localization</title>
+          <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+          <category>Official Announcements</category>
+          <description><![CDATA[
+            <p><img src="https://media3.giphy.com/media/IhgYbAyKiPxs0k3VPY/giphy.gif" alt="" width="480" height="270"></p>
+<ul>
+<li>
+<strong>Status:</strong> LIVE (Patch notes final)</li>
+<li>
+<strong>Short URL:</strong> <a href="https://toli.es/patch-v3">https://toli.es/patch-v3</a>
+</li>
+</ul>
+<h1><font color="ff3535"><strong>Major Balance Changes (x13)</strong></font></h1>
+<p>The thought process behind each balance change will be bulleted below.</p>
+<h2>
+<img src="https://forum.throneoflies.com/uploads/default/original/3X/5/c/5c5a6eb7077cc9afca4f07b4ca3e4ead3a00a2c6.png" alt="blueDragon-128x128" data-base62-sha1="daZG28QX5ZwfVuPMyVl7ESIRVxc" width="32" height="32"> <font color="#0097ED">Blue Dragon (Balance)</font>
+</h2>
+<p><strong><font color="#ff3535">1. Court Wizard received an ability set revamp.</font></strong></p>
+<ul>
+<li><div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/9/d/9dd022d2ed5f04981ff132ae10d3ff97bb775398.jpeg" data-download-href="https://forum.throneoflies.com/uploads/default/9dd022d2ed5f04981ff132ae10d3ff97bb775398" title="image"><img src="https://forum.throneoflies.com/uploads/default/optimized/3X/9/d/9dd022d2ed5f04981ff132ae10d3ff97bb775398_2_690x330.jpeg" alt="image" data-base62-sha1="mw4TjOefYat0T2tqepMbw7xsK0g" width="690" height="330" srcset="https://forum.throneoflies.com/uploads/default/optimized/3X/9/d/9dd022d2ed5f04981ff132ae10d3ff97bb775398_2_690x330.jpeg, https://forum.throneoflies.com/uploads/default/original/3X/9/d/9dd022d2ed5f04981ff132ae10d3ff97bb775398.jpeg 1.5x, https://forum.throneoflies.com/uploads/default/original/3X/9/d/9dd022d2ed5f04981ff132ae10d3ff97bb775398.jpeg 2x" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/9/d/9dd022d2ed5f04981ff132ae10d3ff97bb775398_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">950×455 154 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div></li>
+<li>The old <em>Empower</em> abil was a complicated mess for multiple reasons: It was hard to understand for new players, sometimes even for veterans - and for all that, it wasn’t even satisfying to use.</li>
+<li>By giving the player more control over what their primary night action does to any target of their choice, the class should overall become a lot more enjoyable to play and a ton easier to understand for newcomers. By further adding separate ability names, descriptions and icons to bind to memory, this further helps streamline the learning process for all players.</li>
+<li>To prevent temporary immunity to occupy and redirection, yet still allow the CW to be occupyable/redirectable (sort of a paradox), we had to be creative: In this approach, the CW will “undo” an occupy/redirection – therefore, when this happens, it will be revealed that the CW intensified you. <strong>Example:</strong><br>
+<img src="https://forum.throneoflies.com/uploads/default/original/3X/c/9/c99dc435e9d5dc5e45f6527aed11e7f23e7dfa8c.png" alt="image" data-base62-sha1="sLzZ2RqPKmkeJQ4O2qsvaMgjRyk" width="649" height="173">
+</li>
+<li>As a bonus, <em>Empower</em> was not scalable at all - happy to see it go away from a dev’s perspective.</li>
+</ul>
+<p><strong><font color="#ff3535">2. Increased Observer’s spawn chance to be higher (similar to other BD).</font></strong></p>
+<ul>
+<li>The Observer, despite being equally balanced to other classes, had a rarer spawn chance due to a previous version of him being very strong. However, after the previous nerf, it should no longer disrupt balance.</li>
+<li>Allowing the Observer to spawn more often will allow players to experience more content and make it easier for new players to get into the game because it will remove an <em>unwritten exception</em> to the spawn rules.</li>
+<li>This should also saturate the potential spawns, making other classes appear less often, giving players a higher chance to play different classes and more-likely to not end up with 3 of the same class.</li>
+</ul>
+<p><strong><font color="#ff3535">3. Chronomancer’s <em>Distort Reality</em> abil is now unable to pick the King as 2nd target.</font></strong></p>
+<ul>
+<li>Distorting Reality had a risk of moving a delayed death to a strong Blue Dragon class. This could be bypassed by moving it to the King, because he is not only able to protect himself, but also a potential evil class. By picking King as the 2nd target, the Chronomancer was able to rather safely defuse the delayed death, as well as potentially kill the King. Additionally, because of the previous removal of Drunk’s <em>Debauch</em> targeting to King, this change should also be added to the game for similar reasons of no BD penalty for killing the King.</li>
+</ul>
+<h2>
+<img src="https://forum.throneoflies.com/uploads/default/original/3X/7/7/774d5ba10fc81850fcd4cee1c8cd2c046729e6fc.png" alt="unseen-32" data-base62-sha1="h1oyzk2oXiWyzpfFvYrC2nJ8UVu" width="32" height="32"> <font color="#AA017D">Evil (Balance)</font>
+</h2>
+<p><strong><font color="#ff3535">1. Mastermind loses <em>Little Bird</em> day ability.</font></strong></p>
+<ul>
+<li>AKA “Bolt the Bird” nerf, <em>Little Bird</em> was an ability capable of stopping players from whispering <em>simply by existing</em>. This meant that it effectively removes one of the major mechanics in the game: <em>whispering</em>. Because of this, alternative ways of sharing information were strongly discouraged.</li>
+<li>It has come to the point where a Mastermind isn’t even required to use his ability or even spawn for players to still be terrified of it’s strength. As such, we would like to see how the game fares without the paranoia and limitations created by this singular ability.</li>
+<li>If this reverts back to all-whisper metas (shame on you ;p), we can always come back to this in some compromised form.</li>
+</ul>
+<h2>
+<img src="https://forum.throneoflies.com/uploads/default/original/3X/7/4/7424cd02b12eb4ee598216a5433fbced0104ca82.png" alt="neutral-white-128" data-base62-sha1="gzsenH13SoZYFSCg9OYPTCRSLDQ" width="32" height="32"><img src="https://forum.throneoflies.com/uploads/default/original/3X/d/2/d2ee422fa528869e2a308ee345cfc7a1ba48399b.png" alt="killer" data-base62-sha1="u5YJAJ6sGdd61GRjXzYp1UWIZzJ" width="32" height="32">  <font color="white">Neutral Killer (Balance)</font>
+</h2>
+<p><strong><font color="#ff3535">1. Replaced the Sorcerer’s <em>Bomb Swap</em> abil to <em>Escape Fate</em>.</font></strong></p>
+<ul>
+<li>
+<blockquote>
+<p><img src="https://forum.throneoflies.com/uploads/default/original/3X/f/1/f167d3cd960134d9bdd01e80e0afca05d0ce0fd8.png" alt="image" data-base62-sha1="yrzwcOkHxDliXDMeTO45qZbIF28" width="540" height="146"></p>
+</blockquote>
+</li>
+<li>We will change up the pardon messages to either be King <strong>or</strong> Sorcerer.</li>
+<li>
+<em>Bomb Swap</em> was rarely used and, in most situations, <em>a waste of a day for the Sorcerer</em>.</li>
+<li>She also had trouble later in the game when numbers get lower. While the other NKs could control the court during the day and avoid being voted up (<em>Reap</em> and <em>Silence</em> type abils, as well as <em>Force Vote</em> type abils), Sorc was left with no additional help to protect herself from being voted out. Because of this, it’s difficult to win with her.</li>
+<li>That said, a <em>Force Pardon</em> type ability helps her end the game in a victory without being dependent on other Neutrals.
+<blockquote>
+<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/1/d/1dbfa0d915492508c1265a3e46367aecc8f898cf.jpeg" data-download-href="https://forum.throneoflies.com/uploads/default/1dbfa0d915492508c1265a3e46367aecc8f898cf" title="image"><img src="https://forum.throneoflies.com/uploads/default/optimized/3X/1/d/1dbfa0d915492508c1265a3e46367aecc8f898cf_2_584x499.jpeg" alt="image" data-base62-sha1="4fapjVhcnGE6lc8PDUzIfFx4i3Z" width="584" height="499" srcset="https://forum.throneoflies.com/uploads/default/optimized/3X/1/d/1dbfa0d915492508c1265a3e46367aecc8f898cf_2_584x499.jpeg, https://forum.throneoflies.com/uploads/default/original/3X/1/d/1dbfa0d915492508c1265a3e46367aecc8f898cf.jpeg 1.5x, https://forum.throneoflies.com/uploads/default/original/3X/1/d/1dbfa0d915492508c1265a3e46367aecc8f898cf.jpeg 2x" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/1/d/1dbfa0d915492508c1265a3e46367aecc8f898cf_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">834×714 289 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div><p></p>
+</blockquote>
+</li>
+</ul>
+<p><strong><font color="#ff3535">2. Reaper’s <em>Circle of Death</em> # of souls cost lowered from 2 to <strong>1</strong>.</font></strong></p>
+<ul>
+<li>
+<em>Circle of Death</em>, due to it’s originally-high cost of 2 souls, and <em>another</em> 1 soul you wouldn’t get from using <em>Reap</em>, is a rather <strong>big investment for little gain</strong>.</li>
+<li>Lowering the cost of the ability allows players to use it more often and without the big risk it currently creates for the Reaper. 1-cost <em>Circle</em> also allows the Reaper to use it N1 without risking death - which would be a bigger risk for outing early as a priority Blue Dragon class.</li>
+</ul>
+<p><strong><font color="#ff3535">3. Reaper’s <em>Circle of Death</em> can now target <em>himself</em> and the <em>King</em>.</font></strong></p>
+<ul>
+<li>This adds some utility to the ability by letting the Reaper <em>Circle</em> himself to prevent investigatives from finding him that night and possibly preventing a resurgence of the <em>Whisper King Meta</em>.</li>
+</ul>
+<h2>
+<img src="https://forum.throneoflies.com/uploads/default/original/3X/7/4/7424cd02b12eb4ee598216a5433fbced0104ca82.png" alt="neutral-white-128" data-base62-sha1="gzsenH13SoZYFSCg9OYPTCRSLDQ" width="32" height="32"> <font color="white">Neutral Non-Killer (Balance)</font>
+</h2>
+<p><strong><font color="#ff3535">1. Sellsword’s <em>Initimidate</em> abil has been swapped out with <em>Divert</em>:</font></strong></p>
+<ul>
+<li>
+<blockquote>
+<p><img src="https://forum.throneoflies.com/uploads/default/original/3X/5/b/5b15065c5ad91c3f633e7299d8f38490e22be407.png" alt="image" data-base62-sha1="cZKuI4JdlxOl4iXeEKgmtq3477F" width="426" height="123"></p>
+</blockquote>
+</li>
+<li>Originally, <em>Intimidate</em> overlapped in its use with <em>Stonewall</em>, as well as having the chance of occupying your allies. This made <em>Intimidate</em> an ability you would rather want to <strong>avoid</strong> using.</li>
+<li>Changing it to a <em>Debauchery</em>-like ability offers Sellswords the ability to help out their allies without disrupting their actions, as well as it would allow them to redirect healers into their bleeding allies. This change would also make Drunk a more-difficult class to confirm which would overall improve the balance of the game.</li>
+</ul>
+<p><strong><font color="#ff3535">2. Inquisitor can no longer target the <em>starting</em> King with his abilities.</font></strong></p>
+<ul>
+<li>The <em>starting</em> King could never be heretic, anyway. The only reason why you would want to attack him is to step up as Neut King, which is not a proper usage of Ruthless Efficiency (some people stab King n1 to step as King d2 to not have to play Inq). <em>Elected</em> Kings need to be targetable still, since there can be heretic elected Kings.</li>
+</ul>
+<p><strong><font color="#ff3535">3. Inquisitor <em>heretics</em> are now only non-King Blue Dragon faction members (with the exception of Prince/Hunter).</font></strong></p>
+<ul>
+<li>Being a Cult/Unseen <em>heretic</em> didn’t not feel good, especially for Unseen – because starting Assassin is extremely important to the faction due to the <em>Apprentice</em> abil passive.</li>
+<li>It also didn’t feel good for Inquisitors, themselves, since there are various scenarios where said <em>heretic</em> Assassin could become the next Mastermind; therefore becoming effectively unkillable at night.</li>
+<li>In addition to the above, this change may make Inquisitors reconsider an open-claim less – which would contribute to solving the issue of open-claiming neutrals.</li>
+</ul>
+<p><strong><font color="#ff3535">4. Mercenary is now unique.</font></strong></p>
+<ul>
+<li>
+<img src="https://forum.throneoflies.com/images/emoji/twitter/warning.png?v=9" title=":warning:" class="emoji only-emoji" alt=":warning:"><font color="red"><strong>CURRENTLY NOT WORKING</strong> – will fix when we find the cause</font>
+</li>
+<li>Mercenary is a very influential and helpful for the Blue Dragons Neutral class. Her abilities focus on protecting others, so most players are rather open to keeping her around. Due her ability of being able to protect and deny abilities to this extent, she was made <strong>Unique</strong>, in a way to balance her.</li>
+<li>Additionally, when 2 Mercenaries spawn, the one that has the lower number has an easier way of winning due to how core mechanics of priorities work (if 2 Mercenaries Guard the same target the one with the lower number gets awarded with the occupation). This makes being the 2nd one to spawn a rather big pain and disheartening.</li>
+</ul>
+<p><strong><font color="#ff3535">5. Increase the amount of Brilders required for Mercenary to win from 6 <strong>to 7</strong></font></strong></p>
+<ul>
+<li>Mercenary already has her fairly easy-to-fulfill win condition: By removing a few sources of <em>occupation</em> this patch, this class will now have it <em>even easier</em> to fulfill her win condition; so making it slightly more-difficult to win seems like an appropriate balance.</li>
+</ul>
+<p><strong><font color="#ff3535">6. The Fool’s <em>Poor Fellow</em> passive abil punishment reduced to just <strong>1-day</strong> always.</font></strong></p>
+<ul>
+<li>The Fool, after being executed, stops any further executions for some time. Due to how easily it can be given, the old way was <em>too punishing</em> for players. Losing 2 days of trials was very disruptive to gameplay and, depending on the situation, it can even lose games for Blue Dragon.</li>
+<li>Reducing punishment to only 1 day should make it less of a pain, while still making players be on the lookout for Fools.</li>
+</ul>
+<p><font color="lime"><strong>Thank you dev panel members for taking lead on the direction of this balance patch!</strong></font></p>
+<hr>
+<h2>Notable Class Fixes</h2>
+<ul>
+<li>Reaper (and possibly other 2-day-ability classes) cancel exploits fixed.</li>
+<li>Maid’s <em>Matchmake</em> abil will no longer sometimes show no feedback. Thx <code>@Kaien</code> + <a class="mention" href="/u/planterror">@Planterror</a>
+</li>
+<li>Maid’s <em>Matchmake</em> abil will have better matches vs Mastermind’s <em>In The Shadows</em> passive abil.</li>
+<li>Fixed the old bug where Drunk wasn’t receiving feedback for using <em>Debauchery</em> abil on a target that used a 0-target ability (such as Mystic’s <em>Mind Link</em> abil). Thx <a class="mention" href="/u/stoneage">@Stoneage</a> + <a class="mention" href="/u/arete">@Arete</a>
+</li>
+<li>Fixed a rare bug major bug (that’s been here since launch that was hard to catch) that caused desyncing when creating a new game, caused by room names not being unique. This was rejecting every server call since the room name was looking at an OLD game that wasn’t live. This fixed a few combo bugs that sometimes occurred:
+<ul>
+<li>Follow bugs</li>
+<li>Rich presence bugs</li>
+<li>Gp cache not matching server</li>
+<li>Bonus gp grants (eg, Brilders/death abils)</li>
+<li>Skewed stats</li>
+<li>Failed reporting a player</li>
+<li>Anything relating to relying on a check based on the room name (surely several others)</li>
+</ul>
+</li>
+<li>
+<em>Debauchery</em>-type abils now works again with 2-target abilities.</li>
+<li>Numerous ability resolve priorities have been altered to prevent unexpected theoretical combo errors due to order used, such as missing Gossip among other oddities (from inconveniences to major bugs) due to priority orders.</li>
+<li>Psycho King’s attack, when target is death immune, will now show the same feedback that others see. Thx <code>@Torino</code>
+</li>
+<li>Fixed <em>Heal</em> showing CNH instead of DNR for an active Possess.</li>
+<li>
+<em>Matchmake</em> will now return <em>Incompatible</em> if Scorned is matched with someone framed.</li>
+<li>Fixed 2-target abilities that shouldn’t allow targeting the King in target panel <strong>2</strong>.</li>
+<li>Fixed Chronomancer’s <em>Pocket Dimension</em> to work vs bleeding out.</li>
+<li>
+<em>Inquisitor’s</em> attack will no longer result in DNR instead of CNH for the healer.</li>
+<li>Ritualist’s <em>Teleportation</em> target 2 panel can no longer target the King.</li>
+<li>
+<em>Hunter’s Mark</em> abil’s occupy mini-revamped: Should work way better, now.
+<ul>
+<li>Eg, vs Sorcerer, among others.</li>
+<li>Still may not work properly vs Knight, however (WIP - this ability’s code is a pain <img src="https://forum.throneoflies.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> ).</li>
+</ul>
+</li>
+<li>Fixed targeting for abils that would allow self-targeting in 2nd target panel, but not 1st; such as <em>Strings of Mithras</em>
+</li>
+<li>Apostle can no longer use <em>Cult Pressure</em> on other Cult members (definitely not intended :P)</li>
+<li>Sorcerer’s “You sensed something was off” feedback has returned.</li>
+<li>Fixed Chrono’s <em>Pocket Dimension</em> not working when you die from a bleed when you use <em>Time Warp</em> at night.</li>
+<li>Better status syncing between masters to prevent weirdness.</li>
+<li>When healing someone recently smited, it now shows “Could Not Heal” instead of something else.</li>
+<li>
+<em>Stand Guard</em> no longer awards brilders to those already occ immune.</li>
+<li>
+<em>Hunters Mark</em> no longer says that you attacked “and occupied” them if you didn’t occ them (eg, they were occ immune).</li>
+<li>Butler’s <em>Concentrated Wine</em> abil no longer bypasses occupy immunity.</li>
+<li>If you get occupied on a night you get converted, that night now counts towards occ immunity.</li>
+<li>Physician’s <em>Heal</em> now gives proper CNH feedback to unhealable attacks.
+<ul>
+<li>Note that Self Heal probably does <em>not</em> - will work on this in a future mini patch.</li>
+</ul>
+</li>
+</ul>
+<h2>Minor Class Fixes</h2>
+<ul>
+<li>Fixed Inquisitor’s <em>Interrogate</em> abil grammar. Thx <code>@Kaien</code>
+</li>
+<li>Fixed contradicting wording of <em>Matchmake</em> abil description. Thx <code>@Corn</code>
+</li>
+<li>Aristocrat’s <em>Intrigue</em> abil description now matches exceptions to <em>Gossip</em>. Thx <code>@thereaper633</code>
+</li>
+<li>Fixed some feedback “perspective bugs” (eg, target&lt;&gt;“you” or target&lt;&gt;“sameTargetButShouldntBe”).
+<ul>
+<li>These get confusing: If you see anymore of these bugs, please include as many details as possible. If you redirected someone, please let me know what classes they ended up being.</li>
+</ul>
+</li>
+<li>Fixed Conduit %TARGET% feedback.</li>
+<li>Added memo to Paladin’s <em>Smite</em> ability that it bypasses death immunity for clarity.</li>
+<li>Fixed for “x, y and z” list-style feedback errors (fixes or&lt;&gt;and &amp; misplaced periods). Thx <a class="mention" href="/u/stoneage">@Stoneage</a>
+<blockquote>
+<p><img src="https://forum.throneoflies.com/uploads/default/original/3X/4/a/4ae22f48600db9026b573a5f04336751f2833110.png" alt="image" data-base62-sha1="aGrVJTqNlmRQMbjrKybCvBuQo5q" width="516" height="58"></p>
+</blockquote>
+</li>
+<li>Fixed <em>Disguise</em> abil feedback from being ridiculous (the verb ‘disguise’ was being replaced with the entire ability description). Thx <a class="mention" href="/u/stoneage">@Stoneage</a>
+<blockquote>
+<p><img src="https://forum.throneoflies.com/uploads/default/original/3X/8/0/804122c8cd9a9d295c6a09274ad0f2976816fa77.png" alt="image" data-base62-sha1="iiAFumxSQZtuSUwaIFMcBytwPZl" width="488" height="59"></p>
+</blockquote>
+</li>
+<li>Your “last classes played” list cache was not being updated for the session (unless you restarted): This is now fixed (resulting in less <em>chance</em> of getting the same class for the session).</li>
+<li>Removed redundant “you attacked x” after “you occd and attacked x” from <em>Hunters Mark</em> abil.</li>
+<li>
+<em>Hunters Mark</em> abil now properly displays [gossip] feedback when occ failed.</li>
+<li>
+<em>Hunters Mark</em> abil swapped the word, “them”, with “target 1” since “them” can incorrectly imply <em>both</em> targets.</li>
+</ul>
+<h2>Class QoL</h2>
+<ul>
+<li>Surviving an attack due to <em>death immunity</em> now has a tip appended, should you have tips enabled in options:
+<blockquote>
+<p>…“this could be because of one of your [passive] abilities, the King or the Court Wizard”</p>
+</blockquote>
+</li>
+<li>Whenever you switch chat tabs, you’ll now auto-focus the input field where you type (this includes when Mystic uses their night abils).</li>
+<li>
+<s>Mystic’s <em>Link Minds</em> and <em>Conduit</em> abil notifications will mirror in Mystic chat to better keep track.</s>
+<ul>
+<li>
+<strong>Delayed:</strong> Not working as intended.</li>
+</ul>
+</li>
+<li>Mystic’s <em>Conduit</em> abil now has separate sfx from <em>Mind Link</em>.</li>
+<li>Maid’s night tips tab is now a cheatsheet full of <em>Matchmake</em> abil combos:<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/8/1/81476d63fa7f3bd38aaab2958f7f50babbe603b1.png" data-download-href="https://forum.throneoflies.com/uploads/default/81476d63fa7f3bd38aaab2958f7f50babbe603b1" title="image"><img src="https://forum.throneoflies.com/uploads/default/optimized/3X/8/1/81476d63fa7f3bd38aaab2958f7f50babbe603b1_2_690x237.png" alt="image" data-base62-sha1="irECOidORWnlDjfkVPu9RUgoUjT" width="690" height="237" srcset="https://forum.throneoflies.com/uploads/default/optimized/3X/8/1/81476d63fa7f3bd38aaab2958f7f50babbe603b1_2_690x237.png, https://forum.throneoflies.com/uploads/default/original/3X/8/1/81476d63fa7f3bd38aaab2958f7f50babbe603b1.png 1.5x, https://forum.throneoflies.com/uploads/default/original/3X/8/1/81476d63fa7f3bd38aaab2958f7f50babbe603b1.png 2x" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/8/1/81476d63fa7f3bd38aaab2958f7f50babbe603b1_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">761×262 68.2 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div>
+</li>
+<li>Princess also gets a <em>Flirt</em> abil cheatsheet:<br>
+<img src="https://forum.throneoflies.com/uploads/default/original/3X/6/d/6defb9b6ea4079b7d60aebf53d588e74f8c387f5.png" alt="image" data-base62-sha1="fGxEwKv9xHmCKCnqIr0bSyETuF7" width="451" height="325">
+</li>
+<li>Several misc. better wording for memos/ability descriptions.</li>
+<li>Conversions against disconnected players will now fail at ability resolve time (now that players are instantly killed off when d/c’d - see next section).</li>
+<li>If target was <em>Smited</em>, <em>Time Warp</em> abil will now say you “could not delay” their death (rather than “x did not die”).</li>
+</ul>
+<h2>Disconnection</h2>
+<ul>
+<li>d/c’s are now killed off the following morning:<br>
+<img src="https://forum.throneoflies.com/uploads/default/original/3X/4/6/46c4cb41f08f9fbc1ff7b3e0c40a284f16a02b4f.png" alt="image" data-base62-sha1="a633ebGaIVzXfG03Ifa3sFUpWX5" width="550" height="193">
+</li>
+<li>“x has left the game” will now only show <strong>once</strong>.</li>
+<li>Ignoring the screenshot above in yellow, d/c’s are now in a blue that stands out more:<br>
+<img src="https://forum.throneoflies.com/uploads/default/original/3X/5/6/569497065956db0b44142148629448454749c5f7.png" alt="image" data-base62-sha1="clVpJ1o4YaskIln7BRtX4pA1Tev" width="501" height="131">
+</li>
+</ul>
+<h2>Localization: Chinese (中文)</h2>
+<ul>
+<li>Just added 1000+ new phrases, focusing on ability feedback!</li>
+<li>We are about 99% localized, now.</li>
+<li>Fixed lobby top-left and top-right spacers (that made the buttons look uncentered).</li>
+<li>Changed lore link to go to a localized Wikia (although WIP).</li>
+<li>Bottom region now says either “English” or “中文” to be less confusing.</li>
+<li>
+<strong>Notes:</strong>
+<ul>
+<li>Store is not yet fully translated.</li>
+<li>Vocabulary is not yet translated.</li>
+<li>Patch notes will <em>not</em> be in Chinese [yet] until we get a publisher to assist with this in the future (not enough resources, currently).</li>
+</ul>
+</li>
+<li>English cancel flavor text needed to be a bit more generic or it’s a bit impossible to translate.</li>
+<li>Removed the Chinese&lt;&gt;English switcher due to an overwhelming number of issues switching back and forth: It’s like coding the game twice, similar to reconnection: This seems to be why most online games don’t allow you to swap languages mid-game <img src="https://forum.throneoflies.com/images/emoji/twitter/confused.png?v=9" title=":confused:" class="emoji" alt=":confused:"> Apologies!</li>
+</ul>
+<h2>General / QoL</h2>
+<ul>
+<li>Replaced the start sfx with something more dramatic (with both bass + treble), also lasting a few seconds instead of 1/2 second. I also fixed a bug that would sometimes cause the “game starting” sfx  to cutoff early, if you’re a speedy loader. Thx <a class="mention" href="/u/anon97870008">@anon97870008</a>
+</li>
+<li>Start sfx will now bypass in-game (NOT Windows) mute and <em>temporarily</em> set minimum in-game volume threshold just for this sfx to prevent afk matches (benefiting both the user and other players, assuming they actually wanna play if they had the chance). <strong>Not this patch,</strong> but later: I’ll add an option to turn this off (default on).</li>
+<li>Added ability hover sfx for the 2 day/night parent buttons. Added 5% random pitch shift for flavor. Also added this to the tutorial.</li>
+<li>
+<em>Left Game</em> (Disconnected) system messages are now a <font color="#258abc">darker cyan</font> color to stand out more through chat spam.</li>
+<li>Fixed our Steam library’s floating text logo from incorrect upload. Thx <a class="mention" href="/u/alitnk">@alitnk</a>
+</li>
+<li>Better lobby anchoring (position adjustments) for non-standard resolutions</li>
+<li>Upgraded Unity from 2020.1 beta to 2020.1 stable.</li>
+<li>OCD-centered a loading tip that had an entire line for only one word, reducing from 3 lines to 2.</li>
+<li>Fixed some pitch shift sfx for non-hovers: Some abilities and clicks may sound slightly different each use.</li>
+<li>Added some class card scrolling sfx.</li>
+<li>Adjusted the weapon store mask so it’s not cutting off <em>Vortex Amulet</em>.</li>
+<li>Fixed vertical-center of options resolution in lobby.</li>
+<li>Double gold gp weekend banner link on the left of lobby now more-intuitively links <a href="https://forum.throneoflies.com/t/double-gold-gp-weekends/82790" class="inline-onebox">Double Gold (gp) Weekends!</a> instead of Discord (although not so informative, can always edit).</li>
+<li>Fixed underline thickness. Some may still be uneven due to custom line spacing, but it’ll at least be legible.</li>
+<li>Added some missing hover/click sfx to the tutorial.</li>
+<li>Added more Glossary terms.</li>
+<li>Class Cards <em>Notifications</em> name replaced with <em>Feedback</em> for consistency.</li>
+<li>Butler and King’s feedback for cancel was removed (leftover/experimental).</li>
+<li>Better memos for <em>Teleportation</em> and <em>Tornado</em> abils.</li>
+<li>Better class card ability text masking when scrolling.</li>
+<li>Fixed the settings cog button in the tutorial that wasn’t previously interacting.</li>
+<li>Moved tutorial settings cog to front of tutorial overlay</li>
+<li>Made Newcomer ‘Squire’ incognito title button disable more obvious</li>
+<li>Tutorial can no longer target already-dead targets with <em>Assassinate</em>.</li>
+<li>You are now given a hint to stop telling people to report others after doing so a couple times.</li>
+<li>
+<code>/r</code> command to reply to the last player to whisper you. It automatically replaces itself to <code>/w &lt;number&gt;</code> upon typing it to avoid last second whisper confusion.</li>
+<li>Attackers are now told the possible causes of death immunity upon hitting a death immune target.</li>
+<li>No longer automatically switching to mystic tab to avoid evils sending sensitive info to the mystic.</li>
+<li>Fixed bug where the text above the player list would say “Unable to start a trial.” when you could actually start one.</li>
+<li>Added some new hotkeys. <code>LeftCtrl+L</code> for logbook and <code>LeftCtrl+EmoteNumber</code> for each emote.</li>
+<li>Fixed lobby UI’s “match found” panel sometimes stacking over the main screen with placeholder values.</li>
+<li>Fixed the freeze if you hung out at the end screen for too long.</li>
+<li>Pressing enter in lobby no longer takes you to the lobby chat.</li>
+<li>Host’s name is now <strong>bold</strong> in public lobbies as well.</li>
+<li>Class stats should be a little more consistent now.</li>
+</ul>
+<h2>Art</h2>
+<ul>
+<li>Nightwatch got a portrait revamp (<span class="hashtag">#baldByChoice</span>):<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://i.imgur.com/uPsgEDr.png" title=""><img src="https://i.imgur.com/uPsgEDr.png" alt="" width="517" height="500"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename"></span><span class="informations">1070×1033</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div>
+</li>
+</ul>
+<p>–Xblade<br>
+</p><aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico" class="site-icon" width="32" height="32">
+      <a href="https://discord.com/invite/tol" target="_blank" rel="noopener">Discord</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:512/288;"><img src="https://cdn.discordapp.com/splashes/261525739617255424/e30c2c78ee20a9889b6113a8a674f4ce.jpg?size=512" class="thumbnail" width="512" height="288"></div>
+
+<h3><a href="https://discord.com/invite/tol" target="_blank" rel="noopener">Join the Throne of Lies Game 👑 Discord Server!</a></h3>
+
+<p>Join over 14k community members of "Throne of Lies: The Online Game of Deceit", a tabletop/social deduction game. | 14,216 members</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<hr>
+<blockquote>
+<p><font color="lime"><strong>Related:</strong></font></p>
+<ul>
+<li><a href="https://forum.throneoflies.com/t/patch-v2-7-0-live/82791" class="inline-onebox">Patch v2.7.0 - Class fixes, minor balance, localization prep, Mystic portrait revamp</a></li>
+<li><a href="https://forum.throneoflies.com/t/mini-patch-v2-7-0a/83031" class="inline-onebox">Mini Patch v2.7.0a: Fixes, can't whisper self</a></li>
+<li><a href="https://forum.throneoflies.com/t/mini-patch-v2-7-0b/83087" class="inline-onebox">Mini Patch v2.7.0b</a></li>
+</ul>
+</blockquote>
+            <p><small>93 posts - 31 participants</small></p>
+            <p><a href="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299</link>
+          <pubDate>Tue, 11 Aug 2020 10:19:27 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.throneoflies.com-topic-83299</guid>
+          <source url="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299.rss">Patch v3.0.0: Major Balance / 中文 Chinese Localization</source>
+        </item>
+        <item>
+          <title>Art Spotlight: Court Wizard vs Sage. Very different when HD!</title>
+          <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+          <category>Official Announcements</category>
+          <description><![CDATA[
+            <p>When we see CW vs Sage at 50px resolution, it’s hard to appreciate the grandeur of the 2:</p>
+<p>(low res)<br>
+<img src="https://forum.throneoflies.com/uploads/default/original/3X/1/a/1a3ca81c291cee95e02bce30585a80e4d24de55a.jpeg" alt="image" data-base62-sha1="3K6mYsRKpdvOEJtsBr4pcHRkMZ4" width="496" height="181"></p>
+<p>Looks like a small edit, right? Now, open this in a new tab and zoom (this still isn’t the full res of each for the sake of keeping them side-by-side):</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn.discordapp.com/attachments/412595383382835200/741256637817421956/unknown.png" title=""><img src="https://cdn.discordapp.com/attachments/412595383382835200/741256637817421956/unknown.png" alt="" width="690" height="255"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename"></span><span class="informations">3198×1182</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div></p>
+<ul>
+<li>Xed did the CW (left) - came 1st.</li>
+<li>Adiart did the Sage (right) - came later.</li>
+</ul>
+<p>The only part that is actually 1:1 the same about them … are <em>proportions</em> (outline). The rest is actually completely redrawn, repainted in Adiart’s own style.</p>
+<p>Let’s start with the mustache style and strokes:</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn.discordapp.com/attachments/412595383382835200/741256883998031902/unknown.png" title=""><img src="https://cdn.discordapp.com/attachments/412595383382835200/741256883998031902/unknown.png" alt="" width="690" height="297"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename"></span><span class="informations">795×343</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div></p>
+<p>You can already see that these are 2 completely different styles, when zoomed. The left mustache is more “outwards” like <code>_/_/\_\_</code> while the right is more “downwards/straight” like <code>/|||||\</code>. Adi’s version I also believe has a “smoother/straighter” nose.</p>
+<p>Let’s compare paint strokes:</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn.discordapp.com/attachments/412595383382835200/741257513466331156/unknown.png" title=""><img src="https://cdn.discordapp.com/attachments/412595383382835200/741257513466331156/unknown.png" alt="" width="632" height="500"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename"></span><span class="informations">924×730</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div></p>
+<p>Xed has more abstract/textured strokes while Adi has more smooth/silky strokes, both wonderful in their own styles.</p>
+<p>Finally, the “halo”:</p>
+<p><img src="https://cdn.discordapp.com/attachments/412595383382835200/741257870699528232/unknown.png" alt="" width="635" height="496"></p>
+<p>Xed’s version was more of a chaotic swirl, while Adi’s swirl is more stylized with a less-abstract approach.</p>
+<p>They both have so much flavor and go deep into detail - such detail that I wish I could show more in-game than what the tiny portraits barely portray.</p>
+<p>So much detail goes into many of the art pieces that created <em>Throne of Lies</em>.</p>
+<p><strong>Which portrait do <em>you</em> like the best?</strong></p>
+<div class="poll" data-poll-status="open" data-poll-public="true" data-poll-results="always" data-poll-charttype="pie" data-poll-type="regular" data-poll-name="poll">
+<div>
+<div class="poll-container">
+<ul>
+<li data-poll-option-id="b57d6d0547ebd6eb16e4303da8a327b8">Court Wizard (Xed)</li>
+<li data-poll-option-id="ae6f114546dc3098dc29f78de8884aac">Sage (Adi)</li>
+</ul>
+</div>
+<div class="poll-info">
+<p>
+<span class="info-number">0</span>
+<span class="info-label">voters</span>
+</p>
+</div>
+</div>
+</div>
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.throneoflies.com/t/art-spotlight-court-wizard-vs-sage-very-different-when-hd/83228">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.throneoflies.com/t/art-spotlight-court-wizard-vs-sage-very-different-when-hd/83228</link>
+          <pubDate>Fri, 07 Aug 2020 11:50:54 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.throneoflies.com-topic-83228</guid>
+          <source url="https://forum.throneoflies.com/t/art-spotlight-court-wizard-vs-sage-very-different-when-hd/83228.rss">Art Spotlight: Court Wizard vs Sage. Very different when HD!</source>
+        </item>
+        <item>
+          <title>Mini Patch v2.7.0b</title>
+          <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+          <category>Official Announcements</category>
+          <description><![CDATA[
+            <blockquote>
+<p><font color="lime"><strong>Mostly fixing patch bugs from:</strong> <a href="https://forum.imperium42.com/t/patch-v2-7-0-live/82791">https://forum.imperium42.com/t/patch-v2-7-0-live/82791</a> &amp; <a href="https://forum.imperium42.com/t/mini-patch-v2-7-0a/83031">https://forum.imperium42.com/t/mini-patch-v2-7-0a/83031</a></font></p>
+</blockquote>
+<p><img src="https://forum.imperium42.com/uploads/default/original/3X/7/9/79116bded5aae46386bfbb7dd14bc599b3d3a9ae.png" alt="" width="" height=""></p>
+<h2>Notable Class Fixes</h2>
+<ul>
+<li>Handmaiden’s <em>Analyze</em> abil 2nd targeting slot now works again (thx <span class="mention">@Jaffa5x</span>).</li>
+<li>Maid’s <em>Matchmaking</em> abil will no longer always show as a match when targeting Mastermind with their <em>In The Shadows</em> abil active (thx <span class="mention">@TheDirector</span>).</li>
+<li>Secondary Cultists can no longer be an Inquisitor-marked Heretic (thx numerous reporters).</li>
+</ul>
+<h2>Minor Class Fixes</h2>
+<ul>
+<li>Fixed Drunk hover ability text showing incorrect text.</li>
+<li>Added memo to Handmaiden’s <em>Analyze</em> abil for clarity: <code>Can't Target King</code>.</li>
+<li>Bountiful amounts of class card feedback/notification fixes.</li>
+<li>Some perspective feedback bugs were fixed, such as if you attacked <code>yourself</code> or redirected someone to <code>yourself</code> (instead of showing your own name in 3rd-person perspective).<br>
+<img src="https://forum.throneoflies.com/uploads/default/original/3X/d/9/d96ebf5b94682dd60cf72276ebdc62f29551a39c.png" alt="image" data-base62-sha1="v1uSXG5gC0EXeAO3z1uvxwxmNfm" width="427" height="143">
+</li>
+</ul>
+<h2>General</h2>
+<ul>
+<li>
+<em>Start Early</em> options availability bumped up to 12 mins offpeak, 15 mins peak.</li>
+<li>Server-buffered lobby chat has returned (lobby chat history on join).</li>
+<li>Fixed lobby’s top-left panels: Now better-aligned and immobile (thx <span class="mention">@tons</span> of reporters).</li>
+<li>“Any Starting King” stat is now interactable.</li>
+<li>Set max stats win rate to 100% and lowest to 0%.</li>
+<li>Made lowest and highest stats (0%/100%) omit decimal points.</li>
+</ul>
+<p>–Xblade<br>
+</p><aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico" class="site-icon" width="32" height="32">
+      <a href="https://discord.com/invite/tol" target="_blank" rel="noopener">Discord</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:512/288;"><img src="https://cdn.discordapp.com/splashes/261525739617255424/e30c2c78ee20a9889b6113a8a674f4ce.jpg?size=512" class="thumbnail" width="512" height="288"></div>
+
+<h3><a href="https://discord.com/invite/tol" target="_blank" rel="noopener">Join the Throne of Lies Game 👑 Discord Server!</a></h3>
+
+<p>Join over 14k community members of "Throne of Lies: The Online Game of Deceit", a tabletop/social deduction game. | 14,209 members</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.throneoflies.com/t/mini-patch-v2-7-0b/83087">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.throneoflies.com/t/mini-patch-v2-7-0b/83087</link>
+          <pubDate>Mon, 27 Jul 2020 08:00:41 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.throneoflies.com-topic-83087</guid>
+          <source url="https://forum.throneoflies.com/t/mini-patch-v2-7-0b/83087.rss">Mini Patch v2.7.0b</source>
+        </item>
+        <item>
+          <title>Mini Patch v2.7.0a: Fixes, can&#39;t whisper self</title>
+          <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+          <category>Official Announcements</category>
+          <description><![CDATA[
+            <blockquote>
+<p><font color="lime"><strong>Mostly fixing patch bugs from:</strong> <a href="https://forum.imperium42.com/t/patch-v2-7-0-live/82791">https://forum.imperium42.com/t/patch-v2-7-0-live/82791</a></font></p>
+</blockquote>
+<p><img src="https://forum.imperium42.com/uploads/default/original/3X/7/9/79116bded5aae46386bfbb7dd14bc599b3d3a9ae.png" alt="" width="" height=""></p>
+<h2>Major Fixes</h2>
+<ul>
+<li>Mastermind can now [non-pity] convert normally, again.</li>
+<li>Inquisitor’s initial heretic targets are back to normal, again.</li>
+<li>
+<em>Flirt</em> abil now considers <em>Empower</em> abil (the feedback would say it worked, but it didn’t <em>actually</em> work until now).</li>
+<li>
+<em>Probe</em> abil now returns class name instead of type.</li>
+<li>*Fixed bleed <code>%PLAYER_LIST%</code> feedback bug on recipient when immune.</li>
+</ul>
+<h2>Minor Fixes</h2>
+<ul>
+<li>Fixed King’s <em>Royal Finger</em> abil that wasn’t showing the target.</li>
+<li>Fixed <em>Happy Hour</em> abil feedback in a couple spots.</li>
+<li>Fixed <em>Overlook</em> abil feedback when no one visits.</li>
+<li>Some stat fixes. However, note that stats will still be “off”, as we’re currently using legacy stats that are not necessarily accurate. We’ll eventually reset stats <strong>but keep the old stats</strong> in a legacy section.</li>
+</ul>
+<h2>New Features</h2>
+<ul>
+<li>Whispers now show feedback on typo’d, incomplete, or invalid whispers. --Tryph (thx <a class="mention" href="/u/anon97870008">@anon97870008</a>)</li>
+</ul>
+<p><img src="https://forum.throneoflies.com/uploads/default/original/3X/5/a/5a5281596edfcbed8b57f21565e18956b7734f19.png" alt="image" data-base62-sha1="cT1JOYBXVmAhslBiZ2afPB3mNtL" width="238" height="210"><br>
+<img src="https://forum.throneoflies.com/uploads/default/original/3X/4/3/4363e2ccce45c735fca42268843bf4828e7e6e53.png" alt="image" data-base62-sha1="9C9ZHn9DbzezuPpnpJsKRjatdqX" width="244" height="195"></p>
+<p>–Xblade<br>
+</p><aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico" class="site-icon" width="32" height="32">
+      <a href="https://discord.com/invite/tol" target="_blank" rel="noopener">Discord</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:512/288;"><img src="https://cdn.discordapp.com/splashes/261525739617255424/e30c2c78ee20a9889b6113a8a674f4ce.jpg?size=512" class="thumbnail" width="512" height="288"></div>
+
+<h3><a href="https://discord.com/invite/tol" target="_blank" rel="noopener">Join the Throne of Lies Game 👑 Discord Server!</a></h3>
+
+<p>Join over 14k community members of "Throne of Lies: The Online Game of Deceit", a tabletop/social deduction game. | 14,209 members</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+            <p><small>2 posts - 1 participant</small></p>
+            <p><a href="https://forum.throneoflies.com/t/mini-patch-v2-7-0a-fixes-cant-whisper-self/83031">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.throneoflies.com/t/mini-patch-v2-7-0a-fixes-cant-whisper-self/83031</link>
+          <pubDate>Sat, 25 Jul 2020 11:58:26 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.throneoflies.com-topic-83031</guid>
+          <source url="https://forum.throneoflies.com/t/mini-patch-v2-7-0a-fixes-cant-whisper-self/83031.rss">Mini Patch v2.7.0a: Fixes, can&#39;t whisper self</source>
+        </item>
+        <item>
+          <title>Patch v2.7.0 - Class fixes, minor balance, localization prep, Mystic portrait revamp</title>
+          <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+          <category>Official Announcements</category>
+          <description><![CDATA[
+            <blockquote>
+<p><font color="lime"><strong>Balance, fixes, QoL, and localization prep</strong></font></p>
+</blockquote>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/7/9/79116bded5aae46386bfbb7dd14bc599b3d3a9ae.png" data-download-href="https://forum.throneoflies.com/uploads/default/79116bded5aae46386bfbb7dd14bc599b3d3a9ae" title="v2.7-Cover-800x450.min"><img src="https://forum.throneoflies.com/uploads/default/optimized/3X/7/9/79116bded5aae46386bfbb7dd14bc599b3d3a9ae_2_690x388.png" alt="v2.7-Cover-800x450.min" data-base62-sha1="hh168GQw1E93tKZH78msMgqHPj0" width="690" height="388" srcset="https://forum.throneoflies.com/uploads/default/optimized/3X/7/9/79116bded5aae46386bfbb7dd14bc599b3d3a9ae_2_690x388.png, https://forum.throneoflies.com/uploads/default/original/3X/7/9/79116bded5aae46386bfbb7dd14bc599b3d3a9ae.png 1.5x, https://forum.throneoflies.com/uploads/default/original/3X/7/9/79116bded5aae46386bfbb7dd14bc599b3d3a9ae.png 2x" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/7/9/79116bded5aae46386bfbb7dd14bc599b3d3a9ae_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">v2.7-Cover-800x450.min</span><span class="informations">800×450 113 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div></p>
+<h2>Localization</h2>
+<ul>
+<li>Dynamic ability feedback has been localized: Chinese is not ready, but the coding to them is now ready for it (eg, instead of “you attacked blah”, it’ll now check the language and return the appropriate text). This was a huge change that affected English texts: Please report any inconsistencies.</li>
+</ul>
+<h2>Class Fixes/Balance</h2>
+<ul>
+<li>
+<em>Debauchery</em> and <em>Strings of Mithras</em> abils can no longer target the King in the 2nd target slot (meaning they can no longer target the King <em>at all</em>, anymore).
+<ul>
+<li>The goal here was to remove <em>safe Debauches</em>, meaning players now have to make a conscious decision where they want their redirect target to end up on: <em>rather than just King.</em>
+</li>
+<li>Debauching to King allowed players to ignore conversion and, even if a King died, it was either:
+<ol>
+<li>…a plus for BD (because EK),</li>
+<li>…or they just replaced the old GK with a new one (normally, killing GK by BD has its negatives: either the Execution Penalty, or Butler Suicide).</li>
+</ol>
+</li>
+</ul>
+</li>
+<li>The Fool now always shows as a positive match vs the Maid’s <em>Matchmake</em> abil (while not framed).
+<ul>
+<li>The Fool’s auto “is [non-framed] match” and Scorned’s auto “isn’t match” is now added to <em>Matchmake</em> memo.</li>
+<li>Currently, if not framing, the Fool is always shown as incompatible to the Maid; rewarding the Fool simply for existing rather than actually using their ability designed to incriminate themselves. This, also, in turn, makes Maid an easier class to ‘prove’ themselves with than the other investigatives.</li>
+<li>By making Fool default to being always compatible, Fool will be encouraged to be more calculated with their frames, making the class require more depth to win with.</li>
+</ul>
+</li>
+<li>
+<em>Frenzy</em>’s bypass was only working with 2-for-1: Fixed to also work for Assassinate. --Tryphon</li>
+<li>Court Wizard’s <em>Clear Mind</em> abil now works again vs Cult’s Brainwash abil.</li>
+<li>Cult Leader’s <em>Blood of Mithras</em> abil will no longer allow click when clicking your <em>Rupture</em> abil on Day 2+ then canceling target selection.</li>
+<li>Cult Leader’s <em>Blood of Mithras</em> abil can no longer target the Cult King.</li>
+<li>Some evil notifications such as <code>{some evil ally} will attack {x}</code> was alerting the Cultseen King (such as <em>Blood of Mithras</em> and <em>Expose</em>): This should no longer happen. This may have only been happening to day ability alerts.</li>
+<li>
+<em>Spike Traps</em> has been fixed after not actually working for a <em>long time</em> (where it seems like no one triggered the trap – ever).</li>
+<li>Fixed Reaper’s <em>Icy Touch</em> abil that was not showing <em>you do not have enough souls</em> instead of nothing, should something go wrong (such as a desync).</li>
+<li>
+<em>Mind Warp</em> abils now have an added memo: <code>*Only affects Blue Dragon investigatives</code>
+</li>
+<li>When a Mystic uses a night ability, they now auto-switch immediately to the “Mystic” tab.</li>
+<li>Fixed <strong>starting</strong> Unseen King only partially flagged as starting. This affected the initial class cards you saw (leaving out <em>Guard!</em> abil) and may have affected other checks for starting Kings.</li>
+<li>
+<em>Mastermind</em> was having some issues with Matchmaking + Neutrals. Fixed this for both <em>pre</em> and <em>“post”</em> <em>In The Shadows</em>:<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/d/6/d639a42a9ca8b28abf5458ea90be425e90254279.jpeg" data-download-href="https://forum.throneoflies.com/uploads/default/d639a42a9ca8b28abf5458ea90be425e90254279" title="image"><img src="https://forum.throneoflies.com/uploads/default/optimized/3X/d/6/d639a42a9ca8b28abf5458ea90be425e90254279_2_334x500.jpeg" alt="image" data-base62-sha1="uz7FOVs2UFCW0fwrdYWN5FY2Pm9" width="334" height="500" srcset="https://forum.throneoflies.com/uploads/default/optimized/3X/d/6/d639a42a9ca8b28abf5458ea90be425e90254279_2_334x500.jpeg, https://forum.throneoflies.com/uploads/default/original/3X/d/6/d639a42a9ca8b28abf5458ea90be425e90254279.jpeg 1.5x, https://forum.throneoflies.com/uploads/default/original/3X/d/6/d639a42a9ca8b28abf5458ea90be425e90254279.jpeg 2x" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/d/6/d639a42a9ca8b28abf5458ea90be425e90254279_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">496×742 152 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div>
+</li>
+<li>Fixed Reaper’s day abils that would allow multi-casting day abilities (should you have enough souls) among other strange effects when you use <em>Gather Darkness</em>:<br>
+<img src="https://media1.giphy.com/media/LrAWDExLAChbC7TEEn/giphy.gif" alt="" width="480" height="201">
+</li>
+<li>Handmaiden’s <em>Analyze</em> abil can no longer target the same person 2x.</li>
+<li>New, initiated Cult members will no longer show the Cult icon when a Cult King is present.</li>
+</ul>
+<h2>Stability/Optimization</h2>
+<ul>
+<li>Fixed <em>GameSparks</em> (our data server) socket connection, which would randomly cause an <code>{ error: timeout }</code> error shown in logs to roughly 1% of players which would cause either disconnection or inability to login.
+<ul>
+<li>
+<s>Reverted during beta: Found some issues to hint it’s not ready, yet. Close, but not yet.</s>
+<ul>
+<li>The bug we encountered seemed separate! <em>Re</em>-reverted.</li>
+</ul>
+</li>
+<li>If you’re super technical, this is actually <a href="https://github.com/Imperium42/gs-csharp-community-sdk/issues/4">an open source issue</a>.</li>
+</ul>
+</li>
+<li>Updated to a new version of <em>Photon</em> (our realtime server) which should fix the <code>timed out (P)</code> login screen error that prevented some users from logging in.</li>
+<li>Made class cards load async (prevents a small freeze when loading everything - loads a little at a time, instead) =&gt; There’s a chance you may temporarily see some individual texts/pictures loading, but with the reward of greatly improved performance.</li>
+</ul>
+<h2>Non-Breaking Feedback Fixes</h2>
+<ul>
+<li>Princess’ <em>Willowisp</em> abil now shows feedback if the target didn’t attack anyone. <em>This could have been a local bug, but fairly sure live!</em>
+</li>
+<li>Clarified Noble’s <em>Gossip</em> abil feedback in class cards by extending the orange text of exceptions:</li>
+</ul>
+<blockquote>
+<p><em><font color="orange">“…with restrictions: No conversion, attack, King, Debauchery, self-targeted, instant-evil-confirming or other Gossip abilities.”</font></em></p>
+</blockquote>
+<ul>
+<li>
+<code>You were healed {target} last night</code> string that literally said target instead of the player’s name</li>
+<li>
+<em>Surveillance</em> abil’s “action word” feedback spelling (<code>surveille</code> &gt;&gt; surveil).</li>
+<li>
+<em>Expose</em> abil typo saying that you will reveal who the <code>&gt;Prince</code> imprisons.</li>
+<li>Fixed Facelift cancel flavor text typo, "remaining seen as the <code>(Class Name</code>".</li>
+<li>Fixed <em>Icy Touch</em> abil’s "You silenced <code>{target1PName}</code>" typo.</li>
+<li>Added a period to the end of <em>Walking Bomb</em> abil feedback, and worded it to sound less awkward.</li>
+<li>Possessor’s <em>Facelift</em> abil now includes a pronoun and shows the stylized color of that class name’s faction:<br>
+<img src="https://forum.throneoflies.com/uploads/default/original/3X/f/5/f5a655dbb26bf149b24ad54573c0c4cd3835d715.png" alt="image" data-base62-sha1="z37lPLkQ0KxJhETvPlajrua3q6N" width="494" height="44">
+</li>
+<li>Whenever you get feedback tips regarding “This could have been…”, it <em>most</em> should now consistently show in order from BD &gt;&gt; Unseen &gt;&gt; Cult &gt;&gt; Neutral &gt;&gt; Misc (eg, Suicide) and in alphabetical order from within each category.<br>
+<img src="https://forum.throneoflies.com/uploads/default/original/3X/9/f/9f81f4581b01d797ba6115bf0b343ca866a677e5.png" alt="image" data-base62-sha1="mL4lkdce4liDZpcYH9003mFev9r" width="518" height="78">
+</li>
+</ul>
+<h2>Settings</h2>
+<ul>
+<li>Revamped to be smaller, tabbed, and more-scalable (future changes == faster).</li>
+<li>New <em>gameplay</em> setting: “Auto-Show Class Cards”. Default ON.<br>
+<img src="https://forum.throneoflies.com/uploads/default/original/3X/6/3/639d1b8dba6f0119c56ff5b370d11c54690426f3.jpeg" alt="image" data-base62-sha1="eddS0AOSglYkDvfcM4TkI9RCH9p" width="512" height="448">
+<ul>
+<li>This will show your class cards ASAP when loaded into the game (above the loading screen, a few seconds before the game starts).</li>
+<li>As most new players forget about their class cards, this should help players learn their classes. For veterans, it’s nice to have an extra few seconds knowing your class - I bet most will keep it on.</li>
+<li>Since you’re probably wondering: I can’t make it show earlier than this since classes aren’t actually assigned until all players are verified to be in-game and connected.</li>
+</ul>
+</li>
+</ul>
+<h2>Art/Sfx</h2>
+<ul>
+<li>Sorcerer’s <em>Detonate</em> abil now triggers an arcane explosion sfx instead of the default death-slice sfx.</li>
+<li>
+<em>Mastermind</em> got a slight lighting bump/crop - probably only noticeable if you compare side-by-side.</li>
+<li>
+<em>Ritualist</em> got a slight lighting bump.</li>
+<li>
+<em>Reaper</em> got a slight lighting bump.</li>
+<li>
+<em>Intrigue</em> abil icon slightly changed to vary from <em>Gossip</em>.</li>
+<li>
+<em>Mystic</em> portrait completely revamped:<br>
+<img src="https://forum.throneoflies.com/uploads/default/original/3X/7/d/7dc42fce7d7caab3360f78e3689763d0ca906e1d.jpeg" alt="image" data-base62-sha1="hWA0K0fSI6kbDz7cB1264CiK24J" width="587" height="492">
+</li>
+</ul>
+<h2>More Stats</h2>
+<ul>
+<li>Added a variety of individual <strong>legacy</strong> class stats (WIP) --Tryphon
+<ul>
+<li>Note that only <em>starting</em> evil classes show here: Non-legacy stats will be improved later.</li>
+<li>
+<s>We’ll polish it up (eg, hover fx) later</s> Nvm, added hovers.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/2/d/2d3570d529777cadf5b60afd486f4505e3e048b7.jpeg" data-download-href="https://forum.throneoflies.com/uploads/default/2d3570d529777cadf5b60afd486f4505e3e048b7" title="image"><img src="https://forum.throneoflies.com/uploads/default/original/3X/2/d/2d3570d529777cadf5b60afd486f4505e3e048b7.jpeg" alt="image" data-base62-sha1="6rVYUyr698wm9qz9JzFTxbStabd" width="424" height="500" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/2/d/2d3570d529777cadf5b60afd486f4505e3e048b7_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">453×533 83.7 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div>
+</li>
+</ul>
+</li>
+</ul>
+<h2>General Improvements</h2>
+<ul>
+<li>Class card description text areas are now <em>scrollable</em> (with a gradient fade-out) instead of long texts being crammed in with small font size.</li>
+<li>Class card “notifications” (feedback) sections are now mostly-sync’d with the code: Whatever feedback you see in-game should be sync’d with what you see in the class cards. That said, MANY missing feedback entries have been added and/or corrected.</li>
+<li>Mainly for offpeak timezones: If you are in queue for more than x period of time, the host can “start early” with 8+ players like private matches. Lobby chat will announce <em>who</em> can start. This is based on # of players online:
+<ul>
+<li>If you are in queue for more than 10 mins when &gt;= 50 players.</li>
+<li>If you are in queue for more than 7 mins when &lt; 50 players.</li>
+<li>The cooldown may be adjusted next patch - we’ll see.</li>
+</ul>
+</li>
+</ul>
+<h2>Misc</h2>
+<ul>
+<li>“Main Chat” more-intuitively renamed to “Lobby Chat”.</li>
+<li>The left banner area now dynamically adds and removes different banners (instead of just swapping out 1), showing up to 4 at a time as events come and go. Demo:<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/3/6/36373110cdfb8132d5f2198bb5ed6cba62ca46bd.jpeg" data-download-href="https://forum.throneoflies.com/uploads/default/36373110cdfb8132d5f2198bb5ed6cba62ca46bd" title="image"><img src="https://forum.throneoflies.com/uploads/default/original/3X/3/6/36373110cdfb8132d5f2198bb5ed6cba62ca46bd.jpeg" alt="image" data-base62-sha1="7JC1V9fIRe8rpVr6pXMGSX6YGa9" width="270" height="500" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/3/6/36373110cdfb8132d5f2198bb5ed6cba62ca46bd_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">362×668 114 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div>
+<ul>
+<li>Also added a link to our Wikia’s lore section since it’s not yet found within the game (and would be a localization nightmare - maybe later lol).</li>
+</ul>
+</li>
+<li>Added Unity Analytics to track basic metrics, like retention, to make better decisions. This also gives us the option to seek funding, which is generally insta-deny without retention stats <img src="https://forum.throneoflies.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> Unity Analytics is “eh” – we may swap to something better in the future (we used GameAnalytics a while back for the charts, but they didn’t work out well when they broke our stats). I was playing around with Epic analytics, but it’s too new to be used here, so Unity it is <img src="https://forum.throneoflies.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> Updated privacy policy to include this mention.</li>
+<li>Every ability script was improved for scalability and readability (making future bug fixes/balance changes significantly easier/faster): Although this was vigorously tested in alpha, we couldn’t test all combos – Please report any inconsistencies.</li>
+</ul>
+<hr>
+<h2>FAQ</h2>
+<p><strong>WOW, this patch took stupidly long: What the heck were you doing?</strong><br>
+Localization. <em>Oh, so much localization…</em> It wouldn’t have been bad if I started with it, but with all the dynamic text we have (<code>{x} killed {y}. Could've been because of {z1, z2, z3}.</code>). Even Chinese unicode periods/commas are different - and have a “built-in” space character. Let’s just say that these <em>entire</em> patch notes took less time than the single paragraph at the top mentioning localization.</p>
+<p>It was… tedious. I’m not done, but at this point, I’m 99% done (just need store localizations and polish the reported bugs).</p>
+<p><strong>What else?</strong></p>
+<ul>
+<li>Well, I also prettified <em>every</em> day/night ability that was not yet prettified – this makes future fixes/changes faster/scalable.</li>
+<li>I found a bunch of bugs while having to test ~150 abilities one at a time: It was sort of a good thing I had to do this or I wouldn’t have found these fixes! With all the bug fixes in the past few months and this patch… we’re looking super stable, lately.</li>
+<li>Well, the patch would’ve been boring if I didn’t spice it up with some minor balance!</li>
+<li>I was also spending resources looking into publishers/investors! Oh, yes. It’s official. We’re actively seeking partners.</li>
+</ul>
+<hr>
+<h1>Hotfixes:</h1>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://forum.throneoflies.com/uploads/default/original/3X/d/5/d566b4f6795a18cead5f1d881831332b0e3c2f96.png" class="site-icon" width="32" height="32">
+      <a href="https://forum.throneoflies.com" target="_blank" rel="noopener">Forum of Lies | Throne of Lies | by Imperium42</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/362;"><img src="https://forum.throneoflies.com/uploads/default/optimized/2X/c/c28299203b1cc350be6161e42f27f58a0bf979dc_2_690x362.png" class="thumbnail" width="690" height="362" srcset="https://forum.throneoflies.com/uploads/default/optimized/2X/c/c28299203b1cc350be6161e42f27f58a0bf979dc_2_690x362.png, https://forum.throneoflies.com/uploads/default/optimized/2X/c/c28299203b1cc350be6161e42f27f58a0bf979dc_2_1035x543.png 1.5x, https://forum.throneoflies.com/uploads/default/original/2X/c/c28299203b1cc350be6161e42f27f58a0bf979dc.png 2x" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/2X/c/c28299203b1cc350be6161e42f27f58a0bf979dc_2_10x10.png"></div>
+
+<h3><a href="https://forum.throneoflies.com" target="_blank" rel="noopener">Forum of Lies | Throne of Lies | by Imperium42</a></h3>
+
+<p>Hosting Forum of Lies, derived from "Throne of Lies" online social deduction game on Steam @ discord.gg/tol</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+            <p><small>14 posts - 7 participants</small></p>
+            <p><a href="https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791</link>
+          <pubDate>Tue, 14 Jul 2020 15:32:27 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.throneoflies.com-topic-82791</guid>
+          <source url="https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791.rss">Patch v2.7.0 - Class fixes, minor balance, localization prep, Mystic portrait revamp</source>
+        </item>
+        <item>
+          <title>Double Gold Pieces (gp) Day!</title>
+          <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+          <category>Official Announcements</category>
+          <description><![CDATA[
+            <h2>
+<img src="https://forum.throneoflies.com/images/emoji/twitter/bulb.png?v=9" title=":bulb:" class="emoji" alt=":bulb:"> Did you know?</h2>
+<p><img src="https://i.imgur.com/KGN1S9E.png" alt="" width="512" height="256"></p>
+<ul>
+<li>Every <strong>Thursday</strong> [Pending time range], you earn <strong>double</strong> the gp you normally do for wins/losses!</li>
+<li>
+<strong>Questions?</strong> We’re here for you live @ <a href="https://discord.gg/tol">https://discord.gg/tol</a> <span class="hashtag">#ask-a-guide</span>
+</li>
+</ul>
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.throneoflies.com/t/double-gold-pieces-gp-day/82790">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.throneoflies.com/t/double-gold-pieces-gp-day/82790</link>
+          <pubDate>Tue, 14 Jul 2020 10:29:04 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.throneoflies.com-topic-82790</guid>
+          <source url="https://forum.throneoflies.com/t/double-gold-pieces-gp-day/82790.rss">Double Gold Pieces (gp) Day!</source>
+        </item>
+        <item>
+          <title>#off-topic now ported to Discord&#39;s #fol-off-topic (or Thronepass paywalled here)</title>
+          <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+          <category>Official Announcements</category>
+          <description><![CDATA[
+            <p>Hey folks, unfortunately and with the earlier heads-up given, due to the overwhelming flood of <a class="hashtag" href="/c/off-topic/6">#<span>off-topic</span></a> posts, the category is now paywalled (read-only) with Thronepass (Patreon) to focus limited resources toward featured categories. <img src="https://forum.throneoflies.com/images/emoji/twitter/frog.png?v=9" title=":frog:" class="emoji" alt=":frog:"></p>
+<p>If we reach our current <strong>$120/mo goal</strong>, I’ll unlock the category for everyone for 30 days (someone lmk if we reached the goal - not actively watching it).</p>
+<p>You get a bunch of community perks with Thronepass, too, so it’s not all just donations – Check it out:</p>
+<p><a href="https://www.patreon.com/Imperium42">&gt; <img src="https://forum.throneoflies.com/uploads/default/original/3X/b/e/be814f76d1c46c44001ab05da697faf5da517af6.png" alt="image" data-base62-sha1="rbhLtaOTDyRdlgCaXLPKCnNgTEW" width="491" height="80"></a></p>
+<p>As <a class="hashtag" href="/c/off-topic/6">#<span>off-topic</span></a> posts have mostly been “live chat-like”, it can somewhat make sense, anyway, to continue these for free on our Discord server: To continue <a class="hashtag" href="/c/off-topic/6">#<span>off-topic</span></a> outside of <em>Thronepass</em>, we now have a dedicated <strong><span class="hashtag">#fol-off-topic</span></strong> Discord channel, directly linked here &gt;&gt; <a href="https://discord.gg/hG6UGqm">https://discord.gg/hG6UGqm</a></p>
+<hr>
+<h2>Original Announcement</h2>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://forum.throneoflies.com/uploads/default/original/3X/d/5/d566b4f6795a18cead5f1d881831332b0e3c2f96.png" class="site-icon" width="32" height="32">
+      <a href="https://forum.throneoflies.com" target="_blank" rel="noopener">Forum of Lies | Throne of Lies | by Imperium42</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/362;"><img src="https://forum.throneoflies.com/uploads/default/optimized/2X/c/c28299203b1cc350be6161e42f27f58a0bf979dc_2_690x362.png" class="thumbnail" width="690" height="362" srcset="https://forum.throneoflies.com/uploads/default/optimized/2X/c/c28299203b1cc350be6161e42f27f58a0bf979dc_2_690x362.png, https://forum.throneoflies.com/uploads/default/optimized/2X/c/c28299203b1cc350be6161e42f27f58a0bf979dc_2_1035x543.png 1.5x, https://forum.throneoflies.com/uploads/default/original/2X/c/c28299203b1cc350be6161e42f27f58a0bf979dc.png 2x" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/2X/c/c28299203b1cc350be6161e42f27f58a0bf979dc_2_10x10.png"></div>
+
+<h3><a href="https://forum.throneoflies.com" target="_blank" rel="noopener">Forum of Lies | Throne of Lies | by Imperium42</a></h3>
+
+<p>Hosting Forum of Lies, derived from "Throne of Lies" online social deduction game on Steam @ discord.gg/tol</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p><strong>EDIT:</strong> Edited Thronepass perks to include <a class="hashtag" href="/c/off-topic/6">#<span>off-topic</span></a> access.</p>
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.throneoflies.com/t/off-topic-now-ported-to-discords-fol-off-topic-or-thronepass-paywalled-here/82593">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.throneoflies.com/t/off-topic-now-ported-to-discords-fol-off-topic-or-thronepass-paywalled-here/82593</link>
+          <pubDate>Thu, 02 Jul 2020 05:57:49 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.throneoflies.com-topic-82593</guid>
+          <source url="https://forum.throneoflies.com/t/off-topic-now-ported-to-discords-fol-off-topic-or-thronepass-paywalled-here/82593.rss">#off-topic now ported to Discord&#39;s #fol-off-topic (or Thronepass paywalled here)</source>
+        </item>
+  </channel>
+</rss>
