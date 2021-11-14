@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[Class Suggestion]The Merchant</title>
+    <link>https://forum.throneoflies.com/t/class-suggestion-the-merchant/71953</link>
+    <description>&gt; # [color=darkgray]The Merchant[/color]
+&gt; **[color=darkgray]Neutral Support[/color]**
+&gt;
+&gt; **Passive (Gold Coins!)** - Atleast 1 player with this passive will spawn in every game. This introduces a new mechanic in the game.
+&gt; **Passive (In Stock!)** - The Starting Price of your **Assisstance for a Price** is 3 **Gold Coins**. You will lose 1 **Gold Coin** every time you get attacked. You start with 3 **Gold Coins**.
+&gt;
+&gt; **Day Ability (Up The Price!)** - Up the Price of your Night Abilities by 1 **Gold Coin**.(Infinite Uses - [1 Day Cooldown])
+&gt; **Day Ability (Lower The Price)** - Lower the Price of your Night Abilities by 1 **Gold Coin**.(Infinite Uses - [1 Day Cooldown])
+&gt;
+&gt; **Night Ability (Assisstance for a Price)** - Attempt to sell a player a buff depending on their class. They can accept it or refuse it. If they don&#39;t have enough **Gold Coins** , they will not be notified of your attempt. (Infinite Uses - Can NOT Target the same player twice.)
+&gt; **Night Ability (Recharged!)** - If your target uses a limited ability tonight , they will not lose a charge of their ability.(3 Uses - Price for a successful recharge : 2 **Gold Coins**)
+&gt; **Goal :** *Have 14 **Gold Coins** by the end of the game.*
+&gt;
+&gt; **[color=purple]Converts into[/color]:**
+&gt;
+&gt; # [color=purple]The Traveler[/color]
+&gt; **[color=purple]Unseen Support[/color]**
+&gt;
+&gt; **Passive (Gold Coins!)** - Atleast 1 player with this passive will spawn in every game. This introduces a new mechanic in the game
+&gt; **Passive (The Adiart&#39;s Treasure)** - Every Night , every **[color=purple]Unseen[/color]** member will gain an additional **Gold Coin**. (They Will gain it even if they were **Prevented** from visiting their targets). You will lose 1 **Gold Coin** every time you get attacked. You start with **2 Gold Coins** and you will keep all the **Gold Coins** you had.
+&gt;
+&gt; **Day Ability (Next Generation)** - Empower an **[color=purple]Unseen[/color]** member&#39;s abilities. (1 Use - This Effects last for 3 nights)
+&gt;
+&gt; **Night Ability (Ready For Battle!)** - **[color=purple]The Assassin[/color]** can NOT be **Occupied/Redirected** tonight.(2 Uses)
+&gt; **Night Ability (Revenge)** - Kill a player who accused a member of **[color=purple]The Unseen[/color]** of treason during the day.(1 Use - You will become **Immune to Occupation/Redirection**)
+&gt; **Goal:** **[color=purple]The Unseen[/color]&#39;s Goal.**
+&gt;
+&gt; **[color=darkred]Converts into:[/color]**
+&gt;
+&gt; # [color=darkred]The Teacher[/color]
+&gt; **[color=darkred]Cult Support[/color]**
+&gt;
+&gt; **Passive (Gold Coins!)** - Atleast 1 player with this passive will spawn in every game. This introduces a new mechanic in the game.
+&gt; **Passive (Paid Workforce)** - When you visit a **[color=darkred]Cult[/color]** member , you gain 1 extra **Gold Coin**. You will lose 1 **Gold Coin** every time you get attacked. You start with 1 **Gold Coin** and you will keep all the **Gold Coins** you had,
+&gt;
+&gt; **Day Ability (Worshipper)** - If **[color=darkred]The Cult Leader[/color]** uses **Sacrifice** , they will be **Immune To Death** the next 2 nights.(1 Use)
+&gt;
+&gt; **Night Ability (Train)** - Make a **[color=darkred]Cult[/color]** member **Immune to Occupation** tonight.(2 Uses)
+&gt; **Night Ability (Bribe)** - Bribe a player to get their vote.(0 Uses - You will gain a charge of this for every **Gold Coin** you have)
+&gt; **Goal:** **[color=darkred]The Cult[/color]&#39;s Goal.**
+
+&gt; # Gold Coins
+&gt; Every time a player uses an ability on a player successfully , they get 1 **Gold Coin**.
+&gt; If the player is prevented from visiting their target , they get 0 **Gold Coins**.
+&gt; **[color=darkgray]The Merchant[/color]** will become **Conversion Immune** upon achieving his goal.
+
+&gt; # Buffs
+&gt; **If 2 **[color=darkgray]Merchants[/color]** buff the same target , it will have no effect , HOWEVER if a **[color=purple]Traveler[/color]** and a **[color=darkgray]Merchant[/color]** buff the same person (an **[color=purple]Unseen[/color]** member) , it will have adittional effects on that player.**
+&gt;
+&gt; **If a player spent 5+ **Gold Coins** on a buff , they will get an additional effect. This applies to **[color=purple]The Unseen[/color]** too.**
+&gt;
+&gt; **[color=steblue]The Butler[/color]** - **(Quality Wine)** **Serve Wine** will bypass **Occupation Immunity** every other night. | 5+ **Gold Coins** spent - **(Wine Reserve)** You will gain 2 extra charges of **Concentrated Wine**.
+&gt;
+&gt; **[color=steblue]The Court Wizard[/color]** - **(Spellcaster)** If you use **Clear Mind** on someone , they will get your **Empower**&#39;s effects too. | 5+ **Gold Coins** spent - **(Trickster)** You can use **Clear Mind** on yourself and you will gain 2 extra charges of **Clear Mind**.
+&gt;
+&gt; **[color=steblue]The Drunk[/color]** - **(Liquor)** If you use **Happy Hour** on someone , they will get redirected to you the next night. You will be **Night Immune** to any attacks you redirect. (Does NOT Bypass Redirection Immunity) | 5+ **Gold Coins** spent - **(Aftermath)** If you use **Happy Hour** on someone , they will get occupied the next night too. You will gain an extra charge of **Happy Hour**.(Bypasses Occupation Immunity)
+&gt;
+&gt; **[color=steblue]The Hunter[/color]** - **(Nature&#39;s Shield)** If you die , your attacker will die too. | 5+ **Gold Coins** spent - **(Companions)** - You will gain an extra charge of **Wolf Companion** and **Bear Companion**. Every time you use an ability , you will become **Immune to Conversion**. Your **Wolf Companion** now instantly kills the target. You will commit suicide if they are an ally.
+&gt;
+&gt; **[color=steblue]The Knight[/color]** - **(Quality Armor)** You will become **Immune to Death** once. | 5+ **Gold Coins** spent - **(Armory)** - You will not die if you kill someone when using **Defend**.
+&gt;
+&gt; **[color=steblue]The Mystic[/color]** - **(Visions)** When using **Conduit** , you will learn if the players you contacted are in the same faction. | 5+ **Gold Coins** spent - **(Mental Connection)** You can now talk when you use **Conduit**. You will gain an extra charge of **Conduit**.
+&gt;
+&gt; **[color=steblue]The Noble[/color]** - **(Truthful)** Your vote can not be tempered with. You will gain an extra charge of all your **Day Abilities**. | 5+ **Gold Coins** spent - **(An Eye for An Eye)** If you get executed , the first player that accused you of treason will commit suicide.
+&gt;
+&gt; **[color=steblue]The Observer[/color]** - **(Orders from The Adiart)** **Mindwarp** won&#39;t have any effect on you. | 5+ **Gold Coins** spent - **(Examination)** If you use **Window Peek** on someone , you will get their class.
+&gt;
+&gt; **[color=steblue]The Paladin[/color]** - **(The Prophecy)** You will become **Immune to Occupation/Redirection**. | 5+ **Gold Coins** spent - **(Cleanse the Heretics)** - If you find a member of **[color=darkred]The Cult[/color]** , you will kill them.
+&gt;
+&gt; **[color=steblue]The Physician[/color]** - **(Magic Herbs)** If you successfully heal someone , they will become **Immune to Nightshade/Bleeding**. | 5+ **Gold Coins** spent - **(Analyze)** Your **Exhume** day ability will become your passive. If you successfully heal someone , the identity of their killer will be revealed to you.
+&gt;
+&gt; **[color=steblue]The Prince[/color]** - **(Inspector)** If you execute a member of **[color=steblue]The Blue Dragon[/color]** , you will not lose a charge of your **Execute**.(Applies once.) | 5+ **Gold Coins** spent - **(Confession - Night Ability)** Reveal the faction of your prisoner. (2 Uses)
+&gt;
+&gt; **[color=steblue]The Princess[/color]** - **(Innocence)** When you use **Will-o-Wisp** , you will select another person to show them who visited you. | 5+ **Gold Coins** spent - **(Expert)** You will get the exact class type of your target.
+&gt;
+&gt; **[color=steblue]The Sheriff[/color]** - **(Promoted)** You will become **Immune to Death** once. If you are attacked , the killer will commit suicide. (Does NOT Bypass Night Immunity/Healing) | 5+ **Gold Coins** spent - **(Alarmed)** You will gain 1 extra charge of **Surveillance**. If you find an **[color=purple]Unseen[/color]** member using **Surveillance** , you will see who they visited last night.
+
+&gt; **[color=purple]The Alcoholic[/color]** - **(Excuse)** You will appear not suspicious to any **Investigatives** classes you redirect to yourself. | 5+ **Gold Coins** spent - **(Annoyed)** You will become immune to any attacks you redirect. | 2 Buffs - **(Returning Favor)** When you use **Happy Hour** , any abilities against **[color=purple]The Assassin[/color]** will be prevented. | 2 Buffs &amp;amp; 5+ **Gold Coins** spent - **(Killer Instincts)** **Debauchery** now bypasses **Redirection Immunity**.
+&gt;
+&gt; **[color=purple]The Aristocrat[/color]** - **(Political Failure)** After using **Political Pressure** , you will appear not suspicious to any **Investigatives** classes. | 5+ **Gold Coins** spent - **(Triple Vote)** The King&#39;s vote when someone is on trial will be identical to yours if you use **Noble Twin**. | 2 Buffs - **(King&#39;s Will)** If the current King dies , you will instantly become the next King.(Elections will still be held but the votes won&#39;t matter) | 2 Buffs &amp;amp; 5+ **Gold Coins** spent - **(Evil Senses)** Gain an extra chargeof **Decide Fate** when you become king.
+&gt;
+&gt; **[color=purple]The Assassin[/color]** - **(Fatality)** You will become **Immune to Redirection**. | 5+ **Gold Coins** spent - **(Quality Nightshade)** The next 2 uses of **Nightshade** can NOT be healed. | 2 Buffs - **(Hidden)** You will become **Immune to Death** once. | 2 Buffs &amp;amp; 5+ **Gold Coins** spent **(Trained Killer)** You will gain 2 extra uses of **Nighshade**. Your **Silence** ability will pevent a player from voting. |
+&gt; **Special Buffs:** **Nightshade** - The Target will get occupied tonight.
+&gt; **Silence** - The Target will be unable to speak and vote for the whole day.
+&gt; **Assassinate** - Every 3 nights , this bypassess **Night Immunity**/**Healing**.
+&gt; **2-For-1** - Same as **Assassinate**.
+&gt;
+&gt; **[color=purple]The Duchess[/color]** - **(Pressure)** You will become **Immune to Occupation**. |  5+ **Gold Coins** spent - **(Impersonation)** You can perform all your night abilities every night. | 2 Buffs - **(In The Shadows)** You will appear as not **Ocuppy Immune**. | 2 Buffs  &amp; 5+ **Gold Coins** - **(Improvements)** You can now target a player with your **Dark Wisp** to see who visited them. |
+&gt;
+&gt; **[color=purple]The Enforcer[/color]** - **(Armored)** You will become **Immune to Death** when using **Protection**. | 5+ **Gold Coins** spent - **(Watchful)** When using **Protection** , you will see who visited your target. | 2 Buffs - **(Orders)** If you use **Frenzy** , you will visit your target instead of **[color=purple]The Assassin[/color]**. | 2 Buffs &amp; 5+ **Gold Coins** spent - **(Peacemaker)** You will become **Immune To Occupation/Redirection**.
+&gt;
+&gt; **[color=purple]The Herbalist[/color]** - **(Herbs)** You will become **Immune to Death** when using **Defile**. Your attacker will not know you are immune. | 5+ **Gold Coins** spent - **(Arsenal)** You will gain 2 extra uses of **Drug** and 1 extra use of **Defile**. | 2 Buffs - **(Scared)** If you drug a player , they will be occupied the next night. | 2 Buffs &amp; 5+ **Gold Coins** spent - **(Hallucinations)** If you drug a player , they will receive incorrect feedback from their abilities the next night.
+&gt;
+&gt; **[color=purple]The Illusionist[/color]** - **(Vanish)** You will gain an extra charge of **Mental Blur**. | 5+ **Gold Coins** spent - **(Mental Link)** You will gain an extra charge of your day abilities. | 2 Buffs - **(Third Eye)** If you use **Mindwarp** on someone , that person will be framed. | 2 Buffs &amp; 5+ **Gold Coins** spent - **(Tranquility)** - When you use **Mindwarp** on a player , you will gain their abilities&#39; feedback.
+&gt;
+&gt; **[color=purple]The Marshal[/color]** - **(Test)** You will become **Immune to Occupation/Redirection**. | 5+ **Gold Coins** spent - **(Influence - New Day Ability | 2 Uses)** You will see if your target visits **[color=purple]The Unseen[/color]** tonight. | 2 Buffs - **(Suspicions - New Day Ability | 2 Uses)** Frame a player to make them appear suspicious to Investigative classes.  | 2 Buffs &amp; 5+ **Gold Coins** spent - **(Curiosity)** You will gain 1 extra use of **Snoop**.
+&gt;
+&gt; **[color=purple]The Mastermind[/color]** - **(Command)** You will gain an extra use of **Foresight**. | 5+ **Gold Coins** spent - **(Mailman)** Your abilities will no longer count as visiting. | 2 Buffs - **(Delivery)** If you convert someone , they will appear as not suspicious the next night. | 2 Buffs &amp; 5+ **Gold Coins** spent - **(Timed Actions - New Day Ability | 1 Use)** **[color=purple]The Unseen[/color]** can not be occupied tonight.
+&gt; **Special Buffs** : **Dirty Work** - You will keep all your passives.
+&gt;                             **Convert** - **[color=purple]The Unseen[/color]**&#39;s member limit increases to 4.
+&gt;                             **Foresight** - You will learn the class type of your target instead.
+&gt;
+&gt; **[color=purple]The Nightwatch[/color]** - **(Watchdog)** You will gain an adittional use of **Watch Carefully**. | 5+ **Gold Coins** spent - **(Eyes Everywhere)** You will see who visited **[color=purple]The Unseen[/color]**.| 2 Buffs - **(Intimdation)** If a player visits you tonight , they will be occupied. | 2 Buffs &amp; 5+ **Gold Coins** spent - **(Eavesdrop - New Day Ability | 2 Uses)** Listen to **[color=steblue]The Prince[/color]** tonight.
+&gt;
+&gt; **[color=purple]The Poacher[/color]** - **(Snared)** You will learn the class of the person you use **Snare Traps** on. | 5+ **Gold Coins** spent - **(Innocent)** - If you do not perform any night ability , you will appear not suspicious to Investigative classes. | 2 Buffs - **(Retribution)** You will keep gain the passive **Retribution**. | 2 Buffs &amp; 5+ **Gold Coins** spent - **(Craftsman)** You will gain an extra use of all your Night Abilities.
+&gt;
+&gt; **[color=purple]The Sage[/color]** - **(Invisible)** When you first use **Tornado** , you will appear not suspicious. | 5+ **Gold Coins** spent - **(Limitations)** **Tornado** is reduced to 3 Uses. If you use **Tornado** on an **[color=purple]Unseen[/color]** member , they will appear not suspicious. | 2 Buffs - **(Magician)** You will gain an extra charge of **Wall of Fire**. | 2 Buffs &amp; 5+ **Gold Coins** spent - **(Fire Phoenix)** When you use **Wall of Fire** , you will become **Immune to Redirection**.
+&gt;
+&gt; **[color=purple]The Servant[/color]** - **(Quality Wine)** **Serve Wine** will bypass **Occupation Immunity** every other night. | 5+ **Gold Coins** spent - **(Wine Reserve)** You will gain 2 extra charges of **Concentrated Wine**. | 2 Buffs - **(Aftermath)** If you successfully occupy a player , they will be occupied the next night too. | 2 Buffs &amp; 5+ **Gold Coins** spent - **(Poison Wine)** Poison The King&#39;s wine. If they are Good , you will gain an extra charge of **Concentrated Wine**.
+
+&gt; **[color=darkred]The Apostle[/color]** - **(Respected)** You will gain an extra charge of all your abilities. | 5+ **Gold Coins** spent - **(Hidden Whispers)** **[color=darkred]The Cult[/color]**&#39;s whispers will be hidden from The Court.
+&gt; 
+&gt; **[color=darkred]The Cult Leader[/color]** - **(Devoted)** You will become **Immune to Death** once. | 5+ **Gold Coins** spent - **(Last Stand)** If you are the last member of **[color=darkred]The Cult[/color]** alive , you can no longer be occupied.
+&gt;
+&gt; **[color=darkred]The Invoker[/color]** - **(Puppeteer)** **Chains of Corax** now bypasses **Redirection Immunity** | 5+ **Gold Coins** spent - **(Threaten)** **Bewilder** now has 3 charges.
+&gt;
+&gt; **[color=darkred]The Ritualist[/color]** - **(Tricked)** You will become **Redirection/Occupy Immune** when you use **Teleportation**. | 5+ **Gold Coins** spent - **(Cultist)** **Brotherhood** now makes the target **Occupy Immune**.
+&gt;
+&gt; **[color=darkred]The Seeker[/color]** - **(Share)** **[color=darkred]The Cult[/color]** will always see your abilities&#39; feedback. | 5+ **Gold Coins** spent - **(Truth Seeker)** Gain an extra charge of all your aabilities.
+&gt;
+&gt; **[color=darkred]The Teacher[/color]** - **(Patience)** You will become **Immune to Occupation/Redirection.** | 5+ **Gold Coins** spent - **(Thief)** You will gain 2 **Gold Coins** every night.
+
+&gt; # Note
+&gt; The Buffs will only make Neutral classes become Occupy Immune.</description>
+    
+    <lastBuildDate>Wed, 29 Aug 2018 22:45:31 +0000</lastBuildDate>
+    <category>Class/Lore/Fanfic</category>
+    <atom:link href="https://forum.throneoflies.com/t/class-suggestion-the-merchant/71953.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[Class Suggestion]The Merchant</title>
+        <dc:creator><![CDATA[Damafaud]]></dc:creator>
+        <description><![CDATA[
+            <p>Unique is nice but only in theory.</p>
+<p>Who would even play a game with a class like this as a standard making a meta for it alone will be a pain not to mention if it’s on ToL coding it will be a pain.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-the-merchant/71953/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-the-merchant/71953/10</link>
+        <pubDate>Wed, 29 Aug 2018 22:45:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71953-10</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-the-merchant/71953.rss">[Class Suggestion]The Merchant</source>
+      </item>
+      <item>
+        <title>[Class Suggestion]The Merchant</title>
+        <dc:creator><![CDATA[Sketch]]></dc:creator>
+        <description><![CDATA[
+            <p>These are interesting and neat and at all but</p>
+<p>Whew.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-the-merchant/71953/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-the-merchant/71953/9</link>
+        <pubDate>Wed, 29 Aug 2018 18:03:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71953-9</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-the-merchant/71953.rss">[Class Suggestion]The Merchant</source>
+      </item>
+      <item>
+        <title>[Class Suggestion]The Merchant</title>
+        <dc:creator><![CDATA[NAOtheRitualist]]></dc:creator>
+        <description><![CDATA[
+            <p>typo ._.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-the-merchant/71953/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-the-merchant/71953/8</link>
+        <pubDate>Wed, 29 Aug 2018 14:46:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71953-8</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-the-merchant/71953.rss">[Class Suggestion]The Merchant</source>
+      </item>
+      <item>
+        <title>[Class Suggestion]The Merchant</title>
+        <dc:creator><![CDATA[Insanity]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="NAOtheRitualist" data-post="1" data-topic="71953">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/naotheritualist/40/5457_2.png" class="avatar"> NAOtheRitualist:</div>
+<blockquote>
+<p>Lower The Prince</p>
+</blockquote>
+</aside>
+<p>Why do we need to lower the prince?</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-the-merchant/71953/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-the-merchant/71953/7</link>
+        <pubDate>Wed, 29 Aug 2018 14:35:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71953-7</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-the-merchant/71953.rss">[Class Suggestion]The Merchant</source>
+      </item>
+      <item>
+        <title>[Class Suggestion]The Merchant</title>
+        <dc:creator><![CDATA[NAOtheRitualist]]></dc:creator>
+        <description><![CDATA[
+            <p>but it’s a unique concept!</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-the-merchant/71953/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-the-merchant/71953/6</link>
+        <pubDate>Wed, 29 Aug 2018 14:23:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71953-6</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-the-merchant/71953.rss">[Class Suggestion]The Merchant</source>
+      </item>
+      <item>
+        <title>[Class Suggestion]The Merchant</title>
+        <dc:creator><![CDATA[Damafaud]]></dc:creator>
+        <description><![CDATA[
+            <p>Eh… it’s too complicated as a class I think.</p>
+<p>Remembering all of that stuff will be a pain.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-the-merchant/71953/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-the-merchant/71953/5</link>
+        <pubDate>Wed, 29 Aug 2018 14:20:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71953-5</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-the-merchant/71953.rss">[Class Suggestion]The Merchant</source>
+      </item>
+      <item>
+        <title>[Class Suggestion]The Merchant</title>
+        <dc:creator><![CDATA[Solic]]></dc:creator>
+        <description><![CDATA[
+            <p>Good luck putting this in a classcard in the game haha. <img src="/images/emoji/twitter/smiley.png?v=9" title=":smiley:" class="emoji" alt=":smiley:"> I like the detail. You obviously spent a lot of effort on it. Neutral classes that are already occupy immune get nothing out of this though.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-the-merchant/71953/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-the-merchant/71953/4</link>
+        <pubDate>Wed, 29 Aug 2018 11:54:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71953-4</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-the-merchant/71953.rss">[Class Suggestion]The Merchant</source>
+      </item>
+      <item>
+        <title>[Class Suggestion]The Merchant</title>
+        <dc:creator><![CDATA[NAOtheRitualist]]></dc:creator>
+        <description><![CDATA[
+            <p>Because new classes are fun!</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-the-merchant/71953/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-the-merchant/71953/3</link>
+        <pubDate>Wed, 29 Aug 2018 11:33:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71953-3</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-the-merchant/71953.rss">[Class Suggestion]The Merchant</source>
+      </item>
+      <item>
+        <title>[Class Suggestion]The Merchant</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Why are you adding a new cult class for no reasons <img src="/images/emoji/twitter/thinking.png?v=9" title=":thinking:" class="emoji" alt=":thinking:"></p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-the-merchant/71953/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-the-merchant/71953/2</link>
+        <pubDate>Wed, 29 Aug 2018 11:32:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71953-2</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-the-merchant/71953.rss">[Class Suggestion]The Merchant</source>
+      </item>
+      <item>
+        <title>[Class Suggestion]The Merchant</title>
+        <dc:creator><![CDATA[NAOtheRitualist]]></dc:creator>
+        <description><![CDATA[
+            <blockquote>
+<h1><font color="darkgray">The Merchant</font></h1>
+<p><strong><font color="darkgray">Neutral Support</font></strong></p>
+<p><strong>Passive (Gold Coins!)</strong> - Atleast 1 player with this passive will spawn in every game. This introduces a new mechanic in the game.<br>
+<strong>Passive (In Stock!)</strong> - The Starting Price of your <strong>Assisstance for a Price</strong> is 3 <strong>Gold Coins</strong>. You will lose 1 <strong>Gold Coin</strong> every time you get attacked. You start with 3 <strong>Gold Coins</strong>.</p>
+<p><strong>Day Ability (Up The Price!)</strong> - Up the Price of your Night Abilities by 1 <strong>Gold Coin</strong>.(Infinite Uses - [1 Day Cooldown])<br>
+<strong>Day Ability (Lower The Price)</strong> - Lower the Price of your Night Abilities by 1 <strong>Gold Coin</strong>.(Infinite Uses - [1 Day Cooldown])</p>
+<p><strong>Night Ability (Assisstance for a Price)</strong> - Attempt to sell a player a buff depending on their class. They can accept it or refuse it. If they don’t have enough <strong>Gold Coins</strong> , they will not be notified of your attempt. (Infinite Uses - Can NOT Target the same player twice.)<br>
+<strong>Night Ability (Recharged!)</strong> - If your target uses a limited ability tonight , they will not lose a charge of their ability.(3 Uses - Price for a successful recharge : 2 <strong>Gold Coins</strong>)<br>
+<strong>Goal :</strong> <em>Have 14 <strong>Gold Coins</strong> by the end of the game.</em></p>
+<p><strong><font color="purple">Converts into</font>:</strong></p>
+<h1><font color="purple">The Traveler</font></h1>
+<p><strong><font color="purple">Unseen Support</font></strong></p>
+<p><strong>Passive (Gold Coins!)</strong> - Atleast 1 player with this passive will spawn in every game. This introduces a new mechanic in the game<br>
+<strong>Passive (The Adiart’s Treasure)</strong> - Every Night , every <strong><font color="purple">Unseen</font></strong> member will gain an additional <strong>Gold Coin</strong>. (They Will gain it even if they were <strong>Prevented</strong> from visiting their targets). You will lose 1 <strong>Gold Coin</strong> every time you get attacked. You start with <strong>2 Gold Coins</strong> and you will keep all the <strong>Gold Coins</strong> you had.</p>
+<p><strong>Day Ability (Next Generation)</strong> - Empower an <strong><font color="purple">Unseen</font></strong> member’s abilities. (1 Use - This Effects last for 3 nights)</p>
+<p><strong>Night Ability (Ready For Battle!)</strong> - <strong><font color="purple">The Assassin</font></strong> can NOT be <strong>Occupied/Redirected</strong> tonight.(2 Uses)<br>
+<strong>Night Ability (Revenge)</strong> - Kill a player who accused a member of <strong><font color="purple">The Unseen</font></strong> of treason during the day.(1 Use - You will become <strong>Immune to Occupation/Redirection</strong>)<br>
+<strong>Goal:</strong> <strong><font color="purple">The Unseen</font>’s Goal.</strong></p>
+<p><strong><font color="darkred">Converts into:</font></strong></p>
+<h1><font color="darkred">The Teacher</font></h1>
+<p><strong><font color="darkred">Cult Support</font></strong></p>
+<p><strong>Passive (Gold Coins!)</strong> - Atleast 1 player with this passive will spawn in every game. This introduces a new mechanic in the game.<br>
+<strong>Passive (Paid Workforce)</strong> - When you visit a <strong><font color="darkred">Cult</font></strong> member , you gain 1 extra <strong>Gold Coin</strong>. You will lose 1 <strong>Gold Coin</strong> every time you get attacked. You start with 1 <strong>Gold Coin</strong> and you will keep all the <strong>Gold Coins</strong> you had,</p>
+<p><strong>Day Ability (Worshipper)</strong> - If <strong><font color="darkred">The Cult Leader</font></strong> uses <strong>Sacrifice</strong> , they will be <strong>Immune To Death</strong> the next 2 nights.(1 Use)</p>
+<p><strong>Night Ability (Train)</strong> - Make a <strong><font color="darkred">Cult</font></strong> member <strong>Immune to Occupation</strong> tonight.(2 Uses)<br>
+<strong>Night Ability (Bribe)</strong> - Bribe a player to get their vote.(0 Uses - You will gain a charge of this for every <strong>Gold Coin</strong> you have)<br>
+<strong>Goal:</strong> <strong><font color="darkred">The Cult</font>’s Goal.</strong></p>
+</blockquote>
+<blockquote>
+<h1>Gold Coins</h1>
+<p>Every time a player uses an ability on a player successfully , they get 1 <strong>Gold Coin</strong>.<br>
+If the player is prevented from visiting their target , they get 0 <strong>Gold Coins</strong>.<br>
+<strong><font color="darkgray">The Merchant</font></strong> will become <strong>Conversion Immune</strong> upon achieving his goal.</p>
+</blockquote>
+<blockquote>
+<h1>Buffs</h1>
+<p><strong>If 2 <strong><font color="darkgray">Merchants</font></strong> buff the same target , it will have no effect , HOWEVER if a <strong><font color="purple">Traveler</font></strong> and a <strong><font color="darkgray">Merchant</font></strong> buff the same person (an <strong><font color="purple">Unseen</font></strong> member) , it will have adittional effects on that player.</strong></p>
+<p><strong>If a player spent 5+ <strong>Gold Coins</strong> on a buff , they will get an additional effect. This applies to <strong><font color="purple">The Unseen</font></strong> too.</strong></p>
+<p><strong><font color="steblue">The Butler</font></strong> - <strong>(Quality Wine)</strong> <strong>Serve Wine</strong> will bypass <strong>Occupation Immunity</strong> every other night. | 5+ <strong>Gold Coins</strong> spent - <strong>(Wine Reserve)</strong> You will gain 2 extra charges of <strong>Concentrated Wine</strong>.</p>
+<p><strong><font color="steblue">The Court Wizard</font></strong> - <strong>(Spellcaster)</strong> If you use <strong>Clear Mind</strong> on someone , they will get your <strong>Empower</strong>’s effects too. | 5+ <strong>Gold Coins</strong> spent - <strong>(Trickster)</strong> You can use <strong>Clear Mind</strong> on yourself and you will gain 2 extra charges of <strong>Clear Mind</strong>.</p>
+<p><strong><font color="steblue">The Drunk</font></strong> - <strong>(Liquor)</strong> If you use <strong>Happy Hour</strong> on someone , they will get redirected to you the next night. You will be <strong>Night Immune</strong> to any attacks you redirect. (Does NOT Bypass Redirection Immunity) | 5+ <strong>Gold Coins</strong> spent - <strong>(Aftermath)</strong> If you use <strong>Happy Hour</strong> on someone , they will get occupied the next night too. You will gain an extra charge of <strong>Happy Hour</strong>.(Bypasses Occupation Immunity)</p>
+<p><strong><font color="steblue">The Hunter</font></strong> - <strong>(Nature’s Shield)</strong> If you die , your attacker will die too. | 5+ <strong>Gold Coins</strong> spent - <strong>(Companions)</strong> - You will gain an extra charge of <strong>Wolf Companion</strong> and <strong>Bear Companion</strong>. Every time you use an ability , you will become <strong>Immune to Conversion</strong>. Your <strong>Wolf Companion</strong> now instantly kills the target. You will commit suicide if they are an ally.</p>
+<p><strong><font color="steblue">The Knight</font></strong> - <strong>(Quality Armor)</strong> You will become <strong>Immune to Death</strong> once. | 5+ <strong>Gold Coins</strong> spent - <strong>(Armory)</strong> - You will not die if you kill someone when using <strong>Defend</strong>.</p>
+<p><strong><font color="steblue">The Mystic</font></strong> - <strong>(Visions)</strong> When using <strong>Conduit</strong> , you will learn if the players you contacted are in the same faction. | 5+ <strong>Gold Coins</strong> spent - <strong>(Mental Connection)</strong> You can now talk when you use <strong>Conduit</strong>. You will gain an extra charge of <strong>Conduit</strong>.</p>
+<p><strong><font color="steblue">The Noble</font></strong> - <strong>(Truthful)</strong> Your vote can not be tempered with. You will gain an extra charge of all your <strong>Day Abilities</strong>. | 5+ <strong>Gold Coins</strong> spent - <strong>(An Eye for An Eye)</strong> If you get executed , the first player that accused you of treason will commit suicide.</p>
+<p><strong><font color="steblue">The Observer</font></strong> - <strong>(Orders from The Adiart)</strong> <strong>Mindwarp</strong> won’t have any effect on you. | 5+ <strong>Gold Coins</strong> spent - <strong>(Examination)</strong> If you use <strong>Window Peek</strong> on someone , you will get their class.</p>
+<p><strong><font color="steblue">The Paladin</font></strong> - <strong>(The Prophecy)</strong> You will become <strong>Immune to Occupation/Redirection</strong>. | 5+ <strong>Gold Coins</strong> spent - <strong>(Cleanse the Heretics)</strong> - If you find a member of <strong><font color="darkred">The Cult</font></strong> , you will kill them.</p>
+<p><strong><font color="steblue">The Physician</font></strong> - <strong>(Magic Herbs)</strong> If you successfully heal someone , they will become <strong>Immune to Nightshade/Bleeding</strong>. | 5+ <strong>Gold Coins</strong> spent - <strong>(Analyze)</strong> Your <strong>Exhume</strong> day ability will become your passive. If you successfully heal someone , the identity of their killer will be revealed to you.</p>
+<p><strong><font color="steblue">The Prince</font></strong> - <strong>(Inspector)</strong> If you execute a member of <strong><font color="steblue">The Blue Dragon</font></strong> , you will not lose a charge of your <strong>Execute</strong>.(Applies once.) | 5+ <strong>Gold Coins</strong> spent - <strong>(Confession - Night Ability)</strong> Reveal the faction of your prisoner. (2 Uses)</p>
+<p><strong><font color="steblue">The Princess</font></strong> - <strong>(Innocence)</strong> When you use <strong>Will-o-Wisp</strong> , you will select another person to show them who visited you. | 5+ <strong>Gold Coins</strong> spent - <strong>(Expert)</strong> You will get the exact class type of your target.</p>
+<p><strong><font color="steblue">The Sheriff</font></strong> - <strong>(Promoted)</strong> You will become <strong>Immune to Death</strong> once. If you are attacked , the killer will commit suicide. (Does NOT Bypass Night Immunity/Healing) | 5+ <strong>Gold Coins</strong> spent - <strong>(Alarmed)</strong> You will gain 1 extra charge of <strong>Surveillance</strong>. If you find an <strong><font color="purple">Unseen</font></strong> member using <strong>Surveillance</strong> , you will see who they visited last night.</p>
+</blockquote>
+<blockquote>
+<p><strong><font color="purple">The Alcoholic</font></strong> - <strong>(Excuse)</strong> You will appear not suspicious to any <strong>Investigatives</strong> classes you redirect to yourself. | 5+ <strong>Gold Coins</strong> spent - <strong>(Annoyed)</strong> You will become immune to any attacks you redirect. | 2 Buffs - <strong>(Returning Favor)</strong> When you use <strong>Happy Hour</strong> , any abilities against <strong><font color="purple">The Assassin</font></strong> will be prevented. | 2 Buffs &amp; 5+ <strong>Gold Coins</strong> spent - <strong>(Killer Instincts)</strong> <strong>Debauchery</strong> now bypasses <strong>Redirection Immunity</strong>.</p>
+<p><strong><font color="purple">The Aristocrat</font></strong> - <strong>(Political Failure)</strong> After using <strong>Political Pressure</strong> , you will appear not suspicious to any <strong>Investigatives</strong> classes. | 5+ <strong>Gold Coins</strong> spent - <strong>(Triple Vote)</strong> The King’s vote when someone is on trial will be identical to yours if you use <strong>Noble Twin</strong>. | 2 Buffs - <strong>(King’s Will)</strong> If the current King dies , you will instantly become the next King.(Elections will still be held but the votes won’t matter) | 2 Buffs &amp; 5+ <strong>Gold Coins</strong> spent - <strong>(Evil Senses)</strong> Gain an extra chargeof <strong>Decide Fate</strong> when you become king.</p>
+<p><strong><font color="purple">The Assassin</font></strong> - <strong>(Fatality)</strong> You will become <strong>Immune to Redirection</strong>. | 5+ <strong>Gold Coins</strong> spent - <strong>(Quality Nightshade)</strong> The next 2 uses of <strong>Nightshade</strong> can NOT be healed. | 2 Buffs - <strong>(Hidden)</strong> You will become <strong>Immune to Death</strong> once. | 2 Buffs &amp; 5+ <strong>Gold Coins</strong> spent <strong>(Trained Killer)</strong> You will gain 2 extra uses of <strong>Nighshade</strong>. Your <strong>Silence</strong> ability will pevent a player from voting. |<br>
+<strong>Special Buffs:</strong> <strong>Nightshade</strong> - The Target will get occupied tonight.<br>
+<strong>Silence</strong> - The Target will be unable to speak and vote for the whole day.<br>
+<strong>Assassinate</strong> - Every 3 nights , this bypassess <strong>Night Immunity</strong>/<strong>Healing</strong>.<br>
+<strong>2-For-1</strong> - Same as <strong>Assassinate</strong>.</p>
+<p><strong><font color="purple">The Duchess</font></strong> - <strong>(Pressure)</strong> You will become <strong>Immune to Occupation</strong>. |  5+ <strong>Gold Coins</strong> spent - <strong>(Impersonation)</strong> You can perform all your night abilities every night. | 2 Buffs - <strong>(In The Shadows)</strong> You will appear as not <strong>Ocuppy Immune</strong>. | 2 Buffs  &amp; 5+ <strong>Gold Coins</strong> - <strong>(Improvements)</strong> You can now target a player with your <strong>Dark Wisp</strong> to see who visited them. |</p>
+<p><strong><font color="purple">The Enforcer</font></strong> - <strong>(Armored)</strong> You will become <strong>Immune to Death</strong> when using <strong>Protection</strong>. | 5+ <strong>Gold Coins</strong> spent - <strong>(Watchful)</strong> When using <strong>Protection</strong> , you will see who visited your target. | 2 Buffs - <strong>(Orders)</strong> If you use <strong>Frenzy</strong> , you will visit your target instead of <strong><font color="purple">The Assassin</font></strong>. | 2 Buffs &amp; 5+ <strong>Gold Coins</strong> spent - <strong>(Peacemaker)</strong> You will become <strong>Immune To Occupation/Redirection</strong>.</p>
+<p><strong><font color="purple">The Herbalist</font></strong> - <strong>(Herbs)</strong> You will become <strong>Immune to Death</strong> when using <strong>Defile</strong>. Your attacker will not know you are immune. | 5+ <strong>Gold Coins</strong> spent - <strong>(Arsenal)</strong> You will gain 2 extra uses of <strong>Drug</strong> and 1 extra use of <strong>Defile</strong>. | 2 Buffs - <strong>(Scared)</strong> If you drug a player , they will be occupied the next night. | 2 Buffs &amp; 5+ <strong>Gold Coins</strong> spent - <strong>(Hallucinations)</strong> If you drug a player , they will receive incorrect feedback from their abilities the next night.</p>
+<p><strong><font color="purple">The Illusionist</font></strong> - <strong>(Vanish)</strong> You will gain an extra charge of <strong>Mental Blur</strong>. | 5+ <strong>Gold Coins</strong> spent - <strong>(Mental Link)</strong> You will gain an extra charge of your day abilities. | 2 Buffs - <strong>(Third Eye)</strong> If you use <strong>Mindwarp</strong> on someone , that person will be framed. | 2 Buffs &amp; 5+ <strong>Gold Coins</strong> spent - <strong>(Tranquility)</strong> - When you use <strong>Mindwarp</strong> on a player , you will gain their abilities’ feedback.</p>
+<p><strong><font color="purple">The Marshal</font></strong> - <strong>(Test)</strong> You will become <strong>Immune to Occupation/Redirection</strong>. | 5+ <strong>Gold Coins</strong> spent - <strong>(Influence - New Day Ability | 2 Uses)</strong> You will see if your target visits <strong><font color="purple">The Unseen</font></strong> tonight. | 2 Buffs - <strong>(Suspicions - New Day Ability | 2 Uses)</strong> Frame a player to make them appear suspicious to Investigative classes.  | 2 Buffs &amp; 5+ <strong>Gold Coins</strong> spent - <strong>(Curiosity)</strong> You will gain 1 extra use of <strong>Snoop</strong>.</p>
+<p><strong><font color="purple">The Mastermind</font></strong> - <strong>(Command)</strong> You will gain an extra use of <strong>Foresight</strong>. | 5+ <strong>Gold Coins</strong> spent - <strong>(Mailman)</strong> Your abilities will no longer count as visiting. | 2 Buffs - <strong>(Delivery)</strong> If you convert someone , they will appear as not suspicious the next night. | 2 Buffs &amp; 5+ <strong>Gold Coins</strong> spent - <strong>(Timed Actions - New Day Ability | 1 Use)</strong> <strong><font color="purple">The Unseen</font></strong> can not be occupied tonight.<br>
+<strong>Special Buffs</strong> : <strong>Dirty Work</strong> - You will keep all your passives.<br>
+<strong>Convert</strong> - <strong><font color="purple">The Unseen</font></strong>’s member limit increases to 4.<br>
+<strong>Foresight</strong> - You will learn the class type of your target instead.</p>
+<p><strong><font color="purple">The Nightwatch</font></strong> - <strong>(Watchdog)</strong> You will gain an adittional use of <strong>Watch Carefully</strong>. | 5+ <strong>Gold Coins</strong> spent - <strong>(Eyes Everywhere)</strong> You will see who visited <strong><font color="purple">The Unseen</font></strong>.| 2 Buffs - <strong>(Intimdation)</strong> If a player visits you tonight , they will be occupied. | 2 Buffs &amp; 5+ <strong>Gold Coins</strong> spent - <strong>(Eavesdrop - New Day Ability | 2 Uses)</strong> Listen to <strong><font color="steblue">The Prince</font></strong> tonight.</p>
+<p><strong><font color="purple">The Poacher</font></strong> - <strong>(Snared)</strong> You will learn the class of the person you use <strong>Snare Traps</strong> on. | 5+ <strong>Gold Coins</strong> spent - <strong>(Innocent)</strong> - If you do not perform any night ability , you will appear not suspicious to Investigative classes. | 2 Buffs - <strong>(Retribution)</strong> You will keep gain the passive <strong>Retribution</strong>. | 2 Buffs &amp; 5+ <strong>Gold Coins</strong> spent - <strong>(Craftsman)</strong> You will gain an extra use of all your Night Abilities.</p>
+<p><strong><font color="purple">The Sage</font></strong> - <strong>(Invisible)</strong> When you first use <strong>Tornado</strong> , you will appear not suspicious. | 5+ <strong>Gold Coins</strong> spent - <strong>(Limitations)</strong> <strong>Tornado</strong> is reduced to 3 Uses. If you use <strong>Tornado</strong> on an <strong><font color="purple">Unseen</font></strong> member , they will appear not suspicious. | 2 Buffs - <strong>(Magician)</strong> You will gain an extra charge of <strong>Wall of Fire</strong>. | 2 Buffs &amp; 5+ <strong>Gold Coins</strong> spent - <strong>(Fire Phoenix)</strong> When you use <strong>Wall of Fire</strong> , you will become <strong>Immune to Redirection</strong>.</p>
+<p><strong><font color="purple">The Servant</font></strong> - <strong>(Quality Wine)</strong> <strong>Serve Wine</strong> will bypass <strong>Occupation Immunity</strong> every other night. | 5+ <strong>Gold Coins</strong> spent - <strong>(Wine Reserve)</strong> You will gain 2 extra charges of <strong>Concentrated Wine</strong>. | 2 Buffs - <strong>(Aftermath)</strong> If you successfully occupy a player , they will be occupied the next night too. | 2 Buffs &amp; 5+ <strong>Gold Coins</strong> spent - <strong>(Poison Wine)</strong> Poison The King’s wine. If they are Good , you will gain an extra charge of <strong>Concentrated Wine</strong>.</p>
+</blockquote>
+<blockquote>
+<p><strong><font color="darkred">The Apostle</font></strong> - <strong>(Respected)</strong> You will gain an extra charge of all your abilities. | 5+ <strong>Gold Coins</strong> spent - <strong>(Hidden Whispers)</strong> <strong><font color="darkred">The Cult</font></strong>’s whispers will be hidden from The Court.</p>
+<p><strong><font color="darkred">The Cult Leader</font></strong> - <strong>(Devoted)</strong> You will become <strong>Immune to Death</strong> once. | 5+ <strong>Gold Coins</strong> spent - <strong>(Last Stand)</strong> If you are the last member of <strong><font color="darkred">The Cult</font></strong> alive , you can no longer be occupied.</p>
+<p><strong><font color="darkred">The Invoker</font></strong> - <strong>(Puppeteer)</strong> <strong>Chains of Corax</strong> now bypasses <strong>Redirection Immunity</strong> | 5+ <strong>Gold Coins</strong> spent - <strong>(Threaten)</strong> <strong>Bewilder</strong> now has 3 charges.</p>
+<p><strong><font color="darkred">The Ritualist</font></strong> - <strong>(Tricked)</strong> You will become <strong>Redirection/Occupy Immune</strong> when you use <strong>Teleportation</strong>. | 5+ <strong>Gold Coins</strong> spent - <strong>(Cultist)</strong> <strong>Brotherhood</strong> now makes the target <strong>Occupy Immune</strong>.</p>
+<p><strong><font color="darkred">The Seeker</font></strong> - <strong>(Share)</strong> <strong><font color="darkred">The Cult</font></strong> will always see your abilities’ feedback. | 5+ <strong>Gold Coins</strong> spent - <strong>(Truth Seeker)</strong> Gain an extra charge of all your aabilities.</p>
+<p><strong><font color="darkred">The Teacher</font></strong> - <strong>(Patience)</strong> You will become <strong>Immune to Occupation/Redirection.</strong> | 5+ <strong>Gold Coins</strong> spent - <strong>(Thief)</strong> You will gain 2 <strong>Gold Coins</strong> every night.</p>
+</blockquote>
+<blockquote>
+<h1>Note</h1>
+<p>The Buffs will only make Neutral classes become Occupy Immune.</p>
+</blockquote>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-the-merchant/71953/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-the-merchant/71953/1</link>
+        <pubDate>Wed, 29 Aug 2018 11:12:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71953-1</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-the-merchant/71953.rss">[Class Suggestion]The Merchant</source>
+      </item>
+  </channel>
+</rss>

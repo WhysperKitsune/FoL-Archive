@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</title>
+    <link>https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438</link>
+    <description># [color=purple]The Unseen[/color]
+[details=Show]
+&gt; # [color=purple]The Alcoholic[/color]
+&gt; [color=purple]**Unseen Offensive**[/color]
+&gt; **Royal Blood (Passive)** - Votes to become king count as two for you.
+**I am the Liquor (Passive)** - Immune to occupation and target changing.
+**Debauchery (Night)** - Get in a player’s way, causing them to target you. You will be immune to any attacks you redirect. - Infinite uses.
+**Happy Hour (Night)** - Occupy and get rid of your target’s immunities for the night. - 2 uses.
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Drunk**[/color]
+
+&gt; # [color=purple]**The Aristocrat**[/color]
+&gt; [color=purple]**Unseen Social**[/color]
+&gt; **Royal Blood (Passive)** - Votes to become king count as two for you.
+&gt; **Pull Rank (Day)** - Your vote will count as two today. This will not be announced publicly or affect the number of votes required to reach majority. - 3 uses
+**Order (Night)** - Negate the votes of a target player the next day. They can’t accuse anyone or vote tomorrow. The target still counts towards the voting majority. - Infinite uses
+**Bounty (Night)** - If target player is executed tomorrow and is Unseen then there will be an additional trial and execution. Only one Bounty may take effect per day. You cannot target King. - 2 uses
+*Your objective is to defeat the Blue Dragon, and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Noble**[/color]
+
+&gt; # [color=purple]The Corrupted King :crossed_swords: :shield: [/color]
+&gt; [color=purple]**Unseen Special**[/color]
+**Pass The Torch (Passive)** - If you die, there will be a vote held to crown the next King. If you are executed for treason, all players will lose their Royal Blood passive.
+**Head of State (Passive)** - Your vote counts as two.
+**Royal Pardon (Day)** - Make a player unable to be voted today. - 2 uses
+**Decide Fate (Day)** - You may choose the whether the player on trial will be executed or pardoned. - 1 use
+**Guard! (Night)** - Choose a player. They will be immune to death tonight. - 3 uses
+**Permanent Scheme (Night)** - Target player will be immune to conversion for the rest of the game - 1 use (Starting King Only)
+*Your objective is to defeat the Blue Dragon and any neutrals that seek to do you harm.*
+
+&gt; Convert Immune
+
+&gt; # [color=purple]The Duchess[/color]
+&gt; [color=purple]**Unseen Investigative**[/color]
+&gt; **Royal Blood (Passive)** - Votes to become king count as two for you.
+**Bat Eyelashes (Night)** - Check to see what class type the selected player is. You will receive two results, one of which will be their real type, and one won’t be. - Infinite uses.
+**Dark Wisp (Night)** - Uncage a Dark Wisp, making any attack attempts your target makes fail. If they try to kill somebody, you will know.  - 2 uses
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Princess**[/color]
+
+&gt; # [color=purple]The Enforcer[/color]
+&gt; [color=purple]**Unseen Killer**[/color]
+**Armored (Passive)** - Your first successful use of Protect will not kill you.
+**Protect (Night)** - Protect a player, giving your life to kill their attackers. - Infinite Uses
+**Cold Steel (Night)** - Kill a target player. If they are a member of the Unseen, you will die. - Unlimited uses
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Knight**[/color]
+
+&gt; # [color=purple]The Handmaiden[/color]
+&gt; [color=purple]**Unseen Investigative**[/color]
+**Matchmake (Night)** - Test of target player is compatible with your previous target. - Infinite Uses
+**Prying Servants (Night)** - Target a living player and dead player. You will learn if the living player visited the dead player on the night they died. Does not count as visiting. Will not see non-visiting abilities. - 3 uses
+*Your objective is to defeat the Blue Dragon and any neutrals that seek to do you harm.*
+
+&gt; Compatibility:
+&gt; 
+&gt; * Members of opposing Factions are not compatible
+&gt; * Members of Neutral Factions are compatible with every Neutral Faction that they can win with
+&gt; * Royals are not compatible with each other that would be weird
+&gt; * The King, Fool, Scorned and Devil are not compatible with anyone
+&gt; * The Mercenary is compatible with her target no matter the faction
+
+&gt; Converts into [color=steblue]**The Maid**[/color]
+
+&gt; **Credit to Boopydoop** 
+
+&gt; # [color=purple]The Herbalist[/color]
+&gt; [color=purple]**Unseen Support**[/color]
+**Remedy Studies (Passive)** - Immune to bleeding.
+**Inoculate (Day)** - Target player will be immune to bleeding - 1 use
+**Exhume (Day)** - At the end of tonight. See what class killed target dead player or if they committed suicide. - 2 uses
+**Heal (Night)** - Heal a player, preventing them from dying tonight, and cures poison and bleeding. - Infinite uses.
+**Self-Care (Night)** - Heal yourself tonight. - 2 uses
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Physician**[/color]
+
+&gt; # [color=purple]The Illusionist :shield: [/color]
+&gt; [color=purple]**Unseen Social**[/color]
+**Telepathy (Day)** - Send a 1000 character message to target player. You may not target the King with this - 3 uses.
+**Link Destinies (Night)** - Two target players will benefit from the same positive and negative effects other than killing and conversion tonight, like healing or occupation. - Infinite uses.
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Mystic**[/color]
+
+&gt; # [color=purple]The Kidnapper :shield: :crossed_swords: [/color] 
+&gt; [color=purple]**Unseen Killer**[/color]
+&gt; **Unstoppable (Passive)** - Immune to being occupied and redirected at night.
+&gt; **Royal Blood (Passive)** - Votes to become king count as two for you.
+**Kidnap (Day)** - Choose a player to kidnap at night, This occupies them while bypassing occupation immunity and preventing all visits to targeted player. You and them may also exchange up to two 10000 character messages. - Infinite uses. - Infinite uses.
+**Execute (Night)** - Kill the kidnapped player bypassing immunites. If you execute a member of the Unseen, you lose all your remaining executions. - 3 uses, available starting Night 2
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Prince**[/color]
+---
+&gt; # [color=purple]The Marshal[/color] :crossed_swords: 
+&gt; [color=purple]**Unseen Investigative**[/color]
+**Fact Checking (Day)** - Determine if a previously investigated player has been converted to the Blue Dragon since checking them. - 2 uses.
+**Expert Investigation (Night)** - Determine if a player is a member of the Blue Dragon faction. - Infinite uses.
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*
+---
+&gt; # [color=purple]The Nightwatch[/color]
+&gt; [color=purple]**Unseen Investigative**[/color]
+**Angry Bird (Day)** - See if target player leaves their room tonight at the end of tonight. - Infinite uses
+**Follow (Night)** - Observe a player to see who visits them and who they visited at night. - Infinite uses.
+**Window Peek (Night)** - Reveal a player’s faction. - 2 uses
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Observer**[/color]
+---
+&gt; # [color=purple]The Page :shield:[/color]
+&gt; [color=purple]**Unseen Support**[/color]
+**Unskilled (Passive)** - You are immune to death at night once.
+**Train (Night)** - Become the non-unique class of a deceased Unseen player. - Infinite uses
+*Your objective is to defeat the Blue Dragon and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Squire**[/color]
+
+&gt; **Credit to Boopydoop** 
+---
+&gt; # [color=purple]The Poacher :shield: [/color]
+&gt; [color=purple]**Unseen Killer**[/color]
+**Retribution (Passive)** - If found guilty of treason, you will kill your initial accuser before your execution.
+**Isolation (Passive)** - Immune to occupation and redirection.
+**Rabid Wolf (Day)** - Summon a wolf companion to maul a target player, making them bleed and die in two nights unless healed. - 2 uses.
+**Spike Traps (Night)** - Put spike traps outside your room, granting you death and conversion immunity for the night. You will kill any attackers who attempt to kill you, bypassing night immunity - 3 uses
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Hunter**[/color]
+---
+&gt; # [color=purple]The Sage[/color]
+&gt; [color=purple]**Unseen Support**[/color]
+**Shock (Day)** - Shock the target player, causing them to target themselves if they use their day ability today. - 2 uses.
+**Dark Rune (Night)** - Prevent any negative affects from affecting the player tonight. - Infinite uses
+**Wall of Fire (Night)** - Summon a wall of fire at a player’s door, preventing everyone from visiting them. - 2 uses.
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Court Wizard**[/color]
+---
+&gt; # [color=purple]The Servant[/color]
+&gt; [color=purple]**Unseen Offensive**[/color]
+**Dutiful (Passive)** - Immune to occupation and redirection. You will keep this passive on class change.
+**Chaotic Wine (Day)** - After 3 days you can poison the The King, causing him to die in two nights if not healed by a Herbalist/Physician. If the King is a member of the Unseen, you will take your own life. - 1 use.
+**Serve Wine (Night)** - Occupy a player by getting them drunk. - Infinite uses.
+**Concentrated Wine (Night)** - Throw a party, occupying all players who visit you tonight. - 2 uses.
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Butler**[/color]
+---
+&gt; # [color=purple]The Soulcatcher :shield:[/color]
+&gt; [color=purple]**Unseen Support**[/color]
+**Cries of the Dead (Passive)** - You may communicate with the dead at night. Additionally you know the amount of Souls you have at the start of each day.
+**Bind Soul (Day)** - Make target player and you immune to death tonight. - 1 use.
+**Collect Soul (Night)** - If your target dies tonight, you will obtain their soul. - Infinite uses - You start with 2 souls
+**Reanimate (Night)** - Bring a dead Unseen player back to life. Each night they remain alive, a soul will be consumed. If you have no souls, or are converted, the player dies. You can target all players, but will only successfully revive Unseen members. They will be convert immune. - 1 use
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Priest**[/color]
+---
+&gt; # [color=purple]The Timesnatcher[/color]
+&gt; [color=purple]**Unseen Support**[/color]
+&gt; **Time Snatch (Day)**  - If you were to die tonight by a healable cause. Redirect tonight&#39;s death to targeted player as a healable attack. - 2 uses
+&gt; **No Time to Waste (Day)** - Target player will become immune to occupation and redirection  for the rest of the game. You may not target yourself. - 1 use
+&gt; **Alternate Realities (Night)** - Guarantee that target player will visit their target and make them immune to occupation and redirection tonight. - Infinite uses
+&gt; **Dark Dimension (Night)** - Guarantee that all feedback regarding target player is accurate. - 3 uses
+&gt; *Defeat the Blue Dragon and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Chronomancer**[/color]
+
+&gt; **Credit to Icibalus for Original Classes.**
+---
+[/details]
+
+# [color=steblue]The Blue Dragon[/color]
+[details=Show]
+---
+&gt; # [color=steblue]The Butler[/color]
+&gt; [color=steblue]**Blue Dragon Offensive**[/color]
+**Dutiful (Passive)** - Immune to occupation and redirection.
+**Serve Wine (Night)** - Occupy a player by getting them drunk. - Infinite uses 
+**Concentrated Wine (Night)** - Throw a party, occupying all players who visit you tonight. - 2 uses.
+**Intoxicated Wine (Call to Arms | Night)** - Occupy a player for two nights in a row. - Infinite uses
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color=steblue]The Chronomancer[/color]
+&gt; [color=steblue]**Blue Dragon Support**[/color]
+&gt; **Pocket Dimension (Day)**  - If target member ot the Blue Dragon would die tonight, delay it for 2 nights. This will delay bleeding in addition to attacks. - 3 uses
+&gt; **Time Warp (Night)** - Abilities targeting targeted non Blue Dragon player will take affect the night after tonight. Conversions interrupted with this ability will not work. This doesn&#39;t affect Killing abilities, Investigative abilities, Enforcer&#39;s Protect and Guards - Infinite uses
+&gt; **Distort Reality (Night)** - Redirect all abilities stopped by Time Warp from the previous night to target player - 2 uses
+**Paradox (Call to Arms | Night)** - Abilities on target player will take effect the night after tonight. This doesnt affect Killing abilities, Conversion abilities or Investigative abilities - 2 uses
+&gt; *Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color=steblue]The Court Wizard[/color]
+&gt; [color=steblue]**Blue Dragon Offensive**[/color]
+**Earthquake (Day)** - Cast an earthquake under the targeted player, causing them to target themselves today if they use their day ability. - 2 uses.
+**Tornado (Night)** - Target two players, they will be redirected to each other for the night. - 3 uses
+**Ice Ward (Night)** - Freeze a player’s room preventing anyone from visiting them. - 2 uses
+**Frozen Door (Call to Arms | Night)** - Freeze a player&#39;s room, only Blue Dragon players may visit your targeted player tonight. - Shared uses with Ice Ward.
+&gt; *Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color=steblue]The Drunk[/color]
+&gt; [color=steblue]**Blue Dragon Offensive**[/color]
+&gt; **Royal Blood (Passive)** - Votes to become king count as two for you.
+**I am the Liquor (Passive)** - Immune to occupation and target changing.
+**Debauchery (Night)** - Get in a player’s way, causing them to target you. You will be immune to any attacks you redirect. - Infinite uses.
+**Happy Hour (Night)** - Occupy and get rid of your target’s immunities for the night. - 2 uses.
+**Hangover (Call to Arms | Night)** - If targeted player tries to use a day ability tomorrow, it will fail. - 2 uses.
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color=steblue]The Hunter[/color] :shield: 
+&gt; [color=steblue]**Blue Dragon Killer**[/color]
+&gt; **Isolation (Passive)** - Immune to occupation and redirection.
+&gt; **Wolf Companion (Day)** - Summon a wolf to attack someone. They will die tonight, but if they are death immune they will instead bleed and die in two nights unless healed. - Can only be used if you are the oldest Blue Dragon Killer. Infinite uses.
+&gt; **Spike Trap (Night)** - Set spiked traps in your home to hurt all intruders. If trapped, one random visitor will die. You will be alerted if you snagged anyone in your trap. - 3 uses
+&gt; **Bear Trap (Call to Arms | Night)** - Set up a protective bear in your home to hurt all intruders. All players visiting you will die, bypassing night immunity. - 1 use
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color=steblue]The Insurgent[/color] :crossed_swords: :shield: 
+&gt; [color=steblue]**Blue Dragon Killer**[/color]
+**Vengeance (Day)** - Your attack will pierce night immunity tonight. - Gains 1 use for each dead member of the Blue Dragon.
+**Slit Skin (Day)** - Targeted player will bleed and die in 2 nights unless healed. - 4 uses (shared)
+**Eliminate (Night)** - Kill a target player if they are a member of the Unseen. If they are a neutral, they will instead be occupied. You will know which happened. - Infinite uses.
+**Without A Trace (Call to Arms | Night)** - Kill a target player, regardless of faction. You will take their journal, making it appear as though they didn’t leave one, and you will be able to read it. - 2 uses. (shared)
+&gt; *Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color=steblue]The Knight[/color]
+&gt; [color=steblue]**Blue Dragon Killer**[/color]
+**Defend (Night)** - Prevent all visits to targeted Blue Dragon player. - 3 uses
+**Coldsteel (Night)** - Kill a target player. - Can only be used if you are the oldest Blue Dragon Killer - Infinite uses.
+**Justice (Call to Arms | Night)** - Kill target player bypassing everything that could stop you. - Infinite uses
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color=steblue]The Maid[/color]
+&gt; [color=steblue]**Blue Dragon Investigative**[/color]
+&gt; **Matchmake (Night)** - Check 2 players to see if they’re the same class type. - Infinite uses
+&gt; **Nosy Servants (Night)** - See the ability feedback of targeted player tonight. The feedback received is structured like Pre-EFoL. However, you will not know who they visited. - 2 uses
+&gt; **Housekeeping (Call to Arms | Night)** - See the Pre-EFoL feedback of target player tonight as well as who they targeted. - Shared uses with Nosy Servants
+&gt; *Your objective is to defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color=steblue]The Mystic[/color] :shield: 
+&gt; [color=steblue]**Blue Dragon Social**[/color]
+**Telepathy (Day)** - Send a 1000 character message to target player. You may not target the King with this - 3 uses.
+**Link Fates (Night)** - Two target players will suffer the same negative effects tonight, except killing and conversion. - Infinite uses
+**Accurate Fates (Call to Arms | Night)** - Two target players will suffer the same negative effects tonight, except conversion. - Infinite uses
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; ## [color=steblue]The Negotiator[/color] :crossed_swords: :shield: 
+&gt; [color=steblue]**Blue Dragon Special**[/color]
+**Undercover Rebel (Passive)** - You will appear to be a member of the Unseen to investigators for the first three nights.  Additionally if you die at any time, the youngest non killing Blue Dragon member will become the new Negotiator. If there is no non Killing Blue Dragons, it will instead be the Youngest Blue Dragon Killer.
+**Busy (Passive)** - Immune to occupation and redirection.
+**Avenge (Day)** - You will turn into the Insurgent when you use this ability. Target Blue Dragon player will become the new Negotiator. - 1 use (shared) - Cannot use when any Blue Dragon Killers are living
+**Call to Arms! (Day)** - Call the Blue Dragon to arms, empowering them tonight. The Blue Dragon will receive a message when this is activated. The individual effects can be found on each class card. - Infinite Uses, 2 day cooldown.
+**Persuade (Night)** - Persuade someone to join the Blue Dragon. - Infinite uses, 1 day cooldown.
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; ## [color=steblue]The Noble[/color]
+&gt; [color=steblue]**Blue Dragon Social**[/color]
+&gt; **Royal Blood (Passive)** - Votes to become king count as two for you.
+**Pull Rank (Day)** - Your vote will count as two today. This will not be announced publicly or affect the number of votes required to reach majority. - 3 uses
+**Dynasty&#39;s Documents (Day)** - Target player will appear to be the member of the Blue Dragon tonight. - Infinite uses.
+**Order (Night)** - Negate the votes of a target player the next day. They can’t accuse anyone or vote tomorrow.
+**Rig Ballots (Night)** - If target is voted up for trial tomorrow, automatically resolve it in an execution. The only thing that can prevent this is if the King uses &quot;Decide Fate Pardon&quot; in the next 12 hours. - 0 uses
+**Forceful Order (Call to Arms | Night)** - Negate the votes of a target player the next day. They can’t accuse anyone or vote tomorrow. You will gain a use of Rig Ballots on a successful use of this ability if you have successfully used this ability less than 3 times.
+---
+&gt; ## [color=steblue]The Observer[/color]
+&gt; [color=steblue]**Blue Dragon Investigative**[/color]
+**Blue Bird (Day)** - You will be told the name of the next player to use a day ability - Infinite uses
+**Little Bird (Day)** - See if target player leaves their room tonight at the end of tonight. - Infinite uses
+**Follow (Night)** - Observe a player to see who visits them and who they visited at night. - Infinite uses.
+**Window Peek (Night)** - Reveal a player’s faction. - 2 uses
+**Stare Down (Call to Arms | Night)** - Reveal a player&#39;s exact class. - Shared with Window Peek
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; ## [color=steblue]The Physician[/color]
+&gt; [color=steblue]**Blue Dragon Support**[/color]
+**Remedy Studies (Passive)** - Immune to bleeding.
+**Dishonor (Day)** - If the target player dies tonight, they will appear as a class of your choice. - 3 uses
+**Exhume (Day)** - At the end of tonight. See what class killed target dead player or if they committed suicide. - 3 uses
+**Heal (Night)** - Heal a player, preventing them from dying tonight, and cures bleeding. - Infinite uses.
+**Concentrated Nightshade (Call to Arms | Night)** - Poison the target player with a concentrated dose of nightshade, causing them to die instantly. - 1 uses.
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; ## [color=steblue]The Princess[/color]
+&gt; [color=steblue]**Blue Dragon Investigative**[/color]
+&gt; **Royal Blood (Passive)** - Votes to become king count as two for you.
+**Counterfeit Wisp (Night)** - The Blue Dragon will appear as normal Unseen members tonight - 2 uses
+**Flirt (Night)** - Get a players class type. - Infinite uses
+**Date (Call to Arms | Night)** Get your target’s exact class. - 2 uses
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; ## [color=steblue]The Prince[/color] :shield: 
+&gt; [color=steblue]**Blue Dragon Killer**[/color]
+**Unstoppable (Passive)** - Immune to being occupied and redirected at night.
+&gt; **Royal Blood (Passive)** - Votes to become king count as two for you.
+**Imprison (Day)** - Choose a player to imprison at night, This occupies them while bypassing occupation immunity and preventing all visits to targeted player. You and them may also exchange up to two 10000 character messages. - Infinite uses. - Infinite uses.
+**Interrogate (Night)** - Interrogate your imprisoned player, finding out their class type. - 2 uses.
+**Execute (Call to Arms | Night)** - Execute your imprisoned player, bypassing night immunity. - 2 uses (Not limited to the oldest killer rule.)
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; ## [color=steblue]The Priest **(Unique)** :shield:[/color]
+&gt; [color=steblue]**Blue Dragon Support**[/color]
+**Consume Soul (Passive)** - You cannot be killed at night while you have at least one soul. You lose a soul upon being attacked.
+**Bind Soul (Day)** - Make target Blue Dragon member immune to death tonight. - Costs 1 soul
+**Purify Soul (Night)** Remove target player&#39;s night immunities from them tonight. - Costs 2 souls.
+**Soul Trap (Night)** - If the target player dies at any point after using this ability on them, you will collect their soul. - Infinite uses.
+**Revive (Call to Arms | Night)** - Target dead player will be &quot;Reanimated&quot;, but becomes a Blue Dragon class with no abilities that meets with the Blue Dragon at night and shares the Blue Dragon win condition. If you die at any time, they will cease to exist too. The dead player may also be attacked as normal by other means.  - 1 use
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; ## [color=steblue]The Righteous King :crossed_swords: :shield: [/color]
+&gt; [color=steblue]**Blue Dragon Special**[/color]
+**Pass The Torch (Passive)** - If you die, there will be a vote held to crown the next King.
+**Head of State (Passive)** - Your vote counts as two.
+**Royal Pardon (Day)** - Make a player unable to be voted today. - 2 uses
+**Decide Fate (Day)** - You may choose the whether the player on trial will be executed or pardoned. - 1 use
+**Guard! (Night)** - Choose a player. They will be immune to death tonight. - 3 uses
+**Swear Fealty (Night)** - All Blue Dragon players will appear to be a member of the Unseen tonight. - 1 use
+*Your objective is to defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; ## [color=steblue]The Sheriff[/color]
+&gt; [color=steblue]**Blue Dragon Investigative**[/color]
+**Scout (Day)** - Have a scout to follow the target player. The next morning you will discover their faction. - 2 uses.
+**Stakeout (Night)** - You will stakeout a target player’s room, finding out any visitors’ factions. - Infinite uses
+**Hideout (Call to Arms | Night)** - You will hide outside a target player&#39;s room, finding any visitors&#39; classes. - Infinite uses
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; ## [color=steblue]The Squire :shield:[/color]
+&gt; [color=steblue]**Blue Dragon Support**[/color]
+**Train (Night)** - Become the non-unique Blue Dragon equivalent of a class of a deceased player, if they have one. - Infinite uses
+**Other Means (Call to Arms | Night)** - Become the non-unique Blue Dragon equivalent class of any living or deceased player, if they have one. - Infinite uses
+*Your objective is to defeat the Unseen, and any neutrals that seek to do you harm.*
+---
+[/details]
+
+
+# Neutrals (Solic held me up at gunpoint to add in every single one)
+[details=&quot;Show&quot;]
+---
+&gt; # [color=green]The Alchemist[/color] 
+&gt; **[color=grey]Neutral Support[/color]**
+&gt; **Experimentation (Passive)**  - At the start of Day 1, you choose your win condition of 3 options. It will randomised if you do not pick a wincon by Day 2
+&gt;&gt; **Neutrality** : Survive to the end of the game
+&gt;&gt; **The Evils** : Ensure that the Unseen is defeated
+&gt;&gt; **The Town**  Ensure that the Blue Dragon is defeated.
+&gt; 
+&gt; **Experimental Shield (Day)** - You will be immune to death, occupation and redirection tonight. - 1 use
+&gt; **Concoct Potion (Night)** - Choose from a variety of potions to use tonight. - Infinite uses
+&gt;&gt;**The Town:**
+&gt;&gt;&gt; **Crimson Potion**  - Heal targeted player, if you successfully heal a player from an attack that is not you. This use of Crimson Potion will not be used up. - 3 use
+&gt;&gt;&gt;**Tar Potion**  - Prevent all players from visiting your target. - 2 use
+&gt;
+&gt;&gt;**The Evils**
+&gt;&gt;&gt; **Misty Potion** - Frame target player to Investigators - 3 uses
+&gt;&gt;&gt; **Concrete Potion** - Prevent all visits to target player other than Killing or Conversion abilities - 3 uses
+&gt;
+&gt;&gt;**Neutrality**
+&gt;&gt;&gt; **Tar Potion**  - Prevent all players from visiting target player tonight. - 2 uses
+&gt;&gt;&gt;**Crimson Potion**  - Heal targeted player, you will gain another use of it if this successfully heals an attack. - 2 uses
+&gt; *Your objective fulfill the objective you have chosen.*
+
+&gt; Crowns into Cowardly King if chosen Neutrality or The Town
+&gt; Crowns into Conservative King if chosen The Evils
+---
+&gt; # [color=red]The Begrudged King :shield:[/color]
+&gt; [color=grey]**Neutral Special**[/color]
+**Pass The Torch (Passive)**  - If you die, there will be a vote held to crown the next King.
+**Head of State (Passive)**  - Your vote counts as two.
+**Royal Pardon (Day)**  - Make a player unable to be voted today. - 2 uses
+**Decide Fate (Day)**  - You may choose the whether the player on trial will be executed or pardoned. - 1 use
+**Guard! (Night)**  - Choose a player. They will be immune to death tonight. - 3 uses
+**Contraband (Night)**  - Send a guard to frame your target. They will appear as a member of the Blue Dragon tonight. - Infinite uses
+*You retain the objective you had before you became King.*
+
+&gt; **Crowned From**
+&gt;* Scorned
+&gt;* Devil
+---
+&gt;# [color=lightgrey]The Conservative King[/color] :shield:
+&gt; [color=grey]**Neutral Special**[/color]
+**Pass The Torch (Passive)**  - If you die, there will be a vote held to crown the next King.
+**Head of State (Passive)**  - Your vote counts as two.
+**Royal Pardon (Day)**  - Make a player unable to be voted today. - 2 uses
+**Decide Fate (Day)**  - You may choose the whether the player on trial will be executed or pardoned. - 1 use
+**Guard! (Night)**  - Choose a player. They will be immune to death tonight. - 3 uses
+**Mark (Night)**  - The target player temporarily loses death immunity if they have it, and can not be healed tonight. - 2 uses
+*See the Unseen defeated at any cost.*
+
+&gt; **Crowned From**
+&gt;* Mage
+&gt;* Soldier
+&gt;* Alchemist (The Evils)
+---
+&gt; # [color=lightgrey]The Cowardly King :shield: [/color]
+&gt; [color=grey]**Neutral Special**[/color]
+**Pass The Torch Sometimes (Passive)**  - If you die at night, there will be a vote held to crown the next King.
+**Spiteful (Passive)**  - Spiteful of your enemies, if you are executed there will be no more Kings this game. Additionally, your vote counts as two.
+**Royal Pardon (Day)**  - Make a player unable to be voted today. - 2 uses
+**Decide Fate (Day)**  - You may choose the whether the player on trial will be executed or pardoned. - 1 use
+**Guard! (Night)**  - Choose a player. They will be immune to death tonight. - 3 uses
+**Cower (Night)**  - You will be death immune tonight. - 2 uses
+*Your objective is to survive.*
+
+&gt; **Crowned From**
+&gt;* Alchemist (The Town)
+&gt;* Alchemist (Neutrality)
+---
+&gt;# [color=orange]The Demon :shield:[/color]
+&gt; [color=grey]**Neutral Killer**[/color]
+**Cloak Of Mithras (Passive)**  - Immune to death at night, occupation and target changing.
+**Haemophilia (Day)**  - Increases the power of Funeral Pyre tonight. - 3 uses, 1 day cooldown
+**Funeral Pyre (Night)**  - Set your target ablaze, killing them. If Haemophilia is used, the target is immune to visits from others except you, and anyone who attempts to visit them is also killed by the flames. - Infinite uses
+*Your objective is to defeat the Unseen, Blue Dragon and any neutrals that dare stand in your way.*
+---
+&gt; # [color=CC0000]The Devil[/color] :shield:
+&gt; [color=grey]**Neutral Social**[/color]
+**Second Chance (Passive)**  - Immune to death at night, once.
+**Informant (Day)**  - You learn the faction of your target at the end of the day. - 1 use
+**Frame (Night)**  - Make a target appear to be a member of the Blue Dragon to investigations tonight. - Infinite uses
+**Trickery (Night)**  - If the target player is executed tomorrow, they will appear to be a chosen class. - 2 uses
+*See three Unseen players executed, or survive to see the Unseen defeated.*
+---
+&gt;# [color=limegreen]The Electromancer :shield:[/color]
+&gt; [color=grey]**Neutral Killer**[/color]
+**Static Shield (Passive)**  - You are immune to death at night.
+**Discharge (Day)**  - If you are still alive at the end of the night, all charged players will be killed (Bypasses death immunity). - Infinite uses, 2 day cooldown
+**Charge (Night)**  - Apply a static charge to a player. Anyone they visit tonight will also become charged, and you will know who they are. You cannot charge yourself. - Infinite uses
+*Your objective is to defeat the Unseen, Blue Dragon and any neutrals that dare stand in your way.*
+---
+&gt;# [color=hotpink]The Fool[/color]
+&gt; [color=grey]**Neutral Social**[/color]
+&gt; **Mask of Many Faces (Passive)**  - If you are executed by the court, you may appear as a class of your choice. You must submit this class to the host before you are executed. You may choose the class at any time and change it at will.
+**Trickery (Passive)**  - Immune to being occupied at night. Additionally, the night after your execution, all players who voted to execute you will be redirected to visit themselves.
+**Hide (Day)**  - You will be immune to death tonight. - 2 uses
+**Costume Examination (Day)**  - Learn the faction of the player you Masquerade as at the end of the night, if you use it. This ability is affected by framing, unlike Masquerade. - 2 uses
+**Masquerade (Night)**  - Appear as the class, faction and type of your target to investigations tonight. Abilities that change the apparent class of your target will not affect Masquerade. Additionally, if you die tonight you will also appear as the class. You will not know the class of your target. - Infinite uses
+*Your objective is to be executed for treason.*
+---
+&gt; # [color=orangered]The Inquisitive King[/color] :shield: 
+&gt; [color=grey]**Neutral Special**[/color]
+**Pass The Torch (Passive)** - If you die, there will be a vote held to crown the next King.
+**Head of State (Passive)** - Your vote counts as two when putting people on trial.
+**Royal Pardon (Day)** - Make a player unable to be voted today. - 2 uses
+**Decide Fate (Day)** - You may choose the whether the player on trial will be executed or pardoned. - 1 use
+**Guard! (Night)**  - Choose a player. They will be immune to death tonight. - 3 uses
+**Ruthless Guards (Night)** - Check if target player is a Heathen and kill them if they are. The attack will bypass healing. - 2 uses
+*Your objective is to live to see all Heathens die.*
+
+&gt; Credit to Moleland for FoL adaptation.
+
+&gt; **Crowned From**
+&gt; * Inquisitor
+---
+&gt; # [color=Orangered]The Inquisitor[/color] :shield: 
+&gt; [color=lightgrey]**Neutral Investigative**[/color]
+&gt; **Holy Blessing (Passive)** - You are immune to death at night once. Your actions do not count as visits.
+&gt; **Nobody Expects the Spanish Inquisition (Passive)** At the start of the game, 3 random players will be assigned as ‘Heathens’ - They will never be other Neutrals, Unique Unseen classes or the Insurgent. Once the final Heathen dies, you will leave Court that night and never return. Each Heathen is informed they are a Heathen, but not the identities of the others. You will know the class of each Heathen.
+&gt; **Interrogate (Night)** Find out if the Target Player is a Heathen, and their Class if they are - Infinite uses
+&gt; **Ruthless Efficiency (Night)** Kill target player if they are a Heathen. The target cannot be healed. - 3 uses
+*Your objective is to live to see all Heathens die.*
+---
+&gt;# [color=slateblue]The Lich :shield:[/color]
+&gt; [color=grey]**Neutral Killer**[/color]
+&gt; **Phylactery (Passive)**  - During Day One, the Lich specifies two players to be their Phylactery Holders. If they fail to do so before the end of the day, they are randomized. They can not choose The King to be their holder, nor can The King be a randomized Holder. The Lich will know their starting classes, and will be night immune while at least one of them lives. If both of them die, the Lich will die the following night. Investigations against the Phylactery Holders will also yield the additional message “You feel a chill surrounding the target player. They are a Phylactery Holder for The Lich.” If your Phylactery Holders die, this fact that they are one will be included with their class information.
+**Undeath (Passive)**  - As long as the Phylactery Holders are alive, at the start of every night the Lich will automatically revive themselves if they are dead, regardless of how they died.
+**Spectral Mist (Day)**  - A target Phylactery Holder is healed tonight. - 3 uses
+**Black Fog (Day)**  - Attempts to investigate either of the Phylactery Holders will fail tonight. - 3 uses
+**Finger of Decay (Night)**  - Kill a player. If you were revived at the start of the night, then this attack bypasses night immunity and healing. - Infinite uses
+**Death’s Curtains (Night)**  - Kill one of your Phylactery holders (bypasses night immunity and healing), and two other targets. - Infinite uses, but only usable while you have two Phylactery Holders alive
+*Your objective is to defeat the Unseen, Blue Dragon and any neutrals that dare stand in your way.*
+---
+&gt;# [color=hotpink]The Mad King[/color]
+&gt; [color=grey]**Neutral Special**[/color]
+**Trickery (Passive)**  - Immune to being occupied at night.
+**Madman’s Will (Passive)**  - If you are executed, the regret of killing a madman will weigh on everyone. Your initial accuser will die at the end of the night tonight. You also choose an heir to succeed you as King. The player you choose will immediately become The King. Additionally, your vote counts as two.
+**Royal Pardon (Day)**  - Make a player unable to be voted today. - 2 uses
+**Decide Fate (Day)**  - You may choose the whether the player on trial will be executed or pardoned. - 1 use
+**Guard! (Night)**  - Choose a player. They will be immune to death tonight. - 3 uses
+**Hide (Night)**  - No-one will be able to visit you tonight. - 2 uses
+*Your objective is to be executed for treason.*
+---
+&gt; # [color=Aquamarine]The Mage :shield:[/color]
+&gt; [color=grey]**Neutral Offensive**[/color]
+**Reality Warp (Passive)** - As long as you remain alive, Unseen classes that are passively immune to occupation are not.
+**Light Magics (Passive)** - You appear as a member of the Blue Dragon to investigations.
+**Detect Thoughts (Day)** - Cast a spell that reveals your target’s last night action to you. - 4 uses
+**Dancing Lights (Day)** - Cast a spell that causes all kills tonight to bypass all forms of protection or prevention. - 1 use
+**Mind Control (Night)** - Cast a spell that forces your target to target somebody of your choosing. - 3 uses
+**Minor Illusion (Night)** - Make yourself and one other person of your choice appear as members of the Unseen to investigations. - 2 uses
+*Your objective is to see the Unseen defeated at any cost.*
+
+&gt; **Credit to Plex**
+&gt; This was just a minor theme change.
+---
+&gt; # [color=#86a94a]The Mercenary[/color]
+&gt; [color=grey]**Neutral Support**[/color]
+**Looking for Work (Passive)** - If your original target dies, you have 3 days to find another or you will die.
+**Failure (Passive)** - If your original target and your new target die, you will commit suicide.
+**Offer Contract (Day)** - You may form a contract with another player during the day (they will not be notified). You must do this for your first contract on day 1, or it will be randomised. - Infinite uses
+**Stand Guard (Night)** - Protect your target from visits, and grant yourself immunity to death tonight. - 4 uses
+**Rebound (Night)** - Kill a player who accused your target of treason earlier in the day. - 1 use
+_Your objective is to ensure that your target remains alive until the end of the game, your target is [x]._
+---
+&gt; # [color=#86a94a]The Plutocratic King :shield:[/color]
+&gt; [color=grey]**Neutral Special**[/color]
+**Pass The Torch (Passive)**  - If you die, there will be a vote held to crown the next King.
+**Failure (Passive)**  - If your target dies, you will become the Cowardly King. Additionally, your vote counts as two.
+**Royal Pardon (Day)**  - Make a player unable to be voted today. - 2 uses
+**Decide Fate (Day)**  - You may choose the whether the player on trial will be executed or pardoned. - 1 use
+**Guard! (Night)**  - Choose a player. They will be immune to death tonight. - 3 uses
+**Protect (Night)**  - Your target will be death immune tonight. - Infinite uses
+*Your objective is to ensure that your target remains alive until the end of the game.*
+
+&gt; **Crowned From**
+&gt; * Mercenary
+---
+&gt;# [color=navy]The Possessor :shield:[/color]
+&gt; [color=grey]**Neutral Killer**[/color]
+**Driven (Passive)**  - You are immune to occupation and target changing.
+**Blackened Shield (Passive)**  - You are immune to death at night.
+**Puppet Strings (Night)**  - Control a player and force them to kill someone. They will not be notified that they were controlled, unless you caused them to target themself.
+**Possess (Night)**  - Kill the target player. Their class will appear as one of your choice, and they will have information in their logbook of your choosing (or no logbook if nothing is specified). You will know what class they truly were, and what their logbook said. - 3 uses
+*Your objective is to defeat the Unseen, Blue Dragon and any neutrals that dare stand in your way.*
+---
+&gt; # [color=8B4513]The Pretender[/color] :shield: 
+&gt; [color=grey]**Neutral Special**[/color]
+&gt; **Royal Blood (Passive)** - Votes to become king count as two for you.
+**No Allegiance (Passive)** Immune to death at night once.
+**Silence (Day)** - Prevent Target player from using Day abilities if Royal, or the King - 3 uses
+**Blood Test (Night)** Find out if the Target Player has Royal Blood, and their Class Type if they are - Infinite uses
+**Kinslayer (Night)** Kill target player if they are Royal, or the King - 2 uses
+*Your objective is to Survive, ensuring there is no King except you when the Game ends.*
+
+&gt; Credit to Moleland for FoL adaptation.
+---
+&gt; # [color=red]The Psy[/color][color=orange]chopat[/color][color=yellow]hic Kin[/color][color=green]g (Unof[/color][color=blue]ficial[/color] [color=purple]Class)[/color] :shield:
+&gt; [color=grey]**Neutral Special**[/color]
+**Insanity (Passive)**  - You are immune to death at night. Additionally, your vote counts as two.
+**Pass The Torch (Passive)**  - If you die, there will be a vote held to crown the next King.
+**Royal Pardon (Day)**  - Make a player unable to be voted today. - 2 uses
+**Decide Fate (Day)**  - You may choose the whether the player on trial will be executed or pardoned. - 1 use
+**Guard! (Night)**  - Choose a player. They will be immune to death tonight. - 3 uses
+**Personal Execution (Night)**  - Send a guard to kill a player. - Infinite uses
+*Your objective is to ensure that your target remains alive until the end of the game.*
+
+&gt; **Crowned From**
+&gt; * Demon
+&gt; * Electrocutioner
+&gt; * Lich
+&gt; * Possessor
+&gt; * Reaper
+---
+&gt;# [color=black]The Reaper :shield:[/color]
+&gt; [color=grey]**Neutral Killer**[/color]
+**Driven (Passive)**  - You are immune to occupation and target changing.
+**Blackened Shield (Passive)**  - You are immune to death at night.
+**Puppet Strings (Night)**  - Control a player and force them to kill someone. They will not be notified that they were controlled, unless you caused them to target themself.
+**Possess (Night)**  - Kill the target player. Their class will appear as one of your choice, and they will have information in their logbook of your choosing (or no logbook if nothing is specified). You will know what class they truly were, and what their logbook said. - 3 uses
+*Your objective is to defeat the Unseen, Blue Dragon and any neutrals that dare stand in your way.*
+---
+&gt; # [color=red]The Scorned[/color] :shield: 
+&gt; [color=grey]**Neutral Social**[/color]
+&gt; **Resolve (Passive)**  - Immune to occupation and target changing. Additionally, you are immune to death at night until you complete your objective.
+**Frame (Night)**  - Frame one of your targets. They will appear as a member of the Blue Dragon to investigations tonight. - 2 uses
+**Bait and Switch (Night)**  - Swap a player with one of your targets, redirecting all actions on one to the other. - 3 uses
+*Your objective is to survive to see one your targets executed, they are [X] and [Y].*
+
+&gt; The Scorned’s targets will always be members of the Unseen (at the start of the game). However, they can not have any Unique Unseen Classes as targets.
+---
+&gt; # [color=brown]The Soldier[/color] :shield:
+&gt; [color=grey]**Neutral Offensive**[/color]
+**Among Friends (Passive)**  - Immune to death at night, once. This passive will not apply if attacked by an Unseen player, however.
+**Contracted (Passive)**  - Immune to occupation and target changing.
+**Stonewall (Night)**  - Prevent non-attack and non-conversion abilities from targeting your target. Can not target the same player two nights in a row. - Infinite uses
+**Intimidate (Night)**  - Occupy a player. - Infinite uses
+*Your objective is to see the Unseen defeated at any cost.*
+---
+&gt; # [color=8B4513]The Usurper King[/color] :shield: 
+&gt; [color=grey]**Neutral Special**[/color]
+**Pass The Torch (Passive)** - If you die, there will be a vote held to crown the next King.
+**Head of State (Passive)** - Your vote counts as two when putting people on trial.
+**Royal Pardon (Day)** - Make a player unable to be voted today. - 2 uses
+**Decide Fate (Day)** - You may choose the whether the player on trial will be executed or pardoned. - 1 use
+**Guard? (Night)** - Prevent all visits to you tonight - 1 use
+**Disinherit (Night)** - Permanently remove a player’s royal blood. If this is successful, you will gain two uses of Guard?. - Infinite uses
+*Your objective is to survive until the end of the Game*
+
+&gt; Credit to Moleland for FoL adaptation.
+
+&gt; **Crowned From**
+&gt; * Pretender
+---
+[/details]
+
+
+(I felt like making Poacher and Hunter less confirmable was a healthy change for this gamemode)
+(Giving Insurgent some the tools to fake Poacher is also useful)
+(There are many namechanges to fit within the factions they are part of)</description>
+    
+    <lastBuildDate>Mon, 21 Oct 2019 16:34:58 +0000</lastBuildDate>
+    <category>Forum of Lies</category>
+    <atom:link href="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</title>
+        <dc:creator><![CDATA[anon97870008]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/88">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/88</link>
+        <pubDate>Mon, 21 Oct 2019 16:50:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-66438-88</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438.rss">SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</source>
+      </item>
+      <item>
+        <title>SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</title>
+        <dc:creator><![CDATA[MathBlade]]></dc:creator>
+        <description><![CDATA[
+            <p>On mobile lol sorry</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/86">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/86</link>
+        <pubDate>Mon, 04 Feb 2019 01:29:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-66438-86</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438.rss">SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</source>
+      </item>
+      <item>
+        <title>SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</title>
+        <dc:creator><![CDATA[Solic]]></dc:creator>
+        <description><![CDATA[
+            <p>Wrong thread bud.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/85">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/85</link>
+        <pubDate>Mon, 04 Feb 2019 01:29:28 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-66438-85</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438.rss">SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</source>
+      </item>
+      <item>
+        <title>SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</title>
+        <dc:creator><![CDATA[MathBlade]]></dc:creator>
+        <description><![CDATA[
+            <p>This is a good thread</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/84">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/84</link>
+        <pubDate>Mon, 04 Feb 2019 01:28:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-66438-84</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438.rss">SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</source>
+      </item>
+      <item>
+        <title>SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <h1>added that alch becomes conservative king upon crowning if chosen the evils</h1>
+          <p><a href="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/83">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/83</link>
+        <pubDate>Thu, 24 Jan 2019 02:28:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-66438-83</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438.rss">SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</source>
+      </item>
+      <item>
+        <title>SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <p>changed “the town” wincon to allow working with the NK</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/82">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/82</link>
+        <pubDate>Thu, 24 Jan 2019 01:53:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-66438-82</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438.rss">SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</source>
+      </item>
+      <item>
+        <title>SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <p>made minor changes to neutrality in order to make their abilities coordinate for them</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/81">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/81</link>
+        <pubDate>Thu, 24 Jan 2019 01:49:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-66438-81</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438.rss">SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</source>
+      </item>
+      <item>
+        <title>SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <p>I’ll just swap it out now</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/80">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/80</link>
+        <pubDate>Thu, 24 Jan 2019 01:37:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-66438-80</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438.rss">SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</source>
+      </item>
+      <item>
+        <title>SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/marluxion">@Marluxion</a> am I legally allowed to change the class to this?</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/79">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/79</link>
+        <pubDate>Thu, 24 Jan 2019 01:35:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-66438-79</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438.rss">SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</source>
+      </item>
+      <item>
+        <title>SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <p>that’s actually really nice</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/78">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/78</link>
+        <pubDate>Thu, 24 Jan 2019 01:34:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-66438-78</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438.rss">SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</source>
+      </item>
+      <item>
+        <title>SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</title>
+        <dc:creator><![CDATA[Sam17z]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/pug">@Pug</a> it gives some variability and depth to the alchemist</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/77">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/77</link>
+        <pubDate>Thu, 24 Jan 2019 01:27:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-66438-77</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438.rss">SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</source>
+      </item>
+      <item>
+        <title>SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</title>
+        <dc:creator><![CDATA[Sam17z]]></dc:creator>
+        <description><![CDATA[
+            <h1>The Alchemist</h1>
+<p><strong>Neutral Support</strong><br>
+<strong>Experimentation (Passive)</strong> - In the start of Day 1, you choose your win condition of 3 options.</p>
+<blockquote>
+<p><strong>Neutrality</strong>: Survive to the end of the game<br>
+<strong>The Evils</strong>: Ensure that the Blue Dragon is defeated<br>
+<strong>The Town</strong> Ensure that the Blue Dragon is victorious</p>
+</blockquote>
+<p><strong>Experimental Shield (Day)</strong> - You will be immune to death, occupation and redirection tonight. - 1 use</p>
+<p><strong>Concoct Potion (Night)</strong> - Choose from a variety of potions to use tonight. - Infinite uses</p>
+<p>If “The Town” win condition is chosen then these abilities are gained:</p>
+<blockquote>
+<p><strong>Crimson Potion</strong> - Heal targeted player, if you successfully heal a player from an attack that is not you. This use of Crimson Potion will not be used up. - 3 use<br>
+<strong>Tar Potion</strong> - Prevent all players from visiting your target. - 2 use</p>
+</blockquote>
+<p>If “Neutrality” win condition is chosen then these abilities are gained:</p>
+<blockquote>
+<p><strong>Tar Potion</strong> - Prevent all players abilities from visiting your target. - 3 use<br>
+<strong>Crimson Potion</strong> - Heal targeted player, if you successfully heal a player from an attack that is not you. This use of Crimson Potion will not be used up. - 2 uses</p>
+</blockquote>
+<p>If “The Evil” win condition is chosen then these abilities are gained:</p>
+<blockquote>
+<p><strong>Misty Potion</strong>  - Target player will be framed to Investigators tonight. - 3 use<br>
+<strong>Tar Potion</strong> - Prevent all players except attacking and conversion abilities from visiting your target. - 2 uses</p>
+</blockquote>
+<p><em>Ensure the win condition that you have chosen is successful.</em></p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/76">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/76</link>
+        <pubDate>Thu, 24 Jan 2019 01:26:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-66438-76</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438.rss">SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</source>
+      </item>
+      <item>
+        <title>SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <p>3 neuts have anti town wincons</p>
+<p>fool and scorned psuedo have them</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/75">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/75</link>
+        <pubDate>Thu, 24 Jan 2019 01:16:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-66438-75</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438.rss">SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</source>
+      </item>
+      <item>
+        <title>SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <p>Crimson - Benefits Town<br>
+Misty - Benefits Scum<br>
+Tar - either way. Could use to stop a convert or could use to guarantee someone else’s kill</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/74">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/74</link>
+        <pubDate>Thu, 24 Jan 2019 01:14:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-66438-74</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438.rss">SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</source>
+      </item>
+      <item>
+        <title>SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <p>Also making it entirely anti-town also isn’t an option</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/73">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/73</link>
+        <pubDate>Thu, 24 Jan 2019 01:13:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-66438-73</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438.rss">SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</source>
+      </item>
+      <item>
+        <title>SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <p>could we at least test to see if it’s shit…</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/72">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/72</link>
+        <pubDate>Thu, 24 Jan 2019 01:13:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-66438-72</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438.rss">SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</source>
+      </item>
+      <item>
+        <title>SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <p>Turning it into a survivor isnt an option</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/71">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/71</link>
+        <pubDate>Thu, 24 Jan 2019 01:12:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-66438-71</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438.rss">SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</source>
+      </item>
+      <item>
+        <title>SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah.<br>
+so just remove the class.</p>
+<p>How would you fix it</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/70">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/70</link>
+        <pubDate>Thu, 24 Jan 2019 01:12:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-66438-70</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438.rss">SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</source>
+      </item>
+      <item>
+        <title>SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</title>
+        <dc:creator><![CDATA[Sam17z]]></dc:creator>
+        <description><![CDATA[
+            <p>Not saying the game is bad - it is amazing. (I basically hosted it myself). But… I would be disappointed with the game if I rolled the alchemist class. And since we are here to have fun I wouldn’t want anyone to be disappointed. So I am giving you a suggestion to fix the possible disappointment someone may have with this class</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/69">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/69</link>
+        <pubDate>Thu, 24 Jan 2019 01:12:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-66438-69</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438.rss">SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</source>
+      </item>
+      <item>
+        <title>SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <p>Like I can’t just go ahead and make it that a potion is given on every successful ability</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/68">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/68</link>
+        <pubDate>Thu, 24 Jan 2019 01:12:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-66438-68</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438.rss">SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</source>
+      </item>
+      <item>
+        <title>SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <p>Look.</p>
+<p>My goal was to make it a hard wincon without making alch confirmable</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/67">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/67</link>
+        <pubDate>Thu, 24 Jan 2019 01:11:28 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-66438-67</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438.rss">SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</source>
+      </item>
+      <item>
+        <title>SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <p>also y’all taking the maxi approach of deleting it</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/66">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/66</link>
+        <pubDate>Thu, 24 Jan 2019 01:10:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-66438-66</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438.rss">SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</source>
+      </item>
+      <item>
+        <title>SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <p>the game was approved in this state.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/65">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/65</link>
+        <pubDate>Thu, 24 Jan 2019 01:10:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-66438-65</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438.rss">SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</source>
+      </item>
+      <item>
+        <title>SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</title>
+        <dc:creator><![CDATA[Sam17z]]></dc:creator>
+        <description><![CDATA[
+            <p>Game didn’t roll yet so not late</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/64">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/64</link>
+        <pubDate>Thu, 24 Jan 2019 01:04:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-66438-64</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438.rss">SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</source>
+      </item>
+      <item>
+        <title>SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <p>also changing the class is a little late…</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/63">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438/63</link>
+        <pubDate>Thu, 24 Jan 2019 01:04:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-66438-63</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-rotbd-rework-by-an-idiot-who-makes-unbalanced-gamemodes/66438.rss">SFoL: RotBD Rework (By an idiot who makes unbalanced gamemodes)</source>
+      </item>
+  </channel>
+</rss>

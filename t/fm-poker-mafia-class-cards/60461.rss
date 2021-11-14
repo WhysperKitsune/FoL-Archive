@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[FM] Poker Mafia Class cards</title>
+    <link>https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461</link>
+    <description>I made some changes to poker mafia classes for future poker mafia games.
+Differences from the first poker mafia classes:
+
+* All classes are able to get abilities from the pool.
+* Townies and mafiosos will be able to choose a gift at the start of the game (see below for the gifts they can choose from).
+* Most gambling events have been removed and replaced with the &quot;Roulette&quot;. 
+* There are still daily events, but they no longer involve gambling (see the events section for more information).
+* All classes can use more than one day or night abilities, but they must pay 3 tokens for every extra ability besides the first one. (You can&#39;t use the same ability multiple times).
+* Godfather no longer needs to use tokens to kill.
+* Godfather no longer buys abilities for his mafiosos, he buys them for himself.
+* There are 8 different ability types: Support, Offensive, Social, Investigative, Killing, Gambling, Passive and Scum. There are also certain classes with starting abilities. These abilities will appear as &quot;Special&quot; to investigators.
+
+**Available gifts:** 
+&gt;* **Abilty gift**: Start the game with a random, non-golden ability.
+&gt;* **Token gift:** Start the game with 3 extra tokens.
+&gt;* **Golden gift:** Start the game with a Golden ticket. At the start of the game, one person with a golden ticket will be selected at random and get a free Golden ability. (Golden abilities are powerful one-shot abilities).
+
+**The Roulette**
+Gambling related events have been replaced with the roulette. The roulette is available all days and offers you the chance to buy tickets for it. There is no limit on the amount of tickets you can buy every day. The roulette lasts for the first 24 hours of the day. Each ticket costs 1 token.
+
+**Available tickets:**
+&gt; **Common tickets:** These are used to bet on the results of the roulette. All 3 common tickets are available every day.
+&gt; * **Color ticket:** Pick red or black. If you are right you win 2 tokens.
+&gt; * **Number ticket:** Pick a number between 1-3. If you are right you win 3 tokens.
+&gt; * **Full ticket:** Pick a number between 1-3 and a color. If both are right you win 6 tokens.
+&gt; 
+&gt; **Rare tickets**: Out of everyone that buys these tickets, only 1 of them will get a price. Only 1 of these will be available each day.
+&gt; 
+&gt; * **Jackpot ticket**: Every token used to buy tickets from the roulette will be added to the jackpot (roulette tokens count as normal tokens for this purpose). The winner ticket will get all the money in the jackpot.
+&gt; * **Golden ticket**: The winner ticket will get a golden ability.
+&gt; * **Special ticket**: The winner ticket will get a special token.
+
+**Selling abilities:**
+The way selling an ability works has been changed. You can now choose an ability to sell and it will go back into the ability pool. People will be able to bid for said ability like normal, but the tokens from the highest bid will go towards the seller.
+
+Class cards:
+[details=&quot;Class cards&quot;]
+
+&gt; &lt;big&gt;[color=green]**Townie**[/color]&lt;/big&gt;
+&gt; **Town**
+&gt; Choose a gift at the start of the game. (Townies can&#39;t get scum abilities from gifts).
+&gt; **Goal: Defeat Town and the neutral killer** 
+
+&gt; &lt;big&gt;[color=red]**Mafioso**[/color]&lt;/big&gt;
+&gt; **Mafia**
+&gt; Choose a gift at the start of the game.
+&gt; **Goal: Defeat Town and the neutral killer** 
+
+&gt; &lt;big&gt;[color=red]**The Godfather**[/color]&lt;/big&gt;
+&gt; **Mafia**
+&gt; **Filthy Rich (Passive)** -  Immune to death at night. You get 3 extra tokens every day. You can give any amount of tokens to your mafiosos. Only the starting Godfather has this passive.
+&gt; **Pass the torch (Passive)** - If you die, a mafioso of your choice will become the Godfather.
+&gt; **Kill (Night)** - Attack a player. Unlimited uses.
+&gt; **Goal: Defeat Town and the neutral killer**
+
+&gt; &lt;big&gt;[color=gray]**The Gambler**[/color]&lt;/big&gt;
+&gt; **Neutral**
+&gt; **Lucky (Passive)** - You get 3 roulette tokens every day. (Roulette tokens can only be used to buy tickets for the roulette).
+&gt; **Safe Bet (Night)** - Become immune to death tonight. Unlimited uses, but costs 10 tokens to use.
+&gt; **Goal: Survive**
+
+&gt; &lt;big&gt;[color=005050]**The Loan Shark**[/color]&lt;/big&gt;
+&gt; **Neutral**
+&gt; **Bribe (Passive)** - You are immune to death at night. If you are attacked you will give your attacker half of your tokens instead.
+&gt; **Loan (Night)** - Give a player any amount of your tokens. Said player will be &quot;In debt&quot; until they pay you twice that amount of tokens. You cannot use this ability on a player that is already &quot;in-debt&quot; - Unlimited uses. 
+&gt; **Collect (Night)** - Occupy all &quot;In debt&quot; players and make them lose 1 use of all their abilities. 
+&gt; **Goal: Get a total of 30 or more tokens. If you win, you will leave the casino and all players will lose 5 tokens.**
+
+&gt; &lt;big&gt;[color=lightgreen]**The Leprechaun**[/color]&lt;/big&gt;
+&gt; **Neutral**
+&gt; **Broke (Passive)** - You start the game without tokens.
+&gt;**Lucky 7 (Passive)** - Start the game with a random non-golden ability of each type except killer. (Support, Social, Offensive, Investigative, Passive, Gambling and Scum). These abilities cannot be sold.
+&gt; **Goal: Survive to see town lose**
+
+&gt; &lt;big&gt;[color=FF0080]**The Entertainer**[/color]&lt;/big&gt;
+&gt; **Neutral**
+&gt;**Last present (Passive)** - Whoever kills you will get a random Golden ability. If you are lynched, the first person to vote you will get it.
+&gt; **Birthday present (Day)** - Give a present to a player. They can open it or give it to someone else. Whoever opens it will get a random ability. 3 uses.
+&gt; **Exploding Present (Day)** - Give a present to a player. They can open it or give it to someone else. Whoever opens it will die. 1 use.
+&gt; **Magic Trick (Night)** - Swap places with another player. Anyone visiting one of you will instead visit the other. Unlimited uses.
+&gt; **Goal: Survive**
+
+&gt; &lt;big&gt;[color=brown] **The Cheater** [/color]&lt;/big&gt;
+&gt; **Neutral Killer**
+&gt; **Ace under the sleeve (Passive)** - Start the game with 3 Special tokens.
+&gt; **Cheating death (Passive)** - Immune to death.
+&gt; **All-in (Night)** - Kill a player. Unlimited uses.
+&gt; **Goal: Defeat the Town and Mafia**
+
+&gt; &lt;big&gt;[color=Gold] **The Elite** [/color]&lt;/big&gt;
+&gt; **Neutral Killer**
+&gt; **VIP (Passive)** - Start the game with a Golden Killing ability of your choice. You cannot sell this ability. All of your Golden abilities have unlimited uses but a 1-day cooldown.
+&gt; **Untouchable (Passive)** - Immune to death. 
+
+
+
+&gt; **Goal: Defeat the Town and Mafia**
+[/details]
+
+All events and abilities:
+
+[details=&quot;List of events and abilities&quot;]
+
+- **Midas touch:** Today&#39;s ability pool will have 3 golden abilities instead of 1.
+-**Mega pool**: Today&#39;s ability pool will have 5 extra common abilities.
+-**Wildcard:** Everyone will be able to publicly vote for an event. The event with the most votes will start.
+- **Silver medal:** The second highest bid on each ability from today&#39;s pool will also get a copy of said ability.
+- **Consolation prize:** At the end of the day, players that didn&#39;t get any abilities from the pool will get a random ability.
+-**2-for-1**: For every roulette ticket you buy today, you will get a second one of the same type for free.
+- **Roulette madness:** All 3 rare tickets will be available today. Everyone will get 1 free rare ticket of each type.
+- **You are special:** Everyone will be able to vote for a player other than themselves. When the majority is reached, said player will get a special token.
+- **Gift Rain:** At random times during the day, a &quot;gift&quot; will appear. The first person to write **/claim** in public will get the gift! That person can choose to open the gift or give it to someone else. Each player can only claim 1 gift (whether they keep it or give it to someone else). Any abilities you get from gifts will be given to you immediately. 
+- **Pawn shop**: Double any tokens you get from selling back an ability. 
+- **Black Market**: Any ability you sell back today will give you 5 tokens and won&#39;t go into the pool.
+- **Gift exchange:** Every player is able to select one of their abilities. The players that do will exchange said ability with a random player.
+- **Pay to win:** You can pay 5 tokens to instantly gain a random ability. You can do this as many times as you want. 
+- **Lynch Piñata:** Whoever is lynched today will have an amount equal to twice their tokens split between the players that voted to lynch them. The first person that voted to lynch them will get twice as many tokens. (Any tokens spent on tickets or on the ability pool will be split as well. This event only affects normal tokens).
+- **Charity:** Donate any amount of tokens. An amount equal to twice the tokens donated by all players will be given to the player with least tokens.
+------
+Ability pool:
+:first_quarter_moon_with_face: = Night ability
+:sun_with_face: = Day ability  
+:shield: = Passive ability
+:star: = Golden ability (Rare and powerful 1-shot abilities)  
+
+Support
+- :first_quarter_moon_with_face: Select two players. Anyone that visits one of them will instead visit the other. Can target yourself. 3 uses. 
+- :first_quarter_moon_with_face: Heal a player from attacks, doesn&#39;t heal poison or bleeding. 4 uses. 
+- :first_quarter_moon_with_face:Heal a player from poison or bleeding. Doesn&#39;t heal attacks. 4 uses. 
+- :first_quarter_moon_with_face: Heal a player from attacks, poison or bleeding. 3 uses. 
+- :first_quarter_moon_with_face: Protect a player from all negative night abilities except poison, bleeding and death. 4 uses.
+- :first_quarter_moon_with_face: Heal yourself from attacks, poison or bleeding. 2 uses. 
+- :first_quarter_moon_with_face: Prevent everyone from visiting a player. 2 uses.
+- :first_quarter_moon_with_face: Prevent everyone from visiting you. 1 use. 
+- :sun_with_face: Protect a player from all negative day abilities except poison, bleeding and death. 3 uses.
+- :sun_with_face: Copy one of your abilities and give it to another player. It will have the same remaining uses as the copied ability. 1 use.
+- :first_quarter_moon_with_face: Select a player. They will be able to use multiple day ability tomorrow for free. 2 uses.
+- :sun_with_face: Select a player. They will be able to use multiple night ability tonight for free. 2 uses.
+- :sun_with_face: Select a player and give them 5 free tokens. Yay! 2 uses.
+- :sun_with_face: Give a player a random non-golden ability. 2 uses.
+- :sun_with_face: Give a player other than yourself 7 roulette tokens. These tokens can only be used to buy tickets from the roulette. 2 uses.
+- :sun_with_face:  Make a player immune to poison and bleeding. Can&#39;t target yourself. 1 use. 
+- :first_quarter_moon_with_face: :star: Heal up to 3 players from attacks, poison or bleeding. 1 use.
+- :sun_with_face: :star: Select a player. Permanently redirect every attack or negative ability used on them to yourself. 1 use. 
+- :sun_with_face: :star: Give a Special token to a player other than yourself. 1 use.
+- :sun_with_face: :star: Select a player. Refresh all uses of their abilities. 1 use.
+
+
+
+Passives
+- :shield: You are immune to poison/bleeding. 
+- :shield: You will be immune to the next negative ability used on you, except death, poison or bleeding.
+- :shield: You are immune to death once. 
+- :shield: You will get a random passive ability. At the beginning of each day, said passive will change into a new one.
+- :shield: You will get a random non-golden day ability and it will have a single use. At the beginning of each day, said ability will change into a different one.
+- :shield: You will get a random non-golden night ability and it will have a single use. At the beginning of each day, said ability will change into a different one.
+- :shield: You are immune to occupation and redirection. 
+- :shield: If you are lynched, you will immediately kill the first person to accuse you.
+- :shield: For every ticket you buy you will get an extra ticket of the same type.
+- :shield: Gain 3 more tokens at the beginning of each day.
+- :shield: Gain 5 roulette tokens every day. These tokens can only be used to buy tickets for the roulette.
+- :shield: Your tokens cannot be decreased or stolen by abilities.
+- :shield: Reduces the cost of using extra abilities from 3 tokens to 1 token.
+- :shield: Every non-golden ability you get from the pool will have 1 extra use.
+- :shield: If any ability from the pool doesn&#39;t get any bids, you will get that ability.
+- :shield: Whenever you bid at least 1 token on an ability, you will place an extra free token on said ability. 
+- :shield: Whenever you bid at least 1 token on a support ability on the pool, place 1 free token. Every support ability you get from the pool will have 1 extra use.
+- :shield: Whenever you bid at least 1 token on a social ability on the pool, place 1 free token. Every social ability you get from the pool will have 1 extra use.
+- :shield: Whenever you bid at least 1 token on an offensive ability on the pool, place 1 free token. Every offensive ability you get from the pool will have 1 extra use.
+- :shield: Whenever you bid at least 1 token on a killer ability on the pool, place 1 free token. Every killer ability you get from the pool will have 1 extra use.
+- :shield: Whenever you bid at least 1 token on an investigative ability on the pool, place 1 free token. Every investigative ability you get from the pool will have 1 extra use.
+- :shield: Whenever you bid at least 1 token on a gambling ability on the pool, place 1 free token. Every gambling ability you get from the pool will have 1 extra use.
+- :shield: Whenever you bid at least 1 token on a scum ability on the pool, place 1 free token. Every scum ability you get from the pool will have 1 extra use.
+
+
+Scum
+- :first_quarter_moon_with_face: Make yourself or another player appear not suspicious to investigators tonight. 3 uses.
+- :first_quarter_moon_with_face: Make a player appear suspicious to investigators tonight. 3 uses.
+- :first_quarter_moon_with_face: Select a player. They will get false results tonight. 3 uses.
+- :first_quarter_moon_with_face: Make a player believe they were attacked and healed. 2 uses.
+- :sun_with_face: Make a player believe they are poisoned. 2 uses.
+- :first_quarter_moon_with_face: _with_face: :star: Select a player other than yourself. While you are alive, every investigative ability used on them will give fake results. 1 use.
+- :first_quarter_moon_with_face: :star: Select a player. If they die tonight or are lynched/dayviged, they will appear as a class of your choice and you will be able to write fake logs. 1 use.
+- :first_quarter_moon_with_face: :star: Every investigative ability will get false results tonight. 1 use.
+- :first_quarter_moon_with_face: :star: Rig tomorrow&#39;s roulette. No one will be able to win tokens and whoever wins the rare ticket prize will die. 1 use. 
+
+Offensive
+- :first_quarter_moon_with_face: Occupy a player. 4 uses. 
+- :first_quarter_moon_with_face: Force a player to target you. You will be immune to attacks redirected this way. 3 uses. 
+- :first_quarter_moon_with_face: Force a player to target you. You will NOT be immune to attacks redirected this way. 4 uses. 
+- :first_quarter_moon_with_face: Force a player to target another. Cannot force them to target you or themselves. 3 uses.
+- :sun_with_face: Prevent a player from using day abilities for the rest of the day. 3 uses.
+- :sun_with_face: Select a player. They will be unable to buy tickets for the roulette. 2 uses.
+- :sun_with_face: Select a player. They won&#39;t be able to bid any tokens in the ability pool today. 1 use.
+- :first_quarter_moon_with_face: Force a player to target themselves. 2 uses.
+- :sun_with_face: Redirect the next targeted day ability to you. 2 uses.
+- :sun_with_face: Select a player. If they use a day ability, they will target themselves. 2 uses.
+- :first_quarter_moon_with_face: Occupy everyone visiting you tonight. 2 uses.
+- :first_quarter_moon_with_face: Select a player except yourself. Occupy everyone visiting them tonight. 2 uses.
+- :first_quarter_moon_with_face: Select a player. Redirect all players visiting them to yourself. You will NOT be immune to attacks redirected this way. 2 uses.
+- :first_quarter_moon_with_face: Select a player and remove 1 use of all their abilities. 1 use.
+- :sun_with_face: Make a player instantly lose half of their tokens, rounded down (you won&#39;t know how many they lost). 2 uses.
+- :first_quarter_moon_with_face: :star: Occupy a player through immunity and make them lose all their non-starting passive abilities. 1 use. 
+- :sun_with_face: :star: Select a player and an ability from the pool. Force them to bid all their tokens on said ability (doesn&#39;t work on special tokens). 1 use. 
+- :sun_with_face: :star: Make a player lose all their tokens (doesn&#39;t include roulette tokens or special tokens). 1 use.
+- :first_quarter_moon_with_face: :star: Occupy up to 3 players. 1 use.
+
+
+Social
+- :sun_with_face: Send an anonymous message to the court through the host. 2 uses.
+- :sun_with_face: Send an anonymous message to another player through the host. 3 uses.
+- :sun_with_face: Select a player. They cannot vote to lynch anyone today. They will not count towards majority. 3 uses.
+- :sun_with_face: Decreases the number of votes required to lynch anyone by 1 today. 2 uses.
+- :sun_with_face: Increases the number of votes required to lynch anyone by 1 today. 2 uses.
+- :sun_with_face: You will know which is the next day ability used (you won&#39;t know who used it). 3 uses.
+- :first_quarter_moon_with_face: Select a player. You will both be able to send each other two 1000 character messages through the host over the course of the night. 3 uses.
+- :first_quarter_moon_with_face: Select two players. They will be allowed to send each other two 1000 character messages through the host. The conversation will be later given to you. 2 uses.
+- :sun_with_face: Force a player to lynch another. They cannot change or rescind their votes. 2 uses.
+- :first_quarter_moon_with_face: Select a player. You will get all feedback that player gets tonight. 2 uses.
+- :first_quarter_moon_with_face: Select a dead player. You will get all feedback that player got on the night of their death. 2 uses.
+- :sun_with_face: :star: Select a player. While you both are alive, you will have a private day and night chat. 1 use.
+- :sun_with_face: :star: Select a player. They cannot be lynched today. 1 use.
+- :sun_with_face: :star: Select a player. The votes needed to lynch them today will be halved. 1 use.
+- :sun_with_face: :star: Select up to 3 players. You and those 3 players will be able to send two 1000 character messages through the host over the course of the night. 1 use.
+
+Killer
+- :first_quarter_moon_with_face: Kill everyone visiting you tonight. You will be immune to attacks. 1 use.
+- :first_quarter_moon_with_face: Select a player other than yourself. Kill everyone visiting them tonight. 1 use.
+- :first_quarter_moon_with_face: Make yourself and a target player start bleeding. You will die in a day unless healed. 2 uses.
+- :first_quarter_moon_with_face: Bleed everyone visiting you tonight. You will be immune to attacks. 2 uses.  
+- :first_quarter_moon_with_face: Kill a player. 1 use.
+- :sun_with_face: The next player to lynch anyone will become poisoned and die in 2 days unless healed. Everyone in court will be notified when this ability is used (they won&#39;t know who did it). 2 uses.
+- :first_quarter_moon_with_face: Protect a player, making them immune to death and killing their attackers. 2 uses. 
+- :first_quarter_moon_with_face: Attempt to kill a player, if they are Town you will kill yourself instead. 2 uses.
+- :first_quarter_moon_with_face: Bleed a player. They will die in 1 day unless healed. 1 use.
+- :sun_with_face: Poison a player. They will die in 2 days unless healed. 2 uses.
+- :sun_with_face: Bleed a player. They will die in 2 days unless healed. 2 uses.
+- :sun_with_face: The next player to use a day ability will become poisoned and die in 2 days unless healed. 2 uses.
+- :sun_with_face: Select an ability from the pool. At the end of the day, whoever placed the highest bid will become poisoned and die in 2 days unless healed. 2 uses.
+- :first_quarter_moon_with_face: :star: Kill a player. Bypasses everything, (healing, occupation, visit prevention, etc). Doesn&#39;t count as visiting and this ability is hidden from investigators. 1 use.
+- :first_quarter_moon_with_face: :star: Kill 2 players. 1 use.
+- :sun_with_face: :star: Kill a player in plain daylight, bypassing everything. Everyone will know you did it. 1 use.
+- :sun_with_face: :star: Imprison a player tonight. You will both be able to send each other two 1000 character messages through the host over the course of the night. You will be able to execute them (bypasses death immunity and prevents others from visiting). 1 use. 
+
+
+Investigative
+- :first_quarter_moon_with_face: Check if a player is a member of the town. 2 uses. 
+- :first_quarter_moon_with_face: Check if a player is a member of the mafia. 2 uses.
+- :first_quarter_moon_with_face: Check if two players have the same faction. 3 uses.
+- :first_quarter_moon_with_face: Check if a player is neutral. 2 uses.
+- :first_quarter_moon_with_face: Follow a player to see who they visit. 4 uses.
+- :first_quarter_moon_with_face: Follow a player to see who visits them. 4 uses.
+- :first_quarter_moon_with_face: Follow a player to see who visits them and who they visit. 3 uses.
+- :first_quarter_moon_with_face: You will be told who the mafia visits tonight. 2 uses.
+- :sun_with_face: Find out how many tokens a player has currently (doesn&#39;t detect roulette or special tokens). 2 uses.
+- :sun_with_face: Select a player. You will be alerted if they use a day ability, and the type of the ability (starting abilities appear as special type). 3 uses.
+- :first_quarter_moon_with_face: Reveal one of a player&#39;s random non-starting ability. 2 uses.
+- :first_quarter_moon_with_face: Reveal the type of the ability a player uses tonight (starting abilities appear as special type). 3 uses.
+- :first_quarter_moon_with_face: Find out how many non-starting abilities a player has currently. 3 uses.
+- :first_quarter_moon_with_face: Select a player. You will be alerted if they have any Scum or Killer type abilities (doesn&#39;t detect starting abilities). 3 uses.
+- :first_quarter_moon_with_face: Check the faction of a player. 1 use. 
+- :first_quarter_moon_with_face: Check if a player attacks someone tonight. 3 uses.
+- :sun_with_face: :star: Reveal a player&#39;s class to the whole court. 1 use.
+- :sun_with_face: :star: Select an ability from the pool. At the end of the day, you will know who placed a bid there and how many tokens. 1 use.
+- :sun_with_face: :star: Reveal the current highest bids on today&#39;s ability pool. 1 use.
+- :first_quarter_moon_with_face: :star: Select two players. You will know their faction. 1 use.
+
+
+Gambling:
+- :sun_with_face: Force the host to start a second event of your choice. 2 uses.
+- :sun_with_face: Swap all your tokens with another player. 1 use.
+- :first_quarter_moon_with_face: Steal a random ability from a chosen player. It will keep the same number of remaining uses. 1 use.
+- :first_quarter_moon_with_face: Select a player. You will get a copy of one of their abilities chosen at random (doesn&#39;t copy passives, special or golden abilities). The copied ability will always have 1 use. 3 uses.
+- :first_quarter_moon_with_face: Select any ability from the list and add it to tomorrow&#39;s ability pool. 2 uses.
+- :first_quarter_moon_with_face: Select a player. You will steal any tickets they buy tomorrow. They won&#39;t be notified until the roulette ends. 2 uses.
+- :sun_with_face: Remove an ability from today&#39;s ability pool. 2 uses.
+- :sun_with_face: At the end of the day, you will get a copy of the ability that got the lowest bid. 2 uses
+- :sun_with_face: At the end of the day, you will get a copy of the ability that got the highest bid. 1 use.
+- :sun_with_face: Steal 5 tokens from a player and keep them for yourself. 2 uses.
+- :sun_with_face: Steal all tokens from a dead player, including roulette or special tokens. 1 use.
+- :sun_with_face: :star: Remove all of your tokens and you will be unable to get tokens for the rest of the game. Gain 3 special tokens. 1 use.
+- :sun_with_face: :star: Remove all of your non-starting abilities. Gain 1 random non-golden ability of each type, for a total of 8 abilities. (Passive, Support, Social, Offensive, Killer, Scum, Investigative and Gambling)
+- :sun_with_face: :star: Curse an ability from the pool. No one will be able to get said ability and you will steal the tokens from everyone that placed a bid there (including special tokens). People will be notified when this ability is used, but they won&#39;t know which ability is cursed. 1 use.
+- :sun_with_face: :star: Instantly steal any ability from the pool and keep it for yourself. 1 use.
+[/details]
+
+
+Also, the new role distribution would be as follows:
+
+[color=green]**Town**[/color]
+[color=green]**Town**[/color]
+[color=green]**Town**[/color]
+[color=green]**Town**[/color]
+[color=green]**Town**[/color]
+[color=green]**Town**[/color]
+[color=green]**Town**[/color]
+[color=green]**Town**[/color]
+[color=green]**Town**[/color]
+[color=green]**Town**[/color]**/**[color=gray]**Neutral**[/color]
+[color=green]**Town**[/color]**/**[color=gray]**Neutral**[/color]
+[color=green]**Town**[/color]**/**[color=gray]**Neutral**[/color]
+[color=red]**Godfather**[/color]
+[color=red]**Mafioso**[/color]
+[color=red]**Mafioso**[/color]
+[color=gray]**Neutral Killer**[/color]</description>
+    
+    <lastBuildDate>Thu, 31 May 2018 14:18:15 +0000</lastBuildDate>
+    <category>Forum Matches</category>
+    <atom:link href="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[FM] Poker Mafia Class cards</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="psychoneirik" data-post="1" data-topic="60461">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/psychoneirik/40/12950_2.png" class="avatar"> psychoneirik:</div>
+<blockquote>
+<p><img src="/images/emoji/twitter/first_quarter_moon_with_face.png?v=9" title=":first_quarter_moon_with_face:" class="emoji" alt=":first_quarter_moon_with_face:"> Attempt to kill a player, if they are Town you will kill yourself instead. 2 uses.</p>
+</blockquote>
+</aside>
+<p>Btw just realized that mafia does have a niche use for this ability, which is to kill town sided neuts without wasting the Godfather’s attack.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/135">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/135</link>
+        <pubDate>Thu, 31 May 2018 14:18:15 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-60461-135</guid>
+        <source url="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461.rss">[FM] Poker Mafia Class cards</source>
+      </item>
+      <item>
+        <title>[FM] Poker Mafia Class cards</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>I like it.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/134">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/134</link>
+        <pubDate>Mon, 28 May 2018 17:18:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-60461-134</guid>
+        <source url="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461.rss">[FM] Poker Mafia Class cards</source>
+      </item>
+      <item>
+        <title>[FM] Poker Mafia Class cards</title>
+        <dc:creator><![CDATA[Twil1ight]]></dc:creator>
+        <description><![CDATA[
+            <p>Taxes? Hell yea brother! KKona</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/133">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/133</link>
+        <pubDate>Mon, 28 May 2018 16:18:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-60461-133</guid>
+        <source url="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461.rss">[FM] Poker Mafia Class cards</source>
+      </item>
+      <item>
+        <title>[FM] Poker Mafia Class cards</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>What do you guys think about this change?</p>
+<blockquote>
+<p><strong>Selling abilities:</strong><br>
+The way selling an ability works has been changed. You can now choose an ability to sell and it will go back into the ability pool. People will be able to bid for said ability like normal, but the highest bid will go towards the seller.</p>
+</blockquote>
+<p>Basically instead of getting a fixed amount of tokens for selling an ability you would get the tokens from the highest bid.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/132">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/132</link>
+        <pubDate>Mon, 28 May 2018 16:00:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-60461-132</guid>
+        <source url="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461.rss">[FM] Poker Mafia Class cards</source>
+      </item>
+      <item>
+        <title>[FM] Poker Mafia Class cards</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>I don’t want to completely remove faction-specific abilities, but I do want to reward people that spend their tokens denying abilities to their enemies instead of getting abilities from themselves. If reroll isn’t the best solution, I’ll try to think of another way to do it.<br>
+I tried to do this in the first poker mafia with the ability to sell your abilities back, but no one seemed to use that feature except for the neutral killer, who had the ability to see all bids as they happened.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/131">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/131</link>
+        <pubDate>Mon, 28 May 2018 04:08:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-60461-131</guid>
+        <source url="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461.rss">[FM] Poker Mafia Class cards</source>
+      </item>
+      <item>
+        <title>[FM] Poker Mafia Class cards</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>I guess this needs a poll.</p>
+<div class="poll" data-poll-status="open" data-poll-public="true" data-poll-type="regular" data-poll-name="poll">
+<div>
+<div class="poll-container">
+<ul>
+<li data-poll-option-id="a0e2888ba252e3a48043140bebfcc91a">Keep scum/town-specific abilities as they are</li>
+<li data-poll-option-id="6b222af9a59d1813dbdb213055483ea0">Keep scum/town-specific abilities but add the reroll mechanic</li>
+<li data-poll-option-id="d1d582e885cbd8a64f96cdeadca726d9">Remove or change scum/town-specific abilities</li>
+</ul>
+</div>
+<div class="poll-info">
+<p>
+<span class="info-number">0</span>
+<span class="info-label">voters</span>
+</p>
+</div>
+</div>
+</div>
+          <p><a href="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/130">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/130</link>
+        <pubDate>Mon, 28 May 2018 03:53:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-60461-130</guid>
+        <source url="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461.rss">[FM] Poker Mafia Class cards</source>
+      </item>
+      <item>
+        <title>[FM] Poker Mafia Class cards</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>Adding reroll seems to complicate it and reduces the tension of who gets the better abilities/is it worth betting super low on worse abilities.</p>
+<p>I really think it’s really good in its current state.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/129">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/129</link>
+        <pubDate>Mon, 28 May 2018 03:34:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-60461-129</guid>
+        <source url="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461.rss">[FM] Poker Mafia Class cards</source>
+      </item>
+      <item>
+        <title>[FM] Poker Mafia Class cards</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>Ignore the haters psycho it’s perfectly good.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/128">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/128</link>
+        <pubDate>Mon, 28 May 2018 03:32:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-60461-128</guid>
+        <source url="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461.rss">[FM] Poker Mafia Class cards</source>
+      </item>
+      <item>
+        <title>[FM] Poker Mafia Class cards</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/Hippolytus">@Hippolytus</a> what do you think about the reroll mechanic?</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/127">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/127</link>
+        <pubDate>Mon, 28 May 2018 01:45:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-60461-127</guid>
+        <source url="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461.rss">[FM] Poker Mafia Class cards</source>
+      </item>
+      <item>
+        <title>[FM] Poker Mafia Class cards</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>Of course, people still have the choice of selling abilities for tokens, but the advantage of reroll is that you get a new ability immediately and the old ability doesn’t go back to the pool.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/126">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/126</link>
+        <pubDate>Mon, 28 May 2018 01:44:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-60461-126</guid>
+        <source url="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461.rss">[FM] Poker Mafia Class cards</source>
+      </item>
+      <item>
+        <title>[FM] Poker Mafia Class cards</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Ok. Thats fine.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/125">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/125</link>
+        <pubDate>Mon, 28 May 2018 01:43:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-60461-125</guid>
+        <source url="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461.rss">[FM] Poker Mafia Class cards</source>
+      </item>
+      <item>
+        <title>[FM] Poker Mafia Class cards</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>3 forever, to stop people from just rerolling everything.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/124">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/124</link>
+        <pubDate>Mon, 28 May 2018 01:42:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-60461-124</guid>
+        <source url="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461.rss">[FM] Poker Mafia Class cards</source>
+      </item>
+      <item>
+        <title>[FM] Poker Mafia Class cards</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="psychoneirik" data-post="122" data-topic="60461">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/psychoneirik/40/12950_2.png" class="avatar"> psychoneirik:</div>
+<blockquote>
+<ul>
+<li>The first reroll is free, but the price increases by 3 tokens for every reroll.</li>
+</ul>
+</blockquote>
+</aside>
+<p>Clarify this. 3 forever or 3 for that ability (or rather the new ability)</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/123">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/123</link>
+        <pubDate>Mon, 28 May 2018 01:42:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-60461-123</guid>
+        <source url="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461.rss">[FM] Poker Mafia Class cards</source>
+      </item>
+      <item>
+        <title>[FM] Poker Mafia Class cards</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="psychoneirik" data-post="118" data-topic="60461">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/psychoneirik/40/12950_2.png" class="avatar"> psychoneirik:</div>
+<blockquote>
+<p><strong>Reroll:</strong> Whenever you get a new ability, you can pay tokens to change it for a random one.</p>
+<ul>
+<li>You cannot reroll passive abilities.</li>
+<li>You cannot reroll abilities if you have used at least 1 charge.</li>
+<li>The first reroll is free, but the price increases by 3 tokens for every reroll.</li>
+<li>You cannot get golden abilities when rerolling.</li>
+<li>If you reroll a golden ability, you will get 2 common abilities instead.</li>
+</ul>
+</blockquote>
+</aside>
+<p>How about this?</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/122">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/122</link>
+        <pubDate>Mon, 28 May 2018 01:41:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-60461-122</guid>
+        <source url="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461.rss">[FM] Poker Mafia Class cards</source>
+      </item>
+      <item>
+        <title>[FM] Poker Mafia Class cards</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>while that might also be good it’s still important to make sure that you can’t end up rerolling to get a gold ability or something from a common one (and vice versa) ect.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/121">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/121</link>
+        <pubDate>Mon, 28 May 2018 01:36:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-60461-121</guid>
+        <source url="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461.rss">[FM] Poker Mafia Class cards</source>
+      </item>
+      <item>
+        <title>[FM] Poker Mafia Class cards</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>I was thinking on making X start low but increase each time you reroll.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/120">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/120</link>
+        <pubDate>Mon, 28 May 2018 01:35:42 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-60461-120</guid>
+        <source url="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461.rss">[FM] Poker Mafia Class cards</source>
+      </item>
+      <item>
+        <title>[FM] Poker Mafia Class cards</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>While that would solve the problem it might cause problem if either X was too high on those niche ability’s or if it was too low on all of the other ones. Maybe make X dependent on the ability and have it give you another ability of the same value?</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/119">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/119</link>
+        <pubDate>Mon, 28 May 2018 01:34:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-60461-119</guid>
+        <source url="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461.rss">[FM] Poker Mafia Class cards</source>
+      </item>
+      <item>
+        <title>[FM] Poker Mafia Class cards</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>How about adding a new mechanic to the game?</p>
+<p><strong>Reroll:</strong> Whenever you get a new ability, you can pay tokens to change it for a random one.</p>
+<ul>
+<li>You cannot reroll passive abilities.</li>
+<li>You cannot reroll abilities if you have used at least 1 charge.</li>
+<li>The first reroll is free, but the price increases by 3 tokens for every  reroll.</li>
+<li>You cannot get golden abilities when rerolling.</li>
+<li>If you reroll a golden ability, you will get 2 common abilities instead.</li>
+</ul>
+<p>This would actually give a reward to players that use their tokens to deny an ability that would otherwise be useless for them.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/118">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/118</link>
+        <pubDate>Mon, 28 May 2018 01:33:32 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-60461-118</guid>
+        <source url="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461.rss">[FM] Poker Mafia Class cards</source>
+      </item>
+      <item>
+        <title>[FM] Poker Mafia Class cards</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Making it somewhat useful for town makes it’s reward higher. It doesn’t make it as good as taking something that is useful for everyone but it is enough to spark WIFOM where before it was all chance.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/117">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/117</link>
+        <pubDate>Mon, 28 May 2018 01:25:15 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-60461-117</guid>
+        <source url="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461.rss">[FM] Poker Mafia Class cards</source>
+      </item>
+      <item>
+        <title>[FM] Poker Mafia Class cards</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Taking a scum ability is low risk medium reward and trying to outbid mafia doing this is high risk low reward.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/116">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/116</link>
+        <pubDate>Mon, 28 May 2018 01:24:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-60461-116</guid>
+        <source url="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461.rss">[FM] Poker Mafia Class cards</source>
+      </item>
+      <item>
+        <title>[FM] Poker Mafia Class cards</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Again. It doesn’t matter. If anything that second one just makes it worse as now NO ONE will go for scum ability’s after someone takes that one (unless a scum took it)</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/115">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/115</link>
+        <pubDate>Mon, 28 May 2018 01:22:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-60461-115</guid>
+        <source url="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461.rss">[FM] Poker Mafia Class cards</source>
+      </item>
+      <item>
+        <title>[FM] Poker Mafia Class cards</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>Also, I added many abilities that can counter this, such as abilities that remove an ability from the pool and abilities that tell you which players have placed a bid on a certain ability.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/114">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/114</link>
+        <pubDate>Mon, 28 May 2018 01:21:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-60461-114</guid>
+        <source url="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461.rss">[FM] Poker Mafia Class cards</source>
+      </item>
+      <item>
+        <title>[FM] Poker Mafia Class cards</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>That is irrelevant unless the cap is 0. They will still spawn and they will still be boring in comparison to ability’s that have uses for everyone (but more uses for some people)</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/113">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/113</link>
+        <pubDate>Mon, 28 May 2018 01:20:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-60461-113</guid>
+        <source url="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461.rss">[FM] Poker Mafia Class cards</source>
+      </item>
+      <item>
+        <title>[FM] Poker Mafia Class cards</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>As I said, there will be a cap to those kind of abilities which means they will be less common than abilities that help every faction.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/112">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/112</link>
+        <pubDate>Mon, 28 May 2018 01:19:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-60461-112</guid>
+        <source url="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461.rss">[FM] Poker Mafia Class cards</source>
+      </item>
+      <item>
+        <title>[FM] Poker Mafia Class cards</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="psychoneirik" data-post="108" data-topic="60461" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/psychoneirik/40/12950_2.png" class="avatar"> psychoneirik:</div>
+<blockquote>
+<p>An unused ability is worth 5 tokens, so people can bid on one of them to deny them from the other faction and could also get a profit if they paid less than 5 tokens.</p>
+</blockquote>
+</aside>
+<p>Both of these would not be happening at the same time.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/111">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461/111</link>
+        <pubDate>Mon, 28 May 2018 01:19:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-60461-111</guid>
+        <source url="https://forum.throneoflies.com/t/fm-poker-mafia-class-cards/60461.rss">[FM] Poker Mafia Class cards</source>
+      </item>
+  </channel>
+</rss>

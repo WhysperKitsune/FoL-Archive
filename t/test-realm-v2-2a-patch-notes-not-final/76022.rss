@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[TEST REALM] v2.2a Patch Notes (Not Final)</title>
+    <link>https://forum.throneoflies.com/t/test-realm-v2-2a-patch-notes-not-final/76022</link>
+    <description># v2.2.0a
+
+&gt; About
+
+* This is a follow-up to the v2.2.0 patch with mostly bug fixes, but some of them are quite major. See the previous patch notes for full details if you have not yet explored v2.2.
+
+&gt; Notable Bug Fixes / Improvements
+
+* Options freeze fixed, caused by an infinite-looping resolution (depending on your resolution options).
+
+* MVP aesthetics fixed (previously showing the literally-ordered top 3 as MVP).
+
+* &quot;Queue as Group&quot; has had a major back-end revamp to be faster and more reliable.
+
+* &quot;Queue as Group&quot; will no longer indefinitely freeze @ &quot;Finding Group...&quot; and now properly either A) Times out after 30s, or B) Times out earlier, if the leader is detected as disconnected.
+
+* If silenced/distracted, your emote button will temporarily be disabled to prevent metagaming.
+
+* Bleeding should now only have the shake/sfx to the targeted recipient (and caster).
+
+* Link Mind type abilities should now only make a sfx to the targeted recipient (and caster).
+
+* Poison will no longer cause the recipient to have a screen shake/sfx.
+
+* Kings will no longer see a boring white box in place of a disabled ability.
+
+* King&#39;s &quot;The Royal Finger&quot; day ability will now play the sfx in the expected timing (when you finalize your decision, previously before you chose your target).
+
+* Options &quot;Detailed Feedback&quot;, &quot;Glossary Links&quot; and &quot;Ability Sfx&quot; now match the correct setting and show properly (they were either mismatching or poofing).
+
+* @ Mac/Linux: Discord RPC (rich presence) issues may have been resolved. Let me know if you see details when you click on yourself to view your Discord status, if enabled in Discord settings!
+
+&gt; Minor Bug Fixes
+
+* Options resolution dropdown &quot;weird results&quot; fixed (sometimes it would show &quot;fast&quot; or blank buttons).
+
+* The new status icons (bleeding, etc) will no longer react to being clicked as if something happens when you click them.
+
+* Hovering of the top status icon (if 2 icons, such as Bleeding and Delayed Death) will no longer cause the icons to &quot;spazz out&quot;.
+
+* The Emote icon&#39;s border has returned, and the white background no longer &quot;leaks&quot; out the edge.
+
+* Slightly less lag when dragging chat.
+
+* Stopped null errors for Deathnote dragging sfx when interrupted.
+
+* Contained the loading tips to remain within the bounds of the shadow.
+
+* Prevented a Friends List error when a friend tells you their updated status before your friends list has finished initializing.
+
+* Fixed deathnote draw sfx.
+
+* Fixed an annoying &quot;Click&quot; sound between in-game and game-over scenes.
+
+* If you and a friend are both queued, the Friends List friend is disabled since you cannot interact with them to invite/follow.
+
+* Clicking &quot;Cancel&quot; in settings no longer messes up tips or ability sfx options
+
+&gt; Quality of Life
+
+* Moved streamer chat panel tabs more to the right so the UI isn&#39;t crammed together with the top-left player info area.
+
+* Brought the lobby&#39;s top-left Discord panel art back to full color/brightness (used to be washed-out).
+
+* Added the 2.2 promo art to the top-left Discord panel with subtle animations.
+
+* Friend list avatars have been centered (previously imbalanced) and added a border to look less &quot;just pasted in there&quot;.
+
+* Physician&#39;s self heal now gives heal flash + heal sfx (instead of just a message that you healed yourself).
+
+* Added ability hover (subtle) and click sfx to main ability icons. About the targeting hover fx: Want this ultra subtle (similar to player list)? Or you like the clicks? Some say satisfying, some say annoying. Let me know in Discord #feedback-qol
+
+--Xblade</description>
+    
+    <lastBuildDate>Thu, 28 Mar 2019 15:16:09 +0000</lastBuildDate>
+    <category>Official Announcements</category>
+    <atom:link href="https://forum.throneoflies.com/t/test-realm-v2-2a-patch-notes-not-final/76022.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[TEST REALM] v2.2a Patch Notes (Not Final)</title>
+        <dc:creator><![CDATA[anon97870008]]></dc:creator>
+        <description><![CDATA[
+            <p>From a generic guide reeee</p>
+          <p><a href="https://forum.throneoflies.com/t/test-realm-v2-2a-patch-notes-not-final/76022/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/test-realm-v2-2a-patch-notes-not-final/76022/9</link>
+        <pubDate>Thu, 28 Mar 2019 15:16:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76022-9</guid>
+        <source url="https://forum.throneoflies.com/t/test-realm-v2-2a-patch-notes-not-final/76022.rss">[TEST REALM] v2.2a Patch Notes (Not Final)</source>
+      </item>
+      <item>
+        <title>[TEST REALM] v2.2a Patch Notes (Not Final)</title>
+        <dc:creator><![CDATA[Soulshade55r]]></dc:creator>
+        <description><![CDATA[
+            <p>Kek generic guide message.</p>
+          <p><a href="https://forum.throneoflies.com/t/test-realm-v2-2a-patch-notes-not-final/76022/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/test-realm-v2-2a-patch-notes-not-final/76022/8</link>
+        <pubDate>Thu, 28 Mar 2019 13:28:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76022-8</guid>
+        <source url="https://forum.throneoflies.com/t/test-realm-v2-2a-patch-notes-not-final/76022.rss">[TEST REALM] v2.2a Patch Notes (Not Final)</source>
+      </item>
+      <item>
+        <title>[TEST REALM] v2.2a Patch Notes (Not Final)</title>
+        <dc:creator><![CDATA[anon97870008]]></dc:creator>
+        <description><![CDATA[
+            <p>?guideapp</p>
+<p>Thanks for being interested in becoming a Guide. Each guide has generally been with us for a lengthy amount of time, is knowledgeable, advocates our game, has read our Wikia, helps new players, contributes to multiple parts of our community, and plays ToL all the time.</p>
+<p>There is no formal way to apply to become a Guide, for now. We choose based on those that have been the most helpful to new players, don’t break the rules, and participate often within our community. We’ll find YOU, if you stand out <img src="/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          <p><a href="https://forum.throneoflies.com/t/test-realm-v2-2a-patch-notes-not-final/76022/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/test-realm-v2-2a-patch-notes-not-final/76022/7</link>
+        <pubDate>Tue, 26 Mar 2019 17:03:24 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76022-7</guid>
+        <source url="https://forum.throneoflies.com/t/test-realm-v2-2a-patch-notes-not-final/76022.rss">[TEST REALM] v2.2a Patch Notes (Not Final)</source>
+      </item>
+      <item>
+        <title>[TEST REALM] v2.2a Patch Notes (Not Final)</title>
+        <dc:creator><![CDATA[SweetyCake]]></dc:creator>
+        <description><![CDATA[
+            <p>Its ok. As long as you fixed that, that bug kinda annoying lol.<br>
+(How to become a guide?)</p>
+          <p><a href="https://forum.throneoflies.com/t/test-realm-v2-2a-patch-notes-not-final/76022/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/test-realm-v2-2a-patch-notes-not-final/76022/6</link>
+        <pubDate>Tue, 26 Mar 2019 07:09:25 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76022-6</guid>
+        <source url="https://forum.throneoflies.com/t/test-realm-v2-2a-patch-notes-not-final/76022.rss">[TEST REALM] v2.2a Patch Notes (Not Final)</source>
+      </item>
+      <item>
+        <title>[TEST REALM] v2.2a Patch Notes (Not Final)</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="SweetyCake" data-post="4" data-topic="76022" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/sweetycake/40/12625_2.png" class="avatar"> SweetyCake:</div>
+<blockquote>
+<p>I did reported, i think a month ago on the forum…</p>
+</blockquote>
+</aside>
+<p>Ah, my bad. Feel free to do monthly bumps if I miss something:</p>
+<p><img src="/uploads/default/original/2X/f/f2c871c72d74e03f8a1efedfa6704c15eb38c2ba.png" alt="image" data-base62-sha1="yDKZSFnA1Ud9ED9mEMtffEUQbLc" width="220" height="83"></p>
+          <p><a href="https://forum.throneoflies.com/t/test-realm-v2-2a-patch-notes-not-final/76022/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/test-realm-v2-2a-patch-notes-not-final/76022/5</link>
+        <pubDate>Tue, 26 Mar 2019 06:57:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76022-5</guid>
+        <source url="https://forum.throneoflies.com/t/test-realm-v2-2a-patch-notes-not-final/76022.rss">[TEST REALM] v2.2a Patch Notes (Not Final)</source>
+      </item>
+      <item>
+        <title>[TEST REALM] v2.2a Patch Notes (Not Final)</title>
+        <dc:creator><![CDATA[SweetyCake]]></dc:creator>
+        <description><![CDATA[
+            <p>I did reported, i think a month ago on the forum…</p>
+          <p><a href="https://forum.throneoflies.com/t/test-realm-v2-2a-patch-notes-not-final/76022/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/test-realm-v2-2a-patch-notes-not-final/76022/4</link>
+        <pubDate>Tue, 26 Mar 2019 05:09:24 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76022-4</guid>
+        <source url="https://forum.throneoflies.com/t/test-realm-v2-2a-patch-notes-not-final/76022.rss">[TEST REALM] v2.2a Patch Notes (Not Final)</source>
+      </item>
+      <item>
+        <title>[TEST REALM] v2.2a Patch Notes (Not Final)</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="SweetyCake" data-post="2" data-topic="76022">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/sweetycake/40/12625_2.png" class="avatar"> SweetyCake:</div>
+<blockquote>
+<p>Still not fixing the Chill/Slience bug XBlade?</p>
+</blockquote>
+</aside>
+<p>Hmm never saw this one reported. I’ll look into it. The reaper/chill bug I fixed was the one where nothing would happen to the recipient when they should be silenced etc.</p>
+          <p><a href="https://forum.throneoflies.com/t/test-realm-v2-2a-patch-notes-not-final/76022/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/test-realm-v2-2a-patch-notes-not-final/76022/3</link>
+        <pubDate>Tue, 26 Mar 2019 04:38:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76022-3</guid>
+        <source url="https://forum.throneoflies.com/t/test-realm-v2-2a-patch-notes-not-final/76022.rss">[TEST REALM] v2.2a Patch Notes (Not Final)</source>
+      </item>
+      <item>
+        <title>[TEST REALM] v2.2a Patch Notes (Not Final)</title>
+        <dc:creator><![CDATA[SweetyCake]]></dc:creator>
+        <description><![CDATA[
+            <p>Still not fixing the Chill/Slience bug XBlade? That the bug when you are Chilled/Slienced, emote are still usable. That could leads to some unexpected things to happen.</p>
+          <p><a href="https://forum.throneoflies.com/t/test-realm-v2-2a-patch-notes-not-final/76022/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/test-realm-v2-2a-patch-notes-not-final/76022/2</link>
+        <pubDate>Tue, 26 Mar 2019 04:09:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76022-2</guid>
+        <source url="https://forum.throneoflies.com/t/test-realm-v2-2a-patch-notes-not-final/76022.rss">[TEST REALM] v2.2a Patch Notes (Not Final)</source>
+      </item>
+      <item>
+        <title>[TEST REALM] v2.2a Patch Notes (Not Final)</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <h1>v2.2.0a</h1>
+<blockquote>
+<p>About</p>
+</blockquote>
+<ul>
+<li>This is a follow-up to the v2.2.0 patch with mostly bug fixes, but some of them are quite major. See the previous patch notes for full details if you have not yet explored v2.2.</li>
+</ul>
+<blockquote>
+<p>Notable Bug Fixes / Improvements</p>
+</blockquote>
+<ul>
+<li>
+<p>Options freeze fixed, caused by an infinite-looping resolution (depending on your resolution options).</p>
+</li>
+<li>
+<p>MVP aesthetics fixed (previously showing the literally-ordered top 3 as MVP).</p>
+</li>
+<li>
+<p>“Queue as Group” has had a major back-end revamp to be faster and more reliable.</p>
+</li>
+<li>
+<p>“Queue as Group” will no longer indefinitely freeze @ “Finding Group…” and now properly either A) Times out after 30s, or B) Times out earlier, if the leader is detected as disconnected.</p>
+</li>
+<li>
+<p>If silenced/distracted, your emote button will temporarily be disabled to prevent metagaming.</p>
+</li>
+<li>
+<p>Bleeding should now only have the shake/sfx to the targeted recipient (and caster).</p>
+</li>
+<li>
+<p>Link Mind type abilities should now only make a sfx to the targeted recipient (and caster).</p>
+</li>
+<li>
+<p>Poison will no longer cause the recipient to have a screen shake/sfx.</p>
+</li>
+<li>
+<p>Kings will no longer see a boring white box in place of a disabled ability.</p>
+</li>
+<li>
+<p>King’s “The Royal Finger” day ability will now play the sfx in the expected timing (when you finalize your decision, previously before you chose your target).</p>
+</li>
+<li>
+<p>Options “Detailed Feedback”, “Glossary Links” and “Ability Sfx” now match the correct setting and show properly (they were either mismatching or poofing).</p>
+</li>
+<li>
+<p>@ Mac/Linux: Discord RPC (rich presence) issues may have been resolved. Let me know if you see details when you click on yourself to view your Discord status, if enabled in Discord settings!</p>
+</li>
+</ul>
+<blockquote>
+<p>Minor Bug Fixes</p>
+</blockquote>
+<ul>
+<li>
+<p>Options resolution dropdown “weird results” fixed (sometimes it would show “fast” or blank buttons).</p>
+</li>
+<li>
+<p>The new status icons (bleeding, etc) will no longer react to being clicked as if something happens when you click them.</p>
+</li>
+<li>
+<p>Hovering of the top status icon (if 2 icons, such as Bleeding and Delayed Death) will no longer cause the icons to “spazz out”.</p>
+</li>
+<li>
+<p>The Emote icon’s border has returned, and the white background no longer “leaks” out the edge.</p>
+</li>
+<li>
+<p>Slightly less lag when dragging chat.</p>
+</li>
+<li>
+<p>Stopped null errors for Deathnote dragging sfx when interrupted.</p>
+</li>
+<li>
+<p>Contained the loading tips to remain within the bounds of the shadow.</p>
+</li>
+<li>
+<p>Prevented a Friends List error when a friend tells you their updated status before your friends list has finished initializing.</p>
+</li>
+<li>
+<p>Fixed deathnote draw sfx.</p>
+</li>
+<li>
+<p>Fixed an annoying “Click” sound between in-game and game-over scenes.</p>
+</li>
+<li>
+<p>If you and a friend are both queued, the Friends List friend is disabled since you cannot interact with them to invite/follow.</p>
+</li>
+<li>
+<p>Clicking “Cancel” in settings no longer messes up tips or ability sfx options</p>
+</li>
+</ul>
+<blockquote>
+<p>Quality of Life</p>
+</blockquote>
+<ul>
+<li>
+<p>Moved streamer chat panel tabs more to the right so the UI isn’t crammed together with the top-left player info area.</p>
+</li>
+<li>
+<p>Brought the lobby’s top-left Discord panel art back to full color/brightness (used to be washed-out).</p>
+</li>
+<li>
+<p>Added the 2.2 promo art to the top-left Discord panel with subtle animations.</p>
+</li>
+<li>
+<p>Friend list avatars have been centered (previously imbalanced) and added a border to look less “just pasted in there”.</p>
+</li>
+<li>
+<p>Physician’s self heal now gives heal flash + heal sfx (instead of just a message that you healed yourself).</p>
+</li>
+<li>
+<p>Added ability hover (subtle) and click sfx to main ability icons. About the targeting hover fx: Want this ultra subtle (similar to player list)? Or you like the clicks? Some say satisfying, some say annoying. Let me know in Discord <span class="hashtag">#feedback-qol</span></p>
+</li>
+</ul>
+<p>–Xblade</p>
+          <p><a href="https://forum.throneoflies.com/t/test-realm-v2-2a-patch-notes-not-final/76022/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/test-realm-v2-2a-patch-notes-not-final/76022/1</link>
+        <pubDate>Mon, 25 Mar 2019 19:20:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76022-1</guid>
+        <source url="https://forum.throneoflies.com/t/test-realm-v2-2a-patch-notes-not-final/76022.rss">[TEST REALM] v2.2a Patch Notes (Not Final)</source>
+      </item>
+  </channel>
+</rss>

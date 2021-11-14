@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</title>
+    <link>https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285</link>
+    <description>
+Combat
+---
+Works on a roll system similar to VLDR, with losing all health causing a player to be knocked out. If a knocked out player is attacked again, they die. The only exception here is critical hits, which will deal x2 damage and bypass the knockout stage. In addition, players can submit retaliatory actions such as fleeing, countering, or what have you.
+
+Stats and Formulae
+---
+Stats will be from 1-100. Passing the cap is possible. Aside from the stats present in Death City, INT is also added.
+A = Attacked. D = Defender.
+
+Formulae:
+
+Hit chance = 65% + 0.5%*A.PRE-0.4%*D.AGI 
+
+Critical Chance =15%+0.3%*A.LUK (Bypasses KO)
+
+Max HP = 250+5*CON
+
+Melee Damage = A.STR+A.WeaponATK*rand(8...12)
+
+Ranged Damage = A.PRE+A.WeaponATK*rand(8...12)
+
+Magic/Explosives Damage = A.INT+A.WeaponATK*rand(8...12)
+
+Poison and Burn Damage = INT/3 per hour.
+
+Inventory
+---
+* Each player by default begins with two private item slots and five public item slots.
+* Each player also gains a weapon slot, an armor slot, and an off-hand slot.
+* Each player has an infinite inventory where they can hold Crystals.
+* Anyone can check another player’s public slot, but the private slot, equipment slots, and crystal slots will remain hidden unless the player is knocked out.
+* A player can dual-wield if they have a passive or a crystal that allows them to. Dual wielding means that your second weapon will  also attack for x0.7 of it&#39;s normal damage. You may only dual-wield 1H melee weapons.
+
+Claiming
+---
+You&#39;re allowed to claim. The wincons are fairly varied and some may overlap with others so it will be fairly easy to fakeclaim.
+
+Flips
+---
+If a player is murdered, then only their murderer will learn their alignment. If a player is executed, then only the Sovereign will learn their alignment.
+
+Alignments
+---
+
+There are three alignments that players can roll. Good, evil, and neutral
+
+Also a few notes on some changes on the alignment system when it comes to kills.
+* Good players don&#39;t get EXP from killing other Good players. (Planning on removing the incentive for good players to knowlingly kill other good players.)
+* Any player will gain a Crystal when killing an Evil one. (In short, more incentive for players to hunt Evils rather than just let them mess around like Night.)
+* Any player will gain a Legendary Weapon when killing a Neutral one. (Method to prevent people from claiming neutral to avoid conflcit. Becoming a pinata should do the trick)
+
+Wincons
+---
+
+Each player has a specific wincon. Evils gain fake safeclaims as well.
+
+Kill Penalties
+----------
+
+**Bloodied vs Bloodless**: Bloodied players have killed in the match, bloodless have not. This distinction matters in regards to passives and wincons.
+
+Sovereign
+-----------
+* The game begin with a Sovereign. The Sovereign can appoint up to three heirs. Once the Sovereign dies then a random heir will be chosen as the new Sovereign. Heirs may choose to decline becoming a sovereign.
+* Sovereigns can call execution votes.
+* Items called Skull Tokens exist. They can be used to give the voted player an additional vote for execution and are casted publicly.
+
+Crystals
+-----------
+Crystals are powerful items with strong passive abilities that can be found across the map. They are semi-rare, but they are relatively fragile and can be easily destroyed. Destroying them grants the destroyer EXP. Once every crystal in a chapter has been obtained, a new chapter will begin.
+# Execution Rework
+Executions automatically cause the Sovereign to execute their target once maj is reached. This should make them more useful now as before they were kind of like an afterthought to everyone just piling up on a random person ala Marshal.
+
+NPCs
+-----------
+Yes, there will be NPCs here in Castle Desolation. They&#39;ll be fairly weak but they&#39;ll give you EXP and may drop useful items, and many of the stronger ones even have the Crystals to use in the GoG that you can win. In addition, some players, mostly evils and neutrals though, will be able to summon NPCs to do their bidding. 
+
+The Gates of Moloch
+-----------
+To put it short, there will be the Five Seals of Moloch spread throughout the castle. If all of them go boom, then the Great Demon Moloch will be released into the game and _**baaaaaaaaaad**_ things will happen. No, this isn&#39;t going to be another lolbloodmoon and won&#39;t end the game prematurely. But still you should avoid breaking this. Obviously there will **likely** be an evil role or two who&#39;s wincon involves interacting with the gates, so be careful.
+
+
+Light of Hope
+---------
+In short, the LoH is a giant Crystal that&#39;s located in a specific room in the castle. while the LoH is working, good players do +30% damage to NPCs. This should help you guys burn through the map. However, keep in mind that it&#39;s possible for Evils to destroy the LoH. Once it&#39;s been destroyed, Goods will lose this bonus and instead evils will gain +30% damage against Good-aligned players when the LoH is destroyed. Good players need to wait 6 hours before they can use a Shard of Light to repair it, where it will become immune to Evil attacks for 6 hours.
+
+Grimoires
+--------
+Each Evil Class will have a grimoire of their class. If they obtain their own grimoire, then they will receive a shit-ton of buffs. If a Good player obtains an Evil player’s grimoire and the evil is dead, then the grimoire will give some slight passive buffs to them.
+
+Gate of Glory
+-----------
+After a player&#39;s wincon is fulfilled, they escape by going through the Gates of Glory. The Gates of Glory are activated once ten crystals are place on the slots of the Gates of Glory. Though Evils do not need the Gates of Glory to be active and can go through them as long as their win-con is satisfied and may have wincons pertaining to sabotaging the Gates of Glory as well.
+
+* All Good-aligned players need to go through the GoG to win and they must activate it beforehand.
+* Neutrals have wincons that do not require them to escape. They are less neutrals and more like true wild cards.
+* Some but not all Evil-aligned players need to go through the GoG to win, but they do not need to activate it beforehand. The only side requirement that evils have is that they need to destroy four crystals.
+
+Map
+---
+TBA
+
+Endgame
+-----------
+For the game to truly end, once there are five or less players alive who have not escaped then the game will end in twenty-four hours. If the remaining players do not finish up their wincon, they lose.
+
+Sign-ups
+--------
+1) Apprentice
+2) MaximusPrime
+3) PokemonKidRyan
+4) Arctic
+5) Emelia
+6) Italy
+7) Amelia
+8) an_gorta_pratai
+9) Kyodaz
+10) Marluxion
+11) Aelin
+12) WindwardAway
+13) EliThePsycho
+14) Frostwolf103
+15) Silviu200530
+16) Whysper (Ryor)
+17) Zone_Q11
+18) Hippolytus
+
+Timetable 
+---------
+Noon EST - 10 PM EST, except Wednesdays where I&#39;ll be busy the entire day.</description>
+    
+    <lastBuildDate>Fri, 16 Jul 2021 22:32:31 +0000</lastBuildDate>
+    <category>Signups</category>
+    <atom:link href="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/348">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/348</link>
+        <pubDate>Fri, 16 Jul 2021 22:32:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88285-348</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285.rss">Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <p>Yep.</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/347">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/347</link>
+        <pubDate>Fri, 16 Jul 2021 22:32:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88285-347</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285.rss">Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p>Do you want threadlock</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/346">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/346</link>
+        <pubDate>Fri, 16 Jul 2021 22:30:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88285-346</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285.rss">Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <h1>
+<a name="rcs-going-out-tonight-1" class="anchor" href="#rcs-going-out-tonight-1"></a>RCs going out tonight.</h1>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/345">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/345</link>
+        <pubDate>Fri, 16 Jul 2021 22:21:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88285-345</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285.rss">Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</title>
+        <dc:creator><![CDATA[Silviu200530]]></dc:creator>
+        <description><![CDATA[
+            <p>Happy Alive day because the game didn’t start and you didn’t die. <img src="https://forum.throneoflies.com/images/emoji/twitter/skull.png?v=9" title=":skull:" class="emoji" alt=":skull:"></p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/344">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/344</link>
+        <pubDate>Fri, 16 Jul 2021 19:41:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88285-344</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285.rss">Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh yes merry birthday</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/343">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/343</link>
+        <pubDate>Fri, 16 Jul 2021 19:37:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88285-343</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285.rss">Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</title>
+        <dc:creator><![CDATA[Jane]]></dc:creator>
+        <description><![CDATA[
+            <p>Happy Honk Day!</p>
+<p><img src="https://forum.throneoflies.com/images/emoji/twitter/partying_face.png?v=9" title=":partying_face:" class="emoji only-emoji" alt=":partying_face:"></p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/342">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/342</link>
+        <pubDate>Fri, 16 Jul 2021 19:37:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88285-342</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285.rss">Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</title>
+        <dc:creator><![CDATA[Aelin]]></dc:creator>
+        <description><![CDATA[
+            <p>happy birthday arctic!</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/341">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/341</link>
+        <pubDate>Fri, 16 Jul 2021 19:35:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88285-341</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285.rss">Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</title>
+        <dc:creator><![CDATA[EliThePsycho]]></dc:creator>
+        <description><![CDATA[
+            <p>okay fair</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/340">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/340</link>
+        <pubDate>Fri, 16 Jul 2021 03:08:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88285-340</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285.rss">Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</title>
+        <dc:creator><![CDATA[Marshal]]></dc:creator>
+        <description><![CDATA[
+            <p>Ur gonna get rolecards when u get them</p>
+<p>Which is whenever Alice is available<br>
+Which is ???</p>
+<p>Idk she just needs time I guess<br>
+If it’s any consolation I also have 0 game details (and in 2 days will have no time to help host for a bit lol)</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/339">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/339</link>
+        <pubDate>Fri, 16 Jul 2021 03:00:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88285-339</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285.rss">Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</title>
+        <dc:creator><![CDATA[EliThePsycho]]></dc:creator>
+        <description><![CDATA[
+            <p>gonna take the lack of a response <s>and a rolecard</s> as a no</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/338">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/338</link>
+        <pubDate>Fri, 16 Jul 2021 02:33:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88285-338</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285.rss">Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</title>
+        <dc:creator><![CDATA[DatBird]]></dc:creator>
+        <description><![CDATA[
+            <p>Happy Birthday!!!</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/337">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/337</link>
+        <pubDate>Fri, 16 Jul 2021 02:32:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88285-337</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285.rss">Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</title>
+        <dc:creator><![CDATA[Whysper]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Arctic" data-post="324" data-topic="88285" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/arctic/40/40675_2.png" class="avatar"> Arctic:</div>
+<blockquote>
+<p>hopefully not since tomorrow is my birthday</p>
+</blockquote>
+</aside>
+<p>Happy Birthday, Arctic <img src="https://forum.throneoflies.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/336">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/336</link>
+        <pubDate>Fri, 16 Jul 2021 00:55:32 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88285-336</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285.rss">Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</title>
+        <dc:creator><![CDATA[Arctic]]></dc:creator>
+        <description><![CDATA[
+            <p>thanks chloe i hope your next week will be good for you too buddy love you</p>
+<p>why is my auto fill so wholesome<br>
+this is uncharacteristic</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/335">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/335</link>
+        <pubDate>Thu, 15 Jul 2021 19:56:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88285-335</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285.rss">Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</title>
+        <dc:creator><![CDATA[Chloe]]></dc:creator>
+        <description><![CDATA[
+            <p>Every month is pride month</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/334">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/334</link>
+        <pubDate>Thu, 15 Jul 2021 19:55:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88285-334</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285.rss">Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</title>
+        <dc:creator><![CDATA[Silviu200530]]></dc:creator>
+        <description><![CDATA[
+            <p><s>Chloe, pride month was last month, modernize up</s></p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/333">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/333</link>
+        <pubDate>Thu, 15 Jul 2021 19:55:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88285-333</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285.rss">Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</title>
+        <dc:creator><![CDATA[Chloe]]></dc:creator>
+        <description><![CDATA[
+            <p>Happy birthday to you all good wolf have fun with your family and im gay</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/332">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/332</link>
+        <pubDate>Thu, 15 Jul 2021 19:54:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88285-332</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285.rss">Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</title>
+        <dc:creator><![CDATA[Silviu200530]]></dc:creator>
+        <description><![CDATA[
+            <p>Awww, Wazza wishes you a happy birthday and good wishes.</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/331">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/331</link>
+        <pubDate>Thu, 15 Jul 2021 19:36:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88285-331</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285.rss">Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</title>
+        <dc:creator><![CDATA[Wazza]]></dc:creator>
+        <description><![CDATA[
+            <p>(aka Happy Birthday)</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/330">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/330</link>
+        <pubDate>Thu, 15 Jul 2021 19:08:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88285-330</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285.rss">Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</title>
+        <dc:creator><![CDATA[Wazza]]></dc:creator>
+        <description><![CDATA[
+            <p>I hope the game starts tomorrow and you die instantly.</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/329">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/329</link>
+        <pubDate>Thu, 15 Jul 2021 19:08:45 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88285-329</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285.rss">Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</title>
+        <dc:creator><![CDATA[Silviu200530]]></dc:creator>
+        <description><![CDATA[
+            <p>Friends everywhere, appreciate them.</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/328">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/328</link>
+        <pubDate>Thu, 15 Jul 2021 18:49:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88285-328</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285.rss">Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</title>
+        <dc:creator><![CDATA[EliThePsycho]]></dc:creator>
+        <description><![CDATA[
+            <p>happy birthday nerd</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/327">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/327</link>
+        <pubDate>Thu, 15 Jul 2021 18:47:54 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88285-327</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285.rss">Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</title>
+        <dc:creator><![CDATA[Apprentice]]></dc:creator>
+        <description><![CDATA[
+            <p>honk honk</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/326">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/326</link>
+        <pubDate>Thu, 15 Jul 2021 18:47:25 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88285-326</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285.rss">Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</title>
+        <dc:creator><![CDATA[Silviu200530]]></dc:creator>
+        <description><![CDATA[
+            <p>Happy birthday, goose.</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/325">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/325</link>
+        <pubDate>Thu, 15 Jul 2021 18:46:32 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88285-325</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285.rss">Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</title>
+        <dc:creator><![CDATA[Arctic]]></dc:creator>
+        <description><![CDATA[
+            <p>hopefully not since tomorrow is my birthday</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/324">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285/324</link>
+        <pubDate>Thu, 15 Jul 2021 18:45:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88285-324</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-sign-ups-18-18-full-waiting-for-game-start/88285.rss">Castle Desolation - Sign-ups (18/18) FULL - Waiting for game start</source>
+      </item>
+  </channel>
+</rss>

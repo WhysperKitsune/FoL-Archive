@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</title>
+    <link>https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390</link>
+    <description>[i]Credit to Jammysplodge for the original idea[/i]
+
+**Goal**
+
+The world has fallen into ruin. Disease, greed and a lack of good memes mean most struggle to survive - except those super rich few. At the heart of this cesspool of despair is a tower. This tower has 12 floors, the floors each have 3 rooms
+You are all there for reasons, most of you are there to kill the Tycoon - one of these Elite scumbags.
+The Tycoon sits in the middle room of the top floor. There is also a private jail... For his less pleasant visitors to spend some quality time in.
+
+
+
+[u]Roles[/u]
+[details=&quot;Summary&quot;]
+[b]You are a [color=#008000]Guard[/color][/b]
+*Security*
+**Self preservation**
+
+You must protect the Tycoon
+Your allies are [x], [y] and [z]
+You can talk to them in a PM over your Walkie Talkies
+
+You start with:
+Master Key(Can Lock/Unlock any door, Tycoon doors start locked)
+Walkie Talkie
+Taser
+
+Your min sanity you can function at is 5. If you commit murder you will lose 2 sanity. If you kill another in revenge you will lose 1 sanity. Killing in self-defence does not cost you sanity.
+You will automatically know of all traps in any room you enter. You will not trigger traps by entering the room.
+You will get a 20% bonus on avoiding setting off traps.
+
+[b]You are the [color=#FF0000]Firestarter[/color][/b]
+*Criminal*
+**Ruthless**
+
+You must Kill the Tycoon
+
+You start with:
+Petrol Can
+Lighter
+
+Fires:
+The petrol can can soak a room in petrol
+If you light the petrol, everyone in the petrol soaked room will die, except you
+The fire will destroy the &quot;Tarred Floor&quot; obstacle
+
+Your min sanity you can function at is 3. If you commit murder you will lose 1 sanity. If you kill another in revenge or in self-defence it will not cost you sanity.
+
+[b]You are the [color=#888888]Hitman[/color][/b]
+*Criminal*
+**Ruthless**
+
+You must Kill your Target
+Your target is [x]
+
+You start with:
+Pistol
+Bullet x 2
+
+Your min sanity you can function at is 3. If you commit murder you will lose 1 sanity. If you kill another in revenge or in self-defence it will not cost you sanity. Killing your target will not cost you sanity
+
+[b]You are the [color=#0000FF]Psycho[/color][/b]
+*Criminal*
+**Psychotic**
+
+You must Kill Everyone
+
+You start with:
+Knife(Throwable)
+Garotte Wire
+
+Your min sanity you can function at is 1. No matter how you kill, you will not lose sanity
+
+[b]You are the [color=#00BFFF]Corrupt Cop[/color][/b]
+*Criminal*
+**Ruthless**
+
+You must kill the Tycoon
+
+The Cops are [x], [y] and [z]
+You can talk to them in a Pm over your Walkie Talkies
+
+You start with:
+Pistol
+Bullet x 2
+Taser
+Walkie Talkie
+
+Your min sanity you can function at is 3. If you commit murder you will lose 1 sanity. If you kill another in revenge or in self-defence it will not cost you sanity.
+Your physical fitness means you get a 10% bonus overcoming obstacles
+
+[b]You are a [color=#00FFFF]Cop[/color][/b]
+*Innocent*
+**Justified**
+
+You must Kill the Criminals
+Your allies are [x], [y] and [z]
+You can talk to them in a Pm over your Walkie Talkies
+If you kill an innocent you will resign out of shame.
+If this role is rolled, another cop will spawn. There is a 50% chance it will spawn as a Corrupt Cop.
+
+You start with:
+Pistol
+Bullet x 2
+Taser
+Walkie Talkie
+
+Your min sanity you can function at is 5. If you commit murder you will lose 2 sanity. If you kill another in revenge or in self-defence it will cost you 1 sanity.
+Your physical fitness means you get a 10% bonus overcoming obstacles
+You have a 10% bonus detecting traps
+
+[b]You are the [color=#8000FF]Kidnapper[/color][/b]
+*Criminal*
+**Self-Preservation**
+
+You must Kidnap the Tycoon, making sure he does not die
+
+You start with:
+Burlap Sack x 2
+
+Your min sanity you can function at is 4. If you commit murder you will lose 2 sanity. If you kill another in revenge you will lose 1 sanity. If you kill another in self-defence you will not lose sanity
+
+Your physical fitness means you get a 20% bonus overcoming obstacles
+You have a 10% detecting and avoiding traps.
+
+[b]You are the [color=#00FF00]Temponaut[/color][/b]
+*Criminal*
+**Ruthless**
+
+You must Kill the Tycoon
+
+You start with:
+Stop Watch x 3(You have an extra action next turn)
+Age-O-Matic(Kills a person by ageing them to death)
+Time Paradox(Brings you back to life at your start location)
+
+Your min sanity you can function at is 6. If you commit murder you will lose 2 sanity. If you kill another in revenge or in self-defence it will cost you 1 sanity.
+You have a 10% avoiding setting off traps
+
+[b]You are the [color=#FF8080]Seer[/color][/b]
+*Innocent*
+**Not a drop**
+
+You must Correctly Predict who will win
+
+You start with:
+Crystal Ball(Lets you see the rolecard of the the selected person)
+Prediction Scroll(Can be used on anyone, once used, you win if your target wins, 1 use only)
+
+Your min sanity you can function at is 5. If you commit murder you will lose 2 sanity. If you kill another in revenge or in self-defence it will cost you 1 sanity
+
+[b]You are the [color=#BF8000]Alien Fugitive[/color][/b]
+*Criminal*
+**Psychotic**
+
+You must Assume Someone&#39;s Identity and Fulfill their Win Condition
+
+You start with:
+Ray Gun(Kills, leaving no body, 1 use only, must be used for your first kill)
+Skin Changer(Makes you the first role you kill)
+
+[b]You are the [color=#804000]Bomber[/color][/b]
+*Criminal*
+**Psychotic**
+
+You must Kill Everyone
+
+You start with:
+Bomb x 3(Can be placed for one action and detonated for another, one bomb can only be placed at a time, explosions kill everyone in the room it is placed. 25% of killing people in adjacent rooms, 50% of rendering them unconscious.)
+
+Your min sanity you can function at is 3. Killing will not cost you sanity
+You have a 30% bonus detecting traps
+
+[B]You are the [color=#40BF00]Head of Surveillance[/color][/b]
+*Security*
+**Self Preservation**
+
+You must Protect the Tycoon
+
+You start with:
+Surveillance Tablet(You may choose to watch a room, if you do so you see everything that happens in that room that turn, camera can be disabled in multiple ways)
+Sentry remote: Can order the Sentry bot to patrol a particular floor next time they choose a new floor to patrol. The bot cannot pick the same floor consecutively
+
+Your min sanity you can function at is 5. If you commit murder you will lose 2 sanity. If you kill another in revenge or in self-defence it will cost you 1 sanity.
+You will know of all traps in each room you enter
+Where possible, you will never trigger a trap in a room
+
+[b]You are the [color=#800000]Plague Doctor[/color][/b]
+*Criminal*
+**Psychotic**
+
+You must Kill Everyone
+
+You start with:
+Plague Vial x 2
+
+The Plague:
+Plague Vials infect everyone in the room besides you, infected will die after 3 turns and will pass the infection to anyone they encounter. They will informed they are infected after beimg infected for 2 turns.
+
+Your min sanity you can function at is 3. If you commit murder you will lose 2 sanity. If you kill another in revenge or in self-defence it will cost you 1 sanity. You will not lose sanity for killing people via your infection however
+
+[b]You are the [color=#80BFFF]Vampire[/color][/b]
+*Criminal*
+**Psychotic**
+
+You must Kill the Tycoon
+You are immune to bleeding
+
+You start with:
+Blood vial x 1
+
+Blood:
+You can get blood from dead bodies, living players(This kills them), blood trails and your blood vial
+You can survive 3 turns without drinking blood
+At the beginning of the 4th turn, you have a -25% chance against any action that isn&#39;t moving or drinking blood
+At the beginning of the 5th turn, this increases to -50%
+At the beginning of the 6th turn, this increases to -75%
+At the beginning of the 7th turn, you die
+
+Your min sanity you can function at is 3. You will not lose sanity for killing others
+
+[b]You are [color=#656565]The Haunted[/color][/b]
+*Criminal*
+**Ruthless**
+
+You must Kill the Tycoon
+You may leave your body, if you do this, your spirit can wander around
+Your spirit can move through things you usually couldn&#39;t
+Your spirit cannot be harmed
+Your spirit cannot search or use items
+When you are out of your body, it appears to be dead
+If your body is killed while your spirit isn&#39;t in it, you become the vengeful spirit
+
+You start with:
+Nothing
+
+Your min sanity you can function at is 4. If you commit murder you will lose 2 sanity. If you kill another in revenge or in self-defence it will cost you 1 sanity.
+You will always see traps in your spirit form
+
+[b]You are the [color=#565656]Vengeful Spirit[/color][/b]
+*Criminal*
+**Psychotic**
+
+You must Kill the Tycoon AND the one that killed your body
+You will know your body&#39;s killer when you see them, not before
+You are now corporeal and can be harmed
+
+You start with:
+Nothing
+
+Your min sanity you can function at is 4. If you commit murder you will lose 2 sanity. If you kill another in revenge or in self-defence it will cost you 1 sanity. Killing your killer will count as killing in revenge
+You will always see traps
+
+[b]You are T̶ͫ̓ḫ̷̨ͥ̽ē̵̏ͦ ̠͇̗̎Da̹̠r͎͖ͥ̎̔k̹ ̣̥͓͉͊On͙̅͛͝e̳[/b]
+
+*Criminal*
+**Psychotic**
+You must Kill Everyone
+If a player is in a room with you, you may mark them for death
+Once per game, you may kill everyone you have marked
+If 50% or more of the living players are marked, they will be informed that they carry the mark.
+
+You start with:
+Nothing
+
+Your min sanity you can function at is 1. You will not lose sanity from killing
+You have a 20% detecting and avoiding traps
+
+[b]You are the [color=#BF4080]Thief[/color][/b]
+*Criminal*
+**Self-Preservation**
+
+You must Steal an Item from the Tycoon&#39;s Office
+You may steal a random item from a player in the same room as you.
+
+You start with:
+Knife
+
+[i]Inspired by XerxesLeFan[/i]
+
+Your min sanity you can function at is 4. If you commit murder you will lose 2 sanity. If you kill another in revenge or in self-defence it will cost you 1 sanity.
+You have a 50% bonus avoiding traps
+You have a 30% bonus detecting traps
+you have a 50% bonus overcoming obstacles
+
+[b]You are the [color=#FF8000]Hacker[/color][/b]
+*Criminal*
+**Ruthless**
+
+You must Kill the Tycoon
+Signal Jammer: While you are alive, anything that requires a signal(Walkie Talkies, Detonations, Security Cameras etc) will not work. You can also destroy the Sentry bot with a melee attack roll.
+
+You start with:
+Pistol
+Bullet x 1
+
+Your min sanity you can function at is 6. If you commit murder you will lose 2 sanity. If you kill another in revenge or in self-defence it will cost you 1 sanity.
+You have a 10% bonus avoiding traps
+You have a 10% bonus detecting traps
+
+[b]You are the [color=#AFBF00]Soldier[/color][/b]
+*Security*
+**Ruthless**
+
+You must Protect the Tycoon
+Your allies are [x] the [role], [y] the [role] and [z] the [role]
+You can talk to them in a PM over your Walkie Talkies
+
+You start with:
+Shotgun (Ranged Attack - Target has 3 attacks on them when used)
+Shotgun Shell x 2(These are irreplaceable)
+Walkie Talkie
+
+Your min sanity you can function at is 5. You will suffer no sanity penalties through killing others
+You have a 10% bonus avoiding traps
+you have a 50% bonus overcoming obstacles
+
+[b]You are the [color=#FFAFFA]Medic[/color][/b]
+*Innocent*
+**Not a drop**
+
+You must Help 4 People
+Hippocratic Oath: You cannot kill someone except through self defence
+Helping someone includes resuscitating them if they have died less than 5 turns prior, treating their wounds, or curing them of the Plague
+
+You start with:
+Medical Supplies
+
+Your min sanity you can function at is 6.  If you kill another in revenge or in self-defence it will cost you 1 sanity
+
+[b]You are the [color=#40BF40]Specialist[/color][/b]
+*Security*
+**Justified**
+
+You must Protect the Tycoon
+Your allies are [x] the [role], [y] the [role] and [z] the [role]
+You can talk to them in a PM over your Walkie Talkies
+Jack Of all Trades: When searching a dead body, you can take and use their role-specific items
+
+You start with:
+Knife
+Walkie Talkie
+
+Your min sanity you can function at is 6. If you commit murder you will lose 2 sanity. If you kill another in revenge or in self-defence it will cost you 1 sanity.
+You have a 10% bonus avoiding traps
+You have a 10% bonus detecting traps
+you have a 10% bonus overcoming obstacles
+
+[b]You are the [color=#800040]Businessman[/color][/b]
+ *Innocent
+**Self-Preservation**
+
+You must make a deal with the Tycoon and see him (the Tycoon) live to the end of the game. You must get to the Tycoon alive to make the deal, and you will win if the Tycoon survives until the end of the game.
+Expendable: You can still win the game while dead, as long as you have made the deal and the Tycoon is still alive. Your company doesn&#39;t really care about your life.
+Expected: Those guarding the Tycoon will know your role.
+
+Starts with:
+Business Deal(deliver this to the Tycoon)
+
+[i]Credit to Painkillerz[/i]
+Your min sanity you can function at is 4. If you commit murder you will lose 2 sanity. If you kill another in revenge or in self-defence it will cost you 1 sanity 
+[/details]
+
+**So what will sanity mean?**
+
+Well. Certain traps will make you lose some. Being wounded might make you lose some
+Each player starts the game with 10 sanity.
+
+If you drop below your roles minimum sanity level there is a 20% of you failing your action per number below you are (IE: If your min level is 5 and you have 3 sanity you have a 40% chance of failing your action). Your score can never be less than 0. If you fail a turn due to insanity, you will have a 50% chance of doing something harmful to your role&#39;s goal. If you have nothing else near you, you may kill yourself if you roll too much &#39;bad&#39; insanity. 
+
+**Mentality**
+
+Each role card has a individual aggression description. They mean the following
+
+*Psychotic* - You may attack other players without reason or warning
+
+*Ruthless* - You may attack other players without warning, providing you have good reason to suspect they oppose your victory condition or mean you harm
+
+*Justified* - You may attack any player you have reason to suspect of being Criminally aligned
+
+*Self-Preservation* - You may attack another player only if you think they mean you harm.
+
+*Not a Drop* - You must avoid violence unless you have no choice. Retreat from a fight if you can
+
+[u]Obstacles[/u]
+[details=&quot;Summary&quot;]
+[u]Tarred floor[/u]
+
+The room is covered in sticky tar. Any action other than turning back will take twice as long to achieve unless the player successfully passes an &#39;Overcome an obstacle&#39; roll. Dousing/igniting the room as a Firestarter and all ranged attacks are excluded from this effect. Overcome roll needed = 75%
+
+[u]Riddle Door[/u]
+
+The Door allowing you to go &#39;Up&#39; is protected by a Riddle you must answer to proceed through it. This door will be indestructible and cannot be opened with a key. You can give only one answer each turn
+
+[u]Wall[/u]
+
+The way up is blocked by a wall which you&#39;ll have to climb to proceed. Walls will prevent traps triggering until you pass it. You will be unable to search a room unless you climbed the wall. Walls can be destroyed by a bomb in the same room. Overcome roll needed = 60%
+[/details]
+
+[u]Traps[/u]
+Explanation of terms:
+
+Location in Room: This refers to where the trap is likely to be positioned in any room. This is usually just for reference as to who it will affect.
+Effect: Describes what the trap will do
+Active for: Describes how long the trap is active for
+Cooldown: Describes whether the trap can trigger multiple times or not and how often it can trigger
+Area of effect: Describes how widespread the affect of the trap is
+Sensitivity: Displays the risks of triggering the trap.
+Visibility: Displays how easily the trap is seen. A score of 100% means the trap is immediately spotted by anyone.
+Trap value: Indicates how much of a &#39;Trap&#39; roll is required for the trap to be in any one room. Some rooms can contain multiple traps.
+
+[details=&quot;Summary&quot;]
+[i]Sentry bot[/i]
+
+[b]Location in Room[/b]: This robot patrols a floor, from left to right than back again. It moves one room a turn and attacks people it encounters that are consicious
+[b]Effect[/b]: Stuns players for 1 - 3 turns. Reduces sanity to players it gets. Will automatically grab players that wake up whilst it is in the room. (If no one else is there)
+[b]Active for[/b]: The whole game
+[b]Cooldown[/b]: Immediate 
+[b]Area of effect[/b]: The player it grabs
+[b]Sensitivity[/b]: This Robot detects everyone in the room and will attack non-guards
+[b]Visibility[/b]: Obvious (100%)
+[b]Trap value[/b]: Confirmed in tower, but will never patrol a floor the players are on turn 1. The robot can be destroyed by a Bomber&#39;s bomb and the Hacker.
+
+[i]Toxic Gas[/i]
+
+[b]Location in Room[/b]: Exit up a level (Entry to Tycoon room counts as going up a level for this trap)
+[b]Effect[/b]: Poisons players. 50% chance of instant killing. 25% of resulting in unconsciousness.
+[b]Active for[/b]: 3 turns
+[b]Cooldown[/b]: 3 turns
+[b]Area of effect[/b]: Turn 1 (Players attempting to exit the room up a level) - Turn 2 (Players moving about room) - Turn 3 (Players entering the room)
+[b]Sensitivity[/b]: Exit the room - Very High (90%)
+Searching the room - Above average (60%)
+Attacking others in room or perform other hostile action - Average (50%)
+Checking for traps - Below average (40%)
+Entering the room - Very Rare (10%)
+[b]Visibility[/b]: Way below average (30%)
+[b]Trap value[/b]: 70
+
+[i]Insanity Gas[/i]
+
+[b]Location in Room[/b]: Exit up a level (Entry to Tycoon room counts as going up a level for this trap)
+[b]Effect[/b]: Temporarily reduces player sanity to 0. Effect passes after 2 turns of being driven mad. Sanity returns to it&#39;s previous value afterwards
+[b]Active for[/b]: 3 turns
+[b]Cooldown[/b]: 3 turns
+[b]Area of effect[/b]: Turn 1 (Players attempting to exit the room up a level) - Turn 2 (Players moving about room) - Turn 3 (Players entering the room)
+[b]Sensitivity[/b]: Exit the room - Very High (90%)
+Searching the room - Above average (60%)
+Attacking others in room or perform other hostile action - Average (50%)
+Checking for traps - Below average (40%)
+Entering the room - Very Rare (10%)
+[b]Visibility[/b]: Way below average (30%)
+[b]Trap value[/b]: 60
+
+[i]Flickering lights[/i]
+
+[b]Location in Room[/b]: The whole room is affected
+[b]Effect[/b]: Odd light patterns can suddenly present terrifying images. Being hit by this trap drains sanity by 1 point and auto-fails the player&#39;s action for the turn
+[b]Active for[/b]: 1 turn
+[b]Cooldown[/b]: Immediate
+[b]Area of effect[/b]: The player who triggers the trap is the only one affected. This trap can be triggered multiple times a turn
+[b]Sensitivity[/b]: Exit the room - Average (50%)
+Searching the room - Average (50%)
+Attacking others in room or perform other hostile action - Average (50%)
+Checking for traps - Average (50%)
+Entering the room - Very Rare (10%)
+[b]Visibility[/b]: Above Average (60%)
+[b]Trap value[/b]: 30
+
+[i]Gun Turret[/i]
+
+[b]Location in Room[/b]: Exit up a level (Entry to Tycoon room counts as going up a level for this trap)
+[b]Effect[/b]: A turret can lock on one player and fire a double ranged attack. The door from this room is always locked
+[b]Active for[/b]: 2 turns
+[b]Cooldown[/b]: Immediate
+[b]Area of effect[/b]: Turn 1 (takes aim) - Turn 2 (fires)
+[b]Sensitivity[/b]: Entering the room - A sure thing.(100%) {This trap will potentially track you the whole time)
+[b]Visibility[/b]: In plain sight (100%)
+[b]Trap value[/b]: 90
+NOTES: This trap can be destroyed by a detonated bomb and a Room incineration with a 1 turn delay on the latter
+
+[i]Mine[/i]
+
+[b]Location in Room[/b]: Anywhere
+[b]Effect[/b]: Explodes: 75% of killing the person who triggers it, 25% of killing others in the room. Will always wound the person who triggers it on the legs. 50% chance of wounding others on the legs
+[b]Active for[/b]: 1 turn
+[b]Cooldown[/b]: N/A
+[b]Area of effect[/b]: The whole room, especially the person who triggers it
+[b]Sensitivity[/b]: Exit the room - High (80%)
+Searching the room - Above average (60%)
+Attacking others in room or perform other hostile action - Quite High (70%)
+Checking for traps - Rare (20%)
+Entering the room - Never (0%)
+[b]Visibility[/b]: Way below average (30%)
+[b]Trap value[/b]: 60
+
+[i]Security Door[/i]
+
+[b]Location in Room[/b]: Your entry point
+[b]Effect[/b]: Blocks off your way back (Can not be opened or destroyed by axes)
+[b]Active for[/b]: Your time in the room
+[b]Cooldown[/b]: Immediate
+[b]Area of effect[/b]: N/A
+[b]Sensitivity[/b]: Entering the room - A sure thing (100%)
+[b]Visibility[/b]: Pretty Obvious (80%)
+[b]Trap value[/b]: 10
+
+[i]Sleep dart[/i]
+
+[b]Location in Room[/b]: Anywhere
+[b]Effect[/b]: Lulls players to sleep (Incapacitates for 1 - 2 additional turns. Hits reduce sanity)
+[b]Active for[/b]: 1 Turn
+[b]Cooldown[/b]: Immediate
+[b]Area of effect[/b]: The player who triggers it. This trap can be triggered only once each turn.
+[b]Sensitivity[/b]: Exit the room - Fairly high (60%)
+Searching the room - High (70%)
+Attacking others in room or perform other hostile action - Very High (80%)
+Checking for traps - Average (40%)
+Entering the room - Rare (10%)
+[b]Visibility[/b]: Below Average (40%)
+[b]Trap value[/b]: 45
+
+[i]Alarm[/i]
+
+[b]Location in Room[/b]: Anywhere
+[b]Effect[/b]: Immediate makes everyone fail their action. Subsequent turns being exposed erodes sanity by 1 point per turn
+[b]Active for[/b]: 3 turns
+[b]Cooldown[/b]: 3 turns
+[b]Area of effect[/b]: Turn 1 (All players fail their action) Turn 2 - 3 (Each player in the room since the last turn loses 1 sanity)
+[b]Sensitivity[/b]: Exit the room - Very High (90%)
+Searching the room - High (80%)
+Attacking others in room or perform other hostile action - Quite High (70%)
+Checking for traps - Rare (20%)
+Entering the room - Very Rare (10%)
+[b]Visibility[/b]: Way below average (30%)
+[b]Trap value[/b]: 20
+[/details]
+
+[u]Items findable by searching:[/u]
+[details=&quot;Summary&quot;]
+Pistol
+Bullet
+Duct Tape (Can fix broken doors and stop bleeding)
+Fire Axe(Can kill or destroy a door, 1 use item)
+Key(can lock/unlock 1 door leading to the room it is found in)
+Knife
+[/details]
+
+[u]Mechanics:[/u]
+Actions are sent to me via PM, once all actions are sent in, they are resolved, if an action happens in a room that isn&#39;t yours, you won&#39;t be told.
+If detained in the Prison, you will be trapped unless another player kills the tycoon. You will be considered dead for any role that cares about that until then.
+All roles are unique, except Cop and Guard
+
+[u]Actions:[/u]
+
+Move to [room]:
+You can move to an adjacent room, i.e. above, below, left or right, the exception is the tycoon&#39;s room, which must be accessed from Left or Right 12
+
+Search:
+You can around the room you are in. You can search multiple times until you find something.
+
+[action] [name of what you&#39;re interacting with]:
+You can interact with people and things
+
+Loot:
+You can loot a dead body in the room to take all of their non-role specific items
+
+Inspect:
+You can look at a body to identify their role. This will reduce sanity loss from killing them if you had to kill this player to win
+
+Brace:
+You can ready a counterattack, if you are attacked that turn, you have a chance to counterattack your attacker. If a ranged attack you will always take a hit first, but if melee you have a chance to land a blow first.
+
+Check for traps:
+Depending on your character, you may be more likely to find them than others. Always remember that even if you don&#39;t find any, there could be one AND you still risk setting them off by looking for them. An Intruder player will never start in a room with a trap. The sensitivity of a trap is halved if you discover it during a check unless it&#39;s sensitivity is 100% to begin with
+
+Calming:
+Usable only if your sanity has dropped below your acceptable level. 50% chance of restoring a sanity point.
+
+[u]Notes:[/u]
+The Tycoon is an NPC, not a role
+The roles are most likely not balanced, they will be revealed after the game has ended
+Talking is not an action and can be done freely
+The only way to safely leave the tower is through Mid 1, you cannot leave until I say you can
+Once the game begins, you may hint at events in game that you are experiencing, but must not leak specifics like if someone attacks you etc.
+
+
+[u]Map update for trap value/obstacle chance[/u]
+[spoiler]Left 12 (50 - 155/0%) | Tycoon (20/0%) | Right 12 (50 - 155/0%)
+Left 11 (0 - 80/50%/) | Mid 11 (0 - 50/50%/) | Right 11 (0 - 80/50%/)
+Left 10 (0 - 75/50%) | Mid 10 (0 - 70/50%)| Right 10 (0 - 75/50%)
+Left 9 (20 - 60/40%)| Mid 9 (20 - 60/40%)| Right 9 (20 - 60/40%)
+Left 8 (20 - 55/30%)| Mid 8 (20 - 50/30%) | Right 8 (20 - 55/30%)
+Left 7 (0 /50%)| Mid 7 (0 - 70/10%)| Right 7 (0/50%)
+Left 6 (0 - 50/20%)| Mid 6 (0 - 50/20%)| Right 6 (0 - 50/20%)
+Left 5 (0 - 30/10%)| Mid 5 (0 - 30/10%)| Right 5 (0 - 30/10%)
+Left 4 (0/10%)| Mid 4 (0/10%)| Right 4 (0/10%)
+Left 3 (0/10%)| Mid 3 (0/10%)| Right 3 (0/10%)
+Left 2 (0/10%)| Mid 2 (0/10%)| Right 2 (0/10%)
+Left 1 (0/10%) | Mid 1  (0/20%)| Right 1 (0/10%)[/spoiler]
+[u]Signups (Max 16 players):[/u]
+1) Blizer
+2) Italy
+3) Apprentice
+4) Hippoyeet
+5) PKR
+6) Gorta
+7) Dat
+8) Eevee
+9) Emila
+10) Wazza
+11) Marshal
+12) Zone
+13) N1</description>
+    
+    <lastBuildDate>Fri, 24 Jul 2020 23:23:49 +0000</lastBuildDate>
+    <category>Forum Matches</category>
+    <atom:link href="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</title>
+        <dc:creator><![CDATA[eevee]]></dc:creator>
+        <description><![CDATA[
+            <p>You never wished ill will to anyone. Right…</p>
+<p>Except telling me that killing PKR is act of mercy and I should do it? Outing his role, status and plans?</p>
+<p>Also, which part is in your opinion my fault?</p>
+<p>Not knowing about rule which wasn’t even writen in OP?<br>
+Twice for that.</p>
+<p>And 2nd time you didn’t even explain to me that this rule exists, you just denied my action and modkilled me.<br>
+I don’t see it as my fault.</p>
+<p>If I don’t know about rule which makes my action invalid, then how it’s my fault for sending invalid action?<br>
+Cause from my PoV you modkilled me using rule which didn’t even exist, not telling me about my actions being invalid beforehead.</p>
+<p>So if you think it’s my fault that you didn’t put all rules into OP… then good job, I guess.</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/744">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/744</link>
+        <pubDate>Fri, 24 Jul 2020 23:23:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82390-744</guid>
+        <source url="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390.rss">MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</source>
+      </item>
+      <item>
+        <title>MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</title>
+        <dc:creator><![CDATA[Moleland]]></dc:creator>
+        <description><![CDATA[
+            <p>I didn’t. You certainly mean Cfm…</p>
+<p>I said that you would have rejected your own action had you been hosting to.</p>
+<p>I never wished ill will on anyone in the game - maybe you should reflect on what you did and think whether you caused your own problems.</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/743">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/743</link>
+        <pubDate>Thu, 23 Jul 2020 21:04:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82390-743</guid>
+        <source url="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390.rss">MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</source>
+      </item>
+      <item>
+        <title>MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</title>
+        <dc:creator><![CDATA[eevee]]></dc:creator>
+        <description><![CDATA[
+            <p>Then why was you refering to anime at all when modkilling me?</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/742">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/742</link>
+        <pubDate>Thu, 23 Jul 2020 20:08:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82390-742</guid>
+        <source url="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390.rss">MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</source>
+      </item>
+      <item>
+        <title>MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</title>
+        <dc:creator><![CDATA[Moleland]]></dc:creator>
+        <description><![CDATA[
+            <p>I mean I revealed some info so you wouldnt feel bad about playing to your wincon. I revealed no ones plan.</p>
+<p>If I wanted revenge, why wouldn’t I screw you earlier with a mine or something?</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/741">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/741</link>
+        <pubDate>Thu, 23 Jul 2020 10:03:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82390-741</guid>
+        <source url="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390.rss">MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</source>
+      </item>
+      <item>
+        <title>MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</title>
+        <dc:creator><![CDATA[eevee]]></dc:creator>
+        <description><![CDATA[
+            <p>So where is all the talking about that I didn’t accept your actions before (And explaining how does it affect current game)?</p>
+<p>Where is admiting that you was outing peoples roles / wincons / current status / plans?</p>
+<p>Where is you saying that you didn’t explain to me why my action is invalid?</p>
+<p>Yeah. Thanks Mole.<br>
+Tiny case?</p>
+<p>You shouldn’t try to take a revenge and now saying it’s my fault.</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/740">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/740</link>
+        <pubDate>Thu, 23 Jul 2020 09:26:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82390-740</guid>
+        <source url="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390.rss">MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</source>
+      </item>
+      <item>
+        <title>MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</title>
+        <dc:creator><![CDATA[DatBird]]></dc:creator>
+        <description><![CDATA[
+            <p>U 2 were both wrong get over it</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/739">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/739</link>
+        <pubDate>Thu, 23 Jul 2020 01:22:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82390-739</guid>
+        <source url="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390.rss">MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</source>
+      </item>
+      <item>
+        <title>MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</title>
+        <dc:creator><![CDATA[Moleland]]></dc:creator>
+        <description><![CDATA[
+            <p>You may have a tini tiny case about maybe deserving more time. You had time to answer a minor post… But not a pm? I find that doubtful. And do you think you deserve the benefit of the doubt when you abuse someone who just wants everyone to have fun? The only reason you hadn’t already been modkilled was because I didn’t want to disadvantage Marshal</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/738">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/738</link>
+        <pubDate>Thu, 23 Jul 2020 01:15:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82390-738</guid>
+        <source url="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390.rss">MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</source>
+      </item>
+      <item>
+        <title>MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</title>
+        <dc:creator><![CDATA[Moleland]]></dc:creator>
+        <description><![CDATA[
+            <p>The only place actions were accepted were role cards. I made no exceptions</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/737">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/737</link>
+        <pubDate>Thu, 23 Jul 2020 00:57:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82390-737</guid>
+        <source url="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390.rss">MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</source>
+      </item>
+      <item>
+        <title>MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</title>
+        <dc:creator><![CDATA[eevee]]></dc:creator>
+        <description><![CDATA[
+            <p>Host ignoring your actions to modkill you for inactivity, forcing me to appeal to mod team, mod team deciding that he shouldn’t of killed me, but Mole deciding that whatever, keep eevee dead.</p>
+<p>Yeah, I had soooooo much fun.<br>
+Fair hosting 100% of time.</p>
+<p><a class="mention" href="/u/moleland">@Moleland</a> If you loved my strats so much as you write in your summary, why the fuck did you want to keep me dead? Cause you didn’t.</p>
+<p>Truth is you wanted revenge for anime fm, when I refused to accept action post-deadline.</p>
+<p>GOOD JOB, YOU DID IT. You made me want to never play your games again.<br>
+But you got your revenge. Good job.</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/736">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/736</link>
+        <pubDate>Wed, 22 Jul 2020 23:18:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82390-736</guid>
+        <source url="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390.rss">MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</source>
+      </item>
+      <item>
+        <title>MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</title>
+        <dc:creator><![CDATA[Italy]]></dc:creator>
+        <description><![CDATA[
+            <p>i think an eternity in the void is only slightly better than dying</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/735">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/735</link>
+        <pubDate>Wed, 22 Jul 2020 23:13:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82390-735</guid>
+        <source url="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390.rss">MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</source>
+      </item>
+      <item>
+        <title>MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</title>
+        <dc:creator><![CDATA[eevee]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Moleland" data-post="608" data-topic="82390">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/moleland/40/5104_2.png" class="avatar"> Moleland:</div>
+<blockquote>
+<p>Everyone else loses</p>
+</blockquote>
+</aside>
+<p>Except eevee, who is sitll stuck in limbo.</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/734">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/734</link>
+        <pubDate>Wed, 22 Jul 2020 23:07:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82390-734</guid>
+        <source url="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390.rss">MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</source>
+      </item>
+      <item>
+        <title>MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</title>
+        <dc:creator><![CDATA[Moleland]]></dc:creator>
+        <description><![CDATA[
+            <p>When someone who wasn’t in the game reacts</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/733">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/733</link>
+        <pubDate>Wed, 22 Jul 2020 21:40:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82390-733</guid>
+        <source url="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390.rss">MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</source>
+      </item>
+      <item>
+        <title>MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</title>
+        <dc:creator><![CDATA[Moleland]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah, she did fine lol</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/732">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/732</link>
+        <pubDate>Wed, 22 Jul 2020 21:39:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82390-732</guid>
+        <source url="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390.rss">MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</source>
+      </item>
+      <item>
+        <title>MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>I thought emilia played it p well for someone who was anti killing the tycoon but hung out with tycoon killers for most of the game lol</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/731">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/731</link>
+        <pubDate>Wed, 22 Jul 2020 21:12:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82390-731</guid>
+        <source url="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390.rss">MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</source>
+      </item>
+      <item>
+        <title>MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</title>
+        <dc:creator><![CDATA[Jane]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh sorry, didn’t know it was a reactiontest.</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/730">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/730</link>
+        <pubDate>Wed, 22 Jul 2020 21:10:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82390-730</guid>
+        <source url="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390.rss">MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</source>
+      </item>
+      <item>
+        <title>MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>V accurate that I literally just derped around for like first half of game. My ability was so so strong lol.</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/729">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/729</link>
+        <pubDate>Wed, 22 Jul 2020 21:10:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82390-729</guid>
+        <source url="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390.rss">MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</source>
+      </item>
+      <item>
+        <title>MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</title>
+        <dc:creator><![CDATA[Moleland]]></dc:creator>
+        <description><![CDATA[
+            <p>That moment when so few people react to mod comments.</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/728">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/728</link>
+        <pubDate>Wed, 22 Jul 2020 20:53:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82390-728</guid>
+        <source url="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390.rss">MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</source>
+      </item>
+      <item>
+        <title>MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</title>
+        <dc:creator><![CDATA[Moleland]]></dc:creator>
+        <description><![CDATA[
+            <p>Lol.</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/727">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/727</link>
+        <pubDate>Wed, 22 Jul 2020 17:55:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82390-727</guid>
+        <source url="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390.rss">MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</source>
+      </item>
+      <item>
+        <title>MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <p><small><small> <img src="https://forum.throneoflies.com/images/emoji/twitter/eyes.png?v=9" title=":eyes:" class="emoji" alt=":eyes:"></small></small></p>
+          <p><a href="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/726">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/726</link>
+        <pubDate>Wed, 22 Jul 2020 16:38:33 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82390-726</guid>
+        <source url="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390.rss">MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</source>
+      </item>
+      <item>
+        <title>MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</title>
+        <dc:creator><![CDATA[sulit]]></dc:creator>
+        <description><![CDATA[
+            <p><small> <img src="https://forum.throneoflies.com/images/emoji/twitter/eyes.png?v=9" title=":eyes:" class="emoji" alt=":eyes:"></small></p>
+          <p><a href="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/725">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/725</link>
+        <pubDate>Wed, 22 Jul 2020 16:37:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82390-725</guid>
+        <source url="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390.rss">MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</source>
+      </item>
+      <item>
+        <title>MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</title>
+        <dc:creator><![CDATA[Zone_Q11]]></dc:creator>
+        <description><![CDATA[
+            <p><code>*VLDR Bomber Mist1422 trauma intensifies*</code></p>
+          <p><a href="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/724">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/724</link>
+        <pubDate>Wed, 22 Jul 2020 16:34:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82390-724</guid>
+        <source url="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390.rss">MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</source>
+      </item>
+      <item>
+        <title>MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</title>
+        <dc:creator><![CDATA[Apprentice]]></dc:creator>
+        <description><![CDATA[
+            <p>oh I thought the Bomber was immune to their own bombs.  they ain’t as busted as I thought</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/723">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/723</link>
+        <pubDate>Wed, 22 Jul 2020 14:24:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82390-723</guid>
+        <source url="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390.rss">MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</source>
+      </item>
+      <item>
+        <title>MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</title>
+        <dc:creator><![CDATA[Apprentice]]></dc:creator>
+        <description><![CDATA[
+            <p>Corrupt Cops aren’t Psychotic though</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/722">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/722</link>
+        <pubDate>Wed, 22 Jul 2020 14:23:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82390-722</guid>
+        <source url="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390.rss">MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</source>
+      </item>
+      <item>
+        <title>MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</title>
+        <dc:creator><![CDATA[Moleland]]></dc:creator>
+        <description><![CDATA[
+            <p>Probably lel</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/721">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/721</link>
+        <pubDate>Wed, 22 Jul 2020 14:21:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82390-721</guid>
+        <source url="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390.rss">MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</source>
+      </item>
+      <item>
+        <title>MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</title>
+        <dc:creator><![CDATA[Italy]]></dc:creator>
+        <description><![CDATA[
+            <p>if blizer was corrupt his best move was to plant a bullet into apprentice and move on</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/720">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390/720</link>
+        <pubDate>Wed, 22 Jul 2020 14:21:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82390-720</guid>
+        <source url="https://forum.throneoflies.com/t/misc-fortified-tower-2-game-over-haunted-and-medic-win/82390.rss">MISC: Fortified Tower 2. GAME OVER. Haunted and Medic win</source>
+      </item>
+  </channel>
+</rss>

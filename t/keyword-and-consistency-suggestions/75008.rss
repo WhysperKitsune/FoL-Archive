@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Keyword and consistency suggestions</title>
+    <link>https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008</link>
+    <description>In patch 2.1.0 the devs took the first step towards trying to make the game easier to understand through consistency and clarity. Regardless of how you view their execution of this, the core idea is great. However, the system being used right now feels incomplete. Here is what I think should be done to make the game as consistent as possible.
+
+Note: Some of these suggestions will change some fringe case interactions. Doing that isn&#39;t the point of this post as this isn&#39;t about balance at all so I will try to avoid this, however I wont try to force it especially in the case of feedback messages. 
+
+# Keyword system
+Most class actions should have keywords associated with them. Any reused effect should have at least 2. In addition there should be a logic behind keywords and how they are used as a whole
+
+## Proposed Keyword list:
+
+* Kill - If this successfully resolves on a player they are removed from the game (optional)
+* Attack - An type of ability that overtly kills a player. Kills that don&#39;t use the attack keyword are not attacks
+* Heal - Negates a kill and removes bleeding and poison. Notifies the target
+* Visit - When using a targeted ability you will visit the player you use the ability on, this can be seen by some ability&#39;s or can trigger some effects
+* Investigate - Any ability which has no effect and but gives information. This information can be directly altered by other ability&#39;s and keywords. Ability&#39;s which do not use the investigate keyword cannot have their feedback altered
+* Occupy - Prevents a target from preforming their night ability. They will not visit anyone
+* Redirect - Changes the target of an ability. An ability with no target or anyone doing nothing will be immune
+* Convert - Changes the class of target player to the Unseen or Cult
+* Bleed - Target player will be killed on the second night of bleeding. You will be notified if you start bleeding
+* Poison - Target player will be killed on the first night of poisoning
+* Frame - A player effected by frame will appear identical to the Assassin or Cult Leader to investigations
+* Tailor - A player effected by a tailor will appear as a blue dragon member to faction investigations 
+* X Immunity - Ignore the effects of X keyword. If you would normally be told about the keyword effect you will instead be told you were immune to it. You will not be told about a failed conversion attempt
+
+## Modifiers:
+In addition to the main keywords there should be secondary keywords that modify the main effects and their interaction with each other. Modifiers should be listed out under an ability&#39;s main effect and not in the main block
+
+* Piercing - Makes the ability ignore immunity (would be on: Execute, Gather darkness, Defend, Bear and Frenzy)
+* Brutalizing - The attack cannot be healed (would be on: Execute, Reap, Ruthless Efficiency, Defend, Possess, Empower and Frenzy)
+* Invisible -  Makes the ability investigate as if you did not preform any action (would be on: Killer Guards and Allies)
+* Intangible - Makes the ability not count as visiting for non-investigations (would be on: Killer Guards, Brotherhood and Frenzy)
+
+## Rewordings
+Replace all instances of death immunity with attack immunity
+
+Replace kill with attack when appropriate. 
+
+Replace die with be killed when possible. 
+
+Abilities that effect targeters now say visitors. Non-visitors that they effect will be invisible but not intangible when needed
+
+Princess/Maid/Sheriff/Paladin/Observer would use the Investigate keyword in their ability&#39;s (Ex: Investigate if target player is Unseen, Investigate who target player visits) 
+
+Knight - Defend: If any attackers visit target player then negate their kill and attack them. You will kill yourself ignoring heals if you attack anyone this way. **Piercing**, **Brutalizing**
+
+Chronomancer - Time Warp: If target player would be killed you will heal them. If you do then they will be attacked in 2 nights. 
+Distort reality: If target player is going to be killed as a result of your Time warp then negate it and kill someone else instead. If they are attack immune then they will survive
+Pocket dimension: If you would be killed tonight you will heal yourself. If you do then you will be attacked in 2 nights.
+
+Ritualist - Brotherhood: Target player will appear as Blue Dragon to faction investigations. **Intangible**
+
+Reaper - Reap: Attack target player. If you kill someone this way they will appear alive the next day and you will gain 1 soul. **Brutalizing**
+Gather Darkness: Reap will be **Piercing** tonight
+Circle of death: Attack everyone visiting target player
+
+Enforcer - Frenzy: The Assassin will be immune to Occupy and Redirection tonight. Their attack will be **Piercing**, **Brutalizing** and **intangible**
+
+Drunk - Debachery: Redirect your first target to your second. You do not visit your second target
+
+Possessor - Puppet Strings: Puppeteer your first target to attack the second. You do not appear to visit the second target. You will hear whispers to and from your puppet the next day
+Possess: Attack target player. If you kill someone this way you will take over their body and logs. Your body will be shown to die instead of them and everyone will be shown your old logs. If they survive for any reason you will regain the use of the ability. **Brutalizing**
+
+Probably more would be required that I&#39;m not thinking about</description>
+    
+    <lastBuildDate>Tue, 29 Jan 2019 22:37:41 +0000</lastBuildDate>
+    <category>Feedback/Suggestions</category>
+    <atom:link href="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Keyword and consistency suggestions</title>
+        <dc:creator><![CDATA[Mad_T1tan]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="NuclearBurrito" data-post="1" data-topic="75008">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/nuclearburrito/40/4723_2.png" class="avatar"> NuclearBurrito:</div>
+<blockquote>
+<p>Defend: If any attackers visit target player then negate their kill and attack them. You will kill yourself ignoring heals if you attack anyone this way.</p>
+</blockquote>
+</aside>
+<p>Ok I misread the ability. Thanks!</p>
+          <p><a href="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/20</link>
+        <pubDate>Tue, 29 Jan 2019 22:37:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75008-20</guid>
+        <source url="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008.rss">Keyword and consistency suggestions</source>
+      </item>
+      <item>
+        <title>Keyword and consistency suggestions</title>
+        <dc:creator><![CDATA[Simon]]></dc:creator>
+        <description><![CDATA[
+            <p>hence the <img src="/images/emoji/twitter/stuck_out_tongue.png?v=9" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"></p>
+          <p><a href="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/19</link>
+        <pubDate>Tue, 29 Jan 2019 21:02:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75008-19</guid>
+        <source url="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008.rss">Keyword and consistency suggestions</source>
+      </item>
+      <item>
+        <title>Keyword and consistency suggestions</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>No. Something that stops attacks should not be able to stop the suicide</p>
+          <p><a href="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/18</link>
+        <pubDate>Tue, 29 Jan 2019 21:01:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75008-18</guid>
+        <source url="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008.rss">Keyword and consistency suggestions</source>
+      </item>
+      <item>
+        <title>Keyword and consistency suggestions</title>
+        <dc:creator><![CDATA[Simon]]></dc:creator>
+        <description><![CDATA[
+            <p>on another note, shouldn’t it be “you <em>attack</em> yourself ignoring heals if you attack anyone this way” <img src="/images/emoji/twitter/stuck_out_tongue.png?v=9" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"></p>
+          <p><a href="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/17</link>
+        <pubDate>Tue, 29 Jan 2019 20:04:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75008-17</guid>
+        <source url="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008.rss">Keyword and consistency suggestions</source>
+      </item>
+      <item>
+        <title>Keyword and consistency suggestions</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Mad_T1tan" data-post="15" data-topic="75008">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/cult-leader-icon-256.jpg" class="avatar"> Mad_T1tan:</div>
+<blockquote>
+<p>Is this a change or a mistake? I’m guessing a mistake.</p>
+</blockquote>
+</aside>
+<p>Neither? That’s how it works currently. Defend kills the Knight and the attacker. Armored can stop this kill but attack immunity and healing cannot</p>
+          <p><a href="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/16</link>
+        <pubDate>Tue, 29 Jan 2019 19:52:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75008-16</guid>
+        <source url="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008.rss">Keyword and consistency suggestions</source>
+      </item>
+      <item>
+        <title>Keyword and consistency suggestions</title>
+        <dc:creator><![CDATA[Mad_T1tan]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="NuclearBurrito" data-post="1" data-topic="75008">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/nuclearburrito/40/4723_2.png" class="avatar"> NuclearBurrito:</div>
+<blockquote>
+<p>Knight - Defend: If any attackers visit target player then negate their kill and attack them. You will kill yourself ignoring heals if you attack anyone this way. <strong>Piercing</strong> , <strong>Brutalizing</strong></p>
+</blockquote>
+</aside>
+<p>“You will kill  yourself ifnoring heals if you attack <strong>anyone</strong> this way”</p>
+<p>Is this a change or a mistake? I’m guessing a mistake.</p>
+          <p><a href="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/15</link>
+        <pubDate>Tue, 29 Jan 2019 19:38:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75008-15</guid>
+        <source url="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008.rss">Keyword and consistency suggestions</source>
+      </item>
+      <item>
+        <title>Keyword and consistency suggestions</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>Yep, and so clarifying this through unified keywords would be great, and perfectly in line with the recent patches.</p>
+          <p><a href="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/14</link>
+        <pubDate>Tue, 29 Jan 2019 16:55:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75008-14</guid>
+        <source url="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008.rss">Keyword and consistency suggestions</source>
+      </item>
+      <item>
+        <title>Keyword and consistency suggestions</title>
+        <dc:creator><![CDATA[RHCube]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Jazz" data-post="10" data-topic="75008">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/jazz/40/10172_2.png" class="avatar"> Jazz:</div>
+<blockquote>
+<p>This seems like it would be misleading and I think death immunity is fine as is.</p>
+</blockquote>
+</aside>
+<p>But death immunity implies that it works against bleed and executions as well.  It’s the issue I have with shield, it implies that it works against all forms of death yet it only works on attacks</p>
+          <p><a href="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/13</link>
+        <pubDate>Fri, 25 Jan 2019 03:54:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75008-13</guid>
+        <source url="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008.rss">Keyword and consistency suggestions</source>
+      </item>
+      <item>
+        <title>Keyword and consistency suggestions</title>
+        <dc:creator><![CDATA[RHCube]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh, misread it.</p>
+          <p><a href="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/12</link>
+        <pubDate>Fri, 25 Jan 2019 03:52:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75008-12</guid>
+        <source url="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008.rss">Keyword and consistency suggestions</source>
+      </item>
+      <item>
+        <title>Keyword and consistency suggestions</title>
+        <dc:creator><![CDATA[Jazz]]></dc:creator>
+        <description><![CDATA[
+            <p>other than those it seems pretty solid</p>
+          <p><a href="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/11</link>
+        <pubDate>Thu, 24 Jan 2019 16:17:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75008-11</guid>
+        <source url="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008.rss">Keyword and consistency suggestions</source>
+      </item>
+      <item>
+        <title>Keyword and consistency suggestions</title>
+        <dc:creator><![CDATA[Jazz]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="NuclearBurrito" data-post="1" data-topic="75008">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/nuclearburrito/40/4723_2.png" class="avatar"> NuclearBurrito:</div>
+<blockquote>
+<p>Brutalizing</p>
+</blockquote>
+</aside>
+<p>I don’t like this one, mostly for flavour reasons as you’d clearly be able to tell if a body had been brutalised, perhaps “Fatal” or “Lethal” as the attack can’t be stopped.</p>
+<aside class="quote no-group" data-username="NuclearBurrito" data-post="1" data-topic="75008">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/nuclearburrito/40/4723_2.png" class="avatar"> NuclearBurrito:</div>
+<blockquote>
+<p>Invisible</p>
+</blockquote>
+</aside>
+<p>This should be “Hidden” imo as “Invisible” generally refers to an object rather than an action.</p>
+<aside class="quote no-group" data-username="NuclearBurrito" data-post="1" data-topic="75008">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/nuclearburrito/40/4723_2.png" class="avatar"> NuclearBurrito:</div>
+<blockquote>
+<p>Intangible</p>
+</blockquote>
+</aside>
+<p>For the same reasons as above this should be something like “Vigilant”, as you’re being careful not to trigger any traps or whatever. “Unstoppable” could also work fine, though it may be a little misleading.</p>
+<aside class="quote no-group" data-username="NuclearBurrito" data-post="1" data-topic="75008">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/nuclearburrito/40/4723_2.png" class="avatar"> NuclearBurrito:</div>
+<blockquote>
+<p>Replace all instances of death immunity with attack immunity</p>
+</blockquote>
+</aside>
+<p>This seems like it would be misleading and I think death immunity is fine as is.</p>
+          <p><a href="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/10</link>
+        <pubDate>Thu, 24 Jan 2019 16:17:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75008-10</guid>
+        <source url="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008.rss">Keyword and consistency suggestions</source>
+      </item>
+      <item>
+        <title>Keyword and consistency suggestions</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Good idea. Added</p>
+          <p><a href="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/9</link>
+        <pubDate>Thu, 24 Jan 2019 05:50:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75008-9</guid>
+        <source url="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008.rss">Keyword and consistency suggestions</source>
+      </item>
+      <item>
+        <title>Keyword and consistency suggestions</title>
+        <dc:creator><![CDATA[Shrimpy]]></dc:creator>
+        <description><![CDATA[
+            <blockquote>
+<p>Chronomancer - Time Warp: If target player would be killed you will heal them. If you do then they will be <s>killed</s> <em>attacked</em> in 2 nights. <s>If they are attack immune then they will survive</s></p>
+</blockquote>
+          <p><a href="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/8</link>
+        <pubDate>Thu, 24 Jan 2019 02:45:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75008-8</guid>
+        <source url="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008.rss">Keyword and consistency suggestions</source>
+      </item>
+      <item>
+        <title>Keyword and consistency suggestions</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="RHCube" data-post="5" data-topic="75008">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/ritualist-icon-256.jpg" class="avatar"> RHCube:</div>
+<blockquote>
+<p>Intangible means passing through things, while invisible just means that you are not seen.</p>
+</blockquote>
+</aside>
+<p>This is exactly what I am going for</p>
+<p>Invisibility: You can’t be seen so those looking for you won’t find you. Since you are still tangible you can be physically intercepted still</p>
+<p>Intangibility: You can’t be intercepted and not being tangible fits this. You can still be seen so you aren’t invisible (unless you are)</p>
+          <p><a href="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/7</link>
+        <pubDate>Thu, 24 Jan 2019 02:04:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75008-7</guid>
+        <source url="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008.rss">Keyword and consistency suggestions</source>
+      </item>
+      <item>
+        <title>Keyword and consistency suggestions</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="RHCube" data-post="5" data-topic="75008">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/ritualist-icon-256.jpg" class="avatar"> RHCube:</div>
+<blockquote>
+<p>IMO there should just be a single keyword for all abilities that change what class you appear as to visitors(Mask possibly?).</p>
+</blockquote>
+</aside>
+<p>Eh. Frame in particular is used enough to warrant a dedicated keyword. That does remind me to have one for tailor though too</p>
+          <p><a href="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/6</link>
+        <pubDate>Thu, 24 Jan 2019 02:00:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75008-6</guid>
+        <source url="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008.rss">Keyword and consistency suggestions</source>
+      </item>
+      <item>
+        <title>Keyword and consistency suggestions</title>
+        <dc:creator><![CDATA[RHCube]]></dc:creator>
+        <description><![CDATA[
+            <p>/support, I just have a few small suggestions:</p>
+<aside class="quote no-group" data-username="NuclearBurrito" data-post="1" data-topic="75008">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/nuclearburrito/40/4723_2.png" class="avatar"> NuclearBurrito:</div>
+<blockquote>
+<ul>
+<li>Invisible - Makes the ability investigate as if you did not preform any action (would be on: Killer Guards and Allies)</li>
+<li>Intangible - Makes the ability not count as visiting for non-investigations (would be on: Killer Guards, Brotherhood and Frenzy)</li>
+</ul>
+</blockquote>
+</aside>
+<p>Swap the names.  Intangible means passing through things, while invisible just means that you are not seen.  Rename the second one to something else but keep invisible for abilities that aren’t seen by investigatives(but are affected by other things).</p>
+<aside class="quote no-group" data-username="NuclearBurrito" data-post="1" data-topic="75008">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/nuclearburrito/40/4723_2.png" class="avatar"> NuclearBurrito:</div>
+<blockquote>
+<p>Frame - A player effected by frame will appear identical to the Assassin or Cult Leader to investigations</p>
+</blockquote>
+</aside>
+<p>IMO there should just be a single keyword for all abilities that change what class you appear as to visitors(Mask possibly?).<br>
+Disguise should also be a keyword</p>
+<ul>
+<li>Disguise - Changes the class target appears as upon death</li>
+</ul>
+          <p><a href="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/5</link>
+        <pubDate>Wed, 23 Jan 2019 20:54:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75008-5</guid>
+        <source url="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008.rss">Keyword and consistency suggestions</source>
+      </item>
+      <item>
+        <title>Keyword and consistency suggestions</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>I tried making them flavorful. I’m not insisting on any particular name</p>
+          <p><a href="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/4</link>
+        <pubDate>Wed, 23 Jan 2019 15:45:17 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75008-4</guid>
+        <source url="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008.rss">Keyword and consistency suggestions</source>
+      </item>
+      <item>
+        <title>Keyword and consistency suggestions</title>
+        <dc:creator><![CDATA[Mercenary]]></dc:creator>
+        <description><![CDATA[
+            <p>I still find Unhealable a better keyword</p>
+          <p><a href="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/3</link>
+        <pubDate>Wed, 23 Jan 2019 15:33:54 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75008-3</guid>
+        <source url="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008.rss">Keyword and consistency suggestions</source>
+      </item>
+      <item>
+        <title>Keyword and consistency suggestions</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>Some of the modifier words are awkward but I like this overall</p>
+          <p><a href="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/2</link>
+        <pubDate>Wed, 23 Jan 2019 14:57:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75008-2</guid>
+        <source url="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008.rss">Keyword and consistency suggestions</source>
+      </item>
+      <item>
+        <title>Keyword and consistency suggestions</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>In patch 2.1.0 the devs took the first step towards trying to make the game easier to understand through consistency and clarity. Regardless of how you view their execution of this, the core idea is great. However, the system being used right now feels incomplete. Here is what I think should be done to make the game as consistent as possible.</p>
+<p>Note: Some of these suggestions will change some fringe case interactions. Doing that isn’t the point of this post as this isn’t about balance at all so I will try to avoid this, however I wont try to force it especially in the case of feedback messages.</p>
+<h1>Keyword system</h1>
+<p>Most class actions should have keywords associated with them. Any reused effect should have at least 2. In addition there should be a logic behind keywords and how they are used as a whole</p>
+<h2>Proposed Keyword list:</h2>
+<ul>
+<li>Kill - If this successfully resolves on a player they are removed from the game (optional)</li>
+<li>Attack - An type of ability that overtly kills a player. Kills that don’t use the attack keyword are not attacks</li>
+<li>Heal - Negates a kill and removes bleeding and poison. Notifies the target</li>
+<li>Visit - When using a targeted ability you will visit the player you use the ability on, this can be seen by some ability’s or can trigger some effects</li>
+<li>Investigate - Any ability which has no effect and but gives information. This information can be directly altered by other ability’s and keywords. Ability’s which do not use the investigate keyword cannot have their feedback altered</li>
+<li>Occupy - Prevents a target from preforming their night ability. They will not visit anyone</li>
+<li>Redirect - Changes the target of an ability. An ability with no target or anyone doing nothing will be immune</li>
+<li>Convert - Changes the class of target player to the Unseen or Cult</li>
+<li>Bleed - Target player will be killed on the second night of bleeding. You will be notified if you start bleeding</li>
+<li>Poison - Target player will be killed on the first night of poisoning</li>
+<li>Frame - A player effected by frame will appear identical to the Assassin or Cult Leader to investigations</li>
+<li>Tailor - A player effected by a tailor will appear as a blue dragon member to faction investigations</li>
+<li>X Immunity - Ignore the effects of X keyword. If you would normally be told about the keyword effect you will instead be told you were immune to it. You will not be told about a failed conversion attempt</li>
+</ul>
+<h2>Modifiers:</h2>
+<p>In addition to the main keywords there should be secondary keywords that modify the main effects and their interaction with each other. Modifiers should be listed out under an ability’s main effect and not in the main block</p>
+<ul>
+<li>Piercing - Makes the ability ignore immunity (would be on: Execute, Gather darkness, Defend, Bear and Frenzy)</li>
+<li>Brutalizing - The attack cannot be healed (would be on: Execute, Reap, Ruthless Efficiency, Defend, Possess, Empower and Frenzy)</li>
+<li>Invisible -  Makes the ability investigate as if you did not preform any action (would be on: Killer Guards and Allies)</li>
+<li>Intangible - Makes the ability not count as visiting for non-investigations (would be on: Killer Guards, Brotherhood and Frenzy)</li>
+</ul>
+<h2>Rewordings</h2>
+<p>Replace all instances of death immunity with attack immunity</p>
+<p>Replace kill with attack when appropriate.</p>
+<p>Replace die with be killed when possible.</p>
+<p>Abilities that effect targeters now say visitors. Non-visitors that they effect will be invisible but not intangible when needed</p>
+<p>Princess/Maid/Sheriff/Paladin/Observer would use the Investigate keyword in their ability’s (Ex: Investigate if target player is Unseen, Investigate who target player visits)</p>
+<p>Knight - Defend: If any attackers visit target player then negate their kill and attack them. You will kill yourself ignoring heals if you attack anyone this way. <strong>Piercing</strong>, <strong>Brutalizing</strong></p>
+<p>Chronomancer - Time Warp: If target player would be killed you will heal them. If you do then they will be attacked in 2 nights.<br>
+Distort reality: If target player is going to be killed as a result of your Time warp then negate it and kill someone else instead. If they are attack immune then they will survive<br>
+Pocket dimension: If you would be killed tonight you will heal yourself. If you do then you will be attacked in 2 nights.</p>
+<p>Ritualist - Brotherhood: Target player will appear as Blue Dragon to faction investigations. <strong>Intangible</strong></p>
+<p>Reaper - Reap: Attack target player. If you kill someone this way they will appear alive the next day and you will gain 1 soul. <strong>Brutalizing</strong><br>
+Gather Darkness: Reap will be <strong>Piercing</strong> tonight<br>
+Circle of death: Attack everyone visiting target player</p>
+<p>Enforcer - Frenzy: The Assassin will be immune to Occupy and Redirection tonight. Their attack will be <strong>Piercing</strong>, <strong>Brutalizing</strong> and <strong>intangible</strong></p>
+<p>Drunk - Debachery: Redirect your first target to your second. You do not visit your second target</p>
+<p>Possessor - Puppet Strings: Puppeteer your first target to attack the second. You do not appear to visit the second target. You will hear whispers to and from your puppet the next day<br>
+Possess: Attack target player. If you kill someone this way you will take over their body and logs. Your body will be shown to die instead of them and everyone will be shown your old logs. If they survive for any reason you will regain the use of the ability. <strong>Brutalizing</strong></p>
+<p>Probably more would be required that I’m not thinking about</p>
+          <p><a href="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008/1</link>
+        <pubDate>Wed, 23 Jan 2019 14:56:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75008-1</guid>
+        <source url="https://forum.throneoflies.com/t/keyword-and-consistency-suggestions/75008.rss">Keyword and consistency suggestions</source>
+      </item>
+  </channel>
+</rss>

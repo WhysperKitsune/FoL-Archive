@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[Rework Suggestion] The King! A more vulnerable, more social class</title>
+    <link>https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302</link>
+    <description>The aim of this rework suggestion is to make the king a useful figure to rally behind, but one that is vulnerable and relies on BD protection to make it through he game.
+
+&gt; # [color = &quot;steblue&quot;] The Good King [/color] :shield: :crossed_swords:
+&gt; **[color = &quot;steblue&quot;] Blue Dragon Special [/color]**
+**Kind Tenacity (Passive)** - Immune to occupation and redirection. If there are 4 or fewer people left alive, all your votes count double. If the court executes the Good King, the court will be unable to execute anyone for the next 2 days, or for the next day if it&#39;s after Day 4.
+**Royal Guards (Passive)** - Your personal guards will sacrifice themselves to save you from attacks. You are death immune once.
+**Private Matters (Day)** - Today, all whispers to and from you will be hidden from the public. Only starting King has this ability. - 1 use.
+**Decide Fate (Day)** - You will decide the fate of the accused, pardoning or executing them on the spot. - 1 use.
+**Safe Chambers (Night)** - Tonight, you will protect players that visit you, granting them death immunity. - 5 uses.
+**Order Execution (Night)** - Send out an elite cadre of guards to attack a target, bypassing healing and death immunity. If your attack is successful, it will be broadcast to the court. Does not count as a visit. Only starting King has this ability. - 1 use.
+*Defeat the Unseen or Cult and any neutrals that seek to do you harm.*
+
+&gt; # [color = &quot;purple&quot;] The Evil King [/color] :shield: :crossed_swords:
+&gt; **[color = &quot;purple&quot;] Unseen Special [/color]**
+**Tenacity (Passive)** - Immune to occupation and redirection. If there are 4 or fewer people left alive, all your votes count double.
+**Royal Guards (Passive)** - Your personal guards will sacrifice themselves to save you from attacks. You are death immune once.
+**Private Matters (Day)** - Today, all whispers to and from you will be hidden from the public. Only starting King has this ability. - 1 use.
+**Decide Fate (Day)** - You will decide the fate of the accused, pardoning or executing them on the spot. - 1 use.
+**Unseen Intrigue (Night)** - Tonight, you will learn which classes and how many of them visit you, and grant them death immunity. - 5 uses.
+**Order Execution (Night)** - Send out an elite cadre of guards to attack a target, bypassing healing and death immunity. If your attack is successful, it will be broadcast to the court. Does not count as a visit. Only starting King has this ability. - 1 use.
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*
+
+&gt; # [color = &quot;darkred&quot;] The Blood King [/color] :shield: :crossed_swords:
+&gt; **[color = &quot;darkred&quot;] Cult Special [/color]**
+**Tenacity (Passive)** - Immune to occupation and redirection. If there are 4 or fewer people left alive, all your votes count double.
+**Royal Guards (Passive)** - Your personal guards will sacrifice themselves to save you from attacks. You are death immune once.
+**Private Matters (Day)** - Today, all whispers to and from you will be hidden from the public. Only starting King has this ability. - 1 use.
+**Decide Fate (Day)** - You will decide the fate of the accused, pardoning or executing them on the spot. - 1 use.
+**Cult Patronage (Night)** - Tonight, you will send out a private guard to assist the Cult Leader, preventing them from being occupied, as well as granting death immunity to those that visit you. - 5 uses.
+**Order Execution (Night)** - Send out an elite cadre of guards to attack a target, bypassing healing and death immunity. If your attack is successful, it will be broadcast to the court. Does not count as a visit. Only starting King has this ability. - 1 use.
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*
+
+&gt; # [color = &quot;gray&quot;] The Selfish King [/color] :shield: :crossed_swords:
+&gt; **[color = &quot;gray&quot;] Neutral Special [/color]**
+**Tenacity (Passive)** - Immune to occupation and redirection. If there are 4 or fewer people left alive, all your votes count double.
+**Royal Guards (Passive)** - Your personal guards will sacrifice themselves to save you from attacks. You are death immune once.
+**Private Matters (Day)** - Today, all whispers to and from you will be hidden from the public. Only starting King has this ability. - 1 use.
+**Decide Fate (Day)** - You will decide the fate of the accused, pardoning or executing them on the spot. - 1 use.
+**Find Blackmailers (Night)** - Tonight, you will send out a private guard to investigate a target, learning if they are one of your Blackmailers or not, as well as granting death immunity to those that visit you. - 6 uses.
+**Order Execution (Night)** - Send out an elite cadre of guards to attack a target, bypassing healing and death immunity. If your attack is successful, it will be broadcast to the court. Does not count as a visit. Only starting King has this ability. - 1 use.
+*Survive to see all your Blackmailers dead by the end of the game.*
+
+&gt; # [color = &quot;gray&quot;] The Neutral King [/color] :shield: 
+&gt; **[color = &quot;gray&quot;] Neutral Special [/color]**
+**Tenacity (Passive)** - Immune to occupation and redirection. If there are 4 or fewer people left alive, all your votes count double.
+**Decide Fate (Day)** - You will decide the fate of the accused, pardoning or executing them on the spot. - 1 use.
+**Royal Guards (Night)** - Send out your guards to give target player death immunity (can target yourself). - 4 uses.
+*Survive until the end of the game.*
+
+&gt; # [color = &quot;gray&quot;] The Psycho King [/color] :shield: 
+&gt; **[color = &quot;gray&quot;] Neutral Special [/color]**
+**Mad Tenacity (Passive)** - Immune to occupation, redirection and death at night. If there are 4 or fewer people left alive, all your votes count double.
+**Decide Fate (Day)** - You will decide the fate of the accused, pardoning or executing them on the spot. - 1 use.
+**Berserker Guards (Night)** - Send out your crazed guards to attack target player. - Infinite uses.
+*Defeat the Blue Dragon, the Cult and the Unseen.*
+
+***Notes:***
+
+1) Starting King will be 10% Selfish, 30% Evil/Blood, 60% Good.
+2) Blackmailers will always be Starting Mastermind/Cult Leader, Prince, and then 2 Random Blue Dragon other than Prince. Blackmailers do not know they&#39;re Blackmailers. The Selfish King will see an X to the side of a dead player if they were a Blackmailer.
+3) The King not having Point Finger and instead having double votes as a passive should help Possessor win more often.
+4) The Blood King&#39;s Cult Patronage does not grant occupation immunity to the Cult Leader, instead it prevents abilities that would occupy them, which means it works against Butler&#39;s Wine and Concentrated Wine, Sellsword&#39;s Intimidate and Drunk&#39;s Happy Hour. Cult Patronage does nothing against redirection of any kind.
+
+Feedback is welcome! :smiley:</description>
+    
+    <lastBuildDate>Fri, 13 Jul 2018 14:44:40 +0000</lastBuildDate>
+    <category>Class/Lore/Fanfic</category>
+    <atom:link href="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[Rework Suggestion] The King! A more vulnerable, more social class</title>
+        <dc:creator><![CDATA[ShadowKnight]]></dc:creator>
+        <description><![CDATA[
+            <p><em>shrug</em></p>
+<p>Agree to disagree, I suppose.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/61">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/61</link>
+        <pubDate>Fri, 13 Jul 2018 14:44:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-70302-61</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302.rss">[Rework Suggestion] The King! A more vulnerable, more social class</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The King! A more vulnerable, more social class</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="ShadowKnight" data-post="59" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shadowknight/40/5439_2.png" class="avatar"> ShadowKnight:</div>
+<blockquote>
+<p>So what do people want the King to do, then? If they can’t gather information, not mechanically nor via whispers, if they can’t kill at night, and can’t be powerful enough to compete with Prince mechanically, what significant value do they bring to the table to compensate their odds of being not-good?</p>
+</blockquote>
+</aside>
+<p>IMO support abilities fit far better for the King in order to help him with the town leader idea. Claim and work with a Good King and he’ll support you. If it turns out you’re working with an Evil King, no loss.</p>
+<p>See how Kings in FoL work and you’ll understand why this model is typically agreed to be the best.</p>
+<aside class="quote no-group" data-username="ShadowKnight" data-post="59" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shadowknight/40/5439_2.png" class="avatar"> ShadowKnight:</div>
+<blockquote>
+<p>You will always be at a disadvantage because you’re competing with someone whose claim is actually true. The odds are stacked against you, as BD has ways of checking even the most uncomfirmable of claims. Eventually, open info will take you out. What you’re gambling is that you think you can win the game before that happens. Forgive me if I don’t find that kind of gameplay exciting.</p>
+</blockquote>
+</aside>
+<p>Eventually, assuming that by the time they see through your lies that they still have numbers. BD essentially lives on borrowed time and if they end up outnumbered, it’s game over for them.</p>
+<aside class="quote no-group" data-username="ShadowKnight" data-post="59" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shadowknight/40/5439_2.png" class="avatar"> ShadowKnight:</div>
+<blockquote>
+<p>It’s objectively superior for BD, yes, but it’s a race against time for evils, to kill as much Town as possible before you get caught. This was the reason I stopped playing ToS, because it was either open claim D2/D3 or start VFRing so that all the info was on the table, especially with the introduction of Psychic. Being evil meant racing against time and trying to create as much misdirection as possible while trying not to get caught lying when people died and shrunk your claimspace. It was thoroughly unpleasant to play.</p>
+</blockquote>
+</aside>
+<p>ToS was bad as the limited claimspace essentially made the game into “lynch a RT claim, execute the other.” ToL doesn’t have this issue as the claimspace is essentially infinite provided that you aren’t claiming a role that already has two of it in-game.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/60">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/60</link>
+        <pubDate>Fri, 13 Jul 2018 14:38:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-70302-60</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302.rss">[Rework Suggestion] The King! A more vulnerable, more social class</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The King! A more vulnerable, more social class</title>
+        <dc:creator><![CDATA[ShadowKnight]]></dc:creator>
+        <description><![CDATA[
+            <p>Something people are not quite taking into consideration is the fact that there are some broad groups of abilities and people have vocally rejected the vast majority of them.</p>
+<p><strong>Investigative abilities:</strong> People hated the old Allies and don’t want King to be able to garner information mechanically.<br>
+<strong>Social abilities:</strong> People want extremely limited social abilities that don’t encourage “whisper meta” and instead simply empower the King when it comes to voting. This by itself is not terribly useful, as without actual sources of information, the King will just be following along with the majority or relying on their own scumreading.<br>
+<strong>Killing abilities:</strong> Highly controversial.<br>
+<strong>Offensive abilities:</strong> It could be argued there are too many of these already, but it’s a possibility.<br>
+<strong>Support abilities:</strong> These are the only abilities I haven’t seen people hate on, and tbh, reducing the King to an outed Support with some extra Social abilities doesn’t quite seem like enough value for BD.</p>
+<p>So what do people want the King to do, then? If they can’t gather information, not mechanically nor via whispers, if they can’t kill at night, and can’t be powerful enough to compete with Prince mechanically, what significant value do they bring to the table to compensate their odds of being not-good?</p>
+<aside class="quote no-group" data-username="Alice" data-post="57" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/alice/40/32176_2.png" class="avatar"> Alice:</div>
+<blockquote>
+<p>Or you can lie convincingly and create fake logs.</p>
+</blockquote>
+</aside>
+<p>You will always be at a disadvantage because you’re competing with someone whose claim is actually true. The odds are stacked against you, as BD has ways of checking even the most uncomfirmable of claims. Eventually, open info will take you out. What you’re gambling is that you think you can win the game before that happens. Forgive me if I don’t find that kind of gameplay exciting.</p>
+<aside class="quote no-group" data-username="orangeandblack5" data-post="58" data-topic="70302" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/orangeandblack5/40/33172_2.png" class="avatar"> orangeandblack5:</div>
+<blockquote>
+<p>Open discourse is much much much more engaging for every single player in the game and is therefore objectively superior.</p>
+</blockquote>
+</aside>
+<p>It’s objectively superior for BD, yes, but it’s a race against time for evils, to kill as much Town as possible before you get caught. This was the reason I stopped playing ToS, because it was either open claim D2/D3 or start VFRing so that all the info was on the table, especially with the introduction of Psychic. Being evil meant racing against time and trying to create as much misdirection as possible while trying not to get caught lying when people died and shrunk your claimspace. It was thoroughly unpleasant to play.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/59">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/59</link>
+        <pubDate>Fri, 13 Jul 2018 14:27:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-70302-59</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302.rss">[Rework Suggestion] The King! A more vulnerable, more social class</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The King! A more vulnerable, more social class</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>Open discourse is much much much more engaging for every single player in the game and is therefore objectively superior.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/58">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/58</link>
+        <pubDate>Fri, 13 Jul 2018 14:17:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-70302-58</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302.rss">[Rework Suggestion] The King! A more vulnerable, more social class</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The King! A more vulnerable, more social class</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="ShadowKnight" data-post="54" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shadowknight/40/5439_2.png" class="avatar"> ShadowKnight:</div>
+<blockquote>
+<p>You realise open info has little to no counterplay, right? Everyone has access to it and can check for themselves with chat, dead people’s classes and wills. At least with info-to-a-player, you can do things to that player and to that player’s logs that help stem the flow of information to all BD.</p>
+<p>Controlling information to BD for as long as possible is how you win as evil, and open info is basically outside of your control. The only thing you can do is cast suspicion on the source of that info or try and redirect people’s attention and that’s about it, and you can do both of those and more in info-to-a-player.</p>
+</blockquote>
+</aside>
+<p>Or you can lie convincingly and create fake logs.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/57">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/57</link>
+        <pubDate>Fri, 13 Jul 2018 14:16:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-70302-57</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302.rss">[Rework Suggestion] The King! A more vulnerable, more social class</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The King! A more vulnerable, more social class</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>Does it harm you to lynch a Court Wizard more than losing the player and their actions? No.</p>
+<p>Would it hurt you to lynch my Good King more than losing the player and their actions? Yes. Royal Blood would permanently lose its effect, and you would forever be stuck with a weaker replacement King, who at best takes away the abilities of another class just like mislynching them would and at worst puts scum in power.</p>
+<p>The two situations are hardly comparable.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/56">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/56</link>
+        <pubDate>Fri, 13 Jul 2018 14:16:15 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-70302-56</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302.rss">[Rework Suggestion] The King! A more vulnerable, more social class</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The King! A more vulnerable, more social class</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="ShadowKnight" data-post="54" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shadowknight/40/5439_2.png" class="avatar"> ShadowKnight:</div>
+<blockquote>
+<p>That straight up doesn’t work on classes like old CW (maybe even current CW?) and current Knight/Princess, whose useful abilities still don’t stop BD from taking them out on the chance they’re evil, whereas classes like Physician, Alchemist and Observer are actually useful enough that they are allowed to live even if suspicion is cast upon them. The class’s ability needs to be significantly strong to deter BD from executing them.</p>
+</blockquote>
+</aside>
+<p>Executing players based on their claim is just bad play in general and will cause more mislynches than finding evils.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/55">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/55</link>
+        <pubDate>Fri, 13 Jul 2018 14:15:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-70302-55</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302.rss">[Rework Suggestion] The King! A more vulnerable, more social class</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The King! A more vulnerable, more social class</title>
+        <dc:creator><![CDATA[ShadowKnight]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Alice" data-post="51" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/alice/40/32176_2.png" class="avatar"> Alice:</div>
+<blockquote>
+<p>Information has to flow somehow. I’d rather it be open or at least to a competent player instead of someone just because they rolled a strong class.</p>
+</blockquote>
+</aside>
+<p>You realise open info has little to no counterplay, right? Everyone has access to it and can check for themselves with chat, dead people’s classes and wills. At least with info-to-a-player, you can do things to that player and to that player’s logs that help stem the flow of information to all BD.</p>
+<p>Controlling information to BD for as long as possible is how you win as evil, and open info is basically outside of your control. The only thing you can do is cast suspicion on the source of that info or try and redirect people’s attention and that’s about it, and you can do both of those and more in info-to-a-player.</p>
+<aside class="quote no-group" data-username="orangeandblack5" data-post="52" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/orangeandblack5/40/33172_2.png" class="avatar"> orangeandblack5:</div>
+<blockquote>
+<p>Long story short, rather than buff all Kings, give the starting BD King a little something extra that the BD don’t like needlessly losing and punish them if they lynch a starting BD King. Now you can have a King weaker than Prince and still keep a lower regicide rate.</p>
+</blockquote>
+</aside>
+<p>That straight up doesn’t work on classes like old CW (maybe even current CW?) and current Knight/Princess, whose useful abilities still don’t stop BD from taking them out on the chance they’re evil, whereas classes like Physician, Alchemist and Observer are actually useful enough that they are allowed to live even if suspicion is cast upon them. The class’s ability needs to be significantly strong to deter BD from executing them.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/54">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/54</link>
+        <pubDate>Fri, 13 Jul 2018 14:13:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-70302-54</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302.rss">[Rework Suggestion] The King! A more vulnerable, more social class</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The King! A more vulnerable, more social class</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>This isn’t up-to-date at all, but it should get the point across if I remember correctly.</p>
+<p><a href="https://forum.imperium42.com/t/king-rework-orangeandblack5-edition/40698" class="onebox" target="_blank" rel="noopener">https://forum.imperium42.com/t/king-rework-orangeandblack5-edition/40698</a></p>
+<p>For example, pretty much all of the faction-specific abilities need changing. It does seem good enough to make my point though.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/53">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/53</link>
+        <pubDate>Fri, 13 Jul 2018 14:06:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-70302-53</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302.rss">[Rework Suggestion] The King! A more vulnerable, more social class</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The King! A more vulnerable, more social class</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="orangeandblack5" data-post="2" data-topic="40216">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/orangeandblack5/40/33172_2.png" class="avatar"><a href="https://forum.throneoflies.com/t/no-king-starting-class-vote-up-first-king-d4/40216/2">NO KING starting Class, vote up first king d4</a>
+</div>
+<blockquote>
+<p>I think that the solution to this is to give the starting BD King a few special mechanics. If you give the starting BD King an ability the BD will be unwilling to lose, and you punish the BD for incorrectly executing a BD King, the regicide rate is unlikely to spike as much. My personal suggestions are below, but pretty much anything works as long as it achieves this end goal.</p>
+<p><img src="https://forum.imperium42.com/user_avatar/forum.imperium42.com/orangeandblack5/40/166_1.png" alt="" width="20" height="20"> orangeandblack5:</p>
+<blockquote>
+<blockquote>
+<p>BD Boon: Starting Good King’s guards protect against conversion as well as kills.</p>
+<p>BD Punishment: If a Good King dies to public execution or Butler, the royal bloodline is useless and royals may not step up early.</p>
+</blockquote>
+</blockquote>
+</blockquote>
+</aside>
+<p>Long story short, rather than buff all Kings, give the starting BD King a little something extra that the BD don’t like needlessly losing and punish them if they lynch a starting BD King. Now you can have a King weaker than Prince and still keep a lower regicide rate.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/52">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/52</link>
+        <pubDate>Fri, 13 Jul 2018 14:05:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-70302-52</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302.rss">[Rework Suggestion] The King! A more vulnerable, more social class</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The King! A more vulnerable, more social class</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="ShadowKnight" data-post="46" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shadowknight/40/5439_2.png" class="avatar"> ShadowKnight:</div>
+<blockquote>
+<p>This is just VFR, btw, only people anticipate it and just put their opinion out in the open. It’s still the two options I outlined above, either Information In The Open or Information To Trustworthy Player.</p>
+</blockquote>
+</aside>
+<p>Information has to flow somehow. I’d rather it be open or at least to a competent player instead of someone just because they rolled a strong class.</p>
+<aside class="quote no-group" data-username="ShadowKnight" data-post="46" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shadowknight/40/5439_2.png" class="avatar"> ShadowKnight:</div>
+<blockquote>
+<p>King dies to the majority of this too.</p>
+</blockquote>
+</aside>
+<p>Except you can get a new King during the day. If the Prince dies, BD is SOL.</p>
+<aside class="quote no-group" data-username="ShadowKnight" data-post="46" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shadowknight/40/5439_2.png" class="avatar"> ShadowKnight:</div>
+<blockquote>
+<p>And making the King too weak makes them a class that is better off dead. I’d rather have a class that’s slightly too powerful and is at risk of being killed than one that’s too weak and is both boring to play for the player that gets it and BD would rather see dead.</p>
+</blockquote>
+</aside>
+<p>False dilemma. A King should be useful for their faction but shouldn’t be able to single-handedly win games on their night and day actions alone such as single-handedly executing players.</p>
+<aside class="quote no-group" data-username="ShadowKnight" data-post="46" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shadowknight/40/5439_2.png" class="avatar"> ShadowKnight:</div>
+<blockquote>
+<p>Not really, as bussing is a thing that exists and CWs can be converted (or just killed). It’s not really poor play, just distrustful.</p>
+</blockquote>
+</aside>
+<p>In this case it’s essentially a failure of the Sheriff/Paladin/CWs. There are tools to prevent players from being converted so this shouldn’t be an excuse.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/51">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/51</link>
+        <pubDate>Fri, 13 Jul 2018 14:04:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-70302-51</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302.rss">[Rework Suggestion] The King! A more vulnerable, more social class</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The King! A more vulnerable, more social class</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>You’re overlooking several other things you can do to help with this - let me look at some of my older posts and grab some stuff so I don’t need to re-type them all.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/50">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/50</link>
+        <pubDate>Fri, 13 Jul 2018 13:58:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-70302-50</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302.rss">[Rework Suggestion] The King! A more vulnerable, more social class</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The King! A more vulnerable, more social class</title>
+        <dc:creator><![CDATA[ShadowKnight]]></dc:creator>
+        <description><![CDATA[
+            <p>You’ll find it’s a lot harder than it seems. To me, this is the weakest King can possibly be without being better-off dead.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/49">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/49</link>
+        <pubDate>Fri, 13 Jul 2018 13:57:17 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-70302-49</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302.rss">[Rework Suggestion] The King! A more vulnerable, more social class</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The King! A more vulnerable, more social class</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="ShadowKnight" data-post="46" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shadowknight/40/5439_2.png" class="avatar"> ShadowKnight:</div>
+<blockquote>
+<p>The King doesn’t need to be super weak to be pointless. They just need to reach a sufficient point of weakness that the odds of them being evil make them better off dead.</p>
+</blockquote>
+</aside>
+<p>Obviously that should be avoided too, although there are better ways to help with this issue than just make the King super strong.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/48">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/48</link>
+        <pubDate>Fri, 13 Jul 2018 13:56:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-70302-48</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302.rss">[Rework Suggestion] The King! A more vulnerable, more social class</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The King! A more vulnerable, more social class</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="RHCube" data-post="45" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/ritualist-icon-256.jpg" class="avatar"> RHCube:</div>
+<blockquote>
+<p>Would it be better if it was one-use?</p>
+</blockquote>
+</aside>
+<p>Yes, although I’d still prefer replacing it, personally.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/47">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/47</link>
+        <pubDate>Fri, 13 Jul 2018 13:55:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-70302-47</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302.rss">[Rework Suggestion] The King! A more vulnerable, more social class</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The King! A more vulnerable, more social class</title>
+        <dc:creator><![CDATA[ShadowKnight]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Alice" data-post="36" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/alice/40/32176_2.png" class="avatar"> Alice:</div>
+<blockquote>
+<p>As you did in your Queen suggestion, you are vastly underestimating the impact that KPN has on the scum’s game.</p>
+</blockquote>
+</aside>
+<p>The fact that you keep saying this over and over tells me you rely overmuch on your own theoretical assessments over what actually happens in the game. With occupation, guarding, healing, redirection, immunities, immunity-bypassing, conversion, anti-conversion and empowering, there is no such thing as a reliable KPN in this game. You can theorise all you want, but the realities of the game are starkly different and incredibly difficult to predict.</p>
+<aside class="quote no-group" data-username="Alice" data-post="36" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/alice/40/32176_2.png" class="avatar"> Alice:</div>
+<blockquote>
+<p>Or they can just put out information in the open.</p>
+</blockquote>
+</aside>
+<p>This is just VFR, btw, only people anticipate it and just put their opinion out in the open. It’s still the two options I outlined above, either Information In The Open or Information To Trustworthy Player.</p>
+<aside class="quote no-group" data-username="Alice" data-post="36" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/alice/40/32176_2.png" class="avatar"> Alice:</div>
+<blockquote>
+<p>If the Prince outs and tries to play the same role as the King, they’ll be dead in most cases providing scum is competent, as in Empowered Reap, Eradicate into a Teleport, Frenzy, and whatnot.</p>
+</blockquote>
+</aside>
+<p>King dies to the majority of this too.</p>
+<aside class="quote no-group" data-username="Alice" data-post="36" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/alice/40/32176_2.png" class="avatar"> Alice:</div>
+<blockquote>
+<p>Relying on an Evil King to do this would just make him mechanically confirm-able and would not work 60% of the time.</p>
+</blockquote>
+</aside>
+<p>Fair enough, I just don’t really think of anything an EK can do for Cult that’s more valuable than making sure those crucial abilities get across.</p>
+<aside class="quote no-group" data-username="Alice" data-post="36" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/alice/40/32176_2.png" class="avatar"> Alice:</div>
+<blockquote>
+<p>Making the King too strong will essentially turn the game into a race to see which faction can install their own King. The King shouldn’t be that vital for either side.</p>
+</blockquote>
+</aside>
+<p>And making the King too weak makes them a class that is better off dead. I’d rather have a class that’s slightly too powerful and is at risk of being killed than one that’s too weak and is both boring to play for the player that gets it and BD would rather see dead.</p>
+<aside class="quote no-group" data-username="Alice" data-post="37" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/alice/40/32176_2.png" class="avatar"> Alice:</div>
+<blockquote>
+<p>Most classes can play the part of a town leader as long as they play well. Rallying behind a useless King over a CW who has been finding evils via scumreading and in general has been active because they’re the King is just poor play in general.</p>
+</blockquote>
+</aside>
+<p>Not really, as bussing is a thing that exists and CWs can be converted (or just killed). It’s not really poor play, just distrustful.</p>
+<aside class="quote no-group" data-username="orangeandblack5" data-post="38" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/orangeandblack5/40/33172_2.png" class="avatar"> orangeandblack5:</div>
+<blockquote>
+<p>Now, a super weak King would be pointless, but making him significantly stronger than Prince just ramps this issue way higher than it ever needs to be.</p>
+</blockquote>
+</aside>
+<p>The King doesn’t need to be super weak to be pointless. They just need to reach a sufficient point of weakness that the odds of them being evil make them better off dead.</p>
+<aside class="quote no-group" data-username="RHCube" data-post="40" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/ritualist-icon-256.jpg" class="avatar"> RHCube:</div>
+<blockquote>
+<p>Why is it conditional? It’s already a niche ability. Just make it so your votes will count double normally.</p>
+</blockquote>
+</aside>
+<p>Possessor.</p>
+<aside class="quote no-group" data-username="RHCube" data-post="40" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/ritualist-icon-256.jpg" class="avatar"> RHCube:</div>
+<blockquote>
+<p>What’s the point of this? The only BD classes that can visit king are phys, knight, and observer.</p>
+</blockquote>
+</aside>
+<p>BD reward for not being on actually valuable BD classes. Otherwise there’s no point trying to keep King alive.</p>
+<aside class="quote no-group" data-username="RHCube" data-post="40" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/ritualist-icon-256.jpg" class="avatar"> RHCube:</div>
+<blockquote>
+<p>Again, death immunity is a bit redundant when mastermind already has it and assassin visiting EK would be a wasted night.</p>
+</blockquote>
+</aside>
+<p>That’s not for Unseen. That’s to let EK mimic GK to BD.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/46">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/46</link>
+        <pubDate>Fri, 13 Jul 2018 13:55:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-70302-46</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302.rss">[Rework Suggestion] The King! A more vulnerable, more social class</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The King! A more vulnerable, more social class</title>
+        <dc:creator><![CDATA[RHCube]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Alice" data-post="43" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/alice/40/32176_2.png" class="avatar"> Alice:</div>
+<blockquote>
+<p>Because the King shouldn’t be a killing role.</p>
+</blockquote>
+</aside>
+<p>It’s still mainly a social class, it would just have a single killing ability.</p>
+<aside class="quote no-group" data-username="Alice" data-post="43" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/alice/40/32176_2.png" class="avatar"> Alice:</div>
+<blockquote>
+<p>Also the fact that EKs can also execute prominent BDs makes it difficult to trust the King at the start</p>
+</blockquote>
+</aside>
+<p>But the point of OE is to kill prominent BDs and harmful neuts.  The unseen have no way to kill immune targets early game.</p>
+<aside class="quote no-group" data-username="orangeandblack5" data-post="44" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/orangeandblack5/40/33172_2.png" class="avatar"> orangeandblack5:</div>
+<blockquote>
+<p>Giving the centerpiece of the game the ability to instantly kill up to two players is both incredibly strong in the endgame</p>
+</blockquote>
+</aside>
+<p>Would it be better if it was one-use?</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/45">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/45</link>
+        <pubDate>Fri, 13 Jul 2018 13:50:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-70302-45</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302.rss">[Rework Suggestion] The King! A more vulnerable, more social class</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The King! A more vulnerable, more social class</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="RHCube" data-post="40" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/ritualist-icon-256.jpg" class="avatar"> RHCube:</div>
+<blockquote>
+<p>What’s wrong with Order Execution? It encourages people to claim to the king. Maid spy and 35% chance of evil king already discourage whispering to the king. It needs a buff if anything, it isn’t hard for healers/court wizards/sages to predict who the king will target.</p>
+</blockquote>
+</aside>
+<p>Giving the centerpiece of the game the ability to instantly kill up to two players is both incredibly strong in the endgame, as well as just feeling wrong. This also plays into my previous point on the King’s strength inherently breeding swing.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/44">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/44</link>
+        <pubDate>Fri, 13 Jul 2018 13:47:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-70302-44</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302.rss">[Rework Suggestion] The King! A more vulnerable, more social class</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The King! A more vulnerable, more social class</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="RHCube" data-post="40" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/ritualist-icon-256.jpg" class="avatar"> RHCube:</div>
+<blockquote>
+<p>What’s the point of this? The only BD classes that can visit king are phys, knight, and observer.</p>
+</blockquote>
+</aside>
+<p>Technically more can visit if you have a Drunk/Alcoholic/Invoker.</p>
+<aside class="quote no-group" data-username="RHCube" data-post="40" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/ritualist-icon-256.jpg" class="avatar"> RHCube:</div>
+<blockquote>
+<p>What’s wrong with Order Execution? It encourages people to claim to the king. Maid spy and 35% chance of evil king already discourage whispering to the king. It needs a buff if anything, it isn’t hard for healers/court wizards/sages to predict who the king will target.</p>
+</blockquote>
+</aside>
+<p>Because the King shouldn’t be a killing role. Also the fact that EKs can also execute prominent BDs makes it difficult to trust the King at the start, which means it’s difficult to play as GK as you need people’s trust to find leads in order for people to trust you, creating a catch-22.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/43">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/43</link>
+        <pubDate>Fri, 13 Jul 2018 13:46:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-70302-43</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302.rss">[Rework Suggestion] The King! A more vulnerable, more social class</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The King! A more vulnerable, more social class</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>By strong I am referring to his immunity. That was the problem with priest too</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/42">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/42</link>
+        <pubDate>Fri, 13 Jul 2018 13:46:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-70302-42</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302.rss">[Rework Suggestion] The King! A more vulnerable, more social class</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The King! A more vulnerable, more social class</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>That is done by making the most confirmable classes big targets like the prince is.</p>
+<p>King is too strong to qualify</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/41">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/41</link>
+        <pubDate>Fri, 13 Jul 2018 13:44:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-70302-41</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302.rss">[Rework Suggestion] The King! A more vulnerable, more social class</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The King! A more vulnerable, more social class</title>
+        <dc:creator><![CDATA[RHCube]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="ShadowKnight" data-post="1" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shadowknight/40/5439_2.png" class="avatar"> ShadowKnight:</div>
+<blockquote>
+<p>If there are 4 or fewer people left alive, all your votes count double.</p>
+</blockquote>
+</aside>
+<p>Why is it conditional?  It’s already a niche ability.  Just make it so your votes will count double normally.</p>
+<aside class="quote no-group" data-username="ShadowKnight" data-post="1" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shadowknight/40/5439_2.png" class="avatar"> ShadowKnight:</div>
+<blockquote>
+<p><strong>Safe Chambers (Night)</strong> - Tonight, you will protect players that visit you, granting them death immunity. - 5 uses</p>
+</blockquote>
+</aside>
+<p>What’s the point of this?  The only BD classes that can visit king are phys, knight, and observer.</p>
+<aside class="quote no-group" data-username="ShadowKnight" data-post="1" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shadowknight/40/5439_2.png" class="avatar"> ShadowKnight:</div>
+<blockquote>
+<p><strong>Unseen Intrigue (Night)</strong> - Tonight, you will learn which classes and how many of them visit you, and grant them death immunity. - 5 uses.</p>
+</blockquote>
+</aside>
+<p>Again, death immunity is a bit redundant when mastermind already has it and assassin visiting EK would be a wasted night.</p>
+<aside class="quote no-group" data-username="Alice" data-post="16" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/alice/40/32176_2.png" class="avatar"> Alice:</div>
+<blockquote>
+<p>Order Execution as a whole shouldn’t even exist.</p>
+</blockquote>
+</aside>
+<aside class="quote no-group" data-username="orangeandblack5" data-post="22" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/orangeandblack5/40/33172_2.png" class="avatar"> orangeandblack5:</div>
+<blockquote>
+<p>and with that you’ve lost me</p>
+</blockquote>
+</aside>
+<p>What’s wrong with Order Execution?  It encourages people to claim to the king.  Maid spy and 35% chance of evil king already discourage whispering to the king.  It needs a buff if anything, it isn’t hard for healers/court wizards/sages to predict who the king will target.</p>
+<aside class="quote no-group" data-username="ShadowKnight" data-post="27" data-topic="70302" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shadowknight/40/5439_2.png" class="avatar"> ShadowKnight:</div>
+<blockquote>
+<p>If people prefer it that way, sure. Another alternative is to reduce the passive’s activation requirement to “when there’s only 2 people left alive”.</p>
+</blockquote>
+</aside>
+<p>That would be underpowered though.  It’s already a niche ability.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/40">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/40</link>
+        <pubDate>Fri, 13 Jul 2018 13:43:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-70302-40</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302.rss">[Rework Suggestion] The King! A more vulnerable, more social class</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The King! A more vulnerable, more social class</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>All you really need to do is make the players exact class not the primary factor in rallying.</p>
+<p>Once a Sheriff or Hunter or something can lead a whisper game I will be happy</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/39">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/39</link>
+        <pubDate>Fri, 13 Jul 2018 13:43:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-70302-39</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302.rss">[Rework Suggestion] The King! A more vulnerable, more social class</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The King! A more vulnerable, more social class</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="ShadowKnight" data-post="35" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shadowknight/40/5439_2.png" class="avatar"> ShadowKnight:</div>
+<blockquote>
+<p>Yes? Because that knowledge being public means the King is inherently untrustworthy? So long as the King’s allegiance remains impossible to detect and can only be discerned through actions, they can be mechanically more powerful than Prince, but Prince will have a huge leg up on the King that the King can never match.</p>
+</blockquote>
+</aside>
+<p>You’re missing the point. The untrustworthiness of the King may prevent you from feeling comfortable whispering all of your info to them, but that’s not at all what I was getting at.</p>
+<p>The more powerful the King is, the swingier the game becomes and the more likely it is that the winning side is determined not by what happens in-game, but by which alignment gets the King. That’s a huge issue, and it can <em>only</em> be lessened by weakening the King.</p>
+<p>Now, a super weak King would be pointless, but making him significantly stronger than Prince just ramps this issue way higher than it ever needs to be.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/38">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/38</link>
+        <pubDate>Fri, 13 Jul 2018 13:42:33 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-70302-38</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302.rss">[Rework Suggestion] The King! A more vulnerable, more social class</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The King! A more vulnerable, more social class</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="ShadowKnight" data-post="35" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shadowknight/40/5439_2.png" class="avatar"> ShadowKnight:</div>
+<blockquote>
+<p>BD will tend to rally behind the strongest, most auto-confirmable class they currently have available. This is an inevitability. The class may change, but there’s no real way of having a free-for-all anyone-can-be-the-leader meta.</p>
+</blockquote>
+</aside>
+<p>Most classes can play the part of a town leader as long as they play well. Rallying behind a useless King over a CW who has been finding evils via scumreading and in general has been active because they’re the King is just poor play in general.</p>
+<aside class="quote no-group" data-username="ShadowKnight" data-post="35" data-topic="70302">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shadowknight/40/5439_2.png" class="avatar"> ShadowKnight:</div>
+<blockquote>
+<p>Yes? Because that knowledge being public means the King is inherently untrustworthy? So long as the King’s allegiance remains impossible to detect and can only be discerned through actions, they can be mechanically more powerful than Prince, but Prince will have a huge leg up on the King that the King can never match.</p>
+</blockquote>
+</aside>
+<p>This is purely relying on mechanical confirmation over reads, to be honest.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/37">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302/37</link>
+        <pubDate>Fri, 13 Jul 2018 13:41:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-70302-37</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-king-a-more-vulnerable-more-social-class/70302.rss">[Rework Suggestion] The King! A more vulnerable, more social class</source>
+      </item>
+  </channel>
+</rss>

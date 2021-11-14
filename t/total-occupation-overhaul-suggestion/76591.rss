@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Total Occupation Overhaul Suggestion</title>
+    <link>https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591</link>
+    <description>Scroll down to the bottom for **TL;DR**.
+
+I wish that occupiers were not investigators and it seems many agree.  I&#39;ve also come to the conclusion that this can be implemented (at least in theory) if we get 100% rid of occupation immunity in any form, **without** relying on the RNG of determining priority based on number.
+
+I agree with what is described as the &#39;prevailing opinion&#39; at [wiki.mafiascum.net:](https://wiki.mafiascum.net/index.php?title=Roleblocker#Multiple_and_Mutual_Roleblocks)
+
+- Suppose Roleblocker A blocks Roleblocker B, who blocks Roleblocker C, who blocks Roleblocker D, who blocks Doctor E. If Roleblocks are resolved in such a way that conflicts are minimized, A blocks B, preventing B from blocking C, thus C blocks D, preventing D from blocking the Doctor - in short, the Doctor&#39;s protection would have an effect. If all Roleblocks are simultaneous, the only player who is NOT technically Roleblocked is A; the Doctor would be blocked.
+
+However they deem mutual role-blocks (and by extension, longer loops of roleblocks e.g. A blocks B blocks C blocks A) as ambiguous.
+
+I disagree.  
+
+In order to prevent roleblockers from learning any information other than they were successful, or were themselves roleblocked instead, (again, having investigative powers goes against the spirit of the class), we simply tell every roleblocker in an unbroken loop that they were occupied.  **And even though they successfully occupied their target, we do NOT let them know this.**
+_______________________
+**TL;DR**
+
+Here is how the logic would play out:
+
+1. Identify every loop of occupiers.
+2. Identify every occupier **NOT** targeted by another occupier.
+3. Occupy the targets of everyone identified in step (2).
+4. Identify anyone in a loop who is now occupied.
+5. Identify anyone sharing a loop with anyone identified in step (4).
+6. Mark everyone identified in steps (4) and (5) as **NOT** being in a loop.
+7. Occupy everyone in a loop who has not been marked in step (6).
+8. Identify every occupier **NOT** occupied.
+9. Occupy the targets of everyone identified in step (8).
+________________
+Examples:
+
+- A occupies B occupies A.
+- - Both will be informed they were occupied, but not that they occupied anyone.
+
+- A occupies B occupies C occupies A.
+- - Same as above.  All are occupied; none are told they occupied anyone.
+
+- A occupies B occupies C occupies D occupies E.
+- - A, C, and E will **NOT** be occupied.  B and D will though.
+
+- A occupies B occupies A.  C occupies A.
+- - A will be occupied by both B and C.
+
+- A occupies B occupies C occupies A.  D occupies E occupies A.
+- - Everyone is occupied except D.
+_______________
+It would be interesting to know if this system hasn&#39;t been implemented because someone just disagrees with it, or if it&#39;s because of a lack of theory for how to handle every possible case, or just plain difficulty of execution.
+_______________
+One last thing:
+
+Occupy occupies occupies occupied occupy,  occupy occupy occupies.  Occupy.</description>
+    
+    <lastBuildDate>Sat, 11 May 2019 02:54:24 +0000</lastBuildDate>
+    <category>Feedback/Suggestions</category>
+    <atom:link href="https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Total Occupation Overhaul Suggestion</title>
+        <dc:creator><![CDATA[Shrimpy]]></dc:creator>
+        <description><![CDATA[
+            <p>Is it really though?  Players will be notified of either success or failure, failure meaning either the obvious or … the extremely rare situation that you are in a circle of occupiers.  Which I don’t think has ever happened to me in hundreds of games.</p>
+          <p><a href="https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591/15</link>
+        <pubDate>Sat, 11 May 2019 02:54:24 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76591-15</guid>
+        <source url="https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591.rss">Total Occupation Overhaul Suggestion</source>
+      </item>
+      <item>
+        <title>Total Occupation Overhaul Suggestion</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Genius plan. Keep the immune message as an option with the list. But not actually have any situations where it comes up.</p>
+          <p><a href="https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591/14</link>
+        <pubDate>Sat, 11 May 2019 02:51:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76591-14</guid>
+        <source url="https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591.rss">Total Occupation Overhaul Suggestion</source>
+      </item>
+      <item>
+        <title>Total Occupation Overhaul Suggestion</title>
+        <dc:creator><![CDATA[RHCube]]></dc:creator>
+        <description><![CDATA[
+            <p>Though I’m not completely against your new occupation logic idea, but it could be a little confusing.</p>
+          <p><a href="https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591/13</link>
+        <pubDate>Sat, 11 May 2019 02:50:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76591-13</guid>
+        <source url="https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591.rss">Total Occupation Overhaul Suggestion</source>
+      </item>
+      <item>
+        <title>Total Occupation Overhaul Suggestion</title>
+        <dc:creator><![CDATA[RHCube]]></dc:creator>
+        <description><![CDATA[
+            <p>Which needs to be kept.</p>
+          <p><a href="https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591/12</link>
+        <pubDate>Sat, 11 May 2019 02:50:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76591-12</guid>
+        <source url="https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591.rss">Total Occupation Overhaul Suggestion</source>
+      </item>
+      <item>
+        <title>Total Occupation Overhaul Suggestion</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Which (technically) removes feedback. Not ALL of the feedback but it removes the “your target is immune”.</p>
+          <p><a href="https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591/11</link>
+        <pubDate>Fri, 10 May 2019 23:31:24 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76591-11</guid>
+        <source url="https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591.rss">Total Occupation Overhaul Suggestion</source>
+      </item>
+      <item>
+        <title>Total Occupation Overhaul Suggestion</title>
+        <dc:creator><![CDATA[Shrimpy]]></dc:creator>
+        <description><![CDATA[
+            <p>It isn’t about removing feedback, it’s about limiting it to either “you occupied your target” or “you got occupied instead”.</p>
+          <p><a href="https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591/10</link>
+        <pubDate>Fri, 10 May 2019 23:06:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76591-10</guid>
+        <source url="https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591.rss">Total Occupation Overhaul Suggestion</source>
+      </item>
+      <item>
+        <title>Total Occupation Overhaul Suggestion</title>
+        <dc:creator><![CDATA[RHCube]]></dc:creator>
+        <description><![CDATA[
+            <p>Occupiers receiving feedback is fine.  All classes need some feedback to prevent them from being boring.  There are even some people who dislike the current Butler.</p>
+          <p><a href="https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591/9</link>
+        <pubDate>Fri, 10 May 2019 23:00:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76591-9</guid>
+        <source url="https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591.rss">Total Occupation Overhaul Suggestion</source>
+      </item>
+      <item>
+        <title>Total Occupation Overhaul Suggestion</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>Why does it matter to you</p>
+<p>I’m allowed to like the mindset I’m seeing</p>
+          <p><a href="https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591/8</link>
+        <pubDate>Fri, 10 May 2019 22:54:45 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76591-8</guid>
+        <source url="https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591.rss">Total Occupation Overhaul Suggestion</source>
+      </item>
+      <item>
+        <title>Total Occupation Overhaul Suggestion</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Then don’t reply at all</p>
+          <p><a href="https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591/7</link>
+        <pubDate>Fri, 10 May 2019 22:11:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76591-7</guid>
+        <source url="https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591.rss">Total Occupation Overhaul Suggestion</source>
+      </item>
+      <item>
+        <title>Total Occupation Overhaul Suggestion</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>Because that takes time I don’t have <img src="/images/emoji/twitter/thinking.png?v=9" title=":thinking:" class="emoji" alt=":thinking:"></p>
+          <p><a href="https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591/6</link>
+        <pubDate>Fri, 10 May 2019 21:50:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76591-6</guid>
+        <source url="https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591.rss">Total Occupation Overhaul Suggestion</source>
+      </item>
+      <item>
+        <title>Total Occupation Overhaul Suggestion</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="orangeandblack5" data-post="4" data-topic="76591">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/orangeandblack5/40/33172_2.png" class="avatar"> orangeandblack5:</div>
+<blockquote>
+<p>Haven’t read yet</p>
+</blockquote>
+</aside>
+<p>Why don’t you read BEFORE posting things?</p>
+          <p><a href="https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591/5</link>
+        <pubDate>Fri, 10 May 2019 20:51:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76591-5</guid>
+        <source url="https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591.rss">Total Occupation Overhaul Suggestion</source>
+      </item>
+      <item>
+        <title>Total Occupation Overhaul Suggestion</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Shrimpy" data-post="1" data-topic="76591">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shrimpy/40/15828_2.png" class="avatar"> Shrimpy:</div>
+<blockquote>
+<p>I wish that occupiers were not investigators and it seems many agree.</p>
+</blockquote>
+</aside>
+<p>Haven’t read yet but great start</p>
+          <p><a href="https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591/4</link>
+        <pubDate>Fri, 10 May 2019 20:44:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76591-4</guid>
+        <source url="https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591.rss">Total Occupation Overhaul Suggestion</source>
+      </item>
+      <item>
+        <title>Total Occupation Overhaul Suggestion</title>
+        <dc:creator><![CDATA[Shrimpy]]></dc:creator>
+        <description><![CDATA[
+            <p>Those are very good questions.  I completely forgot to consider multiple target abilities, I’d have to think about it haha.</p>
+<p>For Follow and CoD though, it’s obvious:</p>
+<ul>
+<li>Followers see occupiers in a loop visit their target (even though the occupiers themselves aren’t aware they visited successfully)</li>
+<li>CoD kills anyone that a follower would see visit their target</li>
+</ul>
+          <p><a href="https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591/3</link>
+        <pubDate>Fri, 10 May 2019 20:44:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76591-3</guid>
+        <source url="https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591.rss">Total Occupation Overhaul Suggestion</source>
+      </item>
+      <item>
+        <title>Total Occupation Overhaul Suggestion</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>What happens when at least one of the occupiers are also performing additional actions? Hunter and Poacher for example. And how does this interact with abilities such as Party, Follow and CoD?</p>
+          <p><a href="https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591/2</link>
+        <pubDate>Fri, 10 May 2019 19:44:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76591-2</guid>
+        <source url="https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591.rss">Total Occupation Overhaul Suggestion</source>
+      </item>
+      <item>
+        <title>Total Occupation Overhaul Suggestion</title>
+        <dc:creator><![CDATA[Shrimpy]]></dc:creator>
+        <description><![CDATA[
+            <p>Scroll down to the bottom for <strong>TL;DR</strong>.</p>
+<p>I wish that occupiers were not investigators and it seems many agree.  I’ve also come to the conclusion that this can be implemented (at least in theory) if we get 100% rid of occupation immunity in any form, <strong>without</strong> relying on the RNG of determining priority based on number.</p>
+<p>I agree with what is described as the ‘prevailing opinion’ at <a href="https://wiki.mafiascum.net/index.php?title=Roleblocker#Multiple_and_Mutual_Roleblocks" rel="noopener nofollow ugc">wiki.mafiascum.net:</a></p>
+<ul>
+<li>Suppose Roleblocker A blocks Roleblocker B, who blocks Roleblocker C, who blocks Roleblocker D, who blocks Doctor E. If Roleblocks are resolved in such a way that conflicts are minimized, A blocks B, preventing B from blocking C, thus C blocks D, preventing D from blocking the Doctor - in short, the Doctor’s protection would have an effect. If all Roleblocks are simultaneous, the only player who is NOT technically Roleblocked is A; the Doctor would be blocked.</li>
+</ul>
+<p>However they deem mutual role-blocks (and by extension, longer loops of roleblocks e.g. A blocks B blocks C blocks A) as ambiguous.</p>
+<p>I disagree.</p>
+<p>In order to prevent roleblockers from learning any information other than they were successful, or were themselves roleblocked instead, (again, having investigative powers goes against the spirit of the class), we simply tell every roleblocker in an unbroken loop that they were occupied.  <strong>And even though they successfully occupied their target, we do NOT let them know this.</strong></p>
+<hr>
+<p><strong>TL;DR</strong></p>
+<p>Here is how the logic would play out:</p>
+<ol>
+<li>Identify every loop of occupiers.</li>
+<li>Identify every occupier <strong>NOT</strong> targeted by another occupier.</li>
+<li>Occupy the targets of everyone identified in step (2).</li>
+<li>Identify anyone in a loop who is now occupied.</li>
+<li>Identify anyone sharing a loop with anyone identified in step (4).</li>
+<li>Mark everyone identified in steps (4) and (5) as <strong>NOT</strong> being in a loop.</li>
+<li>Occupy everyone in a loop who has not been marked in step (6).</li>
+<li>Identify every occupier <strong>NOT</strong> occupied.</li>
+<li>Occupy the targets of everyone identified in step (8).</li>
+</ol>
+<hr>
+<p>Examples:</p>
+<ul>
+<li>
+<p>A occupies B occupies A.</p>
+</li>
+<li>
+<ul>
+<li>Both will be informed they were occupied, but not that they occupied anyone.</li>
+</ul>
+</li>
+<li>
+<p>A occupies B occupies C occupies A.</p>
+</li>
+<li>
+<ul>
+<li>Same as above.  All are occupied; none are told they occupied anyone.</li>
+</ul>
+</li>
+<li>
+<p>A occupies B occupies C occupies D occupies E.</p>
+</li>
+<li>
+<ul>
+<li>A, C, and E will <strong>NOT</strong> be occupied.  B and D will though.</li>
+</ul>
+</li>
+<li>
+<p>A occupies B occupies A.  C occupies A.</p>
+</li>
+<li>
+<ul>
+<li>A will be occupied by both B and C.</li>
+</ul>
+</li>
+<li>
+<p>A occupies B occupies C occupies A.  D occupies E occupies A.</p>
+</li>
+<li>
+<ul>
+<li>Everyone is occupied except D.</li>
+</ul>
+</li>
+</ul>
+<hr>
+<p>It would be interesting to know if this system hasn’t been implemented because someone just disagrees with it, or if it’s because of a lack of theory for how to handle every possible case, or just plain difficulty of execution.</p>
+<hr>
+<p>One last thing:</p>
+<p>Occupy occupies occupies occupied occupy,  occupy occupy occupies.  Occupy.</p>
+          <p><a href="https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591/1</link>
+        <pubDate>Fri, 10 May 2019 19:23:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76591-1</guid>
+        <source url="https://forum.throneoflies.com/t/total-occupation-overhaul-suggestion/76591.rss">Total Occupation Overhaul Suggestion</source>
+      </item>
+  </channel>
+</rss>

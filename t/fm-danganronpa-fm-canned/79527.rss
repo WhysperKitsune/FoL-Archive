@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[FM] Danganronpa FM [Canned]</title>
+    <link>https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527</link>
+    <description>![Danganronpa|354x499](upload://2I9BgFDhMKyoYUMvsHfY2s8XkFU.jpeg) 
+# Rules
+
+
+* If you haven’t posted in 36 hours, you will be prodded for inactivity via a ping. Not responding to a prod will cause you to be replaced.
+* Avoid discussing the game outside the thread while the game is still running.
+* Avoid using larger font sizes.
+* Avoid deleting/editing messages unless it’s a recent one or to correct grammar mistakes.
+* Avoid quoting the mod from your rolecard. This is a modkill-worthy offense.
+* Flavor-claiming is fine, but discouraged.
+
+
+# Gameplay
+
+The day phase will last 48 hours and the night phase will last 24 hours.
+Actions are done by messaging me.
+The uninformed majority will be called [color=forestgreen]**the Forces of Hope**[/color].
+The informed minority will be called [color=red]**the Forces of Despair**[/color].
+Members of [color=red]**the Forces of Despair**[/color] will talk through a special Discord server
+Both alignments and roles will flip.
+There will be six special mechanics in the game: Executions, Hope and Despair Lists, Hope and Despair Counters, Kill Types, Monocoins, and the Student Council.
+
+* **Executions** - Rather than a normal lynch, each day starting from the second one will have three different kinds of lynches with different conditions to be fulfilled. Due to this the uninformed majority will have less KP than in my average games.
+* [color=forestgreen]**Hope Lists**[/color]/[color=red]**Despair Lists**[/color] - PM me a list of each with players in it by the end of the night in your role-card, ranking which one player is higher/lower on each list. In short, this is effectively a read-list for you to PM me nightly as it has effects that can impact the game and many of them interact with how roles work. [color=forestgreen]**Hope Lists**[/color] should be the players you townread, [color=red]**Despair Lists**[/color] should be the players you scumread
+* [color=forestgreen]**The Hope Counter**[/color]/[color=red]**The Despair Counter**[/color] - Both of these counters begin at 0. Each member of [color=forestgreen]**the Forces of Hope**[/color] that is executed will raise [color=red]**the Despair Counter**[/color] by **2**, and each member of [color=red]**the Forces of Despair**[/color] that is executed will raise [color=forestgreen]**the Hope Counter**[/color] by **4**. Other actions may raise or lower these counters. These counters impact or even allow or disallow night and/or day action.
+* [color=goldenrod]**Monocoins**[/color] - In each day you may buy items to help you from the **School Shop**. Every player begins with **50** [color=goldenrod]**Monocoins**[/color] and will gain **30** more per night. Some actions also use or manipulate [color=goldenrod]**Monocoins**[/color], with more coins going towards players who show in in multiple [color=forestgreen]**Hope Lists**[/color]. 
+* **Kill Types** - There will be five different kind of kill types. [color=PURPLE]**Stab**[/color], [color=PURPLE]**Blunt**[/color], [color=PURPLE]**Shot**[/color], [color=PURPLE]**Bleed**[/color], and [color=PURPLE]**Asphyxiation**[/color]. There will be different kinds of countering to each of these kill types.
+* The [color=olive]**Student Council**[/color] will have their elections begin in the first day of the match. Players who are elected to it are allowed to gain special powers pertaining to the gameplay.
+
+### Shop Items
+Item | Effect | Price | Limit per Day
+---|---|---|---
+Kirlian Photography|During the night you have a 1-Shot Voyeur.|**30 [COLOR=goldenrod]Monocoins[/color]**|**None**
+Message in a Bottle|In the day sends a message to another player via the host.|**40 [COLOR=goldenrod]Monocoins[/color]**|**None**
+Earnest Compass|During the night you have a 1-Shot Track.|**50 [COLOR=goldenrod]Monocoins[/color]**|**None**
+Berserker Armor|Prevents [color=PURPLE]**Stab**[/color] kills on you for the coming night.| **60 [COLOR=goldenrod]Monocoins[/color]**|**None**
+Safety Half-Shoes|Prevents [color=PURPLE]**Blunt**[/color] kills on you for the coming night.| **60 [COLOR=goldenrod]Monocoins[/color]**|**None**
+Marine Snow|Prevents [color=PURPLE]**Asphyxiation**[/color] kills on you for the coming night.| **60 [COLOR=goldenrod]Monocoins[/color]**|**None**
+Bandage Wrap|Heals any [color=PURPLE]**Bleed**[/color] on you for today.| **60 [COLOR=goldenrod]Monocoins[/color]**|**None**
+Work Chair of Doom|During the night you have a 1-Shot Roleblock.|**90 [COLOR=goldenrod]Monocoins[/color]**|**None**
+Machine Parts Catalogue|Certain roles can use this for a special effect.|**110 [COLOR=goldenrod]Monocoins[/color]**|**One**
+Rose in Vitro|During the day you may increase the [color=forestgreen]**Hope Counter**[/color] or the [color=red]**Despair Counter**[/color] by 2.|**120 [COLOR=goldenrod]Monocoins[/color]**|**Four**
+Emperor&#39;s Thong|For the remainder of the game, you are immune to anti-claim mechanics.|**150 [COLOR=goldenrod]Monocoins[/color]**|**Two**
+Hagakure Crystal Ball|During the night you have a 1-Shot Alignment Cop.|**170 [COLOR=goldenrod]Monocoins[/color]**|**One**
+Golden Gun|During the night you have a 1-Shot Night Vig.|**220 [COLOR=goldenrod]Monocoins[/color]**|**One**
+
+### Monomono Machine
+From day two onward the **Monomono Machine** may be used if the player who is in charge of maintaining it is alive. For a cost of **40**(+**20** per day after D2) [color=goldenrod]**Monocoins**[/color] up to two players may use it and obtain random prizes.
+
+### The Student Council
+
+The [color=olive]**Student Council**[/color] has four open positions, each of them are elected throughout d1. During the day each player has a vote for each of the position, but a player can only occupy one position at a time.
+
+If a non-President member dies, then the President can appoint their replacement during the day. If the President dies, then there will be an election between the three other members in private. If all members die, then an emergency election, similar to the one held d1, is held.
+
+The [color=olive]**Student Council**[/color] has a special neighbourhood chat that can be used 24/7, and each of them has two special actions/passives that appear in addition to their rolecard.
+
+**Student Council President** :fleur_de_lis: 
+- If a member of the [color=olive]**Student Council**[/color] dies, then they can appoint their successor directly. If the **Student Counci President** dies, then an election will be held between the surviving [color=olive]**Student Council**[/color] members.
+- Once per match they may choose to publicly execute another member of the [color=olive]**Student Council**[/color]. This power has one use per President.
+
+**Student Council Treasurer** :trident:
+- Will have a x2 **[color=goldenrod]Monocoin[/color]** passive nightly generation and any time they receive extra **[color=goldenrod]Monocoin[/color]** the bonus will be boosted by 50%.
+- May decide to ban a player from using the **School Store** overnight each cycle. The ban will take place during the coming day.
+
+**Student Council Historian** :name_badge:
+- Depending on their alignment, either the **[color=forestgreen]Hope Counter[/color]** or the **[color=red]Despair Counter[/color]** will raise by an additional **1** at the end of the day.
+- Their **[color=forestgreen]Hope List[/color]** and **[color=red]Despair List[/color]**  both will be automatic and always be accurate, as in for the purpose of their actions it will depend on alignment rather than read.
+
+**Student Council Secretary** :beginner: 
+- Votes count for x2 in **Nonstop Debates**, **Scrum Debates**, and **Argument Armaments**. Cannot stack with other vote-gaining passives.
+- Able to grant clemency to a player, they won&#39;t be able to be the targets of a **Scrum Debate or Argument Armament**.
+
+# Executions
+
+Executions will occur during the day phase. There will be three forms of executions per day starting from the second day. **Nonstop Debates**, **Scrum Debates**, and **Argument Armaments**. Additionally, once the player count drops to 7 or less living players then **Scrum Debates** and **Argument Armaments** will be turned off, while all vote-alterning abilities such as rand prioritizers and multi-voting will be disabled.
+
+### A) Nonstop Debates
+**Nonstop Debates** will work on plurality. At the end of the day the player with the highest number of votes will be lynched. If there is a tie for the highest, then the lynch will be randed between the tied players. There will be a lynch via a **Nonstop Debate** in the first day.
+
+### B) Scrum Debates
+**Scrum Debates** will work on plurality. At the start of every day from the second day a random player in the match will be put to trial in a **Scrum Debate**. In this debate, four players who have them in their [color=red]**Despair List**[/color] and four other players who have them in their [color=forestgreen]**Hope List**[/color] will argue over their case. A player that is being debated on here cannot be voted to an execution via **Nonstop Debates**, and during the day the eight players on the debate will be able to vote either **Is the Culprit** or **Not the Culprit** and decide the debated player&#39;s fate. In the case of a tie, a rand will occur.
+
+### C) Argument Armament
+**Argument Armament** will work on plurality. At the start of every day from the second day, one of seven players with the highest number of listings in the [color=red]**Despair List**[/color] of other players will be put to trial via an **Argument Armament**. Any other player may decide to gladiate this player by posting **/This is a contradiction!** as long as they aren&#39;t the target of a **Scrum Debate**. Neither of the players in the gladiate may be voted in the **Nonstop Debates**, but all other players will be able to vote in either player in an **Argument Armament** alongside with their vote on a player via a **Nonstop Debate**.
+
+# Night Phase - Night Action and Feedback
+
+There will only be feedback for night actions for investigative actions. Please submit your night actions in your role card to take effect.
+
+# Role List
+
+This is a closed setup, ergo there are is not a class list, except everyone gains a role card and its matching flavor. in order for the game to not be flavor-broken, then any character may be a member of either the town or mafia, but be warned that there are links between character flavor and the role&#39;s actions.
+
+There is a fair caveat here that there will be heavy anti-slanking and anti-claiming, including partial claim, mechanics. Hard claim or slank at your own peril.
+
+There are no third parties, no conversions, and no form of bastard mechanics included, and no form of dead interaction, and there may or may not be lost wolves, there are no Tailors nor Framers, but there are Godfathers and Millers.
+
+All role cards will be characters from the games *Danganronpa: Trigger Happy Havoc,* *Danganronpa 2: Goodbye Despair*, and *Danganronpa v3: Killing Harmony*.
+
+### How the Claim Vig works.
+[color=red]**The Forces of Despair**[/color] begin with the Anti-Claimer V2. The requirements for the Anti-Claimer V2 to work is that the member of [color=forestgreen]**the Forces of Hope**[/color] needs to only claim **one** of the four actions/passives in their role card, and this shot will be both unstoppable and during the day. 
+
+Once the member of [color=red]**the Forces of Despair**[/color] that has the Anti-Claimer V2 dies, it will be downgraded to the Anti-Claimer V1. For the Anti-Claimer V1 to work the member of [color=forestgreen]**the Forces of Hope**[/color] needs to claim **at least three** of their four actions/passives in their role card, and this shot can be stopped and is used during the night, but it remaisn unassigned.
+
+However, there are players who are aligned with [color=forestgreen]**the Forces of Hope**[/color] that have an innate passive to be immune to anti-claim mechanics, and there is the **Emperor&#39;s Thong** item that makes its purchaser immune to anti-claim mechanics as well.  If [color=red]**the Forces of Despair**[/color]  attempts to anti-claim an immune claimer, they will know that the claimer is immune and they will still be able to use their anti-claim on another target today.
+
+
+# Joining
+
+To join, simply express interest in joining by saying something like &quot;I want to join&quot; or &quot;/join&quot; or &quot;/in&quot; or &quot;sign me up, coach&quot; or whatever you want.
+
+The game will roll on November 16th, 8:00 PM EST if at least 30 slots fill.
+
+# Players:
+&lt;!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--&gt;
+
+1. Arete
+2. Boss110
+3. Chiangsmokers
+4. DatBird
+5. Eevee
+6. Emilia
+7. Geyde
+8. Hippolytus
+9. Icibalus
+10. Insanity
+11. Italy
+12. Kai_5
+13. KyoDaz
+14. Lastday3312
+15. Limestone
+16. Luxy
+17. Magnus
+18. Marshall
+19. MaximusPrime
+20. Maxwell
+21. Mercenary
+22. Nuclear_Rehab
+23. Orangeandblack5
+24. Pilica
+25. PoisonedSquid
+26. PokemonKidRyan
+27. Reaper
+28. Red_Sea
+29. Ryast
+30. SetToBlow
+31. Shurian
+32. SirDerpsAlot
+33. Solic
+34. Soulshade55r
+35. ThatAsianGuy
+36. TrustworthyLiberal
+37. Universal
+38. WazzaAzza
+39. Wisdom
+
+# Back-ups.
+
+1. Simon
+3. ZoneQ11
+
+# Milestones</description>
+    
+    <lastBuildDate>Thu, 05 Dec 2019 20:33:43 +0000</lastBuildDate>
+    <category>Forum Matches</category>
+    <atom:link href="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[FM] Danganronpa FM [Canned]</title>
+        <dc:creator><![CDATA[Isaac_Gonzalez]]></dc:creator>
+        <description><![CDATA[
+            <p>lmao</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12558">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12558</link>
+        <pubDate>Thu, 05 Dec 2019 20:33:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79527-12558</guid>
+        <source url="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527.rss">[FM] Danganronpa FM [Canned]</source>
+      </item>
+      <item>
+        <title>[FM] Danganronpa FM [Canned]</title>
+        <dc:creator><![CDATA[Emilia]]></dc:creator>
+        <description><![CDATA[
+            <p>Wrong thread</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12557">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12557</link>
+        <pubDate>Thu, 05 Dec 2019 20:33:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79527-12557</guid>
+        <source url="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527.rss">[FM] Danganronpa FM [Canned]</source>
+      </item>
+      <item>
+        <title>[FM] Danganronpa FM [Canned]</title>
+        <dc:creator><![CDATA[Emilia]]></dc:creator>
+        <description><![CDATA[
+            <p>Since there a new ppl I am gonna say that I am Going to say that I am locktown And Thats part of My town meta</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12556">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12556</link>
+        <pubDate>Thu, 05 Dec 2019 20:33:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79527-12556</guid>
+        <source url="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527.rss">[FM] Danganronpa FM [Canned]</source>
+      </item>
+      <item>
+        <title>[FM] Danganronpa FM [Canned]</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/mercenary">@Mercenary</a></p>
+<p>Can you add me to the literature club neighborhood?</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12555">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12555</link>
+        <pubDate>Thu, 05 Dec 2019 20:28:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79527-12555</guid>
+        <source url="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527.rss">[FM] Danganronpa FM [Canned]</source>
+      </item>
+      <item>
+        <title>[FM] Danganronpa FM [Canned]</title>
+        <dc:creator><![CDATA[Icibalus]]></dc:creator>
+        <description><![CDATA[
+            <p>pro tip for checking other people’s reads: don’t try and look at the reasoning and see if it convicnes you, look at the person and see if you can see the thing that’s making them think that</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12554">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12554</link>
+        <pubDate>Thu, 05 Dec 2019 08:29:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79527-12554</guid>
+        <source url="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527.rss">[FM] Danganronpa FM [Canned]</source>
+      </item>
+      <item>
+        <title>[FM] Danganronpa FM [Canned]</title>
+        <dc:creator><![CDATA[Ami]]></dc:creator>
+        <description><![CDATA[
+            <p>valid</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12553">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12553</link>
+        <pubDate>Thu, 05 Dec 2019 01:32:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79527-12553</guid>
+        <source url="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527.rss">[FM] Danganronpa FM [Canned]</source>
+      </item>
+      <item>
+        <title>[FM] Danganronpa FM [Canned]</title>
+        <dc:creator><![CDATA[Luxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Probably will be overseas still</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12552">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12552</link>
+        <pubDate>Thu, 05 Dec 2019 01:32:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79527-12552</guid>
+        <source url="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527.rss">[FM] Danganronpa FM [Canned]</source>
+      </item>
+      <item>
+        <title>[FM] Danganronpa FM [Canned]</title>
+        <dc:creator><![CDATA[Maxwell]]></dc:creator>
+        <description><![CDATA[
+            <p>he was town’s last chance<br>
+would not be surprised if he had u guys solved</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12551">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12551</link>
+        <pubDate>Thu, 05 Dec 2019 01:31:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79527-12551</guid>
+        <source url="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527.rss">[FM] Danganronpa FM [Canned]</source>
+      </item>
+      <item>
+        <title>[FM] Danganronpa FM [Canned]</title>
+        <dc:creator><![CDATA[Maxwell]]></dc:creator>
+        <description><![CDATA[
+            <p>good</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12550">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12550</link>
+        <pubDate>Thu, 05 Dec 2019 01:30:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79527-12550</guid>
+        <source url="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527.rss">[FM] Danganronpa FM [Canned]</source>
+      </item>
+      <item>
+        <title>[FM] Danganronpa FM [Canned]</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            <p>Yes</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12549">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12549</link>
+        <pubDate>Thu, 05 Dec 2019 01:30:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79527-12549</guid>
+        <source url="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527.rss">[FM] Danganronpa FM [Canned]</source>
+      </item>
+      <item>
+        <title>[FM] Danganronpa FM [Canned]</title>
+        <dc:creator><![CDATA[Maxwell]]></dc:creator>
+        <description><![CDATA[
+            <p>did you guys kill hippo n2</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12548">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12548</link>
+        <pubDate>Thu, 05 Dec 2019 01:29:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79527-12548</guid>
+        <source url="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527.rss">[FM] Danganronpa FM [Canned]</source>
+      </item>
+      <item>
+        <title>[FM] Danganronpa FM [Canned]</title>
+        <dc:creator><![CDATA[Ami]]></dc:creator>
+        <description><![CDATA[
+            <p>uh when candlelight comes up you wanna co-host it with me</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12547">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12547</link>
+        <pubDate>Thu, 05 Dec 2019 01:29:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79527-12547</guid>
+        <source url="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527.rss">[FM] Danganronpa FM [Canned]</source>
+      </item>
+      <item>
+        <title>[FM] Danganronpa FM [Canned]</title>
+        <dc:creator><![CDATA[Ami]]></dc:creator>
+        <description><![CDATA[
+            <p>fol 11 is like my top scum game<br>
+i caused the cult to get hindered and then was able to drag it to victory</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12546">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12546</link>
+        <pubDate>Thu, 05 Dec 2019 01:28:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79527-12546</guid>
+        <source url="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527.rss">[FM] Danganronpa FM [Canned]</source>
+      </item>
+      <item>
+        <title>[FM] Danganronpa FM [Canned]</title>
+        <dc:creator><![CDATA[Luxy]]></dc:creator>
+        <description><![CDATA[
+            <p>I played like shit too <img src="/images/emoji/twitter/+1.png?v=9" title=":+1:" class="emoji" alt=":+1:"></p>
+          <p><a href="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12545">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12545</link>
+        <pubDate>Thu, 05 Dec 2019 01:27:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79527-12545</guid>
+        <source url="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527.rss">[FM] Danganronpa FM [Canned]</source>
+      </item>
+      <item>
+        <title>[FM] Danganronpa FM [Canned]</title>
+        <dc:creator><![CDATA[Ami]]></dc:creator>
+        <description><![CDATA[
+            <p>yea, i played like shit but eh<br>
+what can you do</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12544">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12544</link>
+        <pubDate>Thu, 05 Dec 2019 01:27:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79527-12544</guid>
+        <source url="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527.rss">[FM] Danganronpa FM [Canned]</source>
+      </item>
+      <item>
+        <title>[FM] Danganronpa FM [Canned]</title>
+        <dc:creator><![CDATA[Maxwell]]></dc:creator>
+        <description><![CDATA[
+            <p>wow</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12543">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12543</link>
+        <pubDate>Thu, 05 Dec 2019 01:26:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79527-12543</guid>
+        <source url="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527.rss">[FM] Danganronpa FM [Canned]</source>
+      </item>
+      <item>
+        <title>[FM] Danganronpa FM [Canned]</title>
+        <dc:creator><![CDATA[Luxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Kai was lost wolf this game</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12542">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12542</link>
+        <pubDate>Thu, 05 Dec 2019 01:26:32 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79527-12542</guid>
+        <source url="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527.rss">[FM] Danganronpa FM [Canned]</source>
+      </item>
+      <item>
+        <title>[FM] Danganronpa FM [Canned]</title>
+        <dc:creator><![CDATA[Ami]]></dc:creator>
+        <description><![CDATA[
+            <p>if you want clutch kai see fol 11</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12541">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12541</link>
+        <pubDate>Thu, 05 Dec 2019 01:26:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79527-12541</guid>
+        <source url="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527.rss">[FM] Danganronpa FM [Canned]</source>
+      </item>
+      <item>
+        <title>[FM] Danganronpa FM [Canned]</title>
+        <dc:creator><![CDATA[Ami]]></dc:creator>
+        <description><![CDATA[
+            <p>clutch implies the game was close<br>
+it was not</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12540">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12540</link>
+        <pubDate>Thu, 05 Dec 2019 01:26:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79527-12540</guid>
+        <source url="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527.rss">[FM] Danganronpa FM [Canned]</source>
+      </item>
+      <item>
+        <title>[FM] Danganronpa FM [Canned]</title>
+        <dc:creator><![CDATA[Maxwell]]></dc:creator>
+        <description><![CDATA[
+            <p>u were uber clutch in marson</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12539">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12539</link>
+        <pubDate>Thu, 05 Dec 2019 01:25:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79527-12539</guid>
+        <source url="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527.rss">[FM] Danganronpa FM [Canned]</source>
+      </item>
+      <item>
+        <title>[FM] Danganronpa FM [Canned]</title>
+        <dc:creator><![CDATA[Ami]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Maxwell" data-post="12448" data-topic="79527">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/maxwell/40/20105_2.png" class="avatar"> Maxwell:</div>
+<blockquote>
+<p>i don’t have them either; i’d say we’re about even in that regard<br>
+but players like hippo, kai, eevee, geyde, etc. all do</p>
+</blockquote>
+</aside>
+<p>hahahahahahahahaha be being able to clutch as town with my reads</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12538">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12538</link>
+        <pubDate>Thu, 05 Dec 2019 01:24:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79527-12538</guid>
+        <source url="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527.rss">[FM] Danganronpa FM [Canned]</source>
+      </item>
+      <item>
+        <title>[FM] Danganronpa FM [Canned]</title>
+        <dc:creator><![CDATA[Maxwell]]></dc:creator>
+        <description><![CDATA[
+            <p>it’s fully true<br>
+but it’s a closely guarded secret which must never be shared publicly</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12537">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12537</link>
+        <pubDate>Thu, 05 Dec 2019 01:24:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79527-12537</guid>
+        <source url="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527.rss">[FM] Danganronpa FM [Canned]</source>
+      </item>
+      <item>
+        <title>[FM] Danganronpa FM [Canned]</title>
+        <dc:creator><![CDATA[Luxy]]></dc:creator>
+        <description><![CDATA[
+            <p>I know but I want to know if hes bullshitting or not</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12536">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12536</link>
+        <pubDate>Thu, 05 Dec 2019 01:22:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79527-12536</guid>
+        <source url="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527.rss">[FM] Danganronpa FM [Canned]</source>
+      </item>
+      <item>
+        <title>[FM] Danganronpa FM [Canned]</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            <p>I told you in scum chat <img src="/images/emoji/twitter/eyes.png?v=9" title=":eyes:" class="emoji" alt=":eyes:"></p>
+          <p><a href="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12535">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12535</link>
+        <pubDate>Thu, 05 Dec 2019 01:19:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79527-12535</guid>
+        <source url="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527.rss">[FM] Danganronpa FM [Canned]</source>
+      </item>
+      <item>
+        <title>[FM] Danganronpa FM [Canned]</title>
+        <dc:creator><![CDATA[Luxy]]></dc:creator>
+        <description><![CDATA[
+            <p>What was it then?</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12534">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527/12534</link>
+        <pubDate>Thu, 05 Dec 2019 01:16:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79527-12534</guid>
+        <source url="https://forum.throneoflies.com/t/fm-danganronpa-fm-canned/79527.rss">[FM] Danganronpa FM [Canned]</source>
+      </item>
+  </channel>
+</rss>

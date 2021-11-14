@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[Class Suggestion] The Brigand (Unique Neutral Offensive)</title>
+    <link>https://forum.throneoflies.com/t/class-suggestion-the-brigand-unique-neutral-offensive/68644</link>
+    <description>**The Brigand** (Unique Neutral Offensive) - AKA Neutral Nuisance
+
+**Goal: Steal from 5 different targets.**
+
+Day Ability 1: **Mimic** (2 uses)
+Utilise your stolen ability tonight.
+
+* The limited-use ability you take from a targeted player using _Steal_ or _Mug_ will be banked in your Day ability, **Mimic**.
+* You may choose to activate this ability in order to use one of your stolen abilities, which will be used that night alongside your standard Night abilities.
+* These abilities do not count as visits.
+* You set the parameters for these abilities during the day. For example, if you choose to _Mimic_ the **Invoker**&#39;s _Chains of Corax_, you would select which targets would be affected at that time.
+* If you do not select your parameters by the time the day is over, the _Mimic_ is not used up and nothing happens.
+* You will be notified if your _Mimic_ failed in any way at the end of the night, with the appropriate response given depending on how it failed.
+
+
+Night Ability 1: **Steal**
+Steal an ability from your chosen target.
+
+* This will take a use of a limited-use ability away from your target, and give you the option to _Mimic_ it at a later date.
+* For example, if you were to _Steal_ from a **Noble** or **Aristocrat**, you would remove one use of their _Maid Spy_ abilities, and add that to your collection of _Mimic_ abilities.
+
+**The full list of abilities that would be stolen from the Thief:**
+
+* **BLUE DRAGON:**
+1. **Butler** - _Concentrated Wine_
+2. **Court Wizard** - _Tornado_
+3. **Drunk** - _Happy Hour_
+4. **Hunter** - _Wolf Companion_ (Not Mimic-able)
+5. **Knight** - N/A
+6. **Mystic** - N/A
+7. **Noble** - _Maid Spy_
+8. **Observer** - _Window Peek_
+9. **Paladin** - _Smite_ (Not Mimic-able)
+10. **Physician** - _Self-Care_
+11. **Prince** - NA
+12. **Princess** - _Will-o-Wisp_
+13. **Sheriff** - _Surveillance_
+
+* **UNSEEN:**
+1. **Alcoholic** - _Happy Hour_
+2. **Assassin** - _2-For-1_ (Not Mimic-able)
+3. **Aristocrat** - _Maid Spy_
+4. **Duchess** - _Dark Wisp_ (_Mimic_ gives _Will-o-Wisp_)
+5. **Enforcer** - _Protection_ (Use on self)
+6. **Herbalist** - _Drug_
+7. **Illusionist** - _Mental Blur_
+8. **Marshal** - _Snoop_
+9. **Mastermind** - N/A
+10. **Nightwatch** - _Watch Carefully_
+11. **Poacher** - _Spike Traps_
+12. **Sage** - _Wall of Fire_ (_Mimic_ gives _Tornado_)
+13. **Servant** - _Concentrated Wine_
+
+* **CULT**
+1. **Apostle** - _Mind Warp_
+2. **Cult Leader** - _Eradicate_ (Not Mimic-able)
+3. **Invoker** - _Chains of Corax_
+4. **Ritualist** - _Teleportation_
+5. **Seeker** - _Gaze_
+
+* **NEUTRAL**
+1. **Alchemist** - _Emerald Potion_ (Not Mimic-able)
+2. **Fool** - _Hide_
+3. **Inquisitor** - _Ruthless Efficiency_ (Not Mimic-able)
+4. **Mercenary** - N/A
+5. **Possessor** - _Possess_ (Not Mimic-able)
+6. **Reaper** - N/A
+7. **Scorned** - _Frame_
+8. **Sellsword** - N/A
+9. **Sorcerer** - _Circle of Death_ (Not Mimic-able)
+
+* If you attempt to _Steal_ from the **Prince**, the **Mystic**, the **Mastermind**, a target who has no limited-use abilities, or a target which has run out of their limited-use ability, your steal will fail, and you will get a message saying that you could not steal from them.
+* If you _Steal_ a target&#39;s use of a limited-use ability that would allow you to kill a target, the ability is taken, but is not added to your collection of _Mimic_ abilities.
+* If the target that you _Steal_ from would use up their last use of their limited-use ability (e.g. if you attempt to steal a **Drunk** or **Alcoholic**&#39;s final _Happy Hour_ as they choose to use it that same night), they will use that ability and you will receive the aforementioned failed steal message.
+* If you attempt to _Steal_ from a **Hunter** that uses their _Bear Companion_ that night, you will not die, but you will fail to steal from them.
+* Your target will be notified that they have been stolen from.
+* You can only _Steal_ from a target once, unless you have been redirected to target them again.
+* If your target dies that night, you will still _Steal_ from them, however a message will appear the next day saying the dead have been desecrated, effectively announcing the existence of a **Brigand** to the court.
+* You cannot target the King.
+
+
+Night Ability 2 (Optional): **Mug** (2 uses)
+Threaten the target you steal from into silence for a day.
+
+Identical to _Steal_, but with the following changes:
+
+* The target you _Mug_ will not only have their limited-use ability stolen, but also will not be able to talk, whisper, or vote the next day.
+* If you attempt to _Mug_ the **Prince**, the **Mystic**, the **Mastermind**, a target who has no limited-use abilities, or a target which has run out of their limited-use ability, your mugging will fail, and your target will still be able to talk, whisper, and vote the next day.
+* If the target that you _Mug_ would use up their last use of their limited-use ability (e.g. if you attempt to steal a **Drunk** or **Alcoholic**’s final _Happy Hour_ as they choose to use it that same night), you will steal that ability instead, and they will be prevented from using their ability.
+* If you attempt to _Mug_ a **Hunter** that uses their _Bear Companion_ that night, you will fail to steal from them, and you will be killed as if you were attacking the Hunter.
+
+Lore:
+TODO
+
+Comments:
+Once this class has achieved its goal, it loses its Day and Night abilities and becomes an extra vote for whichever faction can lure it over.</description>
+    
+    <lastBuildDate>Thu, 28 Jun 2018 09:42:16 +0000</lastBuildDate>
+    <category>Class/Lore/Fanfic</category>
+    <atom:link href="https://forum.throneoflies.com/t/class-suggestion-the-brigand-unique-neutral-offensive/68644.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[Class Suggestion] The Brigand (Unique Neutral Offensive)</title>
+        <dc:creator><![CDATA[Solic]]></dc:creator>
+        <description><![CDATA[
+            <p>This class should not be able to determine alignments so easily. It is not relevant to their objective and makes them able to play BD-aligned really easily. Stealing from an unseen/cult/neutral should not give the Brigand an unseen/cult/neutral skill.</p>
+<p>Thief is also a way more appropriate name I think, but your call.</p>
+<p>I think silent stealing is also a lot better than confirming to your target that there is a brigand, making it impossible to fakeclaim. It should just give a prevented message once the one who technically has no more skill uses (even though it shows there are still skill uses) uses the skill.</p>
+<p>This version of Brigand is super confirmable and really BD-sided.</p>
+<p>Also he should have some form of survivability like every other neutral has. He needs to survive at least 5 nights after all minimum. Should also be occupy immune in my opinion, he cannot afford to miss nights.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-the-brigand-unique-neutral-offensive/68644/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-the-brigand-unique-neutral-offensive/68644/3</link>
+        <pubDate>Thu, 28 Jun 2018 09:42:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-68644-3</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-the-brigand-unique-neutral-offensive/68644.rss">[Class Suggestion] The Brigand (Unique Neutral Offensive)</source>
+      </item>
+      <item>
+        <title>[Class Suggestion] The Brigand (Unique Neutral Offensive)</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Prince should be able to be stolen from.</p>
+<p>He isn’t special.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-the-brigand-unique-neutral-offensive/68644/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-the-brigand-unique-neutral-offensive/68644/2</link>
+        <pubDate>Thu, 28 Jun 2018 03:33:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-68644-2</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-the-brigand-unique-neutral-offensive/68644.rss">[Class Suggestion] The Brigand (Unique Neutral Offensive)</source>
+      </item>
+      <item>
+        <title>[Class Suggestion] The Brigand (Unique Neutral Offensive)</title>
+        <dc:creator><![CDATA[BlueStorm]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>The Brigand</strong> (Unique Neutral Offensive) - AKA Neutral Nuisance</p>
+<p><strong>Goal: Steal from 5 different targets.</strong></p>
+<p>Day Ability 1: <strong>Mimic</strong> (2 uses)<br>
+Utilise your stolen ability tonight.</p>
+<ul>
+<li>The limited-use ability you take from a targeted player using <em>Steal</em> or <em>Mug</em> will be banked in your Day ability, <strong>Mimic</strong>.</li>
+<li>You may choose to activate this ability in order to use one of your stolen abilities, which will be used that night alongside your standard Night abilities.</li>
+<li>These abilities do not count as visits.</li>
+<li>You set the parameters for these abilities during the day. For example, if you choose to <em>Mimic</em> the <strong>Invoker</strong>’s <em>Chains of Corax</em>, you would select which targets would be affected at that time.</li>
+<li>If you do not select your parameters by the time the day is over, the <em>Mimic</em> is not used up and nothing happens.</li>
+<li>You will be notified if your <em>Mimic</em> failed in any way at the end of the night, with the appropriate response given depending on how it failed.</li>
+</ul>
+<p>Night Ability 1: <strong>Steal</strong><br>
+Steal an ability from your chosen target.</p>
+<ul>
+<li>This will take a use of a limited-use ability away from your target, and give you the option to <em>Mimic</em> it at a later date.</li>
+<li>For example, if you were to <em>Steal</em> from a <strong>Noble</strong> or <strong>Aristocrat</strong>, you would remove one use of their <em>Maid Spy</em> abilities, and add that to your collection of <em>Mimic</em> abilities.</li>
+</ul>
+<p><strong>The full list of abilities that would be stolen from the Thief:</strong></p>
+<ul>
+<li><strong>BLUE DRAGON:</strong></li>
+</ul>
+<ol>
+<li>
+<strong>Butler</strong> - <em>Concentrated Wine</em>
+</li>
+<li>
+<strong>Court Wizard</strong> - <em>Tornado</em>
+</li>
+<li>
+<strong>Drunk</strong> - <em>Happy Hour</em>
+</li>
+<li>
+<strong>Hunter</strong> - <em>Wolf Companion</em> (Not Mimic-able)</li>
+<li>
+<strong>Knight</strong> - N/A</li>
+<li>
+<strong>Mystic</strong> - N/A</li>
+<li>
+<strong>Noble</strong> - <em>Maid Spy</em>
+</li>
+<li>
+<strong>Observer</strong> - <em>Window Peek</em>
+</li>
+<li>
+<strong>Paladin</strong> - <em>Smite</em> (Not Mimic-able)</li>
+<li>
+<strong>Physician</strong> - <em>Self-Care</em>
+</li>
+<li>
+<strong>Prince</strong> - NA</li>
+<li>
+<strong>Princess</strong> - <em>Will-o-Wisp</em>
+</li>
+<li>
+<strong>Sheriff</strong> - <em>Surveillance</em>
+</li>
+</ol>
+<ul>
+<li><strong>UNSEEN:</strong></li>
+</ul>
+<ol>
+<li>
+<strong>Alcoholic</strong> - <em>Happy Hour</em>
+</li>
+<li>
+<strong>Assassin</strong> - <em>2-For-1</em> (Not Mimic-able)</li>
+<li>
+<strong>Aristocrat</strong> - <em>Maid Spy</em>
+</li>
+<li>
+<strong>Duchess</strong> - <em>Dark Wisp</em> (<em>Mimic</em> gives <em>Will-o-Wisp</em>)</li>
+<li>
+<strong>Enforcer</strong> - <em>Protection</em> (Use on self)</li>
+<li>
+<strong>Herbalist</strong> - <em>Drug</em>
+</li>
+<li>
+<strong>Illusionist</strong> - <em>Mental Blur</em>
+</li>
+<li>
+<strong>Marshal</strong> - <em>Snoop</em>
+</li>
+<li>
+<strong>Mastermind</strong> - N/A</li>
+<li>
+<strong>Nightwatch</strong> - <em>Watch Carefully</em>
+</li>
+<li>
+<strong>Poacher</strong> - <em>Spike Traps</em>
+</li>
+<li>
+<strong>Sage</strong> - <em>Wall of Fire</em> (<em>Mimic</em> gives <em>Tornado</em>)</li>
+<li>
+<strong>Servant</strong> - <em>Concentrated Wine</em>
+</li>
+</ol>
+<ul>
+<li><strong>CULT</strong></li>
+</ul>
+<ol>
+<li>
+<strong>Apostle</strong> - <em>Mind Warp</em>
+</li>
+<li>
+<strong>Cult Leader</strong> - <em>Eradicate</em> (Not Mimic-able)</li>
+<li>
+<strong>Invoker</strong> - <em>Chains of Corax</em>
+</li>
+<li>
+<strong>Ritualist</strong> - <em>Teleportation</em>
+</li>
+<li>
+<strong>Seeker</strong> - <em>Gaze</em>
+</li>
+</ol>
+<ul>
+<li><strong>NEUTRAL</strong></li>
+</ul>
+<ol>
+<li>
+<strong>Alchemist</strong> - <em>Emerald Potion</em> (Not Mimic-able)</li>
+<li>
+<strong>Fool</strong> - <em>Hide</em>
+</li>
+<li>
+<strong>Inquisitor</strong> - <em>Ruthless Efficiency</em> (Not Mimic-able)</li>
+<li>
+<strong>Mercenary</strong> - N/A</li>
+<li>
+<strong>Possessor</strong> - <em>Possess</em> (Not Mimic-able)</li>
+<li>
+<strong>Reaper</strong> - N/A</li>
+<li>
+<strong>Scorned</strong> - <em>Frame</em>
+</li>
+<li>
+<strong>Sellsword</strong> - N/A</li>
+<li>
+<strong>Sorcerer</strong> - <em>Circle of Death</em> (Not Mimic-able)</li>
+</ol>
+<ul>
+<li>If you attempt to <em>Steal</em> from the <strong>Prince</strong>, the <strong>Mystic</strong>, the <strong>Mastermind</strong>, a target who has no limited-use abilities, or a target which has run out of their limited-use ability, your steal will fail, and you will get a message saying that you could not steal from them.</li>
+<li>If you <em>Steal</em> a target’s use of a limited-use ability that would allow you to kill a target, the ability is taken, but is not added to your collection of <em>Mimic</em> abilities.</li>
+<li>If the target that you <em>Steal</em> from would use up their last use of their limited-use ability (e.g. if you attempt to steal a <strong>Drunk</strong> or <strong>Alcoholic</strong>’s final <em>Happy Hour</em> as they choose to use it that same night), they will use that ability and you will receive the aforementioned failed steal message.</li>
+<li>If you attempt to <em>Steal</em> from a <strong>Hunter</strong> that uses their <em>Bear Companion</em> that night, you will not die, but you will fail to steal from them.</li>
+<li>Your target will be notified that they have been stolen from.</li>
+<li>You can only <em>Steal</em> from a target once, unless you have been redirected to target them again.</li>
+<li>If your target dies that night, you will still <em>Steal</em> from them, however a message will appear the next day saying the dead have been desecrated, effectively announcing the existence of a <strong>Brigand</strong> to the court.</li>
+<li>You cannot target the King.</li>
+</ul>
+<p>Night Ability 2 (Optional): <strong>Mug</strong> (2 uses)<br>
+Threaten the target you steal from into silence for a day.</p>
+<p>Identical to <em>Steal</em>, but with the following changes:</p>
+<ul>
+<li>The target you <em>Mug</em> will not only have their limited-use ability stolen, but also will not be able to talk, whisper, or vote the next day.</li>
+<li>If you attempt to <em>Mug</em> the <strong>Prince</strong>, the <strong>Mystic</strong>, the <strong>Mastermind</strong>, a target who has no limited-use abilities, or a target which has run out of their limited-use ability, your mugging will fail, and your target will still be able to talk, whisper, and vote the next day.</li>
+<li>If the target that you <em>Mug</em> would use up their last use of their limited-use ability (e.g. if you attempt to steal a <strong>Drunk</strong> or <strong>Alcoholic</strong>’s final <em>Happy Hour</em> as they choose to use it that same night), you will steal that ability instead, and they will be prevented from using their ability.</li>
+<li>If you attempt to <em>Mug</em> a <strong>Hunter</strong> that uses their <em>Bear Companion</em> that night, you will fail to steal from them, and you will be killed as if you were attacking the Hunter.</li>
+</ul>
+<p>Lore:<br>
+TODO</p>
+<p>Comments:<br>
+Once this class has achieved its goal, it loses its Day and Night abilities and becomes an extra vote for whichever faction can lure it over.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-the-brigand-unique-neutral-offensive/68644/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-the-brigand-unique-neutral-offensive/68644/1</link>
+        <pubDate>Thu, 28 Jun 2018 03:29:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-68644-1</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-the-brigand-unique-neutral-offensive/68644.rss">[Class Suggestion] The Brigand (Unique Neutral Offensive)</source>
+      </item>
+  </channel>
+</rss>

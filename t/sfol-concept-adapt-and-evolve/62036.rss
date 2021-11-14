@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>SFoL Concept: Adapt and Evolve</title>
+    <link>https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036</link>
+    <description>Im planning to host a SFoL in the future named Adapt and Evolve. The SFoL is pretty far down the list so it won&#39;t be happening any time soon (SFoL 33), however I wanted some feedback and/or suggestions about it. 
+The reason why I&#39;m looking for feedback this early is because the game will have a big number of classes so I want to post some of the class cards from time to time so you can help me with stuff like balance.
+ 
+The game is similar to classic FoL, with an added &quot;evolution&quot; mechanic. Basically, all classes are divided into 3 tiers. All players begin in tier 1 and must perform certain actions to &quot;evolve&quot;, which will change their class to one of the tier 2 classes, depending on which &quot;quest&quot; they completed.
+Evolving from tier 1 to tier 2 is really easy and is more like a choice than a quest. Evolving from tier 2 to tier 3 however is harder. 
+As an example of this, here is the King&#39;s evolution tree (Spoiler, there are 7 different &quot;King&quot; roles):
+
+
+[details=&quot;The Leader&#39;s Evolution tree&quot;]
+&gt; &lt;big&gt;**The Leader**&lt;/big&gt;
+&gt; **Unknown faction, Special, Tier 1.**
+&gt; **Loyalty (Passive)** - Immune to occupation and redirection. If you are a member of the Blue Dragon and are lynched, there won’t be any trials the following day.
+&gt; **Guards! (Night)** – Send your guards to protect a player, making them immune to death. Can target yourself. - 1 use.
+
+&gt;**The Leader evolutions:**
+&gt;* **Use your “Guards” ability on yourself**: - Evolve into “**The King**”
+&gt;* **Use your “Guards” ability on someone else:** - Evolve into “**The Queen**”
+
+&gt; &lt;big&gt;**The King**&lt;/big&gt;
+&gt; **Unknown faction, Special, Tier 2. Evolves from The Leader.**
+&gt; **Loyalty (Passive)** - Immune to occupation and redirection. If you are a member of the Blue Dragon and are lynched, there won’t be any trials the following day.
+&gt; **Head of State (Passive)** - Your votes count as two.
+&gt; **Guards! (Night)** - Send your guards to protect a player, making them immune to death. Can target yourself. - 5 uses if starting Leader, 3 otherwise. 
+
+&gt; **The King evolutions**:
+&gt; * **Successfully block an attack on yourself or another player with “Guards!”** – Evolve into **the Emperor.**
+&gt; * **Execute a player that isn’t aligned to your faction after accusing them.** – Evolve into **the Tyrant.**
+
+
+
+&gt; &lt;big&gt;**The Queen**&lt;/big&gt;
+&gt; **Unknown faction, Special, Tier 2. Evolves from The Leader.**
+&gt; **Loyalty (Passive)** - Immune to occupation and redirection.  If you are a member of the Blue Dragon and are lynched, there won’t be any trials the following day.
+&gt; **The Royal Finger (Day)** – Instantly put up a player on trial. - 2 uses if starting leader, 1 otherwise.
+&gt; **Guards! (Night)** - Send your guards to protect a player, preventing all visits to them. Can target yourself. 3 uses if starting Leader, 2 otherwise.
+
+&gt; **The Queen&#39;s evolutions:** 
+&gt; * **Execute a player that is not aligned to your faction after using “The Royal Finger”** – Evolve into **the Empress.**
+&gt; * **Prevent a total of 2 or more players from visiting you or someone else with “Guards!”**. – Evolve into **the Monarch.**
+
+&gt; &lt;big&gt;**The Tyrant**&lt;/big&gt;
+&gt; **Unknown faction, Special, Tier 3. Evolves from The King.**
+&gt; **Loyalty (Passive)** - Immune to occupation and redirection. If you are a member of the Blue Dragon and are lynched, there won’t be any trials the following day.
+&gt; **Head of State (Passive)** -  Your votes count as two.
+&gt; **Decide Fate (Day)** – Decide the fate of a player. 1 use.
+&gt; **Guards! (Night)** - Send your guards to protect a player, Making them immune to death. Can target yourself. - Starts with the same number of uses you had before evolving.
+&gt; **Order Execution (Night)** – Kill a player. The entire court will know you did it. Goes through immunity and healing. - 2 uses if starting Leader, 1 otherwise.
+
+
+&gt; &lt;big&gt;**The Emperor**&lt;/big&gt;
+&gt; **Unknown faction, Special, Tier 3. Evolves from The King**
+&gt; **Loyalty (Passive)** - Immune to occupation and redirection. If you are a member of the Blue Dragon and are lynched, there won’t be any trials the following day.
+&gt; **Head of State (Passive)** - Your votes count as two.
+&gt; **Order (Day)** – Prevent a player from voting, using day abilities and using night abilities until tomorrow. Goes through occupy immunity. - 2 uses if starting leader, 1 otherwise.
+&gt; **Guards! (Night)** - Send your guards to protect a player, Making them immune to death. Can target yourself. -  Starts with the same number of uses you had before evolving.
+&gt; **Direct orders (Night)** – Force a player to target another. Goes through occupy immunity. - 2 uses if starting leader, 1 otherwise.
+
+&gt; &lt;big&gt;**The Monarch**&lt;/big&gt;
+&gt; **Unknown faction, Special, Tier 3. Evolves from The Queen.**
+&gt; **Loyalty (Passive)** - Immune to occupation and redirection. If you are a member of the Blue Dragon and are lynched, there won’t be any trials the following day.
+&gt; **Royal Audience (Passive)** - You may speak to royals at night.
+&gt; **The Royal Finger (Day)** – Instantly put up a player on trial. - Starts with the same number of uses you had before evolving.
+&gt; **Heir (Day)** – Give Royal Blood to a player or take it away from them. - 2 uses if starting Leader, 1 otherwise.
+&gt; **Guards! (Night)** - Send your guards to protect a player, preventing all visits to them. Can target yourself. - Starts with the same number of uses you had before evolving.
+&gt; **Royal Decree (Night)** – Select a player. They cannot be lynched tomorrow. - 3 uses.
+
+&gt; &lt;big&gt;**The Empress**&lt;/big&gt;
+&gt; **Unknown faction, Special, Tier 3. Evolves from The Queen.**
+&gt; **Loyalty (Passive)** - Immune to occupation and redirection. If you are a member of the Blue Dragon and are lynched, there won’t be any trials the following day. 
+&gt; **The Royal Finger (Day)** – Instantly put up a player on trial. - Starts with the same number of uses you had before evolving.
+&gt; **Interrogation (Day)** – Check the class type of a player. - 2 uses.
+&gt; **Guards! (Night)** - Send your guards to protect a player, preventing all visits to them. Can target yourself. - Starts with the same number of uses you had before evolving.
+&gt; **Allies (Night)** – Check a player’s faction. - 2 uses.
+[/details]
+
+
+[details=&quot;The Investigator&#39;s Evolution tree&quot;]
+&gt; &lt;big&gt;[color=blue]**The Investigator**[/color]&lt;/big&gt;
+&gt;**Blue Dragon Investigative, Tier 1.**
+&gt; **Follow (Night)** – Follow a player to find out who visits them and who they visit. – Unlimited uses.
+&gt; **Flirt (Night)** – Flirt with a player, you get a pairing of class types. Their class type will be one of the two. The pairings are Killer/Offensive, Support/Social and Special/Investigative. - Infinite uses - Unlimited uses.
+
+&gt; **Follow a player**: Evolve into **the Observer**.
+&gt; **Use flirt on a player**: Evolve into **the Princess**.
+
+&gt; &lt;big&gt;[color=blue]**The Observer**[/color]&lt;/big&gt;
+&gt;**Blue Dragon Investigative, Tier 2. Evolves from the Investigator.**
+&gt; **Little Bird (Day)** - Send a bird to watch if a player leaves their room that night. You will be told if they did or not the next morning. - Infinite uses
+&gt; **Follow (Night)** - Follow (Night) - Watch someone to see who visits them and who they visit. - Infinite uses
+&gt; **Window Peek** - Discover a player’s faction. - 2 uses
+
+&gt;**Watch a potential murder with &quot;Follow&quot;**: Evolve into **the Gravekeeper.** (_A potential murder is when you watch someone on the night of their death or watch someone visit a player that died the same night._)
+&gt;**Get a non-BD result with &quot;Window Peek&quot;**: Evolve into **the Executioner.** (_Read the Waiter&#39;s Evolution Tree for more info._)
+
+&gt; &lt;big&gt;[color=blue]**The Princess**[/color]&lt;/big&gt;
+&gt; **Blue Dragon Investigative, Tier 2. Evolves from the Investigator.**
+&gt; **Royal Blood (Passive)** - You can step up to become the new King earlier than other players.
+&gt; **Flirt (Night)** - Flirt with a player, you get a pairing of class types. Their class type will be one of the two. The pairings are Killer/Offensive, Support/Social and Special/Investigative. - Infinite uses
+&gt; **Will-o-wisp (Night)** - Release a Will O’ Wisp, lighting your target’s room. If they try to kill somebody, you will know (laying eggs counts as an attack, hatching eggs doesn&#39;t). - 2 uses
+
+&gt;Find at least one player of each pairing with flirt OR watch an attack with Will-o-Wisp: Evolve into **the Librarian**.
+&gt;Use your royal blood to become a Leader: Evolve into **the Empress** (see Leader&#39;s evolution tree to check its classcard). You will have 3 guards and all other abilities will have the same number of uses as if you were a starting leader.
+
+&gt; &lt;big&gt;[color=blue]**The Gravekeeper**[/color]&lt;/big&gt;
+&gt; **Blue Dragon, Investigative, Tier 3. Evolves from the Observer or the Physician.**
+&gt;**Last Breath (Passive)** - If you die at night, the court will know the results of any abilities you used on the night you died.
+&gt; **Change of Faith (Day)** - You will know if the Matriarch uses &quot;Hatch&quot; tonight. (You will not know who they converted). 2 uses.
+&gt; **Stalk (Night)** - Select a player. You will know who visits your target and who they visit. If a Killer, Offensive or Special role visits your target you will be alerted. Unlimited uses.(If one of those class types visits your target you will get the following message: “You saw a suspicious figure visit your target last night.”. You wont be alerted if the Mastermind visits your target the first 3 nights)..
+&gt; **Exhume (Night)** - Select a dead player. You will get all the notifications they got the night they died. 2 uses. (Includes stuff that happened to them and the results they got on the night of their death).
+
+&gt; &lt;big&gt;[color=blue]**The Librarian**[/color]&lt;/big&gt;
+&gt; **Blue Dragon, Investigative, Tier 3. Evolves from the Princess.**
+&gt; **Record Search (Night)** - Learn a player’s records. Unlimited uses.
+_Explanation:_
+_There are three types of records: Medical records, Criminal records and Royal records. You will get one message for every type of record a player has. If a player has no records you will get the message. “Your target has no records.”_
+_If your target started the game as a Healer/Alchemist/Hermit, or has been successfully healed before, you will get the following message: “Your target has medical records.”_
+_If your target has been jailed by a Jailor/Prince, has been visited by Special or Investigative roles, or has visited someone on the night they died (whether they killed them or not) you will get the following message: “Your target has criminal records”._
+_If your target has ever had royal blood, or has been guarded by the Leader (or any of his evolutions) you will get the following message: “Your target has royal records.”_
+&gt; **Extensive Research (Night)** - Learn a player’s class type. 3 uses.
+[/details]
+
+
+[details=&quot;The Waiter&#39;s Evolution tree&quot;]
+&gt; &lt;big&gt;[color=blue]**The Waiter**[/color]&lt;/big&gt;
+&gt; **Dutiful (Passive)** – Immune to occupation and target changing.
+&gt; **Serve Wine (Night)** – Occupy a player. – Unlimited uses.
+&gt; **Debauch (Night)** – Force a player to target you - Unlimited uses.
+
+&gt; **Occupy a player**: Evolve into **the Butler**.
+&gt; **Force a player to target you**: Evolve into **the Drunk**.
+
+&gt; &lt;big&gt;[color=blue]**The Butler**[/color]&lt;/big&gt;
+&gt;**Blue Dragon Offensive, Tier 2. Evolves from the Waiter.**
+&gt; **Dutiful (Passive)** - Immune to occupation and target changing.
+&gt; **Nightshade Wine (Day)** - Poison The King, causing him to die in one night if not healed. The king will not be notified. If the King is Good, you will commit suicide. - 1 use, available starting Day 4
+&gt; **Serve Wine (Night)** - Occupy a player by getting them drunk. - Infinite uses
+&gt; **Concentrated Wine (Night)** - Throw a party, occupying all players who visit you tonight (Bypasses occupy immunity). - 2 uses
+
+&gt;**Successfully kill an evil, neutral or psycho king with Nightshade Wine**: Evolve into **the Executioner.**
+&gt;**Occupy a total of 3 people with your abilities**: Evolve into **the Innkeeper.**
+
+&gt; &lt;big&gt;[color=blue]**The Drunk**[/color]&lt;/big&gt;
+&gt; **Blue Dragon Offensive, Tier 2. Evolves from the Waiter.**
+&gt; **Royal Blood (Passive)** - You can step up to become the new King earlier than other players.
+&gt; **I am the Liquor (Passive)** - Immune to occupation and target changing.
+&gt; **Debauchery (Night)** - Get in a player’s way, causing them to target you. You are immune to all attacks and conversions redirected to you. - Infinite uses
+&gt; **Happy Hour (Night)** - Occupy a player, and disable any death or occupy immunity they have for the night. - 2 uses
+
+&gt;Debauch an attack or use Happy Hour on an occupy immune player: Evolve into **the Captain**.
+&gt;Use your royal blood to become a Leader: Evolve into **the Emperor** (see Leader&#39;s evolution tree to check its classcard). You will have 4 guards and all other abilities will have the same number of uses as if you were a starting leader.
+
+&gt; &lt;big&gt;[color=blue]**The Innkeeper**[/color]&lt;/big&gt;
+&gt; **Blue Dragon, Offensive, Tier 3. Evolves from the Butler or the Trapper.**
+&gt; **Busy man (Passive)** - Immune to occupation and redirection.
+&gt; **Special Mead (Day)** - Serve a special mead instead of beer tonight. Your night abilities will bypass occupy immunity tonight. 1 use.
+&gt; **Special Ale (Day)** - Serve a special ale instead of beer tonight. Everyone occupied by your night abilities tonight will also be occupied the following night. 1 use.
+&gt; **On the house! (Night)** - Give a free beer to a player, occupying them tonight. Unlimited uses.
+&gt; **Dinner Night (Night)** - Make a dinner at a player’s room. Everyone that visits them tonight will be occupied. Cannot be used on yourself. - 3 uses. 
+
+&gt; &lt;big&gt;[color=blue]**The Executioner**[/color]&lt;/big&gt;
+&gt; **Blue Dragon, Killer, Tier 3. Evolves from the Butler or the Observer.**
+&gt; **Tenacity (Passive)** - Immune to occupation and redirection
+&gt; **Stalk (Day)** - You will follow a player tonight, learning who they visit. Said player will know you are watching them. Can be used on day 1. Unlimited uses. (Target player will get a message at the beginning of the night saying “The Executioner or Hangman is watching your every move.”).
+&gt; **Questionable Methods (Day)** - Select a player. If they are Neutral, Cult or Unseen they will start bleeding and die in two days. The executioner is not notified if this ability worked or not, and the target player is not notified if they are Blue Dragon. 2 uses.
+&gt; **Death Sentence (Night)** - Sentence a player to death. You will be able to kill them the next night. 3 uses. _(This ability has no effects on the player, it just allows you to kill them the following night. Your target is notified if you use this ability on them, so they have the whole day to claim in public and try to convince the executioner that they are good)._
+&gt; **Execute (Night)** - Kill your sentenced player, bypassing everything. Cannot be used until night 3. 1 use.
+
+&gt; &lt;big&gt;[color=blue]**The Captain**[/color]&lt;/big&gt;
+&gt; **Blue Dragon, Offensive, Tier 3. Evolves from the Drunk or the Court Wizard.**
+&gt; **On Duty (Passive)** - Immune to occupation and redirection.
+&gt; **Command (Night)** - Select two players. Force the first player to target the second one. Can force a player to target you, but can’t force them to target themselves. (you will be immune to attacks redirected this way). Unlimited uses.
+&gt; **Stand Guard (Night)** - If you are attacked tonight prevent the attack and both you and your attacker will start bleeding and die in one day unless healed. You will not know who attacked you. 2 uses.
+[/details]
+
+[details=&quot;The Collector&quot;]
+&gt; &lt;big&gt;The Collector&lt;/big&gt;
+&gt; **Neutral Killer**
+&gt; **Perseverance (Passive)** - Immune to death once.
+&gt; **Analyze (Day)** - Select a player, you get a pairing of class types. Their class type will be one of the two. The pairings are Killer/Offensive, Support/Social and Special/Investigative. - Unlimited uses.
+&gt; **Exploit Weakness (Day)** - Guess a player&#39;s exact class. If you guess it right, they will be killed immediately. (Can&#39;t be used on King). - 2 uses.
+&gt; **Collect (Night)** - Kill a player. - Unlimited uses.
+
+&gt; * **Kill an offensive role:** You will become immune to occupation and redirection. People that try to occupy or redirect you will believe they succeeded.
+&gt; * **Kill a support role:** You will become immune to poison/bleeding. Perseverance now makes you immune to death permanently.
+&gt; * **Kill a killer role**: &quot;Collect&quot; now bypasses healing and death immunity.
+&gt; * **Kill an investigative role:** Analyze now only gives the real result, and will also tell you the target&#39;s faction.
+&gt; * **Kill a social role**: Gain 1 extra use of &quot;Exploit Weakness&quot;. When you use &quot;Exploit weakness&quot; you can guess two classes instead of one. If the target player is any of those classes they will die.
+&gt; * **Kill a special role:** When you first get this evolution, choose a class. You will appear as that class to investigators. Also hides your visits. 
+&gt; * **Complete all other quests:** &quot;Collect&quot; can now target two players.
+[/details]
+
+Finally, here is an evolution chart for easy access:
+[details=&quot;Evolution chart&quot;]
+**Special**
+The Leader _evolves into_ The King or The Queen
+The King _evolves into_ The Emperor or The Tyrant
+The Queen _evolves into_ The Empress or The Monarch
+
+[color=steblue] **Blue Dragon** [/color]
+The Waiter _evolves into_ The Butler or The Drunk
+The Butler _evolves into_ The Innkeeper or The Executioner
+The Drunk _evolves into_ The Butler or The Drunk
+The Investigator _evolves into_ The Princess or The Observer
+The Princess _evolves into_ The Librarian or The Empress
+The Observer _evolves into_ The Gravekeeper or The Executioner
+The Healer _evolves into_ The Physician or The Court Wizard
+The Physician _evolves into_ The Medic or The Gravekeeper
+The Court Wizard _evolves into_ The Mage or The Captain
+The Eavesdropper _evolves into_ The Noble or The Mystic
+The Noble _evolves into_ The Elder or The Monarch
+The Mystic _evolves into_ The Psychic or The Maid
+The Thug _evolves into_ The Knight or The Trapper
+The Knight _evolves into_ The Royal Guard or The Mage
+The Trapper _evolves into_ The Hunter or The Innkeeper
+The Lawman _evolves into_ The Scientist or The Jailor
+The Scientist _evolves into_ The Biologist or The Bailiff
+The Jailor _evolves into_ The Prince or The Tyrant
+
+[color=green] **Reptilians** [/color]
+WIP
+
+[color=gray] **Neutrals** [/color]
+The Alchemist _evolves into_ The Medic (BD) or The Komodo (Reptilian)
+The Sellsword _evolves into_ The Mercenary or The Bounty Hunter
+The Hermit _evolves into_ The Cleric or The Diseased
+The Jester _evolves into_ The Fool or The Scorned
+[/details]
+
+
+
+Other stuff you need to know about the game:
+
+* Every class type has a tree, and with some exceptions every tree has 7 classes (1 tier 1, 2 tier 2, and 4 tier 3).
+* Not all tier 3 classes are unique. For example, both &quot;The Butler&quot; and &quot;The Observer&quot; can evolve into &quot;The Executioner&quot;.
+* Some classes will change class types when evolving. These evolutions are extremely situational and hard to achieve. For example, to evolve the Butler into &quot;the Executioner&quot; you must kill an Evil or Neutral King with your &quot;Nightshade Wine&quot;.
+* You will be told when you fulfill the requirements to evolve. You can evolve at any time after that by telling the host. Evolving doesn&#39;t count as an action and you can do it at any time. Once you evolve, you cannot go back to a previous tier, however.
+* There will be some of my class suggestions in the game, many of the classes of the &quot;Golden Dragon&quot; will appear as tier 3 evolutions.
+* The scum faction will be a modified version of my faction suggestion &quot;The Reptilians&quot;. 
+* The reptilians have a different evolution tree than the BD, with more tier 1 classes and fewer tier 3 classes.
+* There will be a special NK for this game, called &quot;The Collector&quot;, which will be a combination between a Neutral Killer and an investigative role.</description>
+    
+    <lastBuildDate>Tue, 16 Oct 2018 22:35:38 +0000</lastBuildDate>
+    <category>Forum Matches</category>
+    <atom:link href="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>SFoL Concept: Adapt and Evolve</title>
+        <dc:creator><![CDATA[Lightsin]]></dc:creator>
+        <description><![CDATA[
+            <p>You like ressurections? Ask FK about it then</p>
+<p>/s</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/52">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/52</link>
+        <pubDate>Tue, 16 Oct 2018 22:35:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-62036-52</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036.rss">SFoL Concept: Adapt and Evolve</source>
+      </item>
+      <item>
+        <title>SFoL Concept: Adapt and Evolve</title>
+        <dc:creator><![CDATA[Mercenary]]></dc:creator>
+        <description><![CDATA[
+            <p>I like this very much</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/51">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/51</link>
+        <pubDate>Tue, 16 Oct 2018 21:40:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-62036-51</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036.rss">SFoL Concept: Adapt and Evolve</source>
+      </item>
+      <item>
+        <title>SFoL Concept: Adapt and Evolve</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>Update: I still plan to host this eventually, however this setup required me to make a ton of class cards. I decided to change this setup to be similar to Reptilians from GD2, here is an example of “The Waiter” classcard. Please share your thoughts!</p>
+<blockquote>
+<p><big> <font color="steblue"><strong>The Waiter</strong></font> </big><br>
+<strong>Blue Dragon Support</strong><br>
+<strong>Dutiful (Passive)</strong> – Immune to occupation and target changing.<br>
+<strong>Evolution (Passive)</strong> - You start the game with 1 evolution point. You get evolution points by performing certain actions. At any point in the game you may exchange your points for abilities from the following list (you can only get each ability once per game):</p>
+<ul>
+<li>
+<strong>1 evolution point:</strong>
+<ul>
+<li>
+<strong>Serve wine (Night)</strong> - Occupy a player. <font color="gold"><strong>Adapt</strong>: You will get 1 evolution point every 2 times you use this ability. </font> - Unlimited uses.</li>
+<li>
+<strong>Debauch (Night)</strong> - Force a player to target someone else. Can make them target you but not themselves. <font color="gold"><strong>Adapt</strong>: If the second target of  your debauch is killed (whether the attack was redirected by you or not) you will gain 2 evolution points. </font> - Unlimited uses</li>
+<li>
+<strong>Wine Tasting (Night)</strong> - Find out if a player is immune to occupation. <font color="gold"><strong>Adapt</strong>: Every time you find a different occupy immune player you will gain 2 evolution points.  </font>  - Unlimited uses</li>
+</ul>
+</li>
+<li>
+<strong>2 evolution points:</strong>
+<ul>
+<li>
+<strong>Concentrated Wine (Night)</strong> - Occupy everyone that visits you tonight, bypassing immunity. <font color="gold"><strong>Adapt</strong>: You will get 1 evolution point if you occupy at least 1 player with this ability. </font> - 2 uses.</li>
+<li>
+<strong>Happy Hour (Night)</strong> - Occupy a player, and disable any death or occupation immunity they have for the night. <font color="gold"><strong>Adapt</strong>: You will get 2 evolution points if the target of Happy Hour is dies the same night. </font>  - 2 uses</li>
+<li>
+<strong>Dinner Party (Night)</strong> - Occupy everyone that visits your target tonight, bypassing immunity. <font color="gold"><strong>Adapt</strong>: You will get 1 evolution point if you occupy at least 1 player with this ability.  </font> - 2 uses</li>
+</ul>
+</li>
+<li>
+<strong>3 evolution points:</strong>
+<ul>
+<li>
+<strong>Nightshade Wine (Day)</strong> - Poison The Leader, causing him to die tonight if not healed. The Leader will not be informed if he is poisoned. If the Leader is BD aligned you will commit suicide. <font color="gold"><strong>Adapt</strong>: You will get 3 evolution points if you successfully kill a non-BD aligned Leader with this ability. </font> - 1 use.</li>
+<li>
+<strong>Fist Fight (Day)</strong> - Make a player start bleeding. They will die in 2 days if not healed. Cannot target the Leader. <font color="gold"><strong>Adapt</strong>: If you kill a non-BD aligned player with this ability you will gain 2 evolution points. </font> - 2 uses</li>
+<li>
+<strong>Hangover (Night)</strong> - Occupy a player for tonight and the following night. <font color="gold"><strong>Adapt</strong>: You will get 1 evolution point 1 night after you use this ability.  </font> -  2 uses.</li>
+</ul>
+</li>
+</ul>
+</blockquote>
+<hr>
+<blockquote>
+<p><big> <font color="steblue"><strong>The Doctor</strong></font> </big><br>
+<strong>Blue Dragon Support</strong><br>
+<strong>Evolution (Passive)</strong> - You start the game with 1 evolution point. You get evolution points by performing certain actions. At any point in the game you may exchange your points for abilities from the following list (you can only get each ability once per game):</p>
+<ul>
+<li>
+<strong>1 evolution point:</strong>
+<ul>
+<li>
+<strong>Heal (Night)</strong> - Heal a player from attacks, bleeding or venom. <font color="gold"> <strong>Adapt</strong>: You will get 1 evolution point every 2 times you use this ability. </font> - Unlimited uses.</li>
+<li>
+<strong>Barrier (Night)</strong> - Make a player immune to conversion and all negative effects tonight except death, bleeding and venom. <font color="gold"><strong>Adapt</strong>: The first time you successfully prevent a negative effect you will be notified and gain 2 evolution points. This can only happen once per game. </font> - Unlimited uses</li>
+<li>
+<strong>Remedy Studies (Passive)</strong> - You are immune to venom and bleeding. <font color="gold"><strong>Adapt</strong>: Whenever you would be envenomed or bled you will gain 2 evolution points.  </font>
+</li>
+</ul>
+</li>
+<li>
+<strong>2 evolution points:</strong>
+<ul>
+<li>
+<strong>Self Care (Night)</strong> - Heal yourself. <font color="gold"> <strong>Adapt</strong>: If you successfully heal an attack with this ability you will be notified and gain 2 evolution points. Healing venom or bleeding won’t trigger this. </font> - 2 uses.</li>
+<li>
+<strong>Tornado (Night)</strong> - Select two players. All players visiting one of them will instead visit the other. <font color="gold"><strong>Adapt</strong>: You will get 2 evolution points if one of your targets dies the same night you use this ability. </font>  - 3 uses</li>
+<li>
+<strong>Fist Fight (Day)</strong> - Prevent all visits on a target player. <font color="gold"><strong>Adapt</strong>: If you prevent at least 1 visit you will gain 1 evolution point. </font> - 2 uses.</li>
+</ul>
+</li>
+<li>
+<strong>3 evolution points:</strong>
+<ul>
+<li>
+<strong>Inoculate (Day)</strong> - Make a player permanently immune to venom and bleeding. <font color="gold"><strong>Adapt</strong>: Whenever the inoculated player would be envenomed or bled you will be notified and gain 1 evolution point. </font> - 1 use.</li>
+<li>
+<strong>Revive (Night)</strong> - Sacrifice your life in order to revive a player. They will keep all the abilities and evolution points they had when they died. - 1 use</li>
+<li>
+<strong>Accelerated Evolution (Night)</strong> - Give a player 3 evolution points at the end of the night. <font color="gold"><strong>Adapt</strong>: You will get 1 evolution point after using this ability. </font>-  1 use.</li>
+</ul>
+</li>
+</ul>
+</blockquote>
+<hr>
+<blockquote>
+<p><big> <font color="steblue"><strong>The Investigator</strong></font> </big><br>
+<strong>Blue Dragon Investigative</strong><br>
+<strong>Evolution (Passive)</strong> - You start the game with 1 evolution point. You get evolution points by performing certain actions. At any point in the game you may exchange your points for abilities from the following list (you can only get each ability once per game):</p>
+<ul>
+<li>
+<strong>1 evolution point:</strong>
+<ul>
+<li>
+<strong>Investigate (Night)</strong> - Check if a player is a reptilian. Players with eggs inside also appear as reptilians. <font color="gold"> <strong>Adapt</strong>: You will get 1 evolution point every 2 times you use this ability. </font> - Unlimited uses.</li>
+<li>
+<strong>Flirt (Night)</strong> - Check a player’s class type. You will get a pairing of classes (Killer/Offensive, Support/Social, Special/Investigative <font color="gold"><strong>Adapt</strong>: You will get 1 evolution point the first time you find a new class pairing. </font> - Unlimited uses</li>
+<li>
+<strong>Evolution Research (Night)</strong> - Check a player’s evolution level (Evolution level is equal to their current evolution points plus the value of their purchased abilities). <font color="gold"><strong>Adapt</strong>: Whenever you find a player with an evolution level of 3 or more you will get 1 evolution point. This can only happen once per player. </font> - Unlimited uses.</li>
+</ul>
+</li>
+<li>
+<strong>2 evolution points:</strong>
+<ul>
+<li>
+<strong>Follow (Night)</strong> -  Check who a player visits and who visits them. <font color="gold"> <strong>Adapt</strong>: If at least 1 player visits your target you will gain 1 evolution point. </font> - Unlimited uses.</li>
+<li>
+<strong>Tornado (Night)</strong> - Select two players. All players visiting one of them will instead visit the other. <font color="gold"><strong>Adapt</strong>: You will get 2 evolution points if one of your targets dies the same night you use this ability. </font>  - 3 uses</li>
+<li>
+<strong>Fist Fight (Day)</strong> - Prevent all visits on a target player. <font color="gold"><strong>Adapt</strong>: If you prevent at least 1 visit you will gain 1 evolution point. </font> - 2 uses.</li>
+</ul>
+</li>
+<li>
+<strong>3 evolution points:</strong>
+<ul>
+<li>
+<strong>Inoculate (Day)</strong> - Make a player permanently immune to venom and bleeding. <font color="gold"><strong>Adapt</strong>: Whenever the inoculated player would be envenomed or bled you will be notified and gain 1 evolution point. </font> - 1 use.</li>
+<li>
+<strong>Revive (Night)</strong> - Sacrifice your life in order to revive a player. They will keep all the abilities and evolution points they had when they died. - 1 use</li>
+<li>
+<strong>Accelerated Evolution (Night)</strong> - Give a player 3 evolution points at the end of the night. <font color="gold"><strong>Adapt</strong>: You will get 1 evolution point after using this ability. </font>-  1 use.</li>
+</ul>
+</li>
+</ul>
+</blockquote>
+          <p><a href="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/50">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/50</link>
+        <pubDate>Tue, 16 Oct 2018 20:49:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-62036-50</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036.rss">SFoL Concept: Adapt and Evolve</source>
+      </item>
+      <item>
+        <title>SFoL Concept: Adapt and Evolve</title>
+        <dc:creator><![CDATA[Lightsin]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="psychoneirik" data-post="47" data-topic="62036">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/psychoneirik/40/12950_2.png" class="avatar"> psychoneirik:</div>
+<blockquote>
+<p>golden dragon</p>
+</blockquote>
+</aside>
+<p><em>Vietnam memories of the 1st golden dragon, and getting rekt D3</em></p>
+<p>Ok</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/49">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/49</link>
+        <pubDate>Tue, 07 Aug 2018 14:25:25 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-62036-49</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036.rss">SFoL Concept: Adapt and Evolve</source>
+      </item>
+      <item>
+        <title>SFoL Concept: Adapt and Evolve</title>
+        <dc:creator><![CDATA[Frostwolf103]]></dc:creator>
+        <description><![CDATA[
+            <p>How did this go unnoticed on my watch?</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/48">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/48</link>
+        <pubDate>Tue, 07 Aug 2018 12:12:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-62036-48</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036.rss">SFoL Concept: Adapt and Evolve</source>
+      </item>
+      <item>
+        <title>SFoL Concept: Adapt and Evolve</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>Ill probably put it on queue after golden dragon 2, needed to test reptilians first</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/47">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/47</link>
+        <pubDate>Tue, 07 Aug 2018 11:59:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-62036-47</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036.rss">SFoL Concept: Adapt and Evolve</source>
+      </item>
+      <item>
+        <title>SFoL Concept: Adapt and Evolve</title>
+        <dc:creator><![CDATA[Luxy]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/psychoneirik">@psychoneirik</a> this still happening?</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/46">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/46</link>
+        <pubDate>Tue, 07 Aug 2018 11:34:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-62036-46</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036.rss">SFoL Concept: Adapt and Evolve</source>
+      </item>
+      <item>
+        <title>SFoL Concept: Adapt and Evolve</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>I could use some help with balancing. Also I have a cohost spot open if you are interested. It might be a while until I get to host it though.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/45">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/45</link>
+        <pubDate>Fri, 25 May 2018 20:34:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-62036-45</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036.rss">SFoL Concept: Adapt and Evolve</source>
+      </item>
+      <item>
+        <title>SFoL Concept: Adapt and Evolve</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>Now that I think about it… Would it be possible to make the golden dragon game a FM? To be honest i still dont know the main difference between a SFoL and a FM.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/44">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/44</link>
+        <pubDate>Fri, 25 May 2018 18:09:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-62036-44</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036.rss">SFoL Concept: Adapt and Evolve</source>
+      </item>
+      <item>
+        <title>SFoL Concept: Adapt and Evolve</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>Also I dont want to scrap this idea, but I was thinking about maybe delaying it and do a more normal SFoL first to test the GD classes since they are the tier 3 evolutions. And also because I plan there to be around 50 class cards so I want a bit more expetience first.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/43">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/43</link>
+        <pubDate>Fri, 25 May 2018 17:57:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-62036-43</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036.rss">SFoL Concept: Adapt and Evolve</source>
+      </item>
+      <item>
+        <title>SFoL Concept: Adapt and Evolve</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>Sounds super interesting if you ever want help feel free to PM me</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/42">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/42</link>
+        <pubDate>Fri, 25 May 2018 17:54:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-62036-42</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036.rss">SFoL Concept: Adapt and Evolve</source>
+      </item>
+      <item>
+        <title>SFoL Concept: Adapt and Evolve</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh cool</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/41">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/41</link>
+        <pubDate>Fri, 25 May 2018 17:54:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-62036-41</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036.rss">SFoL Concept: Adapt and Evolve</source>
+      </item>
+      <item>
+        <title>SFoL Concept: Adapt and Evolve</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>I do have neutral trees and was planning to make some neuts able to change “sides” when evolving. As for the prince, you probably noticed that there is no hard counter class like sheriff in the investigator’s tree and thats because both prince and an unconvertable hard counter are on the same tree.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/40">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/40</link>
+        <pubDate>Fri, 25 May 2018 17:52:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-62036-40</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036.rss">SFoL Concept: Adapt and Evolve</source>
+      </item>
+      <item>
+        <title>SFoL Concept: Adapt and Evolve</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>And will you make any neutral trees?</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/39">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/39</link>
+        <pubDate>Fri, 25 May 2018 16:19:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-62036-39</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036.rss">SFoL Concept: Adapt and Evolve</source>
+      </item>
+      <item>
+        <title>SFoL Concept: Adapt and Evolve</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>Will you include a BD killer tree involving a bad vigi, knight, hunter, and maybe prince as the final evolution?</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/38">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/38</link>
+        <pubDate>Fri, 25 May 2018 16:18:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-62036-38</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036.rss">SFoL Concept: Adapt and Evolve</source>
+      </item>
+      <item>
+        <title>SFoL Concept: Adapt and Evolve</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>I kinda want the NK to be like the other ones in that it evolves properly and in the same manner.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/37">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/37</link>
+        <pubDate>Fri, 25 May 2018 16:16:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-62036-37</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036.rss">SFoL Concept: Adapt and Evolve</source>
+      </item>
+      <item>
+        <title>SFoL Concept: Adapt and Evolve</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>You have time to work it.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/36">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/36</link>
+        <pubDate>Fri, 25 May 2018 16:16:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-62036-36</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036.rss">SFoL Concept: Adapt and Evolve</source>
+      </item>
+      <item>
+        <title>SFoL Concept: Adapt and Evolve</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>IMO i really really like the idea of this one. I don’t join that many SFoL’s any more as the FM market is more saturated now, but I would definately join this one.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/35">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/35</link>
+        <pubDate>Fri, 25 May 2018 16:15:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-62036-35</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036.rss">SFoL Concept: Adapt and Evolve</source>
+      </item>
+      <item>
+        <title>SFoL Concept: Adapt and Evolve</title>
+        <dc:creator><![CDATA[CheesyKnives]]></dc:creator>
+        <description><![CDATA[
+            <p>Coming from the person who did their evolutionny fol first before their new factiony one<br>
+Do GD first</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/34">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/34</link>
+        <pubDate>Fri, 25 May 2018 16:15:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-62036-34</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036.rss">SFoL Concept: Adapt and Evolve</source>
+      </item>
+      <item>
+        <title>SFoL Concept: Adapt and Evolve</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>Thats what the evolution concept is, the tier 3 evolutions are my class suggestions from the Golden Dragon. But I still want to host a more classic “Golden Dragon vs Reptillians” game or something.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/33">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/33</link>
+        <pubDate>Fri, 25 May 2018 14:24:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-62036-33</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036.rss">SFoL Concept: Adapt and Evolve</source>
+      </item>
+      <item>
+        <title>SFoL Concept: Adapt and Evolve</title>
+        <dc:creator><![CDATA[Twil1ight]]></dc:creator>
+        <description><![CDATA[
+            <p>No, silly. I meant to mix them together. <img src="/images/emoji/twitter/stuck_out_tongue_winking_eye.png?v=9" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"></p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/32">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/32</link>
+        <pubDate>Fri, 25 May 2018 14:23:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-62036-32</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036.rss">SFoL Concept: Adapt and Evolve</source>
+      </item>
+      <item>
+        <title>SFoL Concept: Adapt and Evolve</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>Also, there is still like 10 SFoL before I host mine, but I will need a cohost that has some experience playing or hosting classic FoL games since I don’t have much experience with trials and that kind of stuff.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/31">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/31</link>
+        <pubDate>Fri, 25 May 2018 14:23:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-62036-31</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036.rss">SFoL Concept: Adapt and Evolve</source>
+      </item>
+      <item>
+        <title>SFoL Concept: Adapt and Evolve</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>I do plan to host both eventually, but I want to know which would be better to host first.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/30">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/30</link>
+        <pubDate>Fri, 25 May 2018 14:21:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-62036-30</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036.rss">SFoL Concept: Adapt and Evolve</source>
+      </item>
+      <item>
+        <title>SFoL Concept: Adapt and Evolve</title>
+        <dc:creator><![CDATA[Twil1ight]]></dc:creator>
+        <description><![CDATA[
+            <p>Why not both? <img src="/images/emoji/twitter/thinking.png?v=9" title=":thinking:" class="emoji" alt=":thinking:"></p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/29">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/29</link>
+        <pubDate>Fri, 25 May 2018 14:20:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-62036-29</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036.rss">SFoL Concept: Adapt and Evolve</source>
+      </item>
+      <item>
+        <title>SFoL Concept: Adapt and Evolve</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>Before I continue making more evolution trees I have a question. Should I host a more classic SFoL but with my class suggestions (Golden Dragon, etc). instead of this? I’m starting to think this might be too complicated for my fist SFoL.</p>
+<div class="poll" data-poll-status="open" data-poll-public="true" data-poll-type="regular" data-poll-name="poll">
+<div>
+<div class="poll-container">
+<ul>
+<li data-poll-option-id="d692b2a70236113d829caa730d907cf1">Change it to a more normal FoL but with your class suggestions</li>
+<li data-poll-option-id="98376a9cfb5fdcb5bc68681604df4456">Keep the whole evolution concept</li>
+</ul>
+</div>
+<div class="poll-info">
+<p>
+<span class="info-number">0</span>
+<span class="info-label">voters</span>
+</p>
+</div>
+</div>
+</div>
+          <p><a href="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/28">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036/28</link>
+        <pubDate>Fri, 25 May 2018 14:19:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-62036-28</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-concept-adapt-and-evolve/62036.rss">SFoL Concept: Adapt and Evolve</source>
+      </item>
+  </channel>
+</rss>

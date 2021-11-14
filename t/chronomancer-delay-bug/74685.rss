@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Chronomancer Delay Bug</title>
+    <link>https://forum.throneoflies.com/t/chronomancer-delay-bug/74685</link>
+    <description>#### What happened?
+
+I was Chronomancer. I was bled on n3. I had no delays. N4 passes just fine.
+On n5, I was healed AND another chrono delayed me. I only saw the heal.
+n6 passes just fine. N7 I died from chrono delay.
+
+#### What was SUPPOSED to happen?
+
+N7 - I lived
+
+#### Steps to reproduce:
+
+Bleed a chrono, have a healer heal them and a chrono delay them on the night the bleed would take effect.
+
+#### Comments:
+
+ToL Rulez!</description>
+    
+    <lastBuildDate>Mon, 31 Dec 2018 11:01:47 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forum.throneoflies.com/t/chronomancer-delay-bug/74685.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Chronomancer Delay Bug</title>
+        <dc:creator><![CDATA[SweetyCake]]></dc:creator>
+        <description><![CDATA[
+            <p>Normally, Heal would come first then Delay.<br>
+You just met a rare bug, and that seem to be unfixable.</p>
+          <p><a href="https://forum.throneoflies.com/t/chronomancer-delay-bug/74685/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/chronomancer-delay-bug/74685/2</link>
+        <pubDate>Mon, 31 Dec 2018 11:01:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74685-2</guid>
+        <source url="https://forum.throneoflies.com/t/chronomancer-delay-bug/74685.rss">Chronomancer Delay Bug</source>
+      </item>
+      <item>
+        <title>Chronomancer Delay Bug</title>
+        <dc:creator><![CDATA[Sharvax]]></dc:creator>
+        <description><![CDATA[
+            <h4>What happened?</h4>
+<p>I was Chronomancer. I was bled on n3. I had no delays. N4 passes just fine.<br>
+On n5, I was healed AND another chrono delayed me. I only saw the heal.<br>
+n6 passes just fine. N7 I died from chrono delay.</p>
+<h4>What was SUPPOSED to happen?</h4>
+<p>N7 - I lived</p>
+<h4>Steps to reproduce:</h4>
+<p>Bleed a chrono, have a healer heal them and a chrono delay them on the night the bleed would take effect.</p>
+<h4>Comments:</h4>
+<p>ToL Rulez!</p>
+          <p><a href="https://forum.throneoflies.com/t/chronomancer-delay-bug/74685/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/chronomancer-delay-bug/74685/1</link>
+        <pubDate>Mon, 31 Dec 2018 02:16:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74685-1</guid>
+        <source url="https://forum.throneoflies.com/t/chronomancer-delay-bug/74685.rss">Chronomancer Delay Bug</source>
+      </item>
+  </channel>
+</rss>

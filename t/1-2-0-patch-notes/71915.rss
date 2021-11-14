@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>1.2.0 Patch Notes</title>
+    <link>https://forum.throneoflies.com/t/1-2-0-patch-notes/71915</link>
+    <description># &lt;b&gt; The Neutral &amp; Pretender Update. &lt;/b&gt;
+
+## Quality of Life:
+&gt; * Probe icon changed.
+
+## General:
+&gt; * Adjusted the spawn rate of certain Blue Dragon classes.
+&gt; * In 16 player games the minimum amount of non-Killer Neutrals is now 2.
+&gt; * Added a new Neutral class called the Pretender.
+
+## Minor Class/Ability Changes
+&gt; 
+&gt; #### Fool:
+&gt; * Reworked Poor Fellow. Now when the Fool is executed, players who did not vote to pardon will have their abilities disabled that night.
+&gt;
+&gt; #### Possessor:
+&gt; * Added Day Ability &quot;Mind Control&quot; - Force a player to vote for another and prevent further voting from them. 3 uses.
+&gt;
+&gt; #### Reaper:
+&gt; * Added Night Ability &quot;Circle of Death&quot; - Everyone visiting target player will die. Consumes two souls.
+&gt;
+&gt; #### Sellsword:
+&gt; * Stonewall now has priority over the Mercenary&#39;s Stand Guard.
+
+## Major Class/Ability Changes
+&gt; 
+&gt; #### Alchemist:
+&gt; * Class type has been changed to Special.
+&gt; * Has a new night ability called Concoct Potion. The Alchemist can choose from 4 different potions to use at night.
+&gt; * Emerald Potion &amp; Crimson Potion have been moved into the Concoct Potion selection.
+&gt; * Crimson Potion now has 4 uses.
+&gt; * Emerald Potion now has 3 uses.
+&gt; * Added &quot;Truth Potion&quot; to Concoct Potion  - Discover a player&#39;s class. 2 uses.
+&gt; * Added &quot;Tar Potion&quot; to Concoct Potion - Occupy a player. 3 uses.
+&gt; 
+&gt; #### Inquisitor:
+&gt; * Objective has been changed. They now have to live long enough to see all three Heathens die.
+&gt; * No longer requires the Sorcerer to spawn in order to spawn.
+&gt; * At the beginning of the game, three players will be randomly marked as Heathens. The Inquisitor will not know who they are, but they will know who each other are. Cannot start with King, Hunter, Prince, Scorned, Fool, Pretender, Mastermind, the second starting Cult member, or Neutral Killers.
+&gt; * Removed Find Magic.
+&gt; * New Night Ability &quot;Interrogate&quot; - Determine if a player is a Heathen. If they are one, you will learn their class. Infinite uses.
+&gt; * Ruthless Efficiency now makes the target unhealable.
+&gt; 
+&gt; #### Mercenary:
+&gt; * Objective has been changed. They now must now have at least 8 brilders at the end of the game.
+&gt; * Removed old passives.
+&gt; * New Passive Brilder Hungry - Occupy and redirection immune.
+&gt; * New Passive Protection Services - Gain brilders for protecting players. Every ability prevented with “Stand Guard” grants you 1 brilder. Preventing a death with “Shield” grants you 3 brilders.
+&gt; * New Day Ability &quot;Don Armor&quot; - Make yourself death immune for the night. Costs 2 brilders.
+&gt; * Can no longer target King with night abilities.
+&gt; 
+&gt; #### Scorned:
+&gt; * Objective has been changed. They now must live long enough to see 4 players formally executed.
+&gt; * Frame now has infinite uses.
+&gt; * New Night Ability &quot;Stalk&quot; - Discover a player’s faction. 3 uses.
+&gt; 
+&gt; #### Sorcerer:
+&gt; * Objective has been changed to match the Possessor and Reaper.
+&gt; * No longer occupy &amp; redirection immune.
+&gt; * Perception passive no longer stops them from attacking Unseen/Cult members.
+&gt; * Removed old day abilities.
+&gt; * Removed Circle of Death.
+&gt; * Added Day Ability &quot;Walking Bomb&quot; - Cast a deadly spell on a player that you can later detonate. Can have multiple Walking Bombs active. Cannot target King. Infinite uses.
+&gt; * Added Night Ability &quot;Detonate&quot; - ills all players with a Walking Bomb active. Does not count as an attack. Bypasses death immunity. Infinite uses.
+
+## New Class
+&gt; 
+&gt; #### Pretender:
+&gt; * Unique Neutral Special
+&gt; * Objective is to become King and survive.
+&gt; * No Allegiance (Passive) - Death immune at night. Upon becoming King the death immunity is lost, and you start with 0 charges of Guards!
+&gt; * Royal Blood (Passive) - During the election for a new King, votes for you count twice.
+&gt; * Silence (Day) -  Prevent the King from using their day abilities. - 2 uses
+&gt; * Ballot Mixing (Day) - Reverse the King’s vote during trial. If they voted to execute, they will instead pardon and vice versa. Affects Decide Fate. - 2 uses
+&gt; * Family Matters (Night) - Discover if a player has Royal Blood. You will always get accurate results. - Infinite uses
+&gt; * Kinslayer (Night) - Attack a player with Royal Blood or the King. You must have first discovered they were Royal, unless they are the King. - 2 uses</description>
+    
+    <lastBuildDate>Thu, 30 Aug 2018 03:23:14 +0000</lastBuildDate>
+    <category>Official Announcements</category>
+    <atom:link href="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>1.2.0 Patch Notes</title>
+        <dc:creator><![CDATA[Ashe]]></dc:creator>
+        <description><![CDATA[
+            <p>Did anyone else notice that Stalk uses the same icon (and does the same thing) as Window Peek?</p>
+<p>Factionist BD propaganda shuns the Scorned for doing the same thing their Observer does :^)</p>
+          <p><a href="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/173">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/173</link>
+        <pubDate>Thu, 30 Aug 2018 03:23:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71915-173</guid>
+        <source url="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915.rss">1.2.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>1.2.0 Patch Notes</title>
+        <dc:creator><![CDATA[Marcus_Doodalee]]></dc:creator>
+        <description><![CDATA[
+            <p>Given that MM appears to be sheriff when checked whilst in the shadows is active. It makes sense for CL to be seen as paladin whilst brotherhooded, Knight is shown for Assassin, and Duchess would appear to be princess</p>
+          <p><a href="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/172">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/172</link>
+        <pubDate>Thu, 30 Aug 2018 01:51:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71915-172</guid>
+        <source url="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915.rss">1.2.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>1.2.0 Patch Notes</title>
+        <dc:creator><![CDATA[Luxy]]></dc:creator>
+        <description><![CDATA[
+            <p>This suggestion was for FoL not ToL, my bad.</p>
+          <p><a href="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/171">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/171</link>
+        <pubDate>Thu, 30 Aug 2018 01:41:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71915-171</guid>
+        <source url="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915.rss">1.2.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>1.2.0 Patch Notes</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>host?</p>
+          <p><a href="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/170">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/170</link>
+        <pubDate>Thu, 30 Aug 2018 01:40:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71915-170</guid>
+        <source url="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915.rss">1.2.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>1.2.0 Patch Notes</title>
+        <dc:creator><![CDATA[Luxy]]></dc:creator>
+        <description><![CDATA[
+            <p>No</p>
+          <p><a href="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/169">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/169</link>
+        <pubDate>Thu, 30 Aug 2018 01:35:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71915-169</guid>
+        <source url="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915.rss">1.2.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>1.2.0 Patch Notes</title>
+        <dc:creator><![CDATA[Scl007]]></dc:creator>
+        <description><![CDATA[
+            <p>My question with alch now is what does truth potion show after a duchess uses dark whisp or a rituralist uses brotherhood</p>
+          <p><a href="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/168">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/168</link>
+        <pubDate>Thu, 30 Aug 2018 01:33:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71915-168</guid>
+        <source url="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915.rss">1.2.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>1.2.0 Patch Notes</title>
+        <dc:creator><![CDATA[Marcus_Doodalee]]></dc:creator>
+        <description><![CDATA[
+            <p>Why not just emerald potion him first turn and claim you truthed him?</p>
+<p>When they exhume and discover you’re the killer say “THEY COULDN’T HANDLE THE TRUTH”</p>
+<p>^<em>not my meme, got it from the Discord</em></p>
+          <p><a href="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/167">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/167</link>
+        <pubDate>Thu, 30 Aug 2018 01:28:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71915-167</guid>
+        <source url="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915.rss">1.2.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>1.2.0 Patch Notes</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Better yet.</p>
+<p>N1: Emerald potion prince gg</p>
+          <p><a href="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/166">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/166</link>
+        <pubDate>Thu, 30 Aug 2018 01:28:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71915-166</guid>
+        <source url="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915.rss">1.2.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>1.2.0 Patch Notes</title>
+        <dc:creator><![CDATA[Sam17z]]></dc:creator>
+        <description><![CDATA[
+            <p>The best way to play alchemist is this</p>
+<p>N1 truth, find prince<br>
+N2 emerald potion prince gg</p>
+          <p><a href="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/165">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/165</link>
+        <pubDate>Thu, 30 Aug 2018 01:27:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71915-165</guid>
+        <source url="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915.rss">1.2.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>1.2.0 Patch Notes</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>I had no issue with her being a JOAT</p>
+          <p><a href="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/164">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/164</link>
+        <pubDate>Thu, 30 Aug 2018 01:26:54 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71915-164</guid>
+        <source url="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915.rss">1.2.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>1.2.0 Patch Notes</title>
+        <dc:creator><![CDATA[Twil1ight]]></dc:creator>
+        <description><![CDATA[
+            <p>Actually JOAT quite fit with Alchemist. But honestly currently I would probably reconsider to change his objective.</p>
+          <p><a href="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/163">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/163</link>
+        <pubDate>Thu, 30 Aug 2018 01:26:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71915-163</guid>
+        <source url="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915.rss">1.2.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>1.2.0 Patch Notes</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Well at that point it’s personal preference.</p>
+          <p><a href="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/162">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/162</link>
+        <pubDate>Thu, 30 Aug 2018 01:22:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71915-162</guid>
+        <source url="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915.rss">1.2.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>1.2.0 Patch Notes</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>His old identity was flawed, I say bring on the changes</p>
+          <p><a href="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/161">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/161</link>
+        <pubDate>Thu, 30 Aug 2018 01:18:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71915-161</guid>
+        <source url="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915.rss">1.2.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>1.2.0 Patch Notes</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Like I said this is still an improvement over what we had before. It just feels like Alchemist is gradually losing his identity and I don’t want that</p>
+          <p><a href="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/160">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/160</link>
+        <pubDate>Thu, 30 Aug 2018 01:16:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71915-160</guid>
+        <source url="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915.rss">1.2.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>1.2.0 Patch Notes</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>Okay but why does it need to have both healing/support and self-protection seperately</p>
+<p>I’ve previously suggested folding Stoneskin in like you suggest but if we just went this far I’d be much happier to stay here</p>
+          <p><a href="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/159">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/159</link>
+        <pubDate>Thu, 30 Aug 2018 01:08:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71915-159</guid>
+        <source url="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915.rss">1.2.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>1.2.0 Patch Notes</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Thus preserving it’s original purpose</p>
+          <p><a href="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/158">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/158</link>
+        <pubDate>Thu, 30 Aug 2018 01:06:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71915-158</guid>
+        <source url="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915.rss">1.2.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>1.2.0 Patch Notes</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Because then using the self protection ability is not taking uses from the healer support ability.</p>
+          <p><a href="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/157">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/157</link>
+        <pubDate>Thu, 30 Aug 2018 01:06:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71915-157</guid>
+        <source url="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915.rss">1.2.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>1.2.0 Patch Notes</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="NuclearBurrito" data-post="155" data-topic="71915">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/nuclearburrito/40/4723_2.png" class="avatar"> NuclearBurrito:</div>
+<blockquote>
+<p>The solution is simply to make stoneskin a separate night ability and re-add Coagulate.</p>
+</blockquote>
+</aside>
+<p>Wait what why</p>
+          <p><a href="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/156">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/156</link>
+        <pubDate>Thu, 30 Aug 2018 01:05:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71915-156</guid>
+        <source url="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915.rss">1.2.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>1.2.0 Patch Notes</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <blockquote>
+<h3>Alchemist</h3>
+<ul>
+<li>Removed Coagulate and Stoneskin Potion</li>
+<li>Can now target themselves with Crimson Potion</li>
+<li>Truth Potion only discovers a player’s class if they are BD, otherwise it only shows their faction. MM will show up as Sheriff for first 3 nights.</li>
+</ul>
+</blockquote>
+<p>For truth potion Nothing to say. It was a needed change and I have no issue.</p>
+<p>With the Stoneskin removal I actually do have a (small) problem. However it is not the fact that it is a night ability which does indeed solve an important issue with alchemist.</p>
+<p>Rather it negates the original purpose of Crimson Potion. The solution is simply to make stoneskin a separate night ability and re-add Coagulate. The overall intent behind the change however is fine and I wouldn’t be too mad if the change stays as is.</p>
+          <p><a href="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/155">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/155</link>
+        <pubDate>Thu, 30 Aug 2018 01:04:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71915-155</guid>
+        <source url="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915.rss">1.2.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>1.2.0 Patch Notes</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>Holy shit the Alchemist change is what I wanted yay</p>
+<p>As for the Scorned though I re-made this thread and I still stand by it</p>
+<p><a href="https://forum.imperium42.com/t/continue-tweaking-the-scorned/71918?u=orangeandblack5" class="onebox" target="_blank" rel="noopener">https://forum.imperium42.com/t/continue-tweaking-the-scorned/71918?u=orangeandblack5</a></p>
+          <p><a href="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/154">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/154</link>
+        <pubDate>Thu, 30 Aug 2018 00:59:54 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71915-154</guid>
+        <source url="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915.rss">1.2.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>1.2.0 Patch Notes</title>
+        <dc:creator><![CDATA[Navi]]></dc:creator>
+        <description><![CDATA[
+            <p>Thought I’d put these here since they address a lot of the issues people had with the patch:</p>
+<h1>1.2.0d Patch Notes</h1>
+<blockquote>
+<h3>Alchemist</h3>
+<ul>
+<li>Removed Coagulate and Stoneskin Potion</li>
+<li>Can now target themselves with Crimson Potion</li>
+<li>Truth Potion only discovers a player’s class if they are BD, otherwise it only shows their faction. MM will show up as Sheriff for first 3 nights.</li>
+</ul>
+</blockquote>
+<p>This weakens the Alchemist’s longevity significantly, meaning they will need to rely more on forming alliances with the other factions and will end up being less useful to BD since their healing ability is now required to keep them alive as well. It also means that their death immunity can be bypassed more easily or blocked with occupation.</p>
+<blockquote>
+<h3>Assassin and Cult Leader</h3>
+<ul>
+<li>Nightshade/Rupture day abilities reduced to 3 uses.</li>
+</ul>
+</blockquote>
+<p>Reduced classes that can heal means poison/bleed becomes stronger. Makes sense with the Alchemist change. Will make early poison/bleeds much more wasteful.</p>
+<blockquote>
+<h3>Fool</h3>
+<ul>
+<li>Poor Fellow only disable abilities of those who accused the Fool of treason.</li>
+</ul>
+</blockquote>
+<p>Will make it so Fool can only block half the players, preventing the strategy of everyone executing effectively skipping a night.</p>
+<blockquote>
+<h3>Mercenary</h3>
+<ul>
+<li>Starts with 2 brilders.</li>
+<li>Don Armor cost reduced to 1 brilder. Can now be used Day 1.</li>
+</ul>
+</blockquote>
+<p>Less reliance on chance early is good. May have to increase the number of brilders required for the Mercenary to win, but I haven’t seen Mercenaries having a high win rate so far in the new patch.</p>
+<blockquote>
+<h3>Scorned</h3>
+<ul>
+<li>Only immune to death once.</li>
+</ul>
+</blockquote>
+<p>Somewhat prevents the strategy of the Scorned outing as a death immune investigator. The strategy may still prove too strong, but time will tell.</p>
+          <p><a href="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/153">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/153</link>
+        <pubDate>Thu, 30 Aug 2018 00:56:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71915-153</guid>
+        <source url="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915.rss">1.2.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>1.2.0 Patch Notes</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Temmeh" data-post="151" data-topic="71915">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/temmeh/40/5468_2.png" class="avatar"> Temmeh:</div>
+<blockquote>
+<p>this is probably a bad idea but how about if sorc and inq both spawn then sorc is one of the heathens guranteed? idk its not the best idea but sorc does seem kinda OP currently</p>
+</blockquote>
+</aside>
+<p>Sorry but yeah that is probably a bad idea</p>
+<p>1: This has no effect on balance when there is no Inquisitor, and as such doesn’t truly nerf Sorcerer in anything but winrate.</p>
+<p>2: As soon as people realize there is a Sorcerer, the Heathens are just going to out themselves and catch the Sorcerer immediately.</p>
+<p>Not to mention we don’t actually know if it’s overpowered yet.</p>
+          <p><a href="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/152">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/152</link>
+        <pubDate>Thu, 30 Aug 2018 00:39:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71915-152</guid>
+        <source url="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915.rss">1.2.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>1.2.0 Patch Notes</title>
+        <dc:creator><![CDATA[Temmeh]]></dc:creator>
+        <description><![CDATA[
+            <p>so uh they buff a class that was already pretty fun and balanced (reaper) ok cool cool</p>
+<p>then for sorc they listen to the community and make it good (sorc) ok cool cool</p>
+<p>and for the class thats impossible to win with and that has the lowest win-rate they give a 3time use ability used for making someone vote someone <img src="/images/emoji/twitter/thinking.png?v=9" title=":thinking:" class="emoji" alt=":thinking:"></p>
+<p>i know im underestimating this ability but poss will still prob be better due to pretender giving him a subtle buff when jumped into king and this ability but still im still scarred from my double poss experience from OhGodATourny</p>
+<p>edit: this is probably a bad idea but how about if sorc and inq both spawn then sorc is one of the heathens guranteed? idk its not the best idea but sorc does seem kinda OP currently</p>
+          <p><a href="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/151">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/151</link>
+        <pubDate>Wed, 29 Aug 2018 23:25:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71915-151</guid>
+        <source url="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915.rss">1.2.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>1.2.0 Patch Notes</title>
+        <dc:creator><![CDATA[RHCube]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Shrimpy" data-post="132" data-topic="71915">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shrimpy/40/15828_2.png" class="avatar"> Shrimpy:</div>
+<blockquote>
+<p>Some things that confuse me, for example, are why the Inquisitor-Sorcerer nemesis thing was completely removed instead of trying to fix it?</p>
+</blockquote>
+</aside>
+<p>Because inquisitor was a broken concept.  It is a hardcounter, and it’s not fun to play as or against.  It also has an easy win con(they didn’t even have to do anything most of the time, and when they did win by themselves it was usually a yolo kill early on).  And people believe that sorcerer needed a hardcounter because of its easy win condition(even though sorc did not)</p>
+<aside class="quote no-group" data-username="Shrimpy" data-post="132" data-topic="71915">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shrimpy/40/15828_2.png" class="avatar"> Shrimpy:</div>
+<blockquote>
+<p>Also why was Scorned changed so drastically? It had some minor problems like both targets dying N1, or an N1 frame on a Mystic always backfiring in Unseen games, but I didn’t know anyone wanted it completely reworked.</p>
+</blockquote>
+</aside>
+<p>I agree with this.  Fool and sorcerer were balanced, aside from a few minor changes.</p>
+<aside class="quote no-group" data-username="Lightsin" data-post="134" data-topic="71915">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/lightsin/40/28571_2.png" class="avatar"> Lightsin:</div>
+<blockquote>
+<p>With scorned, all they needed to do was let me keep trollbox after I win, and I’d be perfectly ok. But I think they changed it since it’s the old “Your Exe” style, and dumb bd being confused.</p>
+</blockquote>
+</aside>
+<p>Scorned shouldn’t keep TB after they win.  I’ll sometimes claimed scorned as scum after an execution.</p>
+<aside class="quote no-group" data-username="Lightsin" data-post="134" data-topic="71915">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/lightsin/40/28571_2.png" class="avatar"> Lightsin:</div>
+<blockquote>
+<p>And the fact that they side with BD. I think they should change it a bit, since it feels like another BD role.</p>
+</blockquote>
+</aside>
+<p>Agreed, stalk should be replaced with mind warp.</p>
+<aside class="quote no-group" data-username="UncannyLuck" data-post="137" data-topic="71915" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/prince-icon-256.jpg" class="avatar"> UncannyLuck:</div>
+<blockquote>
+<p>To be fair, it might’ve worked better if Sorc didn’t basically hard counter Inq. Inq’s only option was to stab randomly since their detection method was worthless. I’d have liked to them try the suggestion on the forum (make it easy for sorc to hide from BD but impossible to hide from Inq) but I also like this new stuff a lot.</p>
+</blockquote>
+</aside>
+<p>Frames and tailors are the only “hard” counters that I’m ok with.  Investigations would be overpowered if they were infallible.  Their only weakness would be being hard to confirm.</p>
+<aside class="quote no-group" data-username="Hippolytus" data-post="139" data-topic="71915" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="/user_avatar/forum.throneoflies.com/hippolytus/40/34066_2.png" class="avatar"> Hippolytus:</div>
+<blockquote>
+<p>I don’t really know why people were asking for more true neutral neuts tbh. Some neuts will always benefit one side, doesn’t mean they aren’t neutral.</p>
+</blockquote>
+</aside>
+<p>Because they’re called neutral for a reason.  And I find true neuts more fun to play as since you aren’t restricted to a single side.</p>
+<aside class="quote no-group" data-username="NuclearBurrito" data-post="140" data-topic="71915" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/nuclearburrito/40/4723_2.png" class="avatar"> NuclearBurrito:</div>
+<blockquote>
+<p>For some of them it makes sense. Mercenary for example doesn’t HAVE to be as BD sided as it was (although it definitely could be). However Sorcerer and Fool are NE for a reason</p>
+</blockquote>
+</aside>
+<p>NEs are fine, but there shouldn’t be BD-sided neuts(at least not like the old merc was).</p>
+<aside class="quote no-group" data-username="bazingaboy" data-post="146" data-topic="71915">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/bazingaboy/40/6952_2.png" class="avatar"> bazingaboy:</div>
+<blockquote>
+<p>I don’t even care if neutrals want to help BD, but they shouldn’t be risk free in doing so. Why do they have death immunity? Using pro - BD abilities like nightstalk or that investigative potion should remove your night immunity.</p>
+</blockquote>
+</aside>
+<p>Investigative abilities aren’t always pro-BD.  Alch is fine now, it would be too hard to survive without some self-survival ability.</p>
+          <p><a href="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/150">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/150</link>
+        <pubDate>Wed, 29 Aug 2018 20:28:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71915-150</guid>
+        <source url="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915.rss">1.2.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>1.2.0 Patch Notes</title>
+        <dc:creator><![CDATA[Insanity]]></dc:creator>
+        <description><![CDATA[
+            <p>Pretty much JOAT…</p>
+<p>And it is more town sided.</p>
+          <p><a href="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/149">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/1-2-0-patch-notes/71915/149</link>
+        <pubDate>Wed, 29 Aug 2018 09:07:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71915-149</guid>
+        <source url="https://forum.throneoflies.com/t/1-2-0-patch-notes/71915.rss">1.2.0 Patch Notes</source>
+      </item>
+  </channel>
+</rss>

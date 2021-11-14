@@ -1,0 +1,1800 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>SFoL 58 Balance Talk Thread Revamped</title>
+    <link>https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967</link>
+    <description>**SFoL 58 -- Last Stand of the Righteous**
+Starting early or mid Decemberf
+
+Lore: The order of the Unseen have taken over the entire world now. Unseen from different lands have joined forces towards their common mission. Their previous enemies, the Blue Dragon and Hand of Byzantium respectively, are almost entirely wiped out. However, it seems one of these two groups of heroes has returned for a last stand against the Unseen empire. Can the hopelessly outnumbered heroes reclaim their homeland? Or will the unseen secure their rule of the land of Adiart for good?
+
+Baseline Mechanics: This game is a combination of Return of the Blue Dragon and the inverse of Hand of Byzantium. There are 33 possible unseen classes in game, 17 from the Return of the Blue Dragon roleset and 16 from the Hand of Byzantium that I have reworked to be town classes instead of scum. Every unseen class from RotBD is here, but I only included unseen classes from HoB that I could pair with each one from RotBD and FoL, so a few HoB classes are missing as I only picked the ones that could be paired for conversion purposes. Unseen are the town faction and either the Blue Dragon or the Hand of Byzantium are the scum faction. Any neutral and neutral killer class from Return of the BD and Hand of Byzantium can appear, with slight alterations to some classes being made from me to compensate for flipping the town and scum factions. Both the Blue Dragon and Hand of Byzantium are much more similar to the Unseen Faction in Forum of Lies than the Cult Faction in Forum of Lies, although they differ from each other in some notable ways.
+
+**Scum Faction: 50% chance BD, 50% chance HoB**
+
+**Convert Classes:**
+[color = purple] **Alcoholic** [/color] and [color = purple] **Bureaucrat** [/color] both convert to either [color = steblue] **Drunk** [/color] or [color = goldenrod] **Overseer** [/color] depending on game type.
+[color = purple] **Aristocrat** [/color] and [color = purple] **Judge** [/color] both convert to either [color = steblue] **Noble** [/color] or [color = goldenrod] **Magistrate** [/color] depending on game type.
+[color = purple] **Duchess** [/color] and [color = purple] **Archivist** [/color] both convert to either [color = steblue] **Princess** [/color] or [color = goldenrod] **Librarian** [/color] depending on game type.
+[color = purple] **Enforcer** [/color] and [color = purple] **Fanatic** [/color] both convert to either [color = steblue] **Knight** [/color] or [color = goldenrod] **Crusader** [/color] depending on game type.
+[color = purple] **Handmaiden** [/color] and [color = purple] **Marchioness** [/color] both convert to either [color = steblue] **Maid** [/color] or [color = goldenrod] **Socialite** [/color] depending on game type.
+[color = purple] **Illusionist** [/color] and [color = purple] **Exiled** [/color] both convert to either [color = steblue] **Mystic** [/color] or [color = goldenrod] **Cabalist** [/color] depending on game type.
+[color = purple] **Marshal** [/color] (Same class no matter which scum faction) converts to either [color = steblue] **Sheriff** [/color] or [color = goldenrod] **Agent** [/color] depending on game type.
+[color = purple] **Duke** [/color] (Same class no matter which scum faction) converts to either [color = steblue] **Prince** [/color] or [color = goldenrod] **Warden** [/color] depending on game type.
+[color = purple] **Torturer** [/color] (Same class no matter which scum faction) converts to either [color = steblue] **Court Sorceress** [/color] or [color = goldenrod] **Sentinel** [/color] depending on game type.
+[color = purple] **Page** [/color] (Same class no matter which scum faction) converts to either [color = steblue] **Squire** [/color] or [color = goldenrod] **Squire** [/color] depending on game type.
+[color = purple] **Nightwatch** [/color] and [color = purple] **Stalker** [/color] both convert to either [color = steblue] **Observer** [/color] or [color = goldenrod] **Watchman** [/color] depending on game type.
+[color = purple] **Poacher** [/color] and [color = purple] **Baronet** [/color] both convert to either [color = steblue] **Hunter** [/color] or [color = goldenrod] **Duelist** [/color] depending on game type.
+[color = purple] **Sage** [/color] and [color = purple] **Forest Witch** [/color] both convert to either [color = steblue] **Court Sorceress** [/color] or [color = goldenrod] **Druid** [/color] depending on game type.
+[color = purple] **Servant** [/color] and [color = purple] **Infiltrator** [/color] both converts to either [color = steblue] **Butler** [/color] or [color = goldenrod] **Sentinel** [/color] depending on game type.
+[color = purple] **Herbalist** [/color] and [color = purple] **Plague Doctor** [/color] both convert to either [color = steblue] **Physician** [/color] or [color = goldenrod] **Surgeon** [/color] depending on game type.
+[color = purple] **Soulcatcher** [/color] and [color = purple] **Blasphemer** [/color] both convert to either [color = steblue] **Priest** [/color] or [color = goldenrod] **Saint** [/color] depending on game type.
+[color = purple] **Arbalest** [/color] and [color = purple] **Marauder** [/color] both convert to either [color = steblue] **Archer** [/color] or [color = goldenrod] **Warrior** [/color] depending on game type.
+[color = purple] **Timesnatcher** [/color] and [color = purple] **Minstrel** [/color] both convert to either [color = steblue] **Chronomancer** [/color] or [color = goldenrod] **Bard** [/color] depending on game type.
+
+[color = steblue] **Heroine** [/color] = [color = goldenrod] **Champion** [/color] = Scum Killer
+[color = steblue] **Visionary** [/color] = [color = goldenrod] **Arbiter** [/color] = Scum Converter
+
+Game Setup: 20 players
+King (60% [color = purple] **Corrupted**[/color], 40% [color = steblue] **Righteous** [/color] or [color = goldenrod] **Purified**[/color])
+[color = steblue] **Visionary** [/color] or [color = goldenrod] **Arbiter** [/color]
+[color = steblue] **Heroine** [/color] or [color = goldenrod] **Champion** [/color]
+Random [color = steblue] **Blue Dragon** [/color] or [color = goldenrod] **Hand of Byzantium** [/color] Convert Class
+[color = purple] **Duke** [/color]
+[color = purple] **Marshal** [/color]
+[color = purple] **Random Unseen** [/color]
+[color = purple] **Random Unseen** [/color]
+[color = purple] **Random Unseen** [/color]
+[color = purple] **Random Unseen** [/color]
+[color = purple] **Random Unseen** [/color]
+[color = purple] **Random Unseen** [/color]
+[color = purple] **Random Unseen** [/color]
+[color = purple] **Random Unseen** [/color]
+[color = purple] **Random Unseen** [/color]
+[color = purple] **Random Unseen** [/color]
+[color = purple] **Random Unseen** [/color]
+[color = purple] **Random Unseen** [/color] / [color = grey] **Random Neutral Non-Killer** [/color]
+[color = grey] **Random Neutral Non-Killer** [/color]
+[color = grey] **Neutral Killer** [/color]
+
+20-er, King, 13-14 Unseen, 1-2 Non NK Neuts, 3 BD or HoB, 1 NK
+
+**All Unique Classes besides Duke and Marshal will have Prestige, and as such only up to three of them can roll in the entire game. If the starting convert class is rolled as a prestige class, this would contribute to the limit of 3. An unseen prestige class and its scum convert equivalent cannot both roll as starting classes in the same game; i.e. no spawning of both Archivist and Librarian at the start, etc.**
+
+**Neutral Killer Win Condition is to make it to the final 5 players alive. If the NK accomplishes this, they instantly win and every other class that is not a Neutral who has achieved their win condition, loses.**
+
+**The Blue Dragon and Hand of Byzantium cannot convert night 1. After that, the second conversion has a 2-night cooldown and conversions after that have a 1-night cooldown. They may have up to four members alive.**
+
+No unseen class besides the Corrupted King is unconvertible. All neutral classes are still unconvertable though, of course.
+
+Limit of 3 copies of any non-unique class.
+
+# **Classes:**
+
+[details=&quot;Kings&quot;]
+&gt; # [color=purple]The Corrupted King :crossed_swords: :shield: [/color]
+&gt; [color=purple]**Unseen Special**[/color]
+**Pass The Torch (Passive)** - If you die, there will be a vote held to crown the next King. If you are executed for treason, all players will lose their Royal Blood passive.
+**Head of State (Passive)** - Your vote counts as two. You may use both of your day abilities at once.
+**Royal Pardon (Day)** - Make a player unable to be voted today. - 2 uses
+**Sword of Damocles (Day)**  - If nobody hits majority by the end of the day, then the player with the most votes will be executed. - One use
+**Praetorian Guard (Night)**  - Sends a guard to a player. They will be immune to death tonight. - 3 uses
+**Imperial Advisers (Night)**  - Sends an adviser to a player. They will be immune to conversions for the night. - 3 uses
+**Permanent Scheme (Night)** - Target player will be immune to conversion for the rest of the game - 1 use (Starting King Only)
+*Your objective is to defeat the Blue Dragon or Hand of Byzantium and any neutrals that seek to do you harm.*
+
+&gt;Crowned from:
+&gt; * Any member of the Unseen.
+---
+&gt; # [color=steblue]The Righteous King :crossed_swords: :shield: [/color]
+&gt; [color=steblue]**Blue Dragon Special**[/color]
+**Pass The Torch (Passive)** - If you die, there will be a vote held to crown the next King.
+**Head of State (Passive)** - Your vote counts as two. You may use both day abilities at once.
+**Sword of Damocles (Day)** - If nobody hits majority by the end of the day, then the player with the most votes will be executed. - One use
+**Royal Pardon (Day)** - Make a player unable to be voted today. - 2 uses
+**Guard! (Night)** - Choose a player. They will be immune to death tonight. - 3 uses
+**Swear Fealty (Night)** - All Blue Dragon players will appear to be a member of the Unseen tonight. - 1 use
+*Your objective is to defeat the Unseen and any neutrals that seek to do you harm.*
+
+&gt;Crowned From:
+&gt; * Any member of the Blue Dragon.
+---
+&gt; # [color = goldenrod] The Purified King :crossed_swords: :shield: [/color]
+&gt; [color = goldenrod] **Hand of Byzantium Special** [/color]
+**Dynastic Cycle (Passive)** - If you die, there will be a vote held to crown the next King.
+**Head of State (Passive)** - Your vote for treason counts as two. You may use both day abilities at once.
+**Sword of Damocles (Day)** - If nobody hits majority by the end of the day, then the player with the most votes will be executed. - One use
+**Royal Pardon (Day)** - Make a player unable to be voted today. - 2 uses
+**Champion&#39;s Council (Night)** - Sends a champion (An assistant champion, different than the real champion, does not affect the current champion&#39;s actions) to attack a player. This attack does not count as a visit and cannot be stopped. Can only be used on the second night or after that you are crowned. - One use
+**Hero&#39;s Immunity (Night)** - Permanently makes a player be seen as a member of the Unseen to faction checks. - 2 uses
+*Your objective is to defeat the Unseen and any neutrals that seek to do you harm.*
+
+&gt;Crowned from:
+&gt; * Any member of the Hand of Byzantium.
+---
+&gt; # [color=red]The Begrudged King :shield:[/color]
+&gt; [color=grey]**Neutral Special**[/color]
+**Pass The Torch (Passive)**  - If you die, there will be a vote held to crown the next King.
+**Head of State (Passive)**  - Your vote counts as two. You may use both day abilities at once.
+**Royal Pardon (Day)**  - Make a player unable to be voted today. - 2 uses
+**Sword of Damocles (Day)**  - If nobody hits majority by the end of the day, then the player with the most votes will be executed. - One use
+**Guard! (Night)**  - Choose a player. They will be immune to death tonight. - 3 uses
+**Contraband (Night)**  - Send a guard to frame your target. They will appear as a member of the Blue Dragon tonight. - Infinite uses
+*You retain the objective you had before you became King.*
+
+&gt;Crowned from:
+&gt; * The Scorned
+&gt; * The Devil
+---
+&gt;# [color=lightgrey]The Liberal King[/color] :shield:
+&gt; [color=grey]**Neutral Special**[/color]
+**Pass The Torch (Passive)**  - If you die, there will be a vote held to crown the next King.
+**Head of State (Passive)**  - Your vote counts as two. You may use both day abilities at once.
+**Royal Pardon (Day)**  - Make a player unable to be voted today. - 2 uses
+**Sword of Damocles (Day)**  - If nobody hits majority by the end of the day, then the player with the most votes will be executed. - One use
+**Guard! (Night)**  - Choose a player. They will be immune to death tonight. - 3 uses
+**Mark (Night)**  - The target player temporarily loses death immunity if they have it, and can not be healed tonight. - 2 uses
+*See the Unseen defeated at any cost.*
+
+&gt;Crowned from:
+&gt; * The Mage
+&gt; * The Soldier
+&gt; * The Alchemist (The Evils)
+---
+&gt; # [color=lightgrey]The Cowardly King :shield: [/color]
+&gt; [color=grey]**Neutral Special**[/color]
+**Pass The Torch Sometimes (Passive)**  - If you die at night, there will be a vote held to crown the next King.
+**Spiteful (Passive)**  - Spiteful of your enemies, if you are executed there will be no more Kings this game. Additionally, your vote counts as two and you may use both day abilities at once.
+**Sword of Damocles (Day)**  - If nobody hits majority by the end of the day, then the player with the most votes will be executed. - One use
+**Royal Pardon (Day)**  - Make a player unable to be voted today. - 2 uses
+**Guard! (Night)**  - Choose a player. They will be immune to death tonight. - 3 uses
+**Cower (Night)**  - You will be death immune tonight. - 2 uses
+*Your objective is to survive.*
+
+&gt;Crowned from:
+&gt; * The Alchemist (The Town)
+&gt; * The Alchemist (Neutrality)
+---
+&gt; # [color=orangered]The Inquisitive King[/color] :shield: 
+&gt; [color=grey]**Neutral Special**[/color]
+**Pass The Torch (Passive)** - If you die, there will be a vote held to crown the next King.
+**Head of State (Passive)** - Your vote counts as two when putting people on trial. You may use both day abilities at once.
+**Royal Pardon (Day)** - Make a player unable to be voted today. - 2 uses
+**Sword of Damocles (Day)**  - If nobody hits majority by the end of the day, then the player with the most votes will be executed. - One use
+**Guard! (Night)**  - Choose a player. They will be immune to death tonight. - 3 uses
+**Ruthless Guards (Night)** - Check if target player is a Heathen and kill them if they are. The attack will bypass healing. - 2 uses
+*Your objective is to live to see all Heathens die.*
+
+&gt;Crowned from:
+&gt; * The Inquisitor
+---
+&gt;# [color=hotpink]The Mad King[/color]
+&gt; [color=grey]**Neutral Special**[/color]
+**Trickery (Passive)**  - Immune to being occupied at night.
+**Madman’s Will (Passive)**  - If you are executed, the regret of killing a madman will weigh on everyone. Your initial accuser will die at the end of the night tonight. You also choose an heir to succeed you as King. The player you choose will immediately become The King. Additionally, your vote counts as two and you may use both day abilities at once.
+**Royal Pardon (Day)**  - Make a player unable to be voted today. - 2 uses
+**Sword of Damocles (Day)**  - If nobody hits majority by the end of the day, then the player with the most votes will be executed. - One use
+**Guard! (Night)**  - Choose a player. They will be immune to death tonight. - 3 uses
+**Hide (Night)**  - No-one will be able to visit you tonight. - 2 uses
+*Your objective is to be executed for treason.*
+
+&gt;Crowned from:
+&gt; * The Fool
+---
+&gt; # [color=#86a94a]The Plutocratic King :shield:[/color]
+&gt; [color=grey]**Neutral Special**[/color]
+**Pass The Torch (Passive)**  - If you die, there will be a vote held to crown the next King.
+**Failure (Passive)**  - If your target dies, you will become the Cowardly King. Additionally, your vote counts as two and you may use both day abilities at once.
+**Royal Pardon (Day)**  - Make a player unable to be voted today. - 2 uses
+**Sword of Damocles (Day)**  - If nobody hits majority by the end of the day, then the player with the most votes will be executed. - One use
+**Guard! (Night)**  - Choose a player. They will be immune to death tonight. - 3 uses
+**Protect (Night)**  - Your target will be death immune tonight. - Infinite uses
+*Your objective is to ensure that your target remains alive until the end of the game.*
+
+&gt;Crowned from:
+&gt; * The Mercenary
+---
+&gt; # [color=red]The Psy[/color][color=orange]chopat[/color][color=yellow]hic Kin[/color][color=green]g (Unof[/color][color=blue]ficial[/color] [color=purple]Class)[/color] :shield:
+&gt; [color=grey]**Neutral Special**[/color]
+**Insanity (Passive)**  - You are immune to death at night. Additionally, your vote counts as two and you may use both day abilities at once.
+**Pass The Torch (Passive)**  - If you die, there will be a vote held to crown the next King.
+**Royal Pardon (Day)**  - Make a player unable to be voted today. - 2 uses
+**Sword of Damocles (Day)**  - If nobody hits majority by the end of the day, then the player with the most votes will be executed. - One use
+**Guard! (Night)**  - Choose a player. They will be immune to death tonight. - 3 uses
+**Personal Execution (Night)**  - Send a guard to kill a player. - Infinite uses
+_Your objective is to make it to the last five players alive._
+
+&gt;Crowned from:
+&gt; * The Demon
+&gt; * The Electrocutioner
+&gt; * The Possessor
+&gt; * The Reaper
+&gt; * The Sorcerer
+---
+&gt; # [color=8B4513]The Usurper King[/color] :shield: 
+&gt; [color=grey]**Neutral Special**[/color]
+**Pass The Torch (Passive)** - If you die, there will be a vote held to crown the next King.
+**Head of State (Passive)** - Your vote counts as two when putting people on trial. You may use both day abilities at once.
+**Royal Pardon (Day)** - Make a player unable to be voted today. - 2 uses
+**Sword of Damocles (Day)**  - If nobody hits majority by the end of the day, then the player with the most votes will be executed. - One use
+**Guard? (Night)** - Prevent all visits to you tonight - 1 use
+**Disinherit (Night)** - Permanently remove a player’s royal blood. If this is successful, you will gain two uses of Guard?. - Infinite uses
+*Your objective is to survive until the end of the Game.*
+
+&gt;Crowned from:
+&gt; * The Pretender
+---
+&gt; # [color = &quot;blanchedalmond&quot;] The Decadent King[/color] :shield: 
+&gt;**[color = gray]Neutral Special[/color]**
+**End of a Dynasty (Passive)** - Your vote for treason counts as two and you may use both day abilities at once.  If the Decadent King dies after the day he was crowned ended, then there will not be any King elections to replace him.
+**Inept Government (Passive)** - In the night after the Viscount is crowned, if not executed, all faction checks will always return Hand of Byzantium and healing will always fail. After winning, the Decadent Emperor cannot accuse anyone of treason, and loses his king abilities.
+**Royal Pardon (Day)** - Make a player unable to be voted today. - 2 uses 
+**Sword of Damocles (Day)** - If nobody hits majority by the end of the day, then the player with the most votes will be executed. - One use
+_Live to become Emperor for at least a day._
+
+&gt;Crowned from:
+&gt; * The Viscount
+---
+&gt;# [color = mediumvioletred]The Faithless King[/color] :shield: 
+&gt; **[color = &quot;gray&quot;] Neutral Special [/color]** 
+**Dynastic Cycle (Passive)** - If you die, there will be a vote held to crown the next Emperor. 
+**Head of State (Passive)** - Your vote for treason counts as two. You may use both your day abilities at once.
+**Royal Pardon (Day)** - Make a player unable to be voted today. - 2 uses
+**Sword of Damocles (Day)** - If nobody hits majority by the end of the day, then the player with the most votes will be executed. - One use
+**Faithless Guard (Night)** - Sends a guard to a player. They will be immune to death tonight. - 3 uses
+**Faithless Advisers (Night)** - Sends an adviser to a player. They will be immune to conversions for the night. - 3 uses
+_Your objective is to defeat the Blue Dragon or the Hand of Byzantium._
+---
+&gt;Crowned from:
+&gt; * The Insurgent, providing the starting King was a Righteous King or a Purified King.
+---
+&gt;# [color = darkkhaki]The Hunting King[/color] :shield: 
+&gt; **[color = grey] Neutral Special [/color]**
+**Dynastic Cycle (Passive)** - If you die or leave the match, there will be a vote held to crown the next Emperor.
+**Head of State (Passive)** - Your vote for treason counts as two. You may use all your day abilities at once. You are immune to death at night. If all players of your target class die at night or you miss using Imperial Ballista&#39;s both shots, then you will commit suicide.
+**Royal Pardon (Day)** - Make a player unable to be voted today. - 2 uses
+**Sword of Damocles (Day)** - If nobody hits majority by the end of the day, then the player with the most votes will be executed. - One use
+**Imperial Ballista (Day)** - Kills a player in broad daylight. - 2 uses
+**Royal Detectives (Night)** - Learns your target&#39;s class type and faction. You may use this on two players the same night. - Infinite uses
+**Royal Lookouts (Night)** - Learns who visited your target and who they visited. You may use this on two players the same night. - Infinite uses
+*Use Imperial Ballista to kill a player whose class started out as your target.* 
+
+&gt;Crowned from:
+&gt; * The Headhunter
+---
+&gt;# [color = lightcoral]The Pacifist King[/color] :shield: 
+&gt; **[color = &quot;gray&quot;] Neutral Special [/color]** 
+**Dynastic Cycle (Passive)** - If you die, there will be a vote held to crown the next King. You are immune to death at night for the first three nights.
+**Head of State (Passive)** - Your vote for treason counts as two. You may all both your day abilities at once. If a second Unseen member is executed, you will commit suicide the following night.
+**Devotion (Day)** - If your target hits majority and they are a member of the Unseen then you will die in their stead. - Two uses
+**Royal Pardon (Day)** - Make a player unable to be voted today. - 2 uses
+**Sword of Damocles (Day)** - If nobody hits majority by the end of the day, then the player with the most votes will be executed. - One use
+**Transparency (Night)** - All investigations will net accurate results for the night. - 2 uses
+**Imperial Pardon (Night)** - Prevents your target from being voted tomorrow. - 3 uses
+*Make sure no more two Unseen members are wrongfully executed.* 
+
+&gt;Crowned from:
+&gt; * The Obedient.
+---
+&gt;# [color=red]The S[/color][color=orange]ocio[/color][color=yellow]path[/color][color=green]ic K[/color][color=blue]in[/color][color=purple]g[/color] :shield:
+&gt; **[color = grey] Neutral Special [/color]**
+**Dynastic Cycle (Passive)** - If you die, there will be a vote held to crown the next King.
+**Insanity (Passive)** - You are immune to death at night. Additionally, your vote counts as two and you may use both day abilities at once.
+**Royal Pardon (Day)** - Make a player unable to be voted today. - 2 uses
+**Sword of Damocles (Day)** - If nobody hits majority by the end of the day, then the player with the most votes will be executed. - One use
+**Personal Execution (Night)** - Send a guard to kill a player. - Infinite uses
+_Your objective is to make it to the last five players alive._
+
+&gt;Crowned from:
+&gt; * The Basilisk
+&gt; * The Berserker
+&gt; * The Doppelgänger
+&gt; * The Occultist
+&gt; * The Ifrit
+&gt; * The Lich
+&gt; * The Succubus
+&gt; * The Werewolf
+---
+&gt;# [color = black]The Revolutionary King[/color] :shield: 
+&gt; **[color = grey] Neutral Special [/color]**
+**Dynastic Cycle (Passive)** - If you die, there will be a vote held to crown the next Emperor. 
+**Head of State (Passive)** - Your vote for treason counts as two. You may use both your day abilities at once. You are immune to death at night.
+**Royal Pardon (Day)** - Make a player unable to be voted today. - 2 uses
+**Sword of Damocles (Day)** - If nobody hits majority by the end of the day, then the player with the most votes will be executed. - One use
+**Embargo (Night)** - Occupies a player and prevents all non-killing or conversion actions against them. - 2 uses
+**Stigmatize (Night)**  - Permanently frames the player, making them show up as Unseen or Cult to faction checks or Killer to class type checks. -  One use
+*See the Unseen defeated at any cost.* 
+
+&gt;Crowned from:
+&gt; * The Begrudged
+&gt; * The Resurrectionist
+&gt; * The Insurgent, providing the starting King was a Corrupted King.
+&gt; * The Senex, providing they are aligned against the Unseen.
+---
+&gt;# [color = darkorchid] The Tyrannous King [/color]:shield: 
+&gt; **[color = grey] Neutral Special [/color]**
+&gt;**Reign of Terror (Passive)** - Your guards will bypass both night immunity and healing if your target did not vote for you during the election phase. If you die, there will be a vote held to crown the next Emperor.
+&gt;**L&amp;rsquo;etat, C&amp;rsquo;est Moi (Passive)** - You are immune to death at night and bleeding. Additionally, your vote counts as two and you may use both day abilities at once. For the first time you are executed for treason, you will instantly pardon yourself when on trial and kill your first accuser in broad daylight. You cannot use Sadistic Guards the night after this passive activates.
+**Royal Pardon (Day)** - Make a player unable to be voted today. - 2 uses
+**Sword of Damocles (Day)** - If nobody hits majority by the end of the day, then the player with the most votes will be executed. - One use
+**Sadistic Guards (Night)** - Allows the Tyrannous King to select two players who will then be attacked and killed by his guards. - Infinite uses
+_Your objective is to make it to the last five players alive._
+
+&gt;Crowned from:
+&gt; * The Archduke.
+---
+&gt;# [color = sienna]The Vengeful King[/color] :shield: 
+&gt; **[color = grey] Neutral Special [/color]**
+**Dynastic Cycle (Passive)** - If you die or leave the match, there will be a vote held to crown the next Emperor. Upon fulfilling your win condition, you will leave the match.
+**Head of State (Passive)** - Your vote for treason counts as two. You may use both your day abilities at once. You are immune to death at night.
+**Royal Pardon (Day)** - Make a player unable to be voted today. - 2 uses
+**Sword of Damocles (Day)** - If nobody hits majority by the end of the day, then the player with the most votes will be executed. - One use
+**Karma (Night)** - Marks a player as a target, permanently frames them, and learns their class type. Does not work if the target is not aligned with the Hand of Byzantium. - Infinite uses
+**Draconian Law (Night)** - Marks a player as a target if they are aligned with the Hand of Byzantium. They will silently require two less votes to be executed for the coming day. - 2 uses
+*See two of your marked targets publicly executed.* 
+
+&gt;Crowned from:
+&gt; * The Crone
+---
+&gt;# [color = firebrick]The Vampiric King[/color] :shield: 
+&gt; **[color = grey] Neutral Special [/color]**
+**Dynastic Cycle (Passive)** - If you die, there will be a vote held to crown the next Emperor.
+**Head of State (Passive)** - Your vote for treason counts as two and you may use both day abilities at once. You may use both your day abilities at once. If you are using Vampiric Envoy then you will heal yourself if you would be nightkilled. You will always be under the effect of Vampirism and you will know all living players who are Bitten.
+**Royal Pardon (Day)** - Make a player unable to be voted today. - 2 uses
+**Sword of Damocles (Day)** - If nobody hits majority by the end of the day, then the player with the most votes will be executed. - One use
+**Vampiric Envoy (Night)** - Bites a player, infecting them with Vampirism, preventing healing, and occupying them. Players infected with Vampirism will be shown as a Neutral and a Killer for investigative abilities and will have their visits hidden. - Infinite uses 
+*Make sure at least half of the living remainder of the Court is infected with Vampirism by the end of the game.* 
+
+&gt;Crowned from:
+&gt; * The Strigoi
+[/details]
+
+[details = Unseen]
+&gt; # [color = purple] **The Marshal** :shield: [/color]
+&gt; [color = purple] **Unseen Investigative** [/color]
+**Scout (Day)** - Your scout will inform you whether a particular player has been visited by a traitor to the unseen at the end of the night (Detects scum faction visits only, not any neutrals), and the faction of the player that visited your target if so. This ability can never detect the Visionary or the Arbiter. - Infinite Uses
+**Expert Investigation (Night)** - Learn whether or not a player is a traitor to the unseen and their faction if so (Affects scum faction only, not any neutrals). This ability can never detect the Visionary or the Arbiter. - Infinite Uses
+**Cynical Surveilance** - If a player is a traitor to the unseen, learn their exact class (Affects scum faction only, not any neutrals). This ability can never detect the Visionary or the Arbiter. - 3 Uses
+*Defeat the Blue Dragon or Hand of Byzantum and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Sheriff**[/color] or [color = goldenrod]**The Agent**[/color]
+---
+&gt; # [color = purple] The Duke :shield: :crossed_swords: [/color]
+&gt; [color = purple] **Unseen Killer** [/color]
+**Unstoppable (Passive)** - Immune to being occupied and redirected at night.
+**Royal Blood (Passive)** - Votes to become king count as two for you.
+**Kidnap (Day)** - Choose a player to kidnap at night, This occupies them while bypassing occupation immunity and preventing all visits to targeted player. You and them may also exchange up to two 10000 character messages. - Infinite uses. - Infinite uses.
+**Execute (Night)** - Kill the kidnapped player bypassing any and immunites as the most powerful form of night attack in the game. If you execute a member of the Unseen, you lose all your remaining executions. - 3 uses, available starting Night 2
+*Defeat the Blue Dragon or Hand of Byzantium and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Prince**[/color] or [color = goldenrod]**The Warden**[/color]
+---
+&gt; # [color = purple] The Marchioness [/color]
+&gt; [color = purple] **Unseen Investigative** [/color]
+**Royal Blood (Passive)** - Your votes for King will count twice.
+**VIP List (Day)** -  By the end of the coming night, you will know how many players of different factions visited you, but will not be told which factions. - 2 uses
+**Social Links (Night)** - Select two players and you will receive a positive result providing both targets’ class type groupings match. Groups are Special/Investigative, Social/Support, and Killer/Offensive. You will receive either no match if they are from different groups, a good match if they are in the same group, and a perfect match if they are the same class type. - Infinite uses
+**Night Waltz (Night)** - Select two players and you will receive a positive result providing both targets’ alignments match; otherwise a negative result. - One use
+*Defeat the Blue Dragon or Hand of Byzantium and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Maid**[/color] or [color = goldenrod]**The Socialite**[/color]
+---
+&gt; # [color = purple] The Minstrel [/color]
+&gt; [color = purple] **Unseen Support** [/color]
+**Pure Wits (Day)** - In the coming night you will be immune to being occupied at night and immune to target changing. - 3 uses
+**Ballad (Night)** - **Ballad (Night)**  - Cure a player’s bleeding. They will also be occupation, redirection and night immune tonight. (2 uses)
+**Crescendo (Night)** - If your target is redirecting, occupying, or attacking, then they will bypass immunities during this night. - Infinite uses
+*Defeat the Blue Dragon or Hand of Byzantium and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Chronomancer**[/color] or [color = goldenrod]**The Bard**[/color]
+---
+&gt; # [color = purple] The Archivist :shield: [/color]
+&gt; [color = purple] **Unseen Social** [/color]
+**Prestige (Passive)** - Only up to three classes with Prestige can spawn the entire game.
+**Repository (Passive)** - You start in a public log network by yourself. Players in the network will be allowed to read the logs of any other player in the network. The Repository remains open while the archivist is still alive regardless if they have been converted.
+**Archive (Day)** - Invites a player to the log network. The player must accept before joining and can choose to leave at anytime. Can only invite two players per day. - Infinite uses
+**Revoke (Night)** - Removes a player from the log network. - Infinite uses
+**Censorship (Night)** - Deactivates the Blue Dragon or Hand of Byzantium day chat for the next day and night. - One use
+*Defeat the Blue Dragon or Hand of Byzantium and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Princess**[/color] or [color = goldenrod]**The Librarian**[/color]
+---
+&gt; # [color = purple] The Baronet [/color]
+&gt; [color = purple] **Unseen Killer** [/color]
+**Royal Blood (Passive)** - Your votes for King will count twice.
+**Gerissen (Passive)** - If you have killed any Unseen-aligned players in the match, then you will not be allowed to receive votes to become the King.
+**Missgunst (Day)** - Grants night immunity for the coming night. If any attack is blocked then you will gain a use of Vom Tach. - 2 uses
+**Mittelhau (Night)** - Redirects the selected player’s action to you while also granting yourself immunity to all redirected attacks and conversions, then attack the player. If you successfully kill a player then you will gain a use of Vom Tach. Disables the your night abilities if the target is aligned with the Unseen. - Infinite uses
+**Vom Tach (Night)** - Prevents you from being occupied or redirected, then attacks the your target and kills them, bypassing healing and night immunity. Disables your night abilities if the target is aligned with the Unseen. - 0 uses
+*Defeat the Blue Dragon or Hand of Byzantium and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Hunter**[/color] or [color = goldenrod]**The Duelist**[/color]
+---
+&gt; # [color = purple] The Blasphemer :shield: [/color]
+&gt; [color = purple] **Unseen Social** [/color]
+**Incantations (Passive)** - You may speak with the dead during the night and day.
+**Prestige (Passive)** - Only up to three classes with Prestige can spawn the entire game.
+**Heretical Decree (Day)** - Will allow you to speak and vote even while dead. Can only be used after you’ve died. - One use
+**Black Mercy (Night)** - Selects a dead Unseen-aligned player and forces them to use their primary night action on a living one. Cannot be used on Killer classes. - Infinite uses
+**Bind Soul (Night)** - Binds a dead player to you, allowing them to speak while dead for as long as you are alive, but they will be removed from dead chat. - One use
+**Spiritual Merge (Night)** - If an Unseen-aligned player was executed during the previous day and Heretical Decree was used, then you can resurrect them. - One use
+*Defeat the Blue Dragon or Hand of Byzantium and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Priest**[/color] or [color = goldenrod]**The Saint**[/color]
+---
+&gt; # [color = purple] The Bureaucrat [/color]
+&gt; [color = purple] **Unseen Offensive** [/color]
+**Overrule (Day)** - Causes your first target to select their second target if they use any day abilities today. - 2 uses
+**Red Tape (Day)** - The King&#39;s night actions will fail tonight. - 2 uses
+**Order of Relocation (Night)** - Forces your first target’s night action to be redirected to your second target. - Infinite uses
+**Order of Exchange (Night)** - Select two players and force them to target each other. - One use
+*Defeat the Blue Dragon or Hand of Byzantium and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Drunk**[/color] or [color = goldenrod]**The Overseer**[/color]
+---
+&gt; # [color = purple] The Exiled :shield: [/color]
+&gt; [color = purple] **Unseen Social** [/color]
+**Unseen Traditions (Passive)** - The Exiled may only roll in groups of two. You will have an all-day chat with the other Exiled. You are immune to conversion while the other Exiled is still alive.
+**Prestige (Passive)** - Only up to three classes with Prestige can spawn the entire game.
+**Letter with no Sender (Day)** - Sends an anonymous message to a player. - Infinite uses
+**Cryptic Communications (Night)** - Sends an anonymous message to a player and they will be able to post a reply. - Infinite uses
+**Influence of the Black Rose (Night)** - If alive, the other Exiled will not be able to be voted tomorrow. - One use
+*Defeat the Blue Dragon or Hand of Byzantium and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Mystic**[/color] or [color = goldenrod]**The Cabalist**[/color]
+---
+&gt; # [color = purple] The Fanatic [/color]
+&gt; [color = purple] **Unseen Killer** [/color]
+**Piety (Day)** - If any player not aligned with the Unseen faction visits you this coming night, they will be prevented and bled. You cannot use Malleus Maleficarum after using Providence.- One use
+**Martyrdom (Day)** - If a player is executed this day, the Fanatic can choose to sacrifice themselves in order to stop the execution and save the accused played while also bleeding their first accuser. - 1 use
+**Malleus Maleficarum (Night)** - Guards a target. If any player not aligned with the Unseen visits them they will be bled by you. This does not stop their actions. - Infinite uses
+**Regicide (Night)** - Attacks and kills two targets. You will also die of exhaustion the night they use this ability regardless of the ability’s outcome. - One use
+*Defeat the Blue Dragon or Hand of Byzantium and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Knight**[/color] or [color = goldenrod]**The Crusader**[/color]
+---
+&gt; # [color = purple] The Forest Witch [/color]
+&gt; [color = purple] **Unseen Offensive** [/color]
+**Isolation (Passive)** - Immune to occupation and target changing.
+**Nightshade Curse (Day)** - Selects a player and for the next two nights they will not be able to be healed. - 2 uses
+**Wall of Roots (Day)** - For the following night prevents non-Unseen classes from visiting you and will Bleed them. The Bleeding will kill them if they are not healed the next night. -One use
+**Curse of Lethargy (Night)** - You will occupy a player for tonight. - Infinite uses
+**Curse of Sloth (Night)** - You will occupy two players for tonight. - One use
+*Defeat the Blue Dragon or Hand of Byzantium and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Court Sorceress**[/color] or [color = goldenrod]**The Druid**[/color]
+---
+&gt; # [color = purple] The Infiltrator [/color]
+&gt; [color = purple] **Unseen Offensive** [/color]
+**Alert (Day)** - Grants immunity to occupation and to target changing the coming night. - 3 uses
+**Detainment (Night)** - Silently removes all of the passives and night immunity from your target. The Detainment will also last until the end of the next night except when it comes to removing Royal Blood, which lasts two days. - Infinite uses
+**Off-Limits (Night)** - Occupies your target if they attempts to attack or convert a player. - 2 uses
+*Defeat the Blue Dragon or Hand of Byzantium and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Butler**[/color] or [color = goldenrod]**The Sentinel**[/color]
+---
+&gt; # [color = purple] The Judge :shield: [/color]
+&gt; [color = purple] **Unseen Social** [/color]
+**Royal Blood (Passive)** - Your votes for King will count twice.
+**Prestige (Passive)** - Only up to three classes with Prestige can spawn the entire game.
+**Judicial Decree (Day)** - Resets the votes, allowing only you and your target to be put on trial for today. - 2 uses
+**Disenfranchise (Night)** - Reduces the amount of votes required to execute a player by one. - Infinite uses
+**Usurp (Night)** - Kills the King and automatically takes their place, becoming a Corrupted King. Cannot be used until the third night. - One use
+*Defeat the Blue Dragon or Hand of Byzantium and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Noble**[/color] or [color = goldenrod]**The Magistrate**[/color]
+---
+&gt; # [color = purple] The Marauder [/color]
+&gt; [color = purple] **Unseen Killer** [/color]
+**Carnage (Passive)** - If you are attacked during the first two nights, you will be immune and will counterattack instead of dying.
+**Aura of Dread (Passive)** - For every successful kill, you will gain an additional night of Carnage.
+**Boastful Rampage (Night)** - Attacks and kills a player. If the target was Unseen-aligned, then you will lose his night abilities and they will be shown as Blue Dragon or Hand of Byzantium to faction checks. - Infinite uses
+**Glare (Night)** - Redirects the target’s night action to yourself. Redirects past the second night will trigger Carnage. - One use
+*Defeat the Blue Dragon or Hand of Byzantium and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Archer**[/color] or [color = goldenrod]**The Warrior**[/color]
+---
+&gt; # [color = purple] The Plague Doctor [/color]
+&gt; [color = purple] **Unseen Support** [/color]
+**Self-Aid (Passive)** - You are immune to bleeding.
+**Reverse-Hemophilia (Day)** - You will grant a player immunity to bleeding. - One use
+**Herbal Medicine (Night)** - Heals a player, preventing them from dying tonight, and curing any bleeding and poisons they were suffering from. - Infinite uses
+**Remarkable Quarantine (Night)** - You will heal a player, giving them the effect of Herbal Medicine for this and the coming night. - One use
+*Defeat the Blue Dragon or Hand of Byzantium and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Physician**[/color] or [color = goldenrod]**The Surgeon**[/color]
+---
+&gt; # [color = purple] The Stalker [/color]
+&gt; [color = purple] **Unseen Investigative** [/color]
+**Tracking (Day)** - You will learn if your target left their room last night. - 2 uses
+**Vigilant Stalking (Night)** - You will learn who your target visits this night. - Infinite uses
+**Pinpoint (Night)** - You will learn who visits your target this night. - 2 uses
+*Defeat the Blue Dragon or Hand of Byzantium and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Observer**[/color] or [color = goldenrod]**The Watchman**[/color]
+---
+&gt; # [color = purple] The Torturer [/color]
+&gt; [color = purple] **Unseen Offensive** [/color]
+**Royal Blood (Passive)** - Your votes for Emperor will count twice.
+**Solitary Confinement (Day)** - Prevents your target from using Day Abilities. - 2 uses
+**Incarcerate (Night)** - Occupies your target while also preventing visits to them. - Infinite uses
+**Enhanced Interrogation (Night)** - Removes all limited-use abilities charges from your target. - One use
+*Defeat the Hand of Byzantium and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Court Sorceress**[/color] or [color = goldenrod]**The Sentinel**[/color]
+---
+&gt; # [color = purple] The Arbalest [/color]
+&gt; [color = purple] **Unseen Killer** [/color]
+**Volley (Day)** - If you fire an arrow at one of your marks tonight, remove all marks and attack any other player whose mark was removed. You are immune to redirection this night. - 2 uses
+**Raven Shot (Night)** - Fire an arrow to kill your target. This ability is disabled if you kill a member of the Unseen with it. - Infinite uses
+**Pin Down (Night)** - Place a mark on target player. A marked player is no longer passively death immune. You may have up to three marks. Targeting a marked player with this ability will remove the mark. Targeting yourself will remove all marks. Marks disappear on death or class change. - Infinite uses
+*Defeat the Blue Dragon or Hand of Byzantium and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Archer**[/color] or [color = goldenrod]**The Warrior**[/color]
+---
+&gt; # [color=purple]The Alcoholic[/color]
+&gt; [color=purple]**Unseen Offensive**[/color]
+&gt; **Royal Blood (Passive)** - Votes to become king count as two for you.
+**I am the Liquor (Passive)** - Immune to occupation and target changing.
+**Debauchery (Night)** - Get in a player’s way, causing them to target you. You will be immune to any attacks you redirect. - Infinite uses.
+**Happy Hour (Night)** - Occupy and get rid of your target’s immunities for the night. - 2 uses.
+*Defeat the Blue Dragon or Hand of Byzantium and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Drunk**[/color] or [color = goldenrod]**The Overseer**[/color]
+---
+&gt; # [color=purple]**The Aristocrat**[/color]
+&gt; [color=purple]**Unseen Social**[/color]
+&gt; **Royal Blood (Passive)** - Votes to become king count as two for you.
+&gt; **Pull Rank (Day)** - Your vote will count as two today. This will not be announced publicly or affect the number of votes required to reach majority. - 3 uses
+**Order (Night)** - Negate the votes of a target player the next day. They can’t accuse anyone or vote tomorrow. The target still counts towards the voting majority. - Infinite uses
+**Bounty (Night)** - If target player is executed tomorrow and is Unseen then there will be an additional trial and execution. Only one Bounty may take effect per day. You cannot target King. - 2 uses
+*Defeat the Blue Dragon or Hand of Byzantium and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Noble**[/color] or [color = goldenrod]**The Magistrate**[/color]
+---
+&gt; # [color=purple]The Duchess[/color]
+&gt; [color=purple]**Unseen Investigative**[/color]
+&gt; **Royal Blood (Passive)** - Votes to become king count as two for you.
+**Bat Eyelashes (Night)** - Check to see what class type the selected player is. You will receive two results, one of which will be their real type, and one won’t be. - Infinite uses.
+**Dark Wisp (Night)** - Uncage a Dark Wisp, making any attack attempts your target makes fail. If they try to kill somebody, you will know.  - 2 uses
+*Defeat the Blue Dragon or Hand of Byzantium and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Princess**[/color] or [color = goldenrod]**The Librarian**[/color]
+---
+&gt; # [color=purple]The Enforcer[/color]
+&gt; [color=purple]**Unseen Killer**[/color]
+**Armored (Passive)** - Your first successful use of Protect will not kill you.
+**Protect (Night)** - Protect a player, giving your life to kill their attackers. - Infinite Uses
+**Cold Steel (Night)** - Kill a target player. If they are a member of the Unseen, you will die. - Unlimited uses
+*Defeat the Blue Dragon or Hand of Byzantium and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Knight**[/color] or [color=goldenrod]**The Crusader**[/color]
+---
+&gt; # [color=purple]The Handmaiden[/color]
+&gt; [color=purple]**Unseen Investigative**[/color]
+**Matchmake (Night)** - Test of target player is compatible with your previous target. - Infinite Uses
+**Prying Servants (Night)** - Target a living player and dead player. You will learn if the living player visited the dead player on the night they died. Does not count as visiting. Will not see non-visiting abilities. - 3 uses
+*Defeat the Blue Dragon or Hand of Byzantium and any neutrals that seek to do you harm.*
+
+&gt; Compatibility:
+&gt; 
+&gt; * Members of opposing Factions are not compatible
+&gt; * Members of Neutral Factions are compatible with every Neutral Faction that they can win with
+&gt; * Royals are not compatible with each other that would be weird
+&gt; * The King, Fool, Scorned and Devil are not compatible with anyone
+&gt; * The Mercenary is compatible with her target no matter the faction
+
+&gt; Converts into [color=steblue]**The Maid**[/color] or [color = goldenrod]**The Socialite**[/color]
+---
+&gt; # [color=purple]The Herbalist[/color]
+&gt; [color=purple]**Unseen Support**[/color]
+**Remedy Studies (Passive)** - Immune to bleeding.
+**Inoculate (Day)** - Target player will be immune to bleeding - 1 use
+**Exhume (Day)** - At the end of tonight. See what class killed target dead player or if they committed suicide. - 2 uses
+**Heal (Night)** - Heal a player, preventing them from dying tonight, and cures poison and bleeding. - Infinite uses.
+**Self-Care (Night)** - Heal yourself tonight. - 2 uses
+*Defeat the Blue Dragon or Hand of Byzantium and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Physician**[/color] or [color = goldenrod]**The Surgeon**[/color]
+---
+&gt; # [color=purple]The Illusionist [/color]
+&gt; [color=purple]**Unseen Social**[/color]
+**Telepathy (Day)** - Send a 1000 character message to target player. You may not target the King with this - 3 uses.
+**Link Destinies (Night)** - Two target players will benefit from the same positive and negative effects other than killing and conversion tonight, like healing or occupation. - Infinite uses.
+*Defeat the Blue Dragon or Hand of Byzantium and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Mystic**[/color] or [color = goldenrod]**The Cabalist**[/color]
+---
+&gt; # [color=purple]The Nightwatch[/color]
+&gt; [color=purple]**Unseen Investigative**[/color]
+**Angry Bird (Day)** - See if target player leaves their room tonight at the end of tonight. - Infinite uses
+**Follow (Night)** - Observe a player to see who visits them and who they visited at night. - Infinite uses.
+**Window Peek (Night)** - Reveal a player’s faction. - 2 uses
+*Defeat the Blue Dragon or Hand of Byzantium and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Observer**[/color] or [color = goldenrod]**The Watchman**[/color]
+---
+&gt; # [color=purple]The Page :shield:[/color]
+&gt; [color=purple]**Unseen Support**[/color]
+**Defensive Youth (Passive)**  - You are night immune for the first three nights, until you are attacked for the first time, or until you remember a class - whichever happens first.
+**Train (Night)** - Allows you to select a non-unique, non-prestige Unseen-aligned class from the Graveyard. The Page in turn will become that class by the end of the night. - Infinite uses *Defeat the Blue Dragon or Hand of Byzantium and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Squire**[/color] or [color = goldenrod]**The Squire**[/color]
+---
+&gt; # [color=purple]The Poacher :shield: [/color]
+&gt; [color=purple]**Unseen Killer**[/color]
+**Retribution (Passive)** - If found guilty of treason, you will kill your initial accuser before your execution.
+**Prestige (Passive)** - Only up to three classes with Prestige can spawn the entire game.
+**Isolation (Passive)** - Immune to occupation and redirection.
+**Rabid Wolf (Day)** - Summon a wolf companion to maul a target player, making them bleed and die in two nights unless healed. - 2 uses.
+**Spike Traps (Night)** - Put spike traps outside your room, granting you death and conversion immunity for the night. You will kill any attackers who attempt to kill you, bypassing night immunity - 3 uses
+*Defeat the Blue Dragon or Hand of Byzantium and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Hunter**[/color] or [color = goldenrod]**The Duelist**[/color]
+---
+&gt; # [color=purple]The Sage[/color]
+&gt; [color=purple]**Unseen Support**[/color]
+**Shock (Day)** - Shock the target player, causing them to target themselves if they use their day ability today. - 2 uses.
+**Dark Rune (Night)** - Prevent any negative affects from affecting the player tonight. - Infinite uses
+**Wall of Fire (Night)** - Summon a wall of fire at a player’s door, preventing everyone from visiting them. - 2 uses.
+*Defeat the Blue Dragon or Hand of Byzantium and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Court Sorceress**[/color] or [color = goldenrod]**The Druid**[/color]
+---
+&gt; # [color=purple]The Servant[/color]
+&gt; [color=purple]**Unseen Offensive**[/color]
+**Dutiful (Passive)** - Immune to occupation and redirection. You will keep this passive on class change.
+**Chaotic Wine (Day)** - After 3 days you can poison the The King, causing him to die in two nights if not healed by a Herbalist/Physician. If the King is a member of the Unseen, you will take your own life. - 1 use.
+**Serve Wine (Night)** - Occupy a player by getting them drunk. - Infinite uses.
+**Concentrated Wine (Night)** - Throw a party, occupying all players who visit you tonight. - 2 uses.
+*Defeat the Blue Dragon or Hand of Byzantium and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Butler**[/color] or [color = goldenrod]**The Sentinel**[/color]
+---
+&gt; # [color=purple]The Soulcatcher :shield:[/color]
+&gt; [color=purple]**Unseen Support**[/color]
+**Cries of the Dead (Passive)** - You may communicate with the dead at night. Additionally you know the amount of Souls you have at the start of each day.
+**Prestige (Passive)** - Only up to three classes with Prestige can spawn the entire game.
+**Bind Soul (Day)** - Make target player and you immune to death tonight. - 1 use.
+**Collect Soul (Night)** - If your target dies tonight, you will obtain their soul. - Infinite uses - You start with 2 souls
+**Reanimate (Night)** - Bring a dead Unseen player back to life. Each night they remain alive, a soul will be consumed. If you have no souls, or are converted, the player dies. You can target all players, but will only successfully revive Unseen members. They will be convert immune. - 1 use
+*Defeat the Blue Dragon or Hand of Byzantium and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Priest**[/color] or [color=goldenrod]**The Saint**[/color]
+---
+&gt; # [color=purple]The Timesnatcher[/color]
+&gt; [color=purple]**Unseen Support**[/color]
+&gt; **Time Snatch (Day)**  - If you were to die tonight by a healable cause. Redirect tonight&#39;s death to targeted player as a healable attack. - 2 uses
+&gt; **No Time to Waste (Day)** - Target player will become immune to occupation and redirection  for the rest of the game. You may not target yourself. - 1 use
+&gt; **Alternate Realities (Night)** - Guarantee that target player will visit their target and make them immune to occupation and redirection tonight. - Infinite uses
+&gt; **Dark Dimension (Night)** - Guarantee that all feedback regarding target player is accurate. - 3 uses
+&gt; *Defeat the Blue Dragon or Hand of Byzantium and any neutrals that seek to do you harm.*
+
+&gt; Converts into [color=steblue]**The Chronomancer**[/color] or [color = goldenrod]**The Bard**[/color]
+[/details]
+
+[details=&quot;Blue Dragon&quot;]
+&gt; # [color = steblue] The Visionary :crossed_swords: :shield: [/color]
+&gt; [color = steblue] **Blue Dragon Special** [/color]
+**Impenetrable Guard** - Death Immune at Night.
+**Undercover Rebel (Passive)** - You will appear as a class of your choice which you can inform the host at the start of the game which you would like for to investigators. You are fully immune to all investigative abilities for the entire game and will always appear as your desired class to investigators. Additionally if you are the original Visionary and die, the youngest non killing Blue Dragon member will become the new Visionary. If there is no non Killing Blue Dragons, it will instead be the Youngest Blue Dragon Killer. There can always be a second visionary unless the original visionary dies as the last member of the Blue Dragon. A third visionary will never happen, however.
+**Avenge (Day)** - You will turn into the Heroine when you use this ability. Target Blue Dragon player will become the new Visionary. - 1 use (shared) - Cannot use when any Blue Dragon Killers are living
+**Call to Arms! (Day)** - Call the Blue Dragon to arms, empowering them tonight. The Blue Dragon will receive a message when this is activated. The individual effects can be found on each class card. - Infinite Uses, 2 day cooldown.
+**Persuade (Night)** - Persuade someone to join the Blue Dragon. - Infinite uses, 1 day cooldown, except to convert a fourth member to the Blue Dragon, in which case that is a two day cooldown.
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color = steblue] The Heroine :crossed_swords: :shield: [/color]
+&gt; [color = steblue] **Blue Dragon Killer** [/color]
+**Vengeance (Day)** - Your attack will pierce night immunity tonight. - 0 uses, Gains 1 use for each dead member of the Blue Dragon.
+**Slit Skin (Day)** - Targeted player will bleed and die in 2 nights unless healed. - 3 uses (shared)
+**Eliminate (Night)** - Kill a target player if they are a member of the Unseen. If they are a neutral, they will instead be occupied. You will know which happened. - Infinite uses.
+**Valiant Smite (Call to Arms | Night)** - Kill a target player, regardless of faction, bypassing any and all forms of immunity and protection. You will take their journal, making it appear as though they didn’t leave one, and you will be able to read it. - 2 uses. (shared)
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color=steblue]The Butler[/color]
+&gt; [color=steblue]**Blue Dragon Offensive**[/color]
+**Dutiful (Passive)** - Immune to occupation and redirection.
+**Serve Wine (Night)** - Occupy a player by getting them drunk. - Infinite uses 
+**Concentrated Wine (Night)** - Throw a party, occupying all players who visit you tonight. - 2 uses.
+**Intoxicated Wine (Call to Arms | Night)** - Occupy a player for two nights in a row. - Infinite uses
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color=steblue]The Chronomancer[/color]
+&gt; [color=steblue]**Blue Dragon Support**[/color]
+&gt; **Pocket Dimension (Day)**  - If target member ot the Blue Dragon would die tonight, delay it for 2 nights. This will delay bleeding in addition to attacks. - 3 uses
+&gt; **Time Warp (Night)** - Abilities targeting targeted non Blue Dragon player will take affect the night after tonight. Conversions interrupted with this ability will not work. This doesn&#39;t affect Killing abilities, Investigative abilities, Enforcer&#39;s Protect and Guards - Infinite uses
+&gt; **Distort Reality (Night)** - Redirect all abilities stopped by Time Warp from the previous night to target player - 2 uses
+**Paradox (Call to Arms | Night)** - Abilities on target player will take effect the night after tonight. This doesnt affect Killing abilities, Conversion abilities or Investigative abilities - 2 uses
+&gt; *Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color=steblue]The Court Sorceress[/color]
+&gt; [color=steblue]**Blue Dragon Offensive**[/color]
+**Earthquake (Day)** - Cast an earthquake under the targeted player, causing them to target themselves today if they use their day ability later today. - 2 uses.
+**Tornado (Night)** - Target two players, they will be redirected to each other for the night. - 3 uses
+**Ice Ward (Night)** - Freeze a player’s room preventing anyone from visiting them. - 2 uses
+**Frozen Door (Call to Arms | Night)** - Freeze a player&#39;s room, only Blue Dragon players may visit your targeted player tonight. - Shared uses with Ice Ward.
+&gt; *Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color=steblue]The Drunk[/color]
+&gt; [color=steblue]**Blue Dragon Offensive**[/color]
+&gt; **Royal Blood (Passive)** - Votes to become king count as two for you.
+**I am the Liquor (Passive)** - Immune to occupation and target changing.
+**Debauchery (Night)** - Get in a player’s way, causing them to target you. You will be immune to any attacks you redirect. - Infinite uses.
+**Happy Hour (Night)** - Occupy and get rid of your target’s immunities for the night. - 2 uses.
+**Hangover (Call to Arms | Night)** - If targeted player tries to use a day ability tomorrow, it will fail. - 2 uses.
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color=steblue]The Hunter[/color] :shield: 
+&gt; [color=steblue]**Blue Dragon Killer**[/color]
+&gt; **Isolation (Passive)** - Immune to occupation and redirection.
+**Prestige (Passive)** - Only up to three classes with Prestige can spawn the entire game. If Hunter is converted from the Baronet, however, then this does not contribute to this limit; only starting classes do.
+&gt; **Wolf Companion (Day)** - Summon a wolf to attack someone. They will die tonight, but if they are death immune they will instead bleed and die in two nights unless healed. - Can only be used if you are the oldest Blue Dragon Killer. Infinite uses.
+&gt; **Spike Trap (Night)** - Set spiked traps in your home to hurt all intruders. If trapped, one random visitor will die. You will be alerted if you snagged anyone in your trap. - 3 uses
+&gt; **Bear Trap (Call to Arms | Night)** - Set up a protective bear in your home to hurt all intruders. All players visiting you will die, bypassing night immunity. - 1 use
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color=steblue]The Knight[/color]
+&gt; [color=steblue]**Blue Dragon Killer**[/color]
+**Defend (Night)** - Prevent all visits to targeted Blue Dragon player. - 3 uses
+**Coldsteel (Night)** - Kill a target player. - Can only be used if you are the oldest Blue Dragon Killer - Infinite uses.
+**Justice (Call to Arms | Night)** - Kill target player bypassing everything that could stop you. - Infinite uses
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color=steblue]The Maid[/color]
+&gt; [color=steblue]**Blue Dragon Investigative**[/color]
+&gt; **Matchmake (Night)** - Check 2 players to see if they’re the same class type. - Infinite uses
+&gt; **Nosy Servants (Night)** - See the ability feedback of targeted player tonight. The feedback received is structured like Pre-EFoL; you will be given full feedback even though investigatives usually give just limited feedback. However, you will not know who they visited. - 2 uses
+&gt; **Housekeeping (Call to Arms | Night)** - See the Pre-EFoL (full, unlimited) feedback of target player tonight as well as who they targeted. - Shared uses with Nosy Servants
+&gt; *Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color=steblue]The Mystic[/color] :shield: 
+&gt; [color=steblue]**Blue Dragon Social**[/color]
+**Telepathy (Day)** - Send a 1000 character message to target player. You may not target the King with this - 3 uses.
+**Link Fates (Night)** - Two target players will suffer the same negative effects tonight, except killing and conversion. - Infinite uses
+**Accurate Fates (Call to Arms | Night)** - Two target players will suffer the same negative effects tonight, except conversion. - Infinite uses
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color=steblue]The Noble[/color]
+&gt; [color=steblue]**Blue Dragon Social**[/color]
+&gt; **Royal Blood (Passive)** - Votes to become king count as two for you.
+**Pull Rank (Day)** - Your vote will count as two today. This will not be announced publicly or affect the number of votes required to reach majority. - 3 uses
+**Royal Decree (Day)**  - Resets the votes, allowing only you and your target to be put on trial for today. - 2 uses
+**Order (Night)** - Negate the votes of a target player the next day. They can’t accuse anyone or vote tomorrow. - Infinite Uses
+**Rig Ballots (Night)** - If target is voted up for trial tomorrow, automatically resolve it in an execution. - 0 uses
+**Forceful Order (Call to Arms | Night)** - Negate the votes of a target player the next day. They can’t accuse anyone or vote tomorrow. You will gain a use of Rig Ballots on a successful use of this ability if you have successfully used this ability less than 3 times.
+---
+&gt; # [color=steblue]The Observer[/color]
+&gt; [color=steblue]**Blue Dragon Investigative**[/color]
+**Blue Bird (Day)** - You will be told the name of the next player to use a day ability - Infinite uses
+**Little Bird (Day)** - See if target player leaves their room tonight at the end of tonight. - Infinite uses
+**Follow (Night)** - Observe a player to see who visits them and who they visited at night. - Infinite uses.
+**Window Peek (Night)** - Reveal a player’s faction. - 2 uses
+**Stare Down (Call to Arms | Night)** - Reveal a player&#39;s exact class. - Shared with Window Peek
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color=steblue]The Physician[/color]
+&gt; [color=steblue]**Blue Dragon Support**[/color]
+**Remedy Studies (Passive)** - Immune to bleeding.
+**Dishonor (Day)** - If the target player dies tonight, they will appear as a class of your choice. - 3 uses
+**Exhume (Day)** - At the end of tonight. See what class killed target dead player or if they committed suicide. - 3 uses
+**Heal (Night)** - Heal a player, preventing them from dying tonight, and cures bleeding. - Infinite uses.
+**Concentrated Nightshade (Call to Arms | Night)** - Poison the target player with a concentrated dose of nightshade, causing them to die instantly. - 1 uses.
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color=steblue]The Princess[/color]
+&gt; [color=steblue]**Blue Dragon Investigative**[/color]
+&gt; **Royal Blood (Passive)** - Votes to become king count as two for you.
+**Royal Studies (Passive)** - If and only if your original class was Archivist, you retain your &quot;Archive&quot; and &quot;Revoke&quot; passives while you are alive until you are no longer a Princess.
+**Counterfeit Wisp (Night)** - The Blue Dragon will appear as normal Unseen members tonight - 2 uses
+**Flirt (Night)** - Get a player&#39;s class type. If you were converted from  [color = purple] **The Archivist**[/color], you may only use this ability on players inside your log network. - Infinite uses.
+**Date (Call to Arms | Night)** Get your target’s exact class. - 2 uses
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color=steblue]The Prince[/color] :shield: 
+&gt; [color=steblue]**Blue Dragon Killer**[/color]
+**Prestige (Passive)** - Only up to three classes with Prestige can spawn the entire game.
+**Unstoppable (Passive)** - Immune to being occupied and redirected at night.
+&gt; **Royal Blood (Passive)** - Votes to become king count as two for you.
+**Imprison (Day)** - Choose a player to imprison at night, This occupies them while bypassing occupation immunity and preventing all visits to targeted player. You and them may also exchange up to two 10000 character messages. - Infinite uses. - Infinite uses.
+**Interrogate (Night)** - Interrogate your imprisoned player, finding out their class type. - 2 uses.
+**Execute (Call to Arms | Night)** - Execute your imprisoned player, bypassing night immunity. - 2 uses (Not limited to the oldest killer rule.)
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color=steblue]The Priest :shield:[/color]
+&gt; [color=steblue]**Blue Dragon Support**[/color]
+**Prestige (Passive)** - Only up to three classes with Prestige can spawn the entire game.
+**Consume Soul (Passive)** - You cannot be killed at night while you have at least one soul. You lose a soul upon being attacked.
+**Bind Soul (Day)** - Make target Blue Dragon member immune to death tonight. - Costs 1 soul
+**Purify Soul (Night)** Remove target player&#39;s night immunities from them tonight. - Costs 2 souls.
+**Soul Trap (Night)** - If the target player dies at any point after using this ability on them, you will collect their soul. - Infinite uses.
+**Revive (Call to Arms | Night)** - Target dead player will be &quot;Reanimated&quot;, but becomes a Blue Dragon class with no abilities that meets with the Blue Dragon at night and shares the Blue Dragon win condition. If you die at any time, they will cease to exist too. The dead player may also be attacked as normal by other means.  - 1 use
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color=steblue]The Sheriff[/color]
+&gt; [color=steblue]**Blue Dragon Investigative**[/color]
+**Scout (Day)** - Have a scout to follow the target player. The next morning you will discover their faction. - 2 uses.
+**Stakeout (Night)** - You will stakeout a target player’s room, finding out any visitors’ factions. - Infinite uses
+**Hideout (Call to Arms | Night)** - You will hide outside a target player&#39;s room, finding any visitors&#39; classes. - Infinite uses
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color=steblue]The Squire [/color]
+&gt; [color=steblue]**Blue Dragon Support**[/color]
+**Train (Night)** - Become the non-unique, non-prestige Blue Dragon equivalent of a class of a deceased player, if they have one. - Infinite uses
+**Other Means (Call to Arms | Night)** - Become the non-unique, non-prestige Blue Dragon equivalent class of any living or deceased player, if they have one. - Infinite uses
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+[/details]
+
+[details=&quot;Hand of Byzantium&quot;]
+&gt; # [color = goldenrod] The Arbiter :crossed_swords: :shield: [/color]
+&gt; [color = goldenrod] **Hand of Byzantium Special** [/color]
+**Battle-Tested (Passive)** - Immune to every possible form of death except a lynch or a duke execution. This passive is a form of supreme protection that overrules death immunity bypassing attacks.
+**Inside Seclusion (Passive)** - You will appear as a class of your choice which you can inform the host at the start of the game which you would like for to investigators. You are fully immune to all investigative abilities for the entire game and will always appear as your desired class to investigators.  Additionally if you are the original Arbiter and die, if and ONLY IF the current Champion is the original champion, they will become the new Arbiter. The only exception to this is a Socialite who will automatically become the new Arbiter before the Champion and the Magistrate who will do so if and only if the Arbiter is lynched during the day. Otherwise, there will never be a second arbiter, and a third is only possible with a Socialite or Magistrate in play who dies after the original Arbiter but before the original Champion.
+**Imperial Urgency (Day)** - Become the Champion at the start of the night; if there is a current champion, if they are the original champion, they will become the new Arbiter; if not, they will become their convert class again. Cannot be used before day 4. - One use
+**Entrust (Night)** - Convince someone to join the Hand of Byzantium. - Infinite uses, 1 day cooldown, except to convert a fourth member to the Hand of Byzantium, in which case that is a two day cooldown.
+**Imperial Judgment (Night)** - Select a player and guess their class. If they are not Unseen or you are wrong, nothing happens. If they are unseen and you are correctly, this player&#39;s logs will not show to the court but you and only you will be privy to them if they die sometime within the next two nights. You also cannot clean their flip, but can change the class they flip as to anything you would like, if you want to. - 2 uses, 2 night cooldown.
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color = goldenrod] The Champion :crossed_swords: :shield: [/color]
+&gt; [color = goldenrod] **Hand of Byzantium Killer** [/color]
+**I am the Hand (Passive)** - If you were a previous class before becoming the Champion, choose one limited use ability with 2 or more starting uses from any of your previous classes and gain it again as the Champion, with one fewer use than it began with in its original class. If you did not have any limited use abilities with two or more uses in any of your previous classes, then this passive does not apply.
+**Swift Swipe (Day)** - Targeted player will bleed and die in 2 nights unless healed. - 3 uses (shared)
+**Merciless Attack (Night)** - Attack a player with the might of your blade - Infinite uses.
+**Supreme Strike (Night)** - Attack two players in the same night. - 1 use. (shared)
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color = goldenrod] The Agent [/color]
+&gt; [color = goldenrod] **Hand of Byzantium Investigative** [/color]
+**Go Undercover (Day)** - Activate a Sleeper Agent to pursue a player sneakily into the night. They will discover who a player visits and who visits them at the end of the night. - 2 uses.
+**Secret Service (Night)** - Employ your secret service to keep tabs on three specific players tonight. If any of them target one another, you will learn exactly what ability(s) was/were used, from who within these three and onto who within these three - Infinite uses
+**Untraceable (Night)** - Your efforts as an agent are so effective that no one can trace you or your team. Hide the entirety of the Hand of Byzantium from any and all investigative checks for the night. - 1 use
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color = goldenrod] The Socialite [/color]
+&gt; [color = goldenrod] **Hand of Byzantium Investigative** [/color]
+**Royal Blood (Passive)** - Your votes for King will count twice.
+**The Woman Behind the Hand (Passive)** - You will appear as Unseen to faction checks and will be promoted straight to Arbiter if the Arbiter dies, regardless of when they die or if the Champion is still alive. This passive is not lost when you are promoted to a Champion, only when you become the Arbiter.
+**Guest List (Day)** - By the end of the coming night, you will know how many players of each faction visited you. - 2 uses
+**VIP List (Day)** - By the end of the next night you will know which players visited the Arbiter that night. - 3 uses
+**Social Links (Night)** - Select two players and you will receive a positive result providing both targets’ class type groupings match. Groups are Special/Investigative, Social/Support, and Killer/Offensive. You will receive either no match if they are from different groups, a good match if they are in the same group, and a perfect match if they are the same class type. - Infinite uses
+**Faction Links (Night)** - Removes the cool-down on the Arbiter&#39;s Convert the next time they successfully convert a second or third player, or reduces the cooldown for converting a fourth player from two nights to one night. - One use
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color = goldenrod] The Bard [/color]
+&gt; [color = goldenrod] **Hand of Byzantium Support** [/color]
+**Goldentongue (Passive)** - The Bard will appear as Unseen for faction checks.
+**Pure Wits (Day)** - In the coming night you will be immune to being occupied at night and immune to target changing. - 3 uses
+**Crescendo (Night)** - Select a Hand of Byzantium and for this night and they will be shown as Unseen for faction checks. - Infinite uses
+**Allegro (Night)** - If your target is redirecting, occupying, or attacking, then their night actions will be guaranteed to succeed this night. - 2 uses
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color = goldenrod] The Librarian :shield: [/color]
+&gt; [color = goldenrod] **Hand of Byzantium Social** [/color]
+**Prestige (Passive)** - Only up to three classes with Prestige can spawn the entire game. If the Librarian is converted from a Duchess, however, then they do not contribute to this limit; only starting classes do.
+**Righteous Access (Passive)** - Allows all Hand of Byzantium members to read the logs on the public log network. Can also use both day abilities during the same day and both night abilities on the same night.
+**Archive (Day)** - Invites a player to the log network. The player must accept before joining and can choose to leave at anytime. Can only invite two players per day. - Infinite uses
+**Defender&#39;s Notes (Day)** - Allows the Hand of Byzantium to gain a log of all posts from any private shared chat that they are not a part of at the end of the night. - 3 uses
+**Revoke (Night)** - Removes a player from the log network. - Infinite uses
+**Love at First Sight (Night)**  - Choose a player. You will receive a grouping of two classes at the end of the night. One of those classes will be that player’s exact class. If you were converted from [color = purple] **The Archivist**[/color], you may only use this ability on players inside your log network. - Infinite uses.
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [Color = goldenrod] The Duelist [/color]
+&gt; [Color = goldenrod] **Hand of Byzantium Killer** [/color]
+**Royal Blood (Passive)** - Your votes for King will count twice.
+**Schuld (Passive)** - If you become the King, then the Hand of Byzantium will gain an additional use of Supreme Strike.
+**Versetzen (Night)** - Deflects any incoming attack against all members of the Hand of Byzantium and kills their attacker(s). - Three uses
+**Zornhau (Night)** - Removes Royal Blood from a target for the remainder of the game. If this player receives even a single vote for a king election in the remainder of the game, you will attack them bypassing all forms of protection, healing, and death immunity the following night and can still use Versetzen in that future night. - 1 use
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color = goldenrod] The Saint :shield: [/color]
+&gt; [color = goldenrod] **Hand of Byzantium Social** [/color]
+**Intercession (Passive)** - You may speak with the dead during both night and day.
+**Prestige (Passive)** - Only up to three classes with Prestige can spawn the entire game.
+**Rapture (Day)** - Will allow you to speak and vote even while dead. Can only be used after you’ve died. - One use
+**Definitive Smite (Day)** - If a player is put onto trial they will be automatically executed. - One use
+**Mercy (Night)** - Selects a dead Unseen-aligned player and forces them to use their primary night action on a living one. Cannot be used on Killer classes. - Infinite uses
+**Spiritual Merge (Night)** - Binds a dead player to you, allowing them to speak while dead for as long as you are alive. - One use
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color = goldenrod] The Overseer [/color]
+&gt; [color = goldenrod] **Hand of Byzantium Offensive** [/color]
+**Overrule (Day)** - Causes your first target to select their second target if they use any day abilities later today. - 2 uses
+**Red Tape (Day)** - The King&#39;s night actions will fail tonight. - 2 uses
+**Order of Relocation (Night)** - Forces your first target’s night action to be redirected to your second target. - Infinite uses
+**Order of Exchange (Night)** - Select two players and force them to target each other. - One use
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color = Goldenrod] The Cabalist :shield: [/color]
+&gt; [color = Goldenrod] **Hand of Byzantium Social** [/color]
+**Ritual of the Hand (Passive)** - You will always be seen as Unseen to faction checks.
+**Prestige (Passive)** - Only up to three classes with Prestige can spawn the entire game.  If the Cabalist is converted from an Illusionist, however, then they do not contribute to this limit; only starting classes do.
+**Letter with no Sender (Day)** - Sends an anonymous message to a player. - Infinite uses
+**Rewrite Reality (Day)** - Cause your target to receive a completely antithetical result to any investigative ability used tonight in every way possible. - 3 uses.
+**Cryptic Communications (Night)** - Sends an anonymous message to a player and they will be able to post a reply. - Infinite uses
+**Byzantium Connections (Night)** - Prevents another Hand of Byzantium-aligned player from being voted tomorrow. - One use
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color = goldenrod] The Crusader [/color]
+&gt; [color = goldenrod] **Hand of Byzantium Killer** [/color]
+**Providence (Day)** - The Crusader will be shown as a member of the Unseen to faction checks if investigated the coming night. - 3 uses
+**Hand of God (Night)** - Bleeds any player that attempts to visit your target tonight. - 3 uses
+**Deus Vult (Night)** - Attacks and kills the King while bypassing all forms of healing and immunities. Deus Vult will also kill the Crusader the same night. - 1 use
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color = goldenrod] The Druid [/color]
+&gt; [color = goldenrod] **Hand of Byzantium Offensive** [/color]
+**Isolation (Passive)** - Immune to occupation and target changing.
+**Wall of Thorns (Day)** - For the following night prevents non-Hand of Byzantium classes from visiting you and will Bleed them. The Bleeding will kill them if they are not healed the next two nights. - One use
+**Glyph of Decay (Day)** - Selects a player and all healing and removal of Bleeding on them will fail for the next two nights. - One use
+**Glyph of Lethargy (Night)** - You will occupy a player for tonight. - Infinite uses
+**Glyph of Sloth (Night)** - You will occupy two players for tonight. - One use
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color = goldenrod] The Sentinel [/color]
+&gt; [color = goldenrod] **Hand of Byzantium Offensive** [/color]
+**Alertness (Passive)** - Grants you immunity to occupation at night and to target changing.
+**Realign (Day)** - Any day ability your target uses after this ability is activated today will be redirected to themselves. - 2 uses
+**Detainment (Night)** - Silently removes all of the passives and night immunity from your target. The Detainment will also last until the end of the next night except when it comes to removing Royal Blood, which lasts two days. - Infinite uses
+**Curfew (Night)** - Puts a barrier around the Arbiter or Champion, causing the next Unseen-aligned investigative role to automatically be prevented if they try to visit them. You will be informed when the barrier activates. - 2 uses
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color = goldenrod] The Magistrate :shield: [/color]
+&gt; [color = goldenrod] **Hand of Byzantium Social** [/color]
+**Royal Blood (Passive)** - Your votes for King will count twice.
+**Prestige (Passive)** - Only up to three classes with Prestige can spawn the entire game.  If the Magistrate is converted from an Aristocrat, however, then they do not contribute to this limit; only starting classes do.
+**Judicial Decree (Day)** - Resets the votes, allowing only you and a target of your choice to be put on trial for today. - 2 uses
+**Judicial Forgiveness (Day)** - If your Arbiter is executed today then you will take their place. - One use
+**Disenfranchise (Night)** - Silently reduces the amount of votes required to execute a target by one. - Infinite uses
+**Impeach (Night)** - Kills the King and automatically takes their place, becoming a Purified King. Cannot be used until the third night. - 1 uses
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color = goldenrod] The Warrior [/color]
+&gt; [color = goldenrod] **Hand of Byzantium Offensive** [/color]
+**Combat Ready (Passive)** - You are immune to occupation, death at night, and will counterattack against attackers. This passive is lost once you are promoted to a Champion.
+**Bloodlust (Day)** - All non-Killer roles will be prevented from visiting the Warrior this coming night. - One use
+**Taunt (Night)** - Redirects the target player to yourself - Infinite uses
+**Raging Axes (Night)** - Occupies a player for the night. If your target is successfully occupied and is also attacked the same night then they cannot be healed and their night immunity will be bypassed. - One use
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color = goldenrod] The Squire [/color]
+&gt; [color = goldenrod] **Hand of Byzantium Support** [/color]
+**Cowardice (Passive)** - Causes you to appear as a member of the Hand of Byzantum to faction checks until you remember a class.
+**Pick up the Mantle (Night)** - Allows you to select an Unseen-aligned class from the Graveyard. The Page in turn will become their Hand of Byzantium equivalent by the end of the night. - Infinite uses
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color = goldenrod] The Surgeon [/color]
+&gt; [color = goldenrod] **Hand of Byzantium Support** [/color]
+**Self-Aid (Passive)** - You are immune to bleeding.
+**Anti-Coagulant (Day)** - Causes a player to be unable to receive healing for the rest of the match. - One use
+**Surgery (Night)** - Heals a player, preventing them from dying tonight, and curing any poison and bleeding they were suffering from. - Infinite uses
+**Miracle Touch (Night)** - Permanently causes an Hand of Byzantium-aligned player to be seen as a member of the Unseen to faction checks. - One use
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color = goldenrod] The Watchman [/color]
+&gt; [color = goldenrod] **Hand of Byzantium Investigative** [/color]
+**Tracking (Day)** - You will learn if your target left their room last night. - 2 uses
+**Silent Stalking (Night)** - You will learn who your target visits along with who visits them this night. - Infinite uses
+**Midnight Vigil (Night)** - Choose two players. You will learn who each of them visit along with who visits each of them tonight. - One use
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+---
+&gt; # [color = goldenrod] The Warden [/color]
+&gt; [color = goldenrod] **Hand of Byzantium Killer** [/color]
+**Brazen (Passive)** - Immune to being occupied and redirected at night.
+**Royal Blood (Passive)**  - Your votes for King will count twice.
+**Isolate (Day)** - Isolate a player in your prison for the night, occupying them while bypassing occupation immunity and preventing all visits to targeted player. You and them may also exchange up to two 10000 character messages. - Infinite uses.
+**Purge (Night)** - Execute your imprisoned player, bypassing night immunity. - 1 use
+**Divest and Removal (Night)** - Removes all limited-use abilities charges from your target and they will bleed in the middle of the coming day. - One use
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+[/details]
+
+
+[details=&quot;Neutral Non-Killers&quot;]
+&gt; # [color=green]The Alchemist[/color] 
+&gt; **[color=grey]Neutral Support[/color]**
+&gt; **Experimentation (Passive)**  - At the start of Day 1, you choose your win condition of 3 options. It will randomised if you do not pick a wincon by Day 2
+&gt;&gt; **Neutrality** : Survive to the end of the game
+&gt;&gt; **The Evils** : Ensure that the Unseen are defeated
+&gt;&gt; **The Town**  Ensure that the Blue Dragon or Hand of Byzantium is defeated.
+&gt; 
+&gt; **Experimental Shield (Day)** - You will be immune to death, occupation and redirection tonight. - 1 use
+&gt; **Concoct Potion (Night)** - Choose from a variety of potions to use tonight. - Infinite uses
+&gt;&gt;**The Town:**
+&gt;&gt;&gt; **Crimson Potion**  - Heal targeted player, if you successfully heal a player from an attack that is not you. This use of Crimson Potion will not be used up. - 3 use
+&gt;&gt;&gt;**Tar Potion**  - Prevent all players from visiting your target. - 2 use
+&gt;
+&gt;&gt;**The Evils**
+&gt;&gt;&gt; **Misty Potion** - Frame target player to Investigators - 3 uses
+&gt;&gt;&gt; **Concrete Potion** - Prevent all visits to target player other than Killing or Conversion abilities - 3 uses
+&gt;
+&gt;&gt;**Neutrality**
+&gt;&gt;&gt; **Tar Potion**  - Prevent all players from visiting target player tonight. - 2 uses
+&gt;&gt;&gt;**Crimson Potion**  - Heal targeted player, you will gain another use of it if this successfully heals an attack. - 2 uses
+&gt; *Your objective fulfill the objective you have chosen.*
+
+&gt; Crowns into Cowardly King if chosen Neutrality or The Town
+&gt; Crowns into Conservative King if chosen The Evils
+---
+&gt; # [color=CC0000]The Devil[/color] :shield:
+&gt; [color=grey]**Neutral Social**[/color]
+**Second Chance (Passive)**  - Immune to death at night, once.
+**Informant (Day)**  - You learn the faction of your target at the end of the day. - 1 use
+**Frame (Night)**  - Make a target appear to be a member of the Blue Dragon or Hand of Byzantium (Your Choice) to investigations tonight. - Infinite uses
+**Trickery (Night)**  - If the target player is executed tomorrow, they will appear to be a chosen class. - 2 uses
+*See three Unseen players executed, or survive to see the Unseen defeated.*
+---
+&gt;# [color=hotpink]The Fool[/color]
+&gt; [color=grey]**Neutral Social**[/color]
+&gt; **Mask of Many Faces (Passive)**  - If you are executed by the court, you may appear as a class of your choice. You must submit this class to the host before you are executed. You may choose the class at any time and change it at will.
+**Trickery (Passive)**  - Immune to being occupied at night. Additionally, the night after your execution, all players who voted to execute you will be redirected to visit themselves.
+**Hide (Day)**  - You will be immune to death tonight. - 2 uses
+**Costume Examination (Day)**  - Learn the faction of the player you Masquerade as at the end of the night, if you use it. This ability is affected by framing, unlike Masquerade. - 2 uses
+**Masquerade (Night)**  - Appear as the class, faction and type of your target to investigations tonight. Abilities that change the apparent class of your target will not affect Masquerade. Additionally, if you die tonight you will also appear as the class. You will not know the class of your target. - Infinite uses
+*Your objective is to be executed for treason.*
+---
+&gt; # [color=Orangered]The Inquisitor[/color] :shield: 
+&gt; [color=lightgrey]**Neutral Investigative**[/color]
+&gt; **Holy Blessing (Passive)** - You are immune to death at night once. Your actions do not count as visits.
+&gt; **Nobody Expects the Spanish Inquisition (Passive)** At the start of the game, 3 random players will be assigned as ‘Heathens’ - They will never be other Neutrals, Unique Unseen classes or the Insurgent. Once the final Heathen dies, you will leave Court that night and never return. Each Heathen is informed they are a Heathen, but not the identities of the others. You will know the class of each Heathen.
+&gt; **Interrogate (Night)** Find out if the Target Player is a Heathen, and their Class if they are - Infinite uses
+&gt; **Ruthless Efficiency (Night)** Kill target player if they are a Heathen. The target cannot be healed. - 3 uses
+*Your objective is to live to see all Heathens die.*
+---
+&gt; # [color=Aquamarine]The Mage :shield:[/color]
+&gt; [color=grey]**Neutral Offensive**[/color]
+**Reality Warp (Passive)** - As long as you remain alive, Unseen classes that are passively immune to occupation are not.
+**Light Magics (Passive)** - You appear as a member whichever between the Blue Dragon or Hand of Byzantium is present in the game to investigations, but you do not know which that is.
+**Detect Thoughts (Day)** - Cast a spell that reveals your target’s last night action to you. - 4 uses
+**Dancing Lights (Day)** - Cast a spell that causes all kills tonight to bypass all forms of protection or prevention. - 1 use
+**Mind Control (Night)** - Cast a spell that forces your target to target somebody of your choosing. You will only be seen visiting the first. - 3 uses
+**Minor Illusion (Night)** - Make yourself and one other person of your choice appear as members of the Unseen to investigations. - 2 uses
+*Your objective is to see the Unseen defeated at any cost.*
+---
+&gt; # [color=#86a94a]The Mercenary[/color]
+&gt; [color=grey]**Neutral Support**[/color]
+**Looking for Work (Passive)** - If your original target dies, you have 3 days to find another or you will die.
+**Failure (Passive)** - If your original target and your new target die, you will commit suicide.
+**Offer Contract (Day)** - You may form a contract with another player during the day (they will not be notified). You must do this for your first contract on day 1, or it will be randomized. - Infinite uses
+**Stand Guard (Night)** - Protect your target from visits, and grant yourself immunity to death tonight. - 4 uses
+**Rebound (Night)** - Kill a player who accused your target of treason earlier in the day. - 1 use
+_Your objective is to ensure that your target remains alive until the end of the game, your target is [x]._
+---
+&gt; # [color=8B4513]The Pretender[/color] :shield: 
+&gt; [color=grey]**Neutral Special**[/color]
+&gt; **Royal Blood (Passive)** - Votes to become king count as two for you.
+**No Allegiance (Passive)** Immune to death at night once.
+**Silence (Day)** - Prevent Target player from using Day abilities if Royal, or the King - 3 uses
+**Blood Test (Night)** Find out if the Target Player has Royal Blood, and their Class Type if they are - Infinite uses
+**Kinslayer (Night)** Kill target player if they are Royal, or the King - 2 uses
+*Your objective is to Become King and Survive, ensuring there is no King except you when the Game ends.*
+---
+&gt; # [color=red]The Scorned[/color] :shield: 
+&gt; [color=grey]**Neutral Social**[/color]
+&gt; **Resolve (Passive)**  - Immune to occupation and target changing. Additionally, you are immune to death at night until you complete your objective.
+**Frame (Night)**  - Frame one of your targets. They will appear as a member of the Blue Dragon to investigations tonight. - 2 uses
+**Bait and Switch (Night)**  - Swap a player with one of your targets, redirecting all actions on one to the other. - 3 uses
+*Your objective is to survive to see one your targets executed, they are [X] and [Y].*
+
+&gt; The Scorned’s targets will always be members of the Unseen (at the start of the game). However, they can not have any Unique Unseen Classes as targets.
+---
+&gt; # [color=brown]The Soldier[/color] :shield:
+&gt; [color=grey]**Neutral Offensive**[/color]
+**Among Friends (Passive)**  - Immune to death at night, once. This passive will not apply if attacked by an Unseen player, however.
+**Contracted (Passive)**  - Immune to occupation and target changing.
+**Stonewall (Night)**  - Prevent non-attack and non-conversion abilities from targeting your target. Can not target the same player two nights in a row. - Infinite uses
+**Intimidate (Night)**  - Occupy a player. - Infinite uses
+*Your objective is to see the Unseen defeated at any cost.*
+---
+&gt; # [color = &quot;plum&quot;] The Begrudged [/color] :shield:
+&gt; **[color = &quot;gray&quot;] Neutral Social [/color]** 
+**Hellbent (Passive)** - You cannot be killed by players who are not members of the Unseen.
+**Unyielding Vengence (Passive)** - All your abilities are locked and will only be usable if you are executed for treason.
+**Whispers of the Damned (Day)** - Sends a message to a player, they will know you sent it and they can answer back. - Infinite uses 
+**Influence of the Damned (Day)** - You will be able to vote while dead for the day. - Two uses
+**Spiteful Hex (Night)** - Permanently frames a player who voted for your execution. - Two uses
+**Eye for an Eye (Night)** - Puts a curse on one of the players who voted for your execution, they will need two less votes to be executed. - One use
+*See the Unseen defeated at any cost.* 
+
+&gt; # [color = &quot;sienna&quot;] The Crone [/color] :shield:
+&gt; **[color = &quot;gray&quot;] Neutral Social [/color]** 
+**Reclusive (Passive)** - You are immune to death at night and to bleeding.
+**Malicious (Passive)** - You can use both day abilities at once. You are immune to occupation and redirection.
+**Evil Intentions (Day)** - Causes a player to silently require one less vote to be executed. - Three uses
+**Grudge (Day)** - Marks a player as a target and learns their class type. Does not work if the target is not aligned with the Unseen. - Infinite uses
+**Haunting Presence (Night)** - Frames a player, making them show up as Blue Dragon or Hand of Byzantium to faction checks or Killer to class type checks. - Infinite uses 
+**Nightmare (Night)** - Mind warps a player, giving them incorrect feedback for the night. - Two uses
+*See two of your marked targets publicly executed.* 
+
+&gt; # [color = &quot;darkkhaki&quot;] The Headhunter [/color] :shield:
+&gt; **[color = &quot;gray&quot;] Neutral Investigative [/color]** 
+**Hunter&#39;s Will (Passive)** - You are immune to death at night until the third night from non-Hand of Byzantium classes. You will be given a class for your target. The class will be aligned with the Hand of Byzantium and cannot be the Arbiter. If all players of that class are nightkilled or executed during the day, you will commit suicide.
+**Respite (Passive)** - Upon fulfilling your win condition, you will leave the match.
+**Snipe (Day)** - Kills a player in broad daylight. - One use
+**Camouflage (Day)** - Prevents all players who are your target of being visited the coming night. - Three uses
+**Probing Mind (Night)** - Learns your target&#39;s class type and faction. - Infinite uses
+**Stalking the Prey (Night)** - Learns who visited your target and who they visited. - Infinite uses
+*Use Snipe to kill a player whose class started out as your target.* 
+
+&gt; # [color = &quot;mediumvioletred&quot;] The Insurgent [/color] :shield:
+&gt; **[color = &quot;gray&quot;] Neutral Offensive [/color]** 
+**Adversity (Passive)** - You are immune to death at night and bleeding while the starting King is alive.
+**Rebellion (Passive)** - You are immune to occupation and redirection.
+**Sabotage (Day)** - Prevents the starting King&#39;s ability from taking effect tonight. - Two uses. 
+**Decoy (Night)** - Occupies a player for the night. - Infinite uses 
+**Barricade (Night)** - Prevents all visits on your target tonight. - 2 uses 
+*See that the starting King loses.* 
+
+&gt; # [color = &quot;lightcoral&quot;] The Obedient [/color] :shield:
+&gt; **[color = &quot;gray&quot;] Neutral Social [/color]** 
+**Hopeful (Passive)** - You are immune to death at night for the first three nights.
+**Visionary (Passive)** - If a second Unseen member is executed, you will commit suicide the following night.
+**Nonviolent Decree (Day)** - If a member of the Unseen is executed today then you will take their stead. - Two uses
+**Enlightenment (Night)** - Allows your target to bypass framing. - Infinite uses
+**Vow of Innocence (Night)** - Prevents your target from being voted tomorrow. - Two uses
+*Make sure no more than two Unseen members are wrongfully executed.* 
+
+&gt; # [color = &quot;black&quot;] The Resurrectionist [/color] :shield:
+&gt; **[color = &quot;gray&quot;] Neutral Offensive [/color]** 
+**Stench of Death (Passive)** - Any player visiting you will be shown as a Killer type for the current and following nights.
+**Corpse Shield (Passive)** - Your are night immune for the first three nights against non-Unseen classes.
+**Raise Dead (Day)** - Selects a dead player and the target&amp;rsquo;s primary ability will be Unleash Ghoul&amp;rsquo;s effect for tonight. Can only use a corpse once before it decays. - Infinite uses. 
+**Embalming (Day)** - Allows you to reuse the corpse that was used in the previous day. - 2 uses. 
+**Unleash Ghoul (Night)** - Uses the ability that you have obtained via Raise Dead. - Infinite uses 
+**Wall of Corpses (Night)** - Prevents all visits on you tonight. - 2 uses 
+*See the Unseen defeated at any cost.* 
+
+&gt; # [color = &quot;forestgreen&quot;] The Senex [/color] :shield:
+&gt; **[color = &quot;gray&quot;] Neutral Support [/color]** 
+**Mentorship (Passive)** - You are immune to death at night and will have a 50-50 chance of starting aligned with the Unseen or against them. If the Senex is aligned with the Unseen, then he will lose his night immunity after the second night.
+**Beloved Mentor (Passive)** - If you win with the Unseen, your attributes will be:
+&gt;* If you are executed on trial, then all Unseen-aligned players who voted for your execution will be occupied in the coming night, will not be able to be protected from death if they are attacked, and will have their immunity to occupation bypassed.
+&gt;* If you are killed by an Unseen-aligned killing role, then they will die of guilt.
+&gt;
+&gt;**Teachings (Day)** - Reveals the user as the Senex - One use 
+**Mind Reader (Day)** - Learns the target player’s alignment. If they are not aligned with the Hand of Byzantium then you learn their exact class. Can only be used if you are against the Hand of Byzantium and can be used in the same day along Teachings. - Infinite uses 
+**Traditional Herbs (Night)** - Heals a player, preventing them from dying to night and cures poison and bleeding. The target player will also be seen as a member of the Unseen to faction checks. Cannot be used on the same player two nights in a row and can be used on the user. - Infinite uses 
+**Ancient Tonic (Night)** - Causes the targeted player to be night and occupy immune for the current night allows them to bypass healing, night immunity, occupation immunity, and redirection immunities. - 1 use 
+*Has a random goal of either A) See that the Unseen win or B) See that the Unseen are defeated.*
+
+&gt; # [color = &quot;Firebrick&quot;] The Strigoi [/color] :shield:
+&gt; **[color = &quot;gray&quot;] Neutral Offensive [/color]** 
+**Blood Sucker (Passive)** - If you are using Vampiric Bite then you will heal yourself if you would be nightkilled. You will always be under the effect of Vampirism and you will know all living players who are Bitten.
+**No Pulse (Passive)** - You are immune to redirection and occupation.
+**Mist Form (Day)** - All visits to you will be prevented this coming night - 2 uses 
+**Blood Frenzy (Day)** - All players under the effect of Vampirism will receive the benefits of No Pulse and the healing from Blood Sucker if you successfully use Vampiric Bite. - One use 
+**Vampiric Bite (Night)** - Bites a player, infecting them with Vampirism, preventing healing, and occupying them. Players infected with Vampirism will be shown as a Neutral and a Killer for investigative abilities and will have their visits hidden. - Infinite uses 
+*Make sure at least half of the living remainder of the Court is infected with Vampirism by the end of the game.* 
+
+&gt; # [color = &quot;blanchedalmond&quot;] The Viscount [/color] :shield:
+&gt; **[color = &quot;gray&quot;] Neutral Offensive [/color]** 
+**Megalomaniac (Passive)** - Your votes for King will count twice. You will crown into the Decadent King.
+**Green-Eyed Monster (Passive)** - You are immune to death at night against non-Unseen classes.
+**Interlopers (Day)** - Learns the class of a selected player. - Infinite uses 
+**Misdirect (Day)** - Causes your first target to target your second one the coming night. - Infinite uses 
+**Slander (Night)** - Removes Royal Blood from a player. - Infinite uses
+**Death Writ (Night)** - Kills the Unseen&#39;s target tonight, bypassing protections. Cannot be used until the third night. - One use
+*Live to become King for at least a day.*
+[/details]
+
+[details=&quot;Neutral Killers&quot;]
+&gt;# [color=orange]The Demon :shield:[/color]
+&gt; [color=grey]**Neutral Killer**[/color]
+**Cloak Of Mithras (Passive)**  - Immune to death at night, occupation and target changing.
+**Haemophilia (Day)**  - Increases the power of Funeral Pyre tonight. - 3 uses, 1 day cooldown
+**Funeral Pyre (Night)**  - Set your target ablaze, killing them. If Haemophilia is used, the target is immune to visits from others except you, and anyone who attempts to visit them is also killed by the flames. - Infinite uses
+_Your objective is to make it to the last five players alive._
+---
+&gt;# [color=limegreen]The Electromancer :shield:[/color]
+&gt; [color=grey]**Neutral Killer**[/color]
+**Static Shield (Passive)**  - You are immune to death at night.
+**Discharge (Day)**  - If you are still alive at the end of the night, all charged players will be killed (Bypasses death immunity). - Infinite uses, 2 day cooldown
+**Charge (Night)**  - Apply a static charge to a player. Anyone they visit tonight will also become charged, and you will know who they are. You cannot charge yourself. - Infinite uses
+_Your objective is to make it to the last five players alive._
+---
+&gt;# [color=navy]The Possessor :shield:[/color]
+&gt; [color=grey]**Neutral Killer**[/color]
+**Driven (Passive)**  - You are immune to occupation and target changing.
+**Blackened Shield (Passive)**  - You are immune to death at night.
+**Puppet Strings (Night)**  - Control a player and force them to kill someone. They will not be notified that they were controlled, unless you caused them to target themself.
+**Possess (Night)**  - Kill the target player. Their class will appear as one of your choice, and they will have information in their logbook of your choosing (or no logbook if nothing is specified). You will know what class they truly were, and what their logbook said. - 3 uses
+_Your objective is to make it to the last five players alive._
+---
+&gt; # [color=Black]The Reaper[/color] :shield:  :fire:
+&gt;[color=Black]**Neutral Killer**[/color]
+**Consume Soul (Passive)** - If you die at night with at least one soul, you will consume it and come back to life.  (Does not work if executed by The Prince) You start with two souls. You will gain one soul on a successful reap. You are aware of the number of souls you hold.
+**Icy Touch (Day)**  - Choose to do a number of the following actions to target player. You will consume a soul for each action chosen. Occupy target player this day. Occupy target player this night. Cancel target player’s vote for the rest of the day. - Infinite uses :crown:
+**Reap (Night)** - Reap the soul of a player, killing them bypassing healing and occupying them. - Infinite uses :crown:
+**Gather Darkness (Night)**  - Use Reap on target player. In addition, choose to do a number of the following modifications. You will consume a soul for each modification chosen. Bypass death immunity or you are occupy/redirection immune for this night. - Infinite uses :crown:
+_Your objective is to make it to the last five players alive._
+---
+&gt; # [color=indigo]The Sorcerer[/color] :shield:  :fire:
+&gt; **[color=indigo]Neutral Killer[/color]** 
+**Mage Armor (Passive)** - You are immune to death at night. In addition you are immune to bleeding and will be informed upon being bled.
+**Walking Bomb (Day)** - Place a bomb on target player. - Infinite uses :crown:
+**Bomb Swap (Day)** - Move a bomb from one player to another one. - Infinite uses :crown:
+**Magic Missile (Night)** - Fire a magic missile at a player, killing them. - Infinite uses :crown:
+**Detonate (Night)** - All players with a bomb active will explode bypassing death immunity. This does not count as a visit. - 2 uses :crown:
+&gt; _Your objective is to make it to the last five players alive._
+---
+&gt; # [color =  darkorchid] The Archduke [/color] :shield:
+&gt;**[color = gray] Neutral Killer [/color]**
+&gt;**Megalomaniac (Passive)** - Your votes for Emperor will count three times. Becomes the Tyrannous Emperor instead of the Psychopathic Emperor.
+**Paranoia (Passive)** - Grants immunity against death at night and bleeding. The first player to accuse you of treason during the day will have their class revealed to the Archduke during the night.
+**Tyrant&#39;s Orders (Day)** - If nobody hits majority by the end of the day, then the player with the most votes will be executed. - 2 uses
+**Tyrant&#39;s Decree (Day)** - To hit majority all players need one less vote. - One use
+**Political Murder (Night)** - Kills a player without counting as a visit, but has a one-day cooldown period after every two uses and cannot target the King. - Infinite uses
+**Coup d&amp;rsquo;Etat (Night)** - Kills the Emperor while bypassing healing and immunity. Can only be used in the third night or later. - One use
+_Your objective is to make it to the last five players alive._
+---
+&gt;# [color = olive] The Basilisk [/color] :shield:
+&gt;**[color =gray] Neutral Killer [/color]**
+&gt;**Scaled Armor (Passive)** - You are immune to death at night, immune to occupation or redirection, nor can you be bled.
+**Drake&#39;s Senses (Passive)** - You will be alerted of every player who visited you during the night and will learn of their classes.
+**Petrifying Glare (Day)** - Once the next day begins you will stone a player temporarily for the remainder of that day, in the next day they will recover from being stoned. - 3 uses.
+**Gargoyle Form (Day)** - Stones yourself in the beginning of the next day. - Infinite uses
+**Stone Gaze (Night)** - Turns a player to stone. Does not bypass death immunity but bypasses healing. Players who are turned to stone will be announced at the start of the day and they will be dead, but can still be targeted or voted up. Stoned players are not counted when factoring in the amount of votes to put a player on trial. - Infinite uses
+**Gorgon Stance (Night)** - Uses Stone Gaze on every player that visits you at night while also bypassing their immunities. - 3 uses
+_Your objective is to make it to the last five players alive._
+---
+&gt;# [color = Crimson] The Berserker [/color] :shield:
+&gt;**[color = gray] Neutral Killer [/color]**
+&gt;**Untamed (Passive)** - You are immune to occupation, target changing, and death at night, including against attacks that normally bypass death immunity. If you are attacked , then you will automatically use Bloody Swings on your attackers. If you are attacked, you will gain two charges of Rampage and empowers Bloody Swings for the next night.
+**Unchained (Passive)** - If a player attempts and fails to occupy or redirect you or tries to bleed you, then you will gain a charge of Rampage.
+**Quarrelsome Banter (Day)** - In the coming night, you will redirect any night actions used by the target onto yourself. - 3 uses
+**Wild Leeches (Day)** - If you are bleeding then you can transfer the condition to another player during the day. - 3 uses
+**Bloody Swings (Night)** - Kills a player. If Bloody Swings is empowered then it bypasses Night Immunity and healing. - Infinite uses
+**Rampage (Night)** - Kills the target. If another player visited the target and you have more than one charge, then Rampage will chain to the next player until a player has not been visited or the Berserker runs out of Rampage charges. - 0 uses
+&gt;
+&gt;Your objective is to defeat the Unseen, Blue Dragon, Hand of Byzantium, and any neutrals that dare stand in your way.*
+---
+&gt; # [color = silver] The Doppelgänger [/color] :shield:
+&gt;**[color = gray] Neutral Killer [/color]**
+&gt;**Sadism (Passive)** - You are immune to occupation, target changing, and have self-healing for the first two nights. You will gain an additional three nights of self-healing for every Hand of Byzantium-aligned player executed during the day.
+**Sociopathy (Day)** - Adds two silent votes towards a player&#39;s lynch during the first three days and one for the remainder. - Infinite uses
+**Scapegoat (Day)** - If a player is voted to be executed in the day, including you, then they will swap their position with another chosen player. The Emperor cannot be the target and this ability is locked if there are 5 or less players remaining. - 1 use
+**Impersonate (Night)** - Takes the form of one player and kills another one. Any investigative results a player will have on you will instead reflect on the player they impersonated. If the impersonated target has Royal Blood, then you shall also have Royal Blood for the next day. If you attack a player who is being followed, then the feedback will show the impersonated player being the visitor. The impersonated player will be framed for the night. - Infinite uses
+**Crushing Guilt (Night)** - If a Hand of Byzantium-aligned player was executed the previous day, then you can select two players who&amp;rsquo;ve voted to execute and cause them to commit suicide by guilt, bypassing healing, night immunity, and not counting as visits. - Infinite uses
+_Your objective is to make it to the last five players alive._
+---
+&gt;# [color = darkred] The Ifrit [/color] :shield:
+&gt;
+&gt; **[color = gray] Neutral Killer [/color]**
+&gt;**Djinn Form (Passive)** - Grants you immunity to occupation, redirection, bleeding, and death at night.
+**Burning Transformation (Day)** - Upon killing a target, you will cause them to flip a class of your choice. If you successfully kills a player this night, you will be able to see their true class. - 2 uses
+**Heat Wave (Day)** - Occupies all targets who try to visit you the coming night. Bypasses immunity to occupation. - 3 uses
+**Incinerate (Night)** - Kills a player by burning them alive. Players that have been incinerated will have their logs erased. Only you will see the player&amp;rsquo;s original logs. - Infinite uses
+**Fires of Jahannam (Night)** - Prevents all visits to the target player and attacks them, erasing their logs if they die. - 3 uses
+_Your objective is to make it to the last five players alive._
+---
+&gt; # [color = slateblue] The Lich [/color] :shield:
+&gt;
+&gt;**[color = gray] Neutral Killer [/color]**
+**Phylactery (Passive)**  - During Day One, you shall specify two players to be our Phylactery Holders. If you fail to do so before the end of the day, they are randomized. They can not choose The Emperor to be their holder, nor can The Emperor be a randomized Holder. You will know their starting classes, and will be night immune while at least one of them lives. If both of them die, you will die the following night. Investigations against the Phylactery Holders will also yield the additional message “You feel a chill surrounding the target player. They are a Phylactery Holder for The Lich.” If your Phylactery Holders die, this fact that they are one will be included with their class information.
+**Undeath (Passive)**  - As long as the Phylactery Holders are alive, at the start of every night you will automatically revive yourself if you are dead, regardless of how you died.
+**Spectral Mist (Day)**  - A target Phylactery Holder is healed tonight. - 3 uses
+**Black Fog (Day)**  - Attempts to investigate either of the Phylactery Holders will fail tonight. - 3 uses
+**Finger of Decay (Night)**  - Kill a player. If you were revived at the start of the night, then this attack bypasses night immunity and healing. - Infinite uses
+**Death’s Curtains (Night)**  - Kill one of your Phylactery holders (bypasses night immunity and healing), and two other targets. - Infinite uses, but only usable while you have two Phylactery Holders alive
+_Your objective is to make it to the last five players alive._
+---
+&gt;# [color = brown] The Occultist [/color] :shield:
+&gt;
+&gt; **[color = gray] Neutral Killer [/color]**
+&gt;**Corrupting Energy (Passive)** - Any player that visits you will be corrupted. For each player that is alive and corrupted, your Corruption Rating increases by 3.5% per night and caps at 100%. You will known your corruption rating at the start of each night and your gains at the end of it.
+**Shield of Corruption (Passive)** - Provides you with defensive bonuses depending on your Corruption Rating.
+&gt;* 5%+: You will be immune to death at night.
+&gt;* 15%+: You will be immune to occupation and target changing.
+&gt;* 25%+: You will be immune to Bleeding.
+&gt;* 65%+: You will automatically kill all incoming attackers.
+&gt;* 90%+: You will be immune to attacks bypassing death immunity.
+&gt;
+&gt;**Mental Corruption (Day)** - If the target uses an ability the coming night, they will receive incorrect feedback. Only usable if your Corruption Rating is at 40% or higher. Able to use it against two players at once if your Corruption Rating is at 75% or higher. Gains an additional charge per 30% corruption. - 1 use
+**Dreadful Omen (Day)** - Skips the day and goes straight into the night. Can only be used when the Occultist&amp;rsquo;s Corruption Rating is at 90% or higher. - One use
+**Burst of Corruption (Night)** - Only usable your Corruption Rating is at 5% rating or higher. Kills a player. Gains the following bonuses depending on your Corruption Rating: -
+&gt;* 20%+: The first attack does not count as a visit.
+&gt;* 35%+: The first attack bypasses night immunity and healing.
+&gt;* 55%+: The Occultist is able to select a second target.
+&gt;* 65%+: The second attack does not count as a visit.
+&gt;* 70%+: The second attack bypasses night immunity and healing.
+&gt;* 75%+: The first attack kills all players who visits the first target.
+&gt;* 85%+: The second attack kills all players who visit the second target.
+&gt;- Infinite uses
+&gt;
+&gt;**Beacon of Corruption (Night)** - Increases your Corruption Rating by 5% and causes Corrupting Energy to trigger against anyone visiting the your target along with the target themselves. Allows selecting two targets if your Corruption Rating is at 50% or higher. - Infinite uses
+_Your objective is to make it to the last five players alive._
+---
+&gt;# [color = orchid] The Succubus [/color] :shield:
+&gt;
+&gt;**[color = gray] Neutral Killer [/color]**
+&gt;**Dependency (Passive)** - If you die during the night or you are executed, all drained players will also die with you the following night.
+**Transfer Life (Day)** - Allows you to kill a drained player overnight, provided they are not healed or night immune, during the coming night and transfer their remaining life in turns to another drained player. This will also heal the latter player. If you transfers to yourself, then you will gain a charge of Love&amp;rsquo;s Malady instead. If the first player is healed then the ability will still function but without the first player dying. - Infinite uses
+**Infatuation (Day)** - When this ability is activated, all drained players will have their votes locked to a target for the remainder of the day. - 2 uses
+**Vital Drain (Night)** - Learns the target player&amp;rsquo;s class type and will drain them to death over the next two nights. While there is at least one player being drained then you will heal yourself if you are attacked or bleeding. If a drained player is healed then their timer until they are drained to death will not lower for the night but neither the healer nor the player will be notified. Does not count as an attack. - Infinite uses
+**Love&#39;s Malady (Night)** - Makes the user immune to occupation and redirection for the night and instantly kills a player while bypassing Night Immunity, healing, and does not count as visiting. - 0 uses
+_Your objective is to make it to the last five players alive._
+---
+&gt; # [color = forestgreen] The Werewolf [/color] :shield:
+&gt;
+&gt; **[color = gray] Neutral Killer [/color]**
+&gt;**Lycanthropy (Passive)** - You are also randomly assigned an Unseen-aligned pseudo-class at the start of the game. The pseudo-class must be able to exist on its own, such as you cannot have a Plague Doctor pseudo-class if three Plague Doctors already exist or a Judge pseudo-class when a Judge is already in the match. This pseudo-class decides your first day and first night ability along with giving you all of the pseudo-class&amp;rsquo; passives and having bonus attributes depending on the current day or night.
+&gt;
+&gt;~Attributes until the fourth day.
+&gt; * You will be seen as your pseudo-class to investigative abilities.
+&gt; * If you are executed or die in any way, you will flip as your pseudo-class.
+&gt;
+&gt;~Attributes from the fourth day onwards.
+&gt; * You are immune to Poison and Bleeding.
+&gt; * You are immune to redirection and occupation.
+&gt; 
+&gt;**Lunacy (Passive)** - You are immune to death at night and also can use both night abilities starting the fourth night.
+**??? (Day)** - The same primary day ability as of your pseudo-class. - ? uses
+**Eclipse (Day)** - Allows you to switch back to the attribute set for the first three nights for this night and the following day, but you can still use Maul and Chow. - 1 use
+**??? (Night)** - The same primary night ability as of your pseudo-class. - ? uses
+**Maul and Chow (Night)** - Kills the target player, but this ability cannot be used in the first or second nights. Can be used alongside your pseudo-class primary ability. - Infinite uses
+_Your objective is to make it to the last five players alive._
+[/details]</description>
+    
+    <lastBuildDate>Wed, 23 Oct 2019 17:23:39 +0000</lastBuildDate>
+    <category>Discussion</category>
+    <atom:link href="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>SFoL 58 Balance Talk Thread Revamped</title>
+        <dc:creator><![CDATA[Vulgard]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Vulgard" data-post="370" data-topic="78967">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/vulgard/40/26568_2.png" class="avatar"> Vulgard:</div>
+<blockquote>
+<p>Not sure if we want this or Gossip Aristocrat.</p>
+</blockquote>
+</aside>
+<p>Order Aristocrat is easily confirmable and that’s kinda bad.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/371">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/371</link>
+        <pubDate>Wed, 23 Oct 2019 17:23:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78967-371</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967.rss">SFoL 58 Balance Talk Thread Revamped</source>
+      </item>
+      <item>
+        <title>SFoL 58 Balance Talk Thread Revamped</title>
+        <dc:creator><![CDATA[Vulgard]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Maxwell" data-post="1" data-topic="78967">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/maxwell/40/20105_2.png" class="avatar"> Maxwell:</div>
+<blockquote>
+<p><strong>Ballad (Night)</strong> - <strong>Ballad (Night)</strong></p>
+</blockquote>
+</aside>
+<p>You probably know this one but hehe.</p>
+<aside class="quote no-group" data-username="Maxwell" data-post="1" data-topic="78967">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/maxwell/40/20105_2.png" class="avatar"> Maxwell:</div>
+<blockquote>
+<p><strong>Royal Blood (Passive)</strong> - Your votes for Emperor will count twice.</p>
+</blockquote>
+</aside>
+<p>Votes for King. Not sure if I mentioned this one before.</p>
+<aside class="quote no-group" data-username="Maxwell" data-post="1" data-topic="78967">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/maxwell/40/20105_2.png" class="avatar"> Maxwell:</div>
+<blockquote>
+<p><strong>Debauchery (Night)</strong> - Get in a player’s way, causing them to target you. You will be immune to any attacks you redirect. - Infinite uses.</p>
+</blockquote>
+</aside>
+<p>Is that the version we want to be using?</p>
+<aside class="quote no-group" data-username="Maxwell" data-post="1" data-topic="78967">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/maxwell/40/20105_2.png" class="avatar"> Maxwell:</div>
+<blockquote>
+<p><strong>Debauchery (Night)</strong> - Get in a player’s way, causing them to target you. You will be immune to any attacks you redirect. - Infinite uses.</p>
+</blockquote>
+</aside>
+<p>Same here.</p>
+<aside class="quote no-group" data-username="Maxwell" data-post="1" data-topic="78967">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/maxwell/40/20105_2.png" class="avatar"> Maxwell:</div>
+<blockquote>
+<p><strong>Order (Night)</strong> - Negate the votes of a target player the next day. They can’t accuse anyone or vote tomorrow. The target still counts towards the voting majority. - Infinite uses</p>
+</blockquote>
+</aside>
+<p>Not sure if we want this or Gossip Aristocrat. <img src="/images/emoji/twitter/thinking.png?v=9" title=":thinking:" class="emoji" alt=":thinking:"></p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/370">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/370</link>
+        <pubDate>Wed, 23 Oct 2019 17:23:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78967-370</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967.rss">SFoL 58 Balance Talk Thread Revamped</source>
+      </item>
+      <item>
+        <title>SFoL 58 Balance Talk Thread Revamped</title>
+        <dc:creator><![CDATA[Vulgard]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Maxwell" data-post="1" data-topic="78967">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/maxwell/40/20105_2.png" class="avatar"> Maxwell:</div>
+<blockquote>
+<p>See three Unseen players executed, or survive to see the Unseen defeated.</p>
+</blockquote>
+</aside>
+<p>Now that I think about it, how does stuff like this interact with flip tailors if there are any? Does it take the tailored flip into account, or the real flip?</p>
+<aside class="quote no-group" data-username="Maxwell" data-post="1" data-topic="78967">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/maxwell/40/20105_2.png" class="avatar"> Maxwell:</div>
+<blockquote>
+<p>Make sure at least half of the living remainder of the Court is infected with Vampirism by the end of the game.</p>
+</blockquote>
+</aside>
+<p>That seems a little difficult in a 20er but I might be wrong. As it stands I think the games are likely to go into d5-d6 at least, so Strigoi should have a decent chance of winning.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/369">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/369</link>
+        <pubDate>Wed, 23 Oct 2019 17:15:17 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78967-369</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967.rss">SFoL 58 Balance Talk Thread Revamped</source>
+      </item>
+      <item>
+        <title>SFoL 58 Balance Talk Thread Revamped</title>
+        <dc:creator><![CDATA[Soulshade55r]]></dc:creator>
+        <description><![CDATA[
+            <p>Insurgent is a better “King counter” a class that needs to see starting kings faction lose balances out king</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/368">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/368</link>
+        <pubDate>Wed, 23 Oct 2019 17:12:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78967-368</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967.rss">SFoL 58 Balance Talk Thread Revamped</source>
+      </item>
+      <item>
+        <title>SFoL 58 Balance Talk Thread Revamped</title>
+        <dc:creator><![CDATA[Maxwell]]></dc:creator>
+        <description><![CDATA[
+            <p>Pret is gone<br>
+Insurgent is a better version in every way and I don’t need both</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/367">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/367</link>
+        <pubDate>Wed, 23 Oct 2019 17:11:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78967-367</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967.rss">SFoL 58 Balance Talk Thread Revamped</source>
+      </item>
+      <item>
+        <title>SFoL 58 Balance Talk Thread Revamped</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p>We only have one king election at max</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/366">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/366</link>
+        <pubDate>Wed, 23 Oct 2019 17:11:45 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78967-366</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967.rss">SFoL 58 Balance Talk Thread Revamped</source>
+      </item>
+      <item>
+        <title>SFoL 58 Balance Talk Thread Revamped</title>
+        <dc:creator><![CDATA[DatBird]]></dc:creator>
+        <description><![CDATA[
+            <p>Make it named Insurgent 4head</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/365">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/365</link>
+        <pubDate>Wed, 23 Oct 2019 17:11:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78967-365</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967.rss">SFoL 58 Balance Talk Thread Revamped</source>
+      </item>
+      <item>
+        <title>SFoL 58 Balance Talk Thread Revamped</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="DatBird" data-post="357" data-topic="78967" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/datbird/40/32705_2.png" class="avatar"> DatBird:</div>
+<blockquote>
+<p>Pretender is fine if their goal is just to become king. Survive wincons suck</p>
+</blockquote>
+</aside>
+<p>Pretender is just bad 4head</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/364">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/364</link>
+        <pubDate>Wed, 23 Oct 2019 17:11:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78967-364</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967.rss">SFoL 58 Balance Talk Thread Revamped</source>
+      </item>
+      <item>
+        <title>SFoL 58 Balance Talk Thread Revamped</title>
+        <dc:creator><![CDATA[DatBird]]></dc:creator>
+        <description><![CDATA[
+            <p>I think Pretender if it gets added to FOL should be practically the insurgent from HOB</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/363">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/363</link>
+        <pubDate>Wed, 23 Oct 2019 17:11:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78967-363</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967.rss">SFoL 58 Balance Talk Thread Revamped</source>
+      </item>
+      <item>
+        <title>SFoL 58 Balance Talk Thread Revamped</title>
+        <dc:creator><![CDATA[Soulshade55r]]></dc:creator>
+        <description><![CDATA[
+            <p>Sure love a death immune princess, who ruins how king works.</p>
+<p>You don’t need a election counter class, sure have a class that see’s starting king’s faction lose but dear god not a become king wincon</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/362">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/362</link>
+        <pubDate>Wed, 23 Oct 2019 17:10:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78967-362</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967.rss">SFoL 58 Balance Talk Thread Revamped</source>
+      </item>
+      <item>
+        <title>SFoL 58 Balance Talk Thread Revamped</title>
+        <dc:creator><![CDATA[DatBird]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Soulshade55r" data-post="358" data-topic="78967">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/soulshade55r/40/29692_2.png" class="avatar"> Soulshade55r:</div>
+<blockquote>
+<p>Neutrals are swingy survive wincon or not.</p>
+</blockquote>
+</aside>
+<p>I agree but pretender will never win with a survive wincon, essentially for the same reason no never does. That’s why the final five thing may actually work</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/361">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/361</link>
+        <pubDate>Wed, 23 Oct 2019 17:09:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78967-361</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967.rss">SFoL 58 Balance Talk Thread Revamped</source>
+      </item>
+      <item>
+        <title>SFoL 58 Balance Talk Thread Revamped</title>
+        <dc:creator><![CDATA[Jane]]></dc:creator>
+        <description><![CDATA[
+            <p>I like all Neutrals.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/360">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/360</link>
+        <pubDate>Wed, 23 Oct 2019 17:08:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78967-360</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967.rss">SFoL 58 Balance Talk Thread Revamped</source>
+      </item>
+      <item>
+        <title>SFoL 58 Balance Talk Thread Revamped</title>
+        <dc:creator><![CDATA[DatBird]]></dc:creator>
+        <description><![CDATA[
+            <p>Why is it bad? And does that mean it would be bad in FOL?</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/359">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/359</link>
+        <pubDate>Wed, 23 Oct 2019 17:08:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78967-359</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967.rss">SFoL 58 Balance Talk Thread Revamped</source>
+      </item>
+      <item>
+        <title>SFoL 58 Balance Talk Thread Revamped</title>
+        <dc:creator><![CDATA[Soulshade55r]]></dc:creator>
+        <description><![CDATA[
+            <p>No pretender is a bad class, survive wincons are fine Lmao.</p>
+<p>Neutrals are swingy survive wincon or not.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/358">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/358</link>
+        <pubDate>Wed, 23 Oct 2019 17:08:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78967-358</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967.rss">SFoL 58 Balance Talk Thread Revamped</source>
+      </item>
+      <item>
+        <title>SFoL 58 Balance Talk Thread Revamped</title>
+        <dc:creator><![CDATA[DatBird]]></dc:creator>
+        <description><![CDATA[
+            <p>Pretender is fine if their goal is just to become king. Survive wincons suck</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/357">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/357</link>
+        <pubDate>Wed, 23 Oct 2019 17:06:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78967-357</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967.rss">SFoL 58 Balance Talk Thread Revamped</source>
+      </item>
+      <item>
+        <title>SFoL 58 Balance Talk Thread Revamped</title>
+        <dc:creator><![CDATA[Maxwell]]></dc:creator>
+        <description><![CDATA[
+            <blockquote>
+<h1><font color="goldenrod"> The Arbiter <img src="/images/emoji/twitter/crossed_swords.png?v=9" title=":crossed_swords:" class="emoji" alt=":crossed_swords:"> <img src="/images/emoji/twitter/shield.png?v=9" title=":shield:" class="emoji" alt=":shield:"> </font></h1>
+<p><font color="goldenrod"> <strong>Hand of Byzantium Special</strong> </font><br>
+<strong>Battle-Tested (Passive)</strong> - You are immune to every possible form of death except a lynch, including all attacks that bypass immunity. You are also occupation and redirection immune even if you become the Champion or become elected as a Purified King. If the Duke attempts to imprison you, he will think he has imprisoned you and you will be able to send a message to each other, but you will not be occupied and visits to you will not be prevented. You may also write a fake logbook when imprisoned. If the Duke attempts to execute you, he will fail and the Champion will automatically attack him in addition to his night action, bypassing all forms of healing and protection if the Duke has any. If you wrote a fake logbook while imprisoned, it will be revealed instead of the Duke’s real logbook and you will obtain access to the Duke’s original logbook.<br>
+<strong>Inside Seclusion (Passive)</strong> - You will appear as a class of your choice which you can inform the host at the start of the game or when you are promoted to the arbiter which you would like for to investigators. This class can be any class in the game, even any prestige class. You are fully immune to all investigative abilities for the entire game (or entire rest of the game if you are the second arbiter) and will always appear as your desired class to investigators. You may choose one day ability from any class in the game besides the Duke, Warden, Sheriff, Agent, or any BD classes to add to your classcard, either at the start of the game for the first Arbiter or when you become the Arbiter for the second. Additionally, if you are the original Arbiter and die, if and ONLY IF the current Champion is the original champion or was promoted from a Socialite, they will become the new Arbiter. The only exception to this is a Socialite who will automatically become the new Arbiter before the Champion and the Magistrate who will do so if and only if they utilized a one-shot day ability and the Arbiter is lynched during the day. Otherwise, there will not be a second arbiter, and there can never be a third Arbiter.<br>
+<strong>Imperial Urgency (Day)</strong> - Become the Champion at the start of the night; if there is a current champion, if they are the original champion, they will become the new Arbiter; if not, they will become their convert class again. Cannot be used before day 4. - One use<br>
+<strong>Entrust (Night)</strong> - Convince someone to join the Hand of Byzantium. - Infinite uses, Cannot Convert Night 1, then a two-day cooldown after the first conversion succeeds, then a one-day cooldown for every conversion attempt after that.<br>
+<strong>Imperial Judgment (Night)</strong> - Target a player. You may force them to target another, or force them to target themselves. If they target themselves, they will instead be occupied. You will also know who visits them. - Infinite Uses<br>
+<em>Defeat the Unseen and any neutrals that seek to do you harm.</em></p>
+</blockquote>
+          <p><a href="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/356">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/356</link>
+        <pubDate>Wed, 23 Oct 2019 17:05:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78967-356</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967.rss">SFoL 58 Balance Talk Thread Revamped</source>
+      </item>
+      <item>
+        <title>SFoL 58 Balance Talk Thread Revamped</title>
+        <dc:creator><![CDATA[Soulshade55r]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Maxwell" data-post="1" data-topic="78967">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/maxwell/40/20105_2.png" class="avatar"> Maxwell:</div>
+<blockquote>
+<h1>The Pretender <img src="/images/emoji/twitter/shield.png?v=9" title=":shield:" class="emoji" alt=":shield:">
+</h1>
+<p><strong>Neutral Special</strong><br>
+<strong>Royal Blood (Passive)</strong> - Votes to become king count as two for you.<br>
+<strong>No Allegiance (Passive)</strong> Immune to death at night once.<br>
+<strong>Silence (Day)</strong> - Prevent Target player from using Day abilities if Royal, or the King - 3 uses<br>
+<strong>Blood Test (Night)</strong> Find out if the Target Player has Royal Blood, and their Class Type if they are - Infinite uses<br>
+<strong>Kinslayer (Night)</strong> Kill target player if they are Royal, or the King - 2 uses<br>
+<em>Your objective is to Become King and Survive, ensuring there is no King except you when the Game ends.</em></p>
+</blockquote>
+</aside>
+<p>Remove this please no one likes pretender</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/355">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/355</link>
+        <pubDate>Wed, 23 Oct 2019 17:05:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78967-355</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967.rss">SFoL 58 Balance Talk Thread Revamped</source>
+      </item>
+      <item>
+        <title>SFoL 58 Balance Talk Thread Revamped</title>
+        <dc:creator><![CDATA[Vulgard]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Maxwell" data-post="348" data-topic="78967">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/maxwell/40/20105_2.png" class="avatar"> Maxwell:</div>
+<blockquote>
+<p><strong>Battle-Tested (Passive)</strong> - Immune to every possible form of death except a lynch. You cannot be killed even by the duke. This passive is a form of supreme protection that overrules death immunity bypassing attacks. If the Duke attempts to execute you, he will fail and instead the champion will counterattack, unleashing a bonus strike onto the duke which bypasses any and all forms of healing and protection in addition to their normal night action. There will be at least one hour each time between EoN and SoD; if this occurs, you will have that period available to replace the Duke’s logs with whatever you would like or nothing at all.<br>
+<strong>Imperial Pledge (Passive)</strong> - You are entirely immune to all forms of occupation and redirection for the entire game. You keep this passive even if you choose to become the Champion or become elected as a Purified King. You also cannot be imprisoned by the duke. If the duke attempts to imprison you, he will think he has imprisoned you and you will be able to send a message to each other, but you will not actually be occupied.</p>
+</blockquote>
+</aside>
+<p>I would merge these two.</p>
+<p><strong>Battle-Tested (Passive)</strong> - You are immune to every possible form of death except a lynch, including all attacks that bypass immunity. You are also occupation and redirection immune even if you become the Champion or become elected as a Purified King. If the Duke attempts to imprison you, he will think he has imprisoned you and you will be able to send a message to each other, but you will not be occupied and visits to you will not be prevented. You may also write a fake logbook when imprisoned. If the Duke attempts to execute you, he will fail and the Champion will automatically attack him in addition to his night action, bypassing all forms of healing and protection if the Duke has any. If you wrote a fake logbook while imprisoned, it will be revealed instead of the Duke’s real logbook and you will obtain access to the Duke’s original logbook.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/354">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/354</link>
+        <pubDate>Wed, 23 Oct 2019 17:03:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78967-354</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967.rss">SFoL 58 Balance Talk Thread Revamped</source>
+      </item>
+      <item>
+        <title>SFoL 58 Balance Talk Thread Revamped</title>
+        <dc:creator><![CDATA[Maxwell]]></dc:creator>
+        <description><![CDATA[
+            <p>fixed the conversion rules</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/353">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/353</link>
+        <pubDate>Wed, 23 Oct 2019 16:59:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78967-353</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967.rss">SFoL 58 Balance Talk Thread Revamped</source>
+      </item>
+      <item>
+        <title>SFoL 58 Balance Talk Thread Revamped</title>
+        <dc:creator><![CDATA[Maxwell]]></dc:creator>
+        <description><![CDATA[
+            <blockquote>
+<h1><font color="steblue"> The Visionary <img src="/images/emoji/twitter/crossed_swords.png?v=9" title=":crossed_swords:" class="emoji" alt=":crossed_swords:"> <img src="/images/emoji/twitter/shield.png?v=9" title=":shield:" class="emoji" alt=":shield:"> </font></h1>
+<p><font color="steblue"> <strong>Blue Dragon Special</strong> </font><br>
+<strong>Impenetrable Guard</strong> - Death Immune at Night.<br>
+<strong>Undercover Rebel (Passive) (Starting Visionary Only)</strong> - You will appear as a class of your choice which you can inform the host at the start of the game which you would like for to investigators. You are fully immune to all investigative abilities for the entire game and will always appear as your desired class to investigators.<br>
+<strong>Path of Leadership (Passive)</strong> - If you are the original or second Visionary and die, the youngest non killing Blue Dragon member will become the new Visionary. If there is no non Killing Blue Dragons, it will instead be the Youngest Blue Dragon Killer. There can always be a second and third visionary unless the current visionary dies as the last member of the Blue Dragon. A fourth visionary will never happen, however.<br>
+<strong>Avenge (Day)</strong> - You will turn into the Heroine when you use this ability. Target Blue Dragon player will become the new Visionary. - 1 use (shared) - Cannot use when any Blue Dragon Killers are living<br>
+<strong>Call to Arms! (Day)</strong> - Call the Blue Dragon to arms, empowering them tonight. The Blue Dragon will receive a message when this is activated. The individual effects can be found on each class card. - Infinite Uses, 2 day cooldown.<br>
+<strong>Persuade (Night)</strong> - Persuade someone to join the Blue Dragon. - Infinite uses, Cannot Convert Night 1, then a two-day cooldown after the first conversion succeeds, then a one-day cooldown for every conversion attempt after that.<br>
+<em>Defeat the Unseen and any neutrals that seek to do you harm.</em></p>
+</blockquote>
+          <p><a href="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/352">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/352</link>
+        <pubDate>Wed, 23 Oct 2019 16:58:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78967-352</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967.rss">SFoL 58 Balance Talk Thread Revamped</source>
+      </item>
+      <item>
+        <title>SFoL 58 Balance Talk Thread Revamped</title>
+        <dc:creator><![CDATA[Vulgard]]></dc:creator>
+        <description><![CDATA[
+            <p>I think the converted versions of Marshal are still alright. Sufficiently strong and can still pretend they’re not converted.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/351">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/351</link>
+        <pubDate>Wed, 23 Oct 2019 16:57:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78967-351</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967.rss">SFoL 58 Balance Talk Thread Revamped</source>
+      </item>
+      <item>
+        <title>SFoL 58 Balance Talk Thread Revamped</title>
+        <dc:creator><![CDATA[Vulgard]]></dc:creator>
+        <description><![CDATA[
+            <p>Arbiter’s passives together have almost 2000 characters <img src="/images/emoji/twitter/joy.png?v=9" title=":joy:" class="emoji" alt=":joy:"></p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/350">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/350</link>
+        <pubDate>Wed, 23 Oct 2019 16:56:24 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78967-350</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967.rss">SFoL 58 Balance Talk Thread Revamped</source>
+      </item>
+      <item>
+        <title>SFoL 58 Balance Talk Thread Revamped</title>
+        <dc:creator><![CDATA[Maxwell]]></dc:creator>
+        <description><![CDATA[
+            <blockquote>
+<h1><font color="purple"> <strong>The Marshal</strong> <img src="/images/emoji/twitter/shield.png?v=9" title=":shield:" class="emoji" alt=":shield:"> </font></h1>
+<p><font color="purple"> <strong>Unseen Investigative</strong> </font><br>
+<strong>Scout (Day)</strong> - Your scout will inform you whether a particular player has been visited by a a member of the Blue Dragon or the Hand of Byzantum tonight and the faction of the player that visited your target if so. This ability can never detect the Visionary or the Arbiter. - Infinite Uses<br>
+<strong>Peerless Confidant (Day)</strong> - Employ your most trusted confidant to keep watch on two players at once tonight. This confidant will tell you if either or both player is visited by a member of the Blue Dragon or the Hand of Byzantum tonight and the faction of the player(s) that visited your target(s) if so. This ability can never detect the Visionary or the Arbiter. - One Use<br>
+<strong>Expert Investigation (Night)</strong> - If a player is a member of the Blue Dragon or Hand of Byzantum, learn their faction. This ability can never detect the Visionary or the Arbiter. - Infinite Uses<br>
+<strong>Case Closed (Night)</strong> - Very carefully examine two players at once tonight. If either or both of them is/are a member of the Blue Dragon or Hand of Byzantum, learn their exact class(es). This ability can never detect the Visionary or the Arbiter. - One Use<br>
+<em>Defeat the Blue Dragon or Hand of Byzantum and any neutrals that seek to do you harm.</em></p>
+</blockquote>
+          <p><a href="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/349">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/349</link>
+        <pubDate>Wed, 23 Oct 2019 16:56:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78967-349</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967.rss">SFoL 58 Balance Talk Thread Revamped</source>
+      </item>
+      <item>
+        <title>SFoL 58 Balance Talk Thread Revamped</title>
+        <dc:creator><![CDATA[Maxwell]]></dc:creator>
+        <description><![CDATA[
+            <blockquote>
+<h1><font color="goldenrod"> The Arbiter <img src="/images/emoji/twitter/crossed_swords.png?v=9" title=":crossed_swords:" class="emoji" alt=":crossed_swords:"> <img src="/images/emoji/twitter/shield.png?v=9" title=":shield:" class="emoji" alt=":shield:"> </font></h1>
+<p><font color="goldenrod"> <strong>Hand of Byzantium Special</strong> </font><br>
+<strong>Battle-Tested (Passive)</strong> - Immune to every possible form of death except a lynch. You cannot be killed even by the duke. This passive is a form of supreme protection that overrules death immunity bypassing attacks. If the Duke attempts to execute you, he will fail and instead the champion will counterattack, unleashing a bonus strike onto the duke which bypasses any and all forms of healing and protection in addition to their normal night action. There will be at least one hour each time between EoN and SoD; if this occurs, you will have that period available to replace the Duke’s logs with whatever you would like or nothing at all.<br>
+<strong>Imperial Pledge (Passive)</strong> - You are entirely immune to all forms of occupation and redirection for the entire game. You keep this passive even if you choose to become the Champion or become elected as a Purified King. You also cannot be imprisoned by the duke. If the duke attempts to imprison you, he will think he has imprisoned you and you will be able to send a message to each other, but you will not actually be occupied.<br>
+<strong>Inside Seclusion (Passive)</strong> - You will appear as a class of your choice which you can inform the host at the start of the game or when you are promoted to the arbiter which you would like for to investigators. This class can be any class in the game, even any prestige class. You are fully immune to all investigative abilities for the entire game (or entire rest of the game if you are the second arbiter) and will always appear as your desired class to investigators. You may choose one day ability from any class in the game besides the Duke, Warden, Sheriff, Agent, or any BD classes to add to your classcard, either at the start of the game for the first Arbiter or when you become the Arbiter for the second. Additionally, if you are the original Arbiter and die, if and ONLY IF the current Champion is the original champion or was promoted from a Socialite, they will become the new Arbiter. The only exception to this is a Socialite who will automatically become the new Arbiter before the Champion and the Magistrate who will do so if and only if they utilized a one-shot day ability and the Arbiter is lynched during the day. Otherwise, there will not be a second arbiter, and there can never be a third Arbiter.<br>
+<strong>Imperial Urgency (Day)</strong> - Become the Champion at the start of the night; if there is a current champion, if they are the original champion, they will become the new Arbiter; if not, they will become their convert class again. Cannot be used before day 4. - One use<br>
+<strong>Entrust (Night)</strong> - Convince someone to join the Hand of Byzantium. - Infinite uses, Cannot Convert Night 1, then a two-day cooldown after the first conversion succeeds, then a one-day cooldown for every conversion attempt after that.<br>
+<strong>Imperial Judgment (Night)</strong> - Target a player. You may force them to target another, or force them to target themselves. If they target themselves, they will instead be occupied. You will also know who visits them. - Infinite Uses<br>
+<em>Defeat the Unseen and any neutrals that seek to do you harm.</em></p>
+</blockquote>
+          <p><a href="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/348">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/348</link>
+        <pubDate>Wed, 23 Oct 2019 16:55:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78967-348</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967.rss">SFoL 58 Balance Talk Thread Revamped</source>
+      </item>
+      <item>
+        <title>SFoL 58 Balance Talk Thread Revamped</title>
+        <dc:creator><![CDATA[Maxwell]]></dc:creator>
+        <description><![CDATA[
+            <blockquote>
+<h1><font color="steblue"> The Visionary <img src="/images/emoji/twitter/crossed_swords.png?v=9" title=":crossed_swords:" class="emoji" alt=":crossed_swords:"> <img src="/images/emoji/twitter/shield.png?v=9" title=":shield:" class="emoji" alt=":shield:"> </font></h1>
+<p><font color="steblue"> <strong>Blue Dragon Special</strong> </font><br>
+<strong>Impenetrable Guard</strong> - Death Immune at Night.<br>
+<strong>Undercover Rebel (Passive) (Starting Visionary Only)</strong> - You will appear as a class of your choice which you can inform the host at the start of the game which you would like for to investigators. You are fully immune to all investigative abilities for the entire game and will always appear as your desired class to investigators.<br>
+<strong>Path of Leadership (Passive)</strong> - If you are the original or second Visionary and die, the youngest non killing Blue Dragon member will become the new Visionary. If there is no non Killing Blue Dragons, it will instead be the Youngest Blue Dragon Killer. There can always be a second and third visionary unless the current visionary dies as the last member of the Blue Dragon. A fourth visionary will never happen, however.<br>
+<strong>Avenge (Day)</strong> - You will turn into the Heroine when you use this ability. Target Blue Dragon player will become the new Visionary. - 1 use (shared) - Cannot use when any Blue Dragon Killers are living<br>
+<strong>Call to Arms! (Day)</strong> - Call the Blue Dragon to arms, empowering them tonight. The Blue Dragon will receive a message when this is activated. The individual effects can be found on each class card. - Infinite Uses, 2 day cooldown.<br>
+<strong>Persuade (Night)</strong> - Persuade someone to join the Blue Dragon. - Infinite uses, 1 day cooldown, except to convert a fourth member to the Blue Dragon, in which case that is a two day cooldown.<br>
+*Defeat the Unseen and any neutrals that seek to do you harm.</p>
+</blockquote>
+          <p><a href="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/347">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967/347</link>
+        <pubDate>Wed, 23 Oct 2019 16:49:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78967-347</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-58-balance-talk-thread-revamped/78967.rss">SFoL 58 Balance Talk Thread Revamped</source>
+      </item>
+  </channel>
+</rss>

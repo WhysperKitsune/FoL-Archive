@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Looking for Feedback for a Custom Mafia Game</title>
+    <link>https://forum.throneoflies.com/t/looking-for-feedback-for-a-custom-mafia-game/67492</link>
+    <description>A long while back I had an idea for a D&amp;D-themed Mafia game, and I was hoping I could run the classes and mechanics through the fine folks here should I ever run it with my friends over Discord or something like that. Thanks in advance!
+
+***The Premise***
+
+Recently, a group of adventurers unearthed a powerful relic from a dungeon. Sensing its resonance with arcane magic, they took it to a nearby Arcane Academy during winter break to have it identified. The relic ended up being far more powerful than the adventurers could have imagined, and willingly turned it over to the Crown for safekeeping.
+
+However, due to the Academy&#39;s wards and a wild magic storm in the nearby area, the Royal Wizard can&#39;t simply teleport in to retrieve the relic; it will take them eight days to arrive. Word of the relic has spread out, though, with greedy mages seeking to steal it for themselves.
+
+***The Setup***
+
+The Academy is locked down until the Royal Wizard arrives. Nine faculty members have volunteered to stay and guard the relic, eight of them specialists in each of the schools of magic, and the Sorceress that oversees sorcery training. However, a tenth person has infiltrated their midst: A paladin that believes arcane magic is inherently evil and seeks to obtain the relic for himself to destroy it.
+
+Two of the eight specialists are evil and seek to steal the relic for themselves. They work together as part of the same team but have no way of communicating secretly. Six of the specialists are good and want to preserve the relic intact until the Royal Wizard arrives. The Sorceress used to be on the side of good, but when she learnt that a paladin had infiltrated the premises, she knew exactly what she was facing: the man who killed her family simply because arcane magic ran through their veins. She has cast out all other goals just to see him dead.
+
+***The Classes***
+
+*The Abjurer*
+
+**Gray Ward (Night, Infinite):** Protect a target from non-[Divination] magic tonight. Does not cure Contagion. Can be self-cast.
+**Mass Dispel (Night, 1 Use):** All magic abilities used tonight will be prevented. Is not a visit.
+
+*The Conjurer*
+
+**Summon Monster (Night; Infinite):** You will send out a conjured scout that will inform you who visits a target tonight. Is not a visit.
+**Baleful Transposition (Night, 1 Use):** You will swap two targets tonight, causing all effects that target one to target the other and viceversa. Is not a visit. Can be self-cast. Is always the first effect that takes place at night. Bypasses Magic Immunity.
+
+*The Diviner*
+
+**Commune (Night, 4 Uses):** Discern a clue about a target&#39;s identity. Is not a visit. [Divination].
+**Scrying (Night, 4 Uses):** You will know the results of all actions that occur to a target. Is not a visit. [Divination].
+
+**Clues:** &quot;Your target&#39;s magic reeks of entropy! They must be an Evoker or Necromancer!&quot; &quot;Your target&#39;s magic befuddles the mind! They must be an Illusionist or Enchanter!&quot; &quot;Your target&#39;s magic alters reality itself! They must be a Transmuter or Conjurer!&quot; &quot;Your target can ward against magic! They must be an Abjurer, Sorceress or Paladin!&quot;
+
+*The Enchanter*
+
+**Charm Person (Night, Infinite):** Bewitch a target, preventing them from taking any actions tonight.
+**Dominate Person (Night; 1 Use):** Take control of a target, choosing who they will target tonight with their ability.
+
+*The Evoker*
+
+**Lightning Bolt (Night, Infinite):** You will attack a target tonight, killing them if they are not protected.
+**Wall of Fire (Night, 1 Use):** You will stay in your room tonight, surrounded by fire. Is not a visit. You will kill all those who visit you and are not protected. Any players you kill this way will have their abilities prevented.
+
+*The Illusionist*
+
+**Programmed Image (Night; Infinite):** Project an illusion on a target. If they are targeted with an ability that has Infinite uses, that ability will be prevented.
+**Simulacrum (Night; 1 Use):** Create a perfect double of yourself tonight, rendering you immune to all effects (other than the Paladin&#39;s Antimagic Blade/Smite the Arcane). Is not a visit. Does not cure Contagion.
+
+*The Necromancer*
+
+**Contagion (Night, Infinite):** You will attack a target tonight, if they are not protected, and inflict them with a deadly disease that will kill them in 2 nights if not cured.
+**Raise Dead (Night, 1 Use):** You will bring a dead player back to life. That player cannot be executed the following day. Is not a visit.
+
+*The Transmuter*
+
+**Philosopher&#39;s Stone (Night, Infinite):** You will grant a target immunity to death tonight. Cures Contagion. Can be self-cast.
+**Flesh to Stone (Night; 1 Use):** Turn a target to stone. They will count as dead for 3 days (during which they cannot be targeted, perform any actions or talk/vote, but they will be aware of everything that happens during the daytime), after which they will be restored to normal at the start of the third night or at the start of Night 7, whichever comes first. Using this on the Secret-Keeper will count as killing them.
+
+*The Paladin*
+
+**Symbol of Hatred (Day; 5 Uses):** You will be immune to death and non-[Divination] magic tonight. If Contagion would kill you, this will save you.
+**Zone of Truth (Night; Infinite):** You will visit a target, knowing if they are good or evil, and whether they are the Secret-Keeper or not (the Sorceress counts as good). [Divination].
+**Antimagic Blade (Night; 2 Uses):** You will visit a target and attack them, killing them if they are not immune to death. Ignores magic immunity. Does not count as magic.
+**Smite the Arcane (Night; 2 Uses; Unavailable Night 1):** You will attack a target tonight, killing them and bypassing magic and death immunity. Does not count as magic. If you kill the Secret-Keeper with this attack and survive the night, you will learn the location of the Relic and win the game.
+
+*The Sorceress*
+
+**Last One Standing (Passive; Conditional):** If you and another player are the last two left alive, your votes count double.
+**Shield of Chaos (Day; 4 Uses):** You will be immune to death and non-[Divination] magic tonight. If Contagion would kill you, this will save you.
+**Purge The Divine (Night; Infinite):** You will plant a special trap on a target. If the Paladin visits that target, they will be stripped of any magic or death immunity they might have and their Antimagic Blade and Smite the Arcane will not ignore magic or death immunity. Can be self-cast. Ignores the Paladin&#39;s magic immunity but can be prevented by other abilities.
+**Unleash Wild Magic (Night; 1 Use):** All non-[Divination] effects that target you (including the Paladin&#39;s Antimagic Blade and Smite the Arcane abilities) will be redirected back to their user tonight. Is not a visit. Ignores magic immunity.
+
+**The Win Conditions**
+
+*Good Wizards:* Maintain a good-aligned Secret-Keeper alive until the end of Day 8 (the Sorceress counts as good-aligned).
+*Evil Wizards:* Kill all Good Wizards so that one of you becomes the Secret-Keeper, and maintain an evil-aligned Secret-Keeper alive until the end of Day 8.
+*Paladin:* Kill a Secret-Keeper with your Smite the Arcane ability or ensure all other players are dead by the end of Day 8.
+*Sorceress:* Stay alive to witness the Paladin dead.
+
+**The Rules**
+
+1) All classes are unique, making this a 10 person game, but you can get rid of the Sorceress and Paladin for an 8 person game. You could theoretically double the amount of classes, but I haven&#39;t tested a game like that.
+a. For anyone brave enough to try, Sorceresses win together by at least one of them surviving to see all Paladins dead, a Paladin reading another Paladin&#39;s alignment would read it as evil, and Paladins don&#39;t win together like evil wizards do.
+b. With more than one Diviner, you can choose to either let Diviners know their Commune target is a Diviner (probably with something like *&quot;Your target is capable of divination! They must be a Diviner!&quot;*) or remove the Paladin from the Abjurer/Sorceress group and group them with the Diviner (*&quot;Your target is capable of divination! They must be a Diviner or a Paladin!&quot;*).
+2) One of the evil wizards is always either the Evoker or the Necromancer (50% chance of either). If the Evoker is evil, the Abjurer will be good. If the Necromancer is evil, the Transmuter will be good. Select the second evil wizard randomly from among the remaining unaligned wizards. The remaining wizards are good. The two evil wizards will know each other&#39;s identities and the fact that they are on the same team.
+3) A good wizard is randomly selected as the Secret-Keeper at the start of the game. 
+a. When the Secret-Keeper dies, another randomly selected good wizard becomes the Secret-Keeper (this is checked at dawn and dusk). 
+b. If no good wizards remain alive, a random evil wizard is selected as the Secret-Keeper. 
+c. If no evil wizards remain alive, the Sorceress becomes the Secret-Keeper. 
+d. If only the Paladin remains alive, the Paladin becomes the Secret-Keeper.
+4) Only the Secret-Keeper is informed that they are the Secret-Keeper.
+5) Two-thirds majority is required to put someone up for trial, but only a simple majority is required to decide whether to execute/pardon someone that&#39;s on trial.
+6) No classes, alignments or personal notes are revealed when a player dies. This means the Sorceress may have already won but be unaware of it until the end of the game.
+7) In general, ability feedback comes in the vaguest form possible (for example, *&quot;Something prevented you from using your ability on your target!&quot;* to maintain vagueness between an Enchanter charming you or you running into a Gray Ward).
+8) If the Paladin is raised, the Sorceress does not win until he dies again.
+
+That&#39;s all I can think of for now. Feedback is appreciated! :smiley:</description>
+    
+    <lastBuildDate>Mon, 18 Jun 2018 15:19:34 +0000</lastBuildDate>
+    <category>Off-Topic (Thronepass)</category>
+    <atom:link href="https://forum.throneoflies.com/t/looking-for-feedback-for-a-custom-mafia-game/67492.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Looking for Feedback for a Custom Mafia Game</title>
+        <dc:creator><![CDATA[ShadowKnight]]></dc:creator>
+        <description><![CDATA[
+            <p>I originally had 3 evil wizards but it proved to be too scum-sided given the lack of revealed information on death. I haven’t tested it out with 2 evil wizards yet, so it might be too town-sided. Macro balance is a lot harder than it seems!</p>
+<p>Still, looking forward to your feedback!</p>
+          <p><a href="https://forum.throneoflies.com/t/looking-for-feedback-for-a-custom-mafia-game/67492/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/looking-for-feedback-for-a-custom-mafia-game/67492/4</link>
+        <pubDate>Mon, 18 Jun 2018 15:19:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67492-4</guid>
+        <source url="https://forum.throneoflies.com/t/looking-for-feedback-for-a-custom-mafia-game/67492.rss">Looking for Feedback for a Custom Mafia Game</source>
+      </item>
+      <item>
+        <title>Looking for Feedback for a Custom Mafia Game</title>
+        <dc:creator><![CDATA[Icibalus]]></dc:creator>
+        <description><![CDATA[
+            <p>taking a look at it it’s probably going to be townsided, though, so be warned.</p>
+          <p><a href="https://forum.throneoflies.com/t/looking-for-feedback-for-a-custom-mafia-game/67492/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/looking-for-feedback-for-a-custom-mafia-game/67492/3</link>
+        <pubDate>Mon, 18 Jun 2018 15:08:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67492-3</guid>
+        <source url="https://forum.throneoflies.com/t/looking-for-feedback-for-a-custom-mafia-game/67492.rss">Looking for Feedback for a Custom Mafia Game</source>
+      </item>
+      <item>
+        <title>Looking for Feedback for a Custom Mafia Game</title>
+        <dc:creator><![CDATA[Icibalus]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="hashtag" href="/c/forum-matches/11">#<span>forum-matches</span></a> is a place where this could be hosted. I’ll have a look at this in the morning.</p>
+          <p><a href="https://forum.throneoflies.com/t/looking-for-feedback-for-a-custom-mafia-game/67492/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/looking-for-feedback-for-a-custom-mafia-game/67492/2</link>
+        <pubDate>Mon, 18 Jun 2018 14:57:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67492-2</guid>
+        <source url="https://forum.throneoflies.com/t/looking-for-feedback-for-a-custom-mafia-game/67492.rss">Looking for Feedback for a Custom Mafia Game</source>
+      </item>
+      <item>
+        <title>Looking for Feedback for a Custom Mafia Game</title>
+        <dc:creator><![CDATA[ShadowKnight]]></dc:creator>
+        <description><![CDATA[
+            <p>A long while back I had an idea for a D&amp;D-themed Mafia game, and I was hoping I could run the classes and mechanics through the fine folks here should I ever run it with my friends over Discord or something like that. Thanks in advance!</p>
+<p><em><strong>The Premise</strong></em></p>
+<p>Recently, a group of adventurers unearthed a powerful relic from a dungeon. Sensing its resonance with arcane magic, they took it to a nearby Arcane Academy during winter break to have it identified. The relic ended up being far more powerful than the adventurers could have imagined, and willingly turned it over to the Crown for safekeeping.</p>
+<p>However, due to the Academy’s wards and a wild magic storm in the nearby area, the Royal Wizard can’t simply teleport in to retrieve the relic; it will take them eight days to arrive. Word of the relic has spread out, though, with greedy mages seeking to steal it for themselves.</p>
+<p><em><strong>The Setup</strong></em></p>
+<p>The Academy is locked down until the Royal Wizard arrives. Nine faculty members have volunteered to stay and guard the relic, eight of them specialists in each of the schools of magic, and the Sorceress that oversees sorcery training. However, a tenth person has infiltrated their midst: A paladin that believes arcane magic is inherently evil and seeks to obtain the relic for himself to destroy it.</p>
+<p>Two of the eight specialists are evil and seek to steal the relic for themselves. They work together as part of the same team but have no way of communicating secretly. Six of the specialists are good and want to preserve the relic intact until the Royal Wizard arrives. The Sorceress used to be on the side of good, but when she learnt that a paladin had infiltrated the premises, she knew exactly what she was facing: the man who killed her family simply because arcane magic ran through their veins. She has cast out all other goals just to see him dead.</p>
+<p><em><strong>The Classes</strong></em></p>
+<p><em>The Abjurer</em></p>
+<p><strong>Gray Ward (Night, Infinite):</strong> Protect a target from non-[Divination] magic tonight. Does not cure Contagion. Can be self-cast.<br>
+<strong>Mass Dispel (Night, 1 Use):</strong> All magic abilities used tonight will be prevented. Is not a visit.</p>
+<p><em>The Conjurer</em></p>
+<p><strong>Summon Monster (Night; Infinite):</strong> You will send out a conjured scout that will inform you who visits a target tonight. Is not a visit.<br>
+<strong>Baleful Transposition (Night, 1 Use):</strong> You will swap two targets tonight, causing all effects that target one to target the other and viceversa. Is not a visit. Can be self-cast. Is always the first effect that takes place at night. Bypasses Magic Immunity.</p>
+<p><em>The Diviner</em></p>
+<p><strong>Commune (Night, 4 Uses):</strong> Discern a clue about a target’s identity. Is not a visit. [Divination].<br>
+<strong>Scrying (Night, 4 Uses):</strong> You will know the results of all actions that occur to a target. Is not a visit. [Divination].</p>
+<p><strong>Clues:</strong> “Your target’s magic reeks of entropy! They must be an Evoker or Necromancer!” “Your target’s magic befuddles the mind! They must be an Illusionist or Enchanter!” “Your target’s magic alters reality itself! They must be a Transmuter or Conjurer!” “Your target can ward against magic! They must be an Abjurer, Sorceress or Paladin!”</p>
+<p><em>The Enchanter</em></p>
+<p><strong>Charm Person (Night, Infinite):</strong> Bewitch a target, preventing them from taking any actions tonight.<br>
+<strong>Dominate Person (Night; 1 Use):</strong> Take control of a target, choosing who they will target tonight with their ability.</p>
+<p><em>The Evoker</em></p>
+<p><strong>Lightning Bolt (Night, Infinite):</strong> You will attack a target tonight, killing them if they are not protected.<br>
+<strong>Wall of Fire (Night, 1 Use):</strong> You will stay in your room tonight, surrounded by fire. Is not a visit. You will kill all those who visit you and are not protected. Any players you kill this way will have their abilities prevented.</p>
+<p><em>The Illusionist</em></p>
+<p><strong>Programmed Image (Night; Infinite):</strong> Project an illusion on a target. If they are targeted with an ability that has Infinite uses, that ability will be prevented.<br>
+<strong>Simulacrum (Night; 1 Use):</strong> Create a perfect double of yourself tonight, rendering you immune to all effects (other than the Paladin’s Antimagic Blade/Smite the Arcane). Is not a visit. Does not cure Contagion.</p>
+<p><em>The Necromancer</em></p>
+<p><strong>Contagion (Night, Infinite):</strong> You will attack a target tonight, if they are not protected, and inflict them with a deadly disease that will kill them in 2 nights if not cured.<br>
+<strong>Raise Dead (Night, 1 Use):</strong> You will bring a dead player back to life. That player cannot be executed the following day. Is not a visit.</p>
+<p><em>The Transmuter</em></p>
+<p><strong>Philosopher’s Stone (Night, Infinite):</strong> You will grant a target immunity to death tonight. Cures Contagion. Can be self-cast.<br>
+<strong>Flesh to Stone (Night; 1 Use):</strong> Turn a target to stone. They will count as dead for 3 days (during which they cannot be targeted, perform any actions or talk/vote, but they will be aware of everything that happens during the daytime), after which they will be restored to normal at the start of the third night or at the start of Night 7, whichever comes first. Using this on the Secret-Keeper will count as killing them.</p>
+<p><em>The Paladin</em></p>
+<p><strong>Symbol of Hatred (Day; 5 Uses):</strong> You will be immune to death and non-[Divination] magic tonight. If Contagion would kill you, this will save you.<br>
+<strong>Zone of Truth (Night; Infinite):</strong> You will visit a target, knowing if they are good or evil, and whether they are the Secret-Keeper or not (the Sorceress counts as good). [Divination].<br>
+<strong>Antimagic Blade (Night; 2 Uses):</strong> You will visit a target and attack them, killing them if they are not immune to death. Ignores magic immunity. Does not count as magic.<br>
+<strong>Smite the Arcane (Night; 2 Uses; Unavailable Night 1):</strong> You will attack a target tonight, killing them and bypassing magic and death immunity. Does not count as magic. If you kill the Secret-Keeper with this attack and survive the night, you will learn the location of the Relic and win the game.</p>
+<p><em>The Sorceress</em></p>
+<p><strong>Last One Standing (Passive; Conditional):</strong> If you and another player are the last two left alive, your votes count double.<br>
+<strong>Shield of Chaos (Day; 4 Uses):</strong> You will be immune to death and non-[Divination] magic tonight. If Contagion would kill you, this will save you.<br>
+<strong>Purge The Divine (Night; Infinite):</strong> You will plant a special trap on a target. If the Paladin visits that target, they will be stripped of any magic or death immunity they might have and their Antimagic Blade and Smite the Arcane will not ignore magic or death immunity. Can be self-cast. Ignores the Paladin’s magic immunity but can be prevented by other abilities.<br>
+<strong>Unleash Wild Magic (Night; 1 Use):</strong> All non-[Divination] effects that target you (including the Paladin’s Antimagic Blade and Smite the Arcane abilities) will be redirected back to their user tonight. Is not a visit. Ignores magic immunity.</p>
+<p><strong>The Win Conditions</strong></p>
+<p><em>Good Wizards:</em> Maintain a good-aligned Secret-Keeper alive until the end of Day 8 (the Sorceress counts as good-aligned).<br>
+<em>Evil Wizards:</em> Kill all Good Wizards so that one of you becomes the Secret-Keeper, and maintain an evil-aligned Secret-Keeper alive until the end of Day 8.<br>
+<em>Paladin:</em> Kill a Secret-Keeper with your Smite the Arcane ability or ensure all other players are dead by the end of Day 8.<br>
+<em>Sorceress:</em> Stay alive to witness the Paladin dead.</p>
+<p><strong>The Rules</strong></p>
+<ol>
+<li>All classes are unique, making this a 10 person game, but you can get rid of the Sorceress and Paladin for an 8 person game. You could theoretically double the amount of classes, but I haven’t tested a game like that.<br>
+a. For anyone brave enough to try, Sorceresses win together by at least one of them surviving to see all Paladins dead, a Paladin reading another Paladin’s alignment would read it as evil, and Paladins don’t win together like evil wizards do.<br>
+b. With more than one Diviner, you can choose to either let Diviners know their Commune target is a Diviner (probably with something like <em>“Your target is capable of divination! They must be a Diviner!”</em>) or remove the Paladin from the Abjurer/Sorceress group and group them with the Diviner (<em>“Your target is capable of divination! They must be a Diviner or a Paladin!”</em>).</li>
+<li>One of the evil wizards is always either the Evoker or the Necromancer (50% chance of either). If the Evoker is evil, the Abjurer will be good. If the Necromancer is evil, the Transmuter will be good. Select the second evil wizard randomly from among the remaining unaligned wizards. The remaining wizards are good. The two evil wizards will know each other’s identities and the fact that they are on the same team.</li>
+<li>A good wizard is randomly selected as the Secret-Keeper at the start of the game.<br>
+a. When the Secret-Keeper dies, another randomly selected good wizard becomes the Secret-Keeper (this is checked at dawn and dusk).<br>
+b. If no good wizards remain alive, a random evil wizard is selected as the Secret-Keeper.<br>
+c. If no evil wizards remain alive, the Sorceress becomes the Secret-Keeper.<br>
+d. If only the Paladin remains alive, the Paladin becomes the Secret-Keeper.</li>
+<li>Only the Secret-Keeper is informed that they are the Secret-Keeper.</li>
+<li>Two-thirds majority is required to put someone up for trial, but only a simple majority is required to decide whether to execute/pardon someone that’s on trial.</li>
+<li>No classes, alignments or personal notes are revealed when a player dies. This means the Sorceress may have already won but be unaware of it until the end of the game.</li>
+<li>In general, ability feedback comes in the vaguest form possible (for example, <em>“Something prevented you from using your ability on your target!”</em> to maintain vagueness between an Enchanter charming you or you running into a Gray Ward).</li>
+<li>If the Paladin is raised, the Sorceress does not win until he dies again.</li>
+</ol>
+<p>That’s all I can think of for now. Feedback is appreciated! <img src="/images/emoji/twitter/smiley.png?v=9" title=":smiley:" class="emoji" alt=":smiley:"></p>
+          <p><a href="https://forum.throneoflies.com/t/looking-for-feedback-for-a-custom-mafia-game/67492/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/looking-for-feedback-for-a-custom-mafia-game/67492/1</link>
+        <pubDate>Mon, 18 Jun 2018 11:56:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67492-1</guid>
+        <source url="https://forum.throneoflies.com/t/looking-for-feedback-for-a-custom-mafia-game/67492.rss">Looking for Feedback for a Custom Mafia Game</source>
+      </item>
+  </channel>
+</rss>

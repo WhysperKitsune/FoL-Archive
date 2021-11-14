@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Mini Patch v2.7.0a: Fixes, can&#39;t whisper self</title>
+    <link>https://forum.throneoflies.com/t/mini-patch-v2-7-0a-fixes-cant-whisper-self/83031</link>
+    <description>&gt; [color=lime]**Mostly fixing patch bugs from:** https://forum.imperium42.com/t/patch-v2-7-0-live/82791[/color]
+
+![](https://forum.imperium42.com/uploads/default/original/3X/7/9/79116bded5aae46386bfbb7dd14bc599b3d3a9ae.png)
+
+## Major Fixes
+* Mastermind can now [non-pity] convert normally, again.
+* Inquisitor&#39;s initial heretic targets are back to normal, again.
+* *Flirt* abil now considers *Empower* abil (the feedback would say it worked, but it didn&#39;t *actually* work until now).
+* *Probe* abil now returns class name instead of type.
+* *Fixed bleed `%PLAYER_LIST%` feedback bug on recipient when immune.
+
+## Minor Fixes
+* Fixed King&#39;s *Royal Finger* abil that wasn&#39;t showing the target.
+* Fixed *Happy Hour* abil feedback in a couple spots.
+* Fixed *Overlook* abil feedback when no one visits.
+* Some stat fixes. However, note that stats will still be &quot;off&quot;, as we&#39;re currently using legacy stats that are not necessarily accurate. We&#39;ll eventually reset stats **but keep the old stats** in a legacy section.
+
+## New Features
+* Whispers now show feedback on typo&#39;d, incomplete, or invalid whispers. --Tryph (thx @anon97870008) 
+
+![image|238x210](upload://cT1JOYBXVmAhslBiZ2afPB3mNtL.png) 
+![image|244x195](upload://9C9ZHn9DbzezuPpnpJsKRjatdqX.png) 
+
+--Xblade
+https://discord.gg/tol</description>
+    
+    <lastBuildDate>Thu, 06 Aug 2020 15:52:37 +0000</lastBuildDate>
+    <category>Official Announcements</category>
+    <atom:link href="https://forum.throneoflies.com/t/mini-patch-v2-7-0a-fixes-cant-whisper-self/83031.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Mini Patch v2.7.0a: Fixes, can&#39;t whisper self</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>Credited <a class="mention" href="/u/anon97870008">@anon97870008</a> for whisper feedback idea</p>
+          <p><a href="https://forum.throneoflies.com/t/mini-patch-v2-7-0a-fixes-cant-whisper-self/83031/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/mini-patch-v2-7-0a-fixes-cant-whisper-self/83031/2</link>
+        <pubDate>Thu, 06 Aug 2020 15:52:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-83031-2</guid>
+        <source url="https://forum.throneoflies.com/t/mini-patch-v2-7-0a-fixes-cant-whisper-self/83031.rss">Mini Patch v2.7.0a: Fixes, can&#39;t whisper self</source>
+      </item>
+      <item>
+        <title>Mini Patch v2.7.0a: Fixes, can&#39;t whisper self</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <blockquote>
+<p><font color="lime"><strong>Mostly fixing patch bugs from:</strong> <a href="https://forum.imperium42.com/t/patch-v2-7-0-live/82791">https://forum.imperium42.com/t/patch-v2-7-0-live/82791</a></font></p>
+</blockquote>
+<p><img src="https://forum.imperium42.com/uploads/default/original/3X/7/9/79116bded5aae46386bfbb7dd14bc599b3d3a9ae.png" alt="" width="" height=""></p>
+<h2>Major Fixes</h2>
+<ul>
+<li>Mastermind can now [non-pity] convert normally, again.</li>
+<li>Inquisitor’s initial heretic targets are back to normal, again.</li>
+<li>
+<em>Flirt</em> abil now considers <em>Empower</em> abil (the feedback would say it worked, but it didn’t <em>actually</em> work until now).</li>
+<li>
+<em>Probe</em> abil now returns class name instead of type.</li>
+<li>*Fixed bleed <code>%PLAYER_LIST%</code> feedback bug on recipient when immune.</li>
+</ul>
+<h2>Minor Fixes</h2>
+<ul>
+<li>Fixed King’s <em>Royal Finger</em> abil that wasn’t showing the target.</li>
+<li>Fixed <em>Happy Hour</em> abil feedback in a couple spots.</li>
+<li>Fixed <em>Overlook</em> abil feedback when no one visits.</li>
+<li>Some stat fixes. However, note that stats will still be “off”, as we’re currently using legacy stats that are not necessarily accurate. We’ll eventually reset stats <strong>but keep the old stats</strong> in a legacy section.</li>
+</ul>
+<h2>New Features</h2>
+<ul>
+<li>Whispers now show feedback on typo’d, incomplete, or invalid whispers. --Tryph (thx <a class="mention" href="/u/anon97870008">@anon97870008</a>)</li>
+</ul>
+<p><img src="https://forum.throneoflies.com/uploads/default/original/3X/5/a/5a5281596edfcbed8b57f21565e18956b7734f19.png" alt="image" data-base62-sha1="cT1JOYBXVmAhslBiZ2afPB3mNtL" width="238" height="210"><br>
+<img src="https://forum.throneoflies.com/uploads/default/original/3X/4/3/4363e2ccce45c735fca42268843bf4828e7e6e53.png" alt="image" data-base62-sha1="9C9ZHn9DbzezuPpnpJsKRjatdqX" width="244" height="195"></p>
+<p>–Xblade<br>
+</p><aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico" class="site-icon" width="32" height="32">
+      <a href="https://discord.com/invite/tol" target="_blank" rel="noopener">Discord</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:512/288;"><img src="https://cdn.discordapp.com/splashes/261525739617255424/e30c2c78ee20a9889b6113a8a674f4ce.jpg?size=512" class="thumbnail" width="512" height="288"></div>
+
+<h3><a href="https://discord.com/invite/tol" target="_blank" rel="noopener">Join the Throne of Lies Game 👑 Discord Server!</a></h3>
+
+<p>Join over 14k community members of "Throne of Lies: The Online Game of Deceit", a tabletop/social deduction game. | 14,209 members</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+          <p><a href="https://forum.throneoflies.com/t/mini-patch-v2-7-0a-fixes-cant-whisper-self/83031/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/mini-patch-v2-7-0a-fixes-cant-whisper-self/83031/1</link>
+        <pubDate>Sat, 25 Jul 2020 11:58:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-83031-1</guid>
+        <source url="https://forum.throneoflies.com/t/mini-patch-v2-7-0a-fixes-cant-whisper-self/83031.rss">Mini Patch v2.7.0a: Fixes, can&#39;t whisper self</source>
+      </item>
+  </channel>
+</rss>

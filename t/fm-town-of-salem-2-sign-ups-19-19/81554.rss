@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[FM] Town of Salem 2 [Sign-Ups - 19/19]</title>
+    <link>https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554</link>
+    <description># Welcome to Forum of Salem: Coven Edition, hosted by @Jane! 
+
+# Rules:
+
+Follow the Global Forum Rules, given in this post:
+
+https://forum.imperium42.com/t/official-forum-mafia-and-forum-of-lies-rules/78926
+
+Additionally, for this game, a minimum requirement of **10 substantive, on-topic, game-related posts** per in-game day is required. Posts that are explicitly or obviously made solely to meet this requirement do not count towards the minimum, nor do posts containing *solely* a vote. Players who fail to meet this requirement may be replaced out.
+
+## Roles in play
+
+[details=&quot;Roles in Play&quot;]
+
+## **[Color=00BF00] Town [/Color]**
+
+[details=&quot;Citizen&quot;]
+
+&gt; # **[Color=00BF00] Citizen [/Color]**
+&gt; **[Color=00BF00] Town Citizen [/Color]**
+&gt; 
+&gt; You are a Citizen. Your only weapons are your voice and your vote.
+&gt; 
+&gt; You win with the **[Color=00BF00] Town [/Color]**
+&gt; You must kill the **[Color=BF5FFF] Coven [/Color]**
+&gt; You must kill **[Color=FF8000] Arsonists [/Color]**
+&gt; You must kill **[Color=0040FF] Serial Killers [/Color]**
+&gt; You must kill **[Color=000000] Stalkers [/Color]**
+&gt; You must kill **[Color=651A35] Juggernauts [/Color]**
+&gt; You may spare anyone else
+
+[/details]
+
+[details=&quot;Power&quot;]
+
+&gt; # **[Color=00BF00] Jailor [/Color]**
+&gt; **[Color=00BF00] Town Power [/Color]**
+&gt;
+&gt; **Jail (Day) -** Choose a player to jail at night, preventing visits to them. A jailed target cannot use actions by any means. The prisoner will be allowed a 1000 character limit to share a defense with you. Jailed Coven will lose the ability to communicate with other **[Color=BF5FFF] Coven [/Color]**, and they will be unable to see the **[Color=BF5FFF] Coven Chat [/Color]**. - infinite uses
+&gt; 
+&gt; **Execute (Night) -** Kill the player you have jailed (Bypasses night immunity and healing). If the executed player is a member of the **[Color=00BF00] Town [/Color]**, you will not be able to execute for the rest of the game. - 3 uses, available starting N2
+&gt;
+&gt; You win with the **[Color=00BF00] Town [/Color]**
+&gt; You must kill the **[Color=BF5FFF] Coven [/Color]**
+&gt; You must kill **[Color=FF8000] Arsonists [/Color]**
+&gt; You must kill **[Color=0040FF] Serial Killers [/Color]**
+&gt; You must kill **[Color=000000] Stalkers [/Color]**
+&gt; You must kill **[Color=651A35] Juggernauts [/Color]**
+&gt; You may spare anyone else
+
+&gt; # **[Color=00BF00] Mayor [/Color]**
+&gt; **[Color=00BF00] Town Power [/Color]**
+&gt; 
+&gt; **Reveal (Day) -** Reveal yourself as the **[Color=00BF00] Mayor [/Color]**. You will no longer be able to be healed by **[Color=00BF00] Doctors [/Color]** but your vote will count for three. - 1 use
+&gt;
+&gt; You win with the **[Color=00BF00] Town [/Color]**
+&gt; You must kill the **[Color=BF5FFF] Coven [/Color]**
+&gt; You must kill **[Color=FF8000] Arsonists [/Color]**
+&gt; You must kill **[Color=0040FF] Serial Killers [/Color]**
+&gt; You must kill **[Color=000000] Stalkers [/Color]**
+&gt; You must kill **[Color=651A35] Juggernauts [/Color]**
+&gt; You may spare anyone else
+
+[/details]
+
+[Details=&quot;Investigative&quot;]
+
+&gt; # **[Color=00BF00] Investigator [/Color]**
+&gt; **[Color=00BF00] Town Investigative [/Color]**
+&gt; 
+&gt; **Investigate (Night) -** Investigate target player, narrowing their Class down to a few Classes. See **Investigator Results**. - infinite uses
+&gt;
+&gt; You win with the **[Color=00BF00] Town [/Color]**
+&gt; You must kill the **[Color=BF5FFF] Coven [/Color]**
+&gt; You must kill **[Color=FF8000] Arsonists [/Color]**
+&gt; You must kill **[Color=0040FF] Serial Killers [/Color]**
+&gt; You must kill **[Color=000000] Stalkers [/Color]**
+&gt; You must kill **[Color=651A35] Juggernauts [/Color]**
+&gt; You may spare anyone else
+
+&gt; # **[Color=00BF00] Lookout [/Color]**
+&gt; **[Color=00BF00] Town Investigative [/Color]**
+&gt; 
+&gt; **Stakeout (Night) -** Watch someone to see who visits them. - Infinite uses
+&gt; 
+&gt; You win with the **[Color=00BF00] Town [/Color]**
+&gt; You must kill the **[Color=BF5FFF] Coven [/Color]**
+&gt; You must kill **[Color=FF8000] Arsonists [/Color]**
+&gt; You must kill **[Color=0040FF] Serial Killers [/Color]**
+&gt; You must kill **[Color=000000] Stalkers [/Color]**
+&gt; You must kill **[Color=651A35] Juggernauts [/Color]**
+&gt; You may spare anyone else
+
+&gt; # **[Color=00BF00] Sheriff [/Color]**
+&gt; **[Color=00BF00] Town Investigative [/Color]**
+&gt; 
+&gt; **Interrogate (Night) -** Interrogate a Player, if they are member of the **[Color=BF5FFF] Coven [/Color]**, a **[Color=0040FF] Serial Killer [/Color]**, a **[Color=000000] Stalker [/Color]** or a **[Color=651A35] Juggernaut [/Color]**, you will know. Otherwise they will be **[Color=00BF00] Not Suspicious [/Color]**. - infinite uses
+&gt; 
+&gt; You win with the **[Color=00BF00] Town [/Color]**
+&gt; You must kill the **[Color=BF5FFF] Coven [/Color]**
+&gt; You must kill **[Color=FF8000] Arsonists [/Color]**
+&gt; You must kill **[Color=0040FF] Serial Killers [/Color]**
+&gt; You must kill **[Color=000000] Stalkers [/Color]**
+&gt; You must kill **[Color=651A35] Juggernauts [/Color]**
+&gt; You may spare anyone else
+
+&gt; # **[Color=00BF00] Tracker [/Color]**
+&gt; **[Color=00BF00] Town Investigative [/Color]**
+&gt; 
+&gt; **Expert Tracking (Night) -** Track a player to determine who they visit. - Infinite uses
+&gt; 
+&gt; You win with the **[Color=00BF00] Town [/Color]**
+&gt; You must kill the **[Color=BF5FFF] Coven [/Color]**
+&gt; You must kill **[Color=FF8000] Arsonists [/Color]**
+&gt; You must kill **[Color=0040FF] Serial Killers [/Color]**
+&gt; You must kill **[Color=000000] Stalkers [/Color]**
+&gt; You must kill **[Color=651A35] Juggernauts [/Color]**
+&gt; You may spare anyone else
+
+[/details]
+
+[details=&quot;Protective&quot;]
+
+&gt; # **[Color=00BF00] Bodyguard [/Color]**
+&gt; **[Color=00BF00] Town Protective [/Color]**
+&gt;
+&gt; **Guard (Night) -** Protect a Player from direct attackers, taking their place and killing the attacker. If you successfully protect someone, you can&#39;t be saved from death. Your counterattack ignores night immunity. - infinite uses
+&gt; **Bulletproof Vest (Night) -** You are Night Immune tonight. - 1 use
+&gt; 
+&gt; You win with the **[Color=00BF00] Town [/Color]**
+&gt; You must kill the **[Color=BF5FFF] Coven [/Color]**
+&gt; You must kill **[Color=FF8000] Arsonists [/Color]**
+&gt; You must kill **[Color=0040FF] Serial Killers [/Color]**
+&gt; You must kill **[Color=000000] Stalkers [/Color]**
+&gt; You must kill **[Color=651A35] Juggernauts [/Color]**
+&gt; You may spare anyone else
+
+&gt; # **[Color=00BF00] Doctor [/Color]**
+&gt; **[Color=00BF00] Town Protective [/Color]**
+&gt; 
+&gt; **Heal (Night) -** Heal a player, preventing them from dying tonight, and curing any poison they were suffering from. - infinite uses
+&gt; **Self-Heal (Night) -** Heal yourself, preventing yourself from dying tonight. - 1 use
+&gt; 
+&gt; You win with the **[Color=00BF00] Town [/Color]**
+&gt; You must kill the **[Color=BF5FFF] Coven [/Color]**
+&gt; You must kill **[Color=FF8000] Arsonists [/Color]**
+&gt; You must kill **[Color=0040FF] Serial Killers [/Color]**
+&gt; You must kill **[Color=000000] Stalkers [/Color]**
+&gt; You must kill **[Color=651A35] Juggernauts [/Color]**
+&gt; You may spare anyone else
+
+&gt; # **[Color=00BF00] Marshal [/Color]**
+&gt; **[Color=00BF00] Town Protective [/Color]**
+&gt; 
+&gt; **Scare Away (Night) -** Prevent one person with malicious intent from visiting your target tonight. Should your target be visited by multiple people with malicious intent, only one will flee unless they have been scared by you in a prior night. (**[Color=BF5FFF] Coven Deception [/Color]** --&gt; **[Color=00BF00] Escort [/Color]**/**[Color=BF5FFF] Coven Support [/Color]** / **[Color= BF5FFF] Hex Master [/Color]** --&gt; Killing Roles) Roles that use charges will still consume them upon being frightened off. - infinite uses
+&gt; 
+&gt; You win with the **[Color=00BF00] Town [/Color]**
+&gt; You must kill the **[Color=BF5FFF] Coven [/Color]**
+&gt; You must kill **[Color=FF8000] Arsonists [/Color]**
+&gt; You must kill **[Color=0040FF] Serial Killers [/Color]**
+&gt; You must kill **[Color=000000] Stalkers [/Color]**
+&gt; You must kill **[Color=651A35] Juggernauts [/Color]**
+&gt; You may spare anyone else
+
+&gt; # **[Color=00BF00] Trapper [/Color]**
+&gt; **[Color=00BF00] Town Protective [/Color]**
+&gt; 
+&gt; **Build Trap (Night) -** Build a trap. You can only have one trap built at a time. Any placed traps you have will be removed. - infinite uses
+&gt; **Place Trap (Night) -** Place a trap at target player&#39;s house. Once someone visits them, you will receive a list of roles the target was visited by that night. The trap will prevent them from dying and kill one person attacking them directly. - infinite uses, only usable if you have an unused trap.
+&gt; 
+&gt; You win with the **[Color=00BF00] Town [/Color]**
+&gt; You must kill the **[Color=BF5FFF] Coven [/Color]**
+&gt; You must kill **[Color=FF8000] Arsonists [/Color]**
+&gt; You must kill **[Color=0040FF] Serial Killers [/Color]**
+&gt; You must kill **[Color=000000] Stalkers [/Color]**
+&gt; You must kill **[Color=651A35] Juggernauts [/Color]**
+&gt; You may spare anyone else
+
+[/details]
+
+[details=&quot;Killing&quot;]
+
+&gt; # **[Color=00BF00] Firebrand [/Color]**
+&gt; **[Color=00BF00] Town Killing [/Color]**
+&gt; 
+&gt; **Douse (Night) -** Douse a Player in gasoline. - infinite uses
+&gt; **Ignite (Night) -** Ignite all of your doused targets. Igniting bypasses Night Immunity. The **[Color=FF8000] Arsonist [/Color]** cannot ignite your targets, nor can you ignite theirs. - 1 use
+&gt;
+&gt; You win with the **[Color=00BF00] Town [/Color]**
+&gt; You must kill the **[Color=BF5FFF] Coven [/Color]**
+&gt; You must kill **[Color=FF8000] Arsonists [/Color]**
+&gt; You must kill **[Color=0040FF] Serial Killers [/Color]**
+&gt; You must kill **[Color=000000] Stalkers [/Color]**
+&gt; You must kill **[Color=651A35] Juggernauts [/Color]**
+&gt; You may spare anyone else
+
+&gt; # **[Color=00BF00] Veteran [/Color]**
+&gt; **[Color=00BF00] Town Killing [/Color]**
+&gt;
+&gt; **Vigilance (Passive) -** You are immune to being occupied. 
+&gt;
+&gt; **Alert (Night) -** Attack everyone visiting you tonight, bypassing Night Immunity. You are immune to all harmful night actions while on alert. - 3 uses
+&gt; 
+&gt; You win with the **[Color=00BF00] Town [/Color]**
+&gt; You must kill the **[Color=BF5FFF] Coven [/Color]**
+&gt; You must kill **[Color=FF8000] Arsonists [/Color]**
+&gt; You must kill **[Color=0040FF] Serial Killers [/Color]**
+&gt; You must kill **[Color=000000] Stalkers [/Color]**
+&gt; You must kill **[Color=651A35] Juggernauts [/Color]**
+&gt; You may spare anyone else
+
+&gt; # **[Color=00BF00] Vigilante [/Color]**
+&gt; **[Color=00BF00] Town Killing [/Color]**
+&gt;
+&gt; **Guilt (Passive) -** If you shot a member of the **[Color=00BF00] Town [/Color]**, you will commit suicide the next night. 
+&gt;
+&gt; **Shoot (Night) -** Attack target Player tonight. - 3 uses, disabled if you kill a member of the **[Color=00BF00] Town [/Color]**.
+&gt; 
+&gt; You win with the **[Color=00BF00] Town [/Color]**
+&gt; You must kill the **[Color=BF5FFF] Coven [/Color]**
+&gt; You must kill **[Color=FF8000] Arsonists [/Color]**
+&gt; You must kill **[Color=0040FF] Serial Killers [/Color]**
+&gt; You must kill **[Color=000000] Stalkers [/Color]**
+&gt; You must kill **[Color=651A35] Juggernauts [/Color]**
+&gt; You may spare anyone else
+
+[/details]
+
+[details=&quot;Support&quot;]
+
+&gt; # **[Color=00BF00] Escort [/Color]**
+&gt; **[Color=00BF00] Town Support [/Color]**
+&gt; 
+&gt; **Charm (Passive) -** You are immune to being occupied.
+&gt;
+&gt; **Distract (Night) -** Occupy target player. - infinite uses
+&gt; 
+&gt; You win with the **[Color=00BF00] Town [/Color]**
+&gt; You must kill the **[Color=BF5FFF] Coven [/Color]**
+&gt; You must kill **[Color=FF8000] Arsonists [/Color]**
+&gt; You must kill **[Color=0040FF] Serial Killers [/Color]**
+&gt; You must kill **[Color=000000] Stalkers [/Color]**
+&gt; You must kill **[Color=651A35] Juggernauts [/Color]**
+&gt; You may spare anyone else
+
+&gt; # **[Color=00BF00] Transporter [/Color]**
+&gt; **[Color=00BF00] Town Support [/Color]**
+&gt;
+&gt; **Comitted (Passive) -** You are immune to being controlled by the **[Color=BF5FFF] Coven Leader [/Color]**.
+&gt; 
+&gt; **Transport (Night) -** Transport two players, anyone targeting one will instead target the other. You may not transport yourself. - infinite uses
+&gt; 
+&gt; You win with the **[Color=00BF00] Town [/Color]**
+&gt; You must kill the **[Color=BF5FFF] Coven [/Color]**
+&gt; You must kill **[Color=FF8000] Arsonists [/Color]**
+&gt; You must kill **[Color=0040FF] Serial Killers [/Color]**
+&gt; You must kill **[Color=000000] Stalkers [/Color]**
+&gt; You must kill **[Color=651A35] Juggernauts [/Color]**
+&gt; You may spare anyone else
+
+[/details]
+
+## [Color=BF5FFF] Coven [/Color]
+
+[details=&quot;Head&quot;]
+
+&gt; # **[Color=BF5FFF] Coven Leader [/Color]**
+&gt; **[Color=BF5FFF] Coven Head [/Color]**
+&gt; 
+&gt; **Occult Shield (Passive) -** You are Night Immune.
+&gt; 
+&gt; **Bewitch (Night) -** Redirect target Player to a target of your choice. You will also learn their role. - infinite uses
+&gt; 
+&gt; You win with the **[Color=BF5FFF] Coven [/Color]**
+&gt; You must kill the **[Color=00BF00] Town [/Color]**
+&gt; You must kill **[Color=FF8000] Arsonists [/Color]**
+&gt; You must kill **[Color=0040FF] Serial Killers [/Color]**
+&gt; You must kill **[Color=000000] Stalkers [/Color]**
+&gt; You must kill **[Color=651A35] Juggernauts [/Color]**
+&gt; You may spare anyone else
+
+&gt; Your allies are [x] the [role], [x] the [role], and [x] the [role].
+
+&gt; # **[Color=BF5FFF] Fanatic [/Color]**
+&gt; **[Color=BF5FFF] Coven Head [/Color]**
+&gt; 
+&gt; **Leadership (Passive) -** You will receive the feedback of all the members of the **[Color=BF5FFF] Coven [/Color]**.
+&gt;
+&gt; **Guidance (Night) -** Aid a member of the **[Color=BF5FFF] Coven [/Color]**, ensuring their action succeeds and making them appear to be **[Color=00BF00] Not Suspicious [/Color]**. - infinite uses
+&gt; 
+&gt; You win with the **[Color=BF5FFF] Coven [/Color]**
+&gt; You must kill the **[Color=00BF00] Town [/Color]**
+&gt; You must kill **[Color=FF8000] Arsonists [/Color]**
+&gt; You must kill **[Color=0040FF] Serial Killers [/Color]**
+&gt; You must kill **[Color=000000] Stalkers [/Color]**
+&gt; You must kill **[Color=651A35] Juggernauts [/Color]**
+&gt; You may spare anyone else
+
+&gt; Your allies are [x] the [role], [x] the [role], and [x] the [role].
+
+&gt; # [Color=BF5FFF] The Soulbender [/Color]
+&gt; **[Color=BF5FFF] Coven Head [/Color]**
+&gt;
+&gt; **Cleansed Soul (Passive) -** You will appear as **[Color=00BF00] Not Suspicious [/Color]** to the **[Color=00BF00] Sheriff [/Color]**.
+&gt;
+&gt; **Soulgaze (Night) -** Gaze in to a Player&#39;s soul, learning their Class. - infinite uses
+&gt; **Link Souls (Night) -** Link the souls of a Player in the **[Color=BF5FFF] Coven [/Color]** and a Player not in the **[Color=BF5FFF] Coven [/Color]**. Whatever happens to one will happen to the other. - 3 uses
+&gt;
+&gt; You can communicate with your allies for as long as they are alive.
+&gt; 
+&gt; You win with the **[Color=BF5FFF] Coven [/Color]**
+&gt; You must kill the **[Color=00BF00] Town [/Color]**
+&gt; You must kill **[Color=FF8000] Arsonists [/Color]**
+&gt; You must kill **[Color=0040FF] Serial Killers [/Color]**
+&gt; You must kill **[Color=000000] Stalkers [/Color]**
+&gt; You must kill **[Color=651A35] Juggernauts [/Color]**
+&gt; You may spare anyone else
+
+&gt; Your allies are [x] the [role], [x] the [role], and [x] the [role].
+
+[/details]
+
+[details=&quot;Power&quot;]
+
+&gt; # **[Color=BF5FFF] Hex Master [/Color]**
+&gt; **[Color=BF5FFF] Coven Power [/Color]**
+&gt; 
+&gt; **Astral (Passive) -** Your actions do not count as visits.
+&gt;
+&gt; **Hex (Night) -** Hex a Player. All hexed Players will be framed until this status is removed. You may only have 3 Players hexed at a time. - infinite uses
+&gt; **Black Magic (Night) -** Kill 2 of your hexed players. - 1 use
+&gt; 
+&gt; You win with the **[Color=BF5FFF] Coven [/Color]**
+&gt; You must kill the **[Color=00BF00] Town [/Color]**
+&gt; You must kill **[Color=FF8000] Arsonists [/Color]**
+&gt; You must kill **[Color=0040FF] Serial Killers [/Color]**
+&gt; You must kill **[Color=000000] Stalkers [/Color]**
+&gt; You must kill **[Color=651A35] Juggernauts [/Color]**
+&gt; You may spare anyone else
+
+&gt; Your allies are [x] the [role], and [x] the [role].
+
+&gt; # **[Color=BF5FFF] Medusa [/Color]**
+&gt; **[Color=BF5FFF] Coven Power [/Color]**
+&gt; 
+&gt; **Stonegaze (Night) -** Stonegaze all players visiting you, killing them and bypassing Death Immunity. Players who were Stonegazed will not have their Class and Logs revealed. - 2 uses
+&gt; 
+&gt; You win with the **[Color=BF5FFF] Coven [/Color]**
+&gt; You must kill the **[Color=00BF00] Town [/Color]**
+&gt; You must kill **[Color=FF8000] Arsonists [/Color]**
+&gt; You must kill **[Color=0040FF] Serial Killers [/Color]**
+&gt; You must kill **[Color=000000] Stalkers [/Color]**
+&gt; You must kill **[Color=651A35] Juggernauts [/Color]**
+&gt; You may spare anyone else
+
+&gt; Your allies are [x] the [role], and [x] the [role].
+
+[/details]
+
+[details=&quot;Tactical&quot;]
+
+&gt; # **[Color=BF5FFF] Necromancer [/Color]**
+&gt; **[Color=BF5FFF] Coven Tactical [/Color]**
+&gt;
+&gt; **Expert Sorcerer (Passive) -** You are immune to being occupied. 
+&gt;
+&gt; **Summon Ghoul (Night) -** Target a dead Player and use their ability on a target of your choice. You may only do this once per player, except if they are revived and die again and you cannot reanimate a Player whose Class was not revealed. You will only visit the dead Player, and the Ghoul will only visit your second target. The Ghoul is subjective to anything a normal Player would be.
+&gt; 
+&gt; You win with the **[Color=BF5FFF] Coven [/Color]**
+&gt; You must kill the **[Color=00BF00] Town [/Color]**
+&gt; You must kill **[Color=FF8000] Arsonists [/Color]**
+&gt; You must kill **[Color=0040FF] Serial Killers [/Color]**
+&gt; You must kill **[Color=000000] Stalkers [/Color]**
+&gt; You must kill **[Color=651A35] Juggernauts [/Color]**
+&gt; You may spare anyone else
+
+&gt; Your allies are [x] the [role], and [x] the [role].
+
+&gt; # **[Color=BF5FFF] Voodooist [/Color]**
+&gt; **[Color=BF5FFF] Coven Tactical [/Color]**
+&gt;
+&gt; **Sisterhood (Passive) -** You may give a Voodoo Doll to another Player at any time. 
+&gt;
+&gt; **Create Doll (Night) -** Create a Voodoo Doll of target Player. Whatever happens to the owner of a Voodoo Doll, will instead happen to its target. Once the Voodoo Doll transfers an effect, it disappears. - infinite uses
+&gt; 
+&gt; Your allies are [x] the [role], and [x] the [role].
+&gt; 
+&gt; You win with the **[Color=BF5FFF] Coven [/Color]**
+&gt; You must kill the **[Color=00BF00] Town [/Color]**
+&gt; You must kill **[Color=FF8000] Arsonists [/Color]**
+&gt; You must kill **[Color=0040FF] Serial Killers [/Color]**
+&gt; You must kill **[Color=000000] Stalkers [/Color]**
+&gt; You may spare anyone else
+
+&gt; Your allies are [x] the [role], and [x] the [role].
+
+[/details]
+
+[details=&quot;Support&quot;]
+
+&gt; # **[Color=BF5FFF] Fearmonger [/Color]**
+&gt; **[Color=BF5FFF] Coven Support [/Color]**
+&gt; 
+&gt; **Scare (Night) -** Scare a Player of your choice, occupying them. - infinite uses
+&gt; **Ominous Aura (Night) -** Scare away all non-**[Color=BF5FFF] Coven [/Color]** visitors to your target. - 2 uses, 1-night cooldown
+&gt; 
+&gt; You win with the **[Color=BF5FFF] Coven [/Color]**
+&gt; You must kill the **[Color=00BF00] Town [/Color]**
+&gt; You must kill **[Color=FF8000] Arsonists [/Color]**
+&gt; You must kill **[Color=0040FF] Serial Killers [/Color]**
+&gt; You must kill **[Color=000000] Stalkers [/Color]**
+&gt; You must kill **[Color=651A35] Juggernauts [/Color]**
+&gt; You may spare anyone else
+
+&gt; Your allies are [x] the [role], and [x] the [role].
+
+&gt; # **[Color=BF5FFF] Poisoner [/Color]**
+&gt; **[Color=BF5FFF] Coven Support [/Color]**
+&gt; 
+&gt; **Sly (Passive) -** You are immune to being occupied.
+&gt;
+&gt; **Poison (Night) -** Poison target Player. Poisoned Players will lose their passives except for occupation immunity and will be occupied until they are healed. - infinite uses
+&gt; 
+&gt; You win with the **[Color=BF5FFF] Coven [/Color]**
+&gt; You must kill the **[Color=00BF00] Town [/Color]**
+&gt; You must kill **[Color=FF8000] Arsonists [/Color]**
+&gt; You must kill **[Color=0040FF] Serial Killers [/Color]**
+&gt; You must kill **[Color=000000] Stalkers [/Color]**
+&gt; You may spare anyone else
+
+&gt; Your allies are [x] the [role], and [x] the [role].
+
+&gt; # **[Color=BF5FFF] Tormentor [/Color]**
+&gt; **[Color=BF5FFF] Coven Support [/Color]**
+&gt; 
+&gt; **Curse (Night) -** Afflict a Player with one of the following Curses:
+&gt; &gt; Curse of Sloth: The target will be Occupied.
+&gt; &gt; Curse of Doom: The target cannot be protected in any way.
+&gt; &gt; Curse of Amnesia: The target will think they slept peacefully.
+&gt;
+&gt; You cannot curse the same player twice in a row, nor can you use the same curse more than once. - 3 uses
+&gt; 
+&gt; You win with the **[Color=BF5FFF] Coven [/Color]**
+&gt; You must kill the **[Color=00BF00] Town [/Color]**
+&gt; You must kill **[Color=FF8000] Arsonists [/Color]**
+&gt; You must kill **[Color=0040FF] Serial Killers [/Color]**
+&gt; You must kill **[Color=000000] Stalkers [/Color]**
+&gt; You must kill **[Color=651A35] Juggernauts [/Color]**
+&gt; You may spare anyone else
+
+&gt; Your allies are [x] the [role], and [x] the [role].
+
+&gt; # **[Color=BF5FFF] Siren [/Color]**
+&gt; **[Color=BF5FFF] Coven Support [/Color]**
+&gt; 
+&gt; **Lure (Night) -** Target a Player and redirect all Players visiting that Player to you. - infinite uses
+&gt; 
+&gt; You win with the **[Color=BF5FFF] Coven [/Color]**
+&gt; You must kill the **[Color=00BF00] Town [/Color]**
+&gt; You must kill **[Color=FF8000] Arsonists [/Color]**
+&gt; You must kill **[Color=0040FF] Serial Killers [/Color]**
+&gt; You must kill **[Color=000000] Stalkers [/Color]**
+&gt; You must kill **[Color=651A35] Juggernauts [/Color]**
+&gt; You may spare anyone else
+
+&gt; Your allies are [x] the [role], and [x] the [role].
+
+[/details]
+
+[details=&quot;Investigative&quot;]
+
+&gt; # **[Color=BF5FFF] Potion Master [/Color]**
+&gt; **[Color=BF5FFF] Coven Investigative [/Color]**
+&gt; 
+&gt; **Give Potion (Night) -** Give a Player one of the following potions:
+&gt; &gt; **Potion of Healing**: The target will be healed.
+&gt; &gt; **Potion of Truth**: You will learn the target&#39;s role.
+&gt; &gt; **Potion of Pursuit**: You will learn who the target visits.
+&gt;
+&gt; Each potion has a 2-night cooldown. - infinite uses
+&gt; 
+&gt; You win with the **[Color=BF5FFF] Coven [/Color]**
+&gt; You must kill the **[Color=00BF00] Town [/Color]**
+&gt; You must kill **[Color=FF8000] Arsonists [/Color]**
+&gt; You must kill **[Color=0040FF] Serial Killers [/Color]**
+&gt; You must kill **[Color=000000] Stalkers [/Color]**
+&gt; You must kill **[Color=651A35] Juggernauts [/Color]**
+&gt; You may spare anyone else
+
+&gt; Your allies are [x] the [role], and [x] the [role].
+
+&gt; # **[Color=BF5FFF] Stormbrewer [/Color]**
+&gt; **[Color=BF5FFF] Coven Investigative [/Color]**
+&gt; 
+&gt; **Summon Storm (Night) -** Summon one of the following storms at your target&#39;s house:
+&gt; &gt; **Snowstorm**: You will learn how many Players visited your target.
+&gt; &gt; **Downpour**: You will learn who your target visits.
+&gt; &gt; **Gale**: You will learn if your target communicated with another Player tonight.
+&gt;
+&gt; Summoning a storm does not count as a visit. - infinite uses
+&gt; 
+&gt; You win with the **[Color=BF5FFF] Coven [/Color]**
+&gt; You must kill the **[Color=00BF00] Town [/Color]**
+&gt; You must kill **[Color=FF8000] Arsonists [/Color]**
+&gt; You must kill **[Color=0040FF] Serial Killers [/Color]**
+&gt; You must kill **[Color=000000] Stalkers [/Color]**
+&gt; You must kill **[Color=651A35] Juggernauts [/Color]**
+&gt; You may spare anyone else
+
+&gt; Your allies are [x] the [role], and [x] the [role].
+
+[/details]
+
+[details=&quot;Deception&quot;]
+
+&gt; # **[Color=BF5FFF] Shapeshifter [/Color]**
+&gt; **[Color=BF5FFF] Coven Deception [/Color]**
+&gt; 
+&gt; **Shapeshift (Night) -** You will appear to be your first target, and will visit the second. **[Color=00BF00] The Sheriff [/Color]** will still see you as **[Color=BF5FFF] Coven [/Color]**. - infinite uses
+&gt; 
+&gt; You win with the **[Color=BF5FFF] Coven [/Color]**
+&gt; You must kill the **[Color=00BF00] Town [/Color]**
+&gt; You must kill **[Color=FF8000] Arsonists [/Color]**
+&gt; You must kill **[Color=0040FF] Serial Killers [/Color]**
+&gt; You must kill **[Color=000000] Stalkers [/Color]**
+&gt; You must kill **[Color=651A35] Juggernauts [/Color]**
+&gt; You may spare anyone else
+
+&gt; Your allies are [x] the [role], and [x] the [role].
+
+[/details]
+
+## [Color=AAAAAA] Neutral Non-Killing [/Color]
+
+[details=&quot;Benign&quot;]
+
+&gt; # **[Color=F5B2C5] Cupid [/Color]**
+&gt; **[Color=AAAAAA] Neutral Benign [/Color]**
+&gt;
+&gt; **Friendly Spirit (Passive) -** You are immune to being occupied.
+&gt;
+&gt; **Arrows of Love (Night) -** Shoot two Players with your arrows, loverising them. You cannot shoot a Player who already has a lover again. - 3 uses
+&gt;
+&gt; You win if at least one of your pairs survives.
+
+&gt; # **[Color=8080FF] Double [/Color]**
+&gt; **[Color=AAAAAA] Neutral Benign [/Color]**
+&gt;
+&gt; **No Purpose (Passive) -** If you lose your one use of your attack, you will leave the game.
+&gt;
+&gt; **Borrow (Night) -** Kill someone, bypassing Night Immunity. Their Class and Logs will not be revealed. You will copy the player&#39;s Class who you kill exactly, including all effects on them. - 1 use
+&gt; 
+&gt; You win by becoming a Class and achieving its win condition.
+
+&gt; # **[Color=FFFFFF] Guardian Angel [/Color]**
+&gt; **[Color=AAAAAA] Neutral Benign [/Color]**
+&gt;
+&gt; **Angelic (Passive) -** You can use your abilities while being dead.
+&gt;
+&gt; **Purge (Night) -** Protect your charge, healing them and removing any negative status effects from them. If they are lynched tomorrow, you will take their place. - 2 uses
+&gt;
+&gt; You win if your charge survives.
+
+&gt; Your charge is randomly determined, but cannot be Neutral Evil.
+
+&gt; # **[Color=004040] Shade [/Color]**
+&gt; **[Color=AAAAAA] Neutral Benign [/Color]**
+&gt;
+&gt; **Haunting (Passive) -** After you have chosen to serve a master, you may both communicate via 5 200-character limit whispers every Night Phase. If you have used up all your uses of Channel without dying, you will leave the Town.
+&gt;
+&gt; **Channel (Day/Night) -** Channel spiritual energy. If you die this during this phase, your Class and Logs will not be revealed and you must choose to serve someone the following night for the rest of the game. - 5 uses
+&gt;
+&gt; **Haunt (Night|Ritualed) -** Haunt target Player&#39;s house, revealing everyone who visits that person to you and your master that night. You cannot haunt your master&#39;s house. - infinite uses
+&gt;
+&gt; *You win if your efforts lead to your killer losing.*
+
+[/details]
+
+[details=&quot;Evil&quot;]
+
+&gt; # **[Color=999999] Executioner [/Color]**
+&gt; **[Color=AAAAAA] Neutral Evil [/Color]**
+&gt; 
+&gt; **Utter Contempt (Passive) -** You are Night Immune. If your target dies N1, you will get a new target. If you get your target lynched or your second target dies to a means other than the lynch, you will leave the game.
+&gt; 
+&gt; *You win by getting your target lynched*
+
+&gt; Your target can be any non-Unique **[Color=00BF00] Town [/Color]** Class.
+
+&gt; # **[Color=80BF80] Phantom [/Color]**
+&gt; **[Color=AAAAAA] Neutral Evil [/Color]**
+&gt;
+&gt; **Haunting (Passive) -** After you have chosen to serve a master, you may both communicate via 5 200-character limit whispers every Night Phase. If you have used up all your uses of Channel without dying, you will leave the Game.
+&gt;
+&gt; **Channel (Day/Night) -** Channel spiritual energy. If you die this during this phase, your Class and Logs will not be revealed and you must choose to serve someone the following night for the rest of the game. You cannot serve people who vote to lynch you. You may also choose to automatically serve your killer. - 5 uses
+&gt;
+&gt; **Haunt (Night|Ritualed) -** Haunt target Player&#39;s house, revealing everyone who visits that person to you and your master that night. You cannot haunt your master&#39;s house. - infinite uses
+&gt; 
+&gt; You win if your efforts help your Master win the game.
+
+[/details]
+
+## [Color=AAAAAA] Neutral Killing [/Color]
+
+[details=&quot;Neutral Killing&quot;]
+
+&gt; # **[Color=FF8000] Arsonist [/Color]**
+&gt; **[Color=AAAAAA] Neutral Killing [/Color]**
+&gt; 
+&gt; **Wall of Flames (Passive) -** You are Night Immune.
+&gt;
+&gt; **Douse (Night) -** Douse target Player. - infinite uses
+&gt; **Ignite (Night) -** Ignite all of your doused targets. Igniting bypasses Night Immunity. The **[Color=00BF00] Firebrand [/Color]** cannot ignite your targets, nor can you ignite theirs. - infinite uses
+&gt;
+&gt; If you do not perform an action, you will clean any gasoline off of yourself.
+&gt;
+&gt; You win if it is just you and the **[Color=BF5FFF] Coven Head [/Color]** remaining.
+&gt; 
+&gt; You must kill the **[Color=BF5FFF] Coven [/Color]**
+&gt; You must kill the **[Color=00BF00] Town [/Color]**
+&gt; You may spare anyone else
+
+&gt; # **[Color=631A35] Juggernaut [/Color]**
+&gt; **[Color=AAAAAA] Neutral Killing [/Color]**
+&gt;
+&gt; **Assault (Night) -** Attack target Player. - infinite uses
+&gt; With each kill, you grow stronger:
+&gt; &gt; **1+ Kills**: You are now Night Immune.
+&gt; &gt; **2+ Kills**: You will now rampage at your target&#39;s house.
+&gt; &gt; **3+ Kills**: You are now unkillable, except by being lynched.
+&gt;
+&gt; You win if it is just you and the **[Color=BF5FFF] Coven Head [/Color]** remaining.
+&gt; 
+&gt; You must kill the **[Color=BF5FFF] Coven [/Color]**
+&gt; You must kill the **[Color=00BF00] Town [/Color]**
+&gt; You may spare anyone else
+
+&gt; # **[Color=0040FF] Serial Killer [/Color]**
+&gt; **[Color=AAAAAA] Neutral Killing [/Color]**
+&gt; 
+&gt; **Hardened (Passive) -** You are Night Immune.
+&gt;
+&gt; **Stab (Night) -** Attack target Player. If someone tries to Occupy you, you will attack them instead of your chosen target. - infinite uses
+&gt;
+&gt; You win if it is just you and the **[Color=BF5FFF] Coven Head [/Color]** remaining.
+&gt; 
+&gt; You must kill the **[Color=BF5FFF] Coven [/Color]**
+&gt; You must kill the **[Color=00BF00] Town [/Color]**
+&gt; You may spare anyone else
+
+&gt; # **[Color=000000] Stalker [/Color]**
+&gt; **[Color=AAAAAA] Neutral Killing [/Color]**
+&gt; 
+&gt; **Lurking (Passive) -** You are Night Immune. You are also immune to Stalking.
+&gt;
+&gt; **Stalk (Day/Night) -** Target a Player and begin Stalking them. Each of your stalked targets will commit suicide four phases after you begin stalking them. Your targets will not know they are being stalked until they commit suicide. Your method of killing ignores night immunity, and any **[Color=00BF00] Town Protectives [/Color]** trying to stop this attack will fail to do so. If someone tries to occupy you (including the **[Color=00BF00] Jailor [/Color]**), you will stalk your occupier and your original target. - infinite uses
+&gt;
+&gt; *You win if every other living Player is Stalked.*
+
+[/details]
+
+[/details]
+
+## Role List
+
+[details=&quot;Rolelist&quot;]
+
+**[Color=00BF00] Town Power [/Color]**
+**[Color=00BF00] Town Investigative [/Color]**
+**[Color=00BF00] Town Killing [/Color]**
+**[Color=00BF00] Random Town [/Color]**
+**[Color=00BF00] Random Town [/Color]**
+**[Color=00BF00] Random Town [/Color]**
+**[Color=00BF00] Citizen x6 [/Color]**
+
+**[Color=BF5FFF] Coven Head [/Color]**
+**[Color=BF5FFF] Coven Power [/Color]**
+**[Color=BF5FFF] Random Coven [/Color]**
+**[Color=BF5FFF] Random Coven [/Color]**
+
+**[Color=AAAAAA] Neutral Benign [/Color]**
+**[Color=AAAAAA] Neutral Evil [/Color]**
+**[Color=AAAAAA] Neutral Killer [/Color]**
+
+Citizen can roll once in Random Town and has double weight.
+
+[/details]
+
+## Unique Roles
+
+All **[Color=00BF00] Town Power [/Color]** Roles,**[Color=00BF00] Trapper [/Color]**, **[Color=00BF00] Veteran [/Color]**, **[Color=00BF00] Firebrand [/Color]**, **[Color=00BF00] Transporter [/Color]** and all **[Color=BF5FFF] Coven [/Color]** roles
+
+## Sheriff Results
+
+[details=&quot;Sheriff Results&quot;]
+
+**[Color=BF5FFF] Your target is a member of the Coven! [/Color]** - All Coven minus Soulbender. All hexed players.
+**[Color=0040FF] Your target is a Serial Killer! [/Color]** - Serial Killers.
+**[Color=000000] Your target is a Stalker! [/Color]** - Stalkers.
+**[Color=631A35] Your target is a Juggernaut! [/Color]** - Juggernauts.
+**[Color=00BF00] Your target is not suspicious! [/Color]** - Anyone else.
+
+[/details]
+
+## Investigator Results
+
+[details=&quot;Investigator Results&quot;]
+
+**[Color=00BF00] Citizen [/Color]**/**[Color=00BF00] Jailor [/Color]**/**[Color=BF5FFF] Fanatic [/Color]**/**[Color=8080FF] Double [/Color]**
+**[Color=00BF00] Investigator [/Color]**/**[Color=00BF00] Escort [/Color]**/**[Color=BF5FFF] Potion Master [/Color]**/**[Color=BF5FFF] Stormbrewer [/Color]**/**[Color=999999] Executioner [/Color]**
+**[Color=00BF00] Vigilante [/Color]**/**[Color=00BF00] Veteran [/Color]**/**[Color=00BF00] Trapper [/Color]**/**[Color=BF5FFF] Poisoner [/Color]**/**[Color=BF5FFF] Medusa [/Color]**
+**[Color=00BF00] Mayor [/Color]**/**[Color=00BF00] Marshal [/Color]**/**[Color=00BF00] Tracker [/Color]**/**[Color=BF5FFF] Siren [/Color]**/**[Color=BF5FFF] Coven Leader [/Color]**
+**[Color=00BF00] Sheriff [/Color]**/**[Color=BF5FFF] Necromancer [/Color]**/**[Color=F5B2C5] Cupid [/Color]**/**[Color=FFFFFF] Guardian Angel [/Color]**/**[Color=631A35] Juggernaut [/Color]**
+**[Color=00BF00] Lookout [/Color]**/**[Color=00BF00] Transporter [/Color]**/**[Color=BF5FFF] Voodooist [/Color]**/**[Color=BF5FFF] Illusionist [/Color]**/**[Color=BF5FFF] Soulbender [/Color]**
+**[Color=00BF00] Bodyguard [/Color]**/**[Color=00BF00] Veteran [/Color]**/**[Color=004040] Shade [/Color]**/**[Color=80BF80] Phantom [/Color]**/**[Color=0040FF] Serial Killer [/Color]**
+**[Color=00BF00] Doctor [/Color]** / **[Color=00BF00] Firebrand [/Color]**/ **[Color=BF5FFF] Fearmonger [/Color]** / **[Color=BF5FFF] Tormentor [/Color]**/**[Color=FF8000] Arsonist [/Color]**
+**[Color=BF5FFF] Hex Master [/Color]**/**[Color=BF5FFF] Shapeshifter [/Color]**/**[Color=000000] Stalker [/Color]**
+
+[/details]
+
+# Gameplay
+
+- There is a Day 1 Lynch.
+
+- Days are 72 hours unless majority is reached early and nights are 24 hours.
+
+- Lynches are majority and plurality. In case of a tie, the lynch will be determined randomly among the players receiving the most votes.
+
+- All votes must be in the form **/vote [name of player]** to be considered valid, and all unvotes must be in the form **/unvote**. This is to enable the smooth processing of votes.
+
+- The **[Color=BF5FFF] Coven [/Color]** has an optional factional kill each night.
+
+- The **[Color=BF5FFF] Coven [/Color]** will communicate through a private Discord server or forum topic.
+
+- Kills are announced. This means when somebody dies, the role(s) that killed them will be announced. Coven factional kilsl will be &quot;Massacred by the **[Color=BF5FFF]Coven[/Color]**&quot;, regardless of which member comitted it. 
+
+- Feedback will be kept to a minimum this time.
+
+## Playerlist
+
+1. Wazza
+2. N.1
+3. Alice
+4. ModeShifter
+5. Italy
+6. oB_Light
+7. Twil1ight
+8. an_gorta_pratai
+9. Marshal
+10. CRichard564
+11. katze
+12. clonedcheese
+13. TheBlueElixir
+14. EVO
+15. SogMan
+16. Fossil
+17. PokemonKidRyan
+18. Universal
+19. Magnus
+
+### Backups:
+
+1. Geyde
+3. Vulgard
+
+### Informed Spectators:
+
+1. Emilia
+2. Arete
+3. Astand
+4. Soolit
+5. DatBird
+
+### Uninformed Spectators:
+
+1. Amelia
+2. KyoDaz
+3. Hippoyeetus
+4. Chleb
+
+# The game will begin tomorrow, on May 1st if all spots have been filled.</description>
+    
+    <lastBuildDate>Sat, 02 May 2020 06:17:30 +0000</lastBuildDate>
+    <category>Signups</category>
+    <atom:link href="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[FM] Town of Salem 2 [Sign-Ups - 19/19]</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/667">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/667</link>
+        <pubDate>Sat, 02 May 2020 06:19:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81554-667</guid>
+        <source url="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554.rss">[FM] Town of Salem 2 [Sign-Ups - 19/19]</source>
+      </item>
+      <item>
+        <title>[FM] Town of Salem 2 [Sign-Ups - 19/19]</title>
+        <dc:creator><![CDATA[CRichard564]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh ok. I’m interested to know if I’ll be asleep SoD or awake.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/666">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/666</link>
+        <pubDate>Sat, 02 May 2020 06:17:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81554-666</guid>
+        <source url="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554.rss">[FM] Town of Salem 2 [Sign-Ups - 19/19]</source>
+      </item>
+      <item>
+        <title>[FM] Town of Salem 2 [Sign-Ups - 19/19]</title>
+        <dc:creator><![CDATA[Jane]]></dc:creator>
+        <description><![CDATA[
+            <h1>After the rand is done and classcards have been sent.</h1>
+          <p><a href="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/665">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/665</link>
+        <pubDate>Sat, 02 May 2020 06:16:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81554-665</guid>
+        <source url="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554.rss">[FM] Town of Salem 2 [Sign-Ups - 19/19]</source>
+      </item>
+      <item>
+        <title>[FM] Town of Salem 2 [Sign-Ups - 19/19]</title>
+        <dc:creator><![CDATA[CRichard564]]></dc:creator>
+        <description><![CDATA[
+            <p>Ok when is the game starting?</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/664">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/664</link>
+        <pubDate>Sat, 02 May 2020 06:15:54 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81554-664</guid>
+        <source url="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554.rss">[FM] Town of Salem 2 [Sign-Ups - 19/19]</source>
+      </item>
+      <item>
+        <title>[FM] Town of Salem 2 [Sign-Ups - 19/19]</title>
+        <dc:creator><![CDATA[ChopChop]]></dc:creator>
+        <description><![CDATA[
+            <p>It’s the same time for me too!<br>
+Lol.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/663">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/663</link>
+        <pubDate>Sat, 02 May 2020 06:14:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81554-663</guid>
+        <source url="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554.rss">[FM] Town of Salem 2 [Sign-Ups - 19/19]</source>
+      </item>
+      <item>
+        <title>[FM] Town of Salem 2 [Sign-Ups - 19/19]</title>
+        <dc:creator><![CDATA[clonedcheese]]></dc:creator>
+        <description><![CDATA[
+            <p>fuck<br>
+why is game starting at 11:14PM</p>
+<p>can it start at a more reasonable hour<br>
+when I wake up tomorrow, for instance</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/662">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/662</link>
+        <pubDate>Sat, 02 May 2020 06:14:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81554-662</guid>
+        <source url="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554.rss">[FM] Town of Salem 2 [Sign-Ups - 19/19]</source>
+      </item>
+      <item>
+        <title>[FM] Town of Salem 2 [Sign-Ups - 19/19]</title>
+        <dc:creator><![CDATA[CRichard564]]></dc:creator>
+        <description><![CDATA[
+            <p>This doesn’t look good.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/661">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/661</link>
+        <pubDate>Sat, 02 May 2020 06:13:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81554-661</guid>
+        <source url="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554.rss">[FM] Town of Salem 2 [Sign-Ups - 19/19]</source>
+      </item>
+      <item>
+        <title>[FM] Town of Salem 2 [Sign-Ups - 19/19]</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p><img src="/uploads/default/original/3X/3/c/3c208372fb5c55a484badba19e09b180ceccfdaf.jpeg" alt="yes" data-base62-sha1="8zUj62hKqv5E9QSjN4eCsAZqnEz" width="690" height="360"></p>
+          <p><a href="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/660">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/660</link>
+        <pubDate>Sat, 02 May 2020 06:12:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81554-660</guid>
+        <source url="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554.rss">[FM] Town of Salem 2 [Sign-Ups - 19/19]</source>
+      </item>
+      <item>
+        <title>[FM] Town of Salem 2 [Sign-Ups - 19/19]</title>
+        <dc:creator><![CDATA[Jane]]></dc:creator>
+        <description><![CDATA[
+            <h1>I’ll start randing the game now.</h1>
+<h1>After that, I’ll send Classcards and the game will start!</h1>
+          <p><a href="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/659">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/659</link>
+        <pubDate>Sat, 02 May 2020 06:02:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81554-659</guid>
+        <source url="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554.rss">[FM] Town of Salem 2 [Sign-Ups - 19/19]</source>
+      </item>
+      <item>
+        <title>[FM] Town of Salem 2 [Sign-Ups - 19/19]</title>
+        <dc:creator><![CDATA[CRichard564]]></dc:creator>
+        <description><![CDATA[
+            <p>SoD now then.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/658">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/658</link>
+        <pubDate>Sat, 02 May 2020 06:01:24 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81554-658</guid>
+        <source url="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554.rss">[FM] Town of Salem 2 [Sign-Ups - 19/19]</source>
+      </item>
+      <item>
+        <title>[FM] Town of Salem 2 [Sign-Ups - 19/19]</title>
+        <dc:creator><![CDATA[Jane]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>YAY!</strong></p>
+<h6>Sentence!</h6>
+          <p><a href="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/657">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/657</link>
+        <pubDate>Sat, 02 May 2020 06:01:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81554-657</guid>
+        <source url="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554.rss">[FM] Town of Salem 2 [Sign-Ups - 19/19]</source>
+      </item>
+      <item>
+        <title>[FM] Town of Salem 2 [Sign-Ups - 19/19]</title>
+        <dc:creator><![CDATA[Magnus]]></dc:creator>
+        <description><![CDATA[
+            <p>Sure.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/656">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/656</link>
+        <pubDate>Sat, 02 May 2020 06:00:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81554-656</guid>
+        <source url="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554.rss">[FM] Town of Salem 2 [Sign-Ups - 19/19]</source>
+      </item>
+      <item>
+        <title>[FM] Town of Salem 2 [Sign-Ups - 19/19]</title>
+        <dc:creator><![CDATA[Jane]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/magnus">@Magnus</a></p>
+<p>Can I count you as a player instead of a backup?</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/655">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/655</link>
+        <pubDate>Sat, 02 May 2020 05:56:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81554-655</guid>
+        <source url="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554.rss">[FM] Town of Salem 2 [Sign-Ups - 19/19]</source>
+      </item>
+      <item>
+        <title>[FM] Town of Salem 2 [Sign-Ups - 19/19]</title>
+        <dc:creator><![CDATA[CRichard564]]></dc:creator>
+        <description><![CDATA[
+            <p>Ah ok.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/654">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/654</link>
+        <pubDate>Sat, 02 May 2020 05:13:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81554-654</guid>
+        <source url="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554.rss">[FM] Town of Salem 2 [Sign-Ups - 19/19]</source>
+      </item>
+      <item>
+        <title>[FM] Town of Salem 2 [Sign-Ups - 19/19]</title>
+        <dc:creator><![CDATA[Jane]]></dc:creator>
+        <description><![CDATA[
+            <p>It’s not an online course.</p>
+<p>Just online classes for my course.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/653">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/653</link>
+        <pubDate>Sat, 02 May 2020 05:13:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81554-653</guid>
+        <source url="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554.rss">[FM] Town of Salem 2 [Sign-Ups - 19/19]</source>
+      </item>
+      <item>
+        <title>[FM] Town of Salem 2 [Sign-Ups - 19/19]</title>
+        <dc:creator><![CDATA[CRichard564]]></dc:creator>
+        <description><![CDATA[
+            <p>Jane you said you’re studying an online course. You mind sharing what your online course is?</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/652">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/652</link>
+        <pubDate>Sat, 02 May 2020 05:12:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81554-652</guid>
+        <source url="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554.rss">[FM] Town of Salem 2 [Sign-Ups - 19/19]</source>
+      </item>
+      <item>
+        <title>[FM] Town of Salem 2 [Sign-Ups - 19/19]</title>
+        <dc:creator><![CDATA[CRichard564]]></dc:creator>
+        <description><![CDATA[
+            <p>Sadly my attempt to convince Chloe to play didn’t work. Otherwise it would be SoD right now.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/651">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/651</link>
+        <pubDate>Sat, 02 May 2020 05:11:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81554-651</guid>
+        <source url="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554.rss">[FM] Town of Salem 2 [Sign-Ups - 19/19]</source>
+      </item>
+      <item>
+        <title>[FM] Town of Salem 2 [Sign-Ups - 19/19]</title>
+        <dc:creator><![CDATA[CRichard564]]></dc:creator>
+        <description><![CDATA[
+            <p>Hi Jane. Good to see you.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/650">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/650</link>
+        <pubDate>Sat, 02 May 2020 05:11:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81554-650</guid>
+        <source url="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554.rss">[FM] Town of Salem 2 [Sign-Ups - 19/19]</source>
+      </item>
+      <item>
+        <title>[FM] Town of Salem 2 [Sign-Ups - 19/19]</title>
+        <dc:creator><![CDATA[Jane]]></dc:creator>
+        <description><![CDATA[
+            <p>It’s fine.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/649">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/649</link>
+        <pubDate>Sat, 02 May 2020 05:05:28 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81554-649</guid>
+        <source url="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554.rss">[FM] Town of Salem 2 [Sign-Ups - 19/19]</source>
+      </item>
+      <item>
+        <title>[FM] Town of Salem 2 [Sign-Ups - 19/19]</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p>sorry<br>
+gamer priorities</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/648">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/648</link>
+        <pubDate>Sat, 02 May 2020 05:04:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81554-648</guid>
+        <source url="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554.rss">[FM] Town of Salem 2 [Sign-Ups - 19/19]</source>
+      </item>
+      <item>
+        <title>[FM] Town of Salem 2 [Sign-Ups - 19/19]</title>
+        <dc:creator><![CDATA[Jane]]></dc:creator>
+        <description><![CDATA[
+            <p><img src="/images/emoji/twitter/crying_cat_face.png?v=9" title=":crying_cat_face:" class="emoji" alt=":crying_cat_face:"> Game is unfilled.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/647">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/647</link>
+        <pubDate>Sat, 02 May 2020 05:03:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81554-647</guid>
+        <source url="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554.rss">[FM] Town of Salem 2 [Sign-Ups - 19/19]</source>
+      </item>
+      <item>
+        <title>[FM] Town of Salem 2 [Sign-Ups - 19/19]</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>/backup</strong><br>
+fuck I have shit tommorrow</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/646">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/646</link>
+        <pubDate>Sat, 02 May 2020 05:03:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81554-646</guid>
+        <source url="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554.rss">[FM] Town of Salem 2 [Sign-Ups - 19/19]</source>
+      </item>
+      <item>
+        <title>[FM] Town of Salem 2 [Sign-Ups - 19/19]</title>
+        <dc:creator><![CDATA[Jane]]></dc:creator>
+        <description><![CDATA[
+            <p>Wonderful, right as I finished reading the ~250 new posts!</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/645">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/645</link>
+        <pubDate>Sat, 02 May 2020 04:59:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81554-645</guid>
+        <source url="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554.rss">[FM] Town of Salem 2 [Sign-Ups - 19/19]</source>
+      </item>
+      <item>
+        <title>[FM] Town of Salem 2 [Sign-Ups - 19/19]</title>
+        <dc:creator><![CDATA[Marshal]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/jane">@Jane</a></p>
+<p>game is filled!</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/644">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/644</link>
+        <pubDate>Sat, 02 May 2020 04:59:17 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81554-644</guid>
+        <source url="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554.rss">[FM] Town of Salem 2 [Sign-Ups - 19/19]</source>
+      </item>
+      <item>
+        <title>[FM] Town of Salem 2 [Sign-Ups - 19/19]</title>
+        <dc:creator><![CDATA[Universal]]></dc:creator>
+        <description><![CDATA[
+            <p>Sure, <strong>/in</strong></p>
+          <p><a href="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/643">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554/643</link>
+        <pubDate>Sat, 02 May 2020 04:58:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81554-643</guid>
+        <source url="https://forum.throneoflies.com/t/fm-town-of-salem-2-sign-ups-19-19/81554.rss">[FM] Town of Salem 2 [Sign-Ups - 19/19]</source>
+      </item>
+  </channel>
+</rss>

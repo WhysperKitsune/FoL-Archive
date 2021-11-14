@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Mini Patch v2.4.0e</title>
+    <link>https://forum.throneoflies.com/t/mini-patch-v2-4-0e/79803</link>
+    <description>## This is an extension of v2.4a+
+
+![news-v24-animated|477x182](upload://1Qg5kim69mecCfkab3jfjvHsk63.gif) 
+
+https://forum.imperium42.com/t/v2-4-a-patch-notes/78603
+
+____________________
+
+## v2.4.0e
+
+&gt; Security
+
+* Deleting/anonymizing your account now has a 30d grace period which should prevent some trolls. If you log back into your account during this grace period, the timer will cancel and your account will no longer be scheduled for deletion. This change will trigger a new privacy policy version.
+* Added some anti-hack magic tricks.
+
+&gt; Bug Fixes
+
+* Dead classes that completed their objective should now be able to win.
+* Neutral King should now be able to win.
+* Sellsword can now win. *If you&#39;ve got what it takes, anyway ;)*
+* Sorc&#39;s Bomb Swap is no longer cancelable, fixing infinite bomb exploits. I&#39;ll make a more-graceful fix later.
+* Generally fixed bugs that related to # of charges and abilities being enabled/disabled when they weren&#39;t supposed to, especially for Day #1 abilities that were inconsistent from the others.
+* Fixed Reaper soul # syncs for what shows + is displayed (and is now scalable for future changes).
+* Reaper souls should now all show the same amount for every soul ability.
+* Reaper will now properly lose souls.
+* Reaper can now die at night when no souls are avail.
+* Abilities are now initially disabled before being enabled and are now temporarily delayed (~2s) before showing up for use, fixing a couple exploits.
+* Visual &quot;Perspective bug&quot; fixes for feedback (eg, target being swapped with &quot;yourself&quot;).
+* MVP panel should no longer skip. This was related to Sellsword not winning.
+* Neuts that have achieved their objective will now see their death message, once again.
+* Fixed some dupe winners shown in chat when there&#39;s only 1 winner.
+* Reaped targets will no longer see their death message twice.
+
+&gt; Quality of Life
+
+* Abilities now majestically fade in and out. Fancy AF.
+* Dark survey BG in lobby for less strain on the eyes to read the text.
+* Less spammy logs so we can see the good stuff easier.
+
+--Xblade
+https://discord.gg/tol</description>
+    
+    <lastBuildDate>Sat, 14 Dec 2019 15:46:35 +0000</lastBuildDate>
+    <category>Official Announcements</category>
+    <atom:link href="https://forum.throneoflies.com/t/mini-patch-v2-4-0e/79803.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Mini Patch v2.4.0e</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <h2>This is an extension of v2.4a+</h2>
+<p><img src="/uploads/default/original/3X/0/c/0cea791c76b66e201497c208aebd75158f8719f7.gif" alt="news-v24-animated" data-base62-sha1="1Qg5kim69mecCfkab3jfjvHsk63" width="477" height="182"></p>
+<p><a href="https://forum.imperium42.com/t/v2-4-a-patch-notes/78603" class="onebox" target="_blank" rel="noopener">https://forum.imperium42.com/t/v2-4-a-patch-notes/78603</a></p>
+<hr>
+<h2>v2.4.0e</h2>
+<blockquote>
+<p>Security</p>
+</blockquote>
+<ul>
+<li>Deleting/anonymizing your account now has a 30d grace period which should prevent some trolls. If you log back into your account during this grace period, the timer will cancel and your account will no longer be scheduled for deletion. This change will trigger a new privacy policy version.</li>
+<li>Added some anti-hack magic tricks.</li>
+</ul>
+<blockquote>
+<p>Bug Fixes</p>
+</blockquote>
+<ul>
+<li>Dead classes that completed their objective should now be able to win.</li>
+<li>Neutral King should now be able to win.</li>
+<li>Sellsword can now win. <em>If you’ve got what it takes, anyway <img src="/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"></em>
+</li>
+<li>Sorc’s Bomb Swap is no longer cancelable, fixing infinite bomb exploits. I’ll make a more-graceful fix later.</li>
+<li>Generally fixed bugs that related to # of charges and abilities being enabled/disabled when they weren’t supposed to, especially for Day <span class="hashtag">#1</span> abilities that were inconsistent from the others.</li>
+<li>Fixed Reaper soul # syncs for what shows + is displayed (and is now scalable for future changes).</li>
+<li>Reaper souls should now all show the same amount for every soul ability.</li>
+<li>Reaper will now properly lose souls.</li>
+<li>Reaper can now die at night when no souls are avail.</li>
+<li>Abilities are now initially disabled before being enabled and are now temporarily delayed (~2s) before showing up for use, fixing a couple exploits.</li>
+<li>Visual “Perspective bug” fixes for feedback (eg, target being swapped with “yourself”).</li>
+<li>MVP panel should no longer skip. This was related to Sellsword not winning.</li>
+<li>Neuts that have achieved their objective will now see their death message, once again.</li>
+<li>Fixed some dupe winners shown in chat when there’s only 1 winner.</li>
+<li>Reaped targets will no longer see their death message twice.</li>
+</ul>
+<blockquote>
+<p>Quality of Life</p>
+</blockquote>
+<ul>
+<li>Abilities now majestically fade in and out. Fancy AF.</li>
+<li>Dark survey BG in lobby for less strain on the eyes to read the text.</li>
+<li>Less spammy logs so we can see the good stuff easier.</li>
+</ul>
+<p>–Xblade<br>
+<a href="https://discord.gg/tol" class="onebox" target="_blank" rel="noopener">https://discord.gg/tol</a></p>
+          <p><a href="https://forum.throneoflies.com/t/mini-patch-v2-4-0e/79803/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/mini-patch-v2-4-0e/79803/1</link>
+        <pubDate>Sat, 14 Dec 2019 15:40:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79803-1</guid>
+        <source url="https://forum.throneoflies.com/t/mini-patch-v2-4-0e/79803.rss">Mini Patch v2.4.0e</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[Gamemode Idea] Return of The Blue Dragon</title>
+    <link>https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360</link>
+    <description>The discussion in the Taskmaster thread made me think about an reverse gamemode, so here&#39;s that.
+
+The Unseen had won, taking over Castle Adiart. But now, the small remainder of the Blue Dragon is fighting to take it over again! The changes are are as follows: The Unseen becomes the uninformed majority, not knowing who the others are, while the Blue Dragon are now the informed minority. The number of Unseen and Blue Dragon that appear are swapped. Neutrals still spawn as normal. There are new classes, and the majority of existing classes are changed to spice things up. The Mastermind, Assassin and Sellsword will never spawn. The Blue Dragon starts with The Negotiator and The Insurgent. The faction cap for the Blue Dragon is 4. If the Negotiator dies, the newest member of the Blue Dragon other than the oldest killer will become the Negotiator, unless the only other member is the oldest killer, in which case they will become the Negotiator anyway. The Insurgent can&#39;t be replaced.
+
+The new classes:
+&gt;## [color=steblue]The Negotiator[/color]
+&gt;[color=steblue]**Blue Dragon Special**[/color]
+**Undercover Rebel (Passive)** -  You will appear to be a Servant to investigators for the first three nights.
+**Busy (Passive)** - Immune to Occupation.
+**Call to Arms! (Day)** - Call the Blue Dragon to arms, empowering them tonight. The Blue Dragon will receive a message when this is activated. The individual effects can be found on each class card. - Infinite Uses, 2 day cooldown.
+**Persuade (Night)** - Persuade someone to join the Blue Dragon. - Infinite uses, 1 day cooldown.
+
+&gt;## [color=steblue]The Insurgent[/color]
+&gt;[color=steblue]**Blue Dragon Killer**[/color]
+**Vengeance (Day)** - Your attack will pierce night immunity tonight. - Gains 1 use for each dead member of the Blue Dragon.
+**Eliminate (Night)** - Kill a target player if they are a member of the Unseen. If they are a neutral, they will instead be occupied. You will know which happened. - Infinite uses.
+**[Call to Arms Only]** **Without A Trace (Night)** - Kill a target player, regardless of faction. You will take their journal, making it appear as though they didn&#39;t leave one, and you will be able to read it. - 2 uses.
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+
+The BD converted Mercenary:
+
+&gt;## [color=steblue]The Soldier[/color]
+&gt;[color=steblue]**Blue Dragon Support**[/color]
+**Defend (Night)** Protect a Blue Dragon player, giving them visitation immunity. - 3 uses.
+**Payback (Night)** Attack a player who voted a Blue Dragon player for treason. **Call to Arms Effect:** Attack any player. - 1 use.
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+
+The converted Prince, guaranteed to spawn:
+&gt;## [color=purple]The Kidnapper[/color]
+&gt;[color=purple]**Unseen Killer**[/color]
+**Unstoppable (Passive)** - Immune to being occupied at night.
+**Royal Blood (Passive)** - As a Royal, you can put your name forward for nominations to become the next King.
+**Imprison (Day)** - Choose a player to imprison at night, Occupying the target (Bypasses Occupy Immunity). - Infinite uses.
+**Execute (Night)** - Kill the imprisoned player (Bypass Night Immunity). If you execute a member of the Unseen, you lose all your remaining executions. - 3 uses.
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*
+
+Now, for the changed classes: 
+
+&gt;## [color=steblue]The Butler[/color]
+&gt;[color=steblue]**Blue Dragon Offensive**[/color]
+**Dutiful (Passive)** - Immune to occupation.
+**Serve Wine (Night)** - Occupy a player by getting them drunk. **Call to Arms Effect:** Get a player so drunk that they will be occupied again tomorrow night. - Infinite uses.
+**Concentrated Wine (Night)** - Throw a party, occupying all players who visit you tonight. - 2 uses.
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+
+&gt;## [color=purple]The Servant[/color]
+&gt;[color=purple]**Unseen Offensive**[/color]
+**Dutiful (Passive)** - Immune to occupation.
+**Nightshade Wine (Day)** - After 3 days you can poison the The King, causing him to die in two nights if not healed by a Physician. If the King is a member of the Unseen, you will take your own life. - 1 use.
+**Serve Wine (Night)** - Occupy a player by getting them drunk. - Infinite uses.
+**Concentrated Wine (Night)** - Throw a party, occupying all players who visit you tonight. - 2 uses.
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*
+
+&gt;## [color=steblue]The Court Wizard[/color]
+&gt;[color=steblue]**Blue Dragon Support**[/color]
+**Illusion (Night)** - Cast an illusion in the target player&#39;s room. They will believe they were shocked, and receive matching feedback, but will still really visit their true target. - Infinite uses.
+**Ice Ward (Night)** - Freeze a player&#39;s room preventing anyone  from visiting them. **Call to Arms Effect:** All Blue Dragon members will still be able to visit the target. - 2 uses.
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+
+&gt;## [color=purple]The Sage[/color]
+&gt;[color=purple]**Unseen Offensive**[/color]
+**Shock (Night)** - Shock the target player, causing them to target themselves. - Infinite uses.
+**Wall of Fire (Night)** - Summon a wall of fire at a player’s door, preventing everyone from visiting them. - 2 uses.
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*
+
+&gt;## [color=steblue]The Drunk[/color]
+&gt;[color=steblue]**Blue Dragon Offensive**[/color]
+**Royal Blood (Passive)** - As a Royal, you can put your name forward for nominations to become the next King.
+**Debauchery (Night)** - Get in a player’s way, causing them to target you. - Infinite uses.
+**[Call to Arms Only]** **Hangover (Night)** - Make a player unable to talk or hear what others say the next day. - 2 uses.
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+
+&gt;## [color=purple]The Alcoholic[/color]
+&gt;[color=purple]**Unseen Offensive**[/color]
+**Royal Blood (Passive)** - As a Royal, you can put your name forward for nominations to become the next King.
+**Debauchery (Night)** - Get in a player’s way, causing them to target you. Does not work with conversion abilities. - Infinite uses.
+**Happy Hour (Night)** - Occupy and get rid of your target&#39;s night and occupy immunities for the night. - 2 uses.
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*
+
+&gt;## [color=steblue]The Hunter[/color]
+&gt;[color=steblue]**Blue Dragon Killer**[/color]
+**Isolation (Passive)** - Immune to occupation.
+**Wolf Companion (Night)** - Summon a wolf to attack someone. They will die instantly, but if they are death immune they will instead bleed and die in one day unless healed. - Can only be used if you are the oldest Blue Dragon Killer. Infinite uses.
+**Spike Traps (Night)** - Set spiked traps in your home to hurt all intruders. If trapped, the 
+visitors will bleed and die in a day, if untreated. You will be immune to death. **Call to Arms Effect:** Visitors die instantly, piercing death immunity. - 2 uses.
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+
+&gt;## [color=purple]The Poacher[/color]
+&gt;[color=purple]**Unseen Offensive**[/color]
+**Retribution (Passive)** - If found guilty of treason, you will kill your accuser before your execution.
+**Isolation (Passive)** - Immune to occupation.
+**Bear Companion (Night)** - Summon a bear companion to maul a target player, making them bleed and die in one day unless healed. - 2 uses.
+**Spike Traps (Night)** - Set spiked traps in your home to hurt all intruders. If trapped, the visitors will bleed and die in a day, if untreated. You will be immune to death and conversion. - 2 uses.
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*
+
+&gt;## [color=steblue]The Knight[/color]
+&gt;[color=steblue]**Blue Dragon Killer**[/color]
+**Protection (Night)** - Protect the Blue Dragon faction at night, giving up your life to save theirs if needed. **Call to Arms Effect:** Kill their attackers when you die. - Infinite uses.
+**Cold Steel (Night)** - Kill a target player. - Can only be used if you are the oldest Blue Dragon Killer. Infinite uses.
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+
+&gt;## [color=purple]The Enforcer[/color]
+&gt;[color=purple]**Unseen Support**[/color]
+**Sacrifice (Night)** - Protect a player, giving your life to kill their attackers. - Infinite Uses
+**Frenzy (Night)** - Kill a target player. Bypasses night Immunity, Occupying, and healing. - 1 use.
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*
+
+&gt;## [color=steblue]The Noble[/color]
+&gt;[color=steblue]**Blue Dragon Social**[/color]
+**Royal Blood (Passive)** - As a Royal, you can put your name forward for nominations to become the next King.
+**Maid Spy (Day)** - Send a maid to spy on someone during the day. You will be able to hear whispers to and from them. - Infinite uses.
+**[Call to Arms Only]** **Manipulate (Day, Special)** - Choose who the person you used Order on will vote. - Infinite uses.
+**Crier (Night)** - Send for a crier to deliver a message to the court at the start of the next day. - Infinite uses.
+**Order (Night)** - Negate the votes of a target player the next day. They can&#39;t accuse anyone or vote tomorrow. **Call to Arms Effect:** The day after using this ability, you will gain **Manipulate**. - Infinite uses.
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+
+&gt;## [color=steblue]The Observer[/color]
+&gt;[color=steblue]**Blue Dragon Investigative**[/color]
+**Follow (Night)** - Observe a player to see who visits them and who they visited at night. - Infinite uses.
+**Window Peek (Night)** - Reveal a player&#39;s faction. **Call to Arms Effect:** Reveal their exact class. - 2 uses
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+
+&gt;## [color=purple]The Nightwatch[/color]
+&gt;[color=purple]**Unseen Investigative**[/color]
+**Follow (Night)** - Observe a player to see who visits them and who they visited at night. - Infinite uses.
+**Window Peek (Night)** - Reveal a player&#39;s faction. - 2 uses
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*
+
+&gt;## [color=steblue]The Physician[/color]
+&gt;[color=steblue]**Blue Dragon Support**[/color]
+**Remedy Studies (Passive)** - Immune to *nightshade* poison, and all forms of bleed.
+**Heal (Night)** - Heal a player, preventing them from dying tonight, and cures poison. - Infinite uses.
+**[Call to Arms Only]** **Concentrated Nightshade (Night)** - Poison the target player with a concentrated dose of nightshade, causing them to die instantly. - 1 uses.
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+
+&gt;## [color=purple]The Herbalist[/color]
+&gt;[color=purple]**Unseen Support**[/color]
+**Remedy Studies (Passive)** - Immune to *nightshade* poison, and all forms of bleed.
+**Heal (Night)** - Heal a player, preventing them from dying tonight, and cures poison. - Infinite uses.
+**Exhume (Night)** - Choose a dead player, Privately identify the class that killed them. - Infinite uses.
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*
+
+
+&gt;## [color=steblue]The Priest[/color]
+&gt;[color=steblue]**Blue Dragon Support**[/color]
+**Devoted (Passive)** - You are Immune to one attack on your life.
+**Call the Dead (Passive)** - Communicate with any dead Blue Dragon members at night.
+**Bind Soul (Day)** - Makes a player Immune to death tonight. - 1 use.
+**Holy Barrier (Night)** - A target Blue Dragon player is protected from death tonight. - 2 uses.
+**[Call to Arms Only]** **Vessel (Night)** A target dead Blue Dragon player will be able to use their night ability, and it won&#39;t be visible to the Nightwatch/Observer. - 1 use
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+
+&gt;## [color=purple]The Soulcatcher[/color]
+&gt;[color=purple]**Unseen Support**[/color]
+**Devoted (Passive)** - You are Immune to one attack on your life.
+**Call the Dead (Passive)** - Communicate with the dead at night.
+**Bind Soul (Day)** - Makes a player Immune to death tonight. - 1 use.
+**Soul Trap (Night)** - If the target player dies at any point after using this ability, you will collect their soul. - Infinite uses.
+**Reanimate (Night)** - Bring a dead Unseen player back to life. Each night they remain alive, a soul will be consumed. If you have no souls, or are converted, the player dies. You can target all players, but will only successfully revive Unseen members. They will be convert immune. - 1 use.
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*
+
+&gt;## [color=steblue]The Princess[/color]
+&gt;[color=steblue]**Blue Dragon Investigative**[/color]
+**Royal Blood (Passive)** - As a Royal, you can put your name forward for nominations to become the next King.
+**Flirt (Night)** - Check to see what class type the selected player is. You will receive two results, one of which will be their real type, and one won&#39;t be. **Call to Arms Effect:** Determine the target&#39;s class type. - Infinite uses.
+**Blinding Wisp (Night)** - Uncage a blinding wisp in a target player&#39;s room (you can target yourself), making anyone who visits not receive feedback, and a notification that &quot;They couldn&#39;t see through the blinding light.&quot; - 3 uses.
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+
+&gt;## [color=purple]The Duchess[/color]
+&gt;[color=purple]**Unseen Investigative**[/color]
+**Royal Blood (Passive)** - As a Royal, you can put your name forward for nominations to become the next King.
+**Flirt (Night)** - Check to see what class type the selected player is. You will receive two results, one of which will be their real type, and one won&#39;t be. - Infinite uses.
+**Dark Wisp (Night)** - Uncage a dark wisp, sucking out the light from a target player&#39;s room (you can target yourself). Killers will not be able to kill the target player due to the darkness, but no other classes will be effected. - Infinite uses.
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*
+
+&gt;## [color=steblue]The Psychic[/color]
+&gt;[color=steblue]**Blue Dragon Social**[/color]
+**Telepathy (Day)** - Telepathically send a message to everyone; they will not know who sent it. - 2 uses.
+**Misdirect (Day)** - Force a player to accuse another player of Treason. - 2 uses.
+**Link Fates (Night)** - Two target players will suffer the same negative effects tonight, except killing and conversion. **Call to Arms Effect:** This includes killing. - Infinite uses.
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+
+&gt;## [color=purple]The Illusionist[/color]
+&gt;[color=purple]**Unseen Social**[/color]
+**Telepathy (Day)** - Telepathically send a message to everyone; they will not know who sent it. - 2 uses.
+**Misdirect (Day)** - Force a player to accuse another player of Treason. - 2 uses.
+**Link Destinies (Night)** - Two target players will benefit from the same positive and negative effects other than killing and conversion tonight, like healing or occupation. - Infinite uses.
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*
+
+&gt;## [color=steblue]The Sheriff[/color]
+&gt;[color=steblue]**Blue Dragon Investigative**[/color]
+**Show Badge (Passive)** - The Kidnapper will think you are the Marshal if you are jailed.
+**Scout (Day)** - Have a scout to follow the target player. The next morning you will discover their faction. - 2 uses.
+**Stakeout (Night)** - You will stakeout a target player&#39;s room, finding out any visitors&#39; factions. **Call to Arms Effect:** You will find out their exact classes. - Infinite uses.
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+
+
+&gt;## [color=purple]The Marshal[/color]
+&gt;[color=purple]**Unseen Investigative**[/color]
+**Show Badge (Passive)** - The Kidnapper will know you are the Marshal if you are jailed.
+**Fact Checking (Day)** - Determine if a previously investigated player has been converted to the Blue Dragon since checking them. - 2 uses.
+**Expert Investigation (Night)** - Determine if a player is a member of the Blue Dragon faction. - Infinite uses.
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*
+
+&gt;## [color=steblue]The Prince[/color]
+&gt;[color=steblue]**Blue Dragon Killer**[/color]
+**Unstoppable (Passive)** - Immune to being occupied at night.
+**Royal Blood (Passive)** - As a Royal, you can put your name forward for nominations to become the next King.
+**Imprison (Day)** - Choose a player to imprison at night, Occupying the target (Bypasses Occupy Immunity). If you choose to imprison, you will not be able to talk with the rest of the Blue Dragon tonight. - Infinite uses.
+**Interrogate (Night)** - Interrogate your imprisoned player, finding out their class type. - Infinite uses.
+**[Call to Arms Only]** **Execute (Night)** - Execute your imprisoned player, bypassing night immunity. - 2 uses, not limited to the oldest killer rule.
+*Defeat the Unseen and any neutrals that seek to do you harm.*
+
+Classes that stay the same:
+- Aristocrat
+- All neutrals
+
+That&#39;s all of it. Now, it&#39;s probably not very well balanced or anything, so I&#39;m always looking for feedback. Let me know what you think.</description>
+    
+    <lastBuildDate>Sat, 04 Nov 2017 14:34:28 +0000</lastBuildDate>
+    <category>Class/Lore/Fanfic</category>
+    <atom:link href="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[Gamemode Idea] Return of The Blue Dragon</title>
+        <dc:creator><![CDATA[Ashe]]></dc:creator>
+        <description><![CDATA[
+            <p>Yup <img src="/images/emoji/twitter/+1.png?v=9" title=":+1:" class="emoji" alt=":+1:"></p>
+          <p><a href="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/36">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/36</link>
+        <pubDate>Sat, 04 Nov 2017 14:34:28 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4360-36</guid>
+        <source url="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360.rss">[Gamemode Idea] Return of The Blue Dragon</source>
+      </item>
+      <item>
+        <title>[Gamemode Idea] Return of The Blue Dragon</title>
+        <dc:creator><![CDATA[Wolfy]]></dc:creator>
+        <description><![CDATA[
+            <p>Just keep looking at the recent posted topics as Forum of Lies is posted soon as they are allowed to, and also look out on the forum matches page on the discord. Some people forget to announce it there, so when I open signups, I will post the link on the discord first to make sure people can see it first rather than the normal players.</p>
+<p>I think most of us forgot about it in all fairness</p>
+          <p><a href="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/35">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/35</link>
+        <pubDate>Sat, 04 Nov 2017 12:48:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4360-35</guid>
+        <source url="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360.rss">[Gamemode Idea] Return of The Blue Dragon</source>
+      </item>
+      <item>
+        <title>[Gamemode Idea] Return of The Blue Dragon</title>
+        <dc:creator><![CDATA[_PG_Felgurity]]></dc:creator>
+        <description><![CDATA[
+            <p>I have a question, how the hell can I join in stuff like this?</p>
+          <p><a href="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/34">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/34</link>
+        <pubDate>Sat, 04 Nov 2017 12:45:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4360-34</guid>
+        <source url="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360.rss">[Gamemode Idea] Return of The Blue Dragon</source>
+      </item>
+      <item>
+        <title>[Gamemode Idea] Return of The Blue Dragon</title>
+        <dc:creator><![CDATA[Wolfy]]></dc:creator>
+        <description><![CDATA[
+            <p>I would assume so actually, as the Prince card is shown as well.</p>
+<p><a class="mention" href="/u/ashe">@Ashe</a>, am I correct with assuming this?</p>
+          <p><a href="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/33">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/33</link>
+        <pubDate>Sat, 04 Nov 2017 12:42:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4360-33</guid>
+        <source url="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360.rss">[Gamemode Idea] Return of The Blue Dragon</source>
+      </item>
+      <item>
+        <title>[Gamemode Idea] Return of The Blue Dragon</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <p>Just a question. So you can convert the Kidnapper to the Prince.</p>
+          <p><a href="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/32">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/32</link>
+        <pubDate>Sat, 04 Nov 2017 12:37:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4360-32</guid>
+        <source url="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360.rss">[Gamemode Idea] Return of The Blue Dragon</source>
+      </item>
+      <item>
+        <title>[Gamemode Idea] Return of The Blue Dragon</title>
+        <dc:creator><![CDATA[Wolfy]]></dc:creator>
+        <description><![CDATA[
+            <p>I’ll announce it on the discord as well as here as the normal players grab the spots first.</p>
+          <p><a href="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/31">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/31</link>
+        <pubDate>Sat, 04 Nov 2017 12:31:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4360-31</guid>
+        <source url="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360.rss">[Gamemode Idea] Return of The Blue Dragon</source>
+      </item>
+      <item>
+        <title>[Gamemode Idea] Return of The Blue Dragon</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <p>Please tell me when sign ups are open. I’d hate to miss this</p>
+          <p><a href="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/30">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/30</link>
+        <pubDate>Sat, 04 Nov 2017 12:29:20 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4360-30</guid>
+        <source url="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360.rss">[Gamemode Idea] Return of The Blue Dragon</source>
+      </item>
+      <item>
+        <title>[Gamemode Idea] Return of The Blue Dragon</title>
+        <dc:creator><![CDATA[Wolfy]]></dc:creator>
+        <description><![CDATA[
+            <p>I sent the pitch to alfa. She hasn’t got back to me about it yet. Sign ups will begin once i get permission, especially after the other sfol that are in the queue.</p>
+          <p><a href="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/29">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/29</link>
+        <pubDate>Fri, 03 Nov 2017 20:29:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4360-29</guid>
+        <source url="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360.rss">[Gamemode Idea] Return of The Blue Dragon</source>
+      </item>
+      <item>
+        <title>[Gamemode Idea] Return of The Blue Dragon</title>
+        <dc:creator><![CDATA[PolikShadowbliss]]></dc:creator>
+        <description><![CDATA[
+            <p>Cult vs. Unseen.</p>
+<p>I say Cult vs.  Unseen because I want to see the Cult version of these classes which would be fun.</p>
+<p>Like the Seer can be the VvV versions of the Physic.</p>
+          <p><a href="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/28">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/28</link>
+        <pubDate>Fri, 03 Nov 2017 20:13:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4360-28</guid>
+        <source url="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360.rss">[Gamemode Idea] Return of The Blue Dragon</source>
+      </item>
+      <item>
+        <title>[Gamemode Idea] Return of The Blue Dragon</title>
+        <dc:creator><![CDATA[PolikShadowbliss]]></dc:creator>
+        <description><![CDATA[
+            <p>Also.  A villian vs. villians gamemode would be nice.</p>
+          <p><a href="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/27">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/27</link>
+        <pubDate>Fri, 03 Nov 2017 20:11:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4360-27</guid>
+        <source url="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360.rss">[Gamemode Idea] Return of The Blue Dragon</source>
+      </item>
+      <item>
+        <title>[Gamemode Idea] Return of The Blue Dragon</title>
+        <dc:creator><![CDATA[PolikShadowbliss]]></dc:creator>
+        <description><![CDATA[
+            <p>This needs to be in the offical game guys.</p>
+<p>Also where are the effing sign-ups??!?</p>
+          <p><a href="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/26">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/26</link>
+        <pubDate>Fri, 03 Nov 2017 19:09:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4360-26</guid>
+        <source url="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360.rss">[Gamemode Idea] Return of The Blue Dragon</source>
+      </item>
+      <item>
+        <title>[Gamemode Idea] Return of The Blue Dragon</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <p>This, just put it in the game.</p>
+          <p><a href="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/25</link>
+        <pubDate>Thu, 02 Nov 2017 21:50:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4360-25</guid>
+        <source url="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360.rss">[Gamemode Idea] Return of The Blue Dragon</source>
+      </item>
+      <item>
+        <title>[Gamemode Idea] Return of The Blue Dragon</title>
+        <dc:creator><![CDATA[Ami]]></dc:creator>
+        <description><![CDATA[
+            <p><em>cough</em>  Where’s the FoL/SFoL hosting sign up sheet <a class="mention" href="/u/queen_alfa">@Queen_Alfa</a> <em>cough</em></p>
+          <p><a href="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/24</link>
+        <pubDate>Wed, 18 Oct 2017 19:24:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4360-24</guid>
+        <source url="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360.rss">[Gamemode Idea] Return of The Blue Dragon</source>
+      </item>
+      <item>
+        <title>[Gamemode Idea] Return of The Blue Dragon</title>
+        <dc:creator><![CDATA[Strangle]]></dc:creator>
+        <description><![CDATA[
+            <p>I would like to see this  it just seems cool and awesome  and the fact it’s the opposite of the unseen is the minorty and the blue dragon is the majority.</p>
+          <p><a href="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/23</link>
+        <pubDate>Wed, 18 Oct 2017 14:58:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4360-23</guid>
+        <source url="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360.rss">[Gamemode Idea] Return of The Blue Dragon</source>
+      </item>
+      <item>
+        <title>[Gamemode Idea] Return of The Blue Dragon</title>
+        <dc:creator><![CDATA[Wolfy]]></dc:creator>
+        <description><![CDATA[
+            <p>I might as well put this as a pitch ready. If ici’s got bumped, who says ours couldn’t too?  <img src="/images/emoji/twitter/stuck_out_tongue.png?v=9" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"></p>
+          <p><a href="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/22</link>
+        <pubDate>Tue, 17 Oct 2017 06:49:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4360-22</guid>
+        <source url="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360.rss">[Gamemode Idea] Return of The Blue Dragon</source>
+      </item>
+      <item>
+        <title>[Gamemode Idea] Return of The Blue Dragon</title>
+        <dc:creator><![CDATA[Ashe]]></dc:creator>
+        <description><![CDATA[
+            <p>I could probably cohost it, but SFoLs are banked up for a bit from what I hear, so might be a while before this would happen.</p>
+          <p><a href="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/21</link>
+        <pubDate>Tue, 17 Oct 2017 05:44:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4360-21</guid>
+        <source url="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360.rss">[Gamemode Idea] Return of The Blue Dragon</source>
+      </item>
+      <item>
+        <title>[Gamemode Idea] Return of The Blue Dragon</title>
+        <dc:creator><![CDATA[Wolfy]]></dc:creator>
+        <description><![CDATA[
+            <p>I’ll see if I can get permission with this and if Ashe would also like to mod as well as the normal creator</p>
+          <p><a href="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/20</link>
+        <pubDate>Tue, 17 Oct 2017 05:29:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4360-20</guid>
+        <source url="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360.rss">[Gamemode Idea] Return of The Blue Dragon</source>
+      </item>
+      <item>
+        <title>[Gamemode Idea] Return of The Blue Dragon</title>
+        <dc:creator><![CDATA[Insanity]]></dc:creator>
+        <description><![CDATA[
+            <p><img src="/images/emoji/twitter/stuck_out_tongue.png?v=9" title=":stuck_out_tongue:" class="emoji only-emoji" alt=":stuck_out_tongue:"><br>
+<img src="/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji only-emoji" alt=":wink:"> <img src="/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji only-emoji" alt=":wink:"></p>
+          <p><a href="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/19</link>
+        <pubDate>Tue, 17 Oct 2017 03:20:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4360-19</guid>
+        <source url="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360.rss">[Gamemode Idea] Return of The Blue Dragon</source>
+      </item>
+      <item>
+        <title>[Gamemode Idea] Return of The Blue Dragon</title>
+        <dc:creator><![CDATA[PolikShadowbliss]]></dc:creator>
+        <description><![CDATA[
+            <p>No.</p>
+<p>-_-</p>
+<p>The class.</p>
+          <p><a href="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/18</link>
+        <pubDate>Tue, 17 Oct 2017 02:28:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4360-18</guid>
+        <source url="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360.rss">[Gamemode Idea] Return of The Blue Dragon</source>
+      </item>
+      <item>
+        <title>[Gamemode Idea] Return of The Blue Dragon</title>
+        <dc:creator><![CDATA[Insanity]]></dc:creator>
+        <description><![CDATA[
+            <p>You mean…</p>
+<p>this?</p>
+<p><a href="https://upload.wikimedia.org/wikipedia/en/9/9c/Insurgent_%28book%29.jpeg" class="onebox" target="_blank" rel="noopener nofollow ugc">https://upload.wikimedia.org/wikipedia/en/9/9c/Insurgent_(book).jpeg</a></p>
+          <p><a href="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/17</link>
+        <pubDate>Tue, 17 Oct 2017 02:13:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4360-17</guid>
+        <source url="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360.rss">[Gamemode Idea] Return of The Blue Dragon</source>
+      </item>
+      <item>
+        <title>[Gamemode Idea] Return of The Blue Dragon</title>
+        <dc:creator><![CDATA[PolikShadowbliss]]></dc:creator>
+        <description><![CDATA[
+            <p>I like the insurgent.</p>
+          <p><a href="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/16</link>
+        <pubDate>Tue, 17 Oct 2017 01:27:33 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4360-16</guid>
+        <source url="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360.rss">[Gamemode Idea] Return of The Blue Dragon</source>
+      </item>
+      <item>
+        <title>[Gamemode Idea] Return of The Blue Dragon</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>I have 2 suggestions.</p>
+<p>A: Make it so that if the BD have no Killers then the oldest member other than the negotiator becomes an insergent.</p>
+<p>B: Give the Soulcatchers revive a second use. Make it so that you can’t use it on the same person twice as well can give her the consume soul passive instead of the devoted passive. Between all of that it should make the Soulcatcher much more interesting than a nerfed priest.</p>
+          <p><a href="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/15</link>
+        <pubDate>Tue, 17 Oct 2017 01:19:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4360-15</guid>
+        <source url="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360.rss">[Gamemode Idea] Return of The Blue Dragon</source>
+      </item>
+      <item>
+        <title>[Gamemode Idea] Return of The Blue Dragon</title>
+        <dc:creator><![CDATA[PolikShadowbliss]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/wolfy">@Wolfy</a></p>
+<p>You willing to host a SFol version of this.</p>
+          <p><a href="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/14</link>
+        <pubDate>Tue, 17 Oct 2017 01:03:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4360-14</guid>
+        <source url="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360.rss">[Gamemode Idea] Return of The Blue Dragon</source>
+      </item>
+      <item>
+        <title>[Gamemode Idea] Return of The Blue Dragon</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Jk I have no experience with this.</p>
+          <p><a href="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/13</link>
+        <pubDate>Tue, 17 Oct 2017 00:05:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4360-13</guid>
+        <source url="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360.rss">[Gamemode Idea] Return of The Blue Dragon</source>
+      </item>
+      <item>
+        <title>[Gamemode Idea] Return of The Blue Dragon</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Me! /Mod</p>
+          <p><a href="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360/12</link>
+        <pubDate>Tue, 17 Oct 2017 00:04:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4360-12</guid>
+        <source url="https://forum.throneoflies.com/t/gamemode-idea-return-of-the-blue-dragon/4360.rss">[Gamemode Idea] Return of The Blue Dragon</source>
+      </item>
+  </channel>
+</rss>

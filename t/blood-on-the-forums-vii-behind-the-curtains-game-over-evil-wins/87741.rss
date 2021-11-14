@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</title>
+    <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741</link>
+    <description>
+Greetings, for the seventh time, to Blood on the Forums! Hosted by @Amelia! For this game, we’ve really done it now. A custom script made by us, featuring a mixture of familiar characters you all know and love, as well as a few new ones! Hold on tight, everyone, this game will absolutely get wacky.
+
+[details=”Character List”]
+This game will be running an entirely custom script, with our little treat to you, a few of the newly revealed kickstarter characters. The rest of the characters are from the various other base scripts, and should be mostly familiar to people who’ve played the base 3. Word of advice, pay attention to the new characters, they all have wacky effects all on their own.
+
+Townsfolk:
+[color=29b6f6]**Clockmaker**[/color]: You start the game knowing how many steps there are from the Demon to their nearest Minion.
+[color=29b6f6]**Librarian**[/color]: You start knowing that one of two players is a particular Outsider, or none are in play.
+[color=29b6f6]**Pixie**[/color]: You start the game knowing an in-play Townsfolk. If you are mad that you are this Townsfolk, you gain their ability when they die.
+[color=29b6f6]**Empath**[/color]: Each night, you learn how many of your living neighbors are Evil.
+[color=29b6f6]**Dreamer**[/color]: Each night, choose a player. You will learn 1 Good and 1 Evil character, one of which is their true character.
+[color=29b6f6]**Chambermaid**[/color]: Each night, choose 2 alive players (but not yourself). You learn how many wake tonight due to their own ability.
+[color=29b6f6]**Flowergirl**[/color]: Each night (but not the first), you learn if a Demon player voted the previous day.
+[color=29b6f6]**Town Crier**[/color]: Each night (but not the first), you learn if a Minion player nominated the previous day.
+[color=29b6f6]**Monk**[/color]: Each night (but not the first), choose a player (you may not choose yourself); they are safe from the Demon tonight.
+[color=29b6f6]**Seamstress**[/color]: Once per game, at night, choose 2 players (but not yourself). Learn if they are the same alignment.
+[color=29b6f6]**Slayer**[/color]: Once per game, during the day, publicly choose a player. If they are a Demon, they die.
+[color=29b6f6]**Soldier**[/color]: You are safe from the Demon.
+[color=29b6f6]**Poppy Grower**[/color]: Minion and Demon players do not learn who each other are. If you die, they learn who each other are that night.
+
+Outsiders:
+[color=29b6f6]**Recluse**[/color]: You might register as Evil and as a Minion or Demon at any time, even if you are dead.
+[color=29b6f6]**Heretic**[/color]: Whoever wins the game will instead lose the game, and whoever loses the game will instead win the game, even if you are dead.
+[color=29b6f6]**Drunk**[/color]: You think you are a Townsfolk character, but the ability that you think you have instead malfunctions.
+[color=29b6f6]**Politician**[/color]: If you were the player most responsible for your alignment losing, you change alignment and win, even if dead.
+
+Minions:
+[color=red]**Poisoner**[/color]: Each night, choose a player; their ability malfunctions until dusk.
+[color=red]**Cerenovus**[/color]: Each night, choose a player and a Good character; that player is &quot;mad&quot; that they are that character tomorrow, or might be executed.
+[color=red]**Scarlet Woman**[/color]: If there are 5 or more players alive and the Demon dies, you become the new Demon.
+[color=red]**Marionette**[/color]: You think you are a Townsfolk or Outsider character, but the ability you think you have instead malfunctions. The Demon knows who you are. [You neighbor the Demon]
+
+Demons:
+[color=red]**Lil’ Monsta**[/color]: Each night, the Minions choose who babysits the Lil’ Monsta; that player “is the Demon”. Each night (but not the first), a player dies. [+1 Minion]
+[color=red]**Imp**[/color]: Each night (but not the first), choose a player; they die. If you kill yourself this way, a Minion becomes the Imp.
+[color=red]**Vortox**[/color]: Each night (but not the first), choose a player; they die. Townsfolk abilities yield false information. Each day, if no one is executed; Evil wins.
+[color=red]**Fang Gu**[/color]: Each night (but not the first), choose a player; they die. The first Outsider this kills will instead become an Evil Fang Gu and you will die instead. [+1 Outsider]
+
+
+[/details]
+[details=&quot;Town Composition&quot;]
+
+This game is designed for a variable number of players, and thus the composition of the game is able to change depending on how many players join. The following list denotes the standard composition of the game at each possible player count.
+
+Total Players: Townsfolk/Outsiders/Minions/Demons
+5: 3/0/1/1
+6: 3/1/1/1
+7: 5/0/1/1
+8: 5/1/1/1
+9: 5/2/1/1
+10: 7/0/2/1
+11: 7/1/2/1
+12: 7/2/2/1
+13: 9/0/3/1
+14: 9/1/3/1
+15: 9/2/3/1
+
+Every character in-game is unique in that more than one of the same character will never appear at the start of the game (there can never be two Clockmakers at the start, for example).
+
+Certain characters may contain parts of their ability which modify the game setup; some add character types (and subtract others to compensate), while others change elements of the game entirely. Be sure to take notice of these. You’ll find them in [square brackets], like those ones.
+
+[/details]
+[details=&quot;Phase Length&quot;]
+
+Each day phase will last for no longer than 48 hours.
+12 hours: Discussion phase. Nominations may not be cast at this time.
+12 hours: Nomination phase. Players who wish to nominate may do so at this time, and votes may begun to be cast during this time as well.
+24 hours: Vote finalization. During this time, votes may be cast freely on any existing nomination, but no new nominations may be made. Once this time ends or all votes have been locked in, the day will resolve.
+
+The night phase will last for no more than 24 hours. If all relevant actions have been submitted and processed, Storytellers reserve the right to begin the next day early. 
+[/details]
+
+[details=&quot;Storyteller&quot;]
+
+The Storyteller is the key moderator for the game; All ability uses at night must be sent to the Storyteller via private message, and Storyteller will have the final say on any open-ended ability behaviors. Storyteller’s goal is to keep the game both fun and balanced, and they’ll often be trying to make it last as long as possible; however, the Storyteller may not alter any existing rules to accomplish this.
+[/details]
+
+[details=&quot;The Fabled&quot;]
+The Fabled aren&#39;t really characters so much as special modifiers that the Storyteller can put in play to tweak the game. For example, the Angel can be put into play to help keep newer players from being targeted, or the Buddhist can be put into play to keep the more experienced players from dominating the discussion. Fabled will always be announced when they are in play, along with their effect upon gamestate. A breakdown of Fabled characters can be found below.
+
+**Angel:** Something bad might happen to whomever is most responsible for the death of a new player.
+**Buddhist:** Veteran players may not speak for the first six hours of the day phase.
+**Doomsayer:** If more than four players live, each living player may publicly invoke the Doomsayer once per game to cause a player of their own alignment to die.
+**Fiddler:** Once per game, at night, the Demon secretly chooses a player of an opposing alignment; All players then choose which of these two wins the game.
+**Hell’s Librarian:** Something bad might happen to whomever speaks when the Storyteller calls for silence.
+**Djinn:** The two specified characters cannot both be in play, however Evil knows which ones are. Or, the Djinn&#39;s special rule is in play instead, known as a &quot;jinx.&quot;
+The following Fabled character must be added before the game begins; please speak to the Storyteller if you wish to see it added.
+**Revolutionary:** Two neighboring players are known to be the same alignment. Once per game, one of them may register falsely.
+[/details]
+[details=&quot;Scum Info&quot;]
+
+On the first night of the game, when relatively few characters act, the evil characters will all be woken to learn who one another are. Evil players will not be allowed to communicate at night. The Demon will be told who all of their Minions are, and the Minions will know who the Demon is and who all of the other Minions are. However, the Minions and the Demon will not learn which specific characters any of their fellow evils are. The Demon will additionally be told three characters that are not in play, to serve as safe claims. They may claim any of these, none of these, or simply hand the claims off to Minions; however they think they will be best served.
+
+Note, however, that Monsta is part of this script. As such, resort to Monsta Jam for a refresher on what happens in this case. Additionally, if the Poppy Grower is in play, the Minions and Demons do not know whom their allies are until the Poppy Grower’s demise. Naturally, this can also lead to some strange situations where the current Demon and Minions are different players than when they started as when the info goes out. When the Poppy Grower dies, the team will learn of all players who are currently Demons and Minions, even if they didn’t start as such. Note that the Demon will still receive the three not-in-play characters in a Poppy Grower game, just not their allies.
+[/details]
+
+[details=&quot;Malfunctions&quot;]
+
+The primary source of interference with abilities in this game is the malfunction. A class that is malfunctioning is not told that they are malfunctioning; if the character is one that gathers information, then the information they receive that night is arbitrary (open-ended, Storyteller may resolve at their discretion), otherwise, the malfunctioning character’s ability simply does not have any effect.
+
+[/details]
+
+[details=&quot;Nominations and Voting&quot;]
+Once the discussion phase has ended, the Storyteller will formally announce the opening of the nomination phase. Players must be nominated before they may be voted on that day. Each player may only be nominated once per day, and each player may only nominate once per day.
+When a nomination is opened, the storyteller begins to track votes for that nomination. The players may precast votes, but the votes will lock in a clockhand format. Starting with the player below the nominee on the list, and working downwards, the votes will be locked if they are cast. As an example, take the following five players;
+&gt; Alex
+Brianna
+Cameron
+Derek
+Ellen
+
+Brianna is nominated. Cameron’s vote will be locked as soon as he places it, because he is the first person below Brianna on the list. Derek may cast his vote before Cameron, and may alter his vote if Cameron has not yet voted, but once Cameron has voted and had his vote locked, Derek’s vote will be the next to lock, and if it is placed when Cameron’s vote locks, then Derek’s vote will lock as the vote cast by Derek at that time.
+Any votes that are not cast by EoD will be considered votes to pardon. If the count of votes to execute is more than half of the number of living players (not half+1, that&#39;s an important distinction), and is the highest count of votes against any player that day, the accused will be considered “about to die”. At the end of the day or when all votes on all nominations have been cast, the player who is “about to die” will be executed. If there is a tie between two or more players for the highest count of votes, the day will end with no execution. The Storyteller may only declare an early end to voting if it is no longer possible to tie or exceed the highest nomination.
+
+[/details]
+[details=&quot;Whispers&quot;]
+
+Players may whisper each other in-game through private messages. Whispers must, however, be publicly announced, typically by requesting permission to whisper (a standard format is /whisper [Player]). Whispers to your neighbors (those seated next to you) do not have to be announced. Once a whisper has been declared and accepted, the two players may whisper via private message until one of them speaks publicly in the game chat, at which point the whisper is considered over and the players must declare whispers again if they wish to whisper.
+
+[/details]
+
+[details=&quot;Death&quot;]
+
+When a player dies, nothing is revealed about their character and they are allowed to stay in the game and speak. They may not nominate and they will have only one vote token (this will allow them to cast a vote to execute) for the entire game. Evil players who die may thus continue to help their allies by keeping up their claim and spreading misinformation, and good players may similarly help their allies by retaining relevant info that others may have forgotten in the heat of the game. Once a player dies, their ability stops working, which means that a player killed before they would perform their ability will not perform their ability, and any ability with a persistent effect will end upon the player’s death.
+
+[/details]
+
+[details=&quot;Victory&quot;]
+
+Good wins by eliminating all Demons (Minions do not necessarily need to die for Good to win, but eliminating Minions can be helpful). Evil wins by reducing the game to two living players (irrespective of either player’s alignment). The Storyteller may also declare a victory for Evil if Good may no longer possibly win (for example, if only evil players are left alive and thus no one would nominate the Demon). Certain class abilities may present alternate routes to victory; these classes, if able to appear, will be made known on the class list. In the event of a tie (both teams would win simultaneously), Good wins.
+
+[/details]
+
+
+[details=&quot;Jinxes&quot;]
+With this specific set of characters, comes... 5 jinxes. Yes, 5 of them. Pay attention, because they change how certain characters might work.
+
+Marionette + Lil&#39; Monsta - Marionette neighbors a Minion instead of the Demon. They do not wake with the other Minions to choose the babysitter.
+Marionette + Poppy Grower - the Demon learns who the Marionette is after the Poppy Grower&#39;s death, but the Marionette knows nothing.
+Lil&#39; Monsta + Poppy Grower - Minions do not wake together, but instead will be asked each day, individually if they want to babysit Monsta. The first one who accepts gets Monsta.
+Lil&#39; Monsta + Scarlet Woman - If the current babysitter dies, the Scarlet Woman immediately becomes the new babysitter.
+Scarlet Woman + Fang Gu - If the Fang Gu dies from choosing an Outsider, the Scarlet Woman will not become the new Fang Gu.
+[/details]
+
+The player list can be found below ;
+
+1. Intensify
+2. Oogway
+3. EliThePsycho 
+4. SkyRED
+5. PokemonKidRyan
+6. Gorta
+7. YouButWorse
+
+Backups 
+1.
+
+Spectators (informed unless you make that godawful joke):
+1. Marshal
+2. Jane
+3. Pidgeon
+4. Arete
+5. Tilgarial
+6. Dogze
+7. Corn</description>
+    
+    <lastBuildDate>Sat, 08 May 2021 08:01:29 +0000</lastBuildDate>
+    <category>Completed</category>
+    <atom:link href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</title>
+        <dc:creator><![CDATA[CRichard564]]></dc:creator>
+        <description><![CDATA[
+            <p>This is where I admit that I tunnelled on Oogway without realising their results were altered.</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1140">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1140</link>
+        <pubDate>Sat, 08 May 2021 08:01:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87741-1140</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741.rss">Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</title>
+        <dc:creator><![CDATA[GGhana]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Marshal" data-post="1138" data-topic="87741">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/marshal/40/37642_2.png" class="avatar"> Marshal:</div>
+<blockquote>
+<p>beta</p>
+</blockquote>
+</aside>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/0/d/0dc99bf2cd9bdcaf34df3e6e038e77155725a586.png" data-download-href="https://forum.throneoflies.com/uploads/default/0dc99bf2cd9bdcaf34df3e6e038e77155725a586" title="simp_token2"><img src="https://forum.throneoflies.com/uploads/default/optimized/3X/0/d/0dc99bf2cd9bdcaf34df3e6e038e77155725a586_2_500x500.png" alt="simp_token2" data-base62-sha1="1XY9thkuWxeN60zq0uY1jsqYUxE" width="500" height="500" srcset="https://forum.throneoflies.com/uploads/default/optimized/3X/0/d/0dc99bf2cd9bdcaf34df3e6e038e77155725a586_2_500x500.png, https://forum.throneoflies.com/uploads/default/original/3X/0/d/0dc99bf2cd9bdcaf34df3e6e038e77155725a586.png 1.5x, https://forum.throneoflies.com/uploads/default/original/3X/0/d/0dc99bf2cd9bdcaf34df3e6e038e77155725a586.png 2x" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/0/d/0dc99bf2cd9bdcaf34df3e6e038e77155725a586_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">simp_token2</span><span class="informations">590×590 293 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1139">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1139</link>
+        <pubDate>Fri, 07 May 2021 13:36:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87741-1139</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741.rss">Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</title>
+        <dc:creator><![CDATA[Marshal]]></dc:creator>
+        <description><![CDATA[
+            <p>ur just mad u didnt win u beta</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1138">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1138</link>
+        <pubDate>Fri, 07 May 2021 12:05:24 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87741-1138</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741.rss">Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</title>
+        <dc:creator><![CDATA[Arctic]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Marshal" data-post="1091" data-topic="87741" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/marshal/40/37642_2.png" class="avatar"> Marshal:</div>
+<blockquote>
+<p>did i win</p>
+</blockquote>
+</aside>
+<aside class="quote no-group" data-username="Chloe" data-post="1123" data-topic="87741" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/chloe/40/34801_2.png" class="avatar"> Chloe:</div>
+<blockquote>
+<p>did i win</p>
+</blockquote>
+</aside>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/c/0/c068621f958278896085e8337e8faa1206274a5e.png" data-download-href="https://forum.throneoflies.com/uploads/default/c068621f958278896085e8337e8faa1206274a5e" title="image"><img src="https://forum.throneoflies.com/uploads/default/optimized/3X/c/0/c068621f958278896085e8337e8faa1206274a5e_2_690x381.png" alt="image" data-base62-sha1="rs7juWTQXFXJXUxlz4KsMJg42Bw" width="690" height="381" srcset="https://forum.throneoflies.com/uploads/default/optimized/3X/c/0/c068621f958278896085e8337e8faa1206274a5e_2_690x381.png, https://forum.throneoflies.com/uploads/default/original/3X/c/0/c068621f958278896085e8337e8faa1206274a5e.png 1.5x, https://forum.throneoflies.com/uploads/default/original/3X/c/0/c068621f958278896085e8337e8faa1206274a5e.png 2x" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/c/0/c068621f958278896085e8337e8faa1206274a5e_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">800×442 414 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1137">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1137</link>
+        <pubDate>Fri, 07 May 2021 10:44:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87741-1137</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741.rss">Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</title>
+        <dc:creator><![CDATA[an_gorta_pratai]]></dc:creator>
+        <description><![CDATA[
+            <p>dangit, I legit got the starts confused</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1136">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1136</link>
+        <pubDate>Fri, 07 May 2021 09:07:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87741-1136</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741.rss">Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</title>
+        <dc:creator><![CDATA[EliThePsycho]]></dc:creator>
+        <description><![CDATA[
+            <p><em>Execute oogway, they said</em><br>
+<em>It’ll win us the game, they said</em></p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1135">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1135</link>
+        <pubDate>Fri, 07 May 2021 02:01:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87741-1135</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741.rss">Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</title>
+        <dc:creator><![CDATA[SkyRED]]></dc:creator>
+        <description><![CDATA[
+            <p>“Intensify is minion”</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1134">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1134</link>
+        <pubDate>Fri, 07 May 2021 01:51:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87741-1134</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741.rss">Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</title>
+        <dc:creator><![CDATA[Intensify]]></dc:creator>
+        <description><![CDATA[
+            <p>I was like:</p>
+<p>“Frick they don’t realize I’m mad”</p>
+<p>“Ok good Sky knows I’m mad now he should tell ever-“</p>
+<p>“Wtf is Sky doing”</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1133">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1133</link>
+        <pubDate>Fri, 07 May 2021 01:34:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87741-1133</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741.rss">Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</title>
+        <dc:creator><![CDATA[SkyRED]]></dc:creator>
+        <description><![CDATA[
+            <p>I didnt know you can say if someone is mad without penalty, so I accidentally caused confusion? but then the confusion actually turned out to be correct? btu then I didnt pursue the correctness</p>
+<p>oh my</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1132">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1132</link>
+        <pubDate>Fri, 07 May 2021 01:21:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87741-1132</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741.rss">Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</title>
+        <dc:creator><![CDATA[SkyRED]]></dc:creator>
+        <description><![CDATA[
+            <p>oh yeah no that was a lie, I just went along with the plan</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1131">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1131</link>
+        <pubDate>Fri, 07 May 2021 01:20:42 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87741-1131</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741.rss">Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</title>
+        <dc:creator><![CDATA[SkyRED]]></dc:creator>
+        <description><![CDATA[
+            <p>silly me, thinking im actually good at this game smh smh</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1130">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1130</link>
+        <pubDate>Fri, 07 May 2021 01:19:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87741-1130</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741.rss">Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</title>
+        <dc:creator><![CDATA[SkyRED]]></dc:creator>
+        <description><![CDATA[
+            <p>funnily enough, I actually thought about it. and I thought that the only way we lose this is if oogway is poisoner and intensify is imp</p>
+<p>cus I thought “even if intensify is poisoner, we win this game cus oogway is imp”</p>
+<p>haha silly me</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1129">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1129</link>
+        <pubDate>Fri, 07 May 2021 01:19:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87741-1129</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741.rss">Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</title>
+        <dc:creator><![CDATA[YoubutWorse]]></dc:creator>
+        <description><![CDATA[
+            <p>marshal you smell</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1128">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1128</link>
+        <pubDate>Fri, 07 May 2021 01:19:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87741-1128</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741.rss">Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</title>
+        <dc:creator><![CDATA[SkyRED]]></dc:creator>
+        <description><![CDATA[
+            <p>and the worst possible outcome has occured</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1127">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1127</link>
+        <pubDate>Fri, 07 May 2021 01:17:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87741-1127</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741.rss">Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</title>
+        <dc:creator><![CDATA[SkyRED]]></dc:creator>
+        <description><![CDATA[
+            <p>oh wait the game ended</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1126">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1126</link>
+        <pubDate>Fri, 07 May 2021 01:17:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87741-1126</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741.rss">Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</title>
+        <dc:creator><![CDATA[Oogway]]></dc:creator>
+        <description><![CDATA[
+            <p>bruh</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1125">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1125</link>
+        <pubDate>Fri, 07 May 2021 01:14:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87741-1125</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741.rss">Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</title>
+        <dc:creator><![CDATA[Intensify]]></dc:creator>
+        <description><![CDATA[
+            <p>Yes</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1124">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1124</link>
+        <pubDate>Fri, 07 May 2021 01:01:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87741-1124</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741.rss">Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</title>
+        <dc:creator><![CDATA[Chloe]]></dc:creator>
+        <description><![CDATA[
+            <p>did i win</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1123">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1123</link>
+        <pubDate>Fri, 07 May 2021 01:00:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87741-1123</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741.rss">Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p>Transportating</p>
+<p>Okay me</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1122">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1122</link>
+        <pubDate>Fri, 07 May 2021 01:00:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87741-1122</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741.rss">Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</title>
+        <dc:creator><![CDATA[CRichard564]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m hoping to be a traveller next time this is run.</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1121">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1121</link>
+        <pubDate>Fri, 07 May 2021 01:00:25 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87741-1121</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741.rss">Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p>Also transportating the game would be a pain :wowee:</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1120">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1120</link>
+        <pubDate>Fri, 07 May 2021 01:00:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87741-1120</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741.rss">Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</title>
+        <dc:creator><![CDATA[Intensify]]></dc:creator>
+        <description><![CDATA[
+            <p>If you bring blood on the clocktower to them, they’re gonna think you’re trying to summon lucifer or something with this board game when they hear the name of it.</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1119">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1119</link>
+        <pubDate>Fri, 07 May 2021 00:59:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87741-1119</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741.rss">Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p>But that requires me to make a grimoire</p>
+<p>Which would be a hassle</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1118">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1118</link>
+        <pubDate>Fri, 07 May 2021 00:59:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87741-1118</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741.rss">Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p>In theory once the next school year starts I can bring botc to the board game club</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1117">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1117</link>
+        <pubDate>Fri, 07 May 2021 00:58:54 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87741-1117</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741.rss">Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</title>
+        <dc:creator><![CDATA[EliThePsycho]]></dc:creator>
+        <description><![CDATA[
+            <p>I am planning on organizing a botc club disguised as a werewolf club next year</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1116">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741/1116</link>
+        <pubDate>Fri, 07 May 2021 00:54:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87741-1116</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-game-over-evil-wins/87741.rss">Blood on the Forums VII - Behind the Curtains - Game Over - Evil Wins</source>
+      </item>
+  </channel>
+</rss>

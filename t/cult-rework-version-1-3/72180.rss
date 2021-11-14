@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Cult Rework Version 1.3</title>
+    <link>https://forum.throneoflies.com/t/cult-rework-version-1-3/72180</link>
+    <description>[details=&quot;General Cult Changes&quot;]
+
+* There is now no limit on how many cult members there can be.  This might seem overpowered, however I reworked the cult&#39;s conversion mechanic, nerfed their killing, and encouraged sacrificing members.  This change is optional though if it would make the cult too strong.  
+
+* Vessel would replace the current cult leader(CL is a generic and unoriginal name).  
+
+* The current benefits for sacrificing a cult member should be removed(Current:  Gives the CL one charge of eradicate and each cultist one charge of their main ability).  Instead, the cult should receive a different effect depending on which class is sacrificed.  
+
+[/details]
+
+* What should the cult member limit be with these changes?
+
+[poll type=regular close=2018-09-07T21:00:00.000Z]
+* Unlimited
+* 4
+* Other(Post below)
+[/poll]
+
+[details=&quot;Positive Effects&quot;]
+
+* Brotherhood(Acolyte)
+
+* Blood Ward(Acolyte)
+
+* Clear Mind(Court Wizard)
+
+* Crimson Blood(Apostle) 
+
+* Crimson Charge(Acolyte)
+
+* Crimson Wrath(Invoker)
+
+* Defend(Knight)
+
+* Empower(Court Wizard)
+
+* Enrage(Invoker)
+
+* Frenzy(Enforcer)
+
+* Guards!(King)
+
+* Healing(Physician and Alchemist)
+
+* Inoculate(physician)
+
+* Protection(Enforcer)
+
+* Scout(sheriff)
+
+* Shield(Mercenary)
+
+* Crimson Shield(Acolyte)
+
+* Smite(paladin)
+
+* Stand Guard(Mercenary)
+
+* Wrath of Mithras(Cult Leader) 
+
+[/details]
+
+
+[details=&quot;Negative Effects&quot;]
+
+* Bewilder
+
+* Blood Barrier
+
+* Circle of Death
+
+* Crimson Curse
+
+* Crimson Ward
+
+* Deprive
+
+* Distract
+
+* Frame
+
+* Icy Touch 
+
+* Mental Blur
+
+* Mind Warp
+
+* Occupation
+
+* Redirection
+
+[/details]
+
+# [Color=Red]Vessel[/color]
+
+[details=&quot;Cult Special&quot;]
+Class type: Special
+
+* &gt;**Passive 1: Wrath of Mithras-** If you are killed by poison then you will prevent anyone from targeting the cult tonight.  
+
+* &gt; **Night ability 1: Initiate(Uses: Unlimited) -** Reveal your target&#39;s immunities.  If they are not conversion immune then you will mark them for conversion.  Select yourself to convert all marked players into the cult.  
+
+* &gt; **Night ability 2: Rupture(Uses: 3) -** kill your target.  If they are immune to death then you will cause them to bleed.  They will die in one night.  Can be healed.  Bleeding bypasses death immunity.  
+
+* &gt; **Day ability 1: Nightshade (Uses: 2)-** Poison target player.  They will die in 2 nights.  Can be healed.  Bypasses night immunity.
+
+* &gt; **Day Ability 2: Offering(Uses: Unlimited) -** Poison target faction member.  They will die tonight.  Can be healed.  Bypasses night immunity
+[/details]
+
+# [Color=Red]Ritualist[/color]
+
+[details=&quot;Cult Killing&quot;]
+
+* &gt; **Passive 1: Crimson Charge-** If you are killed by poison then you will give the cult one use of each limited ability.  
+
+* &gt; **Passive 2: Corax&#39;s armor -** Immune to death at night once.  
+  
+* &gt; **Night ability 1: Crimson Ward(Uses: 3) -** Prevent anyone but the cult from targeting target player.  
+
+* &gt; **Night ability 2: Blood Barrier (Uses: 2)-** Cause everyone visiting target player to bleed.  They will die the next night.  Can be healed.  Bypasses night immunity.
+
+* &gt; **Day Ability 1: Deprive(Uses: 2) -** If your target has any limited use abilities then remove one use of each.  You will be told how many uses you remove.  
+
+* &gt; **Day ability 2: Crimson Curse(Uses: 1)-** Your target may not receive any positive effects tonight.  If they have a persisting positive effect(ex: merc&#39;s shield) then you will cancel it.  
+ 
+[/details]
+
+# [Color=Red]Invoker[/color]
+
+[details=&quot;Cult Offensive&quot;]
+
+* &gt; **Passive 1: Fanatic-** Immune to redirection and occupation at night
+
+* &gt; **Passive 2: Crimson Wrath-** If you are killed by poison then you will guarantee that the cult is successful in their actions.  
+  
+* &gt; **Night ability 1: Strength of Mithras(Uses: 3) -** Occupy your target
+
+* &gt; **Night ability 2: Strings of Corax(Uses: 2)-** Redirect your first target to your second.  
+
+* &gt; **Day ability 1: Bewilder(Uses: 2)-** Disable your target&#39;s day abilities.  They will not be notified until they attempt to use an ability.  Still consumes a use(or souls).   
+
+* &gt; **Day Ability 2: Enrage(Uses: 1) -** Your abilities will bypass immunities tonight.  
+
+[/details]
+
+# [Color=Red]Seeker[/color]
+
+[details=&quot;Cult Investigative&quot;]
+
+* &gt; **Passive 1: Corax&#39;s sight-** If you are killed by poison then the cult may not receive incorrect feedback tonight.   
+
+* &gt; **Crimson Eyes-** You may not receive incorrect feedback.  
+  
+* &gt; **Night ability 1: Identify(Uses: 3) -** Determine your target&#39;s faction and class type.  
+
+* &gt; **Night ability 2: Gaze(Uses: 1)-** Reveal who your target visits and who visits them.  
+
+* &gt; **Day ability 1: Expose(Uses: 2)-** Reveal the next player to use a day ability
+
+* &gt; **Day Ability 2: Foreshadow(Uses: 1) -** Determine the next player to be affected by a day a ability.
+
+[/details]
+
+# [Color=Red]Acolyte [/color]
+
+[details=&quot;Cult Support&quot;]
+
+* &gt; **Passive 1: Crimson Shield -** If you are killed by poison then the cult will be immune to death tonight.  
+
+* &gt; **Night ability 1: Tornado(Uses: 3) -** Same as CW&#39;s
+
+* &gt; **Night ability 2: Brotherhood(Uses: 2)-** Prevent anyone from targeting target cultist.  
+
+* &gt; **Day ability 1: Corax&#39;s Guidance(Uses: 2)-** Choose a cultist and a cult class.  They will become that class at the beginning of the night.  Will only consume a use at the end of the day.  If you change the Vessel&#39;s class then the oldest cultist will become the new Vessel.  
+
+* &gt; **Day Ability 2: Blood Ward(Uses: 1) -** Cause the cult to become secretly immune to all negative effects tonight.  
+
+[/details]
+
+# **[color = Red]Apostle[/color]**
+
+[details=&quot;Notes&quot;]
+* Version A will require my [Mystic](https://forum.imperium42.com/t/mystic-and-illusionnist-rework-v1-3/71942) and [Noble](https://forum.imperium42.com/t/noble-and-aristocrat-rework-v3/71943/80) reworks to be added first or during the same patch.  
+
+* Version B requires no other changes to be added
+
+[/details]
+
+[details=&quot;Cult Social&quot;]
+
+[details=&quot;Version A&quot;]
+* &gt; **Passive 1:** Crimson Chant - Members of the cult may speak to each other in a separate chat during the day.  
+
+* &gt; **Passive 2:** Crimson Blood - During the election for the next king, votes for you will count twice.  If you are killed by poison then each cultist will gain this passive.  
+
+* &gt; **Night ability 1:** Mind Warp(Uses: 3) - Cause your target to receive incorrect feedback from their abilities.  Receive all of their night feedback(* &gt; **Night Ability 2:** Eavesdrop(Uses: 2) - Receive the content of all public whispers tomorrow.  
+
+* &gt; **Day ability 1:** Voice of Corax(Uses: 1)  - Cause your target&#39;s messages, whispers, and accusations of treason to become anonymous for the rest of the day They will appear as &quot;Telepathy&quot; to the court. 
+
+* &gt; **Day ability 2:** Mental Blur(Uses: 2) - Erase your target&#39;s chat history.  You will gain a copy of it
+[/details]
+
+[details=&quot;Version B&quot;]
+* &gt; **Passive 1:** Crimson Chant - Members of the cult may speak to each other in a separate chat during the day.  
+
+* &gt; **Passive 2:** Crimson Blood - During the election for the next king, votes for you will count twice.  If you are killed by poison then each cultist will gain this passive.  
+
+* &gt; **Night ability 1:** Mind Warp(Uses: 3) - Cause your target to receive incorrect feedback from their abilities.  Receive all of their night feedback.
+
+* &gt; **Night Ability 2:** Eavesdrop(Uses: 2) - Receive the content of all public whispers tomorrow.  
+
+* &gt; **Day ability 1:** Voice of Corax(Uses: 1)  - Your next message will be anonymous.  You will appear as telepathy to the court  
+
+* &gt; **Day ability 2:** Political Pressure(Uses: 2) - Force your first target to accuse your second target of treason.  Prevent your first target from accusing and voting further for the rest of the day.  
+[/details]
+
+[/details]
+
+[details=&quot;Changelog&quot;]
+
+[details=&quot;Version 1.1&quot;]
+
+* Created a changelog
+
+*Split apostle into 2 versions: One that requires my Noble and Mystic reworks to be added first and one that doesn&#39;t
+
+[/details]
+
+[details=&quot;Version 1.2&quot;]
+
+* Swapped the uses of Crimson Curse and Deprive
+
+* Deprive now tells you how many uses you remove
+
+* Swapped the sacrifice effects of Ritualist and Acolyte 
+
+* Fixed formatting on apostle
+[/details]
+
+
+[/details]</description>
+    
+    <lastBuildDate>Fri, 07 Sep 2018 19:17:48 +0000</lastBuildDate>
+    <category>Feedback/Suggestions</category>
+    <atom:link href="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Cult Rework Version 1.3</title>
+        <dc:creator><![CDATA[RHCube]]></dc:creator>
+        <description><![CDATA[
+            <p>Alright, but I will see what other people say first.  I just created a new thread with a lot of changes</p>
+          <p><a href="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/74">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/74</link>
+        <pubDate>Fri, 07 Sep 2018 19:17:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72180-74</guid>
+        <source url="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180.rss">Cult Rework Version 1.3</source>
+      </item>
+      <item>
+        <title>Cult Rework Version 1.3</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah but you can use an Obs check combined with information from an Apostle Eavesdrop to get all of that information without extra help.</p>
+<p>There is a reason you don’t see Apostles getting outed because of Gossip very often</p>
+          <p><a href="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/73">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/73</link>
+        <pubDate>Fri, 07 Sep 2018 19:06:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72180-73</guid>
+        <source url="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180.rss">Cult Rework Version 1.3</source>
+      </item>
+      <item>
+        <title>Cult Rework Version 1.3</title>
+        <dc:creator><![CDATA[RHCube]]></dc:creator>
+        <description><![CDATA[
+            <p>Because apostle already has 2 night abilities and 2 day abilities.</p>
+          <p><a href="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/72">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/72</link>
+        <pubDate>Fri, 07 Sep 2018 19:04:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72180-72</guid>
+        <source url="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180.rss">Cult Rework Version 1.3</source>
+      </item>
+      <item>
+        <title>Cult Rework Version 1.3</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="RHCube" data-post="70" data-topic="72180">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/ritualist-icon-256.jpg" class="avatar"> RHCube:</div>
+<blockquote>
+<p>I made it like this so an apostle could fake using gossip(Though I’m not sure if it should be like this or be changed to “And receive the feedback of all abilities used on your target”). And I gave it tracker to make up for the fact that they can’t see who their target visits.</p>
+</blockquote>
+</aside>
+<p>Ok but why is it on Seeker then?</p>
+          <p><a href="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/71">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/71</link>
+        <pubDate>Fri, 07 Sep 2018 19:04:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72180-71</guid>
+        <source url="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180.rss">Cult Rework Version 1.3</source>
+      </item>
+      <item>
+        <title>Cult Rework Version 1.3</title>
+        <dc:creator><![CDATA[RHCube]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="NuclearBurrito" data-post="69" data-topic="72180">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/nuclearburrito/40/4723_2.png" class="avatar"> NuclearBurrito:</div>
+<blockquote>
+<p>I feel like this should just be a 2 use Obs follow</p>
+</blockquote>
+</aside>
+<p>I made it like this so an apostle could fake using gossip(Though I’m not sure if it should be like this or be changed to “And receive the feedback of all abilities used on your target”).  And I gave it tracker to make up for the fact that they can’t see who their target visits.</p>
+          <p><a href="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/70">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/70</link>
+        <pubDate>Fri, 07 Sep 2018 19:03:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72180-70</guid>
+        <source url="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180.rss">Cult Rework Version 1.3</source>
+      </item>
+      <item>
+        <title>Cult Rework Version 1.3</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh that makes sense.</p>
+<aside class="quote no-group" data-username="RHCube" data-post="66" data-topic="72180">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/ritualist-icon-256.jpg" class="avatar"> RHCube:</div>
+<blockquote>
+<ul>
+<li>
+<blockquote>
+<p><strong>Night ability 2: Gaze(Uses: 2)-</strong> Discover who visits your target and reveal which classes visit your target. You will not be told who is what class.</p>
+</blockquote>
+</li>
+</ul>
+</blockquote>
+</aside>
+<p>I feel like this should just be a 2 use Obs follow</p>
+          <p><a href="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/69">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/69</link>
+        <pubDate>Fri, 07 Sep 2018 19:01:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72180-69</guid>
+        <source url="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180.rss">Cult Rework Version 1.3</source>
+      </item>
+      <item>
+        <title>Cult Rework Version 1.3</title>
+        <dc:creator><![CDATA[RHCube]]></dc:creator>
+        <description><![CDATA[
+            <p>That’s in case they receive more uses via crimson charge.  Or I could swap the uses of it and expose, but that might be overpowered.  Is it fine other than that?</p>
+          <p><a href="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/68">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/68</link>
+        <pubDate>Fri, 07 Sep 2018 19:01:25 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72180-68</guid>
+        <source url="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180.rss">Cult Rework Version 1.3</source>
+      </item>
+      <item>
+        <title>Cult Rework Version 1.3</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="RHCube" data-post="66" data-topic="72180">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/ritualist-icon-256.jpg" class="avatar"> RHCube:</div>
+<blockquote>
+<p>Players will remain targeted by this until you change targets.</p>
+</blockquote>
+</aside>
+<aside class="quote no-group" data-username="RHCube" data-post="66" data-topic="72180">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/ritualist-icon-256.jpg" class="avatar"> RHCube:</div>
+<blockquote>
+<p>Uses: 1</p>
+</blockquote>
+</aside>
+<p>Ummm</p>
+          <p><a href="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/67">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/67</link>
+        <pubDate>Fri, 07 Sep 2018 19:00:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72180-67</guid>
+        <source url="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180.rss">Cult Rework Version 1.3</source>
+      </item>
+      <item>
+        <title>Cult Rework Version 1.3</title>
+        <dc:creator><![CDATA[RHCube]]></dc:creator>
+        <description><![CDATA[
+            <p>Alright.  And would this be fine for seeker:</p>
+<h1><font color="Red">Seeker</font></h1>
+<ul>
+<li>
+<p>Cult Investigative</p>
+</li>
+<li>
+<blockquote>
+<p><strong>Passive 1: Corax’s sight-</strong>  If you are killed by poison then the Cult will learn the exact class of any players you have visited</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p><strong>Night ability 1: Identify(Uses: 3) -</strong> Determine your target’s faction and class type.</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p><strong>Night ability 2: Gaze(Uses: 2)-</strong> Discover who visits your target and reveal which classes visit your target.  You will not be told who is what class.</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p><strong>Day ability 1: Expose(Uses: 2)-</strong> Reveal the next player to use a day ability</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p>**Day Ability 2: Crimson Tracker(Uses: 1)- ** Place a tracker on your target.  Receive all of their night feedback.  Players will remain targeted by this until you change targets.</p>
+</blockquote>
+</li>
+</ul>
+          <p><a href="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/66">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/66</link>
+        <pubDate>Fri, 07 Sep 2018 18:59:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72180-66</guid>
+        <source url="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180.rss">Cult Rework Version 1.3</source>
+      </item>
+      <item>
+        <title>Cult Rework Version 1.3</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>that’s an arbitrary decision</p>
+          <p><a href="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/65">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/65</link>
+        <pubDate>Fri, 07 Sep 2018 18:52:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72180-65</guid>
+        <source url="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180.rss">Cult Rework Version 1.3</source>
+      </item>
+      <item>
+        <title>Cult Rework Version 1.3</title>
+        <dc:creator><![CDATA[RHCube]]></dc:creator>
+        <description><![CDATA[
+            <p>And shouldn’t conversion be separate from negative effects(like attacks)?</p>
+          <p><a href="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/64">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/64</link>
+        <pubDate>Fri, 07 Sep 2018 18:49:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72180-64</guid>
+        <source url="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180.rss">Cult Rework Version 1.3</source>
+      </item>
+      <item>
+        <title>Cult Rework Version 1.3</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="RHCube" data-post="62" data-topic="72180">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/ritualist-icon-256.jpg" class="avatar"> RHCube:</div>
+<blockquote>
+<p>Shouldn’t tailors be positive since they hide players from investigations? And frames negative?</p>
+</blockquote>
+</aside>
+<p>Oh yea. Tailors are technically anything that makes a class appear as another class to investigators. Should probably have put making favorable results down as separate from making sus results</p>
+          <p><a href="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/63">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/63</link>
+        <pubDate>Fri, 07 Sep 2018 18:47:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72180-63</guid>
+        <source url="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180.rss">Cult Rework Version 1.3</source>
+      </item>
+      <item>
+        <title>Cult Rework Version 1.3</title>
+        <dc:creator><![CDATA[RHCube]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="NuclearBurrito" data-post="53" data-topic="72180">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/nuclearburrito/40/4723_2.png" class="avatar"> NuclearBurrito:</div>
+<blockquote>
+<p>Tailoring</p>
+</blockquote>
+</aside>
+<p>Shouldn’t tailors be positive since they hide players from investigations?  And frames negative?</p>
+          <p><a href="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/62">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/62</link>
+        <pubDate>Fri, 07 Sep 2018 18:44:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72180-62</guid>
+        <source url="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180.rss">Cult Rework Version 1.3</source>
+      </item>
+      <item>
+        <title>Cult Rework Version 1.3</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah that’s a bad habit. Give them ability’s when they need it. Don’t just do it for the sake of it</p>
+          <p><a href="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/61">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/61</link>
+        <pubDate>Fri, 07 Sep 2018 18:40:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72180-61</guid>
+        <source url="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180.rss">Cult Rework Version 1.3</source>
+      </item>
+      <item>
+        <title>Cult Rework Version 1.3</title>
+        <dc:creator><![CDATA[RHCube]]></dc:creator>
+        <description><![CDATA[
+            <p>He doesn’t need one, but I like maxing out abilities.</p>
+          <p><a href="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/60">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/60</link>
+        <pubDate>Fri, 07 Sep 2018 18:39:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72180-60</guid>
+        <source url="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180.rss">Cult Rework Version 1.3</source>
+      </item>
+      <item>
+        <title>Cult Rework Version 1.3</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>He needs a second passive?</p>
+          <p><a href="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/59">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/59</link>
+        <pubDate>Fri, 07 Sep 2018 18:37:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72180-59</guid>
+        <source url="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180.rss">Cult Rework Version 1.3</source>
+      </item>
+      <item>
+        <title>Cult Rework Version 1.3</title>
+        <dc:creator><![CDATA[RHCube]]></dc:creator>
+        <description><![CDATA[
+            <p>Alright.  And what should Seeker’s second passive be changed to?</p>
+          <p><a href="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/58">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/58</link>
+        <pubDate>Fri, 07 Sep 2018 18:37:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72180-58</guid>
+        <source url="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180.rss">Cult Rework Version 1.3</source>
+      </item>
+      <item>
+        <title>Cult Rework Version 1.3</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="RHCube" data-post="55" data-topic="72180">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/ritualist-icon-256.jpg" class="avatar"> RHCube:</div>
+<blockquote>
+<p>Target prevention is both positive and negative since it can prevent positive and negative abilities.</p>
+</blockquote>
+</aside>
+<p>Target prevention is always negative. The effect is on the one being prevented</p>
+          <p><a href="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/57">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/57</link>
+        <pubDate>Fri, 07 Sep 2018 18:35:42 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72180-57</guid>
+        <source url="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180.rss">Cult Rework Version 1.3</source>
+      </item>
+      <item>
+        <title>Cult Rework Version 1.3</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="RHCube" data-post="54" data-topic="72180">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/ritualist-icon-256.jpg" class="avatar"> RHCube:</div>
+<blockquote>
+<p>And do you have any ideas for seeker’s passives?</p>
+</blockquote>
+</aside>
+<blockquote>
+<ul>
+<li>
+<blockquote>
+<p><strong>Passive 1: Corax’s sight-</strong>  If you are killed by poison then the Cult will learn the exact class of any players you have visited</p>
+</blockquote>
+</li>
+</ul>
+</blockquote>
+          <p><a href="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/56">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/56</link>
+        <pubDate>Fri, 07 Sep 2018 18:35:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72180-56</guid>
+        <source url="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180.rss">Cult Rework Version 1.3</source>
+      </item>
+      <item>
+        <title>Cult Rework Version 1.3</title>
+        <dc:creator><![CDATA[RHCube]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="NuclearBurrito" data-post="53" data-topic="72180">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/nuclearburrito/40/4723_2.png" class="avatar"> NuclearBurrito:</div>
+<blockquote>
+<p>Target Prevention</p>
+</blockquote>
+</aside>
+<p>Target prevention is both positive and negative since it can prevent positive and negative abilities.</p>
+          <p><a href="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/55">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/55</link>
+        <pubDate>Fri, 07 Sep 2018 18:35:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72180-55</guid>
+        <source url="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180.rss">Cult Rework Version 1.3</source>
+      </item>
+      <item>
+        <title>Cult Rework Version 1.3</title>
+        <dc:creator><![CDATA[RHCube]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks, I’m going to be creating a separate thread since there are a lot of changes.  Do you have any ideas on what I should replace Crimson Ward(Ritualist) with?  The only thing I can think of is this:  Scare(Uses: 3) - Disable your target’s passives.  Lasts until the end of the next night.  They will not be notified.  You will be told if you remove Royal Blood.</p>
+<p>And what should seeker’s passives be changed to?  Those were the only things that I could think of that fit with an investigative class.</p>
+          <p><a href="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/54">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/54</link>
+        <pubDate>Fri, 07 Sep 2018 18:32:54 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72180-54</guid>
+        <source url="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180.rss">Cult Rework Version 1.3</source>
+      </item>
+      <item>
+        <title>Cult Rework Version 1.3</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="RHCube" data-post="51" data-topic="72180">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/ritualist-icon-256.jpg" class="avatar"> RHCube:</div>
+<blockquote>
+<p>Then can you give me a list of the effects?</p>
+</blockquote>
+</aside>
+<p>Positive:<br>
+Healing<br>
+Attack Prevention (Distinct from Target prevention. Knight Guard and Merc do this)<br>
+Death Immunity<br>
+Conversion Immunity<br>
+Empower (Which also counts the Invoker Enrage, Acolyte Blood ward and Reaper Gather Darkness in addition to CW empower)</p>
+<p>Negative:<br>
+Occupy<br>
+Redirect<br>
+Conversion<br>
+Target Prevention<br>
+Tailoring<br>
+Mind Warp<br>
+Bewilder (Also includes silence)</p>
+          <p><a href="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/53">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/53</link>
+        <pubDate>Fri, 07 Sep 2018 18:30:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72180-53</guid>
+        <source url="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180.rss">Cult Rework Version 1.3</source>
+      </item>
+      <item>
+        <title>Cult Rework Version 1.3</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="RHCube" data-post="51" data-topic="72180">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/ritualist-icon-256.jpg" class="avatar"> RHCube:</div>
+<blockquote>
+<ul>
+<li>Would the cult member limit be fine at 5?</li>
+</ul>
+</blockquote>
+</aside>
+<p>Yea</p>
+<aside class="quote no-group" data-username="RHCube" data-post="51" data-topic="72180">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/ritualist-icon-256.jpg" class="avatar"> RHCube:</div>
+<blockquote>
+<ul>
+<li>Should Seeker’s sacrifice effect and secondary passive be changed?</li>
+</ul>
+</blockquote>
+</aside>
+<p>Yes</p>
+<aside class="quote no-group" data-username="RHCube" data-post="51" data-topic="72180">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/ritualist-icon-256.jpg" class="avatar"> RHCube:</div>
+<blockquote>
+<ul>
+<li>Should I rework/replace Crimson War on Ritualist(Acolyte already has a visit prevention ability)</li>
+</ul>
+</blockquote>
+</aside>
+<p>Yup</p>
+          <p><a href="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/52">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/52</link>
+        <pubDate>Fri, 07 Sep 2018 18:23:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72180-52</guid>
+        <source url="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180.rss">Cult Rework Version 1.3</source>
+      </item>
+      <item>
+        <title>Cult Rework Version 1.3</title>
+        <dc:creator><![CDATA[RHCube]]></dc:creator>
+        <description><![CDATA[
+            <p>Then can you give me a list of the effects?</p>
+<p>Also, a few other questions:</p>
+<ul>
+<li>
+<p>Would the cult member limit be fine at 5?</p>
+</li>
+<li>
+<p>Should Seeker’s sacrifice effect and secondary passive be changed?</p>
+</li>
+<li>
+<p>Should I rework/replace Crimson War on Ritualist(Acolyte already has a visit prevention ability)</p>
+</li>
+</ul>
+          <p><a href="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/51">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/51</link>
+        <pubDate>Fri, 07 Sep 2018 18:21:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72180-51</guid>
+        <source url="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180.rss">Cult Rework Version 1.3</source>
+      </item>
+      <item>
+        <title>Cult Rework Version 1.3</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Ability != Effect</p>
+          <p><a href="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/50">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cult-rework-version-1-3/72180/50</link>
+        <pubDate>Fri, 07 Sep 2018 18:18:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72180-50</guid>
+        <source url="https://forum.throneoflies.com/t/cult-rework-version-1-3/72180.rss">Cult Rework Version 1.3</source>
+      </item>
+  </channel>
+</rss>

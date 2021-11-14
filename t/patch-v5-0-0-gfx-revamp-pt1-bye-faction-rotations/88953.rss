@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Patch v5.0.0: Gfx Revamp (pt1) + Bye Faction Rotations</title>
+    <link>https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953</link>
+    <description>## Major Gfx Revamp (Part 1)
+
+**Early Access:** This is essentially a live beta test of our graphics revamp (part 1), that we&#39;re happy to share! 
+
+Mystic New (GIF):
+
+https://cdn.discordapp.com/attachments/580380189079502868/879307181999128626/mystic-anim.gif
+
+Mystic Old:
+
+https://cdn.discordapp.com/attachments/580380189079502868/879307206149943316/unknown.png
+
+King New:
+
+https://cdn.discordapp.com/attachments/580380189079502868/879621181559414784/unknown.png
+
+King Old:
+
+https://cdn.discordapp.com/attachments/580380189079502868/879621198592479252/unknown.png
+
+**Part 1, Live Now:**
+
+- Ground-up lighting/shading/particle revamps for every day/night/death room.
+- Added shadows, god rays and environmental dust.
+- Darker environment, but brighter focus points with better color differences.
+- Added some environmental texture upgrades.
+- HDR support.
+- Optimization - Should still have decent FPS!
+- **@ Veterans:** If you have the &lt;Veteran&gt; tag with the crystal *flair*, you got a visual upgrade:
+[https://cdn.discordapp.com/attachments/580380189079502868/879316269315276810/ezgif.com-gif-maker_1.gif](https://cdn.discordapp.com/attachments/580380189079502868/879316269315276810/ezgif.com-gif-maker_1.gif)
+* Known bugs to be hotfixed:
+  * Some areas have Bloom intensity too high, like Sellsword/Merc room.
+  * Some areas are too dark (or the character is too dark).
+  * Part 1 has &quot;dev tweaks&quot;. Part 2 will have &quot;*actual artist*&quot; tweaks.
+
+**Part 2+, Roadmap:**
+
+1. Lighting is actually *too* dark right now: We will tweak this.
+2. Camera angle improvements.
+3. More textures (armor + weapons). 
+4. Reflective surfaces (armor/weapons/windows).
+5. Additional prop varieties (like furniture).
+6. Potential fixes for previously-disabled weapons+executions.
+7. Better idle/sitting animations.
+8. Significant optimization boost (baked lights).
+
+_______
+
+## Faction Rotations GONE!
+
+We&#39;re back to *classic mode*, for now! 🎉 
+
+https://cdn.discordapp.com/attachments/643778163402342420/879662484091441162/classicmodereturns.gif
+
+In the future, we&#39;ll likely add optional rotation modes to *100% private* games, **if you really feel like an Unseen or Cult game, specifically.
+
+_______
+
+## Major Fixes
+
+1. Fixed crash when typing `&lt;` or `&gt;` in chat.
+2. Fixed some `&lt;styles&gt;` being revealed during select class card hovers.
+3. Fixed buggy text selection (when trying to copy text from chat) - it should now work similarly to a text editor, where you can drag to select / double click to highlight the word / triple click to highlight the entire sentence.
+4. Potentially fixed quest progression bug for executing players.
+
+**These are early access fixes, at least working in Unity — let us know if it worked for you!*
+
+## Minor Improvements
+
+1. Fixed some class card consistency issues, like with Marshal/Seeker&#39;s *Expose*.
+2. Seems like *Voidstone of Corax* execution was missing an entire particle layer - fixed.
+3. Fixed stacking text: The moment the player dies in an execution, we&#39;ll hide the name above their head (so both players&#39; names don&#39;t jarble together).
+4. Death reveals no longer **bold** the name of Neutral classes.
+5. Tutorial night ability description has returned.
+6. Made the names above your head prettier.
+
+________________
+
+## Hotfixes
+
+This had some MAJOR changes, both front and backend -- here come the hotfixes (thanks for the awesome bug reports :clap: )!
+
+## [color=red]Hotfix v5.0.0a[/color]
+
+[Patch Notes](https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/5?u=í42-xblade)
+
+## [color=red]Hotfix v5.0.0b[/color]
+
+[Patch Notes](https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/5?u=í42-xblade)
+
+## [color=red]Hotfix v5.0.1[/color]
+
+[Patch Notes](https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/7?u=í42-xblade)
+
+## [color=red]v5.0.1a[/color]
+
+[Patch Notes](https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/5?u=í42-xblade)
+
+## [color=red]v5.0.1b[/color]
+
+[Patch Notes](https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/11?u=í42-xblade)
+
+___
+
+—Xblade @ [https://discord.gg/tol](https://discord.gg/tol)</description>
+    
+    <lastBuildDate>Tue, 07 Sep 2021 06:05:11 +0000</lastBuildDate>
+    <category>Official Announcements</category>
+    <atom:link href="https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Patch v5.0.0: Gfx Revamp (pt1) + Bye Faction Rotations</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>Added to OP:</p>
+<h2>
+<a name="colorredv501acolor-1" class="anchor" href="#colorredv501acolor-1"></a><font color="red">v5.0.1a</font>
+</h2>
+<ul>
+<li>Fixed Prince + King bugs</li>
+<li>Fixed room bugs</li>
+<li>Fixed several FPS issues</li>
+<li>Small anti-spam upgrades in pre-game chat</li>
+</ul>
+<h2>
+<a name="colorredv501bcolor-2" class="anchor" href="#colorredv501bcolor-2"></a><font color="red">v5.0.1b</font>
+</h2>
+<ul>
+<li>Elected King room fixes</li>
+<li>
+<em>Present Drop</em> exec fixes</li>
+<li>Significantly-slower Chrono room for the movement-sickness players.</li>
+</ul>
+          <p><a href="https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/11</link>
+        <pubDate>Tue, 07 Sep 2021 06:05:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88953-11</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953.rss">Patch v5.0.0: Gfx Revamp (pt1) + Bye Faction Rotations</source>
+      </item>
+      <item>
+        <title>Patch v5.0.0: Gfx Revamp (pt1) + Bye Faction Rotations</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Planterror" data-post="8" data-topic="88953" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/planterror/40/9678_2.png" class="avatar"> Planterror:</div>
+<blockquote>
+<p>how did it take 5 months to finally revert a change nobody liked</p>
+</blockquote>
+</aside>
+<p>This particular decision was out of my control, unfortunately~ Perhaps it would’ve been decent if we had more new players for this to benefit; or swapped [bi]hourly (so new players could prep for the encounter, where hourly doesn’t make things stale).</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/10</link>
+        <pubDate>Sun, 05 Sep 2021 00:18:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88953-10</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953.rss">Patch v5.0.0: Gfx Revamp (pt1) + Bye Faction Rotations</source>
+      </item>
+      <item>
+        <title>Patch v5.0.0: Gfx Revamp (pt1) + Bye Faction Rotations</title>
+        <dc:creator><![CDATA[Zubumafu]]></dc:creator>
+        <description><![CDATA[
+            <p>This looks absolutely amazing!</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/9</link>
+        <pubDate>Sat, 04 Sep 2021 14:59:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88953-9</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953.rss">Patch v5.0.0: Gfx Revamp (pt1) + Bye Faction Rotations</source>
+      </item>
+      <item>
+        <title>Patch v5.0.0: Gfx Revamp (pt1) + Bye Faction Rotations</title>
+        <dc:creator><![CDATA[Planterror]]></dc:creator>
+        <description><![CDATA[
+            <p>how did it take 5 months to finally revert a change nobody liked</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/8</link>
+        <pubDate>Wed, 01 Sep 2021 21:42:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88953-8</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953.rss">Patch v5.0.0: Gfx Revamp (pt1) + Bye Faction Rotations</source>
+      </item>
+      <item>
+        <title>Patch v5.0.0: Gfx Revamp (pt1) + Bye Faction Rotations</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>Added to OP:</p>
+<h2>
+<a name="colorredhotfix-v501color-1" class="anchor" href="#colorredhotfix-v501color-1"></a><font color="red">Hotfix v5.0.1</font>
+</h2>
+<p>We’re out of early access! Things are looking stable.</p>
+<h2>
+<a name="major-bug-fixes-2" class="anchor" href="#major-bug-fixes-2"></a>Major Bug Fixes</h2>
+<ul>
+<li>Fixed a major desync bug.</li>
+<li>Sorcerer room fixed.</li>
+<li>“Send Selection” logbook bug fixes:
+<ul>
+<li>“Send Selection” is once again fixed to sending across multiple lines.</li>
+<li>
+<code>CTRL+A</code> now sets “Send Selection” text.</li>
+<li>Fixed “Send Selection” not setting when you partially highlight text.</li>
+</ul>
+</li>
+<li>Chat input text is more-legible and consistent with game chat.</li>
+<li>Quest Bug Fixes:
+<ul>
+<li>“Execute a Player” type quests may now progress.</li>
+<li>“Execute a Player” tier 2 now requires 2 executions instead of 1 (no longer the same goal as tier 1).</li>
+</ul>
+</li>
+<li>Fixed some armor desyncs.</li>
+<li>The floor is no longer swallowing players.</li>
+</ul>
+<h2>
+<a name="minor-fixes-3" class="anchor" href="#minor-fixes-3"></a>Minor Fixes</h2>
+<ul>
+<li>Fixed some light gaps in day scene walls/floors.</li>
+<li>Fixed tutorial/dev/backer sword missing textures.</li>
+<li>Fixed Abaddon Axe missing textures during execution.</li>
+<li>Fixed missing trident weapon textures.</li>
+<li>Fixed some minor issues with name selection chat button.</li>
+<li>Additional optimization between game over and end screen.</li>
+<li>Assassin class card tips now have clickable class links.</li>
+<li>Less-awkward top-right lobby spacing between “Learn” and “Code of Conduct”.</li>
+<li>Fixed some unsync’d Welcome Screen panels/buttons.</li>
+<li>Made Sellsword/Hunter room less “red”.</li>
+<li>Swapped out some more old torches with new style.</li>
+</ul>
+<p>—Xblade @ <a href="https://discord.gg/tol">https://discord.gg/tol</a></p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/7</link>
+        <pubDate>Wed, 01 Sep 2021 06:33:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88953-7</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953.rss">Patch v5.0.0: Gfx Revamp (pt1) + Bye Faction Rotations</source>
+      </item>
+      <item>
+        <title>Patch v5.0.0: Gfx Revamp (pt1) + Bye Faction Rotations</title>
+        <dc:creator><![CDATA[GGhana]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote group-Admin" data-username="í42-Xblade" data-post="5" data-topic="88953">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>Made Sheriff’s room less “orange”.</p>
+</blockquote>
+</aside>
+<p>appel?</p>
+<p>orangnblack?</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/6</link>
+        <pubDate>Fri, 27 Aug 2021 11:45:54 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88953-6</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953.rss">Patch v5.0.0: Gfx Revamp (pt1) + Bye Faction Rotations</source>
+      </item>
+      <item>
+        <title>Patch v5.0.0: Gfx Revamp (pt1) + Bye Faction Rotations</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <h2>
+<a name="colorredhotfix-v500acolor-1" class="anchor" href="#colorredhotfix-v500acolor-1"></a><font color="red">Hotfix v5.0.0a</font>
+</h2>
+<p>Thanks for testing our early access patch and reporting all the bugs! As promised, here’s a quick hotfix.</p>
+<h2>
+<a name="gameplay-fixes-2" class="anchor" href="#gameplay-fixes-2"></a>Gameplay Fixes</h2>
+<ul>
+<li>Fixed breaking issues when transitioning rooms.</li>
+<li>Fixed tutorial breaking timer freeze and missing Unseen room.</li>
+<li>Fixed FPS issues in graveyard, scorned room, a couple dead rooms and several others caused by inefficient fog and terrain.</li>
+</ul>
+<h2>
+<a name="visual-improvements-3" class="anchor" href="#visual-improvements-3"></a>Visual Improvements</h2>
+<ul>
+<li>Text is crisper with more clarity.</li>
+<li>Fixed several rooms having “overbloom” and misplaced dust particles.</li>
+<li>Swapped out <em>most</em> old pixelated torch particles with the new style (more later).</li>
+<li>Fixed bright graveyard (among other similar issues).</li>
+<li>Fixed one of the dead room’s awkward camera positions.</li>
+<li>Improved Sorc room’s lighting.</li>
+<li>Made Sheriff’s room less “orange”.</li>
+<li>Fixed some random ultra-glowing of select parchments (which gave the Unseen table “knife in parchment” a really cool shadowed-knife-glowing-hilt effect).</li>
+<li>Hunter and Merc/Sellsword walls got a mini texture upgrade (placeholder).</li>
+</ul>
+<h2>
+<a name="other-improvements-4" class="anchor" href="#other-improvements-4"></a>Other Improvements</h2>
+<ul>
+<li>Fixed new player lobby “Welcome Screen” text placement.</li>
+<li>Renamed lobby “Knowledgebase” tab to “Learn”</li>
+<li>Hovering over a lobby friend button has less text overlap and more clarity.</li>
+<li>Left lobby “Patch Notes banner” with link has returned.</li>
+</ul>
+<hr>
+<h2>
+<a name="colorredhotfix-v500bcolor-5" class="anchor" href="#colorredhotfix-v500bcolor-5"></a><font color="red">Hotfix v5.0.0b</font>
+</h2>
+<ul>
+<li>Fixed many things <img src="https://forum.throneoflies.com/images/emoji/twitter/wink.png?v=10" title=":wink:" class="emoji" alt=":wink:">
+</li>
+</ul>
+<hr>
+<h2>
+<a name="colorredhotfix-v501color-6" class="anchor" href="#colorredhotfix-v501color-6"></a><font color="red">Hotfix v5.0.1</font>
+</h2>
+<p>We’re out of early access! Things are looking stable.</p>
+<h2>
+<a name="major-bug-fixes-7" class="anchor" href="#major-bug-fixes-7"></a>Major Bug Fixes</h2>
+<ul>
+<li>Fixed a major desync bug that was also affecting text in strange ways.</li>
+<li>Sorcerer room fixed.</li>
+<li>“Send Selection” logbook bug fixes:
+<ul>
+<li>“Send Selection” is once again fixed to sending across multiple lines.</li>
+<li>
+<code>CTRL+A</code> now sets “Send Selection” text.</li>
+<li>Fixed “Send Selection” not setting when you partially highlight text.</li>
+</ul>
+</li>
+<li>Chat input text is more-legible and consistent with game chat.</li>
+<li>Quest Bug Fixes:
+<ul>
+<li>“Execute a Player” type quests may now progress.</li>
+<li>“Execute a Player” tier 2 now requires 2 executions instead of 1 (no longer the same goal as tier 1).</li>
+</ul>
+</li>
+<li>Fixed some armor desyncs.</li>
+<li>The floor is no longer swallowing players.</li>
+</ul>
+<h2>
+<a name="minor-fixes-8" class="anchor" href="#minor-fixes-8"></a>Minor Fixes</h2>
+<ul>
+<li>Fixed some light gaps in day scene walls/floors.</li>
+<li>Fixed tutorial/dev/backer sword missing textures.</li>
+<li>Fixed Abaddon Axe missing textures during execution.</li>
+<li>Fixed missing trident weapon textures.</li>
+<li>Fixed some minor issues with name selection chat button.</li>
+<li>Additional optimization between game over and end screen.</li>
+<li>Assassin class card tips now have clickable class links.</li>
+<li>Less-awkward top-right lobby spacing between “Learn” and “Code of Conduct”.</li>
+<li>Fixed some unsync’d Welcome Screen panels/buttons.</li>
+<li>Made Sellsword/Hunter room less “red”.</li>
+<li>Swapped out some more old torches with new style.</li>
+</ul>
+<p>—Xblade @ <a href="https://discord.gg/tol">https://discord.gg/tol</a></p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/5</link>
+        <pubDate>Thu, 26 Aug 2021 13:42:32 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88953-5</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953.rss">Patch v5.0.0: Gfx Revamp (pt1) + Bye Faction Rotations</source>
+      </item>
+      <item>
+        <title>Patch v5.0.0: Gfx Revamp (pt1) + Bye Faction Rotations</title>
+        <dc:creator><![CDATA[GGhana]]></dc:creator>
+        <description><![CDATA[
+            <p>game</p>
+<p>pwetty graphics</p>
+<p>ooo</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/4</link>
+        <pubDate>Wed, 25 Aug 2021 20:31:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88953-4</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953.rss">Patch v5.0.0: Gfx Revamp (pt1) + Bye Faction Rotations</source>
+      </item>
+      <item>
+        <title>Patch v5.0.0: Gfx Revamp (pt1) + Bye Faction Rotations</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>Bug</strong> : Tutorial may not progress past N1. We’ll hotfix this soon. Keep the feedback coming for non-tutorial games</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/b/7/b7dd970077b50daaae048e4abffbf5e1bcf365e7.jpeg" data-download-href="https://forum.throneoflies.com/uploads/default/b7dd970077b50daaae048e4abffbf5e1bcf365e7" title="image"><img src="https://forum.throneoflies.com/uploads/default/optimized/3X/b/7/b7dd970077b50daaae048e4abffbf5e1bcf365e7_2_620x500.jpeg" alt="image" data-base62-sha1="qey88aEYG1m4hE30bxdL0ZSkpg3" width="620" height="500" srcset="https://forum.throneoflies.com/uploads/default/optimized/3X/b/7/b7dd970077b50daaae048e4abffbf5e1bcf365e7_2_620x500.jpeg, https://forum.throneoflies.com/uploads/default/optimized/3X/b/7/b7dd970077b50daaae048e4abffbf5e1bcf365e7_2_930x750.jpeg 1.5x, https://forum.throneoflies.com/uploads/default/original/3X/b/7/b7dd970077b50daaae048e4abffbf5e1bcf365e7.jpeg 2x" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/b/7/b7dd970077b50daaae048e4abffbf5e1bcf365e7_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1185×955 65.5 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>There will be more bugs, for sure – please report them to Discord.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/3</link>
+        <pubDate>Tue, 24 Aug 2021 12:04:15 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88953-3</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953.rss">Patch v5.0.0: Gfx Revamp (pt1) + Bye Faction Rotations</source>
+      </item>
+      <item>
+        <title>Patch v5.0.0: Gfx Revamp (pt1) + Bye Faction Rotations</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>By popular request, here is the Merc/Sellsword room:</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/7/9/7994c0e8dbcd537760fb24adfaef82826dbd1a2f.jpeg" data-download-href="https://forum.throneoflies.com/uploads/default/7994c0e8dbcd537760fb24adfaef82826dbd1a2f" title="image"><img src="https://forum.throneoflies.com/uploads/default/optimized/3X/7/9/7994c0e8dbcd537760fb24adfaef82826dbd1a2f_2_690x384.jpeg" alt="image" data-base62-sha1="hlytzmEF1SISuNq4oFYVWsEWM9h" width="690" height="384" srcset="https://forum.throneoflies.com/uploads/default/optimized/3X/7/9/7994c0e8dbcd537760fb24adfaef82826dbd1a2f_2_690x384.jpeg, https://forum.throneoflies.com/uploads/default/optimized/3X/7/9/7994c0e8dbcd537760fb24adfaef82826dbd1a2f_2_1035x576.jpeg 1.5x, https://forum.throneoflies.com/uploads/default/optimized/3X/7/9/7994c0e8dbcd537760fb24adfaef82826dbd1a2f_2_1380x768.jpeg 2x" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/7/9/7994c0e8dbcd537760fb24adfaef82826dbd1a2f_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1627×907 58.6 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>(^ However, this has the “bloom fix” that will arrive next hotfix. The current one is over-bloomed)</p>
+<p>Old:</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/f/e/fe8d968335ac8cc1b4ee96eb55c20389510ac13b.jpeg" data-download-href="https://forum.throneoflies.com/uploads/default/fe8d968335ac8cc1b4ee96eb55c20389510ac13b" title="image"><img src="https://forum.throneoflies.com/uploads/default/optimized/3X/f/e/fe8d968335ac8cc1b4ee96eb55c20389510ac13b_2_690x388.jpeg" alt="image" data-base62-sha1="AjSCX0U3MkeHuhhZd9fIZCezK0X" width="690" height="388" srcset="https://forum.throneoflies.com/uploads/default/optimized/3X/f/e/fe8d968335ac8cc1b4ee96eb55c20389510ac13b_2_690x388.jpeg, https://forum.throneoflies.com/uploads/default/optimized/3X/f/e/fe8d968335ac8cc1b4ee96eb55c20389510ac13b_2_1035x582.jpeg 1.5x, https://forum.throneoflies.com/uploads/default/optimized/3X/f/e/fe8d968335ac8cc1b4ee96eb55c20389510ac13b_2_1380x776.jpeg 2x" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/f/e/fe8d968335ac8cc1b4ee96eb55c20389510ac13b_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1920×1080 152 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/2</link>
+        <pubDate>Tue, 24 Aug 2021 11:02:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88953-2</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953.rss">Patch v5.0.0: Gfx Revamp (pt1) + Bye Faction Rotations</source>
+      </item>
+      <item>
+        <title>Patch v5.0.0: Gfx Revamp (pt1) + Bye Faction Rotations</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <h2>
+<a name="major-gfx-revamp-part-1-1" class="anchor" href="#major-gfx-revamp-part-1-1"></a>Major Gfx Revamp (Part 1)</h2>
+<p><strong>Early Access:</strong> This is essentially a live beta test of our graphics revamp (part 1), that we’re happy to share!</p>
+<p>Mystic New (GIF):</p>
+<p>                    <a href="https://cdn.discordapp.com/attachments/580380189079502868/879307181999128626/mystic-anim.gif" target="_blank" rel="noopener" class="onebox">
+            <img src="https://cdn.discordapp.com/attachments/580380189079502868/879307181999128626/mystic-anim.gif" width="690" height="384">
+          </a>
+
+</p>
+<p>Mystic Old:</p>
+<p>                    <a href="https://cdn.discordapp.com/attachments/580380189079502868/879307206149943316/unknown.png" target="_blank" rel="noopener" class="onebox">
+            <img src="https://cdn.discordapp.com/attachments/580380189079502868/879307206149943316/unknown.png" width="690" height="384">
+          </a>
+
+</p>
+<p>King New:</p>
+<p>                    <a href="https://cdn.discordapp.com/attachments/580380189079502868/879621181559414784/unknown.png" target="_blank" rel="noopener" class="onebox">
+            <img src="https://cdn.discordapp.com/attachments/580380189079502868/879621181559414784/unknown.png" width="690" height="385">
+          </a>
+
+</p>
+<p>King Old:</p>
+<p>                    <a href="https://cdn.discordapp.com/attachments/580380189079502868/879621198592479252/unknown.png" target="_blank" rel="noopener" class="onebox">
+            <img src="https://cdn.discordapp.com/attachments/580380189079502868/879621198592479252/unknown.png" width="690" height="380">
+          </a>
+
+</p>
+<p><strong>Part 1, Live Now:</strong></p>
+<ul>
+<li>Ground-up lighting/shading/particle revamps for every day/night/death room.</li>
+<li>Added shadows, god rays and environmental dust.</li>
+<li>Darker environment, but brighter focus points with better color differences.</li>
+<li>Added some environmental texture upgrades.</li>
+<li>HDR support.</li>
+<li>Optimization - Should still have decent FPS!</li>
+<li>
+<strong>@ Veterans:</strong> If you have the  tag with the crystal <em>flair</em>, you got a visual upgrade:<br>
+<a href="https://cdn.discordapp.com/attachments/580380189079502868/879316269315276810/ezgif.com-gif-maker_1.gif">https://cdn.discordapp.com/attachments/580380189079502868/879316269315276810/ezgif.com-gif-maker_1.gif</a>
+</li>
+</ul>
+<ul>
+<li>Known bugs to be hotfixed:
+<ul>
+<li>Some areas have Bloom intensity too high, like Sellsword/Merc room.</li>
+<li>Some areas are too dark (or the character is too dark).</li>
+<li>Part 1 has “dev tweaks”. Part 2 will have “<em>actual artist</em>” tweaks.</li>
+</ul>
+</li>
+</ul>
+<p><strong>Part 2+, Roadmap:</strong></p>
+<ol>
+<li>Lighting is actually <em>too</em> dark right now: We will tweak this.</li>
+<li>Camera angle improvements.</li>
+<li>More textures (armor + weapons).</li>
+<li>Reflective surfaces (armor/weapons/windows).</li>
+<li>Additional prop varieties (like furniture).</li>
+<li>Potential fixes for previously-disabled weapons+executions.</li>
+<li>Better idle/sitting animations.</li>
+<li>Significant optimization boost (baked lights).</li>
+</ol>
+<hr>
+<h2>
+<a name="faction-rotations-gone-2" class="anchor" href="#faction-rotations-gone-2"></a>Faction Rotations GONE!</h2>
+<p>We’re back to <em>classic mode</em>, for now! <img src="https://forum.throneoflies.com/images/emoji/twitter/tada.png?v=10" title=":tada:" class="emoji" alt=":tada:"></p>
+<p>                    <a href="https://cdn.discordapp.com/attachments/643778163402342420/879662484091441162/classicmodereturns.gif" target="_blank" rel="noopener" class="onebox">
+            <img src="https://cdn.discordapp.com/attachments/643778163402342420/879662484091441162/classicmodereturns.gif" width="690" height="430">
+          </a>
+
+</p>
+<p>In the future, we’ll likely add optional rotation modes to <em>100% private</em> games, **if you really feel like an Unseen or Cult game, specifically.</p>
+<hr>
+<h2>
+<a name="major-fixes-3" class="anchor" href="#major-fixes-3"></a>Major Fixes</h2>
+<ol>
+<li>Fixed crash when typing <code>&lt;</code> or <code>&gt;</code> in chat.</li>
+<li>Fixed some <code>&lt;styles&gt;</code> being revealed during select class card hovers.</li>
+<li>Fixed buggy text selection (when trying to copy text from chat) - it should now work similarly to a text editor, where you can drag to select / double click to highlight the word / triple click to highlight the entire sentence.</li>
+<li>Potentially fixed quest progression bug for executing players.</li>
+</ol>
+<p>*<em>These are early access fixes, at least working in Unity — let us know if it worked for you!</em></p>
+<h2>
+<a name="minor-improvements-4" class="anchor" href="#minor-improvements-4"></a>Minor Improvements</h2>
+<ol>
+<li>Fixed some class card consistency issues, like with Marshal/Seeker’s <em>Expose</em>.</li>
+<li>Seems like <em>Voidstone of Corax</em> execution was missing an entire particle layer - fixed.</li>
+<li>Fixed stacking text: The moment the player dies in an execution, we’ll hide the name above their head (so both players’ names don’t jarble together).</li>
+<li>Death reveals no longer <strong>bold</strong> the name of Neutral classes.</li>
+<li>Tutorial night ability description has returned.</li>
+<li>Made the names above your head prettier.</li>
+</ol>
+<hr>
+<h2>
+<a name="hotfixes-5" class="anchor" href="#hotfixes-5"></a>Hotfixes</h2>
+<p>This had some MAJOR changes, both front and backend – here come the hotfixes (thanks for the awesome bug reports <img src="https://forum.throneoflies.com/images/emoji/twitter/clap.png?v=10" title=":clap:" class="emoji" alt=":clap:"> )!</p>
+<h2>
+<a name="colorredhotfix-v500acolor-6" class="anchor" href="#colorredhotfix-v500acolor-6"></a><font color="red">Hotfix v5.0.0a</font>
+</h2>
+<p><a href="https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/5">Patch Notes</a></p>
+<h2>
+<a name="colorredhotfix-v500bcolor-7" class="anchor" href="#colorredhotfix-v500bcolor-7"></a><font color="red">Hotfix v5.0.0b</font>
+</h2>
+<p><a href="https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/5">Patch Notes</a></p>
+<h2>
+<a name="colorredhotfix-v501color-8" class="anchor" href="#colorredhotfix-v501color-8"></a><font color="red">Hotfix v5.0.1</font>
+</h2>
+<p><a href="https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/7">Patch Notes</a></p>
+<h2>
+<a name="colorredv501acolor-9" class="anchor" href="#colorredv501acolor-9"></a><font color="red">v5.0.1a</font>
+</h2>
+<p><a href="https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/5">Patch Notes</a></p>
+<h2>
+<a name="colorredv501bcolor-10" class="anchor" href="#colorredv501bcolor-10"></a><font color="red">v5.0.1b</font>
+</h2>
+<p><a href="https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/11">Patch Notes</a></p>
+<hr>
+<p>—Xblade @ <a href="https://discord.gg/tol">https://discord.gg/tol</a></p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953/1</link>
+        <pubDate>Tue, 24 Aug 2021 09:47:15 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88953-1</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v5-0-0-gfx-revamp-pt1-bye-faction-rotations/88953.rss">Patch v5.0.0: Gfx Revamp (pt1) + Bye Faction Rotations</source>
+      </item>
+  </channel>
+</rss>

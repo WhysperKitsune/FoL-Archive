@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Blood on the Forums VI: Monsta Jam - Signups (11/15)</title>
+    <link>https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198</link>
+    <description>&quot;The streets of Ravenswood Bluff are lively in anticipation of the upcoming Celebration. Penance Day, when the citizens of town paid tribute to those who have fallen in the... damn, there have been *that many* demonic invasions? Nonetheless, this is a time for celebration... So I suppose no one&#39;s terribly happy to see me again.&quot; 
+
+Tangeld chuckled to herself. &quot;But I&#39;m a fixture in this town. Whenever trouble comes, I&#39;m there too. And this Penance Day... will be something to remember.&quot;
+
+Welcome, once again, to Blood on the Forums, hosted by myself and @Amelia! I know, how generous of me to be teaching newbies to storytell... Anyhow, this one&#39;s a real treat; a script cooked up by the game&#39;s creators for a holiday special, and... You&#39;re gonna wanna read the rules carefully, even if you&#39;ve done every BotF so far. This one&#39;s gonna take some creative hosting to make work. Seriously, I don&#39;t type this up for my health.
+
+[details=”Character List”]
+This game will be running the Deadly Penance Day script; created for a special occasion, and only slightly very unbalanced, it features old and new characters alike, and a bit of a brain-bender regarding your demonic foe (or master, if that’s the way you wanna approach this).
+
+Townsfolk:
+[color=29b6f6]**Chef**[/color]: You start the game knowing how many instances of adjacent evil players exist.
+[color=29b6f6]**Investigator**[/color]: You start knowing that one of two players is a particular Minion.
+[color=29b6f6]**Bounty Hunter**[/color]: You start the game knowing one evil player. When the evil player you know dies, you learn another that night. [One Townsfolk is evil]
+[color=29b6f6]**Sailor**[/color]: Each day, choose a living player; either they malfunction until dusk, or you do. You cannot die. (You act on the first night as well.)
+[color=29b6f6]**Preacher**[/color]: Each night, choose a player. If you choose a Minion, they learn that the Preacher chose them (but not who you are), and they have no ability.
+[color=29b6f6]**Cult Leader**[/color]: Each night, you become the alignment of one of your living neighbors (but your character is unchanged). Once per day, you may attempt to start a cult; if all good players join your cult on the same day, your alignment wins.
+[color=29b6f6]**Town Crier**[/color]: Each night, you learn if a Minion player nominated the previous day.
+[color=29b6f6]**Gambler**[/color]: Each night (but not the first), choose a player and guess their character. If you guess wrong, you die.
+[color=29b6f6]**Exorcist**[/color]: Each night (but not the first), choose a player (you may not choose the same player two nights in a row); If you choose the Demon, they do not act tonight, but they learn who you are.
+[color=29b6f6]**Philosopher**[/color]: Once per game, at night, choose a good character; You gain their ability. If you choose a character that is already in play, that player malfunctions until you die or change character.
+[color=29b6f6]**Soldier**[/color]: You are safe from the Demon’s attacks.
+[color=29b6f6]**Fool**[/color]: The first time you would die, you do not die.
+[color=29b6f6]**Mayor**[/color]: If you are killed at night, another player might die instead. If there is no execution when only three players remain, good wins.
+
+Outsiders:
+[color=29b6f6]**Drunk**[/color]: You think you are a Townsfolk character, but the ability that you think you have instead malfunctions.
+[color=29b6f6]**Barber**[/color]: If you die, the Demon, in addition to their kill, may choose two players tonight; these two players swap characters. This ability may not target dead Demons.
+[color=29b6f6]**Politician**[/color]: If you were the player most responsible for your alignment losing, you change alignment and win, even if dead.
+[color=29b6f6]**Saint**[/color]: If you are executed, your alignment loses.
+
+Minions:
+[color=red]**Spy**[/color]:You might register as good and as a Townsfolk or Outsider, even if dead, and you may view the Grimoire each night.
+[color=red]**Witch**[/color]: Each night, choose a player; if that player nominates tomorrow, they die immediately (but their nomination stands). If only three players are alive, this ability does not function.
+[color=red]**Assassin**[/color]: Once per game, at night (but not the first), choose a player; they die immediately, even if they normally would not die.
+[color=red]**Baron**[/color]: There are more Outsiders in play. [+2 Outsiders]
+
+Demon:
+[color=red]**Lil’ Monsta**[/color]: Each night, the Minions choose who babysits the Lil’ Monsta; that player “is the Demon”. Each night (but not the first), a player dies. [+1 Minion]
+
+…Okay, that’s probably confusing to some of you. Let me try to break down Lil’ Monsta in a way that makes sense, seeing how critical it is to this setup.
+First, let’s break the way every other Demon works; no player is the Demon character. That’s why there’s one extra Minion; so that you still have the correct number of evil players. Now, the consequence of there being no player with the Demon character is that there isn’t one specific player that evil wants to keep alive… but there is, because the person babysitting the Lil’ Monsta “is the Demon”. The quotes are because the person babysitting the Monsta doesn’t stop being whatever character they are; if, for example, the Witch is babysitting the Lil’ Monsta, they still curse a player that night, and they would still register as a Minion to, say, the Town Crier, because they’re still the Witch. But the babysitter registers as the Demon for any abilities which care about whether or not someone is a Demon (like the Exorcist, for example), and they’re evaluated in endgame conditions in place of an actual Demon player.
+Basically, good’s wincon is that the Monsta’s babysitter is dead… but the babysitter is subject to change, so if you think you have a strong lead on where the Monsta is, you might want to act on it quickly. And by the way, *anyone* can be the Monsta’s babysitter if the Minions decide it, even a good player (but then you have the equivalent of a good Demon, so be careful with that, Minions).
+Now then, on to the nightkills. I’m sure you noticed that roundabout way of phrasing in Monsta’s ability, “Each night, a player dies”. What’s up with that passive voice, you wonder. Well, with the Demon in question needing a babysitter, something tells me they’re not making their own choices about who to kill… meaning that the night deaths in a Monsta game are technically open-ended. Yep, if you died at night when you really wanted to live, you can blame none other than the Storyteller for that, because Storyteller chooses Monsta’s kill target each night. In keeping with general good practice for a Storyteller, I do have some guidelines to follow; essentially, my choices to influence the game should be small nudges in favor of the losing team, but since this is an evil ability, it’ll be helping evil more than it helps good.
+One last note; be sure to check the “Scum Info” tab, even if you’ve played these games before, because you just know that Monsta’s gotta wreck more game mechanics. Have fun!
+[/details]
+[details=&quot;Town Composition&quot;]
+
+This game is designed for a variable number of players, and thus the composition of the game is able to change depending on how many players join. The following list denotes the standard composition of the game at each possible player count.
+
+Total Players: Townsfolk/Outsiders/Minions/Demons
+5: 3/0/1/1
+6: 3/1/1/1
+7: 5/0/1/1
+8: 5/1/1/1
+9: 5/2/1/1
+10: 7/0/2/1
+11: 7/1/2/1
+12: 7/2/2/1
+13: 9/0/3/1
+14: 9/1/3/1
+15: 9/2/3/1
+
+Every character in-game is unique in that more than one of the same character will never appear at the start of the game (there can never be two Chefs at the start, for example).
+
+Certain characters may contain parts of their ability which modify the game setup; some add character types (and subtract others to compensate), while others change elements of the game entirely. Be sure to take notice of these. You’ll find them in [square brackets], like those ones.
+
+[/details]
+[details=&quot;Phase Length&quot;]
+
+Each day phase will last for no longer than 48 hours.
+12 hours: Discussion phase. Nominations may not be cast at this time.
+12 hours: Nomination phase. Players who wish to nominate may do so at this time, and votes may begun to be cast during this time as well.
+24 hours: Vote finalization. During this time, votes may be cast freely on any existing nomination, but no new nominations may be made. Once this time ends or all votes have been locked in, the day will resolve.
+
+The night phase will last for no more than 24 hours. If all relevant actions have been submitted and processed, Storytellers reserve the right to begin the next day early. 
+[/details]
+
+[details=&quot;Storyteller&quot;]
+
+The Storyteller is the key moderator for the game; All ability uses at night must be sent to the Storyteller via private message, and Storyteller will have the final say on any open-ended ability behaviors. Storyteller’s goal is to keep the game both fun and balanced, and they’ll often be trying to make it last as long as possible; however, the Storyteller may not alter any existing rules to accomplish this.
+[/details]
+
+[details=&quot;The Fabled&quot;]
+The Fabled aren&#39;t really characters so much as special modifiers that the Storyteller can put in play to tweak the game. For example, the Angel can be put into play to help keep newer players from being targeted, or the Buddhist can be put into play to keep the more experienced players from dominating the discussion. Fabled will always be announced when they are in play, along with their effect upon gamestate. A breakdown of Fabled characters can be found below.
+
+**Angel:** Something bad might happen to whomever is most responsible for the death of a new player.
+**Buddhist:** Veteran players may not speak for the first six hours of the day phase.
+**Doomsayer:** If more than four players live, each living player may publicly invoke the Doomsayer once per game to cause a player of their own alignment to die.
+**Fiddler:** Once per game, at night, the Demon secretly chooses a player of an opposing alignment; All players then choose which of these two wins the game.
+**Hell’s Librarian:** Something bad might happen to whomever speaks when the Storyteller calls for silence.
+The following Fabled character must be added before the game begins; please speak to the Storyteller if you wish to see it added.
+**Revolutionary:** Two neighboring players are known to be the same alignment. Once per game, one of them may register falsely.
+[/details]
+[details=&quot;Scum Info&quot;]
+
+Okay, running Penance means it’s definitely a Monsta game, so this part’s gonna get weird. There isn’t a Demon… to start, which means that we skip the Demon info (basically, evil in a Monsta game doesn’t have those safe bluffs that other Demons enjoy). But, we have another weird thing to resolve; unlike other games of Clocktower, Minions in a Monsta game need to be able to communicate, in order to choose the babysitter as per Monsta’s ability. This is done through a secret group message each night (with restrictions on what exactly they can say; if you want to know more about this, rand evil, but I assure you it’s not your typical scum nightchat). Once the Minions have chosen the Monsta’s babysitter for the next night and day, that player will be notified that they are babysitting the Lil’ Monsta.
+[/details]
+
+[details=&quot;Malfunctions&quot;]
+
+The primary source of interference with abilities in this game is the malfunction. A class that is malfunctioning is not told that they are malfunctioning; if the character is one that gathers information, then the information they receive that night is arbitrary (open-ended, Storyteller may resolve at their discretion), otherwise, the malfunctioning character’s ability simply does not have any effect.
+
+[/details]
+
+[details=&quot;Nominations and Voting&quot;]
+Once the discussion phase has ended, the Storyteller will formally announce the opening of the nomination phase. Players must be nominated before they may be voted on that day. Each player may only be nominated once per day, and each player may only nominate once per day.
+When a nomination is opened, the storyteller begins to track votes for that nomination. The players may precast votes, but the votes will lock in a clockhand format. Starting with the player below the nominee on the list, and working downwards, the votes will be locked if they are cast. As an example, take the following five players;
+&gt; Alex
+Brianna
+Cameron
+Derek
+Ellen
+
+Brianna is nominated. Cameron’s vote will be locked as soon as he places it, because he is the first person below Brianna on the list. Derek may cast his vote before Cameron, and may alter his vote if Cameron has not yet voted, but once Cameron has voted and had his vote locked, Derek’s vote will be the next to lock, and if it is placed when Cameron’s vote locks, then Derek’s vote will lock as the vote cast by Derek at that time.
+Any votes that are not cast by EoD will be considered votes to pardon. If the count of votes to execute is more than half of the number of living players (not half+1, that&#39;s an important distinction), and is the highest count of votes against any player that day, the accused will be considered “about to die”. At the end of the day or when all votes on all nominations have been cast, the player who is “about to die” will be executed. If there is a tie between two or more players for the highest count of votes, the day will end with no execution. The Storyteller may only declare an early end to voting if it is no longer possible to tie or exceed the highest nomination.
+
+[/details]
+[details=&quot;Whispers&quot;]
+
+Players may whisper each other in-game through private messages. Whispers must, however, be publicly announced, typically by requesting permission to whisper (a standard format is /whisper [Player]). Whispers to your neighbors (those seated next to you) do not have to be announced. Once a whisper has been declared and accepted, the two players may whisper via private message until one of them speaks publicly in the game chat, at which point the whisper is considered over and the players must declare whispers again if they wish to whisper.
+
+[/details]
+
+[details=&quot;Death&quot;]
+
+When a player dies, nothing is revealed about their character and they are allowed to stay in the game and speak. They may not nominate and they will have only one vote token (this will allow them to cast a vote to execute) for the entire game. Evil players who die may thus continue to help their allies by keeping up their claim and spreading misinformation, and good players may similarly help their allies by retaining relevant info that others may have forgotten in the heat of the game. Once a player dies, their ability stops working, which means that a player killed before they would perform their ability will not perform their ability, and any ability with a persistent effect will end upon the player’s death.
+
+[/details]
+
+[details=&quot;Victory&quot;]
+
+Good wins by eliminating all Demons (Minions do not necessarily need to die for Good to win, but eliminating Minions can be helpful). Evil wins by reducing the game to two living players (irrespective of either player’s alignment). The Storyteller may also declare a victory for Evil if Good may no longer possibly win (for example, if only evil players are left alive and thus no one would nominate the Demon). Certain class abilities may present alternate routes to victory; these classes, if able to appear, will be made known on the class list. In the event of a tie (both teams would win simultaneously), Good wins.
+
+[/details]
+The player list can be found below; just ping myself or Amelia with /in and the seat you want (yes, I let you choose).
+
+1. EliThePsycho
+2. 
+3. Canteloupe
+4. Apprentice
+5.
+6. Gorta
+7. Intensify
+8. Marshal
+9. Marluxion
+10. PKR
+11. Nightingale
+12.
+13. Clonedcheese
+14.
+15. Pigeon (soon to be Arctic)
+
+Backups (although I&#39;d rather you just join if there&#39;s room):
+1. Kat-zuh
+2. Datbird
+3. Windward
+
+Spectators (informed unless you make that godawful joke):
+1. Shurian
+2. YoubutWorse
+3. min
+4. Pug
+5. Novali
+6. Icibalus
+7. Nerbins
+8. Arete
+9. Light</description>
+    
+    <lastBuildDate>Mon, 15 Feb 2021 18:23:25 +0000</lastBuildDate>
+    <category>Signups</category>
+    <atom:link href="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Blood on the Forums VI: Monsta Jam - Signups (11/15)</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/614">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/614</link>
+        <pubDate>Mon, 15 Feb 2021 18:30:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-86198-614</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198.rss">Blood on the Forums VI: Monsta Jam - Signups (11/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VI: Monsta Jam - Signups (11/15)</title>
+        <dc:creator><![CDATA[EliThePsycho]]></dc:creator>
+        <description><![CDATA[
+            <p>lock thread when</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/613">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/613</link>
+        <pubDate>Mon, 15 Feb 2021 18:23:25 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-86198-613</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198.rss">Blood on the Forums VI: Monsta Jam - Signups (11/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VI: Monsta Jam - Signups (11/15)</title>
+        <dc:creator><![CDATA[thepigeonnyc]]></dc:creator>
+        <description><![CDATA[
+            <p>You’re a special case <img src="https://forum.throneoflies.com/images/emoji/twitter/tm.png?v=9" title=":tm:" class="emoji" alt=":tm:"> since you’re gonna replace me in only six days</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/612">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/612</link>
+        <pubDate>Mon, 15 Feb 2021 17:21:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-86198-612</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198.rss">Blood on the Forums VI: Monsta Jam - Signups (11/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VI: Monsta Jam - Signups (11/15)</title>
+        <dc:creator><![CDATA[Arctic]]></dc:creator>
+        <description><![CDATA[
+            <p>i never got added to the backup list loser</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/611">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/611</link>
+        <pubDate>Mon, 15 Feb 2021 17:06:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-86198-611</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198.rss">Blood on the Forums VI: Monsta Jam - Signups (11/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VI: Monsta Jam - Signups (11/15)</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p>(you guys can still backup or spectate after this, just shoot one of us a DM)</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/610">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/610</link>
+        <pubDate>Mon, 15 Feb 2021 16:48:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-86198-610</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198.rss">Blood on the Forums VI: Monsta Jam - Signups (11/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VI: Monsta Jam - Signups (11/15)</title>
+        <dc:creator><![CDATA[Tangeld]]></dc:creator>
+        <description><![CDATA[
+            <h1>Excellent. Just need a mod to lock the thread. Which one do I want to annoy the most, let’s see…</h1>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/609">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/609</link>
+        <pubDate>Mon, 15 Feb 2021 16:48:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-86198-609</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198.rss">Blood on the Forums VI: Monsta Jam - Signups (11/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VI: Monsta Jam - Signups (11/15)</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <h1>I’d assume last minute signups would have been taken care of by now, so why not?</h1>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/608">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/608</link>
+        <pubDate>Mon, 15 Feb 2021 16:46:33 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-86198-608</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198.rss">Blood on the Forums VI: Monsta Jam - Signups (11/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VI: Monsta Jam - Signups (11/15)</title>
+        <dc:creator><![CDATA[Tangeld]]></dc:creator>
+        <description><![CDATA[
+            <h1>For a Storyteller is never late, nor is she early… She arrives precisely when she means to.</h1>
+<h1>Shall we get this show on the road, then?</h1>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/607">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/607</link>
+        <pubDate>Mon, 15 Feb 2021 16:45:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-86198-607</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198.rss">Blood on the Forums VI: Monsta Jam - Signups (11/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VI: Monsta Jam - Signups (11/15)</title>
+        <dc:creator><![CDATA[Aelin]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>/informed spec</strong></p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/606">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/606</link>
+        <pubDate>Mon, 15 Feb 2021 16:05:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-86198-606</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198.rss">Blood on the Forums VI: Monsta Jam - Signups (11/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VI: Monsta Jam - Signups (11/15)</title>
+        <dc:creator><![CDATA[Aelin]]></dc:creator>
+        <description><![CDATA[
+            <p>Lil’ Monsta seems good <em>in theory</em>, however, I predict it’s going to get fucky wucky</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/605">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/605</link>
+        <pubDate>Mon, 15 Feb 2021 16:04:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-86198-605</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198.rss">Blood on the Forums VI: Monsta Jam - Signups (11/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VI: Monsta Jam - Signups (11/15)</title>
+        <dc:creator><![CDATA[Aelin]]></dc:creator>
+        <description><![CDATA[
+            <p>Already know about that<br>
+It would be funny for nobody except them</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/604">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/604</link>
+        <pubDate>Mon, 15 Feb 2021 16:04:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-86198-604</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198.rss">Blood on the Forums VI: Monsta Jam - Signups (11/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VI: Monsta Jam - Signups (11/15)</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p>I see you haven’t read politician yet</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/603">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/603</link>
+        <pubDate>Mon, 15 Feb 2021 16:03:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-86198-603</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198.rss">Blood on the Forums VI: Monsta Jam - Signups (11/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VI: Monsta Jam - Signups (11/15)</title>
+        <dc:creator><![CDATA[Aelin]]></dc:creator>
+        <description><![CDATA[
+            <p>I haven’t read all the roles but I can already tell you bounty Hunter and cult leader make me want to Kermit sewer slide</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/602">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/602</link>
+        <pubDate>Mon, 15 Feb 2021 16:02:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-86198-602</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198.rss">Blood on the Forums VI: Monsta Jam - Signups (11/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VI: Monsta Jam - Signups (11/15)</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p><s>okay but this time we have a competent storyteller in tan</s></p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/601">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/601</link>
+        <pubDate>Mon, 15 Feb 2021 16:02:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-86198-601</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198.rss">Blood on the Forums VI: Monsta Jam - Signups (11/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VI: Monsta Jam - Signups (11/15)</title>
+        <dc:creator><![CDATA[Aelin]]></dc:creator>
+        <description><![CDATA[
+            <p>Also last botf wasn’t actually that poggers</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/600">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/600</link>
+        <pubDate>Mon, 15 Feb 2021 16:01:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-86198-600</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198.rss">Blood on the Forums VI: Monsta Jam - Signups (11/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VI: Monsta Jam - Signups (11/15)</title>
+        <dc:creator><![CDATA[Aelin]]></dc:creator>
+        <description><![CDATA[
+            <p>Pigeons finally joining a game</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/599">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/599</link>
+        <pubDate>Mon, 15 Feb 2021 16:00:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-86198-599</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198.rss">Blood on the Forums VI: Monsta Jam - Signups (11/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VI: Monsta Jam - Signups (11/15)</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p>we’ll basically just move people to have a list of 11 yes</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/598">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/598</link>
+        <pubDate>Mon, 15 Feb 2021 15:11:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-86198-598</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198.rss">Blood on the Forums VI: Monsta Jam - Signups (11/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VI: Monsta Jam - Signups (11/15)</title>
+        <dc:creator><![CDATA[PokemonKidRyan]]></dc:creator>
+        <description><![CDATA[
+            <p>I am quite excited for this.<br>
+As I said before this is my 2nd time doing any blood on the (x) thing</p>
+<p>Will our slots be moved from 1-11 since it is not filled?<br>
+<small>(Only asking because 8 is my lucky number lol and I’d be moved there if people are moved to fill slots in order)</small></p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/597">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/597</link>
+        <pubDate>Mon, 15 Feb 2021 15:10:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-86198-597</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198.rss">Blood on the Forums VI: Monsta Jam - Signups (11/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VI: Monsta Jam - Signups (11/15)</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p>Me, waiting for tan to wake up</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/596">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/596</link>
+        <pubDate>Mon, 15 Feb 2021 15:04:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-86198-596</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198.rss">Blood on the Forums VI: Monsta Jam - Signups (11/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VI: Monsta Jam - Signups (11/15)</title>
+        <dc:creator><![CDATA[WindwardAway]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>/backup</strong></p>
+<p>don’t have enough time in the day to join everything I want to <img src="https://forum.throneoflies.com/images/emoji/twitter/sob.png?v=9" title=":sob:" class="emoji" alt=":sob:"></p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/595">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/595</link>
+        <pubDate>Mon, 15 Feb 2021 08:56:42 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-86198-595</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198.rss">Blood on the Forums VI: Monsta Jam - Signups (11/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VI: Monsta Jam - Signups (11/15)</title>
+        <dc:creator><![CDATA[Tangeld]]></dc:creator>
+        <description><![CDATA[
+            <h1>So basically, if you haven’t said anything, I interpret your silence as a pardon. If the vote didn’t get around to you by EoD, but the last thing you said on the matter was that you wanted to execute, I do mark you down as execute. I understand your concern, but the bureaucracy isn’t <em>that</em> inefficient.</h1>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/594">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/594</link>
+        <pubDate>Mon, 15 Feb 2021 05:39:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-86198-594</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198.rss">Blood on the Forums VI: Monsta Jam - Signups (11/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VI: Monsta Jam - Signups (11/15)</title>
+        <dc:creator><![CDATA[Tangeld]]></dc:creator>
+        <description><![CDATA[
+            <h1>Votes cast are different from votes locked. The big difference being that locked votes can’t be changed. A vote is “not cast” when the person just hasn’t said whether they want to execute or pardon.</h1>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/593">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/593</link>
+        <pubDate>Mon, 15 Feb 2021 05:37:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-86198-593</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198.rss">Blood on the Forums VI: Monsta Jam - Signups (11/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VI: Monsta Jam - Signups (11/15)</title>
+        <dc:creator><![CDATA[clonedcheese]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="cantaloupe" data-post="591" data-topic="86198">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/cantaloupe/40/34327_2.png" class="avatar"> cantaloupe:</div>
+<blockquote>
+<p>If someone chooses to not vote, does that force everyone after them to pardon as well?</p>
+</blockquote>
+</aside>
+<p>That would force-lock the votes of everyone after them<br>
+But votes kinda already force-lock at EoD<br>
+so<br>
+yeah</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/592">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/592</link>
+        <pubDate>Mon, 15 Feb 2021 05:36:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-86198-592</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198.rss">Blood on the Forums VI: Monsta Jam - Signups (11/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VI: Monsta Jam - Signups (11/15)</title>
+        <dc:creator><![CDATA[cantaloupe]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Tangeld" data-post="1" data-topic="86198">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/tangeld/40/15969_2.png" class="avatar"> Tangeld:</div>
+<blockquote>
+<p>Any votes that are not cast by EoD will be considered votes to pardon.</p>
+</blockquote>
+</aside>
+<p>If someone chooses to not vote, does that force everyone after them to pardon as well?</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/591">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/591</link>
+        <pubDate>Mon, 15 Feb 2021 05:35:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-86198-591</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198.rss">Blood on the Forums VI: Monsta Jam - Signups (11/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VI: Monsta Jam - Signups (11/15)</title>
+        <dc:creator><![CDATA[clonedcheese]]></dc:creator>
+        <description><![CDATA[
+            <p>I have read exactly nothing</p>
+<p><strong>/in at seat 13</strong></p>
+<p>open to offers</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/590">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198/590</link>
+        <pubDate>Mon, 15 Feb 2021 05:29:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-86198-590</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-signups-11-15/86198.rss">Blood on the Forums VI: Monsta Jam - Signups (11/15)</source>
+      </item>
+  </channel>
+</rss>

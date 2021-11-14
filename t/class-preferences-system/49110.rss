@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Class preferences system</title>
+    <link>https://forum.throneoflies.com/t/class-preferences-system/49110</link>
+    <description>There is one problem that keeps popping up again and again. Court Wizard: instant ragequit d1. Physician: &quot;so boring&quot;. King: &quot;so demanding, I&#39;m eating&quot;. Now this will be a reality in any game where there are multiple roles randomly assigned to you. However we can randomly assign in a much much smarter way to alleviate a large amount of this frustration. In short it will work like this:
+
+1) Every player can rank all classes from preferred to least preferred in settings. If these are not filled in a default or random preference list will be created. (Although this can even be somewhat smartly implemented in the algorithm, however let&#39;s build the basics first)
+2) For every newly created game, create the class list behind the scenes first.
+3) Simply match the preferences from step 1 to the class list created at step 2 in a smart way.
+
+Let&#39;s have an illustrative example. I copied some of these tables from my bachelor thesis, so they&#39;re not as &quot;clean&quot;, but I think they bring along the message well enough.
+
+Let&#39;s say there is only Assassin, Butler, Court Wizard and Drunk as classes in the game (or A, B, C and D).
+4 players with certain predefined preferences over 4 classes (items). Let&#39;s arbitrarily make them like this.
+
+![1|567x198](upload://fOlw2vF60kMiV6Gh017bImk0Yv1.PNG)
+
+This means that player 1 prefers to have Assassin over Butler over Court Wizard over Drunk.
+Note they have to be similar to create conflict, but dissimilar enough to create meaningful improvements.
+Secondly note that this example can straightforwardly be extended towards 16, the usual amount of players. 
+
+Currently the system just assigns a completely random class, so we would end up with the following allocation:
+
+![2|563x241](upload://z7MjxeLDPu2ACXwE8vXBaSyANJ8.PNG)
+
+introducing the Random Serial Dictator mechanism:
+
+![3|681x500](upload://eMtfq288igKGPpOcSSCwpaNutJo.PNG)
+ 
+In short this means a queue of &quot;dictators&quot; is created randomly with equal probability. Each dictator can in turn pick a class that has not been picked by a previous dictator.  What they pick obviously represents their preferences.
+
+All possible randomly created orderings are as following:
+
+![4|312x499](upload://uf3Tqv20Wxvn4w2fjXivnwNAtG1.PNG)
+
+And this would lead to the following allocation, if you calculate out all the chances. 
+
+![5|578x249](upload://d17uZ6QIeSJ4w7aFMxo09xJehq2.PNG)
+
+Its effect is remarkable. Player 1 has a 5/12th chance to get Assassin (his most preferred role) as opposed to 1/4th under the current system. Player 1 also now has a 1/12th chance to get Drunk (his least preferred role) as opposed to 1/4th under the current system.
+
+There are zero downsides to switching to this system aside from the cost of implementing the relatively simple algorithm plus the UI demands.
+
+The upsides are however that classes are assigned much more efficiently and cater to the individual player&#39;s needs. The algorithm only uses Pareto improvements, so literally all players involved will be happier, with this new allocation.
+
+Plus the data behind the settings can be invaluable to the developers to measure how well liked each class is. Let&#39;s say that Court Wizard ranks lowest on the settings for 30% of the playerbase, from the 20+ classes. That&#39;d speak volumes about the unenjoyable experience of Court Wizard. These statistics trump all the anecdotal evidence obtained through forum complaints. Academically speaking the mechanism is strategyproof, so any preferences given in settings, will reflect the true preferences of the individual, so the data is trustworthy. 
+
+If this post is received well, I can make another on a different &quot;solution&quot; algorithm that favours efficiency over strategyproofness, but no longer uses Pareto improvements, or simply append it here.</description>
+    
+    <lastBuildDate>Tue, 27 Feb 2018 19:53:32 +0000</lastBuildDate>
+    <category>Feedback/Suggestions</category>
+    <atom:link href="https://forum.throneoflies.com/t/class-preferences-system/49110.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Class preferences system</title>
+        <dc:creator><![CDATA[Solic]]></dc:creator>
+        <description><![CDATA[
+            <p>I know it’s a long post and a lot to take in, but this doesn’t ignore any classes. There is no impact whatsoever on the frequency of classes appearing if this system would be implemented. The class list is selected randomly at the start of a game, BEFORE preferences are taken into account. The system then simply matches, more appropriately than the currently completely random of assignment, the classes to the preferences.</p>
+<p>If anything, this should help the developers identify which classes need a rework, as the submitted preferences of the whole of the playerbase clearly indicate which classes need the help, as I’ve illustrated in my CW example.</p>
+<p>To give another example to make it hopefully more clear.</p>
+<ol>
+<li>Game starts, class list is randomly selected to be the following:<br>
+Prince<br>
+Evil King<br>
+MM<br>
+Assassin<br>
+2 CW’s<br>
+2 Physicians<br>
+Psychic<br>
+Possessor<br>
+Fool<br>
+Sheriff<br>
+Hunter<br>
+Mercenary<br>
+Princess<br>
+Noble</li>
+<li>Now the system will look at the preferences of all players over ONLY the class list randomly created at 1) to ensure that a role like CW goes to someone that actually enjoys it. The roles will still be assigned regardless though, so you won’t suddenly see fewer CW’s than before.</li>
+</ol>
+          <p><a href="https://forum.throneoflies.com/t/class-preferences-system/49110/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-preferences-system/49110/9</link>
+        <pubDate>Tue, 27 Feb 2018 19:45:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-49110-9</guid>
+        <source url="https://forum.throneoflies.com/t/class-preferences-system/49110.rss">Class preferences system</source>
+      </item>
+      <item>
+        <title>Class preferences system</title>
+        <dc:creator><![CDATA[NightX]]></dc:creator>
+        <description><![CDATA[
+            <p>I agree with Nuclear.</p>
+<p>The solution is to improve the classes, not letting them get ignored.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-preferences-system/49110/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-preferences-system/49110/8</link>
+        <pubDate>Tue, 27 Feb 2018 19:30:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-49110-8</guid>
+        <source url="https://forum.throneoflies.com/t/class-preferences-system/49110.rss">Class preferences system</source>
+      </item>
+      <item>
+        <title>Class preferences system</title>
+        <dc:creator><![CDATA[Solic]]></dc:creator>
+        <description><![CDATA[
+            <p>In that case you can also meta-game lie <img src="/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"> preserving the integrity of the game, as before. Besides this system does not mean that because class X is your favourite, you’ll get that class 100% of the time. It just gives you a bit of a higher chance to get that class as opposed to other classes, provided it is even in the randomly selected class list.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-preferences-system/49110/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-preferences-system/49110/7</link>
+        <pubDate>Tue, 27 Feb 2018 12:55:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-49110-7</guid>
+        <source url="https://forum.throneoflies.com/t/class-preferences-system/49110.rss">Class preferences system</source>
+      </item>
+      <item>
+        <title>Class preferences system</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Solic" data-post="5" data-topic="49110">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/solic/40/12782_2.png" class="avatar"> Solic:</div>
+<blockquote>
+<p>It’d require tabulating every game, who received what class and what name they used and be ran over 1000’s of games to just get an estimate of what preferences are in their settings, just to give them a small edge in playing the game.</p>
+</blockquote>
+</aside>
+<p>I’d just ask them.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-preferences-system/49110/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-preferences-system/49110/6</link>
+        <pubDate>Tue, 27 Feb 2018 12:50:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-49110-6</guid>
+        <source url="https://forum.throneoflies.com/t/class-preferences-system/49110.rss">Class preferences system</source>
+      </item>
+      <item>
+        <title>Class preferences system</title>
+        <dc:creator><![CDATA[Solic]]></dc:creator>
+        <description><![CDATA[
+            <p>Data should support your claim that people use the same names more than once in a row, because I certainly don’t. I think you’re exacerbating how much of an impact that would have. It’d require tabulating every game, who received what class and what name they used and be ran over 1000’s of games to just get an estimate of what preferences are in their settings, just to give them a small edge in playing the game. Only developers/bots could really attempt to do that.</p>
+<p>Besides all that, I think the benefits outweigh the con, don’t you?</p>
+          <p><a href="https://forum.throneoflies.com/t/class-preferences-system/49110/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-preferences-system/49110/5</link>
+        <pubDate>Tue, 27 Feb 2018 12:49:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-49110-5</guid>
+        <source url="https://forum.throneoflies.com/t/class-preferences-system/49110.rss">Class preferences system</source>
+      </item>
+      <item>
+        <title>Class preferences system</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Solic" data-post="3" data-topic="49110">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/solic/40/12782_2.png" class="avatar"> Solic:</div>
+<blockquote>
+<p>If that is not what you meant, please explain your concern in more detail.</p>
+</blockquote>
+</aside>
+<p>People tend to use the same names more than once in a row. For example I always use the name PuppetMaster and my fav classes are Psychic and Hunter.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-preferences-system/49110/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-preferences-system/49110/4</link>
+        <pubDate>Tue, 27 Feb 2018 12:44:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-49110-4</guid>
+        <source url="https://forum.throneoflies.com/t/class-preferences-system/49110.rss">Class preferences system</source>
+      </item>
+      <item>
+        <title>Class preferences system</title>
+        <dc:creator><![CDATA[Solic]]></dc:creator>
+        <description><![CDATA[
+            <p>That is not true, read the initial 1. 2. 3. The class list is created BEFORE preferences are taken into account. The same frequencies of class appearance will still apply. The distribution of classes that are actually selected is just handled in a smarter way. If you want to have a higher chance of getting a different class, simply alter your settings. If that is not what you meant, please explain your concern in more detail.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-preferences-system/49110/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-preferences-system/49110/3</link>
+        <pubDate>Tue, 27 Feb 2018 12:42:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-49110-3</guid>
+        <source url="https://forum.throneoflies.com/t/class-preferences-system/49110.rss">Class preferences system</source>
+      </item>
+      <item>
+        <title>Class preferences system</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>You are forgetting the fact that this allows for meta game strategys and makes the game more stale (Since you are almost always playing the same classes. Trust me it will happen).</p>
+          <p><a href="https://forum.throneoflies.com/t/class-preferences-system/49110/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-preferences-system/49110/2</link>
+        <pubDate>Tue, 27 Feb 2018 12:39:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-49110-2</guid>
+        <source url="https://forum.throneoflies.com/t/class-preferences-system/49110.rss">Class preferences system</source>
+      </item>
+      <item>
+        <title>Class preferences system</title>
+        <dc:creator><![CDATA[Solic]]></dc:creator>
+        <description><![CDATA[
+            <p>There is one problem that keeps popping up again and again. Court Wizard: instant ragequit d1. Physician: “so boring”. King: “so demanding, I’m eating”. Now this will be a reality in any game where there are multiple roles randomly assigned to you. However we can randomly assign in a much much smarter way to alleviate a large amount of this frustration. In short it will work like this:</p>
+<ol>
+<li>Every player can rank all classes from preferred to least preferred in settings. If these are not filled in a default or random preference list will be created. (Although this can even be somewhat smartly implemented in the algorithm, however let’s build the basics first)</li>
+<li>For every newly created game, create the class list behind the scenes first.</li>
+<li>Simply match the preferences from step 1 to the class list created at step 2 in a smart way.</li>
+</ol>
+<p>Let’s have an illustrative example. I copied some of these tables from my bachelor thesis, so they’re not as “clean”, but I think they bring along the message well enough.</p>
+<p>Let’s say there is only Assassin, Butler, Court Wizard and Drunk as classes in the game (or A, B, C and D).<br>
+4 players with certain predefined preferences over 4 classes (items). Let’s arbitrarily make them like this.</p>
+<p><img src="/uploads/default/original/2X/6/6ed19120fa83fadf533d4f76143a593ef6041573.PNG" alt="1" data-base62-sha1="fOlw2vF60kMiV6Gh017bImk0Yv1" width="567" height="198"></p>
+<p>This means that player 1 prefers to have Assassin over Butler over Court Wizard over Drunk.<br>
+Note they have to be similar to create conflict, but dissimilar enough to create meaningful improvements.<br>
+Secondly note that this example can straightforwardly be extended towards 16, the usual amount of players.</p>
+<p>Currently the system just assigns a completely random class, so we would end up with the following allocation:</p>
+<p><img src="/uploads/default/original/2X/f/f62d353588ff0783c8cce521083ccb545661f5f2.PNG" alt="2" data-base62-sha1="z7MjxeLDPu2ACXwE8vXBaSyANJ8" width="563" height="241"></p>
+<p>introducing the Random Serial Dictator mechanism:</p>
+<p><img src="/uploads/default/original/2X/6/6799200dd7623a1114ade39edc41c3e24b315192.PNG" alt="3" data-base62-sha1="eMtfq288igKGPpOcSSCwpaNutJo" width="681" height="500"></p>
+<p>In short this means a queue of “dictators” is created randomly with equal probability. Each dictator can in turn pick a class that has not been picked by a previous dictator.  What they pick obviously represents their preferences.</p>
+<p>All possible randomly created orderings are as following:</p>
+<p><img src="/uploads/default/original/2X/d/d3f51c654f7dcf861162bedc0104aa2c5ffa25d1.PNG" alt="4" data-base62-sha1="uf3Tqv20Wxvn4w2fjXivnwNAtG1" width="312" height="499"></p>
+<p>And this would lead to the following allocation, if you calculate out all the chances.</p>
+<p><img src="/uploads/default/original/2X/5/5b3cb34be69a81b12548ad3c391a8e1fc9783a12.PNG" alt="5" data-base62-sha1="d17uZ6QIeSJ4w7aFMxo09xJehq2" width="578" height="249"></p>
+<p>Its effect is remarkable. Player 1 has a 5/12th chance to get Assassin (his most preferred role) as opposed to 1/4th under the current system. Player 1 also now has a 1/12th chance to get Drunk (his least preferred role) as opposed to 1/4th under the current system.</p>
+<p>There are zero downsides to switching to this system aside from the cost of implementing the relatively simple algorithm plus the UI demands.</p>
+<p>The upsides are however that classes are assigned much more efficiently and cater to the individual player’s needs. The algorithm only uses Pareto improvements, so literally all players involved will be happier, with this new allocation.</p>
+<p>Plus the data behind the settings can be invaluable to the developers to measure how well liked each class is. Let’s say that Court Wizard ranks lowest on the settings for 30% of the playerbase, from the 20+ classes. That’d speak volumes about the unenjoyable experience of Court Wizard. These statistics trump all the anecdotal evidence obtained through forum complaints. Academically speaking the mechanism is strategyproof, so any preferences given in settings, will reflect the true preferences of the individual, so the data is trustworthy.</p>
+<p>If this post is received well, I can make another on a different “solution” algorithm that favours efficiency over strategyproofness, but no longer uses Pareto improvements, or simply append it here.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-preferences-system/49110/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-preferences-system/49110/1</link>
+        <pubDate>Tue, 27 Feb 2018 12:32:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-49110-1</guid>
+        <source url="https://forum.throneoflies.com/t/class-preferences-system/49110.rss">Class preferences system</source>
+      </item>
+  </channel>
+</rss>

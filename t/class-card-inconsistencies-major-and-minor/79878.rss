@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Class Card Inconsistencies (major and minor)</title>
+    <link>https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878</link>
+    <description>Note: This is as of 2.4.1, using in-game class cards.
+I&#39;ve noticed a lot of little things that flare my OCD in class cards and I&#39;d like to post all the ones I&#39;ve found. Some of these are extremely minor and may just be typos and others are potentially game-affecting. Gonna make this as comprehensive as I can for both major and minor stuff, though I&#39;m sure I&#39;m missing plenty. Will gladly edit the OP if pinged on the Feedback-Discuss channel on Discord (or PM me @Polarthief#8092).
+
+**General**
+- This was already posted on the Feedback QOL section in the Discord, but just to be thorough: many abilities to not display the ∞ or a numbered symbol to represent how many charges they have, and of the classes affected, *all* abilities of those classes are affected. The following affected are:
+- - Blue Dragon: Drunk, Knight, Maid, Observer, Paladin (PS: Why is the limited ability the first ability? No other class does that), Princess.
+- - Unseen: Alcoholic, Duchess, Enforcer, Handmaiden, Nightwatch, Poacher, Sage, Servant, Timesnatcher.
+- - Cult: No Cult classes are affected.
+- - Neutral: Inquisitor, Sellsword.
+- All non-BD investigative abilities should have yellow text that states it&#39;s immune to frame results: Mastermind&#39;s Examine (when it&#39;s fixed), Pretender&#39;s Blood Test, Inquisitor&#39;s Interrogate, and the various CultSeen that have investigative powers.
+- Mastermind&#39;s Convert and Cult Leader&#39;s Brainwash doesn&#39;t have text that doesn&#39;t accurately explain the pity text as it doesn&#39;t count things like being occupied.
+
+**Blue Dragon**
+- Butler&#39;s Poisoned Wine states that &quot;The King---will die tonight.&quot; and doesn&#39;t mention that it can be healed, not even in the tips, despite even bleeding abilities mentioning that they are healable. None of the healers specify this interaction either, but they don&#39;t need to when this is a very specific instance that should be in the Butler&#39;s card. A small &quot;Healable&quot; in the yellow text, exactly like bleed abilities, would do nicely.
+- Knight&#39;s Cold Steel doesn&#39;t mention that if you attack your target, but the target lives via healing, you still kill yourself. &quot;Harm&quot; is too vague to convey this information, and I&#39;m also unsure if this is intended behavior or not.
+- - If it is intended behavior, this should read: &quot;If you killed a Blue Dragon player, even if they were healed to live, you will take your own life (Unhealable) the same night.&quot; (thanks NuclearBurrito for the clarity update)
+- - If it isn&#39;t intended, just change &quot;harmed&quot; to &quot;killed&quot; after fixing the unintended behavior (also change &quot;an ally&quot; to &quot;Blue Dragon&quot; and mention that you kill yourself the same night).
+- Noble&#39;s Gossip exclusion list doesn&#39;t include redirections/redirecting abilities. (thanks Delirium, had no idea this was a thing)
+- Paladin&#39;s Smite should specify that it bypasses Healing and Death Immunity. (thanks NuclearBurrito for this one; I didn&#39;t even know!)
+- Prince&#39;s Imprison mentions that it &quot;occupies those targeting your prisoner&quot;, which isn&#39;t exactly true since it&#39;s *like* occupation, but not actually occupation (as such, it prevents even occupy-immune classes from targeting them). It should read &quot;---*preventing* those targeting your prisoner&quot;, or that it ignores occupation-immunity.
+- Prince&#39;s Execute doesn&#39;t mention that it&#39;s unhealable(?), pierces Night Immunity, pierces Reaper&#39;s Souls, and pierces Mercenary&#39;s Shield. For all intents and purposes, the class card makes it sound like it&#39;s a normal attack no stronger than Cold Steel or Assassinate.
+
+**Unseen**
+- Mastermind&#39;s Examine should mention that the 4 charges are shared between both you and the starting Assassin (should they become the Mastermind in the future).
+- Assassin&#39;s 2-For-1 should mention that the single charge is shared between you and anyone who may become the Assassin in the future.
+- Herbalist&#39;s Drug should mention it doesn&#39;t make a player believe they were healed from bleeding (because the icon doesn&#39;t go away).
+- - If this behavior is intended, just mention that.
+- - If it&#39;s not intended, then when fixed, it should mention that it *does* make players believe their bleeding was healed.
+
+**Cult**
+- Cult Leader&#39;s Eradicate should mention that the 3(+) charges are shared between you and any potential future Cult Leaders.
+
+**Neutral**
+- Possessor&#39;s Facelift should mention that it stays on until the current Facelift is used.
+- Reaper&#39;s card should mention that you get more souls via Reap (and only Reap). While it may seem obvious, it isn&#39;t just from reading the class card.
+- - Additional bit of info would be to add on Circle of Death that it does *not* give souls.
+- Sorcerer&#39;s Detonate ability should have yellow text that reads &quot;Doesn&#39;t count as visiting&quot;.
+- Mercenary&#39;s Shield doesn&#39;t mention the multitude of ways it would fail to trigger, such as your Shielded target dying to bleed, being imprisoned and executed, and the others ways I can&#39;t quite remember at the moment (I&#39;m pretty sure there&#39;s a few more).
+- - Also while not a class card issue, the successful Shield defense states that the player attacks the Mercenary instead when it should say the Mercenary&#39;s Shield or something to that effect.
+
+**Minor OCD Stuff** (typos, tiny inconsistencies, etc)
+- Most instances of occupation/redirection immunity state the following: &quot;Immune to occupy and redirect.&quot;, and because of that, I&#39;d like to assume that&#39;s the intended wording. A few classes are stated slightly differently though
+- - Drunk and Alcoholic both read &quot;Immune to occupy and redirect **abilities**.&quot;. If &quot;abilities&quot; is intended, all other classes should change to read that.
+- - All Kings (with the exception of Psycho King) have &quot;Occupy&quot; capitalized while no other instance of &quot;occupy&quot; is capitalized as such in passives.
+- All Kings, with the exception of Psycho King, state that they &quot;Can talk during trial.&quot;. Psycho King reads &quot;Can talk at all points during a trial.&quot;.
+- Prince&#39;s Imprison mentions &quot;Usable day 1&quot;. Two tiny things with this being that &quot;day&quot; is usually capitalized to &quot;Day&quot; in this kind of instance and there&#39;s no period after &quot;1&quot;.
+- Both Butler and Servant&#39;s Serve Wine read &quot;Occupy a player tonight (with wine). They will not be able to use abilities tonight.&quot;. Invoker&#39;s Chains of Corax reads &quot;Occupy target player tonight. They will be prevented from taking any actions tonight.&quot;. Sellsword&#39;s Intimidate reads &quot;Occupy target player and prevent them from taking any actions tonight.&quot;. All four of these classes do the exact same thing, but all read slightly differently and should instead just be the same thing. The &quot;with wine&quot; part is also not necessary for Butler/Servant as that may confused new players that some might be immune to wine specifically over occupation immunity. The flavor text of it can just lead to some very minor problems.
+- Assassin&#39;s ability is called &quot;2-For-1&quot;, while Timesnatcher&#39;s Rewind calls it &quot;Two-For-One&quot;. In addition, Rewind also mentions having &quot;no charge**S**&quot;, when it should just read if you don&#39;t have 2-for-1 (since it&#39;s a 1-charge ability anyway). Extremely minor second point but it may confuse new players that they can get more charges beyond the first (through another means besides Rewind).
+- Ritualist doesn&#39;t have the orange text from Court Wizard&#39;s/Sage&#39;s Tornado and is worded slightly differently when they should all read the same way.
+- - In addition, all 3&#39;s yellow text should just state &quot;vice versa&quot; instead of &quot;/ or the other way&quot; to make it more clear.
+- Butler&#39;s Poisoned Wind is worded very weirdly, repeating the whole &quot;if King was BD&quot; thing twice. Delete the last sentence entirely and rewrite the third sentence to: &quot;If the King was Blue Dragon, you will not be able to use any abilities and commit suicide the following night.&quot;.
+- Both of Mystic&#39;s night abilities mention &quot;Others won&#39;t know your target&quot; but Link Minds is in the ability itself and Conduit is in the yellow text.
+- - Conduit&#39;s yellow text also ends with a period while other yellow texts don&#39;t.
+- Some instances of &quot;Cannot target King&quot; are inconsistent. Observer&#39;s has &quot;Target&quot; capitalized; Alch&#39;s says &quot;Cannot target the King&quot;; Possessor&#39;s Mind Control reads &quot;Can&#39;t target King.&quot; (and also has a period at the end, which it shouldn&#39;t [and also has &quot;Your target choice&quot; in it, which is redundant and obvious]).
+- Apostle&#39;s Cult Pressure reads differently from Noble/Aristocrat/Possessor who all have the same day ability.
+- Posessor&#39;s Possess has yellow text that ends in a period (when it shouldn&#39;t). In addition, its unhealable text should just read &quot;Unhealable&quot; to be consistent with other classes.
+- Possessor&#39;s Puppet Strings mentions &quot;controlled player will visit targets - not you&quot;, though this is slightly redundant, plus you can still control yourself. I feel like this would read better if it says &quot;Controlled player will visit targets instead of you&quot;.
+- Noble and Aristocrat&#39;s Gossip/Intrigue orange text reads in different orders, when they shouldn&#39;t.
+- Hunter&#39;s Bear Companion should read that it &quot;Bypasses death immunity&quot; instead of &quot;death immune&quot;.
+- Hunter&#39;s Wolf Companion should have a &quot;Healable&quot; yellow text like the other bleed abilities, and should also not have the &quot;unless saved&quot; bit either. Keep it consistent with the other classes that bleed (minus the flavor text of each that mentions how they cause bleeding).
+- Both Mastermind&#39;s Convert and Cult Leader&#39;s Brainwash abilities&#39; yellow text ends with a period (when it shouldn&#39;t).
+- Cult/Unseen King&#39;s Improved Safeguard&#39;s yellow text ends with a period (when it shouldn&#39;t).
+- Blue Dragon King&#39;s Safeguard reads &quot;Does&#39;t count as visiting.&quot;. &quot;Does&#39;t&quot; requires an &#39;n&#39; and also ends in a period (when it shouldn&#39;t).
+- Pretender&#39;s passive regarding death immunity reads &quot;Death immune&quot; when it should mention &quot;(at night)&quot; to stay consistent with other classes.
+- Mercenary&#39;s yellow text for Brilder Hungry is completely redundant when it says the same thing under Protection Services.
+- - In addition, Protection Services reads flat out incorrectly, stating that they &quot;gain more (brilders) with successful ability uses&quot;. &quot;Successful ability uses&quot; may be misinterpreted as &quot;Using an ability successfully&quot;, instead of preventing people with Stand Guard or protecting someone with a Shield.</description>
+    
+    <lastBuildDate>Tue, 24 Dec 2019 21:42:35 +0000</lastBuildDate>
+    <category>Feedback/Suggestions</category>
+    <atom:link href="https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Class Card Inconsistencies (major and minor)</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Ok but if it’s specified there then it would imply that it’s the exception to a rule. Meaning that the self targeted abilities that DON’T have that note now are implied to be visiting… someone.</p>
+<p>They aren’t, but having it specified otherwise somewhere implies that they are.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878/16</link>
+        <pubDate>Tue, 24 Dec 2019 21:42:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79878-16</guid>
+        <source url="https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878.rss">Class Card Inconsistencies (major and minor)</source>
+      </item>
+      <item>
+        <title>Class Card Inconsistencies (major and minor)</title>
+        <dc:creator><![CDATA[anon97870008]]></dc:creator>
+        <description><![CDATA[
+            <p>I know that its confusing people a lot. Therefor writing it down wouldn’t be a bad deed</p>
+          <p><a href="https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878/15</link>
+        <pubDate>Tue, 24 Dec 2019 18:21:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79878-15</guid>
+        <source url="https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878.rss">Class Card Inconsistencies (major and minor)</source>
+      </item>
+      <item>
+        <title>Class Card Inconsistencies (major and minor)</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Correct. And it has to specify that it’s not an attack because normally it would be.</p>
+<p>Non targeted abilities are not normally visiting so it doesn’t have to specify here either.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878/14</link>
+        <pubDate>Tue, 24 Dec 2019 18:15:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79878-14</guid>
+        <source url="https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878.rss">Class Card Inconsistencies (major and minor)</source>
+      </item>
+      <item>
+        <title>Class Card Inconsistencies (major and minor)</title>
+        <dc:creator><![CDATA[anon97870008]]></dc:creator>
+        <description><![CDATA[
+            <p>It is an ability which kills. Its just not counting as “attack”</p>
+          <p><a href="https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878/13</link>
+        <pubDate>Tue, 24 Dec 2019 18:03:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79878-13</guid>
+        <source url="https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878.rss">Class Card Inconsistencies (major and minor)</source>
+      </item>
+      <item>
+        <title>Class Card Inconsistencies (major and minor)</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Polarthief" data-post="11" data-topic="79878">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/polarthief/40/3752_2.png" class="avatar"> Polarthief:</div>
+<blockquote>
+<p>but it’s still an ability that attacks</p>
+</blockquote>
+</aside>
+<p>It’s actually not. And it already specifies this.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878/12</link>
+        <pubDate>Tue, 24 Dec 2019 17:58:45 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79878-12</guid>
+        <source url="https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878.rss">Class Card Inconsistencies (major and minor)</source>
+      </item>
+      <item>
+        <title>Class Card Inconsistencies (major and minor)</title>
+        <dc:creator><![CDATA[Polarthief]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="NuclearBurrito" data-post="3" data-topic="79878">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/nuclearburrito/40/4723_2.png" class="avatar"> NuclearBurrito:</div>
+<blockquote>
+<p>Would be way less cluttered to instead put this on the Frame abilities themselves. Or to be specific on the Keyword description. That way Frames would just be completely inapplicable to non-BD investigative roles.</p>
+</blockquote>
+</aside>
+<p>That works too. IIRC, the only frame ability that correctly displays it is Fool’s Deceive.</p>
+<aside class="quote no-group" data-username="NuclearBurrito" data-post="3" data-topic="79878">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/nuclearburrito/40/4723_2.png" class="avatar"> NuclearBurrito:</div>
+<blockquote>
+<p>This would be wrong as it implies that successfully Killing a BD will not trigger guilt.</p>
+</blockquote>
+</aside>
+<p>Yeah you right, sorry. Fixing that.</p>
+<aside class="quote no-group" data-username="NuclearBurrito" data-post="3" data-topic="79878">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/nuclearburrito/40/4723_2.png" class="avatar"> NuclearBurrito:</div>
+<blockquote>
+<p>This wouldn’t make any sense. Visiting is not applicable to abilities with no target. This would be like specifying that Assassinate doesn’t visit the Mastermind.</p>
+<p>You only specify this sort of interaction when it’s the exception to a rule of some kind. In this case however this is simply the standard visiting interaction. So there is no exception to specify.</p>
+</blockquote>
+</aside>
+<p>I guess, though it’s more for new players to specify “you don’t visit the 5 players you have bombs on”.</p>
+<aside class="quote no-group" data-username="NuclearBurrito" data-post="5" data-topic="79878">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/nuclearburrito/40/4723_2.png" class="avatar"> NuclearBurrito:</div>
+<blockquote>
+<p>To keep that consistent you’d need to put that same text in all of the other non-targeted abilities too. Like self care and bear.</p>
+</blockquote>
+</aside>
+<p>One is killing people not in your room that is killing people not in your room and one is staying in your room to do an ability that doesn’t target other people. TBH I didn’t actually know for sure that you don’t visit those people or not. I assumed it doesn’t but I’ve never been shown for sure.</p>
+<aside class="quote no-group" data-username="anon97870008" data-post="8" data-topic="79878">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/mastermind-icon-256.jpg" class="avatar"> anon97870008:</div>
+<blockquote>
+<p>The yellow texts are not only there for consistency. They are also for clarifying unusual interactions, which often get made wrong.</p>
+</blockquote>
+</aside>
+<p>Or to help new people, as is the case I’m trying to do with Sorc Bomb.</p>
+<p>In essence, the less you have to go to Ask-a-Guide during a game, the better, and some of these changes (even tiny ones like Sorc Bomb not visiting) should help towards that goal.</p>
+<aside class="quote no-group" data-username="anon97870008" data-post="10" data-topic="79878" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/mastermind-icon-256.jpg" class="avatar"> anon97870008:</div>
+<blockquote>
+<p>For me its a visiting ability which counts as nonvisiting, because every else NK night ability is one</p>
+</blockquote>
+</aside>
+<p>Yes, I’m in the same boat. You don’t <em>actually</em> target people, but it’s still an ability that attacks, which is usually a visiting action. It’s a touch unclear and it’s based on assumptions.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878/11</link>
+        <pubDate>Tue, 24 Dec 2019 13:20:42 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79878-11</guid>
+        <source url="https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878.rss">Class Card Inconsistencies (major and minor)</source>
+      </item>
+      <item>
+        <title>Class Card Inconsistencies (major and minor)</title>
+        <dc:creator><![CDATA[anon97870008]]></dc:creator>
+        <description><![CDATA[
+            <p>For me its a visiting ability which counts as nonvisiting, because every else NK night ability is one</p>
+          <p><a href="https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878/10</link>
+        <pubDate>Tue, 24 Dec 2019 10:50:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79878-10</guid>
+        <source url="https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878.rss">Class Card Inconsistencies (major and minor)</source>
+      </item>
+      <item>
+        <title>Class Card Inconsistencies (major and minor)</title>
+        <dc:creator><![CDATA[Kape]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="anon97870008" data-post="6" data-topic="79878">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/mastermind-icon-256.jpg" class="avatar"> anon97870008:</div>
+<blockquote>
+<p>But Sorc bomb is a visiting ability</p>
+</blockquote>
+</aside>
+<p>It’s not?<br>
+It implodes everyone with a bomb. No visiting to be done for this.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878/9</link>
+        <pubDate>Tue, 24 Dec 2019 10:32:15 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79878-9</guid>
+        <source url="https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878.rss">Class Card Inconsistencies (major and minor)</source>
+      </item>
+      <item>
+        <title>Class Card Inconsistencies (major and minor)</title>
+        <dc:creator><![CDATA[anon97870008]]></dc:creator>
+        <description><![CDATA[
+            <p>The yellow texts are not only there for consistency. They are also for clarifying unusual interactions, which often get made wrong.<br>
+Sorc bomb is the only NK night ability which doesnt count as attack.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878/8</link>
+        <pubDate>Tue, 24 Dec 2019 06:59:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79878-8</guid>
+        <source url="https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878.rss">Class Card Inconsistencies (major and minor)</source>
+      </item>
+      <item>
+        <title>Class Card Inconsistencies (major and minor)</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            <p>No one is going to be confused about the interaction between bear and jail, while people might plausibly be confused about the interaction between Sorc bomb and jail</p>
+          <p><a href="https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878/7</link>
+        <pubDate>Tue, 24 Dec 2019 06:57:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79878-7</guid>
+        <source url="https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878.rss">Class Card Inconsistencies (major and minor)</source>
+      </item>
+      <item>
+        <title>Class Card Inconsistencies (major and minor)</title>
+        <dc:creator><![CDATA[anon97870008]]></dc:creator>
+        <description><![CDATA[
+            <p>But Sorc bomb is a visiting ability which counts as non-visiting and bypasses jail, imo.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878/6</link>
+        <pubDate>Tue, 24 Dec 2019 06:56:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79878-6</guid>
+        <source url="https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878.rss">Class Card Inconsistencies (major and minor)</source>
+      </item>
+      <item>
+        <title>Class Card Inconsistencies (major and minor)</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="anon97870008" data-post="4" data-topic="79878">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/mastermind-icon-256.jpg" class="avatar"> anon97870008:</div>
+<blockquote>
+<p>It is important, OP has it correct.<br>
+Sorc detonate also bypasses jail.</p>
+</blockquote>
+</aside>
+<p>It’s not that it’s factually wrong. Just that it doesn’t make sense to specify since it’s specifying something that is already default.</p>
+<p>To keep that consistent you’d need to put that same text in all of the other non-targeted abilities too. Like self care and bear.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878/5</link>
+        <pubDate>Tue, 24 Dec 2019 06:46:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79878-5</guid>
+        <source url="https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878.rss">Class Card Inconsistencies (major and minor)</source>
+      </item>
+      <item>
+        <title>Class Card Inconsistencies (major and minor)</title>
+        <dc:creator><![CDATA[anon97870008]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="NuclearBurrito" data-post="3" data-topic="79878">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/nuclearburrito/40/4723_2.png" class="avatar"> NuclearBurrito:</div>
+<blockquote>
+<p>This wouldn’t make any sense. Visiting is not applicable to abilities with no target. This would be like specifying that Assassinate doesn’t visit the Mastermind.</p>
+</blockquote>
+</aside>
+<p>It is important, OP has it correct.<br>
+Sorc detonate also bypasses jail.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878/4</link>
+        <pubDate>Tue, 24 Dec 2019 06:32:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79878-4</guid>
+        <source url="https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878.rss">Class Card Inconsistencies (major and minor)</source>
+      </item>
+      <item>
+        <title>Class Card Inconsistencies (major and minor)</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Polarthief" data-post="1" data-topic="79878">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/polarthief/40/3752_2.png" class="avatar"> Polarthief:</div>
+<blockquote>
+<p>All non-BD investigative abilities should have yellow text that states it’s immune to frame results:</p>
+</blockquote>
+</aside>
+<p>Would be way less cluttered to instead put this on the Frame abilities themselves. Or to be specific on the Keyword description. That way Frames would just be completely inapplicable to non-BD investigative roles.</p>
+<aside class="quote no-group" data-username="Polarthief" data-post="1" data-topic="79878">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/polarthief/40/3752_2.png" class="avatar"> Polarthief:</div>
+<blockquote>
+<ul>
+<li>
+<ul>
+<li>If it is intended behavior, this should read: “If you killed a Blue Dragon player, and they were healed to live, you will take your own life (Unhealable).”</li>
+</ul>
+</li>
+</ul>
+</blockquote>
+</aside>
+<p>This would be wrong as it implies that successfully Killing a BD will not trigger guilt.</p>
+<aside class="quote no-group" data-username="Polarthief" data-post="1" data-topic="79878">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/polarthief/40/3752_2.png" class="avatar"> Polarthief:</div>
+<blockquote>
+<ul>
+<li>Sorcerer’s Detonate ability should have yellow text that reads “Doesn’t count as visiting”.</li>
+</ul>
+</blockquote>
+</aside>
+<p>This wouldn’t make any sense. Visiting is not applicable to abilities with no target. This would be like specifying that Assassinate doesn’t visit the Mastermind.</p>
+<p>You only specify this sort of interaction when it’s the exception to a rule of some kind. In this case however this is simply the standard visiting interaction. So there is no exception to specify.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878/3</link>
+        <pubDate>Tue, 24 Dec 2019 05:49:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79878-3</guid>
+        <source url="https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878.rss">Class Card Inconsistencies (major and minor)</source>
+      </item>
+      <item>
+        <title>Class Card Inconsistencies (major and minor)</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/%C3%AD42-xblade">@í42-Xblade</a></p>
+          <p><a href="https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878/2</link>
+        <pubDate>Tue, 24 Dec 2019 04:38:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79878-2</guid>
+        <source url="https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878.rss">Class Card Inconsistencies (major and minor)</source>
+      </item>
+      <item>
+        <title>Class Card Inconsistencies (major and minor)</title>
+        <dc:creator><![CDATA[Polarthief]]></dc:creator>
+        <description><![CDATA[
+            <p>Note: This is as of 2.4.1, using in-game class cards.<br>
+I’ve noticed a lot of little things that flare my OCD in class cards and I’d like to post all the ones I’ve found. Some of these are extremely minor and may just be typos and others are potentially game-affecting. Gonna make this as comprehensive as I can for both major and minor stuff, though I’m sure I’m missing plenty. Will gladly edit the OP if pinged on the Feedback-Discuss channel on Discord (or PM me <a class="mention" href="/u/polarthief">@Polarthief</a>#8092).</p>
+<p><strong>General</strong></p>
+<ul>
+<li>This was already posted on the Feedback QOL section in the Discord, but just to be thorough: many abilities to not display the ∞ or a numbered symbol to represent how many charges they have, and of the classes affected, <em>all</em> abilities of those classes are affected. The following affected are:</li>
+<li>
+<ul>
+<li>Blue Dragon: Drunk, Knight, Maid, Observer, Paladin (PS: Why is the limited ability the first ability? No other class does that), Princess.</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>Unseen: Alcoholic, Duchess, Enforcer, Handmaiden, Nightwatch, Poacher, Sage, Servant, Timesnatcher.</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>Cult: No Cult classes are affected.</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>Neutral: Inquisitor, Sellsword.</li>
+</ul>
+</li>
+<li>All non-BD investigative abilities should have yellow text that states it’s immune to frame results: Mastermind’s Examine (when it’s fixed), Pretender’s Blood Test, Inquisitor’s Interrogate, and the various CultSeen that have investigative powers.</li>
+<li>Mastermind’s Convert and Cult Leader’s Brainwash doesn’t have text that doesn’t accurately explain the pity text as it doesn’t count things like being occupied.</li>
+</ul>
+<p><strong>Blue Dragon</strong></p>
+<ul>
+<li>Butler’s Poisoned Wine states that “The King—will die tonight.” and doesn’t mention that it can be healed, not even in the tips, despite even bleeding abilities mentioning that they are healable. None of the healers specify this interaction either, but they don’t need to when this is a very specific instance that should be in the Butler’s card. A small “Healable” in the yellow text, exactly like bleed abilities, would do nicely.</li>
+<li>Knight’s Cold Steel doesn’t mention that if you attack your target, but the target lives via healing, you still kill yourself. “Harm” is too vague to convey this information, and I’m also unsure if this is intended behavior or not.</li>
+<li>
+<ul>
+<li>If it is intended behavior, this should read: “If you killed a Blue Dragon player, even if they were healed to live, you will take your own life (Unhealable) the same night.” (thanks NuclearBurrito for the clarity update)</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>If it isn’t intended, just change “harmed” to “killed” after fixing the unintended behavior (also change “an ally” to “Blue Dragon” and mention that you kill yourself the same night).</li>
+</ul>
+</li>
+<li>Noble’s Gossip exclusion list doesn’t include redirections/redirecting abilities. (thanks Delirium, had no idea this was a thing)</li>
+<li>Paladin’s Smite should specify that it bypasses Healing and Death Immunity. (thanks NuclearBurrito for this one; I didn’t even know!)</li>
+<li>Prince’s Imprison mentions that it “occupies those targeting your prisoner”, which isn’t exactly true since it’s <em>like</em> occupation, but not actually occupation (as such, it prevents even occupy-immune classes from targeting them). It should read “—<em>preventing</em> those targeting your prisoner”, or that it ignores occupation-immunity.</li>
+<li>Prince’s Execute doesn’t mention that it’s unhealable(?), pierces Night Immunity, pierces Reaper’s Souls, and pierces Mercenary’s Shield. For all intents and purposes, the class card makes it sound like it’s a normal attack no stronger than Cold Steel or Assassinate.</li>
+</ul>
+<p><strong>Unseen</strong></p>
+<ul>
+<li>Mastermind’s Examine should mention that the 4 charges are shared between both you and the starting Assassin (should they become the Mastermind in the future).</li>
+<li>Assassin’s 2-For-1 should mention that the single charge is shared between you and anyone who may become the Assassin in the future.</li>
+<li>Herbalist’s Drug should mention it doesn’t make a player believe they were healed from bleeding (because the icon doesn’t go away).</li>
+<li>
+<ul>
+<li>If this behavior is intended, just mention that.</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>If it’s not intended, then when fixed, it should mention that it <em>does</em> make players believe their bleeding was healed.</li>
+</ul>
+</li>
+</ul>
+<p><strong>Cult</strong></p>
+<ul>
+<li>Cult Leader’s Eradicate should mention that the 3(+) charges are shared between you and any potential future Cult Leaders.</li>
+</ul>
+<p><strong>Neutral</strong></p>
+<ul>
+<li>Possessor’s Facelift should mention that it stays on until the current Facelift is used.</li>
+<li>Reaper’s card should mention that you get more souls via Reap (and only Reap). While it may seem obvious, it isn’t just from reading the class card.</li>
+<li>
+<ul>
+<li>Additional bit of info would be to add on Circle of Death that it does <em>not</em> give souls.</li>
+</ul>
+</li>
+<li>Sorcerer’s Detonate ability should have yellow text that reads “Doesn’t count as visiting”.</li>
+<li>Mercenary’s Shield doesn’t mention the multitude of ways it would fail to trigger, such as your Shielded target dying to bleed, being imprisoned and executed, and the others ways I can’t quite remember at the moment (I’m pretty sure there’s a few more).</li>
+<li>
+<ul>
+<li>Also while not a class card issue, the successful Shield defense states that the player attacks the Mercenary instead when it should say the Mercenary’s Shield or something to that effect.</li>
+</ul>
+</li>
+</ul>
+<p><strong>Minor OCD Stuff</strong> (typos, tiny inconsistencies, etc)</p>
+<ul>
+<li>Most instances of occupation/redirection immunity state the following: “Immune to occupy and redirect.”, and because of that, I’d like to assume that’s the intended wording. A few classes are stated slightly differently though</li>
+<li>
+<ul>
+<li>Drunk and Alcoholic both read “Immune to occupy and redirect <strong>abilities</strong>.”. If “abilities” is intended, all other classes should change to read that.</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>All Kings (with the exception of Psycho King) have “Occupy” capitalized while no other instance of “occupy” is capitalized as such in passives.</li>
+</ul>
+</li>
+<li>All Kings, with the exception of Psycho King, state that they “Can talk during trial.”. Psycho King reads “Can talk at all points during a trial.”.</li>
+<li>Prince’s Imprison mentions “Usable day 1”. Two tiny things with this being that “day” is usually capitalized to “Day” in this kind of instance and there’s no period after “1”.</li>
+<li>Both Butler and Servant’s Serve Wine read “Occupy a player tonight (with wine). They will not be able to use abilities tonight.”. Invoker’s Chains of Corax reads “Occupy target player tonight. They will be prevented from taking any actions tonight.”. Sellsword’s Intimidate reads “Occupy target player and prevent them from taking any actions tonight.”. All four of these classes do the exact same thing, but all read slightly differently and should instead just be the same thing. The “with wine” part is also not necessary for Butler/Servant as that may confused new players that some might be immune to wine specifically over occupation immunity. The flavor text of it can just lead to some very minor problems.</li>
+<li>Assassin’s ability is called “2-For-1”, while Timesnatcher’s Rewind calls it “Two-For-One”. In addition, Rewind also mentions having “no charge<strong>S</strong>”, when it should just read if you don’t have 2-for-1 (since it’s a 1-charge ability anyway). Extremely minor second point but it may confuse new players that they can get more charges beyond the first (through another means besides Rewind).</li>
+<li>Ritualist doesn’t have the orange text from Court Wizard’s/Sage’s Tornado and is worded slightly differently when they should all read the same way.</li>
+<li>
+<ul>
+<li>In addition, all 3’s yellow text should just state “vice versa” instead of “/ or the other way” to make it more clear.</li>
+</ul>
+</li>
+<li>Butler’s Poisoned Wind is worded very weirdly, repeating the whole “if King was BD” thing twice. Delete the last sentence entirely and rewrite the third sentence to: “If the King was Blue Dragon, you will not be able to use any abilities and commit suicide the following night.”.</li>
+<li>Both of Mystic’s night abilities mention “Others won’t know your target” but Link Minds is in the ability itself and Conduit is in the yellow text.</li>
+<li>
+<ul>
+<li>Conduit’s yellow text also ends with a period while other yellow texts don’t.</li>
+</ul>
+</li>
+<li>Some instances of “Cannot target King” are inconsistent. Observer’s has “Target” capitalized; Alch’s says “Cannot target the King”; Possessor’s Mind Control reads “Can’t target King.” (and also has a period at the end, which it shouldn’t [and also has “Your target choice” in it, which is redundant and obvious]).</li>
+<li>Apostle’s Cult Pressure reads differently from Noble/Aristocrat/Possessor who all have the same day ability.</li>
+<li>Posessor’s Possess has yellow text that ends in a period (when it shouldn’t). In addition, its unhealable text should just read “Unhealable” to be consistent with other classes.</li>
+<li>Possessor’s Puppet Strings mentions “controlled player will visit targets - not you”, though this is slightly redundant, plus you can still control yourself. I feel like this would read better if it says “Controlled player will visit targets instead of you”.</li>
+<li>Noble and Aristocrat’s Gossip/Intrigue orange text reads in different orders, when they shouldn’t.</li>
+<li>Hunter’s Bear Companion should read that it “Bypasses death immunity” instead of “death immune”.</li>
+<li>Hunter’s Wolf Companion should have a “Healable” yellow text like the other bleed abilities, and should also not have the “unless saved” bit either. Keep it consistent with the other classes that bleed (minus the flavor text of each that mentions how they cause bleeding).</li>
+<li>Both Mastermind’s Convert and Cult Leader’s Brainwash abilities’ yellow text ends with a period (when it shouldn’t).</li>
+<li>Cult/Unseen King’s Improved Safeguard’s yellow text ends with a period (when it shouldn’t).</li>
+<li>Blue Dragon King’s Safeguard reads “Does’t count as visiting.”. “Does’t” requires an ‘n’ and also ends in a period (when it shouldn’t).</li>
+<li>Pretender’s passive regarding death immunity reads “Death immune” when it should mention “(at night)” to stay consistent with other classes.</li>
+<li>Mercenary’s yellow text for Brilder Hungry is completely redundant when it says the same thing under Protection Services.</li>
+<li>
+<ul>
+<li>In addition, Protection Services reads flat out incorrectly, stating that they “gain more (brilders) with successful ability uses”. “Successful ability uses” may be misinterpreted as “Using an ability successfully”, instead of preventing people with Stand Guard or protecting someone with a Shield.</li>
+</ul>
+</li>
+</ul>
+          <p><a href="https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878/1</link>
+        <pubDate>Mon, 23 Dec 2019 18:32:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79878-1</guid>
+        <source url="https://forum.throneoflies.com/t/class-card-inconsistencies-major-and-minor/79878.rss">Class Card Inconsistencies (major and minor)</source>
+      </item>
+  </channel>
+</rss>

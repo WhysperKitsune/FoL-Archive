@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[Outdated] Throne of Lies Interactions: Q&amp;A</title>
+    <link>https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920</link>
+    <description>## **Summary: This topic is meant to provide answers to those who wish to understand how some of the lesser-known interactions work in Throne of Lies. Hopefully, it should serve as a reference and I will try to constantly update it to keep up with the patchnotes.**
+
+In this topic, I’ve attempted to create a more or less complete list of uncommon interactions and answers, so that the players can have easier access to this information and don’t need to ask for such answers twice.
+The list itself is not complete, so I encourage you to ask about anything in this thread as well, so that it can be expanded and improved.
+
+Let us begin.
+
+# General questions
+
+&gt; **Q:** What is the order of Night actions?
+&gt; **A:** 1. Direct occupation;
+&gt; 2. Redirection; 
+&gt; 3. Indirect occupation;
+&gt; 4. Guard;
+&gt; 5. Attacks;
+&gt; 6. Healing;
+&gt; 7. Frames; 
+&gt; 8. Investigative abilities;
+&gt; 9. Conversion.
+
+&gt; **Q:** What about protective actions, such as healing and guard?
+&gt; **A:** 1. Knight defend;
+&gt; 2. Granted immunity, such as King’s Safeguard;
+&gt; 3. Passive immunity;
+&gt; 4. Mercenary Shield;
+&gt; 5. Healing;
+&gt; 6. Time Warp;
+&gt; 7. Reaper’s Souls.
+
+&gt; **Q:** Is it true that there is a certain amount of players required for the Cult game to spawn?
+&gt; **A:** Yes, for the Cult game to start you will need to have at least 10 players, which is the same amount required for the Neutral Killer to spawn. However, Neutral Killer is not guaranteed to spawn with 10 people present – to guarantee that, you will need at least 14 players.
+
+&gt; **Q:** Can you suicide while jailed?
+&gt; **A:** Yes, you can.
+
+&gt; **Q:** If you are reaped as a Fool, then voted up and executed in court the next day, will you still win?
+&gt; **A:** Yes, you will.
+
+## **Frame Interactions**
+
+&gt; Neutral Investigative’s abilities are not affected by Scorned/Fool Frame, Apostle&#39;s/Illusionist&#39;s Mindwarp or Aristocrat’s Intrigue, however there are numerous other abilities that can alter their results:
+&gt; Targets disguised by Duchess’ Dark Wisp, Timesnatcher’s Dark Dimension and Ritualist’s Brotherhood will all affect Inquisitor’s feedback.
+
+&gt; **More detailed examples:**
+&gt;
+&gt; **Disguised Assassin** will appear as a Physician, meaning they will show up as Support/Social;
+&gt; **Disguised Mastermind** appears as a Sheriff, which matters in case original Heretic Assassin becomes a Mastermind;
+&gt; **Disguised Duchess** will appear as Princess;
+&gt;**Disguised Timesnatcher** will appear as a Chronomancer;
+&gt; **Diguised Cult Leader** will appear as a Paladin or Princess (latter only in case if they had a Royal Blood passive before becoming a Cult Leader);
+&gt; **Disguised Ritualist** appears as a Court Wizard;
+&gt; **Disguised Apostle** appears as a Noble, regardless of Apostle’s starting class;
+&gt; **Disguised Seeker** appears as an Observer or Princess (in case they have a Royal Blood passive);
+&gt; **Diguised Invoker** appears as a Butler or Drunk (once again, depending on their starting class).
+&gt;
+&gt; **Court Wizard’s Empower will still override these results.**
+(Thanks to Tangeld#6642 on Discord for this information).
+
+&gt;**Side note**: Evil Investigatives such as Seeker, Nightwatch, Marshal, Duchess and Handmaiden are also not affected by Frame.
+
+## Maid Interactions Sheet
+
+&gt; Evil = Either Cult or Unseen.
+
+&gt; **Exceptions:**
+&gt; Scorned + Anyone = Incompatible;
+&gt; Royal Blood + Royal Blood = Incompatible;
+&gt; Inquisitor + Heathen = Incompatible.
+
+&gt; **General results:**
+&gt; BD + BD = Compatible;
+&gt; BD + Evil = Incompatible;
+&gt; BD + Alchemist/Fool/Mercenary/Inquisitor = Compatible;
+&gt; BD + Sellsword = Incompatible;
+&gt; Evil + Evil = Compatible;
+&gt; Evil + Alchemist/Fool/Mercenary/Inquisitor/Sellsword = Compatible;
+&gt; NK + Alchemist/Fool/Mercenary/Inquisitor/Sellsword = Compatible;
+&gt; NK + BD/Evil = Incompatible;
+
+&gt; ****Interactions with Frame (If you are Empowered by a Court Wizard you will ignore these):****
+&gt; Framed + BD = Incompatible;
+&gt; Framed + Evil/Alchemist/Mercenary/Inquisitor/Sellsword = Compatible.
+
+# Class-specific interactions
+
+[details=Butler]
+&gt; **Q:** If you poison a Good King then get converted the same night, do you still commit suicide?
+&gt; **A:** No, you will stay alive.
+
+&gt; **Q:** Will Butler poison kill the Psycho King?
+&gt; **A:** Yes, it will kill him unless he is healed (like with all other Kings).
+
+&gt; **Q:** What about Butler poisoning a Possessor who has jumped into the King?
+&gt; **A:** Same as the above – the Possessor will die unless they jump into another body or are healed.
+[/details]
+
+[details=Chronomancer]
+&gt; **Q:** Does Chronomancer count as a “healer” class?
+&gt; **A:** Yes, it does. Since each game has at least one healer, the probability of Chronomancer spawning will be higher.
+
+&gt; **Q:** Can Pocket Dimension ability be healed?
+&gt; **A:** Yes, it can.
+
+&gt; **Q:** Can Reap be delayed?
+&gt; **A:** No, Chronomancer can not delay any of the unhealable attacks – including Reap, Possess, Ruthless Efficiency, suicide via Cold Steel and attacks empowered by a Court Wizard.
+
+&gt; **Q:** What happens if Physician heals someone and Chronomancer uses Time Warp on same person same night?
+&gt; **A:** Healing has priority over Time Warp, so it won’t have any effect.
+
+&gt; **Q:** How does Distort Reality work?
+&gt; **A:** If you have successfully delayed an attack with Time Warp, you will be able to redirect this attack to someone else with Distort Reality. *This Distorted attack will always happen on the night your Delayed target was supposed to die.*
+
+&gt; **Q:** Can you delay an attack that already has been delayed?
+&gt; **A:** Yes, you can delay the same attack multiple times.
+
+&gt; **Q:** Is it true that as a King you can Guard against a death redirected to you with Distort Reality?
+&gt; **A:** Yes, Distort will not bypass the Guards – or Death Immunity in general.
+
+&gt; **Q:** What happens if Timesnatcher uses Timesnatch on someone who gets Time Warped the same night?
+&gt; **A:** Chronomancer’s Time Warp will delay Timesnatch as if it was a regular death.
+
+&gt; **Q:** Will Distort Reality go through the Sellsword’s Stonewall?
+&gt; **A:** No. Distort Reality is not an attack, so you will still be occupied if you try to Distort a death onto someone who is Stonewalled by a Sellsword.
+
+&gt; **Q:** What happens if two Chronomancers successfully delay the same target in the same night? Who will get the results?
+&gt; **A:** All Chronomancers will get successful delay notification, just like all Physicians would get a successful heal notification if they healed an attacked person in the same night.
+
+&gt; **Q:** What about Distort Reality in the same scenario? Will both Chronomancers be able to distort the same death twice? Can they distort it to different people?
+&gt; **A:** No, in this case only the Chronomancer who is higher on the list will be able to Distort the death to another player.
+&gt; As an example, if Chronomancers [5] and [8] went to distort the same death in the same night, [5] would get a successful notification, while [8] would see “There were no deaths you could move from [X]”.
+
+&gt; **Q:** What would happen if one of the Chronomancers Distorts the death N2 and the other tries to Distort it N3?
+&gt; **A:** The second Chronomancer will still get the notification about a death that is about to catch up to their target, however their Distort will yield same results as above: “There were no deaths you could move from [X]”.
+
+&gt; **Q:** What happens if a Physician Exhumes someone who was killed by a delay transferred to them via Distort Reality? Will Exhume show the Chronomancer as the killer?
+&gt;**A:** The Exhume will return feedback as if the target was killed by the original attacker. Example:
+&gt;
+&gt;If a Chronomancer delays [3], who was attacked by the Sorcerer, then Distorts their death to [14] who subsequently dies from it, Exhume would show you: &quot;[14] was killed by the Sorcerer.&quot;
+[/details]
+
+[details=Court Wizard]
+&gt; **Q:** What happens if two Court Wizards Tornado the same person?
+&gt; **A:** Court Wizard higher on the player list will get priority and swap the target first. Second Court Wizard will get redirected. As an example:
+&gt; The two Court Wizards are [5] and [15]. **[5]** decides to swap [2] and [10] tonight, **[15]** decides to swap [2] and [12]. The result will be:
+&gt; For [5]: Swap [2]&amp;[10] – Success.
+&gt; For [15]: Swap [2]&amp;[12] – Redirected from [2] to [10] – Swap [10]&amp;[12].
+
+&gt; **Q:** If a Court Wizard Empowers a Killer class, does that make their attacks pierce Death Immunity?
+&gt; **A:** No, it simply makes their attacks unhealable.
+
+&gt; **Q:** What happens if two Court Wizards successfully Empower the same target the same night? Will they both get the feedback?
+&gt; **A:** No, right now only the Court Wizard that is lower on the list will get Aided feedback, as their Empower will override the first one.
+
+&gt; **Q:** If a Court Wizard is redirected to himself and Occupied the same night he tries to Empower someone, will he Aid himself?
+&gt; **A:** If the Occupy attempt is a direct one (like Butler&#39;s Serve Wine or Invoker&#39;s Chains of Corax), then the Court Wizard will be occupied and will not aid himself, due to Occupation taking priority over Redirection. 
+However if the Occupy attempt is a non-direct one (like Mercenary&#39;s Stand Guard), the Court Wizard will indeed aid himself.
+
+&gt; **Q:** What does “aided” mean when you target someone with Empower?
+&gt; **A:** It means that essentially one of the following things has happened:
+&gt;
+&gt; - Your target is a **Social** class and someone tried to convert them. (Remember that Empower protects from conversion *attempts* , even if Mastermind or Cult Leader tries to convert a Scorned, it will say that your Empower aided them);
+&gt; - Your target is a **Killer** class and they have attacked someone. It doesn’t mean there was an attempt to heal their target, it simply means that they have attacked;
+&gt; - Your target is an **Investigative** class, and someone tried to Mindwarp them or they tried investigating a Framed or Disguised target;
+&gt; - Your target is a **Support** class and either tried to visit a Jailed target, or someone tried to Occupy them;
+&gt; - Your target is an **Offensive** class and someone tried to kill them last night, but your Empower granted them Death Immunity.
+&gt;
+&gt;**Worth of note:** You cannot Empower attacks that are already Unhealable, so you will not get &quot;aided&quot; feedback on Reaper&#39;s Reap or Possessor&#39;s Possess.
+[/details]
+
+[details=Cult Leader]
+&gt; **Q:** Can a Cult Leader sacrifice a jailed target?
+&gt; **A:** No, Sacrifice does not work in jail.
+
+&gt; **Q:** Can you heal a Cult Leader that tries to convert a Smited target?
+&gt; **A:** No, Smite bypasses Healing and Death Immunity.
+[/details]
+
+[details=Drunk]
+&gt; **Q:** What happens if the same person is Occupied and Debauched the same night?
+&gt; **A:** They will be occupied, and show up as Redirection/Occupy Immune to the Drunk – since you cannot change target of the occupied person.
+
+&gt; **Q:** What happens if Drunk tries to Debauch a Physician who uses Self-Care?
+&gt; **A:** The Drunk will get a message that his target is Redirection Immune since Self-Care is a non-targeted ability and cannot be redirected. The same thing will happen if Drunk tries to Debauch a Hunter who uses a Bear, a Noble who uses Court Spy, or a Sorcerer who uses Detonate.
+
+&gt; **Q:** What about trying to Debauch someone who does not use any abilities at all?
+&gt; **A:** They will show as Redirection/Occupy Immune as well -- you cannot redirect players that do not act.
+
+&gt; **Q:** What happens if a Drunk Happy Hours a Court Wizard using Tornado or a Cult Leader trying to Eradicate someone? Which target will be swapped, the first one or the second one?
+&gt; **A:** Happy Hour/Debauchery will always change the second target.
+
+&gt; **Q:** What happens if two Drunks Debauch the same person the same night? 
+&gt; **A:** Their target will be Redirected twice – first by the Drunk that is higher on the list, then by the one that is lower.
+[/details]
+
+[details=Inquisitor]
+&gt; **Q:** If you have successfully killed all 3 Heretics, can you still step up to become a Neutral King as Inquisitor?
+&gt; **A:** No, you will not get an option to step up if you have already achieved your objective.
+
+&gt; **Q:** Will you automatically lose the game if Neutral Killer and all of the Cult/Unseen members are dead, but there are still living Heretics left?
+&gt; **A:** No. As long as you have at least one charge of Ruthless Efficiency and at least one Heretic alive, the game will keep going to allow you to achieve your win condition.
+&gt;
+&gt; **[color=Cult]This interaction is currently bugged and the game will end no matter how many charges of RE you have left.[/color]**
+
+&gt; **Q:** What happens if a Possessor jumps into one of your Heretics? Do you just get a free kill?
+&gt; **A:** No. If your Heretic is jumped by a Possessor, you will still need to see them executed. If you try to Interrogate them, the result will say:
+&gt; “[X] is a Heretic!
+&gt; They are a Possessor.”
+
+&gt; **Q:** What happens if a Heretic steps up as a King and Inquisitor interrogates them? Will they just get &quot;X is the King&quot; feedback?
+&gt; **A:** No, the Inquisitor will be able to see the King&#39;s faction when using Interrogate on them.
+[/details]
+
+[details=King]
+&gt; **Q:** What if Scorned Frames someone the same night Evil King uses Allies on them? Will they show up as an ally?
+&gt; **A:** No, Evil King’s Allies are not affected by Frame.
+[/details]
+
+[details=Knight]
+&gt; **Q:** How does Cold Steel work? What are the scenarios that cause you to suicide?
+&gt; **A:** As a rule of thumb, **any successful attack on a BD target** will cause you to suicide, but if you CS a Death Immune BD, you will survive. So to summarize:
+&gt;
+&gt;You **will** commit suicide if you hit a BD target that is healed by a Physician/Alchemist or Delayed by a Chronomancer (Pocket Dimension/Self-Care also apply here).
+&gt;You **will not** commit suicide if you CS a BD target Safeguarded by the King, Offensive class Empowered by a Court Wizard, or target protected by Mercenary&#39;s Shield.
+
+&gt; **Q:** Can Enforcer’s Frenzy kill a jailed target? What about someone guarded by a Mercenary?
+&gt; **A:** Frenzy will indeed bypass Imprison, however it will not pierce Mercenary&#39;s Shield.
+
+&gt; **Q:** So if Frenzy goes through everything, it will also kill the Reaper?
+&gt; **A:** No, the situation with Reaper is a different one. The Reaper does not “heal” himself like a Physician does, he uses his souls to resurrect himself at the end of the night. So if he has at least one soul left, he will survive the attack.
+
+&gt; **Q:** How does Enforcer’s Protection work?
+&gt; **A:** Essentially, it is same as Mercenary Guard – it will occupy all and any visits to the guarded Unseen member.
+[/details]
+
+[details=Maid]
+&gt; **Q:** If a Ritualist is Debauched to a Neutral Killer while using Brotherhood, will the NK show as &quot;Match&quot; to Maid&#39;s Matchmake with another BD?
+&gt; **A:** Yes, since Disguised NK will be treated as BD to all investigative checks for that night.
+[/details]
+
+[details=Mercenary]
+&gt; **Q:** What happens when a Mercenary and a Sellsword try to guard the same target?
+&gt; **A:** Both will be able to guard their target, however only those trying to attack or convert the target would be able to visit. The Mercenary will only get brilders from those visitors, as everyone else will be occupied by the Sellsword.
+
+&gt; **Q:** How can you stop Shielding someone as a Mercenary?
+&gt; **A:** Shielding yourself will cancel your active Shield.
+
+&gt; **Q** : How does Shield work? Do you need to use Shield on the same person each night or will it simply stay on the target?
+&gt; **A:** Shield acts like Sheriff’s scout, meaning it will stay on your target unless it is cancelled, swapped to someone else, or triggered by an attack.
+
+&gt; **Q** : Does Shield stop all attacks on the target that happen in the same night, or does it only stop the first one?
+&gt; **A:** Shield only stops the first attack -- a Shielded target that is attacked twice (or more times) in the same night will die.
+[/details]
+
+[details=Noble]
+&gt; **Q:** If you Gossip someone who is healed multiple times, will you see them as being healed once?
+&gt; **A:** No, you will see the feedback twice (or as many times as they were healed).
+
+&gt; **Q:** Which abilities cannot be seen with Gossip? Are there any exceptions?
+&gt; **A:** Noble&#39;s Gossip is unable to see the following:
+&gt; - Conversion;
+&gt; - Attacks;
+&gt; - King&#39;s night abilities;
+&gt; - Another Noble&#39;s Gossip/Aristocrat&#39;s Intrigue;
+&gt; - Mercenary&#39;s Shield;
+&gt; - Disguises (Brotherhood/Dark Dimension/Dark Wisp);
+&gt; - Self-targeting abilities;
+&gt; - Redirecting abilities. 
+&gt;
+&gt;Everything else should return feedback as normal.
+
+&gt; **Q:** Can you use Political Pressure on reaped/silenced people?
+&gt; **A:** You are able to force reaped/silenced people to accuse others, however forcing a reaped player will yield no result – it will simply consume one charge of your ability.
+[/details]
+[details=Observer]
+&gt; **Q:** If an Observer Observes someone who tries to visit a jailed target and gets prevented, will they still see that attempt as a visit?
+&gt; **A:** No, they will see the target visiting no one.
+
+&gt; **Q:** What about Observer Observing/Overlooking someone who is redirected to themselves?
+&gt; **A:** Let’s say that the Observer Observes [14] and they are Happy Houred by [4], the Drunk. 
+&gt;
+&gt;In this case, the Observe feedback will be:
+&gt; [14] was visited by [4] last night.
+&gt;If they use Overlook, they will instead see:
+&gt; [14] visited no one last night.
+
+&gt; **Q:** What happens if you get Mindwarped or Observe/Overlook a Framed target as an Observer? How will it affect both abilities?
+&gt; **A:** There are two possible outcomes:
+&gt;
+&gt; **1.** You will see your target visiting someone who died the same night;
+&gt; **2.** If there were no deaths, your results will show no visits/no visitors to the target instead.
+&gt;
+&gt;**If someone is attacked and healed the same night Observer Observes a Framed target, they will still see them as visiting no one.**
+
+&gt; **Q:** Let’s say an Observer Observes a Hunter who uses Hunter’s Mark. Will they see him visiting his first target or will they see him visiting both?
+&gt; **A:** The Observer will see him visiting both. This also applies to Chronomancer who uses Distort Reality – they will be seen visiting both people.
+[/details]
+
+[details=Physician]
+&gt; **Q:** What causes the message “You could not heal [X]”?
+&gt; **A:** Enforcer’s Frenzy, Knight’s Guard, Reap (on the second night), Possess on Possessor&#39;s jump target, Inquisitor’s Ruthless Efficiency, Suicides (Cult Leader, Mastermind, Assassin, Butler, Knight), Blood of Mithras, Paladin&#39;s Smite and target being attacked by a Killer class who was Empowered by a Court Wizard.
+
+&gt; **Q:** Possessor’s class card says that his jumps cannot be healed. Will the Physician see “You could not heal [X]” message on them as well?
+&gt; **A:** No, you will still see DNR if you try to heal a **jump target**, however if you heal Possessor&#39;s original body, you will indeed see the &quot;Could Not Heal&quot; feedback.
+
+&gt; **Q:** Will Exhume notify you which Neutral Killer has killed your target? Or will it simply say that they were killed by a NK?
+&gt; **A:** The feedback will specify if they were killed by a Possessor, Reaper or Sorcerer.
+
+&gt; **Q:** Will Exhume give different notifications if the player’s body was Possessed or if they were simply killed by a Possessor?
+&gt; **A:** No, the feedback will be same in both cases.
+
+&gt; **Q:** What about Exhuming someone killed by the Psycho King? Will it still say Possessor/Sorcerer/Reaper or will it show Psycho King?
+&gt; **A:** If you exhume a target killed by the Psycho King, your result will display it as: “[X] was killed by an Alchemist”.
+[/details]
+
+[details=Princess]
+&gt; **Q:** Which abilities trigger Princess&#39; Will-o-Wisp? 
+&gt; **A:** Alchemist&#39;s Emerald Potion;
+Assassin&#39;s Assassinate and 2-For-1;
+Cult Leader&#39;s Eradicate;
+Knight&#39;s Cold Steel;
+Hunter&#39;s Hunter&#39;s Mark (even if you do not actually attack someone);
+Inquisitor&#39;s Ruthless Efficiency;
+Possessor&#39;s Puppet Strings and Possess;
+Reaper&#39;s Reap and Circle of Death;
+Sorcerer&#39;s Magic Missile (even if you do not attack because of Perception passive).
+
+&gt; **Q:** If you Mindwarp a Princess that uses Wisp, will she get the message that her target attacked someone?
+&gt; **A:** Yes, the Wisp will notify the Princess.
+[/details]
+
+[details=Possessor]
+&gt; **Q:** If Possessor jumps into a member of the Cult/Unseen and is checked by a Paladin or Sheriff the same night, will they come up as NS?
+&gt; **A:** The Possessor will come up as Cult/Unseen to the investigative classes due to the night action priority. However, if they are investigated again the next night, they will appear NS.
+
+&gt; **Q:** Do Puppet Strings count as an attack if the Princess Wisps you?
+&gt; **A:** No, Puppet Strings will not trigger the Wisp. If the person you use to attack someone is Wisped, however, it **will** notify the Princess.
+
+&gt; **Q:** What happens if a Maid Matchmakes Possessor&#39;s original body on N1, then his jump target on N2? Would the results return a &quot;Match&quot;?
+&gt; **A:**  No. On both nights, the results would be Incompatible in all cases -- unless the target is an Alchemist, Fool, Sellsword, Mercenary or Inquisitor. 
+This happens because on the second night, instead of Matchmaking Possessor in his original body, the Maid would be matching a now dead player in that body, therefore comparing their original faction against the Possessor himself.
+[/details]
+
+[details=Reaper]
+&gt; **Q:** If you redirect the Reaper to himself, will he reap his own soul? What if he uses Gather Darkness?
+&gt; **A:** No, in both cases. If the Reaper is swapped to himself he will simply see the following message: “You cannot reap yourself.”
+
+&gt; **Q:** What happens if the Reaper empower reaps a target guarded by the Knight?
+&gt; **A:** The guarding Knight will get reaped.
+
+&gt; **Q:** If the Reaper is attacked twice in one night, will he lose two souls or just one?
+&gt; **A:** He will always lose one, no matter how many times he was attacked in the same night.
+
+&gt; **Q:** If an Alchemist uses Stoneskin, then heals a target Circled by the Reaper, will they die?
+&gt; **A:** No, the Alchemist will survive.
+[/details]
+
+[details=Sheriff]
+&gt; **Q:** If a target Framed by Scorned visits someone who is Scouted by a Sheriff, will the Sheriff be alerted?
+&gt; **A:** No, the Scout will not alert the Sheriff.
+
+&gt; **Q:** What happens if the Scorned frames a target that is Surveilled by a Sheriff? What about Fool framing himself?
+&gt; **A:** Surveillance will show the framed target as an Assassin in both cases.
+
+&gt; **Q:** Can you find a Mastermind before N4 if you use Surveillance?
+&gt; **A:** No, Surveillance will not bypass Mastermind’s passive.
+
+&gt; **Q:** What happens if Unseen try to visit someone who is Scouted by a Sheriff and jailed that night? Will your Scout still be alerted?
+&gt; **A:** Yes, the Sheriff will still get notification.
+[/details]
+
+[details=Sorcerer]
+&gt; **Q:** What happens if a Sorcerer Detonates walking bomb in you while you are shielded by a Mercenary? Will you survive?
+&gt; **A:** Yes, you will.
+
+&gt; **Q:** Can you die while jailed if Sorcerer Detonates a bomb in you the same night?
+&gt; **A:** Yes, Jail does not negate the effects of Detonate.
+
+&gt; **Q:** How does Empower work with Detonate? Will it make the bombs unhealable?
+&gt; **A:** No. Detonate itself does not count as an attack, therefore it will not be affected by Empower.
+[/details]</description>
+    
+    <lastBuildDate>Wed, 23 Dec 2020 23:08:31 +0000</lastBuildDate>
+    <category>General</category>
+    <atom:link href="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[Outdated] Throne of Lies Interactions: Q&amp;A</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <p>cmon if you’re gonna meme that at least include this</p>
+<p><img src="https://forum.throneoflies.com/uploads/default/original/3X/7/5/753396fd68e6bb01768ff3aa352ca9e6f8d7d97c.png" alt="Welcome_Chloe" data-base62-sha1="gIOotbhpnxu6MvtQc2HuLWCqGYY" width="434" height="152"></p>
+          <p><a href="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/30">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/30</link>
+        <pubDate>Wed, 23 Dec 2020 23:08:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79920-30</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920.rss">[Outdated] Throne of Lies Interactions: Q&amp;A</source>
+      </item>
+      <item>
+        <title>[Outdated] Throne of Lies Interactions: Q&amp;A</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p>:sadge:</p>
+          <p><a href="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/29">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/29</link>
+        <pubDate>Wed, 23 Dec 2020 23:03:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79920-29</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920.rss">[Outdated] Throne of Lies Interactions: Q&amp;A</source>
+      </item>
+      <item>
+        <title>[Outdated] Throne of Lies Interactions: Q&amp;A</title>
+        <dc:creator><![CDATA[thepigeonnyc]]></dc:creator>
+        <description><![CDATA[
+            <p><div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/e/d/edc0ec8757d2b9b4835f7af977b0a999222264ec.png" data-download-href="https://forum.throneoflies.com/uploads/default/edc0ec8757d2b9b4835f7af977b0a999222264ec" title="image"><img src="https://forum.throneoflies.com/uploads/default/original/3X/e/d/edc0ec8757d2b9b4835f7af977b0a999222264ec.png" alt="image" data-base62-sha1="xVguSON3GsV0ixdSqMXHKn5dina" width="690" height="35" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/e/d/edc0ec8757d2b9b4835f7af977b0a999222264ec_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1147×59 5.8 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div><br>
+This is such a silly bug.</p>
+          <p><a href="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/28">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/28</link>
+        <pubDate>Wed, 23 Dec 2020 23:02:25 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79920-28</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920.rss">[Outdated] Throne of Lies Interactions: Q&amp;A</source>
+      </item>
+      <item>
+        <title>[Outdated] Throne of Lies Interactions: Q&amp;A</title>
+        <dc:creator><![CDATA[Chloe]]></dc:creator>
+        <description><![CDATA[
+            <p>Normal feedback!</p>
+<p>Drunk receieves feedback that their action was successful<br>
+“You redirected x to y”</p>
+<p>Debbed player is told they had their target changed, even though they didnt</p>
+<p>“Someone redirected you to y. This could’ve been a Court Wizard, a Drunk, an Alcoholic, a Sage, an Invoker, a Ritualist, or the Sellsword”</p>
+<hr>
+<p>And yes, this thread is outdated. I’ll get to updating it soon ^^</p>
+          <p><a href="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/27">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/27</link>
+        <pubDate>Wed, 23 Dec 2020 20:29:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79920-27</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920.rss">[Outdated] Throne of Lies Interactions: Q&amp;A</source>
+      </item>
+      <item>
+        <title>[Outdated] Throne of Lies Interactions: Q&amp;A</title>
+        <dc:creator><![CDATA[EliThePsycho]]></dc:creator>
+        <description><![CDATA[
+            <p>anstriem is gone<br>
+but i’m p sure the drunk recieves redirected<br>
+and the target recieves “you were redirected to x”<br>
+so normal feedback</p>
+          <p><a href="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/26">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/26</link>
+        <pubDate>Wed, 23 Dec 2020 20:27:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79920-26</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920.rss">[Outdated] Throne of Lies Interactions: Q&amp;A</source>
+      </item>
+      <item>
+        <title>[Outdated] Throne of Lies Interactions: Q&amp;A</title>
+        <dc:creator><![CDATA[Japtor]]></dc:creator>
+        <description><![CDATA[
+            <p>I don’t know if this thread is still being used, but I got a question: What messages do both the Drunk and the first target of debauchery receive if the Drunk forces them to their original target?</p>
+          <p><a href="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/25</link>
+        <pubDate>Wed, 23 Dec 2020 20:22:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79920-25</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920.rss">[Outdated] Throne of Lies Interactions: Q&amp;A</source>
+      </item>
+      <item>
+        <title>[Outdated] Throne of Lies Interactions: Q&amp;A</title>
+        <dc:creator><![CDATA[thepigeonnyc]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Anstreim" data-post="1" data-topic="79920">
+<div class="title">
+<div class="quote-controls"></div>
+ Anstreim:</div>
+<blockquote>
+<p>If you are Empowered</p>
+</blockquote>
+</aside>
+<p>A mod should update this for 3.0.0 (it seems Ans left the forums <img src="https://forum.throneoflies.com/images/emoji/twitter/frowning.png?v=9" title=":frowning:" class="emoji" alt=":frowning:">)</p>
+          <p><a href="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/24</link>
+        <pubDate>Wed, 16 Sep 2020 19:53:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79920-24</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920.rss">[Outdated] Throne of Lies Interactions: Q&amp;A</source>
+      </item>
+      <item>
+        <title>[Outdated] Throne of Lies Interactions: Q&amp;A</title>
+        <dc:creator><![CDATA[anon6348071]]></dc:creator>
+        <description><![CDATA[
+            <p>That is correct.<br>
+Like Napoleon said, for purpose of Princess Flirt (or if there was a BD class that could see certain classes on its own), Disguised Assassin appears as a Physician (S/S).</p>
+<p>Also Napoleon’s point about Disguise + Interrogate interaction is correct as well.</p>
+          <p><a href="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/23</link>
+        <pubDate>Tue, 04 Aug 2020 17:23:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79920-23</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920.rss">[Outdated] Throne of Lies Interactions: Q&amp;A</source>
+      </item>
+      <item>
+        <title>[Outdated] Throne of Lies Interactions: Q&amp;A</title>
+        <dc:creator><![CDATA[Napoleon]]></dc:creator>
+        <description><![CDATA[
+            <p>To investigative abilities, a Disguised Assassin will be treated as if they are a Physician.</p>
+<p>Princess flirts them as Social/Support.</p>
+<p>If there was a BD class that could check them for their exact class, they would get Physician.</p>
+<p>Also, I believe that Inq with an Assassin heretic who interrogates a disguised Assassin will get Physician heretic.</p>
+          <p><a href="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/22</link>
+        <pubDate>Sun, 02 Aug 2020 20:06:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79920-22</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920.rss">[Outdated] Throne of Lies Interactions: Q&amp;A</source>
+      </item>
+      <item>
+        <title>[Outdated] Throne of Lies Interactions: Q&amp;A</title>
+        <dc:creator><![CDATA[Intensify]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Anstreim" data-post="1" data-topic="79920">
+<div class="title">
+<div class="quote-controls"></div>
+ Anstreim:</div>
+<blockquote>
+<p><strong>Disguised Assassin</strong> will appear as a Physician, meaning they will show up as Support/Social;</p>
+</blockquote>
+</aside>
+<p>Oh wait I wasn’t aware of this. Assassin appears as Phys when disguised?</p>
+          <p><a href="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/21</link>
+        <pubDate>Sun, 02 Aug 2020 18:53:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79920-21</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920.rss">[Outdated] Throne of Lies Interactions: Q&amp;A</source>
+      </item>
+      <item>
+        <title>[Outdated] Throne of Lies Interactions: Q&amp;A</title>
+        <dc:creator><![CDATA[anon6348071]]></dc:creator>
+        <description><![CDATA[
+            <p>Fixed those as well, thanks.</p>
+          <p><a href="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/20</link>
+        <pubDate>Fri, 31 Jul 2020 01:58:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79920-20</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920.rss">[Outdated] Throne of Lies Interactions: Q&amp;A</source>
+      </item>
+      <item>
+        <title>[Outdated] Throne of Lies Interactions: Q&amp;A</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            <p>This is a small thing, but when you removed Fool being incomp by default from the Maid compatibility chart you didn’t add it into the normal results section (quoting the relevant section for clarity)</p>
+<aside class="quote no-group quote-modified" data-username="Anstreim" data-post="1" data-topic="79920">
+<div class="title">
+<div class="quote-controls"></div>
+ Anstreim:</div>
+<blockquote>
+<p>BD + Alchemist/Mercenary/Inquisitor = Compatible;</p>
+</blockquote>
+</aside>
+<aside class="quote no-group quote-modified" data-username="Anstreim" data-post="1" data-topic="79920">
+<div class="title">
+<div class="quote-controls"></div>
+ Anstreim:</div>
+<blockquote>
+<p>Evil + Alchemist/Mercenary/Inquisitor/Sellsword = Compatible;<br>
+NK + Alchemist/Mercenary/Inquisitor/Sellsword = Compatible;</p>
+</blockquote>
+</aside>
+<p>also I like the new formatting better</p>
+          <p><a href="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/19</link>
+        <pubDate>Fri, 31 Jul 2020 01:55:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79920-19</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920.rss">[Outdated] Throne of Lies Interactions: Q&amp;A</source>
+      </item>
+      <item>
+        <title>[Outdated] Throne of Lies Interactions: Q&amp;A</title>
+        <dc:creator><![CDATA[anon6348071]]></dc:creator>
+        <description><![CDATA[
+            <p>Fixed formatting to make this less of a wall of text + removed some outdated interactions (mostly related to the Class section) – let me know if you like this formatting more or if it would be better reverted.</p>
+<p>More questions possibly coming soon.</p>
+          <p><a href="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/18</link>
+        <pubDate>Fri, 31 Jul 2020 01:41:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79920-18</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920.rss">[Outdated] Throne of Lies Interactions: Q&amp;A</source>
+      </item>
+      <item>
+        <title>[Outdated] Throne of Lies Interactions: Q&amp;A</title>
+        <dc:creator><![CDATA[anon97870008]]></dc:creator>
+        <description><![CDATA[
+            <p>Delilah is best boy</p>
+          <p><a href="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/17</link>
+        <pubDate>Tue, 28 Jan 2020 06:27:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79920-17</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920.rss">[Outdated] Throne of Lies Interactions: Q&amp;A</source>
+      </item>
+      <item>
+        <title>[Outdated] Throne of Lies Interactions: Q&amp;A</title>
+        <dc:creator><![CDATA[anon6348071]]></dc:creator>
+        <description><![CDATA[
+            <p>The topic will be updated as soon as 2.5 is live and all fixed bugs will be removed from the list.</p>
+          <p><a href="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/16</link>
+        <pubDate>Tue, 28 Jan 2020 05:36:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79920-16</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920.rss">[Outdated] Throne of Lies Interactions: Q&amp;A</source>
+      </item>
+      <item>
+        <title>[Outdated] Throne of Lies Interactions: Q&amp;A</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>Assuming it stayed live lol</p>
+<p>I didn’t honestly pay much attention because I’ve had, like, two noticeably bugged games ever</p>
+          <p><a href="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/15</link>
+        <pubDate>Tue, 28 Jan 2020 00:20:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79920-15</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920.rss">[Outdated] Throne of Lies Interactions: Q&amp;A</source>
+      </item>
+      <item>
+        <title>[Outdated] Throne of Lies Interactions: Q&amp;A</title>
+        <dc:creator><![CDATA[anon97870008]]></dc:creator>
+        <description><![CDATA[
+            <p>Its easier to answer this after 2.5 is out again</p>
+          <p><a href="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/14</link>
+        <pubDate>Mon, 27 Jan 2020 19:02:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79920-14</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920.rss">[Outdated] Throne of Lies Interactions: Q&amp;A</source>
+      </item>
+      <item>
+        <title>[Outdated] Throne of Lies Interactions: Q&amp;A</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>Any of those bugs fixed yet?</p>
+          <p><a href="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/13</link>
+        <pubDate>Mon, 27 Jan 2020 18:55:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79920-13</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920.rss">[Outdated] Throne of Lies Interactions: Q&amp;A</source>
+      </item>
+      <item>
+        <title>[Outdated] Throne of Lies Interactions: Q&amp;A</title>
+        <dc:creator><![CDATA[anon97870008]]></dc:creator>
+        <description><![CDATA[
+            <p>Always good to read again <img src="/images/emoji/twitter/eyes.png?v=9" title=":eyes:" class="emoji" alt=":eyes:"></p>
+          <p><a href="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/12</link>
+        <pubDate>Mon, 27 Jan 2020 17:43:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79920-12</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920.rss">[Outdated] Throne of Lies Interactions: Q&amp;A</source>
+      </item>
+      <item>
+        <title>[Outdated] Throne of Lies Interactions: Q&amp;A</title>
+        <dc:creator><![CDATA[anon6348071]]></dc:creator>
+        <description><![CDATA[
+            <p>Added the Happy Hour/Debauch interaction, thank you.<br>
+Also clarified the wording on the Maid sheet, it was pretty awkward indeed.</p>
+          <p><a href="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/11</link>
+        <pubDate>Sat, 28 Dec 2019 13:19:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79920-11</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920.rss">[Outdated] Throne of Lies Interactions: Q&amp;A</source>
+      </item>
+      <item>
+        <title>[Outdated] Throne of Lies Interactions: Q&amp;A</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <p>I think adding the interaction of Drunk debauch/HH + multitargetting abilities (namely swaps and double kills) would be handy, as that is a topic of quite some confusion.</p>
+<p>Since some people don’t know whether the first or second target is changed by a debauch or HH ^^</p>
+<p>also minor gripe:</p>
+<aside class="quote no-group" data-username="Anstreim" data-post="1" data-topic="79920">
+<div class="title">
+<div class="quote-controls"></div>
+ Anstreim:</div>
+<blockquote>
+<p><strong><strong>Interactions with Frame (Court Wizard’s Empower on Investigative class will ignore these):</strong></strong></p>
+</blockquote>
+</aside>
+<p>Given this is under ‘Maid interactions’ I feel like specifying <em>Investigative class</em> is mildly redundant</p>
+          <p><a href="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/10</link>
+        <pubDate>Sat, 28 Dec 2019 11:52:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79920-10</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920.rss">[Outdated] Throne of Lies Interactions: Q&amp;A</source>
+      </item>
+      <item>
+        <title>[Outdated] Throne of Lies Interactions: Q&amp;A</title>
+        <dc:creator><![CDATA[anon6348071]]></dc:creator>
+        <description><![CDATA[
+            <p>Correct, there will be no conversion/attack unless the visiting attacker/MM/CL are occupy immune.</p>
+<p>If an Occupy Immune Observer follows in this scenario, again, he should not see anyone but the Mercenary/Sellsword visiting the target as everyone else will be occupied.</p>
+          <p><a href="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/9</link>
+        <pubDate>Sat, 28 Dec 2019 02:33:33 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79920-9</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920.rss">[Outdated] Throne of Lies Interactions: Q&amp;A</source>
+      </item>
+      <item>
+        <title>[Outdated] Throne of Lies Interactions: Q&amp;A</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Also, does that mean an Observer can see the visit and can’t see the non-attacking/converting visitors?</p>
+          <p><a href="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/8</link>
+        <pubDate>Sat, 28 Dec 2019 02:11:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79920-8</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920.rss">[Outdated] Throne of Lies Interactions: Q&amp;A</source>
+      </item>
+      <item>
+        <title>[Outdated] Throne of Lies Interactions: Q&amp;A</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="anon6348071" data-post="6" data-topic="79920">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/priest-icon-256.jpg" class="avatar"> anon6348071:</div>
+<blockquote>
+<p>Attackers/converters will visit the target, but be occupied by the Mercenary who will get brilders from them</p>
+</blockquote>
+</aside>
+<p>Just to clarify, this means they are still occupied, and thus will fail to Kill/Convert their target correct?</p>
+          <p><a href="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/7</link>
+        <pubDate>Sat, 28 Dec 2019 02:07:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79920-7</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920.rss">[Outdated] Throne of Lies Interactions: Q&amp;A</source>
+      </item>
+      <item>
+        <title>[Outdated] Throne of Lies Interactions: Q&amp;A</title>
+        <dc:creator><![CDATA[anon6348071]]></dc:creator>
+        <description><![CDATA[
+            <p>Specified/fixed all the point you made, thank you. The Sellsword/Mercenary interaction is correct and written as is, though it may be confusing. Attackers/converters will visit the target, but be occupied by the Mercenary who will get brilders from them, because everyone else will be occupied by the Sellsword.</p>
+          <p><a href="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920/6</link>
+        <pubDate>Sat, 28 Dec 2019 01:53:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79920-6</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-throne-of-lies-interactions-q-a/79920.rss">[Outdated] Throne of Lies Interactions: Q&amp;A</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[Outdated] Double kill bug</title>
+    <link>https://forum.throneoflies.com/t/outdated-double-kill-bug/1090</link>
+    <description>####What happened?
+
+Both a possessor and an assassin killed the same Butler. 
+
+It showed [12] died by a Possessor and an assassin, and went through the phases (i.e. [12] was a butler)
+
+THEN
+
+It then showed [12] died by an assassin (ONLY, instead of both, but regardless this line trigged too) and went through the phases again. ([12] was a butler)
+
+####What was SUPPOSED to happen?
+
+The only thing that should show up is the first line.
+
+####Steps to reproduce:
+
+Both roles stated above kill the same target.
+
+####Comments:</description>
+    
+    <lastBuildDate>Fri, 07 Apr 2017 11:33:59 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forum.throneoflies.com/t/outdated-double-kill-bug/1090.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[Outdated] Double kill bug</title>
+        <dc:creator><![CDATA[ThePlex]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href="https://forum.throneoflies.com/t/outdated-double-kill-bug/1090/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-double-kill-bug/1090/2</link>
+        <pubDate>Thu, 31 Aug 2017 02:46:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-1090-2</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-double-kill-bug/1090.rss">[Outdated] Double kill bug</source>
+      </item>
+      <item>
+        <title>[Outdated] Double kill bug</title>
+        <dc:creator><![CDATA[Zippyvinman]]></dc:creator>
+        <description><![CDATA[
+            <p>###<span class="hashtag">#What</span> happened?</p>
+<p>Both a possessor and an assassin killed the same Butler.</p>
+<p>It showed [12] died by a Possessor and an assassin, and went through the phases (i.e. [12] was a butler)</p>
+<p>THEN</p>
+<p>It then showed [12] died by an assassin (ONLY, instead of both, but regardless this line trigged too) and went through the phases again. ([12] was a butler)</p>
+<p>###<span class="hashtag">#What</span> was SUPPOSED to happen?</p>
+<p>The only thing that should show up is the first line.</p>
+<p>###<span class="hashtag">#Steps</span> to reproduce:</p>
+<p>Both roles stated above kill the same target.</p>
+<p>###<span class="hashtag">#Comments:</span></p>
+          <p><a href="https://forum.throneoflies.com/t/outdated-double-kill-bug/1090/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-double-kill-bug/1090/1</link>
+        <pubDate>Fri, 07 Apr 2017 11:33:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-1090-1</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-double-kill-bug/1090.rss">[Outdated] Double kill bug</source>
+      </item>
+  </channel>
+</rss>

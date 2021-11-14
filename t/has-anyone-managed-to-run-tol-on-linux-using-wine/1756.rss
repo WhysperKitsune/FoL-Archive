@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Has anyone managed to run ToL on linux using Wine?</title>
+    <link>https://forum.throneoflies.com/t/has-anyone-managed-to-run-tol-on-linux-using-wine/1756</link>
+    <description>I have Wine 2.8 set to Windows 7/Windows 10, with these DLLs enabled: [screenshot](http://i.imgur.com/KBbT06p.jpg) (&quot;natywna&quot; = &quot;native&quot;, &quot;wbudowana&quot; = &quot;built-in&quot;).
+
+ I ran other games using Wine, such as Hearthstone and Shadowverse, but all that happens when I try to run ToL is a pink screen and a crash after about a minute.
+Game works fine on this PC on an actual Windows 7, for the record.
+[Screenfetch for reference](http://i.imgur.com/rR14VkR.jpg)</description>
+    
+    <lastBuildDate>Tue, 23 May 2017 06:43:45 +0000</lastBuildDate>
+    <category>General</category>
+    <atom:link href="https://forum.throneoflies.com/t/has-anyone-managed-to-run-tol-on-linux-using-wine/1756.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Has anyone managed to run ToL on linux using Wine?</title>
+        <dc:creator><![CDATA[eevee]]></dc:creator>
+        <description><![CDATA[
+            <p>Not wine.</p>
+<p>Virtual machine with gpu passthrough. Very resource consuming and not recomended for any machine not made for it. But it works.</p>
+<p>Wine didn’t work tho for me, even tho I tried earlier. It was few patches before tho.</p>
+<p>Also, welcome to polish linux community. Lmao.</p>
+          <p><a href="https://forum.throneoflies.com/t/has-anyone-managed-to-run-tol-on-linux-using-wine/1756/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/has-anyone-managed-to-run-tol-on-linux-using-wine/1756/3</link>
+        <pubDate>Tue, 23 May 2017 06:43:45 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-1756-3</guid>
+        <source url="https://forum.throneoflies.com/t/has-anyone-managed-to-run-tol-on-linux-using-wine/1756.rss">Has anyone managed to run ToL on linux using Wine?</source>
+      </item>
+      <item>
+        <title>Has anyone managed to run ToL on linux using Wine?</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>Random, but btw, if you are a Mac or Linux user, type <code>?rank mac user</code> or <code>?rank linux user</code> to participate in Alpha later for those OS’.</p>
+<p>Back to OP, I’ve seen people run it successfully, but some have hanging at the login screen for connecting to Steam. Wine is officially “unsupported”, so we can’t help much further <img src="/images/emoji/twitter/confused.png?v=9" title=":confused:" class="emoji" alt=":confused:"> but yeah I saw a few in Discord using it. <a class="mention" href="/u/eevee">@eevee</a>  I think uses it.?</p>
+          <p><a href="https://forum.throneoflies.com/t/has-anyone-managed-to-run-tol-on-linux-using-wine/1756/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/has-anyone-managed-to-run-tol-on-linux-using-wine/1756/2</link>
+        <pubDate>Tue, 23 May 2017 06:20:45 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-1756-2</guid>
+        <source url="https://forum.throneoflies.com/t/has-anyone-managed-to-run-tol-on-linux-using-wine/1756.rss">Has anyone managed to run ToL on linux using Wine?</source>
+      </item>
+      <item>
+        <title>Has anyone managed to run ToL on linux using Wine?</title>
+        <dc:creator><![CDATA[Varanthan]]></dc:creator>
+        <description><![CDATA[
+            <p>I have Wine 2.8 set to Windows 7/Windows 10, with these DLLs enabled: <a href="http://i.imgur.com/KBbT06p.jpg" rel="noopener nofollow ugc">screenshot</a> (“natywna” = “native”, “wbudowana” = “built-in”).</p>
+<p>I ran other games using Wine, such as Hearthstone and Shadowverse, but all that happens when I try to run ToL is a pink screen and a crash after about a minute.<br>
+Game works fine on this PC on an actual Windows 7, for the record.<br>
+<a href="http://i.imgur.com/rR14VkR.jpg" rel="noopener nofollow ugc">Screenfetch for reference</a></p>
+          <p><a href="https://forum.throneoflies.com/t/has-anyone-managed-to-run-tol-on-linux-using-wine/1756/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/has-anyone-managed-to-run-tol-on-linux-using-wine/1756/1</link>
+        <pubDate>Mon, 22 May 2017 00:59:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-1756-1</guid>
+        <source url="https://forum.throneoflies.com/t/has-anyone-managed-to-run-tol-on-linux-using-wine/1756.rss">Has anyone managed to run ToL on linux using Wine?</source>
+      </item>
+  </channel>
+</rss>

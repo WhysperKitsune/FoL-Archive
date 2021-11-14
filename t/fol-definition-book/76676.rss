@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>FoL Definition Book</title>
+    <link>https://forum.throneoflies.com/t/fol-definition-book/76676</link>
+    <description># General Mafia Definitons
+
+These are commonly used by players and you should know them because it&#39;s like speaking a language.
+
+
+
+* **AI** : Alignment-Indicative.
+* **AtE** : Appeal to Emotion. Commonly used to describe logcial fallacy itself or overbearing emotionality.
+* **Backpedaling** : Going back on a previous statement, typically after being proven wrong. Usually considered a scumtell.
+* **BoP** : [Burden of Proficiency](https://wiki.mafiascum.net/index.php?title=Burden_of_Proficiency).
+* **Bus** : Scum tries to get another scum lynched in order to put themselves in a better position.
+* **Claimvig** : A conditional kill that relies on the target having claimed. Common in closed setups that can be solved by mechanics.
+* **Counterwagon** : A wagon made in response to a consensus wagon being formed.
+* **Flip** : Refers to the role (or exclusively alignment) shown after a player dies. 
+* **Flipless** : Setup that doesn&#39;t have flips.
+* **FPS** : Short for Fancy Play Syndrome. Refers to gambits that typically involve lying as town in a gambit to further wincon.
+* **FoS** : [Finger of Suspicion](https://wiki.mafiascum.net/index.php?title=Finger_of_Suspicion). Used to indicate that you find someone suspicious but are not going to vote them, for whatever reason (often because you are voting for someone even more suspicious).
+* **GTH** : Gun To Head. Usually prefaces a statement containing absolute certainty by the speaker. Can also be a helpful or threatening question to prompt a response containing certainty.
+* **Hammer** : Referring to the last vote on a player that causes a majority lynch. 
+* **IC** : [Innocent Child](https://wiki.mafiascum.net/index.php?title=Innocent_Child), a [Town](https://wiki.mafiascum.net/index.php?title=Town)-aligned role that has the power to prove itself as town.
+* **IIoA** : [Information Instead of Analysis](https://wiki.mafiascum.net/index.php?title=Information_Instead_of_Analysis).
+* **ISO** : Isolation. Usually refers to reading a player&#39;s posts in isolation. 
+* **LAMIST** : Look at me, I&#39;m so town. Refers to a player using their own prior actions in the game to argue their as pro-Town. 
+* **Lolcat** : Posting in a way to deliberately mislead players after being confirmed as scum.
+* **L-1** : Lynch minus one. This either refers to the second-to-last vote before a lynch is obtained, or a state where a player only needs one more vote to be lynched.
+* **L-#** : Lynch - number, The number indicates how many votes a player needs to be lynched. Eg, in a 9 player game, a player with 3 votes on him is at L-2 (5-3).
+* **LyLo** : [Lynch-Or-Lose](https://wiki.mafiascum.net/index.php?title=Lynch-Or-Lose). This is a stage in the game where the town must lynch scum or they will lose the game.
+* **Misrep** : Misrepresentation.
+* **ML** : Mislynch.
+* **MyLo** : Mislynch and Lose. A stage in the game where the town can no-lynch safely. However, should they mislynch instead, it is likely one of the town will die the next night, resulting in a scum victory.
+* **NAI** : Non-Alignment-Indicative, or null.
+* **NK** : [Night Kill](https://wiki.mafiascum.net/index.php?title=Night_Kill), specifically the scum&#39;s factional kill. Alternatively refers to a Neutral Killer, a third party role with the goal of defeating all members of the main factions.
+* **NKA** : Night Kill Analysis.
+* **NL** : [No Lynch](https://wiki.mafiascum.net/index.php?title=No_Lynch), when no majority on a player is reached, or when a majority of players vote to not have anyone lynched.
+* **OMGUS** : [Oh My God You Suck](https://wiki.mafiascum.net/index.php?title=Oh_My_God_You_Suck). While occasionally used on its own as an insult, it&#39;s usually used as an inferred reasoning for purely retaliatory actions. For instance, an OMGUS vote on someone is one made purely on the basis that they are voting for you.
+* **PL** : [Policy Lynch](https://wiki.mafiascum.net/index.php?title=Policy_Lynch).
+* **PoE** : [Process of Elimination](https://wiki.mafiascum.net/index.php?title=Process_of_Elimination&amp;action=edit&amp;redlink=1).
+* **PR** : [Power Role](https://wiki.mafiascum.net/index.php?title=Power_Role) or [Post Restriction](https://wiki.mafiascum.net/index.php?title=Post_Restriction), depending on context.
+* **RQS** : [Random Questioning Stage](https://wiki.mafiascum.net/index.php?title=Random_Questioning_Stage), an alternative to the Random Voting Stage for starting a game of Mafia. This has one player posing either a survey to all players or a separate question to each player.
+* **RVS** : Random Voting Stage. Most Mafia games start with a phase wherein people vote for silly reasons, until someone slips up or makes a legitimate accusation.
+* **Rand** : Random. Generally used to refer to the role distribution at the beginning of the game or ties being broken at random.
+* **&gt;rand [allignment]** :  Similar to a lean, it indicates that somebody is more likely to be that allignment than random in your mind.
+* **sus(s)** : Suspicious.
+* **SR** : Scum Read.
+* **Scum** : The general term for any non-town aligned players. May be given different prefixes depending on the mechanics of the game.
+* **Scumtell** : Actions taken by a given player that would greatly increase their likelihood of being scum. Alignment Indicatives but by another name.
+* **Thunderdome** : TWO PLAYERS ENTER. 1 PLAYER LEAVES! (where the lynch is locked between a small portion of the playerlist, usually caused by a counterclaim or a Gladiator)
+* **Thread Movement** : Describing how the game thread has been shifting from topic to topic. Generally if thread movement is very fast, then scum are not playing aggressively or are satisfied with the current situation.
+* **Towncred** : Town credibility or a fictional currency or value of credit. A [Goofballism](https://wiki.mafiascum.net/index.php?title=Goofballisms).
+* **TR** : Town Read.
+* **VCA** : [Vote Count Analysis](https://wiki.mafiascum.net/index.php?title=Vote_Count_Analysis).
+* **VI** : [Village Idiot](https://wiki.mafiascum.net/index.php?title=Village_Idiot).
+* **Wagon** : All of the votes on a given player.
+* **WIFOM** : [Wine in Front of Me](https://wiki.mafiascum.net/index.php?title=Wine_in_Front_of_Me).
+* **WKing** : White Knighting. Aggressively defending another player, implied to be town. Similar to [Buddying](https://wiki.mafiascum.net/index.php?title=Buddying).
+* **Majority** : Lynch system that instantly lynches a player once they have received votes from a majority of players alive. 
+* **Plurality** : Lynch system that lynches the player who has the most votes at the end of the day.
+
+
+# Forum of Lies Relevant Definitions
+
+Bleed - Negative status effect, almost always inflicted by non-town (barring Hunter). Players inflicted will die in two nights unless healed. This will kill them bypassing death immunity.
+
+Conversion - Alignment change. Caused by Mastermind or Cult Leader. Converted players will gain a new role.
+
+Convert Immune - Immunity to conversion. All neutrals, kings, and the Prince have it. Conversion immunity can be applied by certain effects.
+
+Contract - Name for the Mercenary&#39;s targets. The Mercenary needs to keep at least one alive until the end of the game. Contracts can be Blue Dragon (good faction) [cannot be prince or king] or any type of evil.
+
+Cult Alt - When a Blue Dragon is converted into the cult, they may choose some abilities to keep when being converted. Certain abilities will be entirely new effects to suit the transition.
+
+Frame - Framed players will appear as an Unseen or Cult Killer depending on the game type. 
+
+Invest - Short for Invest. All investigative abilities in the setup will receive feedback. 
+
+Occupy - Roleblock by another name. Occupied players may not perform night actions. Often shortened to ‘occ’
+
+King - The King is a role that always has a doublevote and cannot be investigated to determine their alignment. If evil, they will not know the identities of their partners. GK/EK/PK
+
+MM - Mastermind. Unseen scum leader converter that is a godfather.
+CL - Cult Leader. Cult converter / factional killer.
+SS - Sellsword. Anti-BD neutral that can occupy among other things.
+WL - Warlock. Anti-BD neutral that can redirect among other things.</description>
+    
+    <lastBuildDate>Wed, 31 Jul 2019 17:16:22 +0000</lastBuildDate>
+    <category>Forum of Lies</category>
+    <atom:link href="https://forum.throneoflies.com/t/fol-definition-book/76676.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>FoL Definition Book</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks</p>
+          <p><a href="https://forum.throneoflies.com/t/fol-definition-book/76676/68">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fol-definition-book/76676/68</link>
+        <pubDate>Wed, 31 Jul 2019 17:16:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76676-68</guid>
+        <source url="https://forum.throneoflies.com/t/fol-definition-book/76676.rss">FoL Definition Book</source>
+      </item>
+      <item>
+        <title>FoL Definition Book</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/solic">@Solic</a> can you make the OP a wiki?<br>
+Also possibly pin</p>
+          <p><a href="https://forum.throneoflies.com/t/fol-definition-book/76676/67">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fol-definition-book/76676/67</link>
+        <pubDate>Tue, 30 Jul 2019 18:19:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76676-67</guid>
+        <source url="https://forum.throneoflies.com/t/fol-definition-book/76676.rss">FoL Definition Book</source>
+      </item>
+      <item>
+        <title>FoL Definition Book</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p>The above post is a wiki :^)<br>
+Please use it</p>
+          <p><a href="https://forum.throneoflies.com/t/fol-definition-book/76676/66">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fol-definition-book/76676/66</link>
+        <pubDate>Sun, 19 May 2019 07:41:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76676-66</guid>
+        <source url="https://forum.throneoflies.com/t/fol-definition-book/76676.rss">FoL Definition Book</source>
+      </item>
+      <item>
+        <title>FoL Definition Book</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p>Forum of Lies Relevant Definitions</p>
+<p>Bleed - Negative status effect, almost always inflicted by non-town (barring Hunter). Players inflicted will die in two nights unless healed. This will kill them bypassing death immunity.</p>
+<p>Conversion - Alignment change. Caused by Mastermind or Cult Leader. Converted players will gain a new role.</p>
+<p>Convert Immune - Immunity to conversion. All neutrals, kings, and the Prince have it. Conversion immunity can be applied by certain effects.</p>
+<p>Contract - Name for the Mercenary’s targets. The Mercenary needs to keep at least one alive until the end of the game. Contracts can be Blue Dragon (good faction) [cannot be prince or king] or any type of evil.</p>
+<p>Cult Alt - When a Blue Dragon is converted into the cult, they may choose some abilities to keep when being converted. Certain abilities will be entirely new effects to suit the transition.</p>
+<p>Frame - Framed players will appear as an Unseen or Cult Killer depending on the game type.</p>
+<p>Invest - Short for Invest. All investigative abilities in the setup will receive feedback.</p>
+<p>Occupy - Roleblock by another name. Occupied players may not perform night actions. Often shortened to ‘occ’</p>
+<p>King - The King is a role that always has a doublevote and cannot be investigated to determine their alignment. If evil, they will not know the identities of their partners.</p>
+<p>Lich (Phylactery)<br>
+Ice Ward<br>
+Contract<br>
+Investigative Feedback<br>
+Conversion Cooldown</p>
+<p>This is a wiki.</p>
+<p>Celeste - Margaret’s previous account name. Often used to reference Margaret, causing confusion in new players.</p>
+          <p><a href="https://forum.throneoflies.com/t/fol-definition-book/76676/65">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fol-definition-book/76676/65</link>
+        <pubDate>Thu, 16 May 2019 15:00:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76676-65</guid>
+        <source url="https://forum.throneoflies.com/t/fol-definition-book/76676.rss">FoL Definition Book</source>
+      </item>
+      <item>
+        <title>FoL Definition Book</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p>Fleshing those out.</p>
+          <p><a href="https://forum.throneoflies.com/t/fol-definition-book/76676/64">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fol-definition-book/76676/64</link>
+        <pubDate>Thu, 16 May 2019 14:35:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76676-64</guid>
+        <source url="https://forum.throneoflies.com/t/fol-definition-book/76676.rss">FoL Definition Book</source>
+      </item>
+      <item>
+        <title>FoL Definition Book</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p>I’ll consider making it a wiki later.<br>
+Not something I feel like directly addressing now</p>
+          <p><a href="https://forum.throneoflies.com/t/fol-definition-book/76676/63">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fol-definition-book/76676/63</link>
+        <pubDate>Thu, 16 May 2019 14:28:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76676-63</guid>
+        <source url="https://forum.throneoflies.com/t/fol-definition-book/76676.rss">FoL Definition Book</source>
+      </item>
+      <item>
+        <title>FoL Definition Book</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p>Pretty sure on that.</p>
+          <p><a href="https://forum.throneoflies.com/t/fol-definition-book/76676/62">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fol-definition-book/76676/62</link>
+        <pubDate>Thu, 16 May 2019 14:26:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76676-62</guid>
+        <source url="https://forum.throneoflies.com/t/fol-definition-book/76676.rss">FoL Definition Book</source>
+      </item>
+      <item>
+        <title>FoL Definition Book</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p>That was Maxi : P</p>
+          <p><a href="https://forum.throneoflies.com/t/fol-definition-book/76676/61">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fol-definition-book/76676/61</link>
+        <pubDate>Thu, 16 May 2019 14:26:20 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76676-61</guid>
+        <source url="https://forum.throneoflies.com/t/fol-definition-book/76676.rss">FoL Definition Book</source>
+      </item>
+      <item>
+        <title>FoL Definition Book</title>
+        <dc:creator><![CDATA[Emilia]]></dc:creator>
+        <description><![CDATA[
+            <p>Because no one took that thread seriously I mean if mod puts a category named bark and adds himself there I am not surprised by that</p>
+          <p><a href="https://forum.throneoflies.com/t/fol-definition-book/76676/60">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fol-definition-book/76676/60</link>
+        <pubDate>Thu, 16 May 2019 14:25:33 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76676-60</guid>
+        <source url="https://forum.throneoflies.com/t/fol-definition-book/76676.rss">FoL Definition Book</source>
+      </item>
+      <item>
+        <title>FoL Definition Book</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p>I’ve thought about it, but how the DNP Turbo list was handled worries me.</p>
+          <p><a href="https://forum.throneoflies.com/t/fol-definition-book/76676/59">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fol-definition-book/76676/59</link>
+        <pubDate>Thu, 16 May 2019 14:21:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76676-59</guid>
+        <source url="https://forum.throneoflies.com/t/fol-definition-book/76676.rss">FoL Definition Book</source>
+      </item>
+      <item>
+        <title>FoL Definition Book</title>
+        <dc:creator><![CDATA[DatBird]]></dc:creator>
+        <description><![CDATA[
+            <p>Press F to pay respect to best boi</p>
+          <p><a href="https://forum.throneoflies.com/t/fol-definition-book/76676/58">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fol-definition-book/76676/58</link>
+        <pubDate>Thu, 16 May 2019 14:13:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76676-58</guid>
+        <source url="https://forum.throneoflies.com/t/fol-definition-book/76676.rss">FoL Definition Book</source>
+      </item>
+      <item>
+        <title>FoL Definition Book</title>
+        <dc:creator><![CDATA[Icibalus]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>Marl Energy</strong> - Being apathetic because you’re certain you’re going to be nightkilled before you can do anything useful.</p>
+<p>this is now a term</p>
+          <p><a href="https://forum.throneoflies.com/t/fol-definition-book/76676/57">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fol-definition-book/76676/57</link>
+        <pubDate>Thu, 16 May 2019 14:09:15 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76676-57</guid>
+        <source url="https://forum.throneoflies.com/t/fol-definition-book/76676.rss">FoL Definition Book</source>
+      </item>
+      <item>
+        <title>FoL Definition Book</title>
+        <dc:creator><![CDATA[Icibalus]]></dc:creator>
+        <description><![CDATA[
+            <p>Also, I’d reccomend adding:</p>
+<p><strong>Rand</strong>  - Random. Generally used to refer to the role distribution at the beginning of the game or ties being broken at random.<br>
+<strong>&gt;rand [allignment]</strong> - Simmilar to a lean, it indicates that somebody is more likely to be that allignment than random in your mind.<br>
+<strong>Thunderdome</strong> - TWO PLAYERS ENTER. 1 PLAYER LEAVES! (where the lynch is locked between a small portion of the playerlist, usually caused by a counterclaim or a Gladiator)</p>
+          <p><a href="https://forum.throneoflies.com/t/fol-definition-book/76676/56">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fol-definition-book/76676/56</link>
+        <pubDate>Thu, 16 May 2019 14:07:15 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76676-56</guid>
+        <source url="https://forum.throneoflies.com/t/fol-definition-book/76676.rss">FoL Definition Book</source>
+      </item>
+      <item>
+        <title>FoL Definition Book</title>
+        <dc:creator><![CDATA[Emilia]]></dc:creator>
+        <description><![CDATA[
+            <p>There is a thing called ban</p>
+          <p><a href="https://forum.throneoflies.com/t/fol-definition-book/76676/55">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fol-definition-book/76676/55</link>
+        <pubDate>Thu, 16 May 2019 14:05:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76676-55</guid>
+        <source url="https://forum.throneoflies.com/t/fol-definition-book/76676.rss">FoL Definition Book</source>
+      </item>
+      <item>
+        <title>FoL Definition Book</title>
+        <dc:creator><![CDATA[DatBird]]></dc:creator>
+        <description><![CDATA[
+            <p>because people can freely just screw up the list for lols and then someones gonna have to revert changes</p>
+          <p><a href="https://forum.throneoflies.com/t/fol-definition-book/76676/54">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fol-definition-book/76676/54</link>
+        <pubDate>Thu, 16 May 2019 14:04:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76676-54</guid>
+        <source url="https://forum.throneoflies.com/t/fol-definition-book/76676.rss">FoL Definition Book</source>
+      </item>
+      <item>
+        <title>FoL Definition Book</title>
+        <dc:creator><![CDATA[Emilia]]></dc:creator>
+        <description><![CDATA[
+            <p>How’s that a bad idea</p>
+          <p><a href="https://forum.throneoflies.com/t/fol-definition-book/76676/53">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fol-definition-book/76676/53</link>
+        <pubDate>Thu, 16 May 2019 14:03:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76676-53</guid>
+        <source url="https://forum.throneoflies.com/t/fol-definition-book/76676.rss">FoL Definition Book</source>
+      </item>
+      <item>
+        <title>FoL Definition Book</title>
+        <dc:creator><![CDATA[DatBird]]></dc:creator>
+        <description><![CDATA[
+            <p>you realize why thats a bad idea right</p>
+          <p><a href="https://forum.throneoflies.com/t/fol-definition-book/76676/52">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fol-definition-book/76676/52</link>
+        <pubDate>Thu, 16 May 2019 14:03:15 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76676-52</guid>
+        <source url="https://forum.throneoflies.com/t/fol-definition-book/76676.rss">FoL Definition Book</source>
+      </item>
+      <item>
+        <title>FoL Definition Book</title>
+        <dc:creator><![CDATA[Emilia]]></dc:creator>
+        <description><![CDATA[
+            <p>You should make this topic wiki so anyone can add/change</p>
+          <p><a href="https://forum.throneoflies.com/t/fol-definition-book/76676/51">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fol-definition-book/76676/51</link>
+        <pubDate>Thu, 16 May 2019 14:02:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76676-51</guid>
+        <source url="https://forum.throneoflies.com/t/fol-definition-book/76676.rss">FoL Definition Book</source>
+      </item>
+      <item>
+        <title>FoL Definition Book</title>
+        <dc:creator><![CDATA[Icibalus]]></dc:creator>
+        <description><![CDATA[
+            <p>no but real talk you might want to add Wolf being interchangable with Scum and Village being interchangable with Town, since werewolf terminiology is reasonably popular</p>
+          <p><a href="https://forum.throneoflies.com/t/fol-definition-book/76676/50">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fol-definition-book/76676/50</link>
+        <pubDate>Thu, 16 May 2019 13:58:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76676-50</guid>
+        <source url="https://forum.throneoflies.com/t/fol-definition-book/76676.rss">FoL Definition Book</source>
+      </item>
+      <item>
+        <title>FoL Definition Book</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m missing a lot of definitions since WIP</p>
+          <p><a href="https://forum.throneoflies.com/t/fol-definition-book/76676/49">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fol-definition-book/76676/49</link>
+        <pubDate>Thu, 16 May 2019 13:57:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76676-49</guid>
+        <source url="https://forum.throneoflies.com/t/fol-definition-book/76676.rss">FoL Definition Book</source>
+      </item>
+      <item>
+        <title>FoL Definition Book</title>
+        <dc:creator><![CDATA[Emilia]]></dc:creator>
+        <description><![CDATA[
+            <p>Surprised meta isn’t there</p>
+          <p><a href="https://forum.throneoflies.com/t/fol-definition-book/76676/48">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fol-definition-book/76676/48</link>
+        <pubDate>Thu, 16 May 2019 13:54:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76676-48</guid>
+        <source url="https://forum.throneoflies.com/t/fol-definition-book/76676.rss">FoL Definition Book</source>
+      </item>
+      <item>
+        <title>FoL Definition Book</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p>I added wagon already : P</p>
+          <p><a href="https://forum.throneoflies.com/t/fol-definition-book/76676/47">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fol-definition-book/76676/47</link>
+        <pubDate>Thu, 16 May 2019 13:51:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76676-47</guid>
+        <source url="https://forum.throneoflies.com/t/fol-definition-book/76676.rss">FoL Definition Book</source>
+      </item>
+      <item>
+        <title>FoL Definition Book</title>
+        <dc:creator><![CDATA[DatBird]]></dc:creator>
+        <description><![CDATA[
+            <p>Just thought of something /s for sarcasm is not something i picked up on for a while</p>
+          <p><a href="https://forum.throneoflies.com/t/fol-definition-book/76676/46">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fol-definition-book/76676/46</link>
+        <pubDate>Thu, 16 May 2019 13:38:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76676-46</guid>
+        <source url="https://forum.throneoflies.com/t/fol-definition-book/76676.rss">FoL Definition Book</source>
+      </item>
+      <item>
+        <title>FoL Definition Book</title>
+        <dc:creator><![CDATA[NinjaPenguin]]></dc:creator>
+        <description><![CDATA[
+            <p>I’d probably add wagon, backpedal, hammer, bus, CC/counterclaim, tunnel, softclaim, and scumtell.</p>
+          <p><a href="https://forum.throneoflies.com/t/fol-definition-book/76676/45">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fol-definition-book/76676/45</link>
+        <pubDate>Thu, 16 May 2019 11:15:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76676-45</guid>
+        <source url="https://forum.throneoflies.com/t/fol-definition-book/76676.rss">FoL Definition Book</source>
+      </item>
+      <item>
+        <title>FoL Definition Book</title>
+        <dc:creator><![CDATA[Emilia]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Geyde" data-post="1" data-topic="76676">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/geyde/40/32764_2.png" class="avatar"> Geyde:</div>
+<blockquote>
+<p><strong>LAMIST</strong> : Look at me, I’m so town.</p>
+</blockquote>
+</aside>
+<p>this doesnt say anything to a new player</p>
+          <p><a href="https://forum.throneoflies.com/t/fol-definition-book/76676/44">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fol-definition-book/76676/44</link>
+        <pubDate>Thu, 16 May 2019 10:06:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76676-44</guid>
+        <source url="https://forum.throneoflies.com/t/fol-definition-book/76676.rss">FoL Definition Book</source>
+      </item>
+  </channel>
+</rss>

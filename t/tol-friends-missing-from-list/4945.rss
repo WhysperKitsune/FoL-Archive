@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>ToL Friends Missing From List</title>
+    <link>https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945</link>
+    <description>#### What happened?
+
+Steam updated ToL to 1.0.5b and one of the people I had friended in game is no longer showing in my list at all. Not offline, not online or in lobby or matchmaking. All but one of my friends are still showing as normal. My friend also has the same issue with my being absent from his list.
+
+#### What was SUPPOSED to happen?
+
+Steam updates ToL to 1.0.5b and my friend being visible in my friend list on the right side of the screen with my other friends.
+
+#### Steps to reproduce:
+
+Load game.
+
+#### Comments:
+
+This could possibly an “off by one” error</description>
+    
+    <lastBuildDate>Tue, 07 Nov 2017 05:32:00 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>ToL Friends Missing From List</title>
+        <dc:creator><![CDATA[O_O]]></dc:creator>
+        <description><![CDATA[
+            <p>And one of my friends that has changed names shows up in my friends list with his old name. I join a game with him and i see his new name in the lobby while we wait for the slots to fill.</p>
+          <p><a href="https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945/17</link>
+        <pubDate>Tue, 07 Nov 2017 05:32:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4945-17</guid>
+        <source url="https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945.rss">ToL Friends Missing From List</source>
+      </item>
+      <item>
+        <title>ToL Friends Missing From List</title>
+        <dc:creator><![CDATA[O_O]]></dc:creator>
+        <description><![CDATA[
+            <p>Honestly, I think maybe somehow when we changed names something in the database got screwed up? Are you using mongodb?</p>
+<p>I am friends with my brother in the game. I can’t add him: it says he is already added. He can’t add me for the same reason. We just don’t show up on the list.</p>
+<p>I believe it may have been when we used the in game name change functionality. Just a hunch.</p>
+          <p><a href="https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945/16</link>
+        <pubDate>Tue, 07 Nov 2017 05:30:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4945-16</guid>
+        <source url="https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945.rss">ToL Friends Missing From List</source>
+      </item>
+      <item>
+        <title>ToL Friends Missing From List</title>
+        <dc:creator><![CDATA[Insanity]]></dc:creator>
+        <description><![CDATA[
+            <p>Hmm…</p>
+          <p><a href="https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945/15</link>
+        <pubDate>Tue, 07 Nov 2017 05:05:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4945-15</guid>
+        <source url="https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945.rss">ToL Friends Missing From List</source>
+      </item>
+      <item>
+        <title>ToL Friends Missing From List</title>
+        <dc:creator><![CDATA[O_O]]></dc:creator>
+        <description><![CDATA[
+            <p>I don’t think I’ve ever declined a friend request.</p>
+          <p><a href="https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945/14</link>
+        <pubDate>Tue, 07 Nov 2017 04:26:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4945-14</guid>
+        <source url="https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945.rss">ToL Friends Missing From List</source>
+      </item>
+      <item>
+        <title>ToL Friends Missing From List</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>Just an update, we found the cause (full details in Discord <span class="hashtag">#news</span>): Long story short, if you have ever declined (even accidentally) ONE friend request, you auto decline all future friend requests.</p>
+<p>This will probably be fixed in &lt;1 week. We’ll fix it and reset all declined friends so you can then try again.</p>
+          <p><a href="https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945/13</link>
+        <pubDate>Tue, 07 Nov 2017 04:07:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4945-13</guid>
+        <source url="https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945.rss">ToL Friends Missing From List</source>
+      </item>
+      <item>
+        <title>ToL Friends Missing From List</title>
+        <dc:creator><![CDATA[O_O]]></dc:creator>
+        <description><![CDATA[
+            <p>I am in Discord. We’ve been able to work around it so a little while longer is no big deal</p>
+          <p><a href="https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945/12</link>
+        <pubDate>Sun, 05 Nov 2017 17:05:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4945-12</guid>
+        <source url="https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945.rss">ToL Friends Missing From List</source>
+      </item>
+      <item>
+        <title>ToL Friends Missing From List</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/o_o">@O_O</a>  Hi there – this could, indeed, be it.</p>
+<p>Are you in our Discord? We mentioned earlier in <strong><span class="hashtag">#news</span></strong> we’d be looking into it over the next week or two and wanted to make sure you saw it (+wanted to let you know we’re still working on it~). Apologies it’s not fixed yet; we’re currently working on stability (random timeouts/disconnects) before we hop to friends bugs.</p>
+<p>For now, I recommend using invite codes until we can get to the bottom of this:</p>
+<p><img src="/uploads/default/original/2X/f/f1716186bc4fede46ed31c6734cb3b7a3317d2cd.jpg" alt="image" data-base62-sha1="yrTZfKKsyg7WNNUy4dMTalI2T7L" width="480" height="240"></p>
+          <p><a href="https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945/11</link>
+        <pubDate>Sat, 04 Nov 2017 16:26:33 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4945-11</guid>
+        <source url="https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945.rss">ToL Friends Missing From List</source>
+      </item>
+      <item>
+        <title>ToL Friends Missing From List</title>
+        <dc:creator><![CDATA[O_O]]></dc:creator>
+        <description><![CDATA[
+            <p>After much discussion among my steam group of friends that plays the game, we think the name change functionality might be the culprit. Several of us have changed our names and the new names aren’t reflected in the friends list for some of my friends, and for my brother, as I have said above, I don’t see him at all.</p>
+          <p><a href="https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945/10</link>
+        <pubDate>Sat, 04 Nov 2017 04:40:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4945-10</guid>
+        <source url="https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945.rss">ToL Friends Missing From List</source>
+      </item>
+      <item>
+        <title>ToL Friends Missing From List</title>
+        <dc:creator><![CDATA[TryphonX]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/%C3%AD42-xblade">@í42-Xblade</a> ^</p>
+          <p><a href="https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945/9</link>
+        <pubDate>Sun, 29 Oct 2017 20:36:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4945-9</guid>
+        <source url="https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945.rss">ToL Friends Missing From List</source>
+      </item>
+      <item>
+        <title>ToL Friends Missing From List</title>
+        <dc:creator><![CDATA[O_O]]></dc:creator>
+        <description><![CDATA[
+            <p>Just wanted to follow up and say my brother and I are still experiencing this at 1.0.6c. He can’t see me in the friends list and I can’t see him, despite the fact that we have added each other (I can’t defriend, and attempts to add his name in the box beneath the friends list returns “Already added”</p>
+          <p><a href="https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945/8</link>
+        <pubDate>Sun, 29 Oct 2017 20:34:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4945-8</guid>
+        <source url="https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945.rss">ToL Friends Missing From List</source>
+      </item>
+      <item>
+        <title>ToL Friends Missing From List</title>
+        <dc:creator><![CDATA[O_O]]></dc:creator>
+        <description><![CDATA[
+            <p>I suppose I should also clarify that my other steam friends show up normally.</p>
+          <p><a href="https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945/7</link>
+        <pubDate>Sat, 21 Oct 2017 17:36:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4945-7</guid>
+        <source url="https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945.rss">ToL Friends Missing From List</source>
+      </item>
+      <item>
+        <title>ToL Friends Missing From List</title>
+        <dc:creator><![CDATA[O_O]]></dc:creator>
+        <description><![CDATA[
+            <p>That’s true; I specified that in the discord bug report channel, guess I thought I had here as well.</p>
+          <p><a href="https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945/6</link>
+        <pubDate>Sat, 21 Oct 2017 16:53:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4945-6</guid>
+        <source url="https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945.rss">ToL Friends Missing From List</source>
+      </item>
+      <item>
+        <title>ToL Friends Missing From List</title>
+        <dc:creator><![CDATA[O_O]]></dc:creator>
+        <description><![CDATA[
+            <p>The friend in question is actually my brother. He has the exact same issues that I do with my account not showing up.</p>
+          <p><a href="https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945/5</link>
+        <pubDate>Sat, 21 Oct 2017 16:52:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4945-5</guid>
+        <source url="https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945.rss">ToL Friends Missing From List</source>
+      </item>
+      <item>
+        <title>ToL Friends Missing From List</title>
+        <dc:creator><![CDATA[TryphonX]]></dc:creator>
+        <description><![CDATA[
+            <p>You didn’t specify he was a steam friend. Hmmm that’s odd. This shouldn’t happen really <img src="/images/emoji/twitter/thinking.png?v=9" title=":thinking:" class="emoji" alt=":thinking:"><br>
+<a class="mention" href="/u/%C3%AD42-xblade">@í42-Xblade</a>?</p>
+          <p><a href="https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945/4</link>
+        <pubDate>Sat, 21 Oct 2017 16:52:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4945-4</guid>
+        <source url="https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945.rss">ToL Friends Missing From List</source>
+      </item>
+      <item>
+        <title>ToL Friends Missing From List</title>
+        <dc:creator><![CDATA[O_O]]></dc:creator>
+        <description><![CDATA[
+            <p>He is a steam friend, and if I try to add him back, it says he is already a friend. Appreciate you thinking I haven’t read the patchnotes.</p>
+          <p><a href="https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945/3</link>
+        <pubDate>Sat, 21 Oct 2017 16:48:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4945-3</guid>
+        <source url="https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945.rss">ToL Friends Missing From List</source>
+      </item>
+      <item>
+        <title>ToL Friends Missing From List</title>
+        <dc:creator><![CDATA[TryphonX]]></dc:creator>
+        <description><![CDATA[
+            <p>If you checked the patch notes, you would realize there were warning about the friends being removed <img src="/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"><br>
+Friendslist was revamped, fixed many issues, but all non-steam friends were removed. You can still add them back.</p>
+          <p><a href="https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945/2</link>
+        <pubDate>Sat, 21 Oct 2017 10:58:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4945-2</guid>
+        <source url="https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945.rss">ToL Friends Missing From List</source>
+      </item>
+      <item>
+        <title>ToL Friends Missing From List</title>
+        <dc:creator><![CDATA[O_O]]></dc:creator>
+        <description><![CDATA[
+            <h4>What happened?</h4>
+<p>Steam updated ToL to 1.0.5b and one of the people I had friended in game is no longer showing in my list at all. Not offline, not online or in lobby or matchmaking. All but one of my friends are still showing as normal. My friend also has the same issue with my being absent from his list.</p>
+<h4>What was SUPPOSED to happen?</h4>
+<p>Steam updates ToL to 1.0.5b and my friend being visible in my friend list on the right side of the screen with my other friends.</p>
+<h4>Steps to reproduce:</h4>
+<p>Load game.</p>
+<h4>Comments:</h4>
+<p>This could possibly an “off by one” error</p>
+          <p><a href="https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945/1</link>
+        <pubDate>Sat, 21 Oct 2017 03:33:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-4945-1</guid>
+        <source url="https://forum.throneoflies.com/t/tol-friends-missing-from-list/4945.rss">ToL Friends Missing From List</source>
+      </item>
+  </channel>
+</rss>

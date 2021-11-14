@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Rulers (King/Queen)</title>
+    <link>https://forum.throneoflies.com/t/rulers-king-queen/72760</link>
+    <description>**Overview**
+This rework is designed to give a little change in direction in  how the &quot;Ruler&quot; is played and provide more variety in game types. Here we have &quot;Kings&quot; and &quot;Queens&quot;. It&#39;s decided randomly on start, and for the remainder of the game if the original ruler dies, the new elected ruler will remain the same type of ruler, so games starting with a King will not have Queens and vice versa. 
+
+&lt;hr&gt;
+
+**KING GAME**
+The majority of the king skills remain the same with one slight change, in that the kings have a force vote similar to a noble. This allows the king to effectively have the same power, but also allows the possessor to remain undetected longer if they jump into the king instead of being elected. 
+[quote]
+[color=lighblue]**Good King**[/color]
+&lt;hr&gt; 
+
+**Passive 1:** 
+Tenacity: Immune to most occupation and redirection abilities. Can talk at all points during a trial. 
+**Passive 2:** 
+Loyal Subjects: If the starting Good King is executed, then the court will be unable to accuse anyone of treason for a day. 
+
+**Day Ability 1:**  
+Decide Fate: Decide an accused players fate [1] 
+**Day Ability 2:**
+Guide Hand: Force someone to accuse another person of choice. [Infinite] 
+
+**Night Ability 1:**  
+Guards! : Become death immune for the night.  [2] 
+**Night Ability 2:**
+Safeguard: Target becomes occupy immune and death immune for the night. [4] 
+[/quote]
+
+[quote]
+[color=Red]**Evil King**[/color]
+&lt;hr&gt; 
+
+**Passive 1:** 
+Tenacity: Immune to most occupation and redirection abilities. Can talk at all points during a trial. 
+
+**Day Ability 1:**  
+Decide Fate: Decide an accused players fate [1] 
+**Day Ability 2:**
+Guide Hand: Force someone to accuse another person of choice. [Infinite] 
+
+**Night Ability 1:**  
+Guards! : Become death immune for the night.  [2] 
+**Night Ability 2:**
+Find Allies: Notifies you if target is evil.  If so, you find out their class.  Makes target death immune for the night. [4] 
+[/quote]
+
+[quote]
+[color=white]**Psycho King** [/color]
+&lt;hr&gt; 
+
+**Passive 1:** 
+Deadly Tenacity: Immune to most occupation, redirection and death at night. Can talk at all points during a trial. 
+
+**Day Ability 1:**  
+Decide Fate: Decide an accused players fate [1] 
+**Day Ability 2:**
+Guide Hand: Force someone to accuse another person of choice. [Infinite] 
+
+**Night Ability 1:**  
+Kings Assassin: Kill target player.  Bypasses death immunity.  Does not count as visiting
+[/quote]
+
+&lt;hr&gt;
+&lt;hr&gt;
+
+**QUEEN GAME**
+The aim was to be quite different from King gameplay. As kings use their guards everywhere to manage who can and can&#39;t die, queens use their charisma and command to  gather information and push their objective forward. All queens have a day skill that&#39;s a cross between a Prince and a Mystic. They will be able to speak privately to a person of choice but not restrict them from going about their business. The &quot;Bring Forth&quot; ability is an exchange of the force vote of the kings, and may allow them to put someone on the stand AND &quot;Decide&quot; their fate. This would also be the first type of Ruler that an Evil can &quot;out&quot; to the other evils secretly and provide secret communication a limited number of times. 
+
+To align with the idea that a queen is going to be more about flow of information, the Psycho Queen variant has limited nightly kill abilities and will rely on manipulating information to confuse the court and have them turn on each other. While the ballot skill seems extreme, This can at most target a little more than half of the court. Doing it too soon will certainly out the Psycho Queen, but late enough it can be passed as simply a bloody night. 
+
+[quote]
+[color=lighblue]**Good Queen**[/color]
+&lt;hr&gt; 
+
+**Passive 1:** 
+Queen&#39;s Double: Immune to death at night once
+**Passive 2:** 
+Mourning: If the starting Good Queen is executed, then the court will be unable to elect a new Queen for a day. 
+
+**Day Ability 1:**
+Decide Fate: Decide an accused players fate [1] 
+**Day Ability 2:**
+Private Meeting: You and target stay at the table during the next night phase allowing you to speak with them.  Target is allowed to take actions as normal. [3] 
+
+**Night Ability 1:** 
+Bring Forth: On the start of the next day, the person you have chambered will immediately be placed on trial. [2] 
+**Night Ability 2:** 
+Secure Bloodline: If target is royal they will be death immune for the night. [2] 
+[/quote]
+
+[quote]
+[color=red]**Evil Queen:** [/color]
+&lt;hr&gt; 
+
+**Passive 1:** 
+Queen&#39;s Double: Immune to death at night once
+
+**Day Ability 1:**
+Decide Fate: Decide an accused players fate [1] 
+**Day Ability 2:**
+Private Meeting: You and the target stay at the table during the next night phase, allowing you to speak with them.  If target is evil, all evil players will stay. Players will be able to take action as normal. [3] 
+
+**Night Ability 1:** 
+Bring Forth: On the start of the next day, the person you have chambered will immediately be placed on trial. [2] 
+**Night Ability 2:** 
+Secure Meeting: All evils at a private meeting will appear Not Suspicious to investigative classes and death immune for the night. [1] 
+[/quote]
+
+[quote]
+[color=white]**Psycho Queen** [/color]
+&lt;hr&gt; 
+
+**Passive 1:**
+Forge Signature: You will be able to make edits to the Interrogated persons logs before they display to the court upon their death 
+**Passive 2:**
+Queen&#39;s Fodder: Immune to death at night.   
+
+**Day Ability 1:**
+Decide Fate: Decide an accused players fate [1] 
+**Day Ability 2:**
+Private Interrogation: You and target stay at the table during the next night phase allowing you to speak with them. You will be able to see their Journal.  Target is able to take actions as normal, but will die. Bypasses death immunity. [3] 
+
+**Night Ability 1:** 
+Cover Up: Interrogated target appears as chosen class on death.  [2] 
+**Night Ability 2:** 
+Poisoned Ballot: Anyone who acuses your target of  treason the next day will die the following night. Can target yourself. [1]
+[/quote]</description>
+    
+    <lastBuildDate>Tue, 02 Oct 2018 16:29:03 +0000</lastBuildDate>
+    <category>Class/Lore/Fanfic</category>
+    <atom:link href="https://forum.throneoflies.com/t/rulers-king-queen/72760.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Rulers (King/Queen)</title>
+        <dc:creator><![CDATA[N3rbTheNoob]]></dc:creator>
+        <description><![CDATA[
+            <p>The idea is good, but the psycho queen is way too overpowered.</p>
+          <p><a href="https://forum.throneoflies.com/t/rulers-king-queen/72760/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rulers-king-queen/72760/18</link>
+        <pubDate>Tue, 02 Oct 2018 16:29:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72760-18</guid>
+        <source url="https://forum.throneoflies.com/t/rulers-king-queen/72760.rss">Rulers (King/Queen)</source>
+      </item>
+      <item>
+        <title>Rulers (King/Queen)</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="KitLiz" data-post="1" data-topic="72760">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/kitliz/40/1925_2.png" class="avatar"> KitLiz:</div>
+<blockquote>
+<p><strong>Night Ability 2:</strong><br>
+Find Allies: Notifies you if target is evil. If so, you find out their class. Makes target death immune for the night. [4]</p>
+</blockquote>
+</aside>
+<p>But not Occupy immune?</p>
+          <p><a href="https://forum.throneoflies.com/t/rulers-king-queen/72760/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rulers-king-queen/72760/17</link>
+        <pubDate>Sun, 30 Sep 2018 21:25:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72760-17</guid>
+        <source url="https://forum.throneoflies.com/t/rulers-king-queen/72760.rss">Rulers (King/Queen)</source>
+      </item>
+      <item>
+        <title>Rulers (King/Queen)</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>The thing with king and Queen is that they aren’t suppose to be mechanically proveable to be scum or GK. That’s why no investigative can check them. You are suppose to scumreads the king and or queen.</p>
+<p>Chances are if you are elected as PK you worked hard and to be mechanically proved as scum is disappointing. If you really want “constructive feedback” here you go <s>also you were sassy at me</s></p>
+<aside class="quote no-group" data-username="KitLiz" data-post="1" data-topic="72760">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/kitliz/40/1925_2.png" class="avatar"> KitLiz:</div>
+<blockquote>
+<p>Poisoned Ballot: Anyone who acuses your target of treason the next day will die the following night. Can target yourself. [1]</p>
+</blockquote>
+</aside>
+<p>This shouldn’t be able to target self as chances are if you are voted up you are already dead. Lynching scum is the blue dragons main way of getting rid of scum.</p>
+<aside class="quote no-group" data-username="KitLiz" data-post="1" data-topic="72760">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/kitliz/40/1925_2.png" class="avatar"> KitLiz:</div>
+<blockquote>
+<p><strong>Night Ability 2:</strong><br>
+Secure Bloodline: If target is royal they will be death immune for the night. [2]</p>
+</blockquote>
+</aside>
+<p>This is a little weak IMO and should provide conversion immunity.</p>
+<aside class="quote no-group" data-username="KitLiz" data-post="1" data-topic="72760">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/kitliz/40/1925_2.png" class="avatar"> KitLiz:</div>
+<blockquote>
+<p><strong>Night Ability 1:</strong><br>
+Cover Up: Interrogated target appears as chosen class on death. [2]</p>
+</blockquote>
+</aside>
+<p>IMO I would change this to a normal kill, as NK should have a way to kill each night or they are <strong>insanely terrible</strong></p>
+          <p><a href="https://forum.throneoflies.com/t/rulers-king-queen/72760/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rulers-king-queen/72760/16</link>
+        <pubDate>Sun, 30 Sep 2018 16:41:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72760-16</guid>
+        <source url="https://forum.throneoflies.com/t/rulers-king-queen/72760.rss">Rulers (King/Queen)</source>
+      </item>
+      <item>
+        <title>Rulers (King/Queen)</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="KitLiz" data-post="14" data-topic="72760">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/kitliz/40/1925_2.png" class="avatar"> KitLiz:</div>
+<blockquote>
+<p>Im not saying this idea as presented is perfectly balanced as is but you really arent adding to the discussion by just trashing the ideas with little constructive feedback.</p>
+</blockquote>
+</aside>
+<p>You are literally misunderstanding my point. I’m telling you to get rid of something that can mechanically prove the queen as scum.</p>
+<p>The second option of letting the charges carry over is fine but you are getting a little too worked up about this.</p>
+          <p><a href="https://forum.throneoflies.com/t/rulers-king-queen/72760/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rulers-king-queen/72760/15</link>
+        <pubDate>Sun, 30 Sep 2018 16:32:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72760-15</guid>
+        <source url="https://forum.throneoflies.com/t/rulers-king-queen/72760.rss">Rulers (King/Queen)</source>
+      </item>
+      <item>
+        <title>Rulers (King/Queen)</title>
+        <dc:creator><![CDATA[KitLiz]]></dc:creator>
+        <description><![CDATA[
+            <p>Im not saying this idea as presented is perfectly balanced as is but you really arent adding to the discussion by just trashing the ideas with little constructive feedback.</p>
+<p>Evil kings and Psycho kings are outed already all the time because they have flaws.  NKs going Ruler isnt supposed to be easy, its a very risky play that can have really good turnout if done right.  As it is in live even now.  For something that happens less than 3% of the time currently it should have something to stand out.</p>
+<p>To the point, link the charges of the skill to carry over to new queen then.  The later you wait the more feasable “no charges” becomes.  Or just change the skills so that you can choose if they die or not.</p>
+<p>Oh thats constructive feedback though</p>
+          <p><a href="https://forum.throneoflies.com/t/rulers-king-queen/72760/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rulers-king-queen/72760/14</link>
+        <pubDate>Sun, 30 Sep 2018 16:30:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72760-14</guid>
+        <source url="https://forum.throneoflies.com/t/rulers-king-queen/72760.rss">Rulers (King/Queen)</source>
+      </item>
+      <item>
+        <title>Rulers (King/Queen)</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>queen shouldn’t be able to be proved mechanically as scum.</p>
+          <p><a href="https://forum.throneoflies.com/t/rulers-king-queen/72760/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rulers-king-queen/72760/13</link>
+        <pubDate>Sun, 30 Sep 2018 16:22:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72760-13</guid>
+        <source url="https://forum.throneoflies.com/t/rulers-king-queen/72760.rss">Rulers (King/Queen)</source>
+      </item>
+      <item>
+        <title>Rulers (King/Queen)</title>
+        <dc:creator><![CDATA[KitLiz]]></dc:creator>
+        <description><![CDATA[
+            <p>Again, every class has a flaw.  There cant be an absolute class or it would be OP.  It would be silly to assume literally every queek is a psycho queen, how many Psycho Kings have you honestly encountered in current build, So few that almost no one checks for it already.</p>
+          <p><a href="https://forum.throneoflies.com/t/rulers-king-queen/72760/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rulers-king-queen/72760/12</link>
+        <pubDate>Sun, 30 Sep 2018 16:22:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72760-12</guid>
+        <source url="https://forum.throneoflies.com/t/rulers-king-queen/72760.rss">Rulers (King/Queen)</source>
+      </item>
+      <item>
+        <title>Rulers (King/Queen)</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Except when you get elected as it right away they expect you to have at least one</p>
+          <p><a href="https://forum.throneoflies.com/t/rulers-king-queen/72760/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rulers-king-queen/72760/11</link>
+        <pubDate>Sun, 30 Sep 2018 16:18:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72760-11</guid>
+        <source url="https://forum.throneoflies.com/t/rulers-king-queen/72760.rss">Rulers (King/Queen)</source>
+      </item>
+      <item>
+        <title>Rulers (King/Queen)</title>
+        <dc:creator><![CDATA[KitLiz]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Firelitten" data-post="8" data-topic="72760" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+ Firelitten:</div>
+<blockquote>
+<p>Except the major  flaw. Link this person tonight king.</p>
+</blockquote>
+</aside>
+<p>“Im out of charges”<br>
+Kind of a silly excuse for everything here.  Every evil is provable in one direct way or another.</p>
+          <p><a href="https://forum.throneoflies.com/t/rulers-king-queen/72760/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rulers-king-queen/72760/10</link>
+        <pubDate>Sun, 30 Sep 2018 16:17:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72760-10</guid>
+        <source url="https://forum.throneoflies.com/t/rulers-king-queen/72760.rss">Rulers (King/Queen)</source>
+      </item>
+      <item>
+        <title>Rulers (King/Queen)</title>
+        <dc:creator><![CDATA[KitLiz]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="BlueStorm" data-post="4" data-topic="72760" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/bluestorm/40/22263_2.png" class="avatar"> BlueStorm:</div>
+<blockquote>
+<p>I think Poisoned Ballot is too powerful of an ability with a lot of killing power for just the one night.</p>
+<p>Also, how would the Interrogation/Meeting interact with the Prince’s jail ability, which is a fairly identical concept?</p>
+<p>Also all NK classes, including the King versions, have a consistent way of killing each night, having a limited-ability killing action would essentially ruin any incentive for the NK to step early, but the problem is that unless you’re Possessor, other classes will have been pretty much proven by that point and there’s little to no chance of being made Queen.</p>
+</blockquote>
+</aside>
+<p>I thought about prison interactions. I think the most reasonable is that the prince is not able to be affected, nor his jail target.  Feedback something like "They had other business to attend to. " Prince unaffected would mean evil queens couldnt just use Bring Forth on prince and force exe out the gate.</p>
+<p>Also poisoned ballot is more of a balncing thing, since 51% of the court at max can be affected, and it can be healed as a poison affect.  But too many people dying from using this too early and it would immediately out the psycho queen.  It would need to be timed just right.  One use limits its strength. Sure psycho king can kill every night? but pretty much so can Psycho Queen.  The idea is information control.  Since Psycho rulers are so rare already, people will really have to pay attention to see when a log is changed on death as the Psycho Queen would br able to change their victims journal before she ends them, and is given the night to question them to gain more intel before she ends then.  Its very much a more socially directed NK</p>
+          <p><a href="https://forum.throneoflies.com/t/rulers-king-queen/72760/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rulers-king-queen/72760/9</link>
+        <pubDate>Sun, 30 Sep 2018 16:13:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72760-9</guid>
+        <source url="https://forum.throneoflies.com/t/rulers-king-queen/72760.rss">Rulers (King/Queen)</source>
+      </item>
+      <item>
+        <title>Rulers (King/Queen)</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Except the major  flaw. Link this person tonight king.</p>
+          <p><a href="https://forum.throneoflies.com/t/rulers-king-queen/72760/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rulers-king-queen/72760/8</link>
+        <pubDate>Sun, 30 Sep 2018 16:07:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72760-8</guid>
+        <source url="https://forum.throneoflies.com/t/rulers-king-queen/72760.rss">Rulers (King/Queen)</source>
+      </item>
+      <item>
+        <title>Rulers (King/Queen)</title>
+        <dc:creator><![CDATA[KitLiz]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Firelitten" data-post="3" data-topic="72760" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+ Firelitten:</div>
+<blockquote>
+<aside class="quote no-group" data-username="KitLiz" data-post="1" data-topic="72760">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/kitliz/40/1925_2.png" class="avatar"> KitLiz:</div>
+<blockquote>
+<p>Private Interrogation: You and target stay at the table during the next night phase allowing you to speak with them. You will be able to see their Journal. Target is able to take actions as normal, but will die. Bypasses death immunity. [3]</p>
+</blockquote>
+</aside>
+<p>Wonder what happens when the court realizes everyone who you talked to died</p>
+</blockquote>
+</aside>
+<p>Thats what the passive is for.  How would they know? You control their logs before they die.  People can still visit them and they can still visit others.</p>
+          <p><a href="https://forum.throneoflies.com/t/rulers-king-queen/72760/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rulers-king-queen/72760/7</link>
+        <pubDate>Sun, 30 Sep 2018 16:06:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72760-7</guid>
+        <source url="https://forum.throneoflies.com/t/rulers-king-queen/72760.rss">Rulers (King/Queen)</source>
+      </item>
+      <item>
+        <title>Rulers (King/Queen)</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Actually I really just want To find all the suggestions that would work in sfol bring them together and see what we could come up with</p>
+          <p><a href="https://forum.throneoflies.com/t/rulers-king-queen/72760/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rulers-king-queen/72760/6</link>
+        <pubDate>Sun, 30 Sep 2018 14:50:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72760-6</guid>
+        <source url="https://forum.throneoflies.com/t/rulers-king-queen/72760.rss">Rulers (King/Queen)</source>
+      </item>
+      <item>
+        <title>Rulers (King/Queen)</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Honestly this looks more like for a SFOL</p>
+          <p><a href="https://forum.throneoflies.com/t/rulers-king-queen/72760/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rulers-king-queen/72760/5</link>
+        <pubDate>Sun, 30 Sep 2018 14:49:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72760-5</guid>
+        <source url="https://forum.throneoflies.com/t/rulers-king-queen/72760.rss">Rulers (King/Queen)</source>
+      </item>
+      <item>
+        <title>Rulers (King/Queen)</title>
+        <dc:creator><![CDATA[BlueStorm]]></dc:creator>
+        <description><![CDATA[
+            <p>I think Poisoned Ballot is too powerful of an ability with a lot of killing power for just the one night.</p>
+<p>Also, how would the Interrogation/Meeting interact with the Prince’s jail ability, which is a fairly identical concept?</p>
+<p>Also all NK classes, including the King versions, have a consistent way of killing each night, having a limited-ability killing action would essentially ruin any incentive for the NK to step early, but the problem is that unless you’re Possessor, other classes will have been pretty much proven by that point and there’s little to no chance of being made Queen.</p>
+          <p><a href="https://forum.throneoflies.com/t/rulers-king-queen/72760/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rulers-king-queen/72760/4</link>
+        <pubDate>Sun, 30 Sep 2018 14:48:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72760-4</guid>
+        <source url="https://forum.throneoflies.com/t/rulers-king-queen/72760.rss">Rulers (King/Queen)</source>
+      </item>
+      <item>
+        <title>Rulers (King/Queen)</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="KitLiz" data-post="1" data-topic="72760">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/kitliz/40/1925_2.png" class="avatar"> KitLiz:</div>
+<blockquote>
+<p>Private Interrogation: You and target stay at the table during the next night phase allowing you to speak with them. You will be able to see their Journal. Target is able to take actions as normal, but will die. Bypasses death immunity. [3]</p>
+</blockquote>
+</aside>
+<p>Wonder what happens when the court realizes everyone who you talked to died</p>
+          <p><a href="https://forum.throneoflies.com/t/rulers-king-queen/72760/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rulers-king-queen/72760/3</link>
+        <pubDate>Sun, 30 Sep 2018 14:47:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72760-3</guid>
+        <source url="https://forum.throneoflies.com/t/rulers-king-queen/72760.rss">Rulers (King/Queen)</source>
+      </item>
+      <item>
+        <title>Rulers (King/Queen)</title>
+        <dc:creator><![CDATA[Emilia]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="KitLiz" data-post="1" data-topic="72760">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/kitliz/40/1925_2.png" class="avatar"> KitLiz:</div>
+<blockquote>
+<p><strong>Day Ability 1:</strong><br>
+Decide Fate: Decide an accused players fate [1]<br>
+<strong>Day Ability 2:</strong><br>
+Private Meeting: You and target stay at the table during the next night phase allowing you to speak with them. Target is allowed to take actions as normal. [3]</p>
+<p><strong>Night Ability 1:</strong><br>
+Bring Forth: On the start of the next day, the person you have chambered will immediately be placed on trial. [2]</p>
+</blockquote>
+</aside>
+<p>I thought OE was removed from the game</p>
+          <p><a href="https://forum.throneoflies.com/t/rulers-king-queen/72760/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rulers-king-queen/72760/2</link>
+        <pubDate>Sun, 30 Sep 2018 07:37:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72760-2</guid>
+        <source url="https://forum.throneoflies.com/t/rulers-king-queen/72760.rss">Rulers (King/Queen)</source>
+      </item>
+      <item>
+        <title>Rulers (King/Queen)</title>
+        <dc:creator><![CDATA[KitLiz]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>Overview</strong><br>
+This rework is designed to give a little change in direction in  how the “Ruler” is played and provide more variety in game types. Here we have “Kings” and “Queens”. It’s decided randomly on start, and for the remainder of the game if the original ruler dies, the new elected ruler will remain the same type of ruler, so games starting with a King will not have Queens and vice versa.</p>
+<hr>
+<p><strong>KING GAME</strong><br>
+The majority of the king skills remain the same with one slight change, in that the kings have a force vote similar to a noble. This allows the king to effectively have the same power, but also allows the possessor to remain undetected longer if they jump into the king instead of being elected.</p>
+<aside class="quote no-group">
+<blockquote>
+<p><font color="lighblue"><strong>Good King</strong></font></p>
+<hr> 
+<p><strong>Passive 1:</strong><br>
+Tenacity: Immune to most occupation and redirection abilities. Can talk at all points during a trial.<br>
+<strong>Passive 2:</strong><br>
+Loyal Subjects: If the starting Good King is executed, then the court will be unable to accuse anyone of treason for a day.</p>
+<p><strong>Day Ability 1:</strong><br>
+Decide Fate: Decide an accused players fate [1]<br>
+<strong>Day Ability 2:</strong><br>
+Guide Hand: Force someone to accuse another person of choice. [Infinite]</p>
+<p><strong>Night Ability 1:</strong><br>
+Guards! : Become death immune for the night.  [2]<br>
+<strong>Night Ability 2:</strong><br>
+Safeguard: Target becomes occupy immune and death immune for the night. [4]</p>
+</blockquote>
+</aside>
+<aside class="quote no-group">
+<blockquote>
+<p><font color="Red"><strong>Evil King</strong></font></p>
+<hr> 
+<p><strong>Passive 1:</strong><br>
+Tenacity: Immune to most occupation and redirection abilities. Can talk at all points during a trial.</p>
+<p><strong>Day Ability 1:</strong><br>
+Decide Fate: Decide an accused players fate [1]<br>
+<strong>Day Ability 2:</strong><br>
+Guide Hand: Force someone to accuse another person of choice. [Infinite]</p>
+<p><strong>Night Ability 1:</strong><br>
+Guards! : Become death immune for the night.  [2]<br>
+<strong>Night Ability 2:</strong><br>
+Find Allies: Notifies you if target is evil.  If so, you find out their class.  Makes target death immune for the night. [4]</p>
+</blockquote>
+</aside>
+<aside class="quote no-group">
+<blockquote>
+<p><font color="white"><strong>Psycho King</strong> </font></p>
+<hr> 
+<p><strong>Passive 1:</strong><br>
+Deadly Tenacity: Immune to most occupation, redirection and death at night. Can talk at all points during a trial.</p>
+<p><strong>Day Ability 1:</strong><br>
+Decide Fate: Decide an accused players fate [1]<br>
+<strong>Day Ability 2:</strong><br>
+Guide Hand: Force someone to accuse another person of choice. [Infinite]</p>
+<p><strong>Night Ability 1:</strong><br>
+Kings Assassin: Kill target player.  Bypasses death immunity.  Does not count as visiting</p>
+</blockquote>
+</aside>
+<hr>
+<hr>
+<p><strong>QUEEN GAME</strong><br>
+The aim was to be quite different from King gameplay. As kings use their guards everywhere to manage who can and can’t die, queens use their charisma and command to  gather information and push their objective forward. All queens have a day skill that’s a cross between a Prince and a Mystic. They will be able to speak privately to a person of choice but not restrict them from going about their business. The “Bring Forth” ability is an exchange of the force vote of the kings, and may allow them to put someone on the stand AND “Decide” their fate. This would also be the first type of Ruler that an Evil can “out” to the other evils secretly and provide secret communication a limited number of times.</p>
+<p>To align with the idea that a queen is going to be more about flow of information, the Psycho Queen variant has limited nightly kill abilities and will rely on manipulating information to confuse the court and have them turn on each other. While the ballot skill seems extreme, This can at most target a little more than half of the court. Doing it too soon will certainly out the Psycho Queen, but late enough it can be passed as simply a bloody night.</p>
+<aside class="quote no-group">
+<blockquote>
+<p><font color="lighblue"><strong>Good Queen</strong></font></p>
+<hr> 
+<p><strong>Passive 1:</strong><br>
+Queen’s Double: Immune to death at night once<br>
+<strong>Passive 2:</strong><br>
+Mourning: If the starting Good Queen is executed, then the court will be unable to elect a new Queen for a day.</p>
+<p><strong>Day Ability 1:</strong><br>
+Decide Fate: Decide an accused players fate [1]<br>
+<strong>Day Ability 2:</strong><br>
+Private Meeting: You and target stay at the table during the next night phase allowing you to speak with them.  Target is allowed to take actions as normal. [3]</p>
+<p><strong>Night Ability 1:</strong><br>
+Bring Forth: On the start of the next day, the person you have chambered will immediately be placed on trial. [2]<br>
+<strong>Night Ability 2:</strong><br>
+Secure Bloodline: If target is royal they will be death immune for the night. [2]</p>
+</blockquote>
+</aside>
+<aside class="quote no-group">
+<blockquote>
+<p><font color="red"><strong>Evil Queen:</strong> </font></p>
+<hr> 
+<p><strong>Passive 1:</strong><br>
+Queen’s Double: Immune to death at night once</p>
+<p><strong>Day Ability 1:</strong><br>
+Decide Fate: Decide an accused players fate [1]<br>
+<strong>Day Ability 2:</strong><br>
+Private Meeting: You and the target stay at the table during the next night phase, allowing you to speak with them.  If target is evil, all evil players will stay. Players will be able to take action as normal. [3]</p>
+<p><strong>Night Ability 1:</strong><br>
+Bring Forth: On the start of the next day, the person you have chambered will immediately be placed on trial. [2]<br>
+<strong>Night Ability 2:</strong><br>
+Secure Meeting: All evils at a private meeting will appear Not Suspicious to investigative classes and death immune for the night. [1]</p>
+</blockquote>
+</aside>
+<aside class="quote no-group">
+<blockquote>
+<p><font color="white"><strong>Psycho Queen</strong> </font></p>
+<hr> 
+<p><strong>Passive 1:</strong><br>
+Forge Signature: You will be able to make edits to the Interrogated persons logs before they display to the court upon their death<br>
+<strong>Passive 2:</strong><br>
+Queen’s Fodder: Immune to death at night.</p>
+<p><strong>Day Ability 1:</strong><br>
+Decide Fate: Decide an accused players fate [1]<br>
+<strong>Day Ability 2:</strong><br>
+Private Interrogation: You and target stay at the table during the next night phase allowing you to speak with them. You will be able to see their Journal.  Target is able to take actions as normal, but will die. Bypasses death immunity. [3]</p>
+<p><strong>Night Ability 1:</strong><br>
+Cover Up: Interrogated target appears as chosen class on death.  [2]<br>
+<strong>Night Ability 2:</strong><br>
+Poisoned Ballot: Anyone who acuses your target of  treason the next day will die the following night. Can target yourself. [1]</p>
+</blockquote>
+</aside>
+          <p><a href="https://forum.throneoflies.com/t/rulers-king-queen/72760/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rulers-king-queen/72760/1</link>
+        <pubDate>Sun, 30 Sep 2018 00:38:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72760-1</guid>
+        <source url="https://forum.throneoflies.com/t/rulers-king-queen/72760.rss">Rulers (King/Queen)</source>
+      </item>
+  </channel>
+</rss>

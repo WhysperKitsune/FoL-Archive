@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Xblade&#39;s Dev Plans</title>
+    <link>https://forum.throneoflies.com/t/xblades-dev-plans/35778</link>
+    <description>## Aug 30, 2018 UPDATE: 
+I&#39;m going to [color=green]&lt;strike&gt;Strike&lt;/strike&gt;[/color] what we successfully accomplished! And for WIP now, [color=orange]orange~[/color].
+______
+
+I wanted to let you guys know __my__ personal plans over the next little bit. While this may change, and I&#39;m only revealing a LITTLE bit, know that we&#39;ve done a lot of surveys and read a lotttt of #feedback-dont-ping and this forums #feedback  . Boslof usually handles in-game/balance and I handle data/matchmaking. I can&#39;t speak for Boslof&#39;s plans, but here are mine:
+
+After this Steam ban integration, I am going to **start tracking LIVE games**. This branches off into quite a lot of things.
+
+* [color=green]&lt;strike&gt;If you leave the game early, we&#39;ll be able to reward you if you already completed your objective. &lt;/strike&gt;[/color]
+
+* [color=green]&lt;strike&gt;If you leave the game while dead, we&#39;ll be able to grant SOME gold (although not as much if you stayed until the end)&lt;/strike&gt;[/color]
+
+* [color=green]&lt;strike&gt;If you leave the game while ALIVE.... we&#39;re still deciding what to do on this one. Right now, you get **one** chance to reconnect. We&#39;re considering doing it MOBA style, where we&#39;ll force you to reconnect to the old game (if alive) or some sort of lockout timer. **Let us know your thoughts below on how you believe we should handle this**.&lt;/strike&gt;[/color]
+
+* [color=orange]Twitch has been SUPER influential for us. We want to do something for both streamers and viewers. Because we&#39;d track live games, I have tons of ideas, already. I want to keep this a secret, for now, as it&#39;s super experimental, but just so you know it&#39;s coming. **If you have some of your own ideas (for use with Streamlabs, etc), let me know below.**[/color]  **(8/30: Working on this now!)**
+
+* [color=green]&lt;strike&gt;Tracking live games also means we can add **Rich Presence** to Discord. We now have 11,000 something players in our Discord, averaging 2k+ online at a time. WOW!&lt;/strike&gt;[/color]
+
+* [color=green]&lt;strike&gt;Game match history logging&lt;/strike&gt;[/color] **(8/30: Currently used now to aid the back-end for moderation. Perhaps something more fun in the future! Stats, Leaderboards...)**
+
+_________________
+
+**Other things include:**
+
+* [color=green]&lt;strike&gt;Friends list is still a bit funny and the status isn&#39;t showing correctly (on the left - that&#39;s why the title is right aligned). I&#39;ll probably remove the title and fix the status to center-align it.&lt;/strike&gt;[/color]
+
+* [color=green]&lt;strike&gt;You can&#39;t scroll with the mousewheel down the main part. This is a UNITY bug and it&#39;s really annoying - I can either have a hover action (where it changes to show an invite button) **OR** allow smooth scrolling when you aren&#39;t hovering over the perfect spot, but not both. I&#39;m going to try to find a workaround for this.&lt;/strike&gt;[/color]
+
+* [color=orange]One-click bug reports[/color] **(8/30: Still planned!)**
+
+* [color=green]&lt;strike&gt;Some people have multiple titles/avatars -- I&#39;m going to allow you to select the one you want.&lt;/strike&gt;[/color]
+
+* [color=green]&lt;strike&gt;Ability to remove friends. Poor former friends....&lt;/strike&gt;[/color]
+
+* [color=green]&lt;strike&gt;It&#39;d be cool to have guides/mods/devs show a little icon next to their name in the lobby, but this is sort of a fluff feature so I&#39;d do this later.&lt;/strike&gt;[/color]
+
+* Progression. I want it. You want it. We all want it. In some form, we&#39;re going to add it. Levels, experience, ELO, what have you. **(8/30: Still planned! We already have ideas how to implement this. I&#39;ll get back to you on this, as it&#39;s going to take time)**
+
+* [color=orange]Stats. Aww yea... https://www.youtube.com/watch?v=7YvAYIJSSZY [/color] **(8/30): It&#39;s actually working now in the back-end! We&#39;re ensuring accuracy before it&#39;s public)**
+
+* [color=orange]I&#39;d LATER like to make a public API for stats + games info so players can make community sites, profiles, etc. Would any devs be interested in this? @ping me.[/color] **(1/2 delayed, 1/2 implemented: Our first API use will be for an upcoming Twitch overlay! However, this will be a private API)**
+
+_________________
+
+[color=orange]Later, later: We also want to add **localization**: Other languages. Perhaps split the realms into that specific language. I still need more research for the best approach for this. **TO START, however,** we could probably at least edit the UI text to your own language so you&#39;d only need to worry about the chat. This may be a community project, similar to Wikia.[/color] **(8/30: Project will start shortly after the Twitch overlay!)**
+_________________
+
+I&#39;m advised that I should NOT be revealing my plans because everyone has different opinions and some people get angry at my direction, so this is a &quot;Test post&quot; to see how people react to it, which also determines future transparency for my dev plans~
+
+**Again, the order of which I do this is not guaranteed. The feature itself may never come into existence or be completely altered than what I said above. Maybe it takes me 50 years to do it! Who knows. These are my potential, short-term plans. Boslof has other plans.**</description>
+    
+    <lastBuildDate>Tue, 25 Sep 2018 09:58:22 +0000</lastBuildDate>
+    <category>Official Announcements</category>
+    <atom:link href="https://forum.throneoflies.com/t/xblades-dev-plans/35778.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Xblade&#39;s Dev Plans</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href="https://forum.throneoflies.com/t/xblades-dev-plans/35778/57">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/xblades-dev-plans/35778/57</link>
+        <pubDate>Tue, 25 Sep 2018 09:58:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-35778-57</guid>
+        <source url="https://forum.throneoflies.com/t/xblades-dev-plans/35778.rss">Xblade&#39;s Dev Plans</source>
+      </item>
+      <item>
+        <title>Xblade&#39;s Dev Plans</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href="https://forum.throneoflies.com/t/xblades-dev-plans/35778/56">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/xblades-dev-plans/35778/56</link>
+        <pubDate>Tue, 25 Sep 2018 09:58:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-35778-56</guid>
+        <source url="https://forum.throneoflies.com/t/xblades-dev-plans/35778.rss">Xblade&#39;s Dev Plans</source>
+      </item>
+      <item>
+        <title>Xblade&#39;s Dev Plans</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href="https://forum.throneoflies.com/t/xblades-dev-plans/35778/55">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/xblades-dev-plans/35778/55</link>
+        <pubDate>Tue, 25 Sep 2018 09:58:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-35778-55</guid>
+        <source url="https://forum.throneoflies.com/t/xblades-dev-plans/35778.rss">Xblade&#39;s Dev Plans</source>
+      </item>
+      <item>
+        <title>Xblade&#39;s Dev Plans</title>
+        <dc:creator><![CDATA[Insanity]]></dc:creator>
+        <description><![CDATA[
+            <p><s>It is totally because I am stuck in Gold V</s></p>
+          <p><a href="https://forum.throneoflies.com/t/xblades-dev-plans/35778/54">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/xblades-dev-plans/35778/54</link>
+        <pubDate>Sat, 22 Sep 2018 01:52:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-35778-54</guid>
+        <source url="https://forum.throneoflies.com/t/xblades-dev-plans/35778.rss">Xblade&#39;s Dev Plans</source>
+      </item>
+      <item>
+        <title>Xblade&#39;s Dev Plans</title>
+        <dc:creator><![CDATA[Blizer]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Ashe" data-post="52" data-topic="35778">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/ashe/40/10225_2.png" class="avatar"> Ashe:</div>
+<blockquote>
+<p>I dislike Elo there too ¯_(ツ)_/¯</p>
+</blockquote>
+</aside>
+<p>Or toxic.</p>
+<p>So very Toxic.</p>
+          <p><a href="https://forum.throneoflies.com/t/xblades-dev-plans/35778/53">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/xblades-dev-plans/35778/53</link>
+        <pubDate>Sat, 22 Sep 2018 01:12:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-35778-53</guid>
+        <source url="https://forum.throneoflies.com/t/xblades-dev-plans/35778.rss">Xblade&#39;s Dev Plans</source>
+      </item>
+      <item>
+        <title>Xblade&#39;s Dev Plans</title>
+        <dc:creator><![CDATA[Ashe]]></dc:creator>
+        <description><![CDATA[
+            <p>I dislike Elo there too ¯\_(ツ)_/¯</p>
+<p><s>it’s totally not because I’m bad <img src="/images/emoji/twitter/eyes.png?v=9" title=":eyes:" class="emoji" alt=":eyes:"></s></p>
+          <p><a href="https://forum.throneoflies.com/t/xblades-dev-plans/35778/52">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/xblades-dev-plans/35778/52</link>
+        <pubDate>Sat, 22 Sep 2018 01:11:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-35778-52</guid>
+        <source url="https://forum.throneoflies.com/t/xblades-dev-plans/35778.rss">Xblade&#39;s Dev Plans</source>
+      </item>
+      <item>
+        <title>Xblade&#39;s Dev Plans</title>
+        <dc:creator><![CDATA[Blizer]]></dc:creator>
+        <description><![CDATA[
+            <p>You Understand.</p>
+          <p><a href="https://forum.throneoflies.com/t/xblades-dev-plans/35778/51">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/xblades-dev-plans/35778/51</link>
+        <pubDate>Sat, 22 Sep 2018 00:47:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-35778-51</guid>
+        <source url="https://forum.throneoflies.com/t/xblades-dev-plans/35778.rss">Xblade&#39;s Dev Plans</source>
+      </item>
+      <item>
+        <title>Xblade&#39;s Dev Plans</title>
+        <dc:creator><![CDATA[Insanity]]></dc:creator>
+        <description><![CDATA[
+            <p>No, a 1v9 game.</p>
+          <p><a href="https://forum.throneoflies.com/t/xblades-dev-plans/35778/50">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/xblades-dev-plans/35778/50</link>
+        <pubDate>Sat, 22 Sep 2018 00:46:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-35778-50</guid>
+        <source url="https://forum.throneoflies.com/t/xblades-dev-plans/35778.rss">Xblade&#39;s Dev Plans</source>
+      </item>
+      <item>
+        <title>Xblade&#39;s Dev Plans</title>
+        <dc:creator><![CDATA[Marluxion]]></dc:creator>
+        <description><![CDATA[
+            <p>Is League of Legends a 1v1 game? <img src="/images/emoji/twitter/thinking.png?v=9" title=":thinking:" class="emoji" alt=":thinking:"></p>
+          <p><a href="https://forum.throneoflies.com/t/xblades-dev-plans/35778/49">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/xblades-dev-plans/35778/49</link>
+        <pubDate>Sat, 22 Sep 2018 00:44:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-35778-49</guid>
+        <source url="https://forum.throneoflies.com/t/xblades-dev-plans/35778.rss">Xblade&#39;s Dev Plans</source>
+      </item>
+      <item>
+        <title>Xblade&#39;s Dev Plans</title>
+        <dc:creator><![CDATA[Moleland]]></dc:creator>
+        <description><![CDATA[
+            <p>Yep, exactly. Before a game, you cannot decide on a game plan.</p>
+          <p><a href="https://forum.throneoflies.com/t/xblades-dev-plans/35778/48">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/xblades-dev-plans/35778/48</link>
+        <pubDate>Sat, 22 Sep 2018 00:20:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-35778-48</guid>
+        <source url="https://forum.throneoflies.com/t/xblades-dev-plans/35778.rss">Xblade&#39;s Dev Plans</source>
+      </item>
+      <item>
+        <title>Xblade&#39;s Dev Plans</title>
+        <dc:creator><![CDATA[Ashe]]></dc:creator>
+        <description><![CDATA[
+            <p>Fair enough in that case</p>
+          <p><a href="https://forum.throneoflies.com/t/xblades-dev-plans/35778/47">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/xblades-dev-plans/35778/47</link>
+        <pubDate>Sat, 22 Sep 2018 00:05:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-35778-47</guid>
+        <source url="https://forum.throneoflies.com/t/xblades-dev-plans/35778.rss">Xblade&#39;s Dev Plans</source>
+      </item>
+      <item>
+        <title>Xblade&#39;s Dev Plans</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Maybe he means the initial spawn distribution of classes is RNG?</p>
+          <p><a href="https://forum.throneoflies.com/t/xblades-dev-plans/35778/46">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/xblades-dev-plans/35778/46</link>
+        <pubDate>Sat, 22 Sep 2018 00:05:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-35778-46</guid>
+        <source url="https://forum.throneoflies.com/t/xblades-dev-plans/35778.rss">Xblade&#39;s Dev Plans</source>
+      </item>
+      <item>
+        <title>Xblade&#39;s Dev Plans</title>
+        <dc:creator><![CDATA[Ashe]]></dc:creator>
+        <description><![CDATA[
+            <p>And if we’re talking about the misuse of terms can we talk about saying “RNG based” when it’s based on player decisions not a Random Number Generator? Even if you say that people’s actions are random it doesn’t make them RNG.</p>
+<p><em>Pedantry intensifies</em> :^)</p>
+          <p><a href="https://forum.throneoflies.com/t/xblades-dev-plans/35778/45">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/xblades-dev-plans/35778/45</link>
+        <pubDate>Sat, 22 Sep 2018 00:03:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-35778-45</guid>
+        <source url="https://forum.throneoflies.com/t/xblades-dev-plans/35778.rss">Xblade&#39;s Dev Plans</source>
+      </item>
+      <item>
+        <title>Xblade&#39;s Dev Plans</title>
+        <dc:creator><![CDATA[Ashe]]></dc:creator>
+        <description><![CDATA[
+            <p>I may or may not have just learned it wasn’t an acronym lul<br>
+woops :^)</p>
+          <p><a href="https://forum.throneoflies.com/t/xblades-dev-plans/35778/44">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/xblades-dev-plans/35778/44</link>
+        <pubDate>Sat, 22 Sep 2018 00:01:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-35778-44</guid>
+        <source url="https://forum.throneoflies.com/t/xblades-dev-plans/35778.rss">Xblade&#39;s Dev Plans</source>
+      </item>
+      <item>
+        <title>Xblade&#39;s Dev Plans</title>
+        <dc:creator><![CDATA[bazingaboy]]></dc:creator>
+        <description><![CDATA[
+            <p>lol @ elo being implemented in an RNG based game with 200 players active</p>
+          <p><a href="https://forum.throneoflies.com/t/xblades-dev-plans/35778/43">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/xblades-dev-plans/35778/43</link>
+        <pubDate>Fri, 21 Sep 2018 22:03:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-35778-43</guid>
+        <source url="https://forum.throneoflies.com/t/xblades-dev-plans/35778.rss">Xblade&#39;s Dev Plans</source>
+      </item>
+      <item>
+        <title>Xblade&#39;s Dev Plans</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Ok I looked it up. Here is a Wikipedia article on it:</p>
+<p><a href="https://en.wikipedia.org/wiki/Elo_rating_system" class="onebox" target="_blank" rel="noopener nofollow ugc">https://en.wikipedia.org/wiki/Elo_rating_system</a></p>
+          <p><a href="https://forum.throneoflies.com/t/xblades-dev-plans/35778/42">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/xblades-dev-plans/35778/42</link>
+        <pubDate>Fri, 21 Sep 2018 21:04:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-35778-42</guid>
+        <source url="https://forum.throneoflies.com/t/xblades-dev-plans/35778.rss">Xblade&#39;s Dev Plans</source>
+      </item>
+      <item>
+        <title>Xblade&#39;s Dev Plans</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Eric Likes Oreos</p>
+          <p><a href="https://forum.throneoflies.com/t/xblades-dev-plans/35778/41">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/xblades-dev-plans/35778/41</link>
+        <pubDate>Fri, 21 Sep 2018 21:04:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-35778-41</guid>
+        <source url="https://forum.throneoflies.com/t/xblades-dev-plans/35778.rss">Xblade&#39;s Dev Plans</source>
+      </item>
+      <item>
+        <title>Xblade&#39;s Dev Plans</title>
+        <dc:creator><![CDATA[Ami]]></dc:creator>
+        <description><![CDATA[
+            <p>Ye</p>
+          <p><a href="https://forum.throneoflies.com/t/xblades-dev-plans/35778/40">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/xblades-dev-plans/35778/40</link>
+        <pubDate>Fri, 21 Sep 2018 21:04:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-35778-40</guid>
+        <source url="https://forum.throneoflies.com/t/xblades-dev-plans/35778.rss">Xblade&#39;s Dev Plans</source>
+      </item>
+      <item>
+        <title>Xblade&#39;s Dev Plans</title>
+        <dc:creator><![CDATA[Moleland]]></dc:creator>
+        <description><![CDATA[
+            <p>It’s the creators name, right?</p>
+          <p><a href="https://forum.throneoflies.com/t/xblades-dev-plans/35778/39">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/xblades-dev-plans/35778/39</link>
+        <pubDate>Fri, 21 Sep 2018 21:04:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-35778-39</guid>
+        <source url="https://forum.throneoflies.com/t/xblades-dev-plans/35778.rss">Xblade&#39;s Dev Plans</source>
+      </item>
+      <item>
+        <title>Xblade&#39;s Dev Plans</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>But like. Is it a real word?</p>
+          <p><a href="https://forum.throneoflies.com/t/xblades-dev-plans/35778/38">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/xblades-dev-plans/35778/38</link>
+        <pubDate>Fri, 21 Sep 2018 21:02:17 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-35778-38</guid>
+        <source url="https://forum.throneoflies.com/t/xblades-dev-plans/35778.rss">Xblade&#39;s Dev Plans</source>
+      </item>
+      <item>
+        <title>Xblade&#39;s Dev Plans</title>
+        <dc:creator><![CDATA[Ami]]></dc:creator>
+        <description><![CDATA[
+            <p>It was originally a way of ranking a chess player’s skill, it’s basically ranking your skill</p>
+          <p><a href="https://forum.throneoflies.com/t/xblades-dev-plans/35778/37">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/xblades-dev-plans/35778/37</link>
+        <pubDate>Fri, 21 Sep 2018 21:01:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-35778-37</guid>
+        <source url="https://forum.throneoflies.com/t/xblades-dev-plans/35778.rss">Xblade&#39;s Dev Plans</source>
+      </item>
+      <item>
+        <title>Xblade&#39;s Dev Plans</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>What exactly is the definition of Elo anyways? It doesn’t sound like a real word.</p>
+          <p><a href="https://forum.throneoflies.com/t/xblades-dev-plans/35778/36">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/xblades-dev-plans/35778/36</link>
+        <pubDate>Fri, 21 Sep 2018 20:32:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-35778-36</guid>
+        <source url="https://forum.throneoflies.com/t/xblades-dev-plans/35778.rss">Xblade&#39;s Dev Plans</source>
+      </item>
+      <item>
+        <title>Xblade&#39;s Dev Plans</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>Also y’all need to stop acting like “Elo” is an acronym</p>
+          <p><a href="https://forum.throneoflies.com/t/xblades-dev-plans/35778/35">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/xblades-dev-plans/35778/35</link>
+        <pubDate>Fri, 21 Sep 2018 19:58:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-35778-35</guid>
+        <source url="https://forum.throneoflies.com/t/xblades-dev-plans/35778.rss">Xblade&#39;s Dev Plans</source>
+      </item>
+      <item>
+        <title>Xblade&#39;s Dev Plans</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>I didn’t read the whole post over again but uh</p>
+<p>Yeah no Elo please</p>
+          <p><a href="https://forum.throneoflies.com/t/xblades-dev-plans/35778/34">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/xblades-dev-plans/35778/34</link>
+        <pubDate>Fri, 21 Sep 2018 19:58:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-35778-34</guid>
+        <source url="https://forum.throneoflies.com/t/xblades-dev-plans/35778.rss">Xblade&#39;s Dev Plans</source>
+      </item>
+      <item>
+        <title>Xblade&#39;s Dev Plans</title>
+        <dc:creator><![CDATA[Lightsin]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote group-Admin" data-username="í42-Xblade" data-post="1" data-topic="35778">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>Progression. I want it. You want it. We all want it. In some form, we’re going to add it. Levels, experience, ELO, what have you. <strong>(8/30: Still planned! We already have ideas how to implement this. I’ll get back to you on this, as it’s going to take time)</strong></p>
+</blockquote>
+</aside>
+<aside class="quote group-Admin" data-username="í42-Xblade" data-post="1" data-topic="35778">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>in some form, we’re going to add it. Levels, experience, ELO, what have you.</p>
+</blockquote>
+</aside>
+<aside class="quote group-Admin" data-username="í42-Xblade" data-post="1" data-topic="35778">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>ELO</p>
+</blockquote>
+</aside>
+<p><img src="/images/emoji/twitter/thinking.png?v=9" title=":thinking:" class="emoji only-emoji" alt=":thinking:"></p>
+<p><a class="mention" href="/u/orangeandblack5">@orangeandblack5</a></p>
+          <p><a href="https://forum.throneoflies.com/t/xblades-dev-plans/35778/33">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/xblades-dev-plans/35778/33</link>
+        <pubDate>Fri, 21 Sep 2018 19:52:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-35778-33</guid>
+        <source url="https://forum.throneoflies.com/t/xblades-dev-plans/35778.rss">Xblade&#39;s Dev Plans</source>
+      </item>
+  </channel>
+</rss>

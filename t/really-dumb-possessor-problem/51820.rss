@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Really Dumb Possessor Problem</title>
+    <link>https://forum.throneoflies.com/t/really-dumb-possessor-problem/51820</link>
+    <description>So I just tried to possess a person who disconnected like 1 second before the night ended, &quot;You cannot possess a disconnected player.&quot;  Then that person rejoined and continued to play.  Wow really?</description>
+    
+    <lastBuildDate>Wed, 14 Mar 2018 21:31:32 +0000</lastBuildDate>
+    <category>Feedback/Suggestions</category>
+    <atom:link href="https://forum.throneoflies.com/t/really-dumb-possessor-problem/51820.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Really Dumb Possessor Problem</title>
+        <dc:creator><![CDATA[Shrimpy]]></dc:creator>
+        <description><![CDATA[
+            <p>The obvious solution is get rid of the connect/disconnect messages.  They allow metagaming in other ways also and they have no justification for being in the game.</p>
+          <p><a href="https://forum.throneoflies.com/t/really-dumb-possessor-problem/51820/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/really-dumb-possessor-problem/51820/5</link>
+        <pubDate>Wed, 14 Mar 2018 21:31:32 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-51820-5</guid>
+        <source url="https://forum.throneoflies.com/t/really-dumb-possessor-problem/51820.rss">Really Dumb Possessor Problem</source>
+      </item>
+      <item>
+        <title>Really Dumb Possessor Problem</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>They should at least die. “You could not possess the player so you killed them normally instead”</p>
+          <p><a href="https://forum.throneoflies.com/t/really-dumb-possessor-problem/51820/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/really-dumb-possessor-problem/51820/4</link>
+        <pubDate>Wed, 14 Mar 2018 20:29:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-51820-4</guid>
+        <source url="https://forum.throneoflies.com/t/really-dumb-possessor-problem/51820.rss">Really Dumb Possessor Problem</source>
+      </item>
+      <item>
+        <title>Really Dumb Possessor Problem</title>
+        <dc:creator><![CDATA[Aquillion]]></dc:creator>
+        <description><![CDATA[
+            <p>It’s more complicated to fix than it seems.  Think about how the messages involved work (and remember, they’re visible to everyone):</p>
+<p>“4 has disconnected!”</p>
+<p>(Night ends, Possessor, who was 5, jumps to 4.)</p>
+<p>“5 has reconnected!”</p>
+<p>Now it’s obvious who the possessor is.  You can fix this by having it display their old number, but that will require some tracking.  And there’s still some other issues:</p>
+<ol>
+<li>
+<p>What if they take a while to reconnect?  The Possessor can fake being disconnected, but it’ll be a bit tricky and many possessors would miss that they have to do so.  I guess it could prevent the possessor from speaking?  It’s complicated.</p>
+</li>
+<li>
+<p>What if that person doesn’t reconnect at all?  Eventually, it will have to show a fake reconnect message, but when?  If it happens in a predictable way (ie. immediately after the night ends), people might notice and suspect a possessor.</p>
+</li>
+<li>
+<p>What about their new number, which never showed a disconnect message but is now disconnected?  If they never come back, how is this handled?  Will they appear as an option to be raised as a DK, say?  Note that if they’re now silently disconnected, a Phys could notice the missing number the next night, look back to see who was disconnected at the end of last night, and identify who the Possessor is.</p>
+</li>
+</ol>
+<p>I agree that it should be fixed, but there’s complications that need to be worked out first.</p>
+          <p><a href="https://forum.throneoflies.com/t/really-dumb-possessor-problem/51820/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/really-dumb-possessor-problem/51820/3</link>
+        <pubDate>Wed, 14 Mar 2018 20:09:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-51820-3</guid>
+        <source url="https://forum.throneoflies.com/t/really-dumb-possessor-problem/51820.rss">Really Dumb Possessor Problem</source>
+      </item>
+      <item>
+        <title>Really Dumb Possessor Problem</title>
+        <dc:creator><![CDATA[Lily]]></dc:creator>
+        <description><![CDATA[
+            <p>Hows life?</p>
+<p>me:</p>
+<aside class="quote no-group" data-username="Shrimpy" data-post="1" data-topic="51820" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shrimpy/40/15828_2.png" class="avatar"> Shrimpy:</div>
+<blockquote>
+<p>So I just tried to possess a person who disconnected like 1 second before the night ended, “You cannot possess a disconnected player.”  Then that person rejoined and continued to play.  Wow really?</p>
+</blockquote>
+</aside>
+          <p><a href="https://forum.throneoflies.com/t/really-dumb-possessor-problem/51820/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/really-dumb-possessor-problem/51820/2</link>
+        <pubDate>Mon, 12 Mar 2018 19:31:32 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-51820-2</guid>
+        <source url="https://forum.throneoflies.com/t/really-dumb-possessor-problem/51820.rss">Really Dumb Possessor Problem</source>
+      </item>
+      <item>
+        <title>Really Dumb Possessor Problem</title>
+        <dc:creator><![CDATA[Shrimpy]]></dc:creator>
+        <description><![CDATA[
+            <p>So I just tried to possess a person who disconnected like 1 second before the night ended, “You cannot possess a disconnected player.”  Then that person rejoined and continued to play.  Wow really?</p>
+          <p><a href="https://forum.throneoflies.com/t/really-dumb-possessor-problem/51820/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/really-dumb-possessor-problem/51820/1</link>
+        <pubDate>Mon, 12 Mar 2018 05:33:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-51820-1</guid>
+        <source url="https://forum.throneoflies.com/t/really-dumb-possessor-problem/51820.rss">Really Dumb Possessor Problem</source>
+      </item>
+  </channel>
+</rss>

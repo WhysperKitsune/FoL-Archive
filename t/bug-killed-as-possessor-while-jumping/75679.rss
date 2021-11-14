@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[BUG] Killed as Possessor while jumping</title>
+    <link>https://forum.throneoflies.com/t/bug-killed-as-possessor-while-jumping/75679</link>
+    <description>#### What happened?
+I was the Possessor, and I was trying to possess a player.
+The jump worked (got the message saying I took control of their body, and that they were a Knight), but I died to my own attack as Possessor after that. I basically possessed myself as Possessor. There was a lag spike as the night ended, and I got feedback multiple times... that probably had something to do with it.
+Additionally, I had used Facelift to disguise myself as a Hunter when I jumped, but after my death I showed up as Possessor anyway.
+The Knight stayed alive on the player tab, but they were in the dead chat with me (similar to if they had been reaped). 
+
+#### What was SUPPOSED to happen?
+I should have been able to jump to them without issue.
+
+#### Steps to reproduce:
+Possess someone during a lag spike.
+
+#### Comments:
+Screenshot of the feedback
+![bug|489x500](upload://dcZcUPEZMHdO6JPzb7fhEC2pbEC.png)</description>
+    
+    <lastBuildDate>Sun, 24 Feb 2019 19:38:11 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forum.throneoflies.com/t/bug-killed-as-possessor-while-jumping/75679.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[BUG] Killed as Possessor while jumping</title>
+        <dc:creator><![CDATA[Sam17z]]></dc:creator>
+        <description><![CDATA[
+            <p>I mean if the knight was hh’ed (or by any means redirected to themselves) then you would have died.</p>
+<p>If not, then the order of operations of what happened is wrong. But I would believe the first is what occurred.</p>
+          <p><a href="https://forum.throneoflies.com/t/bug-killed-as-possessor-while-jumping/75679/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/bug-killed-as-possessor-while-jumping/75679/2</link>
+        <pubDate>Sun, 24 Feb 2019 19:38:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75679-2</guid>
+        <source url="https://forum.throneoflies.com/t/bug-killed-as-possessor-while-jumping/75679.rss">[BUG] Killed as Possessor while jumping</source>
+      </item>
+      <item>
+        <title>[BUG] Killed as Possessor while jumping</title>
+        <dc:creator><![CDATA[snowbunny]]></dc:creator>
+        <description><![CDATA[
+            <h4>What happened?</h4>
+<p>I was the Possessor, and I was trying to possess a player.<br>
+The jump worked (got the message saying I took control of their body, and that they were a Knight), but I died to my own attack as Possessor after that. I basically possessed myself as Possessor. There was a lag spike as the night ended, and I got feedback multiple times… that probably had something to do with it.<br>
+Additionally, I had used Facelift to disguise myself as a Hunter when I jumped, but after my death I showed up as Possessor anyway.<br>
+The Knight stayed alive on the player tab, but they were in the dead chat with me (similar to if they had been reaped).</p>
+<h4>What was SUPPOSED to happen?</h4>
+<p>I should have been able to jump to them without issue.</p>
+<h4>Steps to reproduce:</h4>
+<p>Possess someone during a lag spike.</p>
+<h4>Comments:</h4>
+<p>Screenshot of the feedback<br>
+<img src="/uploads/default/original/2X/5/5c941700c42425e999c64cfb6d50d380802c531a.png" alt="bug" data-base62-sha1="dcZcUPEZMHdO6JPzb7fhEC2pbEC" width="489" height="500"></p>
+          <p><a href="https://forum.throneoflies.com/t/bug-killed-as-possessor-while-jumping/75679/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/bug-killed-as-possessor-while-jumping/75679/1</link>
+        <pubDate>Sun, 24 Feb 2019 18:53:54 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75679-1</guid>
+        <source url="https://forum.throneoflies.com/t/bug-killed-as-possessor-while-jumping/75679.rss">[BUG] Killed as Possessor while jumping</source>
+      </item>
+  </channel>
+</rss>

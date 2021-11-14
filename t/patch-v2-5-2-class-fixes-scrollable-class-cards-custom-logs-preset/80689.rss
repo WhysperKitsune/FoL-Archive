@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Patch v2.5.2 - Class fixes, Scrollable Class Cards, Custom Logs Preset</title>
+    <link>https://forum.throneoflies.com/t/patch-v2-5-2-class-fixes-scrollable-class-cards-custom-logs-preset/80689</link>
+    <description># v2.5.2 Bug Fix Patch 2
+
+![image|300x141](upload://vQiLE3OOAfTEcDg7jYAVW74wZBc.png) 
+
+While it&#39;s impossible to fix *all* bugs in a game with so many interaction combinations, I&#39;m definitely aiming to rid of the core ones. Last patch did a job of that, but there are still some repeated ones out there.
+
+_________
+
+## Class Bug Fixes
+* Fixed Assassin&#39;s *Assassinate* abil interaction with Reaper (that was causing Reaper to be unhealable) and a more-obscure bug that forgot to consider *Empower*.
+* *Analyze* abil feedback class results now show properly.
+* Noble&#39;s *Gossip* abil now correctly displays occupies.
+* Fixed the ancient bug of Reaper&#39;s *Icy Touch (Chill)* abil lifting too early due to host migration (disconnection) due to unsync&#39;d timers.
+* Knight&#39;s *Defend* abil is now unhealable, as intended.
+* Fixed obscure bug where Knights who get successfully redirected into Hunter&#39;s *Bear Companion* abil will no longer die, since CS will be cancelled out, as intended.
+* Knights will now successfully *Cold Steel* their intended target if they are occupy immune and there was a redirection attempt on them.
+* Fixed Mystic&#39;s `%X%` target name feedback that wasn&#39;t being replaced with the actual name.
+* ^ Similarly fixed Hunter&#39;s %CASTER% notification.
+* Fixed an obscure *Matchmake* abil bug that was skewing results for Cult targets (Unseen targets worked fine).
+* Fixed Alchemist&#39;s *Emerald Potion* abil that was not considering protection from Merc&#39;s *Shield* abil.
+* *Hunter&#39;s Mark* abil will now correctly occupy as intended.
+* *Hunter&#39;s Mark* abil no longer shows up in *Gossip* (since it&#39;s an attack).
+* *Conduit* abil is no longer able to target the same person twice.
+* Fixed a feedback &quot;perspective bug&quot; for select abilities with 2 targets, such as redirection or &quot;A attacks B&quot; type abilities that would sometimes show the same target 2x or inadvertently say you targeted &quot;yourself&quot; (*was a visual bug only*).
+
+_________
+
+## General Fixes/Improvements
+* Fixed death abilities that were not interacting at all.
+* Added a new room integrity check for room name: Sometimes this was getting desync&#39;d, causing issues with reporting, was likely causing the &quot;missing gp bug&quot;, and potentially other bugs. If you join a room and the room name doesn&#39;t match server, you&#39;ll be booted: Joining again should fix it.
+* Added more initialization null checks to *possibly* prevent getting booted back to lobby. This is hard to test: We&#39;ll see.
+* Tutorial can no longer target yourself for free-action phases (and the MM will no longer agree with you that it&#39;s a good choice to assassinate yourself O_o).
+* Tutorial arrow anchoring fixed when pointing to use your Assassin bleed day abil.
+* Added *Knight* to list of &quot;cannot heal&quot; tips for *Self-Heal* abil.
+* Fixed some awkward vertical spacing between class cards.
+* Started ordering &quot;*this could have been caused by...*&quot; tips by faction &gt;&gt; then alpha. However, only as I come across them (low priority). There are only a few now that do this and will build over time.
+* The notifications for people leaving the game, as well as graying out of their name in the name list is fixed.
+* Fixed &quot;Credits&quot; section that wasn&#39;t allowing you to back out, immortally looking upon the mighty folks that made this game possible. ~~*I sort of liked that bug...*~~
+* Fixed a bunch of vertical-align &quot;bouncing&quot; issues (eg, when you enter `j` which is longer than `x`) when typing inside an input box.
+
+_________
+
+## General Quality of Life
+* Upon successful Inquisitor *Interrogation*, that player&#39;s Heretic icon is revealed to the Inquisitor.
+* Logbook&#39;s *Send Selection* limit is now gone.
+* Dead people can now emote at night in the graveyard.
+* Widened the chat &quot;caret&quot; from 1px to 2px.
+_________
+
+# QoL: Scrollable class cards:
+
+https://media.discordapp.net/attachments/580380189079502868/689021163237670941/classCardsScroller.gif
+
+_________
+
+# QoL: Custom Logs Preset
+
+The highly-requested logs preset feat is now here! You can change yours in settings:
+
+&lt;div align=&quot;center&quot;&gt;
+Allow the user to create and edit their own personal log preset.
+&lt;img src=&quot;https://i.imgur.com/KepwwGq.png&quot;&gt;
+
+**Creation Preview**
+
+&lt;img src=&quot;https://cdn.discordapp.com/attachments/564675652721180672/688120369827414150/unknown.png&quot;&gt;
+
+*^ Note:* Since this screenshot, a *Default Layout* button has been added.
+
+**In-Game Preview**
+
+&lt;img src=&quot;https://cdn.discordapp.com/attachments/564675652721180672/688216278141632516/unknown.png&quot;&gt;
+&lt;/div&gt;
+
+_________
+
+## 中文 Localization 
+* Tutorial has been localized. **[During testing, it will be incomplete]**
+* Fixed some vertical-alignment anchoring.
+* Translated some common phrases
+
+__________
+
+## v2.5 Patch Archive:
+
+https://forum.imperium42.com/t/patch-v2-5-1-live-bug-fixes-stability/80431/
+
+https://forum.imperium42.com/t/patch-v2-5b-live/80108</description>
+    
+    <lastBuildDate>Tue, 17 Mar 2020 15:35:29 +0000</lastBuildDate>
+    <category>Official Announcements</category>
+    <atom:link href="https://forum.throneoflies.com/t/patch-v2-5-2-class-fixes-scrollable-class-cards-custom-logs-preset/80689.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Patch v2.5.2 - Class fixes, Scrollable Class Cards, Custom Logs Preset</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>Fair</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5-2-class-fixes-scrollable-class-cards-custom-logs-preset/80689/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5-2-class-fixes-scrollable-class-cards-custom-logs-preset/80689/10</link>
+        <pubDate>Tue, 17 Mar 2020 15:35:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80689-10</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5-2-class-fixes-scrollable-class-cards-custom-logs-preset/80689.rss">Patch v2.5.2 - Class fixes, Scrollable Class Cards, Custom Logs Preset</source>
+      </item>
+      <item>
+        <title>Patch v2.5.2 - Class fixes, Scrollable Class Cards, Custom Logs Preset</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>I assumed he was using the mouse wheel</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5-2-class-fixes-scrollable-class-cards-custom-logs-preset/80689/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5-2-class-fixes-scrollable-class-cards-custom-logs-preset/80689/9</link>
+        <pubDate>Tue, 17 Mar 2020 15:29:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80689-9</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5-2-class-fixes-scrollable-class-cards-custom-logs-preset/80689.rss">Patch v2.5.2 - Class fixes, Scrollable Class Cards, Custom Logs Preset</source>
+      </item>
+      <item>
+        <title>Patch v2.5.2 - Class fixes, Scrollable Class Cards, Custom Logs Preset</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>Seems niche but aight</p>
+<p>Are you clicking on the picture or using arrow keys or…?</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5-2-class-fixes-scrollable-class-cards-custom-logs-preset/80689/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5-2-class-fixes-scrollable-class-cards-custom-logs-preset/80689/8</link>
+        <pubDate>Mon, 16 Mar 2020 12:57:42 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80689-8</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5-2-class-fixes-scrollable-class-cards-custom-logs-preset/80689.rss">Patch v2.5.2 - Class fixes, Scrollable Class Cards, Custom Logs Preset</source>
+      </item>
+      <item>
+        <title>Patch v2.5.2 - Class fixes, Scrollable Class Cards, Custom Logs Preset</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>Adding scrollable class cards:</p>
+<p><a href="https://media.discordapp.net/attachments/580380189079502868/689021163237670941/classCardsScroller.gif" class="onebox" target="_blank" rel="noopener">https://media.discordapp.net/attachments/580380189079502868/689021163237670941/classCardsScroller.gif</a></p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5-2-class-fixes-scrollable-class-cards-custom-logs-preset/80689/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5-2-class-fixes-scrollable-class-cards-custom-logs-preset/80689/7</link>
+        <pubDate>Mon, 16 Mar 2020 08:07:45 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80689-7</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5-2-class-fixes-scrollable-class-cards-custom-logs-preset/80689.rss">Patch v2.5.2 - Class fixes, Scrollable Class Cards, Custom Logs Preset</source>
+      </item>
+      <item>
+        <title>Patch v2.5.2 - Class fixes, Scrollable Class Cards, Custom Logs Preset</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>It’s not needed</p>
+<p>QoL changes are never needed</p>
+<p>But much like with the private notes, we should strive to do everything we can to improve player comfort and make it so you don’t need to have other programs open to be successful at the game.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5-2-class-fixes-scrollable-class-cards-custom-logs-preset/80689/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5-2-class-fixes-scrollable-class-cards-custom-logs-preset/80689/6</link>
+        <pubDate>Sun, 15 Mar 2020 15:44:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80689-6</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5-2-class-fixes-scrollable-class-cards-custom-logs-preset/80689.rss">Patch v2.5.2 - Class fixes, Scrollable Class Cards, Custom Logs Preset</source>
+      </item>
+      <item>
+        <title>Patch v2.5.2 - Class fixes, Scrollable Class Cards, Custom Logs Preset</title>
+        <dc:creator><![CDATA[anon97870008]]></dc:creator>
+        <description><![CDATA[
+            <p>I voted for Nah cuz its the “yea you can do it but its not needed imo” answer</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5-2-class-fixes-scrollable-class-cards-custom-logs-preset/80689/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5-2-class-fixes-scrollable-class-cards-custom-logs-preset/80689/5</link>
+        <pubDate>Sun, 15 Mar 2020 15:16:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80689-5</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5-2-class-fixes-scrollable-class-cards-custom-logs-preset/80689.rss">Patch v2.5.2 - Class fixes, Scrollable Class Cards, Custom Logs Preset</source>
+      </item>
+      <item>
+        <title>Patch v2.5.2 - Class fixes, Scrollable Class Cards, Custom Logs Preset</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>No</p>
+<p>9.55 plus 3.65 is 13.2 percent</p>
+<p>I rounded up for comedic effect but I honestly don’t know how anybody looks at this and is like “no forcing people to use Notepad is clearly better”</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5-2-class-fixes-scrollable-class-cards-custom-logs-preset/80689/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5-2-class-fixes-scrollable-class-cards-custom-logs-preset/80689/4</link>
+        <pubDate>Sun, 15 Mar 2020 15:04:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80689-4</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5-2-class-fixes-scrollable-class-cards-custom-logs-preset/80689.rss">Patch v2.5.2 - Class fixes, Scrollable Class Cards, Custom Logs Preset</source>
+      </item>
+      <item>
+        <title>Patch v2.5.2 - Class fixes, Scrollable Class Cards, Custom Logs Preset</title>
+        <dc:creator><![CDATA[anon97870008]]></dc:creator>
+        <description><![CDATA[
+            <p>You mean 3%.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5-2-class-fixes-scrollable-class-cards-custom-logs-preset/80689/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5-2-class-fixes-scrollable-class-cards-custom-logs-preset/80689/3</link>
+        <pubDate>Sun, 15 Mar 2020 13:58:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80689-3</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5-2-class-fixes-scrollable-class-cards-custom-logs-preset/80689.rss">Patch v2.5.2 - Class fixes, Scrollable Class Cards, Custom Logs Preset</source>
+      </item>
+      <item>
+        <title>Patch v2.5.2 - Class fixes, Scrollable Class Cards, Custom Logs Preset</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>Dude custom log defaults are a game changer</p>
+<p>It may have taken a while from when it was first suggested, but hoo boy is that a great feature and I’m glad it’s finally here! <img src="/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<p>Now, who the heckie were the 14% of people that said “no don’t add this”???</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5-2-class-fixes-scrollable-class-cards-custom-logs-preset/80689/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5-2-class-fixes-scrollable-class-cards-custom-logs-preset/80689/2</link>
+        <pubDate>Sun, 15 Mar 2020 13:24:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80689-2</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5-2-class-fixes-scrollable-class-cards-custom-logs-preset/80689.rss">Patch v2.5.2 - Class fixes, Scrollable Class Cards, Custom Logs Preset</source>
+      </item>
+      <item>
+        <title>Patch v2.5.2 - Class fixes, Scrollable Class Cards, Custom Logs Preset</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <h1>v2.5.2 Bug Fix Patch 2</h1>
+<p><img src="/uploads/default/original/3X/d/f/df2cf1b949ced6466ce5892b5dd381bc37a64956.png" alt="image" data-base62-sha1="vQiLE3OOAfTEcDg7jYAVW74wZBc" width="300" height="141"></p>
+<p>While it’s impossible to fix <em>all</em> bugs in a game with so many interaction combinations, I’m definitely aiming to rid of the core ones. Last patch did a job of that, but there are still some repeated ones out there.</p>
+<hr>
+<h2>Class Bug Fixes</h2>
+<ul>
+<li>Fixed Assassin’s <em>Assassinate</em> abil interaction with Reaper (that was causing Reaper to be unhealable) and a more-obscure bug that forgot to consider <em>Empower</em>.</li>
+<li>
+<em>Analyze</em> abil feedback class results now show properly.</li>
+<li>Noble’s <em>Gossip</em> abil now correctly displays occupies.</li>
+<li>Fixed the ancient bug of Reaper’s <em>Icy Touch (Chill)</em> abil lifting too early due to host migration (disconnection) due to unsync’d timers.</li>
+<li>Knight’s <em>Defend</em> abil is now unhealable, as intended.</li>
+<li>Fixed obscure bug where Knights who get successfully redirected into Hunter’s <em>Bear Companion</em> abil will no longer die, since CS will be cancelled out, as intended.</li>
+<li>Knights will now successfully <em>Cold Steel</em> their intended target if they are occupy immune and there was a redirection attempt on them.</li>
+<li>Fixed Mystic’s <code>%X%</code> target name feedback that wasn’t being replaced with the actual name.</li>
+<li>^ Similarly fixed Hunter’s %CASTER% notification.</li>
+<li>Fixed an obscure <em>Matchmake</em> abil bug that was skewing results for Cult targets (Unseen targets worked fine).</li>
+<li>Fixed Alchemist’s <em>Emerald Potion</em> abil that was not considering protection from Merc’s <em>Shield</em> abil.</li>
+<li>
+<em>Hunter’s Mark</em> abil will now correctly occupy as intended.</li>
+<li>
+<em>Hunter’s Mark</em> abil no longer shows up in <em>Gossip</em> (since it’s an attack).</li>
+<li>
+<em>Conduit</em> abil is no longer able to target the same person twice.</li>
+<li>Fixed a feedback “perspective bug” for select abilities with 2 targets, such as redirection or “A attacks B” type abilities that would sometimes show the same target 2x or inadvertently say you targeted “yourself” (<em>was a visual bug only</em>).</li>
+</ul>
+<hr>
+<h2>General Fixes/Improvements</h2>
+<ul>
+<li>Fixed death abilities that were not interacting at all.</li>
+<li>Added a new room integrity check for room name: Sometimes this was getting desync’d, causing issues with reporting, was likely causing the “missing gp bug”, and potentially other bugs. If you join a room and the room name doesn’t match server, you’ll be booted: Joining again should fix it.</li>
+<li>Added more initialization null checks to <em>possibly</em> prevent getting booted back to lobby. This is hard to test: We’ll see.</li>
+<li>Tutorial can no longer target yourself for free-action phases (and the MM will no longer agree with you that it’s a good choice to assassinate yourself O_o).</li>
+<li>Tutorial arrow anchoring fixed when pointing to use your Assassin bleed day abil.</li>
+<li>Added <em>Knight</em> to list of “cannot heal” tips for <em>Self-Heal</em> abil.</li>
+<li>Fixed some awkward vertical spacing between class cards.</li>
+<li>Started ordering “<em>this could have been caused by…</em>” tips by faction &gt;&gt; then alpha. However, only as I come across them (low priority). There are only a few now that do this and will build over time.</li>
+<li>The notifications for people leaving the game, as well as graying out of their name in the name list is fixed.</li>
+<li>Fixed “Credits” section that wasn’t allowing you to back out, immortally looking upon the mighty folks that made this game possible. <s><em>I sort of liked that bug…</em></s>
+</li>
+<li>Fixed a bunch of vertical-align “bouncing” issues (eg, when you enter <code>j</code> which is longer than <code>x</code>) when typing inside an input box.</li>
+</ul>
+<hr>
+<h2>General Quality of Life</h2>
+<ul>
+<li>Upon successful Inquisitor <em>Interrogation</em>, that player’s Heretic icon is revealed to the Inquisitor.</li>
+<li>Logbook’s <em>Send Selection</em> limit is now gone.</li>
+<li>Dead people can now emote at night in the graveyard.</li>
+<li>Widened the chat “caret” from 1px to 2px.</li>
+</ul>
+<hr>
+<h1>QoL: Scrollable class cards:</h1>
+<p><a href="https://media.discordapp.net/attachments/580380189079502868/689021163237670941/classCardsScroller.gif" class="onebox" target="_blank" rel="noopener">https://media.discordapp.net/attachments/580380189079502868/689021163237670941/classCardsScroller.gif</a></p>
+<hr>
+<h1>QoL: Custom Logs Preset</h1>
+<p>The highly-requested logs preset feat is now here! You can change yours in settings:</p>
+<div align="center">
+Allow the user to create and edit their own personal log preset.
+<img src="https://i.imgur.com/KepwwGq.png">
+<p><strong>Creation Preview</strong></p>
+<p><img src="https://cdn.discordapp.com/attachments/564675652721180672/688120369827414150/unknown.png"></p>
+<p><em>^ Note:</em> Since this screenshot, a <em>Default Layout</em> button has been added.</p>
+<p><strong>In-Game Preview</strong></p>
+<p><img src="https://cdn.discordapp.com/attachments/564675652721180672/688216278141632516/unknown.png"></p>
+</div>
+<hr>
+<h2>中文 Localization</h2>
+<ul>
+<li>Tutorial has been localized. <strong>[During testing, it will be incomplete]</strong>
+</li>
+<li>Fixed some vertical-alignment anchoring.</li>
+<li>Translated some common phrases</li>
+</ul>
+<hr>
+<h2>v2.5 Patch Archive:</h2>
+<p><a href="https://forum.imperium42.com/t/patch-v2-5-1-live-bug-fixes-stability/80431/" class="onebox" target="_blank" rel="noopener">https://forum.imperium42.com/t/patch-v2-5-1-live-bug-fixes-stability/80431/</a></p>
+<p><a href="https://forum.imperium42.com/t/patch-v2-5b-live/80108" class="onebox" target="_blank" rel="noopener">https://forum.imperium42.com/t/patch-v2-5b-live/80108</a></p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5-2-class-fixes-scrollable-class-cards-custom-logs-preset/80689/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5-2-class-fixes-scrollable-class-cards-custom-logs-preset/80689/1</link>
+        <pubDate>Sun, 15 Mar 2020 12:18:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80689-1</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5-2-class-fixes-scrollable-class-cards-custom-logs-preset/80689.rss">Patch v2.5.2 - Class fixes, Scrollable Class Cards, Custom Logs Preset</source>
+      </item>
+  </channel>
+</rss>

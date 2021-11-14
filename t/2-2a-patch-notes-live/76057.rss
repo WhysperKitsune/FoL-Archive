@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>2.2a Patch Notes (LIVE)</title>
+    <link>https://forum.throneoflies.com/t/2-2a-patch-notes-live/76057</link>
+    <description>This is a follow-up patch to the v2.2 patch here:
+
+https://forum.imperium42.com/t/2-2-patch-notes-live/75971/
+
+________________
+
+**Waiting for a bug fix?** Chances are, it&#39;s in here, in this not-so-mini &quot;mini patch&quot;!
+
+![min|690x262](upload://6JijbK5e1Jc3LoP280bjHjGVrz7.png) 
+
+# v2.2.0a
+
+&gt; Notable Bug Fixes / Improvements
+
+* Options freeze fixed, caused by an infinite-looping resolution (depending on your resolution options).
+
+* MVP aesthetics fixed (previously showing the literally-ordered top 3 as MVP).
+
+* &quot;Queue as Group&quot; has had a major back-end revamp to be faster and more reliable.
+
+* &quot;Queue as Group&quot; will no longer indefinitely freeze @ &quot;Finding Group...&quot; and now properly either A) Times out after 30s, or B) Times out earlier, if the leader is detected as disconnected.
+
+* If silenced/distracted, your emote button will temporarily be disabled to prevent metagaming.
+
+* Bleeding should now only have the shake/sfx to the targeted recipient (and caster).
+
+* Link Mind type abilities should now only make a sfx to the targeted recipient (and caster).
+
+* Poison will no longer cause the recipient to have a screen shake/sfx.
+
+* Kings will no longer see a boring white box in place of a disabled ability.
+
+* King&#39;s &quot;The Royal Finger&quot; day ability will now play the sfx in the expected timing (when you finalize your decision, previously before you chose your target).
+
+* Clear Mind and Inoculate will no longer let the recipient know with sfx.
+
+* Options &quot;Detailed Feedback&quot;, &quot;Glossary Links&quot; and &quot;Ability Sfx&quot; now match the correct setting and show properly (they were either mismatching or poofing).
+
+* @ Mac/Linux: Discord RPC (rich presence) issues may have been resolved. Let me know if you see details when you click on yourself to view your Discord status, if enabled in Discord settings!
+
+&gt; Minor Bug Fixes
+
+* Options resolution dropdown &quot;weird results&quot; fixed (sometimes it would show &quot;fast&quot; or blank buttons).
+
+* The new status icons (bleeding, etc) will no longer react to being clicked as if something happens when you click them.
+
+* Hovering of the top status icon (if 2 icons, such as Bleeding and Delayed Death) will no longer cause the icons to &quot;spazz out&quot;.
+
+* The Emote icon&#39;s border has returned, and the white background no longer &quot;leaks&quot; out the edge.
+
+* Added a Heal tip on fail that includes the Possessor as a list of possible reasons why it failed.
+
+* Slightly less lag when dragging chat.
+
+* Stopped null errors for Deathnote dragging sfx when interrupted.
+
+* Contained the loading tips to remain within the bounds of the shadow.
+
+* Prevented a Friends List error when a friend tells you their updated status before your friends list has finished initializing.
+
+* Fixed deathnote draw sfx.
+
+* Fixed an annoying &quot;Click&quot; sound between in-game and game-over scenes.
+
+* If you and a friend are both queued, the Friends List friend is disabled since you cannot interact with them to invite/follow.
+
+* Clicking &quot;Cancel&quot; in settings no longer messes up tips or ability sfx options.
+
+* Options now shows missing resolutions that you know you should&#39;ve shown.
+
+&gt; Quality of Life
+
+* Moved streamer chat panel tabs more to the right so the UI isn&#39;t crammed together with the top-left player info area.
+
+* Brought the lobby&#39;s top-left Discord panel art back to full color/brightness (used to be washed-out).
+
+* Added the 2.2 promo art to the top-left Discord panel with subtle animations.
+
+* Friend list avatars have been centered (previously imbalanced) and added a border to look less &quot;just pasted in there&quot;.
+
+* Physician&#39;s self heal now gives heal flash + heal sfx (instead of just a message that you healed yourself).
+
+* Added ability hover (subtle) and click sfx to main ability icons. About the targeting hover fx: Want this ultra subtle (similar to player list)? Or you like the clicks? Some say satisfying, some say annoying. Let me know in Discord #feedback-qol
+
+* Added hover colors for option dropdowns so they don&#39;t all look disabled or frozen.
+
+* Players suspended during a live game (or in a lobby queue) will now immediately leave the room instead of wait up to 30 seconds to reveal the player left.
+
+* You may now add friends in Lobby by pressing ENTER (instead of just clicking the &quot;+&quot; button) after typing a name.
+
+--Xblade</description>
+    
+    <lastBuildDate>Sat, 30 Mar 2019 04:04:04 +0000</lastBuildDate>
+    <category>Official Announcements</category>
+    <atom:link href="https://forum.throneoflies.com/t/2-2a-patch-notes-live/76057.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>2.2a Patch Notes (LIVE)</title>
+        <dc:creator><![CDATA[SweetyCake]]></dc:creator>
+        <description><![CDATA[
+            <p>Recently have a match after the 2.2A patch. That still rip me off</p>
+          <p><a href="https://forum.throneoflies.com/t/2-2a-patch-notes-live/76057/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-2a-patch-notes-live/76057/9</link>
+        <pubDate>Sat, 30 Mar 2019 04:04:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76057-9</guid>
+        <source url="https://forum.throneoflies.com/t/2-2a-patch-notes-live/76057.rss">2.2a Patch Notes (LIVE)</source>
+      </item>
+      <item>
+        <title>2.2a Patch Notes (LIVE)</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>Hmm, this was tested and fixed in patch A. Are you sure others can hear?</p>
+          <p><a href="https://forum.throneoflies.com/t/2-2a-patch-notes-live/76057/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-2a-patch-notes-live/76057/8</link>
+        <pubDate>Sat, 30 Mar 2019 04:02:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76057-8</guid>
+        <source url="https://forum.throneoflies.com/t/2-2a-patch-notes-live/76057.rss">2.2a Patch Notes (LIVE)</source>
+      </item>
+      <item>
+        <title>2.2a Patch Notes (LIVE)</title>
+        <dc:creator><![CDATA[SweetyCake]]></dc:creator>
+        <description><![CDATA[
+            <p>Stop the meme, right there.</p>
+          <p><a href="https://forum.throneoflies.com/t/2-2a-patch-notes-live/76057/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-2a-patch-notes-live/76057/7</link>
+        <pubDate>Sat, 30 Mar 2019 02:13:33 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76057-7</guid>
+        <source url="https://forum.throneoflies.com/t/2-2a-patch-notes-live/76057.rss">2.2a Patch Notes (LIVE)</source>
+      </item>
+      <item>
+        <title>2.2a Patch Notes (LIVE)</title>
+        <dc:creator><![CDATA[Marcus_Doodalee]]></dc:creator>
+        <description><![CDATA[
+            <p>Will probe icon be changed in the next patch?</p>
+<p>Real questions people. real questions</p>
+          <p><a href="https://forum.throneoflies.com/t/2-2a-patch-notes-live/76057/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-2a-patch-notes-live/76057/6</link>
+        <pubDate>Sat, 30 Mar 2019 01:44:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76057-6</guid>
+        <source url="https://forum.throneoflies.com/t/2-2a-patch-notes-live/76057.rss">2.2a Patch Notes (LIVE)</source>
+      </item>
+      <item>
+        <title>2.2a Patch Notes (LIVE)</title>
+        <dc:creator><![CDATA[SweetyCake]]></dc:creator>
+        <description><![CDATA[
+            <p>Also XBlade, although it is not confirmed about other Distract ability and Chill from Reaper. But people can heard the distract sound when Assassin used that. Just got screwed as Assassin</p>
+          <p><a href="https://forum.throneoflies.com/t/2-2a-patch-notes-live/76057/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-2a-patch-notes-live/76057/5</link>
+        <pubDate>Fri, 29 Mar 2019 13:57:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76057-5</guid>
+        <source url="https://forum.throneoflies.com/t/2-2a-patch-notes-live/76057.rss">2.2a Patch Notes (LIVE)</source>
+      </item>
+      <item>
+        <title>2.2a Patch Notes (LIVE)</title>
+        <dc:creator><![CDATA[SweetyCake]]></dc:creator>
+        <description><![CDATA[
+            <p>I understand that, sorry though. Keep the working, i am appreciate that.</p>
+          <p><a href="https://forum.throneoflies.com/t/2-2a-patch-notes-live/76057/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-2a-patch-notes-live/76057/4</link>
+        <pubDate>Fri, 29 Mar 2019 10:39:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76057-4</guid>
+        <source url="https://forum.throneoflies.com/t/2-2a-patch-notes-live/76057.rss">2.2a Patch Notes (LIVE)</source>
+      </item>
+      <item>
+        <title>2.2a Patch Notes (LIVE)</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="SweetyCake" data-post="2" data-topic="76057">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/sweetycake/40/12625_2.png" class="avatar"> SweetyCake:</div>
+<blockquote>
+<p>Finally the emote chilled/slienced is gone! Thanks for all the hard works. But found another bug on friend list… Yet and again XBlade, the friend list is so mess up several patch. <span class="mention">@Dev-Xblade</span> (Sorry if my ping annoyed you)</p>
+<p><img src="/user_avatar/forum.imperium42.com/sweetycake/40/12625_2.png" alt="" width="20" height="20"> <a href="https://forum.imperium42.com/t/friend-follow-bug-again/76048">Friend Follow Bug (Again?)</a> <a href="/c/bug-reports">Bug Reports</a></p>
+</blockquote>
+</aside>
+<p>Mentioned in the other thread, there are tens of thousands of bugs reported~ I can’t fix them all in a single patch, mate (some big, some small, some already fixed, some dupes) – although that would be pretty epic if I could ;D If it’s not related to OP, it may be best to continue in the thread you linked to stay on-topic. Thanks for the report, though!</p>
+          <p><a href="https://forum.throneoflies.com/t/2-2a-patch-notes-live/76057/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-2a-patch-notes-live/76057/3</link>
+        <pubDate>Fri, 29 Mar 2019 10:31:24 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76057-3</guid>
+        <source url="https://forum.throneoflies.com/t/2-2a-patch-notes-live/76057.rss">2.2a Patch Notes (LIVE)</source>
+      </item>
+      <item>
+        <title>2.2a Patch Notes (LIVE)</title>
+        <dc:creator><![CDATA[SweetyCake]]></dc:creator>
+        <description><![CDATA[
+            <p>Finally the emote chilled/slienced is gone! Thanks for all the hard works. But found another bug on friend list… Yet and again XBlade, the friend list is so mess up several patch. <a class="mention" href="/u/%C3%AD42-xblade">@í42-Xblade</a> (Sorry if my ping annoyed you)<br>
+<a href="https://forum.imperium42.com/t/friend-follow-bug-again/76048" class="onebox" target="_blank" rel="noopener">https://forum.imperium42.com/t/friend-follow-bug-again/76048</a></p>
+          <p><a href="https://forum.throneoflies.com/t/2-2a-patch-notes-live/76057/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-2a-patch-notes-live/76057/2</link>
+        <pubDate>Fri, 29 Mar 2019 10:24:32 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76057-2</guid>
+        <source url="https://forum.throneoflies.com/t/2-2a-patch-notes-live/76057.rss">2.2a Patch Notes (LIVE)</source>
+      </item>
+      <item>
+        <title>2.2a Patch Notes (LIVE)</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>This is a follow-up patch to the v2.2 patch here:</p>
+<p><a href="https://forum.imperium42.com/t/2-2-patch-notes-live/75971/" class="onebox" target="_blank" rel="noopener">https://forum.imperium42.com/t/2-2-patch-notes-live/75971/</a></p>
+<hr>
+<p><strong>Waiting for a bug fix?</strong> Chances are, it’s in here, in this not-so-mini “mini patch”!</p>
+<p><img src="/uploads/default/original/2X/2/2f2bd010bc7c06c70d474bb905ab49731523dfa5.png" alt="min" data-base62-sha1="6JijbK5e1Jc3LoP280bjHjGVrz7" width="690" height="262"></p>
+<h1>v2.2.0a</h1>
+<blockquote>
+<p>Notable Bug Fixes / Improvements</p>
+</blockquote>
+<ul>
+<li>
+<p>Options freeze fixed, caused by an infinite-looping resolution (depending on your resolution options).</p>
+</li>
+<li>
+<p>MVP aesthetics fixed (previously showing the literally-ordered top 3 as MVP).</p>
+</li>
+<li>
+<p>“Queue as Group” has had a major back-end revamp to be faster and more reliable.</p>
+</li>
+<li>
+<p>“Queue as Group” will no longer indefinitely freeze @ “Finding Group…” and now properly either A) Times out after 30s, or B) Times out earlier, if the leader is detected as disconnected.</p>
+</li>
+<li>
+<p>If silenced/distracted, your emote button will temporarily be disabled to prevent metagaming.</p>
+</li>
+<li>
+<p>Bleeding should now only have the shake/sfx to the targeted recipient (and caster).</p>
+</li>
+<li>
+<p>Link Mind type abilities should now only make a sfx to the targeted recipient (and caster).</p>
+</li>
+<li>
+<p>Poison will no longer cause the recipient to have a screen shake/sfx.</p>
+</li>
+<li>
+<p>Kings will no longer see a boring white box in place of a disabled ability.</p>
+</li>
+<li>
+<p>King’s “The Royal Finger” day ability will now play the sfx in the expected timing (when you finalize your decision, previously before you chose your target).</p>
+</li>
+<li>
+<p>Clear Mind and Inoculate will no longer let the recipient know with sfx.</p>
+</li>
+<li>
+<p>Options “Detailed Feedback”, “Glossary Links” and “Ability Sfx” now match the correct setting and show properly (they were either mismatching or poofing).</p>
+</li>
+<li>
+<p>@ Mac/Linux: Discord RPC (rich presence) issues may have been resolved. Let me know if you see details when you click on yourself to view your Discord status, if enabled in Discord settings!</p>
+</li>
+</ul>
+<blockquote>
+<p>Minor Bug Fixes</p>
+</blockquote>
+<ul>
+<li>
+<p>Options resolution dropdown “weird results” fixed (sometimes it would show “fast” or blank buttons).</p>
+</li>
+<li>
+<p>The new status icons (bleeding, etc) will no longer react to being clicked as if something happens when you click them.</p>
+</li>
+<li>
+<p>Hovering of the top status icon (if 2 icons, such as Bleeding and Delayed Death) will no longer cause the icons to “spazz out”.</p>
+</li>
+<li>
+<p>The Emote icon’s border has returned, and the white background no longer “leaks” out the edge.</p>
+</li>
+<li>
+<p>Added a Heal tip on fail that includes the Possessor as a list of possible reasons why it failed.</p>
+</li>
+<li>
+<p>Slightly less lag when dragging chat.</p>
+</li>
+<li>
+<p>Stopped null errors for Deathnote dragging sfx when interrupted.</p>
+</li>
+<li>
+<p>Contained the loading tips to remain within the bounds of the shadow.</p>
+</li>
+<li>
+<p>Prevented a Friends List error when a friend tells you their updated status before your friends list has finished initializing.</p>
+</li>
+<li>
+<p>Fixed deathnote draw sfx.</p>
+</li>
+<li>
+<p>Fixed an annoying “Click” sound between in-game and game-over scenes.</p>
+</li>
+<li>
+<p>If you and a friend are both queued, the Friends List friend is disabled since you cannot interact with them to invite/follow.</p>
+</li>
+<li>
+<p>Clicking “Cancel” in settings no longer messes up tips or ability sfx options.</p>
+</li>
+<li>
+<p>Options now shows missing resolutions that you know you should’ve shown.</p>
+</li>
+</ul>
+<blockquote>
+<p>Quality of Life</p>
+</blockquote>
+<ul>
+<li>
+<p>Moved streamer chat panel tabs more to the right so the UI isn’t crammed together with the top-left player info area.</p>
+</li>
+<li>
+<p>Brought the lobby’s top-left Discord panel art back to full color/brightness (used to be washed-out).</p>
+</li>
+<li>
+<p>Added the 2.2 promo art to the top-left Discord panel with subtle animations.</p>
+</li>
+<li>
+<p>Friend list avatars have been centered (previously imbalanced) and added a border to look less “just pasted in there”.</p>
+</li>
+<li>
+<p>Physician’s self heal now gives heal flash + heal sfx (instead of just a message that you healed yourself).</p>
+</li>
+<li>
+<p>Added ability hover (subtle) and click sfx to main ability icons. About the targeting hover fx: Want this ultra subtle (similar to player list)? Or you like the clicks? Some say satisfying, some say annoying. Let me know in Discord <span class="hashtag">#feedback-qol</span></p>
+</li>
+<li>
+<p>Added hover colors for option dropdowns so they don’t all look disabled or frozen.</p>
+</li>
+<li>
+<p>Players suspended during a live game (or in a lobby queue) will now immediately leave the room instead of wait up to 30 seconds to reveal the player left.</p>
+</li>
+<li>
+<p>You may now add friends in Lobby by pressing ENTER (instead of just clicking the “+” button) after typing a name.</p>
+</li>
+</ul>
+<p>–Xblade</p>
+          <p><a href="https://forum.throneoflies.com/t/2-2a-patch-notes-live/76057/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-2a-patch-notes-live/76057/1</link>
+        <pubDate>Fri, 29 Mar 2019 09:02:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76057-1</guid>
+        <source url="https://forum.throneoflies.com/t/2-2a-patch-notes-live/76057.rss">2.2a Patch Notes (LIVE)</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>V2.3.0c - Hotfixes</title>
+    <link>https://forum.throneoflies.com/t/v2-3-0c-hotfixes/78855</link>
+    <description>This patch is building now and is skipping straight to live since it&#39;s just hotfixes (99.9% already tested):
+____________
+
+# v2.3.0c
+
+&gt; Hotfixes to the Emergency Security Patch
+
+* ~~Some users were unable to login due to &quot;timeouts&quot; at the login screen: This patch should help these users.~~ 
+[color=red]**There are still issues with this:** Please hop in [Discord&#39;s](https://discord.gg/tol) #timeout-cant-login channel for some testing[/color]
+* &quot;Connecting....&quot; bug fixed when you leave a game to queue again.
+* &quot;TAB&quot; was indenting way too far, caused by new default multipliers in Unity 2019 &gt;&gt; This should now equal 4 spaces.
+* Upgraded to the latest version of TextMeshPro, resolving a ton of misc text bugs.
+* If English is not your default system language, some localizations would show up as &quot;SOME_TEXT_HERE&quot; instead of the actual English fallback. Eg, if Turkish is your system language. This should be fixed (I hope - I can&#39;t test it).
+
+_____________
+
+I&#39;ll port these fixes to v2.4 beta and we&#39;ll try a beta test soon - as early as tomorrow :slight_smile:
+
+We&#39;re essentially the test dummies for the security patch since it was, indeed, an emergency - so apologies for hotfix so soon!
+
+This should be a pretty stable patch then we&#39;ll go back to testing the big one.
+
+## Known bugs
+
+Welp, more Unity 2019 bugs. Sorry folks - I&#39;ll bring the next hotfix to BETA testing first. It 100% worked in Unity, but not in the build.
+
+1. You can&#39;t copy+paste chat
+2. Logs are white, for whatever reason.
+
+![image|690x353](upload://fc8WYOhcazw5jNQwnzHlZLYnEAV.jpeg) 
+
+I&#39;ll get a hotfix rolled out ASAP after beta reports it working. I&#39;m talking to the Unity text guy now (he&#39;s been working with us to fix all these text bugs). We&#39;re CLOSE now....</description>
+    
+    <lastBuildDate>Thu, 17 Oct 2019 20:19:07 +0000</lastBuildDate>
+    <category>Official Announcements</category>
+    <atom:link href="https://forum.throneoflies.com/t/v2-3-0c-hotfixes/78855.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>V2.3.0c - Hotfixes</title>
+        <dc:creator><![CDATA[Mercenary]]></dc:creator>
+        <description><![CDATA[
+            <p>PyMM</p>
+          <p><a href="https://forum.throneoflies.com/t/v2-3-0c-hotfixes/78855/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/v2-3-0c-hotfixes/78855/7</link>
+        <pubDate>Thu, 17 Oct 2019 20:19:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78855-7</guid>
+        <source url="https://forum.throneoflies.com/t/v2-3-0c-hotfixes/78855.rss">V2.3.0c - Hotfixes</source>
+      </item>
+      <item>
+        <title>V2.3.0c - Hotfixes</title>
+        <dc:creator><![CDATA[JakeTheWolfie]]></dc:creator>
+        <description><![CDATA[
+            <p><img src="/uploads/default/original/3X/d/e/de36fdc8d881ef922a719cfde0882823ec6e38ea.jpeg" alt="image" data-base62-sha1="vHNODZoYRRUXzTIk4eQ2UXBK7dE" width="690" height="352"></p>
+<p>What the hell are these pictures</p>
+          <p><a href="https://forum.throneoflies.com/t/v2-3-0c-hotfixes/78855/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/v2-3-0c-hotfixes/78855/6</link>
+        <pubDate>Thu, 17 Oct 2019 19:45:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78855-6</guid>
+        <source url="https://forum.throneoflies.com/t/v2-3-0c-hotfixes/78855.rss">V2.3.0c - Hotfixes</source>
+      </item>
+      <item>
+        <title>V2.3.0c - Hotfixes</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>Fixed</p>
+          <p><a href="https://forum.throneoflies.com/t/v2-3-0c-hotfixes/78855/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/v2-3-0c-hotfixes/78855/5</link>
+        <pubDate>Thu, 17 Oct 2019 16:13:20 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78855-5</guid>
+        <source url="https://forum.throneoflies.com/t/v2-3-0c-hotfixes/78855.rss">V2.3.0c - Hotfixes</source>
+      </item>
+      <item>
+        <title>V2.3.0c - Hotfixes</title>
+        <dc:creator><![CDATA[Ian_Fugate]]></dc:creator>
+        <description><![CDATA[
+            <p>Its up to the current update but to run it wants the last one not the newest one. so im one above what it needs to run is what its showing.</p>
+          <p><a href="https://forum.throneoflies.com/t/v2-3-0c-hotfixes/78855/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/v2-3-0c-hotfixes/78855/4</link>
+        <pubDate>Thu, 17 Oct 2019 15:55:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78855-4</guid>
+        <source url="https://forum.throneoflies.com/t/v2-3-0c-hotfixes/78855.rss">V2.3.0c - Hotfixes</source>
+      </item>
+      <item>
+        <title>V2.3.0c - Hotfixes</title>
+        <dc:creator><![CDATA[MaximusPrime]]></dc:creator>
+        <description><![CDATA[
+            <p>it says a game update is required, is it already updated and still like that or did you not update it yet?</p>
+          <p><a href="https://forum.throneoflies.com/t/v2-3-0c-hotfixes/78855/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/v2-3-0c-hotfixes/78855/3</link>
+        <pubDate>Thu, 17 Oct 2019 15:48:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78855-3</guid>
+        <source url="https://forum.throneoflies.com/t/v2-3-0c-hotfixes/78855.rss">V2.3.0c - Hotfixes</source>
+      </item>
+      <item>
+        <title>V2.3.0c - Hotfixes</title>
+        <dc:creator><![CDATA[Ian_Fugate]]></dc:creator>
+        <description><![CDATA[
+            <p>So With the new patch the game wont let you login via steam.<br>
+<a href="https://imgur.com/a/Ly4e6Hb" class="onebox" target="_blank" rel="noopener nofollow ugc">https://imgur.com/a/Ly4e6Hb</a></p>
+          <p><a href="https://forum.throneoflies.com/t/v2-3-0c-hotfixes/78855/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/v2-3-0c-hotfixes/78855/2</link>
+        <pubDate>Thu, 17 Oct 2019 15:45:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78855-2</guid>
+        <source url="https://forum.throneoflies.com/t/v2-3-0c-hotfixes/78855.rss">V2.3.0c - Hotfixes</source>
+      </item>
+      <item>
+        <title>V2.3.0c - Hotfixes</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>This patch is building now and is skipping straight to live since it’s just hotfixes (99.9% already tested):</p>
+<hr>
+<h1>v2.3.0c</h1>
+<blockquote>
+<p>Hotfixes to the Emergency Security Patch</p>
+</blockquote>
+<ul>
+<li>
+<s>Some users were unable to login due to “timeouts” at the login screen: This patch should help these users.</s><br>
+<font color="red"><strong>There are still issues with this:</strong> Please hop in <a href="https://discord.gg/tol">Discord’s</a> <span class="hashtag">#timeout-cant-login</span> channel for some testing</font>
+</li>
+<li>“Connecting…” bug fixed when you leave a game to queue again.</li>
+<li>“TAB” was indenting way too far, caused by new default multipliers in Unity 2019 &gt;&gt; This should now equal 4 spaces.</li>
+<li>Upgraded to the latest version of TextMeshPro, resolving a ton of misc text bugs.</li>
+<li>If English is not your default system language, some localizations would show up as “SOME_TEXT_HERE” instead of the actual English fallback. Eg, if Turkish is your system language. This should be fixed (I hope - I can’t test it).</li>
+</ul>
+<hr>
+<p>I’ll port these fixes to v2.4 beta and we’ll try a beta test soon - as early as tomorrow <img src="/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<p>We’re essentially the test dummies for the security patch since it was, indeed, an emergency - so apologies for hotfix so soon!</p>
+<p>This should be a pretty stable patch then we’ll go back to testing the big one.</p>
+<h2>Known bugs</h2>
+<p>Welp, more Unity 2019 bugs. Sorry folks - I’ll bring the next hotfix to BETA testing first. It 100% worked in Unity, but not in the build.</p>
+<ol>
+<li>You can’t copy+paste chat</li>
+<li>Logs are white, for whatever reason.</li>
+</ol>
+<p><img src="/uploads/default/original/3X/6/a/6a800c084e35d99b15e62e1b88399abefadaf579.jpeg" alt="image" data-base62-sha1="fc8WYOhcazw5jNQwnzHlZLYnEAV" width="690" height="353"></p>
+<p>I’ll get a hotfix rolled out ASAP after beta reports it working. I’m talking to the Unity text guy now (he’s been working with us to fix all these text bugs). We’re CLOSE now…</p>
+          <p><a href="https://forum.throneoflies.com/t/v2-3-0c-hotfixes/78855/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/v2-3-0c-hotfixes/78855/1</link>
+        <pubDate>Thu, 17 Oct 2019 14:55:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78855-1</guid>
+        <source url="https://forum.throneoflies.com/t/v2-3-0c-hotfixes/78855.rss">V2.3.0c - Hotfixes</source>
+      </item>
+  </channel>
+</rss>

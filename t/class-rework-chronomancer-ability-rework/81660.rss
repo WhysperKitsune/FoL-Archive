@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[Class rework] Chronomancer - ability rework</title>
+    <link>https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660</link>
+    <description>Forewords: (skip down to the line to read the actual suggestion)
+
+Chronomancer is somewhat a weak class. It&#39;s hard to confirm yourself as your result is low priority, beaten by: Merc/King&#39;s Safeguard &gt; Knight&#39;s Defend &gt; Alch/Phys&#39; Heal &gt; Chrono delay.
+
+(Well Chrono cannot heal unhealable attacks, there&#39;s a lot of misinformation going mouth to mouth.)
+A Physician has a leg up on you in almost all instances, and they can also confirm themselves via Exhume and healing bleed.
+
+It&#39;s best to compare Chrono to the Phys as they both fill the role of healers. Physicians are generally just better than Chronomancers and they are also immune to bleed while being able to make high priority BD targets immune to bleed.
+
+The Chronomancer has some offensive capabilities with Distort Reality (or Death Transfer as some call it) which can be handy but it all relies on being able to delay a death in the first place.
+
+Because the Chronomancer is such a weak confirm class it is also a favorable fake claim for evils, and if there are other healers in the lobby, most courts chooses to execute unconfirmed Chronos come D4+.
+There is definitely a point to be made that there should be hard to confirm roles on BD to allow Evils a safer/more easy to fake claim. As such I thought it could be a point to rework the Chronomancer to be somewhat higher potential than they currently are but at the expense of being somewhat less active - a class that actively &quot;does nothing&quot; is still a good Evil claim, but executing a class that can have a much more significant impact could be wasteful to BD and may make Court more wary of just executing blindly in the hopes of finding evils.
+
+Enough beating around the bush.
+
+--------------------------------------------------------------------------------
+
+The Chronomancer
+
+Passive - Stored Time
+The Chronomancer starts the game with 1 charge of Stored Time, which are used by their abilities.
+
+Day ability 1 - Pocket Dimension
+Use 1 Stored Time to delay your death one night if you die tonight.
+
+Day ability 2 - Double Time
+Use 1 Stored Time to allow Time Warp to target 2 players tonight. Not usable with less than 2 charges of Stored Time.
+
+Night ability 1 - Time Warp
+Use 1 Stored Time to delay a player&#39;s death for 2 days (including bleeding). Refunds 1 Stored Time if occupied or no successful delays while not using Double Time. You can delay the same death multiple times. Delayed deaths can be prevented by heals or death immunity.
+
+Night ability 2 - Wind Up
+You generate +2 charges of Stored Time.
+
+--------------------------------------------------------------------------------
+
+I scrapped the Distort Reality as transferring deaths is something that doesn&#39;t happen all that often unless you have very high suspicions of a non-BD to transfer to, and then again NK and MM are death immune (with the partial exception of Reaper).
+
+The ability to delay multiple targets or Pocket Dimension yourself while protecting your target, especially late game, makes the Chronomancer better at surviving themselves while keeping high priority BD targets alive. Since you cannot transfer death, you cannot effectively &quot;heal&quot; anyone, so Chronomancer has also become more of a juggling act. Pocket Dimension also only delays 1 night instead of 2, so once you start getting attacked/bled you need to keep popping those Pocket Dimensions, slowly bleeding you dry of Stored Time.
+
+The cost to this is that Chronos need time to Wind Up to these high impact plays. This makes it easier for evils to claim Chrono as the class is essentially &quot;not doing anything&quot; during the night to charge up. Observers can obviously counter fake claims if they say they don&#39;t visit to charge up but the Obs shows they do make a nightly visit. Since the Chrono now has a valid option of not visiting anyone it also makes Fools and Poss easier to &quot;blend in&quot; as they don&#39;t visit players naturally during the night.
+
+I think these changes makes Chronomancer more valuable to BD while still keeping it a weak confirm class for evils to fake claim.
+
+I kept the starting passive charges low so there&#39;s more incentive to start building up Stored Time in the early phases of the game. In the later stages you&#39;re forced to juggle delayed deaths, generating more time and protecting yourself.
+
+--------------------------------------------------------------------------------
+
+I did play with the idea to grant Chronomancer a sort of time lock - essentially a limited occupy ability - to make them more distinct from Physicians and make cross class abilities for evils to claim for. For instance an Invoker, Poacher, or similar may claim Chronomancer if Chronos have access to occupying abilities. It does stretch that a support class has offensive class abilities, but I figured that could be interesting to play with in a controlled manner. However I didn&#39;t come up with a satisfying setup that wasn&#39;t basically Chrono + an occupy ability.
+
+The suggested changes to Chronomancer wont really affect the Timesnatcher (Unseen convert), as they already have limited reasons (and ability) to visit people. It could actually be considered - unrelated to this suggestion - to grant the Timesnatcher a limited day ability that makes them appear to visit a target as a Time Warp during the night, as to keep their Chrono claim easier to keep against an Observer, Noble, or Merc/SS, receiving the feedback as if they really did visit the target - perhaps it should mask if they visit with Time Snatch, but otherwise it&#39;s just to keep the claim a little while longer.</description>
+    
+    <lastBuildDate>Sat, 09 May 2020 03:25:18 +0000</lastBuildDate>
+    <category>Class/Lore/Fanfic</category>
+    <atom:link href="https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[Class rework] Chronomancer - ability rework</title>
+        <dc:creator><![CDATA[TheBlueElixir]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Iteration" data-post="15" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/seeker-icon-256.jpg" class="avatar"> Iteration:</div>
+<blockquote>
+<p>Difference is, I don’t see it necessarily as a problem. If the meta points towards Chronos spamming PD and Wind Up, then they are useless as healers the first couple of nights but also immortal - don’t bother. They will only generate few charges on their passive, so they can only make a few plays of healing multiples later in the game. And you might as well miss the moments and still only delay 1 or 2 targets in total.</p>
+</blockquote>
+</aside>
+<p>ight so Chrono doesn’t be immortal</p>
+<p>they can still pd every other day and have a similar result - getting kills on chronos would be a pain for scum, without wasting both a bleed and a night of attacking them</p>
+<aside class="quote no-group" data-username="Iteration" data-post="15" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/seeker-icon-256.jpg" class="avatar"> Iteration:</div>
+<blockquote>
+<p>Evil classes claiming Chrono doesn’t only consist of Assassins/NK.</p>
+</blockquote>
+</aside>
+<p>still majorly, assassin/nk, seeing an mm/noot do it is rather rare(but realistic, your point is acknowledged)</p>
+<aside class="quote no-group" data-username="Iteration" data-post="15" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/seeker-icon-256.jpg" class="avatar"> Iteration:</div>
+<blockquote>
+<p>(or what did KP stand for in this instance?)</p>
+</blockquote>
+</aside>
+<p>I thought it meant kill power but im new to a lot of these terms</p>
+<aside class="quote no-group" data-username="Iteration" data-post="15" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/seeker-icon-256.jpg" class="avatar"> Iteration:</div>
+<blockquote>
+<p>When I think Chrono I don’t think Kill Potential (or what did KP stand for in this instance?). And to finitely rid someone of a delayed death or to delay them until the game is over, is somewhat the same in my book.<br>
+Weaker to BD? I’m not sure. Harder to prove? Depends on the lobby.</p>
+</blockquote>
+</aside>
+<p>I think that they are truly weaker here</p>
+<p><s>Also probably harder to wrap their head around delaying deaths and ST for newcomers</s></p>
+<aside class="quote no-group" data-username="Iteration" data-post="15" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/seeker-icon-256.jpg" class="avatar"> Iteration:</div>
+<blockquote>
+<p>Not sure. Pretty much any time I’ve seen one they cause the possible bleed out of 1 BD and that’s pretty much it. The Dark Dimension might have had a use, didn’t notice it. If a player is bled and immediately bleeds out with other kills that don’t add up, it’s easy to deduce that a Chrono is likely converted and since the target bled out to Time Snatch it seems other healers are not present/OCC’d. Unseen usually goes after the invest classes and kills the healers 2nd.</p>
+<p>Don’t get me wrong I think Timesnatcher is one of the better Unseen classes, especially late in the game, but they have a hard time keeping their claim early against certain classes. I thought a slight help against that if even just 1 or 2 nights could be helpful. Otherwise it feels like you’re trading a convert for a possible additional kill, is it worth it?</p>
+</blockquote>
+</aside>
+<p>TS can get up to 3 kills and hide their team. Admittedly this is only under the condition they survive, but that has to be the restriction for every convert.</p>
+<aside class="quote no-group" data-username="Iteration" data-post="15" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/seeker-icon-256.jpg" class="avatar"> Iteration:</div>
+<blockquote>
+<p>That would just make it a Merc SG on top of a delay of bleeds/Sorc Bombs? I think that’s a bit much. I’m not entirely sure how this freeze would work as I never found a suitable way to incorporate it with the Chrono, keeping it similar enough that it has cross class plausibility, while being useful and not hurtful to BD.</p>
+</blockquote>
+</aside>
+<p>I’m not great with actually coming up with anything but I can try, though that merc-chrono plan was bad</p>
+<p>okay I sleep now bye</p>
+          <p><a href="https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660/16</link>
+        <pubDate>Sat, 09 May 2020 03:25:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81660-16</guid>
+        <source url="https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660.rss">[Class rework] Chronomancer - ability rework</source>
+      </item>
+      <item>
+        <title>[Class rework] Chronomancer - ability rework</title>
+        <dc:creator><![CDATA[Iteration]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="TheBlueElixir" data-post="3" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/theblueelixir/40/29077_2.png" class="avatar"> TheBlueElixir:</div>
+<blockquote>
+<p>ight so I wasn’t a fan of this, heres why</p>
+<ol>
+<li>d1 use your only ST, n1 gain 2, d2 use a ST, n2 gain 2(now at 3), d3 use a ST, n3 TW, d4 use a ST, n4 gain 2 and you get the idea, chrono is effectively immortal(but unconfirmable, worth trade)</li>
+<li>if the death is just delayed, then…it cant actually save anyone from death? Imagine this is the only healer, maybe besides an alch? Then Prince could get attacked n2 and Prince will die, just a matter of time.</li>
+<li>if you use DT and delay two deaths now its a juggling act trying to keep them both alive</li>
+</ol>
+</blockquote>
+</aside>
+<p>Chrono being a BD Death Immune is not really something I see as an issue as you only need 1 attack on them to set the chain going, as PD only delays 1 night (under this suggestion). You’ve effectively made sure the Chrono constantly has to PD every single day, whether they want to or not.<br>
+So the Chrono spends the first 3-4 nights just gathering time while protecting themselves and ends up getting exe’d on D5 because they are unconfirmed and haven’t been doing anything. Also OCC’s and Jails mess with their time storing.</p>
+<p>If you only have 1 healer and that happens to be a Chrono, you’re already F’ed in the current scheme of things. Bleeding turns on instantly for the Assassin the moment they know that bleed cannot be fully healed. They can pop a bleed on the Chrono and attack them the same night, as the Chrono has to savor their PDs for when the bleed runs out. Now BD is without any kind of healer.<br>
+You don’t necessarily need to save anyone from death, just long enough to ensure a win. Also the King can SG to grant DI to counteract a delayed death - hope you don’t also have an EK. Not every match is in anyone favor, some matches are just too skewed to win.</p>
+<p>Yes, DT and delaying two deaths is exactly juggling two player’s lives to keep them alive. However you also just single-handedly saved two players for at least 1 day and night, where you would otherwise only be able to save one of them. The odds of actually hitting the exact two targets that gets attacked is rather low or you’re very late in the game and it likely won/gave you a chance to win the game.<br>
+And again you can coordinate with a starting GK to SG when the delay runs out to get rid of it, the DI should take priority over a new delay, so there’s not much risk.</p>
+<aside class="quote no-group" data-username="TheBlueElixir" data-post="3" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/theblueelixir/40/29077_2.png" class="avatar"> TheBlueElixir:</div>
+<blockquote>
+<p>This outs them as death immune. Also, if you cant move the kill, then you cant actually save anyone</p>
+</blockquote>
+</aside>
+<p>True DR can out death immunes, but you may as well just harm the BD if you’re not too sure or don’t have neuts to put it on. In Cult games it’s a lot “safer” to throw randomly, than in Unseen. If you DR and hit a BD, you essentially traded 1 BD for a heal. If you’d just delay the attack again, you are effectively saving more BDs.<br>
+How many days are the average game? Usually I don’t see D9 or 10, so 2 days seems okay if you can continue the chain, and as we established before the Chrono can become half-immortal if you play risky early with only stacking time and half-way through go into “These two targets are not dying”-mode.</p>
+<aside class="quote no-group" data-username="TheBlueElixir" data-post="3" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/theblueelixir/40/29077_2.png" class="avatar"> TheBlueElixir:</div>
+<blockquote>
+<p>they would survive more but their targets? not so much. A sellsword/butler who occ’s sus claims/drunk/ servant/poacher/any other occupier/redirector can make the chrono unable to save their target</p>
+</blockquote>
+</aside>
+<p>True, there is a problem with OCC’s or redirects. But then again so would a Butler/SS/Drunk OCC’ing or Red a Phys away from Prince and Evils attacking. If there’s only Chronos (or just 1) to heal Prince, you generally shouldn’t OCC those, unless you’re a baddy.</p>
+<p>Perhaps Time Warp should be able to prolong existing Death Delays… But that does make it difficult to actually null them with the help of the King/Healer. I think it’s just part of the risk of that class.</p>
+<p>In the current game, if a Chrono delays a death on prince and decides to transfer it right away, the evils might get a lucky kill on Prince if they attack while the Chrono transfers. Similarly, if the Chrono waits for the delayed death to “mature” to insta-kill, you risk getting OCC’d and the prince dying regardless. There’s always risks with the Chronomancer as they are a bad healer.</p>
+<aside class="quote no-group" data-username="TheBlueElixir" data-post="3" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/theblueelixir/40/29077_2.png" class="avatar"> TheBlueElixir:</div>
+<blockquote>
+<p>but with Windup being a thing no</p>
+<p>Actually, If I might suggest, just don’t allow Wind-up to be used the night after using Pocket Dimension to solve this problem.</p>
+</blockquote>
+</aside>
+<p>Difference is, I don’t see it necessarily as a problem. If the meta points towards Chronos spamming PD and Wind Up, then they are useless as healers the first couple of nights but also immortal - don’t bother. They will only generate few charges on their passive, so they can only make a few plays of healing multiples later in the game. And you might as well miss the moments and still only delay 1 or 2 targets in total.</p>
+<aside class="quote no-group" data-username="TheBlueElixir" data-post="3" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/theblueelixir/40/29077_2.png" class="avatar"> TheBlueElixir:</div>
+<blockquote>
+<p>does the chrono need to be an easier fakeclaim though?</p>
+</blockquote>
+</aside>
+<p>Does it hurt that some of the time they are “supposed” to not do anything?</p>
+<aside class="quote no-group" data-username="TheBlueElixir" data-post="3" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/theblueelixir/40/29077_2.png" class="avatar"> TheBlueElixir:</div>
+<blockquote>
+<p>if an obs uses observe on an assassin I think it would out them either chrono</p>
+</blockquote>
+</aside>
+<p>Evil classes claiming Chrono doesn’t only consist of Assassins/NK. You know what I meant but choose to be tunnelvisioned (missing the right word) about it.</p>
+<aside class="quote no-group" data-username="TheBlueElixir" data-post="3" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/theblueelixir/40/29077_2.png" class="avatar"> TheBlueElixir:</div>
+<blockquote>
+<p>fool doesn’t want a valid claim and poss visits the person their controlling I thought</p>
+</blockquote>
+</aside>
+<p>Fools who are found to not visit anyone at night will immediately be outed as a Fool and therefore never publicly executed, thus losing any chance of fulfilling their win condition.<br>
+I’m uncertain about the Possessor’s inner workings. The wiki is not particularly helpful in what exactly happens with Puppet Strings. I’ve heard that Poss doesn’t visit players at night with Puppet Strings but that may just be the attacked victim they refer to.</p>
+<aside class="quote no-group" data-username="TheBlueElixir" data-post="3" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/theblueelixir/40/29077_2.png" class="avatar"> TheBlueElixir:</div>
+<blockquote>
+<p>The lack of being able to truly protect someone + removing KP + having to deal with ST makes it weaker to BD, and just as hard to prove to BD aswell</p>
+</blockquote>
+</aside>
+<p>When I think Chrono I don’t think Kill Potential (or what did KP stand for in this instance?). And to finitely rid someone of a delayed death or to delay them until the game is over, is somewhat the same in my book.<br>
+Weaker to BD? I’m not sure. Harder to prove? Depends on the lobby.</p>
+<p>I just think it’s worthwhile to consider some changes to the Chrono.</p>
+<aside class="quote no-group" data-username="TheBlueElixir" data-post="3" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/theblueelixir/40/29077_2.png" class="avatar"> TheBlueElixir:</div>
+<blockquote>
+<p>I like this idea, occuping people as you heal them. What if it was like, “If target player is attacked, occupy all visitors to the target”</p>
+</blockquote>
+</aside>
+<p>That would just make it a Merc SG on top of a delay of bleeds/Sorc Bombs? I think that’s a bit much. I’m not entirely sure how this freeze would work as I never found a suitable way to incorporate it with the Chrono, keeping it similar enough that it has cross class plausibility, while being useful and not hurtful to BD.</p>
+<aside class="quote no-group" data-username="TheBlueElixir" data-post="3" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/theblueelixir/40/29077_2.png" class="avatar"> TheBlueElixir:</div>
+<blockquote>
+<p>the last thing timesnatcher needs is a buff</p>
+</blockquote>
+</aside>
+<p>Not sure. Pretty much any time I’ve seen one they cause the possible bleed out of 1 BD and that’s pretty much it. The Dark Dimension might have had a use, didn’t notice it. If a player is bled and immediately bleeds out with other kills that don’t add up, it’s easy to deduce that a Chrono is likely converted and since the target bled out to Time Snatch it seems other healers are not present/OCC’d. Unseen usually goes after the invest classes and kills the healers 2nd.</p>
+<p>Don’t get me wrong I think Timesnatcher is one of the better Unseen classes, especially late in the game, but they have a hard time keeping their claim early against certain classes. I thought a slight help against that if even just 1 or 2 nights could be helpful. Otherwise it feels like you’re trading a convert for a possible additional kill, is it worth it?</p>
+<aside class="quote no-group" data-username="TheBlueElixir" data-post="3" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/theblueelixir/40/29077_2.png" class="avatar"> TheBlueElixir:</div>
+<blockquote>
+<p>good things about this change</p>
+<ol>
+<li>allow bigger plays with Double Time</li>
+<li>Chrono stays an easy fakeclaim</li>
+<li>Winding up is an thing, would be nice to see how that results in playstyle change</li>
+</ol>
+</blockquote>
+</aside>
+<p>You seem open to the idea of at least considering it, I can hope for nothing more.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660/15</link>
+        <pubDate>Sat, 09 May 2020 02:53:33 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81660-15</guid>
+        <source url="https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660.rss">[Class rework] Chronomancer - ability rework</source>
+      </item>
+      <item>
+        <title>[Class rework] Chronomancer - ability rework</title>
+        <dc:creator><![CDATA[Ami]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Iteration" data-post="13" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/seeker-icon-256.jpg" class="avatar"> Iteration:</div>
+<blockquote>
+<p>Chrono is a weak healer and has been for a while (forever?).</p>
+</blockquote>
+</aside>
+<p>yes<br>
+the point is it to have killing power at the price of not having an as effective heal</p>
+          <p><a href="https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660/14</link>
+        <pubDate>Sat, 09 May 2020 01:42:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81660-14</guid>
+        <source url="https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660.rss">[Class rework] Chronomancer - ability rework</source>
+      </item>
+      <item>
+        <title>[Class rework] Chronomancer - ability rework</title>
+        <dc:creator><![CDATA[Iteration]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="katze" data-post="2" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/katze/40/30997_2.png" class="avatar"> katze:</div>
+<blockquote>
+<p>imo this is worse than even current chronomancer</p>
+</blockquote>
+</aside>
+<p>I don’t think it’s worse, it’s different. In many ways I think they’re stronger, because they can cover a lot more players.</p>
+<aside class="quote no-group" data-username="katze" data-post="2" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/katze/40/30997_2.png" class="avatar"> katze:</div>
+<blockquote>
+<p>distort reality, while not used <em>that</em> much, is part of chronomancers identity</p>
+</blockquote>
+</aside>
+<p>Chronomancer’s identity is what you make them to be. The game is still under development and classes changes and overhauls are bound to happen when issues arise or something interesting presents itself.</p>
+<aside class="quote no-group" data-username="katze" data-post="2" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/katze/40/30997_2.png" class="avatar"> katze:</div>
+<blockquote>
+<p>also i feel like the meta with this class would be to just spam wind up for 2-3 nights while PDing, and then heal 2-3 people per night, which is like, kind of disgusting</p>
+</blockquote>
+</aside>
+<p>It might be the meta. If you do the first 3 nights you’ll be protecting yourself against attackers and gain +1 ST every night.</p>
+<p>Now you’re at D5 with 4 ST and can PD and TW a target for 3 nights, -1 night for every time you successfully delay your target (as otherwise you’re refunded the ST).</p>
+<p>Or (if you’re not delayed / you’re healed) you could pop Double Time and delay 2 targets for 2 nights, each night costing 1 ST for Double Time and 1 ST for a Double Time’d Time Warp regardless of any successes.</p>
+<p>That could be a meta thing. Is that broken? Perhaps, but honestly I doubt it. Also 3 nights without doing a thing being the meta would make all Chrono claims rather susp on same footing as Knights - not that they weren’t close already.</p>
+<p>Also you can never hit 3 players per night. PD disables the use of DT, so TW can only hit 1. Max 2 players are protected. PD + TW = 1 ST if the TW target is not hit/you’re OCC’d, 2 if TW target is hit and delayed. DT + TW = 2 ST every night.</p>
+<aside class="quote no-group" data-username="katze" data-post="2" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/katze/40/30997_2.png" class="avatar"> katze:</div>
+<blockquote>
+<p>plus delayed deaths are just a death sentence now in a majority of cases, which makes this class even harder to get converted with because you can’t DR the death and shrug it off, you have to redelay the prince every 2 nights</p>
+</blockquote>
+</aside>
+<p>Not that delayed deaths weren’t already time bombs? If a target gets attacked and delayed, then you know the chrono will try to transfer it two night from now and know when to attack. You could also just kill the Chrono and the clock is ticking - you’ll know if the death is transferred in the Chrono’s logs.<br>
+Chrono is a weak healer and has been for a while (forever?). My suggestion just tries to make them bad healers but with larger coverage rather than good healers for a small pool.</p>
+<p>If you get converted as Chrono, you’re likely on a time limit already, as you don’t visit anyone but dying players (with Time Snatch or as Assassin) and if there’s a delayed death on Prince or something that hasn’t been healed or DI’d (by king), you’d rather not have transferred that death when you get converted. EK gladly takes out Prince with him, no reason why a convert Chrono wouldn’t think the same.</p>
+<aside class="quote no-group" data-username="katze" data-post="2" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/katze/40/30997_2.png" class="avatar"> katze:</div>
+<blockquote>
+<p>plus it’s even easier to fakeclaim this because “haha i was winding up”</p>
+</blockquote>
+</aside>
+<p>Chrono is already a pretty easy to fake claim, making it easier at the benefit that they might cover BD a lot more in the later stages of the game, I think is a worthy trade-off between Evil hideout and BD power player.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660/13</link>
+        <pubDate>Sat, 09 May 2020 01:28:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81660-13</guid>
+        <source url="https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660.rss">[Class rework] Chronomancer - ability rework</source>
+      </item>
+      <item>
+        <title>[Class rework] Chronomancer - ability rework</title>
+        <dc:creator><![CDATA[Ami]]></dc:creator>
+        <description><![CDATA[
+            <p>basically phys has higher skill floor and lower ceiling<br>
+chrono lower floor and higher ceiling</p>
+<p>nothin wrong with that tbh</p>
+          <p><a href="https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660/12</link>
+        <pubDate>Fri, 08 May 2020 23:40:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81660-12</guid>
+        <source url="https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660.rss">[Class rework] Chronomancer - ability rework</source>
+      </item>
+      <item>
+        <title>[Class rework] Chronomancer - ability rework</title>
+        <dc:creator><![CDATA[Ami]]></dc:creator>
+        <description><![CDATA[
+            <p>though this design concept is interesting<br>
+class revolving resource management could be interesting</p>
+          <p><a href="https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660/11</link>
+        <pubDate>Fri, 08 May 2020 23:40:15 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81660-11</guid>
+        <source url="https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660.rss">[Class rework] Chronomancer - ability rework</source>
+      </item>
+      <item>
+        <title>[Class rework] Chronomancer - ability rework</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <p>well</p>
+<p>physician has inoculate, exhume, two nights to heal a bleed, priority over chrono, and is bleed immune</p>
+<p>i think in practice physician is stronger than chrono a majority of the time</p>
+<p>but i think chrono has the potential to have much more impact than a physician because they can distort</p>
+<p>and this rework removes that, which makes them just another healer</p>
+          <p><a href="https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660/10</link>
+        <pubDate>Fri, 08 May 2020 23:39:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81660-10</guid>
+        <source url="https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660.rss">[Class rework] Chronomancer - ability rework</source>
+      </item>
+      <item>
+        <title>[Class rework] Chronomancer - ability rework</title>
+        <dc:creator><![CDATA[Ami]]></dc:creator>
+        <description><![CDATA[
+            <p>basically rewards good play all around</p>
+<p>it’s very well designed</p>
+<p><a class="mention" href="/u/icibalus">@Icibalus</a><br>
+good job</p>
+          <p><a href="https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660/9</link>
+        <pubDate>Fri, 08 May 2020 23:38:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81660-9</guid>
+        <source url="https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660.rss">[Class rework] Chronomancer - ability rework</source>
+      </item>
+      <item>
+        <title>[Class rework] Chronomancer - ability rework</title>
+        <dc:creator><![CDATA[Ami]]></dc:creator>
+        <description><![CDATA[
+            <p>only conceivable reason people see it weaker is because it delays deaths rather than out right prevent them</p>
+<p>and then with those delayed deaths you can yknow<br>
+kill cult/unseen</p>
+          <p><a href="https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660/8</link>
+        <pubDate>Fri, 08 May 2020 23:38:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81660-8</guid>
+        <source url="https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660.rss">[Class rework] Chronomancer - ability rework</source>
+      </item>
+      <item>
+        <title>[Class rework] Chronomancer - ability rework</title>
+        <dc:creator><![CDATA[Ami]]></dc:creator>
+        <description><![CDATA[
+            <p>chrono is fine where it is<br>
+support with minor killing power is a nice niche that rewards people who know how to play the game well</p>
+          <p><a href="https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660/7</link>
+        <pubDate>Fri, 08 May 2020 23:36:28 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81660-7</guid>
+        <source url="https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660.rss">[Class rework] Chronomancer - ability rework</source>
+      </item>
+      <item>
+        <title>[Class rework] Chronomancer - ability rework</title>
+        <dc:creator><![CDATA[Iteration]]></dc:creator>
+        <description><![CDATA[
+            <p>Well an immortal Chrono is a vote in the Court but then again a Chrono who only spins up their own healing is borderline useless and therefore suspicious to BD. I don’t think people will just become immortal, and as is the case with death immune people, they’ll just get exe’d in court regardless.</p>
+<p>I don’t think you should write the idea off quite so quickly <a class="mention" href="/u/katze">@katze</a>.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660/6</link>
+        <pubDate>Fri, 08 May 2020 23:32:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81660-6</guid>
+        <source url="https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660.rss">[Class rework] Chronomancer - ability rework</source>
+      </item>
+      <item>
+        <title>[Class rework] Chronomancer - ability rework</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <p>worse designed, not worse in power</p>
+<p>being basically immortal as a healer is still bad design though</p>
+          <p><a href="https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660/5</link>
+        <pubDate>Fri, 08 May 2020 21:25:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81660-5</guid>
+        <source url="https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660.rss">[Class rework] Chronomancer - ability rework</source>
+      </item>
+      <item>
+        <title>[Class rework] Chronomancer - ability rework</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="katze" data-post="2" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/katze/40/30997_2.png" class="avatar"> katze:</div>
+<blockquote>
+<p>imo this is worse than even current chronomancer</p>
+</blockquote>
+</aside>
+<p>semi-disagree</p>
+<p>if they so choose they can just</p>
+<p>become immortal</p>
+          <p><a href="https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660/4</link>
+        <pubDate>Fri, 08 May 2020 21:24:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81660-4</guid>
+        <source url="https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660.rss">[Class rework] Chronomancer - ability rework</source>
+      </item>
+      <item>
+        <title>[Class rework] Chronomancer - ability rework</title>
+        <dc:creator><![CDATA[TheBlueElixir]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group quote-modified" data-username="Iteration" data-post="1" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/seeker-icon-256.jpg" class="avatar"> Iteration:</div>
+<blockquote>
+<p>And while Chrono’s Time Warp can save against unhealable attacks</p>
+</blockquote>
+</aside>
+<p>couldn’t tell you about FoL chrono but ToL chrono cant save unhealables</p>
+<aside class="quote no-group" data-username="Iteration" data-post="1" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/seeker-icon-256.jpg" class="avatar"> Iteration:</div>
+<blockquote>
+<p>The Chronomancer</p>
+<p>Passive - Stored Time<br>
+The Chronomancer starts the game with 1 charge of Stored Time, which are used by their abilities.</p>
+<p>Day ability 1 - Pocket Dimension<br>
+Use 1 Stored Time to delay your death one night if you die tonight.</p>
+<p>Day ability 2 - Double Time<br>
+Use 1 Stored Time to allow Time Warp to target 2 players tonight. Not usable with less than 2 charges of Stored Time.</p>
+<p>Night ability 1 - Time Warp<br>
+Use 1 Stored Time to delay a player’s death for 2 days (including bleeding). Refunds 1 Stored Time if occupied or no successful delays while not using Double Time. You can delay the same death multiple times. Delayed deaths can be prevented by heals or death immunity.</p>
+<p>Night ability 2 - Wind Up<br>
+You generate +2 charges of Stored Time.</p>
+</blockquote>
+</aside>
+<p>ight so I wasn’t a fan of this, heres why</p>
+<ol>
+<li>d1 use your only ST, n1 gain 2, d2 use a ST, n2 gain 2(now at 3), d3 use a ST, n3 TW, d4 use a ST, n4 gain 2 and you get the idea, chrono is effectively immortal(but unconfirmable, worth trade)</li>
+<li>if the death is just delayed, then…it cant actually save anyone from death? Imagine this is the only healer, maybe besides an alch? Then Prince could get attacked n2 and Prince will die, just a matter of time.</li>
+<li>if you use DT and delay two deaths now its a juggling act trying to keep them both alive</li>
+</ol>
+<p>reasons for the changes and why I don’t think they work</p>
+<aside class="quote no-group" data-username="Iteration" data-post="1" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/seeker-icon-256.jpg" class="avatar"> Iteration:</div>
+<blockquote>
+<p>I scrapped the Distort Reality as transferring deaths is something that doesn’t happen all that often unless you have very high suspicions of a non-BD to transfer to, and then again NK and MM are death immune (with the partial exception of Reaper).</p>
+</blockquote>
+</aside>
+<p>This outs them as death immune. Also, if you cant move the kill, then you cant actually save anyone</p>
+<aside class="quote no-group" data-username="Iteration" data-post="1" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/seeker-icon-256.jpg" class="avatar"> Iteration:</div>
+<blockquote>
+<p>the Chronomancer better at surviving themselves while keeping high priority BD targets alive.</p>
+</blockquote>
+</aside>
+<p>they would survive more but their targets? not so much. A sellsword/butler who occ’s sus claims/drunk/ servant/poacher/any other occupier/redirector can make the chrono unable to save their target</p>
+<aside class="quote no-group" data-username="Iteration" data-post="1" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/seeker-icon-256.jpg" class="avatar"> Iteration:</div>
+<blockquote>
+<p>Since you cannot transfer death, you cannot effectively “heal” anyone, so Chronomancer has also become more of a juggling act.</p>
+</blockquote>
+</aside>
+<p>I think this is a bad thing</p>
+<aside class="quote no-group" data-username="Iteration" data-post="1" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/seeker-icon-256.jpg" class="avatar"> Iteration:</div>
+<blockquote>
+<p>Pocket Dimension also only delays 1 night instead of 2, so once you start getting attacked/bled you need to keep popping those Pocket Dimensions, slowly bleeding you dry of Stored Time</p>
+</blockquote>
+</aside>
+<p>but with Windup being a thing no</p>
+<p>Actually, If I might suggest, just don’t allow Wind-up to be used the night after using Pocket Dimension to solve this problem.</p>
+<aside class="quote no-group" data-username="Iteration" data-post="1" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/seeker-icon-256.jpg" class="avatar"> Iteration:</div>
+<blockquote>
+<p>This makes it easier for evils to claim Chrono</p>
+</blockquote>
+</aside>
+<p>does the chrono need to be an easier fakeclaim though?</p>
+<aside class="quote no-group" data-username="Iteration" data-post="1" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/seeker-icon-256.jpg" class="avatar"> Iteration:</div>
+<blockquote>
+<p>Observers can obviously counter fake claims if they say they don’t visit to charge up but the Obs shows they do make a nightly visit</p>
+</blockquote>
+</aside>
+<p>if an obs uses observe on an assassin I think it would out them either chrono</p>
+<aside class="quote no-group" data-username="Iteration" data-post="1" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/seeker-icon-256.jpg" class="avatar"> Iteration:</div>
+<blockquote>
+<p>Since the Chrono now has a valid option of not visiting anyone it also makes Fools and Poss easier to “blend in” as they don’t visit players naturally during the night.</p>
+</blockquote>
+</aside>
+<p>fool doesn’t want a valid claim and poss visits the person their controlling I thought</p>
+<aside class="quote no-group" data-username="Iteration" data-post="1" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/seeker-icon-256.jpg" class="avatar"> Iteration:</div>
+<blockquote>
+<p>I think these changes makes Chronomancer more valuable to BD while still keeping it a weak confirm class for evils to fake claim.</p>
+</blockquote>
+</aside>
+<p>The lack of being able to truly protect someone + removing KP + having to deal with ST makes it weaker to BD, and just as hard to prove to BD aswell</p>
+<aside class="quote no-group" data-username="Iteration" data-post="1" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/seeker-icon-256.jpg" class="avatar"> Iteration:</div>
+<blockquote>
+<p>did play with the idea to grant Chronomancer a sort of time lock - essentially a limited occupy ability - to make them more distinct from Physicians and make cross class abilities for evils to claim for. For instance an Invoker, Poacher, or similar may claim Chronomancer if Chronos have access to occupying</p>
+</blockquote>
+</aside>
+<p>I like this idea, occuping people as you heal them. What if it was like, “If target player is attacked, occupy all visitors to the target”</p>
+<aside class="quote no-group" data-username="Iteration" data-post="1" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/seeker-icon-256.jpg" class="avatar"> Iteration:</div>
+<blockquote>
+<p>to grant the Timesnatcher a limited day ability that makes them appear to visit a target as a Time Warp during the night, as to keep their Chrono claim easier to keep against an Observer, Noble, or Merc/SS, receiving the feedback as if they really did visit the target - perhaps it should mask if they visit with Time Snatch, but otherwise it’s just to keep the claim a little while longer.</p>
+</blockquote>
+</aside>
+<p>the last thing timesnatcher needs is a buff</p>
+<p>good things about this change</p>
+<ol>
+<li>allow bigger plays with Double Time</li>
+<li>Chrono stays an easy fakeclaim</li>
+<li>Winding up is an thing, would be nice to see how that results in playstyle change</li>
+</ol>
+          <p><a href="https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660/3</link>
+        <pubDate>Fri, 08 May 2020 21:22:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81660-3</guid>
+        <source url="https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660.rss">[Class rework] Chronomancer - ability rework</source>
+      </item>
+      <item>
+        <title>[Class rework] Chronomancer - ability rework</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group quote-modified" data-username="Iteration" data-post="1" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/seeker-icon-256.jpg" class="avatar"> Iteration:</div>
+<blockquote>
+<p>And while Chrono’s Time Warp can save against unhealable attacks, that’s very few occasions where this happens, as there’s only Inquisitor, Reaper and a Court Wiz Empowered Killer who attacks unhealable.</p>
+</blockquote>
+</aside>
+<p>Chronomancer cannot delay unhealable attacks</p>
+<aside class="quote no-group" data-username="Iteration" data-post="1" data-topic="81660">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/seeker-icon-256.jpg" class="avatar"> Iteration:</div>
+<blockquote>
+<p>The Chronomancer</p>
+<p>Passive - Stored Time<br>
+The Chronomancer starts the game with 1 charge of Stored Time, which are used by their abilities.</p>
+<p>Day ability 1 - Pocket Dimension<br>
+Use 1 Stored Time to delay your death one night if you die tonight.</p>
+<p>Day ability 2 - Double Time<br>
+Use 1 Stored Time to allow Time Warp to target 2 players tonight. Not usable with less than 2 charges of Stored Time.</p>
+<p>Night ability 1 - Time Warp<br>
+Use 1 Stored Time to delay a player’s death for 2 days (including bleeding). Refunds 1 Stored Time if occupied or no successful delays while not using Double Time. You can delay the same death multiple times. Delayed deaths can be prevented by heals or death immunity.</p>
+<p>Night ability 2 - Wind Up<br>
+You generate +2 charges of Stored Time.</p>
+</blockquote>
+</aside>
+<p>imo this is worse than even current chronomancer</p>
+<p>distort reality, while not used <em>that</em> much, is part of chronomancers identity</p>
+<p>also i feel like the meta with this class would be to just spam wind up for 2-3 nights while PDing, and then heal 2-3 people per night, which is like, kind of disgusting</p>
+<p>plus delayed deaths are just a death sentence now in a majority of cases, which makes this class even harder to get converted with because you can’t DR the death and shrug it off, you have to redelay the prince every 2 nights</p>
+<p>plus it’s even easier to fakeclaim this because “haha i was winding up”</p>
+          <p><a href="https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660/2</link>
+        <pubDate>Fri, 08 May 2020 21:21:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81660-2</guid>
+        <source url="https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660.rss">[Class rework] Chronomancer - ability rework</source>
+      </item>
+      <item>
+        <title>[Class rework] Chronomancer - ability rework</title>
+        <dc:creator><![CDATA[Iteration]]></dc:creator>
+        <description><![CDATA[
+            <p>Forewords: (skip down to the line to read the actual suggestion)</p>
+<p>Chronomancer is somewhat a weak class. It’s hard to confirm yourself as your result is low priority, beaten by: Merc/King’s Safeguard &gt; Knight’s Defend &gt; Alch/Phys’ Heal &gt; Chrono delay.</p>
+<p>(Well Chrono cannot heal unhealable attacks, there’s a lot of misinformation going mouth to mouth.)<br>
+A Physician has a leg up on you in almost all instances, and they can also confirm themselves via Exhume and healing bleed.</p>
+<p>It’s best to compare Chrono to the Phys as they both fill the role of healers. Physicians are generally just better than Chronomancers and they are also immune to bleed while being able to make high priority BD targets immune to bleed.</p>
+<p>The Chronomancer has some offensive capabilities with Distort Reality (or Death Transfer as some call it) which can be handy but it all relies on being able to delay a death in the first place.</p>
+<p>Because the Chronomancer is such a weak confirm class it is also a favorable fake claim for evils, and if there are other healers in the lobby, most courts chooses to execute unconfirmed Chronos come D4+.<br>
+There is definitely a point to be made that there should be hard to confirm roles on BD to allow Evils a safer/more easy to fake claim. As such I thought it could be a point to rework the Chronomancer to be somewhat higher potential than they currently are but at the expense of being somewhat less active - a class that actively “does nothing” is still a good Evil claim, but executing a class that can have a much more significant impact could be wasteful to BD and may make Court more wary of just executing blindly in the hopes of finding evils.</p>
+<p>Enough beating around the bush.</p>
+<hr>
+<p>The Chronomancer</p>
+<p>Passive - Stored Time<br>
+The Chronomancer starts the game with 1 charge of Stored Time, which are used by their abilities.</p>
+<p>Day ability 1 - Pocket Dimension<br>
+Use 1 Stored Time to delay your death one night if you die tonight.</p>
+<p>Day ability 2 - Double Time<br>
+Use 1 Stored Time to allow Time Warp to target 2 players tonight. Not usable with less than 2 charges of Stored Time.</p>
+<p>Night ability 1 - Time Warp<br>
+Use 1 Stored Time to delay a player’s death for 2 days (including bleeding). Refunds 1 Stored Time if occupied or no successful delays while not using Double Time. You can delay the same death multiple times. Delayed deaths can be prevented by heals or death immunity.</p>
+<p>Night ability 2 - Wind Up<br>
+You generate +2 charges of Stored Time.</p>
+<hr>
+<p>I scrapped the Distort Reality as transferring deaths is something that doesn’t happen all that often unless you have very high suspicions of a non-BD to transfer to, and then again NK and MM are death immune (with the partial exception of Reaper).</p>
+<p>The ability to delay multiple targets or Pocket Dimension yourself while protecting your target, especially late game, makes the Chronomancer better at surviving themselves while keeping high priority BD targets alive. Since you cannot transfer death, you cannot effectively “heal” anyone, so Chronomancer has also become more of a juggling act. Pocket Dimension also only delays 1 night instead of 2, so once you start getting attacked/bled you need to keep popping those Pocket Dimensions, slowly bleeding you dry of Stored Time.</p>
+<p>The cost to this is that Chronos need time to Wind Up to these high impact plays. This makes it easier for evils to claim Chrono as the class is essentially “not doing anything” during the night to charge up. Observers can obviously counter fake claims if they say they don’t visit to charge up but the Obs shows they do make a nightly visit. Since the Chrono now has a valid option of not visiting anyone it also makes Fools and Poss easier to “blend in” as they don’t visit players naturally during the night.</p>
+<p>I think these changes makes Chronomancer more valuable to BD while still keeping it a weak confirm class for evils to fake claim.</p>
+<p>I kept the starting passive charges low so there’s more incentive to start building up Stored Time in the early phases of the game. In the later stages you’re forced to juggle delayed deaths, generating more time and protecting yourself.</p>
+<hr>
+<p>I did play with the idea to grant Chronomancer a sort of time lock - essentially a limited occupy ability - to make them more distinct from Physicians and make cross class abilities for evils to claim for. For instance an Invoker, Poacher, or similar may claim Chronomancer if Chronos have access to occupying abilities. It does stretch that a support class has offensive class abilities, but I figured that could be interesting to play with in a controlled manner. However I didn’t come up with a satisfying setup that wasn’t basically Chrono + an occupy ability.</p>
+<p>The suggested changes to Chronomancer wont really affect the Timesnatcher (Unseen convert), as they already have limited reasons (and ability) to visit people. It could actually be considered - unrelated to this suggestion - to grant the Timesnatcher a limited day ability that makes them appear to visit a target as a Time Warp during the night, as to keep their Chrono claim easier to keep against an Observer, Noble, or Merc/SS, receiving the feedback as if they really did visit the target - perhaps it should mask if they visit with Time Snatch, but otherwise it’s just to keep the claim a little while longer.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660/1</link>
+        <pubDate>Fri, 08 May 2020 20:39:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81660-1</guid>
+        <source url="https://forum.throneoflies.com/t/class-rework-chronomancer-ability-rework/81660.rss">[Class rework] Chronomancer - ability rework</source>
+      </item>
+  </channel>
+</rss>

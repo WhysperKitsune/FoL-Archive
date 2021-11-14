@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</title>
+    <link>https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229</link>
+    <description>
+
+# Welcome to JoaTJoaTJoaT13, hosted by @Arete and @Geyde with a set-up designed by @Geyde! 
+
+# Winter event:
+
+This game is part of the Mafia Colosseum - FoL winter crossover event! For the first 24 hours of sign-ups, five slots will be reserved for people from FoL and five slots will be reserved for people from Mafia Colosseum.
+
+# Rules:
+
+Follow the Global Forum Rules, given in this post, as well as all Mafia Colosseum rules. 
+
+https://forum.throneoflies.com/t/official-forum-mafia-and-forum-of-lies-rules/78926
+
+Additionally, for this game, a minimum requirement of **10 substantive, on-topic, game related posts** per in game day are required. Posts that are explicitly or obviously made solely for the purpose of meeting this requirement do not count towards the minimum, nor do posts containing *solely* a vote. The first time a player fails to meet this requirement, they will be given a warning; the second time they fail to meet it, they will be replaced out. A player who zero-posts will be subbed out without a warning. This requirement may be reduced or waived if an execution is hammered early by majority.
+
+The game will begin on December 21st.
+
+# Role List
+
+[color = ligreen] Vanilla Townie [/color]
+[color = ligreen] Vanilla Townie [/color]
+[color = ligreen] Vanilla Townie [/color]
+[color = ligreen] Vanilla Townie [/color]
+[color = ligreen] Vanilla Townie [/color]
+[color = ligreen] Vanilla Townie [/color]
+[color = ligreen] Vanilla Townie [/color]
+[color = ligreen] Vanilla Townie [/color]
+[color = ligreen] Town Jack-of-All-Trades [A][/color]
+[color = ligreen] Town Jack-of-All-Trades [B][/color]
+[color = red] Mafia Jack-of-All-Trades [/color]
+[color = red] Mafia Goon [/color]
+[color = red] Mafia Goon [/color]
+
+Sample role PMs:
+
+
+[details=&quot;Summary&quot;]
+&gt; # [color = ligreen] Makoto Naegi, Vanilla Townie [/color]
+&gt; ![MakotoJoaT|100x100](upload://tCm8CTkQQWBYAMAfAve94KkI8PC.jpeg) 
+&gt; *&quot;NO, THAT&#39;S WRONG!&quot;*
+&gt; You are a Vanilla Townie. Your only weapons are your voice and your vote.
+&gt; 
+&gt; *Defeat the Mafia.*
+
+&gt; # [color = ligreen] Makoto Naegi, Town Jack-of-All-Trades [A] [/color]
+&gt; ![MakotoJoaT|100x100](upload://tCm8CTkQQWBYAMAfAve94KkI8PC.jpeg) 
+&gt; *&quot;NO, THAT&#39;S WRONG!&quot;*
+&gt; You are a Jack of All Trades. You have access to the following night actions. Each action may only be used once.
+&gt; 
+&gt; Motion Detector: Determine if target player uses or is targeted by an action (you will not know which happened).
+&gt; Forensic Investigator: Determine if target player has killed anyone this game. Will not detect kills in the night when this ability is used.
+&gt; Doctor: Protect target player from attacks tonight.
+&gt; *Defeat the Mafia.*
+
+&gt; # [color = ligreen] Makoto Naegi, Town Jack-of-All-Trades [B] [/color]
+&gt; ![MakotoJoaT|100x100](upload://tCm8CTkQQWBYAMAfAve94KkI8PC.jpeg) 
+&gt; *&quot;NO, THAT&#39;S WRONG!&quot;*
+&gt; You are a Jack of All Trades. You have access to the following night actions. Each action may only be used once.
+&gt; 
+&gt; Jailkeeper: Roleblock a player and heal them from any attacks targeting them tonight.
+&gt; Voyeur: Determine what types of actions target a player tonight.
+&gt; Neighborizer: Create a neighborhood between you and your target, allowing you to speak privately at any time. This neighborhood lasts until your death.
+&gt; *Defeat the Mafia.*
+
+&gt; # [color = red]Makoto Naegi, Mafia Goon [/color]
+&gt; 
+&gt; ![MakotoJoaT|100x100](upload://tCm8CTkQQWBYAMAfAve94KkI8PC.jpeg) 
+&gt; *&quot;NO, THAT&#39;S WRONG!&quot;*
+&gt; You are a Mafia Goon. You share a 24/7 private chat with your fellow members of the Mafia. Each night, the Mafia must kill a player outside your faction.
+&gt; 
+&gt; *Reach parity with the town.*
+
+&gt; # [color = red] Makoto Naegi, Mafia Jack-of-All-Trades [/color]
+&gt; ![MakotoJoaT|100x100](upload://tCm8CTkQQWBYAMAfAve94KkI8PC.jpeg) 
+&gt; *&quot;NO, THAT&#39;S WRONG!&quot;*
+&gt; You are a Jack of All Trades. You have access to the following night actions. Each action must be used once before it may be used again.
+&gt; 
+&gt; Roleblock: Prevent target player from taking an action tonight. Cannot target the same player twice in a row.
+&gt; Rolecop: Learn target player&#39;s role tonight.
+&gt; Tailor: Make target player appear innocent to the Forensic Investigator tonight.
+&gt; *Reach parity with the town.*
+[/details]
+
+
+[details=JoaT feedback]
+
+**Motion Detect:**
+&quot;Your target used an action or an action was used on them last night!&quot;
+&quot;Your target did not use an action and no actions were used on them!&quot;
+
+**Forensic Investigator:**
+&quot;Your target has killed at least one player this game!&quot;
+&quot;Your target has never killed!&quot;
+
+**Voyeur:**
+&quot;You detected the following action types on your target:**&quot;
+&quot;You did not detect any actions on your target!&quot;
+
+*Action types:*
+Killing: Factional Kill
+Protection: Doctor
+Investigative: Role Cop, Motion Detector, Forensic Investigator
+Manipulative:  Roleblock, Tailor
+
+**Neighborizer:**
+&quot;You were neighborized with [X]!&quot;
+&quot;You were unable to neighborize [X]!&quot;
+
+**Rolecop:**
+&quot;Your target is a Jack-of-all-Trades!&quot;
+&quot;Your target is a Vanilla Town or Mafia Goon!&quot;
+
+**Any investigative that is roleblocked or jailkept:**
+&quot;You were unable to investigate your target!&quot;
+
+**All other scenarios:**
+&quot;You slept peacefully!&quot;
+[/details]
+
+
+# Gameplay
+
+- The set-up is a 13 player set-up with 8 Vanilla Townies, 2 different Town Jacks-of-All-Trades, 1 Mafia Jack-of-All Trades, and 2 Mafia Goons.
+
+- Each JoaT has access to three abilities. Town JoaTs may only use each ability once. The mafia JoaT must use each ability once before using the same ability twice; however, it is not required to use them in the same order each time.
+
+- The Mafia JoaT may perform the factional kill and use a JoaT ability in the same night
+
+
+- Days are 48 hours unless majority is reached early and nights are 24 hours.
+
+- Executions are majority and plurality. Ties will be determined by RNG among all tied players.
+
+- No-execute is a valid vote, and may be hammered to end the day early. In cases where no-execute and another vote are tied at the end of the day, no-execute will have priority in the rand.
+
+- Self-votes are considered valid votes.
+
+- Votes are locked in LyLo (execute-or-lose) scenarios, but not in MyLo (misexecute-and-lose) scenarios. That is to say, in situations where town must execute correctly or lose, the first vote cast by a given player is final and cannot be changed.
+
+- All votes must be in the form **/vote [name of player]** to be considered valid, and all unvotes must be in the form **/unvote**. This is to enable the smooth processing of votes.
+- The Mafia factional kill is assigned. If the member performing the factional kill is not specified, the last member to submit a kill will be assumed to be performing it.
+
+- The Mafia factional kill is mandatory. If no factional kill is submitted, the kill will be determined randomly from among living members of the town.
+
+- The Mafia will communicate through a private Discord server or forum topic.
+
+# Flavor
+- By popular request, the game will be lightly Danganronpa flavored. I will try to avoid spoilers, but there may be some minor ones. 
+- Flavor is neither role nor alignment indicative. 
+# Player List:
+
+1. Shurian - **Executed D3 - [color = green]Vanilla Townie[/color]**
+2. WindwardAway
+3. EliThePsycho
+5. Min
+12. SirDerpsAlot
+6. Marluxion - **Executed D1 - [color = red]Mafia Goon[/color]**
+7. Maple
+9. ArcticXI
+10. Light
+11. Intensify
+13. PokemonKidRyan
+14. Illwei -  **Executed D2 - [color = green]Vanilla Townie[/color]**
+15. eevee **Died N2 - [color = green]Vanilla Townie[/color]**
+
+# Backups:
+
+
+1. Amelia
+4. sulit
+5. thepigeonnyc
+6. CRichard564
+7. Napoleon
+8. Blizer
+
+# Spectators:
+1. Astand (informed)
+2. DatBird (informed)
+3. ATNoName (uninformed)
+3. Chloe (uninformed)
+4. Trochilidae (informed)
+6. Marshal (informed)
+# Milestones:</description>
+    
+    <lastBuildDate>Fri, 08 Jan 2021 13:34:34 +0000</lastBuildDate>
+    <category>Forum Matches</category>
+    <atom:link href="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</title>
+        <dc:creator><![CDATA[GGhana]]></dc:creator>
+        <description><![CDATA[
+            <p>its totally not because theyve payed people to like their posts</p>
+<p>on an unrelated note like this post im like farming</p>
+          <p><a href="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5243">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5243</link>
+        <pubDate>Fri, 08 Jan 2021 13:34:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85229-5243</guid>
+        <source url="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229.rss">[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</title>
+        <dc:creator><![CDATA[CRichard564]]></dc:creator>
+        <description><![CDATA[
+            <p><s>It’s probably a coincidence that she found all the scum team in JoJo FM in the Winter Event</s>.</p>
+          <p><a href="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5242">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5242</link>
+        <pubDate>Thu, 07 Jan 2021 11:14:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85229-5242</guid>
+        <source url="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229.rss">[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</title>
+        <dc:creator><![CDATA[Vulgard]]></dc:creator>
+        <description><![CDATA[
+            <p>because the post is an award for chloe, and liking chloe is an uncontroversial opinion</p>
+          <p><a href="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5241">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5241</link>
+        <pubDate>Thu, 07 Jan 2021 10:56:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85229-5241</guid>
+        <source url="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229.rss">[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</title>
+        <dc:creator><![CDATA[Marshal]]></dc:creator>
+        <description><![CDATA[
+            <p>its a really good and creative joke</p>
+<p>i wonder where he thought of it</p>
+<p>probably while reading the musings of an ancient philosopher</p>
+          <p><a href="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5240">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5240</link>
+        <pubDate>Thu, 07 Jan 2021 08:50:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85229-5240</guid>
+        <source url="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229.rss">[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</title>
+        <dc:creator><![CDATA[Chloe]]></dc:creator>
+        <description><![CDATA[
+            <p>I feel like people impulsively click the like button when they see that 5+ other people have clicked the like button</p>
+<p>How the hell did that get 16 likes</p>
+<p>FoL hivemind</p>
+          <p><a href="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5239">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5239</link>
+        <pubDate>Thu, 07 Jan 2021 08:48:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85229-5239</guid>
+        <source url="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229.rss">[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</title>
+        <dc:creator><![CDATA[CRichard564]]></dc:creator>
+        <description><![CDATA[
+            <p>Town should just sheep eevee from now on and win.</p>
+          <p><a href="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5238">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5238</link>
+        <pubDate>Thu, 07 Jan 2021 07:19:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85229-5238</guid>
+        <source url="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229.rss">[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</title>
+        <dc:creator><![CDATA[WindwardAway]]></dc:creator>
+        <description><![CDATA[
+            <p>oh I also forgot to vote lmao.</p>
+          <p><a href="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5237">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5237</link>
+        <pubDate>Wed, 06 Jan 2021 19:58:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85229-5237</guid>
+        <source url="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229.rss">[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</title>
+        <dc:creator><![CDATA[Arctic]]></dc:creator>
+        <description><![CDATA[
+            <p>he did? where?</p>
+          <p><a href="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5236">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5236</link>
+        <pubDate>Wed, 06 Jan 2021 14:57:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85229-5236</guid>
+        <source url="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229.rss">[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</title>
+        <dc:creator><![CDATA[SirDerpsAlot]]></dc:creator>
+        <description><![CDATA[
+            <p>I mean Eevee had the game solved like D1 so</p>
+          <p><a href="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5235">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5235</link>
+        <pubDate>Wed, 06 Jan 2021 13:50:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85229-5235</guid>
+        <source url="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229.rss">[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</title>
+        <dc:creator><![CDATA[CRichard564]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh this is a real take.<br>
+I’m not joking here.</p>
+          <p><a href="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5234">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5234</link>
+        <pubDate>Wed, 06 Jan 2021 06:40:15 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85229-5234</guid>
+        <source url="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229.rss">[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <h1>
+<a class="mention" href="/u/Chloe">@Chloe</a> has won the <a class="mention" href="/u/Chloe">@Chloe</a> team player award</h1>
+<p>congrats <a class="mention" href="/u/Chloe">@Chloe</a></p>
+          <p><a href="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5233">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5233</link>
+        <pubDate>Wed, 06 Jan 2021 06:37:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85229-5233</guid>
+        <source url="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229.rss">[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</title>
+        <dc:creator><![CDATA[Chloe]]></dc:creator>
+        <description><![CDATA[
+            <p>did i win now</p>
+          <p><a href="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5232">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5232</link>
+        <pubDate>Wed, 06 Jan 2021 06:36:20 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85229-5232</guid>
+        <source url="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229.rss">[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</title>
+        <dc:creator><![CDATA[CRichard564]]></dc:creator>
+        <description><![CDATA[
+            <p>Scum was lucky Chloe wasn’t playing in this game as town.<br>
+Best play would be to just give up.<br>
+<img src="https://forum.throneoflies.com/uploads/default/original/3X/9/1/916f04f5d4ee1414a384af92ab4b994b33b078a5.jpeg" alt="Big Dog Small Dog Jojo meme 2." data-base62-sha1="kKz5Ejai64IYMWgvYxnpiQml75r" width="507" height="375"></p>
+          <p><a href="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5231">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5231</link>
+        <pubDate>Wed, 06 Jan 2021 06:27:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85229-5231</guid>
+        <source url="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229.rss">[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</title>
+        <dc:creator><![CDATA[KyoDaz]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Marshal" data-post="5227" data-topic="85229">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/marshal/40/35100_2.png" class="avatar"> Marshal:</div>
+<blockquote>
+<p>excuse to ping chloe</p>
+</blockquote>
+</aside>
+<p><a class="mention" href="/u/Chloe">@Chloe</a> What do you think of this idea specifically? I think it’s great.</p>
+          <p><a href="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5230">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5230</link>
+        <pubDate>Wed, 06 Jan 2021 05:56:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85229-5230</guid>
+        <source url="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229.rss">[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</title>
+        <dc:creator><![CDATA[EliThePsycho]]></dc:creator>
+        <description><![CDATA[
+            <p>bro same</p>
+          <p><a href="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5229">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5229</link>
+        <pubDate>Wed, 06 Jan 2021 04:37:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85229-5229</guid>
+        <source url="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229.rss">[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</title>
+        <dc:creator><![CDATA[Intensify]]></dc:creator>
+        <description><![CDATA[
+            <p><s>I forgot to vote I’m stupid</s></p>
+          <p><a href="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5228">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5228</link>
+        <pubDate>Wed, 06 Jan 2021 04:33:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85229-5228</guid>
+        <source url="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229.rss">[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</title>
+        <dc:creator><![CDATA[Marshal]]></dc:creator>
+        <description><![CDATA[
+            <p>add a chloe team player award</p>
+<p>pros:</p>
+<p>chloe wins<br>
+excuse to ping chloe</p>
+<p>cons:<br>
+Literally 0</p>
+          <p><a href="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5227">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5227</link>
+        <pubDate>Wed, 06 Jan 2021 04:30:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85229-5227</guid>
+        <source url="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229.rss">[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</title>
+        <dc:creator><![CDATA[Marshal]]></dc:creator>
+        <description><![CDATA[
+            <p>relatable</p>
+          <p><a href="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5226">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5226</link>
+        <pubDate>Wed, 06 Jan 2021 04:30:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85229-5226</guid>
+        <source url="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229.rss">[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</title>
+        <dc:creator><![CDATA[DatBird]]></dc:creator>
+        <description><![CDATA[
+            <p>nah not this time</p>
+          <p><a href="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5225">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5225</link>
+        <pubDate>Wed, 06 Jan 2021 03:24:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85229-5225</guid>
+        <source url="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229.rss">[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</title>
+        <dc:creator><![CDATA[Chloe]]></dc:creator>
+        <description><![CDATA[
+            <p>did i win</p>
+          <p><a href="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5224">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5224</link>
+        <pubDate>Wed, 06 Jan 2021 03:15:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85229-5224</guid>
+        <source url="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229.rss">[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</title>
+        <dc:creator><![CDATA[EliThePsycho]]></dc:creator>
+        <description><![CDATA[
+            <p>i know<br>
+see the problem here is my classcard got buried in all the Happy Puzzle University (Sponsored by Carls. Jr) dms</p>
+          <p><a href="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5223">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5223</link>
+        <pubDate>Wed, 06 Jan 2021 03:03:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85229-5223</guid>
+        <source url="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229.rss">[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            <p>should’ve voted <img src="https://forum.throneoflies.com/images/emoji/twitter/upside_down_face.png?v=9" title=":upside_down_face:" class="emoji" alt=":upside_down_face:"></p>
+          <p><a href="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5222">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5222</link>
+        <pubDate>Wed, 06 Jan 2021 03:03:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85229-5222</guid>
+        <source url="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229.rss">[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</title>
+        <dc:creator><![CDATA[EliThePsycho]]></dc:creator>
+        <description><![CDATA[
+            <p>marl getting scumteam MVP was <img src="https://forum.throneoflies.com/images/emoji/twitter/joy_cat.png?v=9" title=":joy_cat:" class="emoji" alt=":joy_cat:"> tho<br>
+should have been intensify<br>
+INTENSIFY WAS ROBBED</p>
+          <p><a href="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5221">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5221</link>
+        <pubDate>Wed, 06 Jan 2021 03:02:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85229-5221</guid>
+        <source url="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229.rss">[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</title>
+        <dc:creator><![CDATA[EliThePsycho]]></dc:creator>
+        <description><![CDATA[
+            <p>i forgot to vote<br>
+good job me</p>
+          <p><a href="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5220">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5220</link>
+        <pubDate>Wed, 06 Jan 2021 03:01:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85229-5220</guid>
+        <source url="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229.rss">[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Arete" data-post="21" data-topic="83534" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/arete/40/34874_2.png" class="avatar"><a href="https://forum.throneoflies.com/t/team-player-award-thread/83534/21">Team Player Award Thread</a>
+</div>
+<blockquote>
+<h1>The Best Town Team Player award for JoatJoatJoat13er goes to … <a class="mention" href="/u/eevee">@eevee</a>!</h1>
+<p>and…</p>
+<h1>The Best Scum Team Player award for JoatJoatJoat13er goes to … <a class="mention" href="/u/marluxion">@Marluxion</a>!</h1>
+<h1>Congratulations to the winners!</h1>
+</blockquote>
+</aside>
+<p>sorry for being super late about this</p>
+          <p><a href="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5219">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229/5219</link>
+        <pubDate>Wed, 06 Jan 2021 03:00:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85229-5219</guid>
+        <source url="https://forum.throneoflies.com/t/winter-event-joatjoatjoat13-mafia-wins/85229.rss">[Winter Event] JoaTJoaTJoaT13 - Mafia wins!</source>
+      </item>
+  </channel>
+</rss>

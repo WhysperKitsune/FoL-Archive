@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Security v4.1.5 + Stability v4.1.6 Patches</title>
+    <link>https://forum.throneoflies.com/t/security-v4-1-5-stability-v4-1-6-patches/88320</link>
+    <description>## Stability Patch v4.1.6
+* Fixed King &lt;color&gt; text
+* Fixed numerous class card innaccuracies.
+* Overall, things feel stable! See below for hotfixes leading up to this patch.
+
+___
+
+## Security Patch v4.1.5 [color=lime]- Live[/color]
+
+Pretty straight-forward patch -- [color=orange]This is an &quot;early access&quot; patch; bare with us :)[/color]
+
+- Enhanced Throne&#39;s security.
+- Lobby chat anti-spam added: 
+    - 1.5s cooldown (same as in-game).
+    - Filters.
+    - Server-side inspection, to be improved upon over time.
+
+--Xblade @ https://discord.gg/tol
+
+____
+
+### v4.1.5b (7-19)
+
+* Fixed login screen crashes for some
+* Fixed Paladin class card Unseen convert (should show nothing).
+* Fixed Alcoholic class card that should be showing occ immune icon.
+* Fixed tutorial wording for King&#39;s DM to &quot;suspect&quot; he&#39;s BD rather than &quot;knows&quot;.
+* Fixed tutorial `&lt;color&gt;` tags showing.
+
+### v4.1.5c (7-19)
+
+* Single exe security is too strong (triggering antivirus): No point, if unplayable! Removed this security feature - we&#39;ll observe and adjust, as necessary.
+* Fixed quest flip issues for new quests.
+* Potentially fixed quest swap (refresh) credits.
+
+### v4.1.5d (7-20)
+* Slightly more security.
+* Fixed most of the lobby chat and in-game bugs. Special shoutout to those that submitted Discord `#bug-reports`!! 
+
+### v4.1.5e (7-22)
+* Fixed desyncs.
+* Still has known breaking bugs caused by the massive backend changes in the security patch: Game will be down until ver `e`.
+
+### v4.1.5f (7-26)
+* Fixed ability bugs.
+* Fixed end-game chat.
+* Day phase minimum timer is now 30s from 15s (unintended).
+
+### v4.1.5g (7-27)
+* Fixed Day 1 abilities like Imprison that didn&#39;t show up
+* Fixed reporting players at the end screen.
+* Can no longer move pardon/exe window (it was bugging off the screen).
+* Numerous quest progression bugs fixed.
+
+_____
+
+[color=cyan]THANKS everyone who helped test the early access security patch and reporting things to Discord `#bugs-dont-ping` !! The things that had to be done devastated many in-game scripts that can&#39;t all be discovered with only 2 clients (my test environment).  You guys rock!![/color]
+
+-- Xblade @ https://discord.gg/tol</description>
+    
+    <lastBuildDate>Thu, 29 Jul 2021 13:08:40 +0000</lastBuildDate>
+    <category>Official Announcements</category>
+    <atom:link href="https://forum.throneoflies.com/t/security-v4-1-5-stability-v4-1-6-patches/88320.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Security v4.1.5 + Stability v4.1.6 Patches</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <h2>
+<a name="stability-patch-v416-1" class="anchor" href="#stability-patch-v416-1"></a>Stability Patch v4.1.6</h2>
+<p>Now live!</p>
+          <p><a href="https://forum.throneoflies.com/t/security-v4-1-5-stability-v4-1-6-patches/88320/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/security-v4-1-5-stability-v4-1-6-patches/88320/3</link>
+        <pubDate>Thu, 29 Jul 2021 13:08:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88320-3</guid>
+        <source url="https://forum.throneoflies.com/t/security-v4-1-5-stability-v4-1-6-patches/88320.rss">Security v4.1.5 + Stability v4.1.6 Patches</source>
+      </item>
+      <item>
+        <title>Security v4.1.5 + Stability v4.1.6 Patches</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <h2>
+<a name="stability-patch-v416-1" class="anchor" href="#stability-patch-v416-1"></a>Stability Patch v4.1.6</h2>
+<ul>
+<li>Fixed King  text</li>
+<li>Fixed numerous class card innaccuracies.</li>
+<li>Overall, things feel stable! See below for hotfixes leading up to this patch.</li>
+</ul>
+<hr>
+<h2>
+<a name="security-patch-v415-colorlime-livecolor-2" class="anchor" href="#security-patch-v415-colorlime-livecolor-2"></a>Security Patch v4.1.5 <font color="lime">- Live</font>
+</h2>
+<p>Pretty straight-forward patch – <font color="orange">This is an “early access” patch; bare with us <img src="https://forum.throneoflies.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></font></p>
+<ul>
+<li>Enhanced Throne’s security.</li>
+<li>Lobby chat anti-spam added:
+<ul>
+<li>1.5s cooldown (same as in-game).</li>
+<li>Filters.</li>
+<li>Server-side inspection, to be improved upon over time.</li>
+</ul>
+</li>
+</ul>
+<p>–Xblade @ <a href="https://discord.gg/tol">https://discord.gg/tol</a></p>
+<hr>
+<h3>
+<a name="v415b-7-19-3" class="anchor" href="#v415b-7-19-3"></a>v4.1.5b (7-19)</h3>
+<ul>
+<li>Fixed login screen crashes for some</li>
+<li>Fixed Paladin class card Unseen convert (should show nothing).</li>
+<li>Fixed Alcoholic class card that should be showing occ immune icon.</li>
+<li>Fixed tutorial wording for King’s DM to “suspect” he’s BD rather than “knows”.</li>
+<li>Fixed tutorial <code>&lt;color&gt;</code> tags showing.</li>
+</ul>
+<h3>
+<a name="v415c-7-19-4" class="anchor" href="#v415c-7-19-4"></a>v4.1.5c (7-19)</h3>
+<ul>
+<li>Single exe security is too strong (triggering antivirus): No point, if unplayable! Removed this security feature - we’ll observe and adjust, as necessary.</li>
+<li>Fixed quest flip issues for new quests.</li>
+<li>Potentially fixed quest swap (refresh) credits.</li>
+</ul>
+<h3>
+<a name="v415d-7-20-5" class="anchor" href="#v415d-7-20-5"></a>v4.1.5d (7-20)</h3>
+<ul>
+<li>Slightly more security.</li>
+<li>Fixed most of the lobby chat and in-game bugs. Special shoutout to those that submitted Discord <code>#bug-reports</code>!!</li>
+</ul>
+<h3>
+<a name="v415e-7-22-6" class="anchor" href="#v415e-7-22-6"></a>v4.1.5e (7-22)</h3>
+<ul>
+<li>Fixed desyncs.</li>
+<li>Still has known breaking bugs caused by the massive backend changes in the security patch: Game will be down until ver <code>e</code>.</li>
+</ul>
+<h3>
+<a name="v415f-7-26-7" class="anchor" href="#v415f-7-26-7"></a>v4.1.5f (7-26)</h3>
+<ul>
+<li>Fixed ability bugs.</li>
+<li>Fixed end-game chat.</li>
+<li>Day phase minimum timer is now 30s from 15s (unintended).</li>
+</ul>
+<h3>
+<a name="v415g-7-27-8" class="anchor" href="#v415g-7-27-8"></a>v4.1.5g (7-27)</h3>
+<ul>
+<li>Fixed Day 1 abilities like Imprison that didn’t show up</li>
+<li>Fixed reporting players at the end screen.</li>
+<li>Can no longer move pardon/exe window (it was bugging off the screen).</li>
+<li>Numerous quest progression bugs fixed.</li>
+</ul>
+<hr>
+<p><font color="cyan">THANKS everyone who helped test the early access security patch and reporting things to Discord <code>#bugs-dont-ping</code> !! The things that had to be done devastated many in-game scripts that can’t all be discovered with only 2 clients (my test environment).  You guys rock!!</font></p>
+<p>– Xblade @ <a href="https://discord.gg/tol">https://discord.gg/tol</a></p>
+          <p><a href="https://forum.throneoflies.com/t/security-v4-1-5-stability-v4-1-6-patches/88320/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/security-v4-1-5-stability-v4-1-6-patches/88320/1</link>
+        <pubDate>Thu, 15 Jul 2021 07:04:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88320-1</guid>
+        <source url="https://forum.throneoflies.com/t/security-v4-1-5-stability-v4-1-6-patches/88320.rss">Security v4.1.5 + Stability v4.1.6 Patches</source>
+      </item>
+  </channel>
+</rss>

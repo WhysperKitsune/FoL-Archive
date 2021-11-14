@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Neutral Showdown Preview</title>
+    <link>https://forum.throneoflies.com/t/neutral-showdown-preview/74156</link>
+    <description>I plan to host a non-bastard version of my &quot;Anniversary Mafia&quot; game soon, however I&#39;d like some feedback and/or balance suggestions before that. So here is the new setup:
+* Everyone is a Neutral Killer with a goal to be between the last 3 players standing
+* There will be plurality lynches.
+* Both Day and Night will last 24 hours.
+* Players can private message each other, as long as they invite the host to the conversation.
+* This game will have up to 24 player slots
+
+Here are the class cards, some of them where rebalanced and there will be new class cards as well.
+
+[details=&quot;Classcards&quot;]
+&gt; # [color=FF0080]The Entertainer[/color]
+&gt; **No, thanks! (Passive)** - You are immune to any negative effects from your own presents.
+&gt; **Birthday Present (Day)** - Give a present to a player. They can open it or force someone else to open it. The present will randomly have one of the following. You will know what the present had:
+&gt; * First-Aid Kit: The player will be healed tonight.
+&gt; * Gun: The player will be able to instantly shot a player of their choice, killing them.
+&gt; * Battery Pack: The player will gain 1 use of all their limited use abilities.
+&gt; * Barrier: The player will become immune to occupation and redirection tonight.
+&gt; * Knife: The player will start to bleed, dying in 1 day unless healed.
+&gt; * Empty Box: The player will lose 1 use of all their limited use abilities.
+&gt; * Wine: The player will be occupied tonight.
+&gt; * Bomb: The player will die instantly. 
+&gt;
+&gt; **Teleport (Day)** - Swap two players for the day. Any day abilities used on them will instead affect the other. Can target yourself. - Unlimited uses.
+&gt; **Magic Trick (Night)** - Swap two players for the night. Players visiting one of them will instead visit the other. Can target yourself. - Unlimited uses.
+&gt; **Disappearing Trick (Night)** - Attack a player. - Unlimited uses.
+&gt; *Your goal is to be between the last 3 players alive*
+----
+
+&gt; # [color=lightgreen]**The Leprechaun**[/color]
+&gt; **Four Leaf Clover (Passive)** - At the start of the game, you will get 4 random abilities from any of the other classes in the game. (Some of the abilities might be slightly different from the originals)
+&gt; **Good Luck Charm (Passive)** - You can use 3 abilities per cycle. (For example, 1 day ability and 2 night abilities or 3 day abilities and 0 night abilities, etc).
+&gt; **Reroll! (Night) - At the end of the night, you will reroll all of your current abilities for new ones (except for &quot;Reroll!&quot;).
+&gt; *Your goal is to be between the last 3 players alive*
+----
+
+&gt; # [color=Gold]**The Gambler**[/color] 
+&gt; **Place your bets! (Passive)** - You start the game with 1 token. You can use as many &quot;Bet&quot; abilities as you want, as long as you have enough tokens. (You cannot use the same ability multiple times, except for &quot;Risky Bet&quot;)
+&gt; **Token Bet (Day)** - Bet any number of tokens. You have a 50% chance to double them and a 50% chance to lose them. If you win, you will also permanently increase the chance of &quot;Risky Bet&quot; by 5% for every token you bet.
+&gt; **Safe Bet (Day)** - You will become immune to day abilities today and heal yourself tonight. - Unlimited uses, costs 0 tokens to use, the price increases by 1 token each time you use this ability.
+&gt; **Risky Bet (Day)** - Attack a player. You have a 15% chance for the attack to be successful. This ability can be used multiple times per day as long as you have enough tokens. - Unlimited uses, costs 1 token.
+&gt; **Offer protection (Night)** - Heal a player and gain 1 token. If the heal was successful you will gain 2 extra tokens and the chance of &quot;Risky Bet&quot; will permanently increase by 10%. - Unlimited uses.
+&gt; *Your goal is to be between the last 3 players alive*
+
+----
+&gt; # [color=brown]**The Cheater**[/color]
+&gt; **Ace under the Sleeve (Passive)** - You start the game with 2 &quot;Special Tokens&quot;.
+&gt; **Cheating Death (Passive)** - If you would die at night by any means, you will prevent the attack and lose 1 Special Token instead. 
+&gt; **Desperate Bid (Day)** - Reveal your class to the court and prevent them from voting you today. - Costs 1 Special Token.
+&gt; **Raise the Stacks (Day)** - You will become immune to occupation and redirection and your &quot;All-in&quot; ability will bypass healing tonight. - Costs 1 Special Token.
+&gt; **Deadly Bet (Night)** - Select a player, if they die tonight or tomorrow during the day you will gain 1 &quot;Special Token&quot;. - Unlimited uses.
+&gt; **All-in (Night)** - Use any number of your special tokens in order to attack a number of players equal to the tokens spent + 1. - Unlimited uses. You may use this with 0 tokens to kill 1 player.
+&gt; *Your goal is to be between the last 3 players alive*
+
+----
+&gt; &lt;big&gt; [color=darkblue]**The Loan Shark**[/color] &lt;/big&gt;
+&gt; **Spare Change (Passive)** - You start the game with 2 tokens. You may use both night abilities on the same night.
+&gt; **Loan (Day)** - Give a player 1 use of all their limited use abilities. They will become &quot;in-debt&quot;.  - Unlimited uses.
+&gt; **Collect (Day)** - Disable the abilities of all &quot;in-debt&quot; players until tomorrow and gain 1 token for each player affected. They will no longer be in-debt. - Unlimited uses.
+&gt; **Hired Gun (Night)** - Bleed a player, they will die in 2 days unless healed. This ability has different effects depending on the amount of tokens you currently have - Unlimited uses
+&gt; * **1 or more tokens:** The player will die in 1 day instead.
+&gt; * **2 or more tokens:** You will attack the player instead of bleeding them.
+&gt; * **3 or more tokens:** You cannot be occupied or redirected when using this ability
+&gt; * **4 or more tokens:** You will bypass healing
+&gt; * **5 or more tokens:** You will be able to target two players
+&gt;
+&gt; **Bribe (Night)** - Select a player. Redirect everyone visiting you to said player and transfer any bleeding or venom effects on yourself to them (their duration will be reset). - Unlimited uses, costs 1 token. 
+&gt; *Your goal is to be between the last 3 players alive*
+----
+&gt; # [color=gray]The Count[/color]
+&gt; **Bribe (Passive)** - You will be immune to the first 4 abilities that would affect you either directly or indirectly (whether good or bad).
+&gt; **Tyranny (Day)** - Kill a player in plain daylight. The first time you use this ability you will publicly reveal as &quot;The Count&quot; - Unlimited uses. 
+&gt; **Sow Discord (Night)** - Select a player. Tomorrow, all votes against said player will be secretly doubled.  - Unlimited uses.
+&gt; **Political Backlash (Night)** - Select two players. If the first one would be lynched, the second one will die instead. Can target yourself (this isn&#39;t affected by &quot;Bribe&quot;). - 3 uses. 
+&gt; *Your goal is to be between the last 3 players alive*
+----
+
+&gt; # [color=purple]The Shaman[/color]
+&gt; **Pact (Passive)** - At the beginning of the game, select between 0 and 4 nights (example: night 2, night 4 and night 5). You will heal yourself on those nights, but Voodoo Ritual and Voodoo Curse will lose 1 use for every night you picked. 
+&gt; **Soul Link (Day)** - Select two players. If one of them dies during the next night, the other will commit suicide (suicide can be healed. This ability doesn&#39;t count as a visit). - Unlimited uses.
+&gt; **Voodoo Curse (Day)** - Make a player believe they are bleeding - 5 uses
+&gt; **The Evil Eye (Night)** - Select a player. If they would be healed tonight, they will die instead. - Unlimited uses.
+&gt; **Voodoo Ritual (Night)** - Force a player to target another. You can force them to target you or themselves. - 5 uses.
+&gt; *Your goal is to be between the last 3 players alive*
+----
+
+&gt; # [color=black]The Evil Twin[/color]
+&gt; **Slash (Night)** - Kill a player. - Unlimited uses.
+&gt; **Psycho protector (Night)** - Heal your twin tonight. Everyone that visits your twin tonight will die. - 3 uses.
+&gt; *Your goal is to make sure you or your twin are between the last 3 players alive*
+----
+
+&gt; # [color=white]The Good Twin[/color]
+&gt; **Special Bond (Passive)** - If your twin dies, you will turn into the Evil Twin.
+&gt; **Distract (Night)** - Occupy a player. You cannot target the same player your twin is trying to kill. - Unlimited uses.
+&gt; **Smart Protector (Night)** - Occupy everyone visiting your twin and remove any bleeding or venom effects on them. - 3 uses
+&gt; *Your goal is to make sure you or your twin are between the last 3 players alive*
+
+----
+&gt; # [color=alek]The False Prophet [/color]
+&gt; **Prophecy of Plague (Passive)** - Any venom effects on you will turn into bleeding instead.
+&gt; **Prophecy of Death (Day)** - Select a player. Announce to the court that they will die tonight (can be healed). Doesn’t count as a visit. - Unlimited uses.
+&gt; **Prophecy of War (Day)** - Select a player. Announce to said player that they will die if they attempt to perform a night action. Doesn’t count as a visit. - Unlimited uses.
+&gt; **Foresight (Night)** - If you would die tonight, delay said death by 2 nights. You will be notified if you delay a death this way. - 4 uses.
+&gt; **False Prophecy (Night)** - Reverse the effects of tonight’s prophecy. Prophecy of Death will kill the target only if they are healed and Prophecy of War will kill the player if they don’t attempt to perform a night action - 3 uses.
+&gt; *Your goal is to be between the last 3 players alive*
+
+-----
+
+&gt; &lt;big&gt;[color=bb9900]The Beast Lord[/color]&lt;/big&gt;
+&gt; **Turtle Form (Passive)** - You are immune to death at night once. If this passive protects you from an attack you will lose it and won&#39;t be able to change back to it.
+&gt; **Morph (Day)** - Change your second passive to a different one. You will keep that passive until you change it again. - Unlimited uses.
+&gt; 
+&gt; &gt; Available passives:
+&gt; &gt;
+&gt; &gt;
+&gt; &gt;
+&gt; &gt; * **Lion Form (Passive)** - You are immune to occupation and redirection.
+&gt; &gt; * **Spider Form (Passive)** - You are immune to bleeding/venom. Doesn’t heal you if you change to this passive while you were already bleeding/envenomed. You will be told if someone attempts to bleed/envenom you.
+&gt; &gt; * **Turtle Form (Passive)** - You are immune to death at night once. If this passive protects you from an attack you will lose it and won&#39;t be able to change back to it.
+&gt; &gt; * **Owl Form (Passive)** - You are unaffected by day abilities, except for venom or bleeding. You will be told when someone tries to use a day ability on you, and which ability.
+&gt; &gt; * **Eagle Form (Passive)** - Votes to lynch you are secretly halved (rounded up).
+&gt; 
+&gt; **Rampage (Day)** - Your night ability will be instantly available tonight if its on cooldown. - 1 use.
+&gt; **Tiger companion (Night)** - Kill two players. Unlimited uses, but has a one-night cooldown.
+&gt; **Tame (Night)** - Change your first night ability to a different one. You will keep that ability until you change it again. Unlimited uses.
+&gt; 
+&gt; &gt; Available night abilities:
+&gt; &gt;
+&gt; &gt;
+&gt; &gt;
+&gt; &gt; * **Tiger companion (Night)** - Kill two players. Unlimited uses, but has a 1-night cooldown.
+&gt; &gt; * **Rhinoceros companion (Night)** - Kill a player. Bypasses healing. Unlimited uses, but has a 1-night cooldown.
+&gt; &gt; * **Crocodile companion (Night)** - Kill a player and anyone that visits them. Unlimited uses, but has a 1-night cooldown.
+&gt; &gt; * **Bear companion (Night)** - Occupy and kill everyone visiting you. 2 uses,  has a 1-night cooldown.
+&gt; &gt; * **Snake Companion (Night)** - Envenom up to two players. They will die in 2 nights unless healed. Envenomed players cannot use day abilities. Unlimited uses, but has a 1-night cooldown.
+&gt;
+&gt; *Your goal is to be between the last 3 players alive*
+----
+
+&gt; &lt;big&gt;[color=ffaaaa]The Collector[/color]&lt;/big&gt;
+&gt; **Collect (Day)** - Guess a player’s exact class. If you guess it right, they will be killed immediately and you will gain 1 use of &quot;Clone&quot;. - Unlimited uses.
+&gt; **Analyze (Day)** - Select a player and three classes. You will be told if the player is one of those classes. - Unlimited uses.
+&gt; **Clone (Night)** - Select a player. If you would die tonight by any means, said player will die in your place (bypasses healing) - 1 use.
+&gt; *Your goal is to be between the last 3 players alive*
+
+----
+&gt; &lt;big&gt;[color=darkgreen]The Matriarch[/color]&lt;/big&gt;
+&gt; **Maternal Love (Passive)** - You are immune to death on Night 1. 
+&gt; **Lay Egg (Day)** - Lay an egg inside someone. They will not be notified about it. - Unlimited uses
+&gt; **Consume (Day)** - Remove an egg from a player in order to heal yourself tonight. - Unlimited uses
+&gt; **Hatch (Night)** - Remove all eggs from all players and attack them. This ability doesn&#39;t count as a visit. - Unlimited uses. 
+&gt; **Bite (Night)** - Envenom a player. They will die in 1 day unless healed. Envenomed players cannot use day abilities. - Unlimited uses.
+&gt; *Your goal is to be between the last 3 players alive*
+----
+
+&gt; &lt;big&gt;[color=ligreen]The Komodo[/color]&lt;/big&gt;
+&gt; **Evolve (Passive)** - You start with 2 evolution points. At the end of each night, you will gain 1 evolution point. At any point in the game you might DM the host to exchange your evolution points for abilities. (You can buy the same ability more than once in order to gain 1 extra use of it.)
+&gt; **These are the abilities that Komodo can buy:**
+&gt; **1 Evolution point each:**
+&gt; 
+&gt; * **Constrict (Night)** - Attack a player. - 2 uses.
+&gt; * **Venomous bite (Day)** - Envenom a player. They will die in two days unless healed. Envenomed players cannot use day abilities until its healed. - 3 uses.
+&gt; * **Recovery (Night)** - Heal yourself. - 3 uses.
+&gt; 
+&gt; **2 Evolution points each:**
+&gt; 
+&gt; * **Tooth and nail (Night)** - Occupy a player tonight and envenom them. The venom will kill them in one night unless healed. Envenomed players are unable to use day abilities. - 3 uses.
+&gt; * **Confusing Venom (Night)** - Select two players. All players targeting one of them will be forced to target the other. Can target yourself. - 3 uses.
+&gt; **Venomous Skin (Day)** - Become immune to day abilities today, and whoever attempts to use a day ability on you will become envenomed and die in 2 days unless healed. Envenomed players cannot use day abilities.- 2 uses.
+&gt; 
+&gt; 
+&gt; **3 Evolution points each:**
+&gt; * **Crippling Screech (Night)** - Select a player. If they are bleeding or envenomed you will attack them, bypassing healing. - 3 uses.
+&gt; * **Fatal Fang (Day)** - The target will be afflicted with a fatal venom that will disable their day abilities and kill them in 1 day. Cannot be healed. - 2 uses.
+&gt; * **Noxious Fumes (Night)** - Select a player. Anyone that visits them tonight will become envenomed and die in one night unless healed. Envenomed players cannot use day abilities. - 3 uses.
+&gt;
+&gt; *Your goal is to be between the last 3 players alive*
+
+-----
+&gt;&lt;big&gt;[color=gold]The Royal Guard[/color]&lt;/big&gt;
+&gt;**Public Execution (Day)** - Reveal yourself as the Royal Guard in order to kill a player that has voted you and instantly end the day. - 1 use.
+&gt;**Learn (Day)** - Prevent the next day ability that would affect you and you will get a copy of it. It will have 1 use. You may use this ability immediately after learning it. - 3 uses.
+&gt;**Duel (Night)** - Occupy a player and cause them to bleed. They will die in 1 night unless healed.  - Unlimited uses.
+&gt;**Riposte (Night)** - Redirect anyone that visits you to themselves. - 3 uses.
+&gt; *Your goal is to be between the last 3 players alive*
+
+----
+&gt; 
+&gt; &lt;big&gt;[color=ff4400]The Gunslinger[/color]&lt;/big&gt;
+&gt; **Guts (Passive)** - You start with 1 stack of &quot;Guts&quot;. If you would die by any means other than lynching you will prevent said death and lose 1 stack of &quot;guts&quot; instead.
+&gt; **Russian Roulette (Day)** - You have a 1/6 chance of killing yourself, bypassing your &quot;Guts&quot; passive. If you survive, you will gain 1 stack of &quot;Guts&quot;.**
+&gt; **Quick Shot (Day)** - Kill a player. - Unlimited uses. Can only be used if you have 2 or more stacks of &quot;Guts&quot;.**
+&gt; **Crippling Shot (Night)** - Make a player bleed, they will die in 1 day unless healed. - Unlimited uses. Can only be used if you have 1 or more stacks of guts.**
+&gt; **Triple Shot (Night)** - Select up to 3 players. Each player will have a 10% chance of dying for every stack of guts you have. (Doesn&#39;t count as a visit) - Unlimited uses. Can only be used if you have 3 or more stacks of guts.
+&gt; *Your goal is to be between the last 3 players alive*
+
+----
+
+&gt; # [color=beige]The Diplomat[/color] 
+&gt; **Alliance (Passive)** - At the beginning of the game select a player as your ally. If your ally dies (except from &quot;Betrayal&quot;), you will die as well. 
+&gt; **Bounty (Day)** - Put a bounty on a player&#39;s head (They will be notified). If your ally successfully kills them today or tonight they will gain 1 use of all their limited use abilities. - 3 uses.
+&gt; **Speech (Day)** - Prevent your ally from being voted today - 1 uses.
+&gt; **Protectorate (Night)** - Heal both yourself and your ally tonight. - 3 uses.
+&gt;**Betrayal (Night)** - Kill your ally, bypassing healing. You will be able to choose a new ally and you will gain 1 use of all your limited use abilities. - 2 uses.
+&gt; *Your goal is to make sure you or your current ally are between the last 3 players alive.*
+
+----
+&gt; # [color=#00688B]The Time Mage[/color]
+&gt; **Rewind (Passive)** - Prevent your first two deaths by any means other than lynching.
+&gt; **Fast-Forward (Day)** - Instantly end the Day, skipping the lynch phase. - 1 use
+&gt; ** Time Stop (Day)** - Prevent everyone from using day abilities today. - 1 use.
+&gt; **Banish (Night)** - Attack a player. - Unlimited uses.
+&gt; **Time Skip (Night)** - Attack a player, skip the night and prevent everyone from using any night actions (bypasses any kind of occupation or prevention immunity) - 1 use.
+&gt; *Your goal is to be between the last 3 players alive*
+----
+
+&gt; # [color=#1464F4] The Time Jailor [/color]
+&gt; **Doomsday Clock (Day)** - Bleed a player. They will die in 2 days unless healed. - Unlimited uses.
+&gt; **Final Countdown (Day)** - A player of your choice will die in 2 days. Cannot be healed. - 1 use.
+&gt; **Timelock (Night)** - Occupy a player and everyone that visits them. - Unlimited uses.
+&gt; **Time Cocoon (Night)** - Occupy everyone visiting you and remove any venom or bleeding effects on yourself. - 4 uses.
+&gt; *Your goal is to be between the last 3 players alive*
+
+----
+
+&gt;  # [color=#00CDCD] The Time Warden [/color]
+&gt; **Singularity (Day)** - Your night abilities will bypass healing tonight. - 1 use.
+&gt; **Black Hole (Day)** - Occupy and kill everyone visiting you tonight. You will also remove any bleeding or venom effects on yourself. - 3 uses.
+&gt; **Vortex (Night)** - Select a player. Anyone that visits them will die. - Unlimited uses.
+&gt; **Banish (Night)** - Kill a player. - Unlimited uses.
+&gt; *Your goal is to be between the last 3 players alive*
+----
+
+&gt; # [color=#B4CDCD] The Exiled [/color]
+&gt; **Exiled Keeper (Passive)** - You start the game with a free &quot;Time shield&quot; on night 1.
+&gt; **Time shield (Day)** - Rewind time tonight in order to heal yourself. - 1 use.
+&gt; **Doomsday Clock (Day)** - Bleed a player. They will die in 2 days unless healed. Healing your own bleed won&#39;t trigger Time heal&#39;s ability refund. - 1 use.
+&gt; **Time Heal (Night)** - Heal a player. If you successfully heal them you will get 1 use of all your limited use abilities. - Unlimited uses.
+&gt; **Banish (Night)** - Attack a player. - 2 uses.
+&gt; **Vortex (Night)** - Select a player. Anyone that visits them will die. - 1 use.
+&gt; *Your goal is to be between the last 3 players alive*
+
+----
+
+&gt; # [color=orange]The Occultist[/color]
+&gt; **Shroud of Darkness (Passive)** - Immune to death during the first night.
+&gt; **Ritual of Silence (Passive)** - Whenever the target of &quot;Dark Thoughts&quot; is successfully lynched, you will heal yourself the following night and the number of votes from &quot;Shadow Echoes&quot; will permanently increase by 1.
+&gt; **Dark Whisper (Day)** - Send an anonymous message to the court as &quot;The Occultist&quot; - Unlimited uses.
+&gt; **Shadow Echoes (Day)** - Select a player and secretly add 1 extra lynch votes. - Unlimited uses.
+&gt; **Dark Thoughts (Night)** - Select a player. If that player is lynched tomorrow, the first person that voted to lynch them (besides you) will die as well. - Unlimited uses. 
+&gt; **Demonic Voice (Night)** - Select a player. The first person they vote tomorrow will die instantly (they won&#39;t be notified). If they vote you, the ability will fail. - 2 uses.
+&gt; *Your goal is to be between the last 3 players alive*
+----
+
+&gt; # [color=#ffff90]The Martyr[/color]
+&gt; **Elemental Ritual (Passive)** - At the beginning of the game you may select two players as your ritual targets (they will be notified about this, but won&#39;t know you). Whenever one of your ritual targets dies, you will gain 1 use of all your limited use abilities. If you die, your ritual targets will gain 1 use of all their limited use abilities.
+&gt; **Purification (Day)** - The target of tonight&#39;s penitence will receive the effects of Contrition, Confession and Penance. - 1 uses.
+&gt; **Penitence (Night)** - Select a player. The effects of this ability are different depending on how many times you have used it on the same player (whether it was successful or not). Unlimited uses.
+&gt; * First time: Contrition - Heal both your target and yourself.
+&gt; * Second time: Confession - Occupy your target and force them to attack whoever they visit. (Has no effect on occupy immune players, you can&#39;t be killed by this ability). 
+&gt; * Three or more times: Penance - Attack the player, bypassing healing.
+&gt; **Resurrection (Night)** - Revive a dead player and change their goal to &quot;Make sure the Martyr wins&quot;. They cannot vote, be targeted by abilities or be lynched. They will die at the end of the next night, or earlier if you die. (Their limited use abilities will keep the same remaining number of uses they previously had) - 1 use.
+&gt; *Your goal is to be between the last 3 players alive*
+
+----
+
+&gt; # [color=darkred]The Warlock[/color]
+&gt; **Elemental Ritual (Passive)** - At the beginning of the game you may select two players as your ritual targets (they will be notified about this, but won&#39;t know you). Whenever one of your ritual targets dies, you will gain 1 use of all your limited use abilities. If you die, your ritual targets will gain 1 use of all their limited use abilities.
+&gt; **Blood Pact (Day)** - Select a player and offer them a deal. If they accept it, you will both be healed tonight. - Unlimited uses, can only be used on each player once.
+&gt; **Unstoppable Onslaught (Day)** - You will become immune to occupation and redirection and your attacks will bypass healing. (if used along with rampage it will only empower the attack against the main target and not its visitors) - 1 use.
+&gt; **Kill (Night)** - Kill a player - Unlimited uses.
+&gt; **Rampage (Night)** - Kill a player and everyone visiting them. - 1 use.
+&gt; *Your goal is to be between the last 3 players alive*
+----
+
+&gt; # [color=pink]The Elementalist[/color]
+&gt; **Elemental Ritual (Passive)** - At the beginning of the game you may select two players as your ritual targets (they will be notified about this, but won&#39;t know you). Whenever one of your ritual targets dies, you will gain 1 use of all your limited use abilities. If you die, your ritual targets will gain 1 use of all their limited use abilities.
+&gt; **Morph (Passive)** - You cannot use the same night ability twice in a row, unless &quot;Elemental Discharge&quot; is used.
+&gt; **Elemental Discharge (Day)** - You can use all four abilities tonight. - 1 use.
+&gt; **Elemental Clone (Day)** - Select a player. You will gain access to one of their abilities, depending on their class. (Said ability will have 1 single use, and you cannot increase the uses of said ability in any way. Some abilities may be modified from their original versions). - 1 use.
+&gt; **Petrify (Night)** - Occupy a player. You will be immune to occupation and redirection tonight. - Unlimited uses.
+&gt; **Ice Spike (Night)** - Attack a player. You will know who visits you tonight. - Unlimited uses.
+&gt; **Soothing Water (Night)** - Heal a player. You will also heal yourself tonight. - Unlimited uses.
+&gt; **Fire Rune (Night)** - Players visiting your target will start bleeding and die in 1 day unless healed. Players that visit you will start bleeding and die in 1 day unless healed. - Unlimited uses. 
+&gt; *Your goal is to be between the last 3 players alive*
+
+----
+
+[/details]</description>
+    
+    <lastBuildDate>Fri, 07 Dec 2018 11:21:19 +0000</lastBuildDate>
+    <category>Forum Matches</category>
+    <atom:link href="https://forum.throneoflies.com/t/neutral-showdown-preview/74156.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Neutral Showdown Preview</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <p>also are the twins human?</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-showdown-preview/74156/54">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-showdown-preview/74156/54</link>
+        <pubDate>Fri, 07 Dec 2018 11:21:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74156-54</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-showdown-preview/74156.rss">Neutral Showdown Preview</source>
+      </item>
+      <item>
+        <title>Neutral Showdown Preview</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <p>add a xed nk</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-showdown-preview/74156/53">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-showdown-preview/74156/53</link>
+        <pubDate>Fri, 07 Dec 2018 11:20:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74156-53</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-showdown-preview/74156.rss">Neutral Showdown Preview</source>
+      </item>
+      <item>
+        <title>Neutral Showdown Preview</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>Added a new class: The Diplomat</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-showdown-preview/74156/52">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-showdown-preview/74156/52</link>
+        <pubDate>Thu, 06 Dec 2018 19:46:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74156-52</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-showdown-preview/74156.rss">Neutral Showdown Preview</source>
+      </item>
+      <item>
+        <title>Neutral Showdown Preview</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>That’s one of the reasons I was thinking of lowering goal to 2 living players instead of two, so whoever allies the twins still has a number’s advantage but not as big.</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-showdown-preview/74156/51">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-showdown-preview/74156/51</link>
+        <pubDate>Thu, 06 Dec 2018 18:58:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74156-51</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-showdown-preview/74156.rss">Neutral Showdown Preview</source>
+      </item>
+      <item>
+        <title>Neutral Showdown Preview</title>
+        <dc:creator><![CDATA[Blizer]]></dc:creator>
+        <description><![CDATA[
+            <p>Still Pre inning cat.</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-showdown-preview/74156/50">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-showdown-preview/74156/50</link>
+        <pubDate>Thu, 06 Dec 2018 18:48:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74156-50</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-showdown-preview/74156.rss">Neutral Showdown Preview</source>
+      </item>
+      <item>
+        <title>Neutral Showdown Preview</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>uh</p>
+<p>This game will be a while afterwards</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-showdown-preview/74156/49">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-showdown-preview/74156/49</link>
+        <pubDate>Thu, 06 Dec 2018 18:46:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74156-49</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-showdown-preview/74156.rss">Neutral Showdown Preview</source>
+      </item>
+      <item>
+        <title>Neutral Showdown Preview</title>
+        <dc:creator><![CDATA[Blizer]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>/Pre in</strong></p>
+<p>I don’t see Fire Emblem mafia starting for a another couple days.</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-showdown-preview/74156/48">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-showdown-preview/74156/48</link>
+        <pubDate>Thu, 06 Dec 2018 18:45:15 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74156-48</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-showdown-preview/74156.rss">Neutral Showdown Preview</source>
+      </item>
+      <item>
+        <title>Neutral Showdown Preview</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Twins should be separate as that’s powerful to have a four team IMO</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-showdown-preview/74156/47">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-showdown-preview/74156/47</link>
+        <pubDate>Thu, 06 Dec 2018 18:43:32 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74156-47</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-showdown-preview/74156.rss">Neutral Showdown Preview</source>
+      </item>
+      <item>
+        <title>Neutral Showdown Preview</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>Ok, Ive changed several classes and here are the rules that I’ve decided to use:</p>
+<ul>
+<li>Last 3 players alive win (Twins count as a single player for this)</li>
+<li>Game will be flipless</li>
+<li>Game will have plurality lynch only, both day and night will last 24 hours.</li>
+<li>People can send private message to each other as long as they invite the host.</li>
+<li>There will be normal feedback</li>
+</ul>
+<p>Im still debating whether it’ll be better to change the goal to last 2 players instead though, 3 seems a bit too much. Thoughts?</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-showdown-preview/74156/46">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-showdown-preview/74156/46</link>
+        <pubDate>Thu, 06 Dec 2018 18:08:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74156-46</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-showdown-preview/74156.rss">Neutral Showdown Preview</source>
+      </item>
+      <item>
+        <title>Neutral Showdown Preview</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>There are many classes that become more powerful when specific targets are lynched so people would have to keep that in mind as well when picking a lynch target.</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-showdown-preview/74156/45">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-showdown-preview/74156/45</link>
+        <pubDate>Thu, 06 Dec 2018 02:45:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74156-45</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-showdown-preview/74156.rss">Neutral Showdown Preview</source>
+      </item>
+      <item>
+        <title>Neutral Showdown Preview</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <p>so yeah fakeclaim if you have an OP class.</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-showdown-preview/74156/44">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-showdown-preview/74156/44</link>
+        <pubDate>Thu, 06 Dec 2018 02:33:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74156-44</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-showdown-preview/74156.rss">Neutral Showdown Preview</source>
+      </item>
+      <item>
+        <title>Neutral Showdown Preview</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <p>lynch will just probably most likely be decided via who people dont like but whatever.</p>
+<p>or strong class.</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-showdown-preview/74156/43">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-showdown-preview/74156/43</link>
+        <pubDate>Thu, 06 Dec 2018 02:21:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74156-43</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-showdown-preview/74156.rss">Neutral Showdown Preview</source>
+      </item>
+      <item>
+        <title>Neutral Showdown Preview</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>/pre-in</strong></p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-showdown-preview/74156/42">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-showdown-preview/74156/42</link>
+        <pubDate>Thu, 06 Dec 2018 02:20:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74156-42</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-showdown-preview/74156.rss">Neutral Showdown Preview</source>
+      </item>
+      <item>
+        <title>Neutral Showdown Preview</title>
+        <dc:creator><![CDATA[Lightsin]]></dc:creator>
+        <description><![CDATA[
+            <p>Is it too late to do a <strong>/Pre-In</strong> as well?</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-showdown-preview/74156/41">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-showdown-preview/74156/41</link>
+        <pubDate>Wed, 05 Dec 2018 16:59:42 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74156-41</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-showdown-preview/74156.rss">Neutral Showdown Preview</source>
+      </item>
+      <item>
+        <title>Neutral Showdown Preview</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p>Entertainer looks UP at a first glance.</p>
+<p>Weak in most areas.</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-showdown-preview/74156/40">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-showdown-preview/74156/40</link>
+        <pubDate>Tue, 04 Dec 2018 20:50:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74156-40</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-showdown-preview/74156.rss">Neutral Showdown Preview</source>
+      </item>
+      <item>
+        <title>Neutral Showdown Preview</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>Balance wise, are there any classes that look too OP/UP?</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-showdown-preview/74156/39">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-showdown-preview/74156/39</link>
+        <pubDate>Tue, 04 Dec 2018 20:35:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74156-39</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-showdown-preview/74156.rss">Neutral Showdown Preview</source>
+      </item>
+      <item>
+        <title>Neutral Showdown Preview</title>
+        <dc:creator><![CDATA[GamerPoke]]></dc:creator>
+        <description><![CDATA[
+            <p>Normal is best</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-showdown-preview/74156/38">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-showdown-preview/74156/38</link>
+        <pubDate>Mon, 03 Dec 2018 02:05:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74156-38</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-showdown-preview/74156.rss">Neutral Showdown Preview</source>
+      </item>
+      <item>
+        <title>Neutral Showdown Preview</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>One more poll;</p>
+<div class="poll" data-poll-status="open" data-poll-public="true" data-poll-results="always" data-poll-type="regular" data-poll-name="poll">
+<div>
+<div class="poll-container">
+<ul>
+<li data-poll-option-id="12812004329ab62214a92bf45ce9e41f">Normal Feedback</li>
+<li data-poll-option-id="9dd07f99c404674908a47e986969e146">Limited Feedback</li>
+</ul>
+</div>
+<div class="poll-info">
+<p>
+<span class="info-number">0</span>
+<span class="info-label">voters</span>
+</p>
+</div>
+</div>
+</div>
+          <p><a href="https://forum.throneoflies.com/t/neutral-showdown-preview/74156/37">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-showdown-preview/74156/37</link>
+        <pubDate>Mon, 03 Dec 2018 02:05:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74156-37</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-showdown-preview/74156.rss">Neutral Showdown Preview</source>
+      </item>
+      <item>
+        <title>Neutral Showdown Preview</title>
+        <dc:creator><![CDATA[GamerPoke]]></dc:creator>
+        <description><![CDATA[
+            <p>No Livi, Nuuu</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-showdown-preview/74156/36">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-showdown-preview/74156/36</link>
+        <pubDate>Mon, 03 Dec 2018 01:51:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74156-36</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-showdown-preview/74156.rss">Neutral Showdown Preview</source>
+      </item>
+      <item>
+        <title>Neutral Showdown Preview</title>
+        <dc:creator><![CDATA[Livicus]]></dc:creator>
+        <description><![CDATA[
+            <p>I think it’s meant to be that way?</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-showdown-preview/74156/35">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-showdown-preview/74156/35</link>
+        <pubDate>Mon, 03 Dec 2018 01:50:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74156-35</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-showdown-preview/74156.rss">Neutral Showdown Preview</source>
+      </item>
+      <item>
+        <title>Neutral Showdown Preview</title>
+        <dc:creator><![CDATA[Margaret]]></dc:creator>
+        <description><![CDATA[
+            <p><s>I like how Loan Shark wants to be the last one alive</s></p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-showdown-preview/74156/34">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-showdown-preview/74156/34</link>
+        <pubDate>Mon, 03 Dec 2018 01:46:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74156-34</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-showdown-preview/74156.rss">Neutral Showdown Preview</source>
+      </item>
+      <item>
+        <title>Neutral Showdown Preview</title>
+        <dc:creator><![CDATA[Margaret]]></dc:creator>
+        <description><![CDATA[
+            <p>So much better</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-showdown-preview/74156/33">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-showdown-preview/74156/33</link>
+        <pubDate>Mon, 03 Dec 2018 01:45:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74156-33</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-showdown-preview/74156.rss">Neutral Showdown Preview</source>
+      </item>
+      <item>
+        <title>Neutral Showdown Preview</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>I changed the Count, you may want to check it</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-showdown-preview/74156/32">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-showdown-preview/74156/32</link>
+        <pubDate>Mon, 03 Dec 2018 01:42:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74156-32</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-showdown-preview/74156.rss">Neutral Showdown Preview</source>
+      </item>
+      <item>
+        <title>Neutral Showdown Preview</title>
+        <dc:creator><![CDATA[Blizer]]></dc:creator>
+        <description><![CDATA[
+            <p>K just wondering</p>
+<p>I may be back probs a couple days after it starts.</p>
+<p>I may join depending on how long the fire emblem one lasts</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-showdown-preview/74156/31">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-showdown-preview/74156/31</link>
+        <pubDate>Sun, 02 Dec 2018 22:56:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74156-31</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-showdown-preview/74156.rss">Neutral Showdown Preview</source>
+      </item>
+      <item>
+        <title>Neutral Showdown Preview</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>Its already on queue, I think it’ll start after the fire emblem game</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-showdown-preview/74156/30">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-showdown-preview/74156/30</link>
+        <pubDate>Sun, 02 Dec 2018 22:44:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74156-30</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-showdown-preview/74156.rss">Neutral Showdown Preview</source>
+      </item>
+  </channel>
+</rss>

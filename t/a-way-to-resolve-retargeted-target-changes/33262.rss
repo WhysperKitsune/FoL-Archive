@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>A way to resolve retargeted target changes</title>
+    <link>https://forum.throneoflies.com/t/a-way-to-resolve-retargeted-target-changes/33262</link>
+    <description>What I ment in the title is that there is a way to check who is targeting who that allows for things like invokers being controlled by other Invokers and mercs preventing occupies except when occupied. This is more for conseptualizing it. This assumes everything resolves at once:
+
+1: Check to see who is targeting who
+2: Change that list baised on occupying, redirects ect...
+3: Repeat
+4: Keep repeating until it stops changing things.
+
+Ex: Merc(1) guards contract (2) A servant (3) targets the Merc and a Butler (4) targets the contract.
+
+1:
+
+(1) - (2)
+2 - (Something)
+(3) - (1)
+(4) - none (prevented)
+
+2:
+
+(1) - none (occupied)
+(2) - none (occupied)
+(3) - (1)
+(4) - (2)
+
+3:
+
+(1) - none (occupied)
+(2) - none (occupied)
+(3) - (1)
+(4) - (2)
+
+3 is the same as 2 so it stops.</description>
+    
+    <lastBuildDate>Thu, 04 Jan 2018 13:21:11 +0000</lastBuildDate>
+    <category>Feedback/Suggestions</category>
+    <atom:link href="https://forum.throneoflies.com/t/a-way-to-resolve-retargeted-target-changes/33262.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>A way to resolve retargeted target changes</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>What I ment in the title is that there is a way to check who is targeting who that allows for things like invokers being controlled by other Invokers and mercs preventing occupies except when occupied. This is more for conseptualizing it. This assumes everything resolves at once:</p>
+<p>1: Check to see who is targeting who<br>
+2: Change that list baised on occupying, redirects ect…<br>
+3: Repeat<br>
+4: Keep repeating until it stops changing things.</p>
+<p>Ex: Merc(1) guards contract (2) A servant (3) targets the Merc and a Butler (4) targets the contract.</p>
+<p>1:</p>
+<p>(1) - (2)<br>
+2 - (Something)<br>
+(3) - (1)<br>
+(4) - none (prevented)</p>
+<p>2:</p>
+<p>(1) - none (occupied)<br>
+(2) - none (occupied)<br>
+(3) - (1)<br>
+(4) - (2)</p>
+<p>3:</p>
+<p>(1) - none (occupied)<br>
+(2) - none (occupied)<br>
+(3) - (1)<br>
+(4) - (2)</p>
+<p>3 is the same as 2 so it stops.</p>
+          <p><a href="https://forum.throneoflies.com/t/a-way-to-resolve-retargeted-target-changes/33262/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/a-way-to-resolve-retargeted-target-changes/33262/1</link>
+        <pubDate>Sat, 30 Dec 2017 23:05:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-33262-1</guid>
+        <source url="https://forum.throneoflies.com/t/a-way-to-resolve-retargeted-target-changes/33262.rss">A way to resolve retargeted target changes</source>
+      </item>
+  </channel>
+</rss>

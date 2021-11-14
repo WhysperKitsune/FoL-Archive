@@ -1,0 +1,1354 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>SFoL Infection Class Cards</title>
+    <link>https://forum.throneoflies.com/t/sfol-infection-class-cards/72377</link>
+    <description># SFoL Infection
+This has been my pet project for a while now and I&#39;m looking for feedback + new ideas for more classes that can be added. I&#39;ve adjusted some BD classes (mainly buffs) to allow for more interesting (but complicated) gameplay. Classes are designed to be more fun to play overall. I&#39;ve aimed for a little confirmability as possible.
+I definitely need more ideas for Neutrals and Neutral Killers I think.
+
+The Idea is for about 24 people, but I guess this game could have more players depending on interest. Infected Class Cap for 24 people is 5.
+
+The &#39;Main&#39; Ability of a class is the first night ability listed.
+
+Big Shoutout to @Alice for all the ideas. 
+
+:shield: = Unique
+:crossed_swords: = Convert Immune  
+:fire: = Guaranteed 
+
+[details=&quot;Kingdom Classes&quot;]
+&gt; # [color=blue]The Actuary[/color]
+&gt; [color=blue]Kingdom[/color] Investigative
+**Sharp Eyes (Day)** - Target a player. At the end of the day you will be informed if they have any day abilities. [2 Uses]
+**Notice to Detail (Day)** - At the beginning of the night, you will be told how many day abilities were used the previous day. [2 Uses]
+**Inventory (Night)** - Target a player, you will be informed of the total number of uses they have for both their night abilities combined. Abilities with unlimited usage will count as zero. [Infinite Uses]
+*Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=blue]The Alchemist[/color]
+&gt; [color=blue]Kingdom[/color] Special
+&gt; **Coagulate (Passive)** - Immune to infection and bleeding.
+&gt; **Brew Potion (Day)**- Brew a potion, each potion must be brewed once before you can brew the others again. [Infinite Uses]
+&gt; **Apply Potion (Night)** - Use the potion you have brewed. You may save it if you wish. [Infinite Uses]
+&gt; **Potions:**
+&gt;* Truth Potion: Discover whether a player is a member of the infected or not.
+&gt;* Tar Potion: Occupy a player, you will be occupy and redirection immune while using this.
+&gt;* Health Potion: Heal a player, preventing their death tonight and curing bleed and infection.
+&gt;* Poison Potion: Attack a player, if they are a member of the Kingdom, you will commit suicide instead.
+&gt;
+&gt; *Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=blue]The Apprentice[/color]
+&gt; [color=blue]Kingdom[/color] Investigative
+**Magic Immunity (Day)** - Target a player, they will receive immunity to occupation and redirection until you die. [1 Uses]
+**Magical Probe (Night)** - Target a player, determine whether they have a passive ability or not. [Infinite Uses]
+**Magic Dust (Night)** - Target a player, you will remove any passive ability they have for the next day and night. Does not work on Lycanthropy or Phylactery. They will not be informed. [3 Uses, Cannot Target the Regent]
+*Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=Blue]The Archer [/color]
+&gt;[color=blue]Kingdom[/color] Killer
+&gt;**Multi-shot (Day)** - If you fire an arrow at one of your marks tonight, remove all marks and attack any other player whose mark was removed. You are immune to redirection this night. [2 Uses]
+&gt;**Eagle Shot (Night)** - Fire an arrow to kill your target. This ability is disabled if you kill a member of the kingdom with it. [Infinite Uses]
+&gt;**Bulls-eye (Night)** - Place a mark on target player. A marked player is no longer passively death immune. You may have up to three marks. Targeting a marked player with this ability will remove the mark. Targeting yourself will remove all marks. Marks disappear on death or class change. [Infinite Uses]
+*Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=blue]The Armourer[/color]
+&gt; [color=blue]Kingdom[/color] Support
+**Old Armour (Day)** - Find a piece of old armour you made previously. You will be immune to death tonight. [1 Use]
+**Vigour (Day)** - Gain 2 uses of Bestow Armour when you use Forge Armour tonight. [1 Use]
+**Forge Armour (Night)** - Gives you a use of Bestow Armour. [Infinite Uses]
+**Bestow Armour (Night)** - Give any number of players armour, up to the number of charges you have, allowing them to select &amp;lsquo;Don Armour&amp;rsquo; instead of their night ability to gain night immunity on the night they use it. They will not be notified. [0 Uses, Cannot Target the King]
+*Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=blue]The Bard[/color]
+&gt; [color=blue]Kingdom[/color] Support
+**Pure Wits (Day)** - You will be immune to occupation and to target changing tonight. [3 Uses]
+**Crescendo (Night)** - Target a player, if they are redirecting, occupying, or attacking, they will bypass immunities tonight. [Infinite Uses]
+**Allegro (Night)** - You will heal yourself tonight. [2 Uses]
+*Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=blue]The Butler[/color]
+&gt; [color=blue]Kingdom[/color] Offensive
+&gt; **Dutiful (Passive)** - Immune to occupation and redirecion.
+&gt; **Nightshade Wine (Day)** - Poison The Regent, causing him to die in one night if not healed. If the Regent is Good, you will commit suicide. The Regent will not be notified. [1 Use, Available Starting Day 2]
+&gt; **Serve Wine (Night)** - Occupy a player by getting them drunk. [Infinite Uses]
+&gt; **Concentrated Wine (Night)** - Throw a party, occupying all players who visit you tonight. [2 Uses, Bypasses Occupy Immunity]
+*Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=blue]The Chronomancer[/color]
+&gt; [color=blue]Kingdom[/color] Support
+&gt; **Pocket Dimension (Day)** - If you would die tonight you will delay your death for 2 nights. This will delay bleeding and infection in addition to attacks. [2 Uses]
+&gt; **Time Warp (Night)** - Cause all effects on a player to be delayed by 2 days. This includes death, occupation, infection, bleed and redirection. [Infinite Uses]
+&gt; **Distort Reality (Night)** - Redirect all of the effects you delayed on your target with Time Warp to another player. [Infinite Uses]
+*Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt;Credit to Icibalus
+
+&gt; # [color=blue]The Coroner[/color]
+&gt; [color=blue]Kingdom[/color] Social
+**Grave Focus (Day)** - In addition to the results from Exhume or Forensics, you will also learn the class of your target&amp;rsquo;s killer. [2 Uses]
+**Exhume (Night)** - Target a deceased player, you will learn of all effects the target received the night they died. [Infinite Uses]
+**Forensics (Night)** - Target a deceased player, you will learn of every player that visited the target during the entire match. Can only be used on players that died the fourth night or later. [1 Uses, Not Usable Until N3]
+*Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=blue]The Court Wizard[/color]
+&gt; [color=blue]Kingdom[/color] Support
+**Arcane Empower (Day)**  - The player that you target with your ability tonight will bypass immunities (discounting conversion immunity) and be guaranteed to succeed with their actions. Their investigative abilities will always receive correct results. [2 Uses]
+**Magical Barrier (Night)**  - Protect a player from negative effects and conversion tonight. Does not prevent attacks. [Infinite Uses]
+**Ice Ward (Night)**  - Prevent anyone else from visiting your target. [2 Uses]
+&gt; *Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=blue]The Crusader[/color]
+&gt; [color=blue]Kingdom[/color] Killer
+**Providence (Day)** - Prevent visits from players who are not members of the Kingdom and infect players who are not members of the kingdom (will be applied sometime tomorrow) who attempt to visit you tonight. [2 Uses]
+**Hand of God (Night)** - Target a player. If any player not aligned with the Kingdom visits them they will be infected sometime tomorrow. This does not stop their actions. [Infinite Uses]
+**Deus Vult (Night)** - Attack and kill two targets. You will also die of exhaustion the night you use this ability regardless of the ability&amp;rsquo;s outcome. [1 Use]
+*Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=blue]The Diplomat[/color]
+&gt; [color=blue]Kingdom[/color] Social
+&gt; **Apparent Corruption (Passive)** - You will appear suspicious to investigators.
+&gt; **Royal Blood (Passive)** - You can step up to become the new Regent earlier than other players.
+&gt; **Networking (Day)** - Target a player. You will know whether they used a day ability at the end of the day. [2 Uses]
+&gt; **Negotiations (Night)** - Allow a player to send you a message tonight. You will be anonymous. [2 Uses]
+&gt; **Gossip (Night)** - Recieve the feedback of all abilities used on your target, even if the user did not receive the feedback themselves. Cannot see attacks or conversions, or any abilities which would reveal the presence of an infected convert. [Infinite Uses]
+*Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt;Credit to NAOtheRitualist
+
+&gt; # [color=blue]The Drunk[/color]
+&gt;[color=blue]Kingdom[/color] Offensive
+&gt; **Royal Blood (Passive)** - You can step up to become the new Regent earlier than other players.
+&gt; **I am the Liquor (Passive)** - Immune to occupation and target changing.
+&gt; **Beer! (Day)** - Target a player, they will be prevented from using their day ability. They will not be informed. [2 Uses]
+&gt; **Debauchery (Night)** - Get in a player&amp;rsquo;s way, causing them to target you. You are immune to all attacks and conversions redirected to you. [Infinite Uses]
+&gt; **Happy Hour (Night)** - Occupy a player, and disable any death or occupy immunity they have for the night. [2 Uses]
+*Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=blue]The Duelist[/color]
+&gt; [color=blue]Kingdom[/color] Killer
+**Royal Blood (Passive)** - You are able to step up for regent earlier than others.
+**Schuld (Passive)** - Your Royal Blood passive will be disabled if you have killed any Kingdom aligned players in the match.
+**Versetzen (Day)** - Grants night immunity for the coming night. If any attack is blocked then you will gain a use of Zornhau. [2 Uses]
+**Mittelhau (Night)** - Target a player, you will redirect their night action to yourself. You will gain immunity to all redirected attacks and conversions, and attack the player. If the kill is successful, you will gain a use of Zornhau. If you kill a member of the Kingdom, all of your abilities will be disabled. [Infinite Uses]
+**Zornhau (Night)** - Target a player. You will gain immunity to occupation and redirection, and attack your target. If your target is a member of the Kingdom, all of your abilities will be disabled. [0 Uses]
+*Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=blue]The Eccentric[/color]
+&gt; [color=blue]Kingdom[/color] Support
+**Royal Blood (Passive)** - You can step up to become the new Regent earlier than other players.
+**Magus/Steam Field (Day)** - You deploy a M/S Field around yourself, giving you night immunity tonight. [1 Use]
+**Magus/Steam Golem (Night)** - Target a player, you will send an M/S Golem to guard them, giving them night immunity. This is disabled the night on which you deploy an M/S Field. [Infinite Uses]
+**Magus/Steam Mirror (Night)** - Target a player, you will place a M/S Mirror at their door, causing any player visiting them to visit themselves. This also bypasses redirection immunity. [2 Uses]
+*Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=blue]The Elementalist[/color]
+&gt; [color=blue]Kingdom[/color] Offensive
+&gt; **Magic Book (Passive)** - Immune to occupation and redirection.
+&gt; **Spell of Fire (Day)** - Prevent visits to your target. [2 Uses]
+&gt; **Spell of Air (Night)** - Force a player to target another player. [Infinite Uses]
+&gt; **Spell of Water (Night)** - All players targeting you will target themselves. [1 Use]
+*Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt; Credit to NAOtheRitualist
+
+&gt; # [color=blue]The Good Regent[/color] :shield: :crossed_swords:  
+&gt; [color=blue]Kingdom[/color] Special
+**Pass the Torch (Passive)**  - If you die, a vote to determine the next king will be held at start of the next day. If you are lynched, all members of the Blue Dragon will lose their Royal Blood passive.
+**Head of State (Passive)**  - Your vote counts as two if there are more than 5 players alive except during Grand Trial. Immune to occupation and redirection. Your abilities do not count as visits.
+**Grand Trial (Day)**  - Instantly put a player on trial for treason lasting up to 24 hours possibly extending day. They may provide a defense within 12 hours, and then the players alive may either vote to execute or pardon. If a majority of players vote to execute, the day will end and the player on trial will be lynched. Otherwise, the day will continue as normal. [1 Use]
+**Guard! (Night)**  - Choose a player. They will be immune to death tonight. [3 Uses]
+&gt; **The Quest for the Cure (Night)** - Choose a player. They will be permanently conversion and infection immune until you change target. [Infinite Uses]
+*Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=blue]The Governor[/color] :shield:
+&gt; [color=blue]Kingdom[/color] Investigative
+**Kingmaker (Passive)** - Your vote for the next Regent counts as three votes.
+**Certify (Day)** - Target a player, they will be convert immune tonight, provided they have royal blood. [4 Uses]
+**Trace Lineage (Night)** - Target a player, you will find out whether your target has Royal Blood or not. If target player has royal blood and you check them again, you will find their exact class type. [Infinite Uses]
+**Background Check (Night)** - If a Regent&amp;rsquo;s election was held during the previous day, then you will be informed of which factions had their members step up. Neutrals will count as members of the Kingdom. [1 Use]
+*Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=blue]The Hunter[/color]
+&gt; [color=blue]Kingdom[/color] Killer
+&gt; **Wolf Companion (Day)**  - Summon a wolf companion to attack a player. They will be infected and die in two nights if not healed. You may not use your Wolf Companion after using your Bear Companion the previous night. [1 use]
+**Bear Companion (Night)**  - Summon a bear to protect you, granting you death and conversion immunity for the night. You will kill any attackers (Bypasses night immunity). You may not use your Bear Companion after using your Wolf Companion the previous day. [2 Uses]
+**Hunter’s Mark (Night)**  - Target two other players. If the first visits the second, you will attack and occupy the first. You will only be seen visiting the first. [2 Uses]
+*Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=blue]The Knight[/color]
+&gt; [color=blue]Kingdom[/color] Killer
+&gt; **Armored (Passive)**  - Your first successful use of Defend will not kill you.
+&gt; **Mark (Day)** - Target a player, if you use Cold Steel on them tonight and they are a member of the Kingdom, you will not commit suicide. [1 Use]
+&gt; **Defend (Night)** - You will guard the target player tonight, giving your life to kill their attacker(s). [Infinite Uses]
+&gt; **Cold Steel (Night)** - Choose a player to attack. If they are a member of the Kingdom, you will instead take your own life. [Infinite Uses]
+*Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=blue]The Librarian[/color]
+&gt; [color=blue]Kingdom[/color] Social
+**Prestige (Passive)** - Only one class with Prestige can spawn the entire game.
+**Repository (Passive)** - You starts in a public log network by themselves. Players in the network will be allowed to read the logs of any other player in the network. The Repository remains open while you are alive regardless if they have been converted.
+**Archive (Day)** - Target two players, you will invite them to the log network. The player must accept before joining and can choose to leave at anytime. [Infinite Uses]
+**Revoke (Night)** - Removes a player from the log network. [Infinite Uses]
+**Shut Down (Night)** - Deactivates the enemy faction&amp;rsquo;s day chat for the next day. [1 Use]
+*Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=blue]The Magician[/color]
+&gt; [color=blue]Kingdom[/color] Offensive
+&gt; **Focused (Passive)** - Immune to occupation and redirection.
+&gt; **Earth Barrier (Day)** - Your target player will have all visits prevented on them tonight. [1 Uses, Can Target Self]
+&gt; **Mind Trick (Night)** - Force two players to target each other. [Infinite Uses]
+&gt; **Tornado (Night)** - Swap the position of two players, causing all players who target your first target to target the second and vice versa. [3 Uses]
+*Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt; Credit to NAOtheRitualist
+
+&gt; # [color=blue]The Magistrate[/color]
+&gt; [color=blue]Kingdom[/color] Social
+**Prestige (Passive)** - Only one class with Prestige can spawn the entire game.
+**Subpoena (Day)** - Target a player, they will be put on trial. [2 Uses]
+**Judicial Decree (Day)** - Resets the votes, allowing only you and your target to be put on trial for today. [2 Uses]
+**Disenfranchise (Night)** - Reduces the number of votes required to put a target player on trial by one. [Infinite Uses]
+**Impeachment (Night)** - Prevents the King from using an ability this night and disables their abilities the following day. [2 Uses]
+*Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=blue]The Maid[/color]
+&gt; [color=blue]Kingdom[/color] Investigative
+&gt; **Change Sheets (Day)**  - Target two corpses. At the end of the night, learn if they were killed by the same player. [2 Uses]
+**Rumor (Day)**  - Target player will be “last checked” in regards to Matchmake. Cannot be used day 1. [2 Uses]
+**Matchmake (Night)**  - Test if target is compatible with the player you last checked. [Infinite Uses]
+&gt; **Compatibility:**
+&gt; * Members of opposing Factions are not compatible
+&gt; * Royals are not compatible with each other
+&gt; * Members of Neutral Factions are compatible with everyone that they can win with
+&gt; * The Neutral Killer is compatible with Blue Dragon and incompatible with Cult/Unseen
+&gt; * The Fool is not compatible with anyone
+&gt; * The Scorned is incompatible with whoever they mark this night
+&gt;
+&gt; *Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=blue]The Mayor[/color] :shield: :crossed_swords:  
+&gt; [color=blue]Kingdom[/color] Social 
+&gt; **Prestige (Passive)** - Only one class with Prestige can spawn the entire game.
+&gt; **Leadership (Day)** - Reveal yourself as mayor of the town. When you do this, the host will announce your innocence and you will gain a double vote. After revealing, you cannot be healed and you cannot add anyone new to your council. [1 Use]
+&gt; **Council (Day)** - Add a player to your council chat, allowing you to talk to them at night. If you die, this chat is disbanded and all members are occupied the next night. [Infinite Uses]
+&gt; **Expulsion (Night)** - Remove a player from your council chat. [Infinite Uses]
+&gt; **Public Execution (Night)** - Kill a player who is a member of your council chat. [1 Use]
+*Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt; #  [color=blue]The Mystic[/color] :shield: 
+&gt; [color=blue]Kingdom[/color] Social
+&gt; **Telepathy (Day)**  - Anonymously send a single 1000 character message through the host to a player. - 2 uses
+**Link Minds (Day)**  - Select two players that will have a private night chat for this night. Can select yourself. You will be privy to the chat at the end of the night. Can be used alongside Telepathy. - Infinite Uses. [2 Uses]
+*Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=blue]The Noble[/color]
+&gt; [color=blue]Kingdom[/color] Social
+&gt; **Royal Blood (Passive)**  - Votes to become king count as two for you.
+&gt; **Court Spies (Day)**  - Select 2 players. Send a message saying “Noble’s Spies close in on you!” to any targeted members of the Unseen/Cult. Those targeted members will be removed from Unseen/Cult chat for the coming night and day. [2 Uses]
+&gt; **Gossip (Night)**  - Target a player and learn if any and which of these things happens to them tonight. [Infinite Uses]
+&gt;&gt; ***They were successfully Investigated.***
+&gt;&gt; ***They were successfully Occupied.***
+&gt;&gt; ***Their target was successfully Redirected.***
+&gt;
+&gt; **Bounty (Night)**  - If target player is executed tomorrow and is Blue Dragon then there will be an additional vote for execution. Only one Bounty may take effect per day. [2 Uses]
+*Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=blue]The Observer[/color]
+&gt; [color=blue]Kingdom[/color] Investigative
+**Little Bird (Day)**  - Send a bird to track if target player leaves their room that night or not. In addition, you will learn if any players visited target player or not. You will be told at the end of the night. [2 Uses]
+**Follow (Night)**  - Watch someone to see who visits them. [Infinite Uses]
+**Stalk (Night)**  - Track a player to determine who they visit. [Infinite Uses]
+*Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=blue]The Pathologist[/color] :fire: 
+&gt; [color=blue]Kingdom[/color] Investigative
+&gt; **Quarantine (Passive)** - You are immune to infection and bleeding.
+&gt; **Experimental Inoculation (Day)** - Make someone permanently immune to infection, bleeding and conversion. [1 Use]
+&gt; **Diagnose (Night)** - Determine if a player is a member of the Infected. [Infinite Uses]
+&gt; **Experimental Cure (Night)** - Cure a player of infection. This will kill them if they are a member of the Infection. [3 Uses]
+*Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=blue]The Patron[/color]
+&gt; [color=blue]Kingdom[/color] Support
+**Royal Blood (Passive)** - You can step up to become the new Regent earlier than other players.
+**Emergency Funds (Day)** - Target a player, if they have a limited use ability that has 0 uses, silently give them another use. Does not work on the king, or any class which has lost its ability due to killing a member of the Kingdom [1 Use]
+**Patronage (Night)** - Target a player, if they use a limited-usage ability tonight, then they will not consume a use of it. [Infinite Uses]
+**Support (Night)** - Target a player, if they use their main ability, they cannot be occupied or redirected. [3 Uses]
+*Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=blue]The Physician[/color]
+&gt; [color=blue]Kingdom[/color] Support
+&gt; **Remedy Studies (Passive)** - You are immune to infection and bleeding.
+&gt; **Inoculate (Day)** - Make someone permanently immune to infection and bleeding. [1 Use]
+&gt; **Exhume (Day)** - Determine how a player died, you will receive the results at the end of the day. [2 Uses]
+&gt; **Heal (Night)** - Heal a player, preventing their death and curing infection and bleed. [Infinite Uses]
+&gt; **Self-Heal (Night)** - Heal yourself tonight, preventing your death. [2 Uses]
+*Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=blue]The Priest[/color] :shield: 
+&gt; [color=blue]Kingdom[/color] Support
+&gt; **Devoted (Passive)** - You are immune to death, once.
+&gt; **Call The Dead (Passive)** - You can talk to the dead at night.
+&gt; **Bind Soul (Day)** - Give someone one-shot death immunity, this lasts until you die. [1 Use]
+&gt; **Revive (Night)** - The target dead Kingdom player will be brought back to life. You are immune to occupation and redirection while using this. [1 Use]
+**Last Rites (Night)**  - Use target dead Blue Dragon Non-Killer’s infinite use ability on an alive player. You will only be seen visiting the alive one. You may not use the same corpse more than once. [Infinite Uses]
+*Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=blue]The Prince[/color] :shield: :crossed_swords: :fire: 
+&gt; [color=blue]Kingdom[/color] Killer
+&gt; **Unstoppable (Passive)** - You cannot be occupied at night, even by means that bypass occupy immunity. You are also immune to target changing.
+&gt; **Royal Blood (Passive)** - You can step up to become the new Regent earlier than other players.
+&gt; **Imprison (Day)** - Choose a player to jail at night occupying the target (Bypasses occupy immunity) and preventing visits to them. You both will be able to send each other two 1000 character messages through the host. [Infinite Uses]
+&gt; **Execute (Night)** - Kill the player you have jailed (Bypasses night immunity). If the executed is a member of the Blue Dragon, you will not be able to execute for the rest of the game. [3 Uses]
+**Mercy (Night)** - Heal the player you have jailed. [2 Uses]
+*Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=blue]The Princess[/color]
+&gt; [color=blue]Kingdom[/color] Investigative
+&gt; **Royal Blood (Passive)** - You can step up to become the new Regent earlier than other players.
+&gt; **Wink (Day)** - Found out whether your target has a passive ability. [2 Uses]
+&gt; **Flirt (Night)**  - Flirt with a player, you get a pairing of class types. Their class type will be one of the two. The pairings are Killer/Offensive, Support/Social and Special/Investigative. [Infinite Uses]
+**Will-o-Wisp (Night)**  - Release a Will O’ Wisp, lighting your target’s room. You will learn their faction. [2 Uses]
+*Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=blue]The Socialite[/color]
+&gt; [color=blue]Kingdom[/color] Investigative
+**Royal Blood (Passive)** - You can step up to become the new Regent earlier than other players.
+**Guest List (Day)** - At the end of tonight, you will know how many players of each faction visited you. [2 Uses]
+**Social Links (Night)** - Target two players, you will receive a positive result providing both targets&amp;rsquo; class types match. Special classes count as Investigative. [Infinite Uses]
+**Faction Links (Night)** - Target two players, you will receive a positive result providing both targets&amp;rsquo; alignments match. Will always return a negative result if used on the Prince, or any classes with prestige. [1 Use]
+*Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=blue]The Squire[/color]
+&gt; [color=blue]Kingdom[/color] Support
+**Train (Night)** - Become the non-unique class of a target deceased Kingdom player. [Infinite Uses]
+*Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=blue]The Tactician[/color]
+&gt; [color=blue]Kingdom[/color] Support
+&gt; **Retreat! (Day)** - Prevent all day abilities from working on your target today. [2 Uses]
+&gt; **Forward! (Night)** - Guarantee your target will visit their target tonight. [Infinite Uses]
+&gt; **Assistance (Night)** - Allow your target to use their ability on two players tomorrow night. They will be informed on the night they can target an extra player. [3 Uses]
+*Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt;Credit to NAOtheRitualist
+
+&gt; # [color=blue] The Tailor [/color]
+&gt; [color=blue]Kingdom[/color] Support
+**Suit Making (Day)** - Give your target the royal blood passive. [1 Use]
+**Cloak of Reality (Night)** - Visitors to your target will receive accurate feedback from their abilities. [Infinite Uses]
+**Cloak of Vitality (Night)**  - Everyone who visits your target will be healed tonight. [3 Uses]
+*Defeat the Infected, and any Neutrals who seek to do you harm.*
+
+&gt;Credit to [BlueSt0rm22](https://forum.imperium42.com/u/BlueSt0rm22)
+[/details]
+
+[details=&quot;Infected Classes&quot;]
+&gt; # [color=purple]The Infected Actuary[/color]
+&gt; [color=purple]Infected[/color] Investigative
+**Spread (Day)** - Infect a player with a stronger strain of the Gor Serum, killing them in two nights time. [1 Use]
+**Unwavering Focus (Day)** - At the beginning of the night, you will be told how many day abilities were used today, and who used them. [2 Uses]
+**Inventory (Night)** - Target a player, you will be informed of the total number of uses they have for both their night abilities combined. Abilities with unlimited usage will count as zero. [Infinite Uses]
+**Robbery (Night)** - Steal a use of a player&amp;rsquo;s limited abilities. They will not be informed. If they try to use an ability that has been stolen, they will be told they were occupied if they are an investigative class. [3 Uses]
+*Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=purple]The Infected Alchemist[/color]
+&gt; [color=purple]Infected[/color] Special
+&gt; **Coagulate (Passive)** - Immune to infection and bleeding. You can use both day abilities on the same day.
+&gt; **Spread (Day)** - Infect a player with a stronger strain of the Gor Serum, killing them in two nights time. [1 Use]
+&gt; **Brew Potion (Day)** - Brew a potion, each potion must be brewed once before you can brew the others again. [Infinite Uses]
+&gt; **Apply Potion (Night)** - Use the potion you have brewed. You may save it if you wish. [Infinite Uses]
+&gt; **Potions:**
+&gt;* Truth Potion: Discover a player&amp;rsquo;s class, if they are a member of the Kingdom.
+&gt;* Tar Potion: Occupy a player, you will be occupy and redirection immune while using this.
+&gt;* Health Potion: Heal a player, preventing their death tonight and curing bleed and infection.
+&gt;* Infection Potion: Cause a player to be infected with the Gor Serum sometime tommorrow, causing them to die in 2 nights unless healed.
+&gt;
+&gt; *Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=purple]The Infected Apprentice[/color]
+&gt; [color=purple]Infected[/color] Investigative
+**Spread (Day)** - Infect a player with a stronger strain of the Gor Serum, killing them in two nights time. [1 Use]
+**Magic Immunity (Day) - Target a player, they will receive immunity to occupation and redirection until you die. [1 Use]
+**Infected Probe (Night)** - Target a player, you will determine what kind of passive they have. Possible results are royal blood, occupation immunity, infection immunity. You will receive one piece of feedback per check. [Infinite Uses]
+**Infection Powder (Night)** - Target a player, you will remove any passive ability they have for the next day and night. Does not work on Lycanthropy or Phylactery. They will not be informed. [Infinite Uses]
+*Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=purple]The Infected Archer[/color]
+&gt; [color=purple]Infected[/color] Killer
+&gt; **Spread (Day)** - Infect a player with a stronger strain of the Gor Serum, killing them in two nights time. [1 Use]
+&gt; **Volley (Day)**  - If you shoot a bolt at one of your marks tonight, also attack any other players with a mark. You are immune to redirection this night. [Shared Uses with Infectious Influence]
+**Raven Shot (Night)**  - Shoot a bolt to kill your target. This does not count as a visit. If the Assassin attempts to carry out a kill, you will instead shoot their target for them. [Infinite Uses]
+**Pin Down (Night)**  - Place a mark on target player. A marked player is no longer death immune, nor able to be made death immune, nor can they be healed. You may have up to three marks. Targeting a marked player with this ability will remove the mark. Targeting yourself will remove all marks. Marks disappear on death or class change. [Infinite Uses]
+*Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=purple]The Infected Armourer[/color]
+&gt; [color=purple]Infected[/color] Support
+**Spread (Day)** - Infect a player with a stronger strain of the Gor Serum, killing them in two nights time. [1 Use]
+**Old Armour (Day)** - Find a piece of old armour you made previously. You will be immune to death tonight. [1 Use]
+**Infected Armour (Night)** - Target a member of the Infected, they will be night immune tonight. [Infinite Uses]
+**Sabotage (Night)** - All previous pieces of armour you gave while not a member of the infected will become useless. They will all be occupied. [1 Use]
+*Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=purple]The Infected Bard[/color]
+&gt; [color=purple]Infected[/color] Offensive
+**Spread (Day)** - Infect a player with a stronger strain of the Gor Serum, killing them in two nights time. [1 Use]
+**Pure Wits (Day)** - You will be immune to occupation and target changing tonight. [3 Uses]
+**Infectious Tune (Night)** - Target a player, if they are redirecting, occupying, or attacking, they will bypass immunities tonight. Can only target Patient Zero once. [Infinite Uses]
+**Catchy Tune (Night)** - Target a member of the Infected, you will redirect all visitors to them to yourself and appear &amp;lsquo;Not Suspicious&amp;rsquo; to investigators. [2 Uses]
+*Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=purple]The Infected Butler[/color]
+&gt;[color=purple]Infected[/color] Offensive
+&gt;**Dutiful (Passive)** - Immune to occupation and redirection.
+**Spread (Day)**- Infect a player with a stronger strain of the Gor Serum, killing them in two nights time. [1 Use]
+**Serve Wine (Night)** - Occupy a player, preventing their night action. [Infinite Uses]
+**Infected Wine (Night)** - Occupy everyone who visits you tonight, while also causing them to be infected sometime tomorrow. [2 Uses, Bypasses Occupy Immunity]
+*Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=purple]The Infected Chronomancer[/color]
+&gt; [color=purple]Infected[/color] Support
+&gt; **Rewind (Passive)** - If Patient Zero has already used Infectious Influence and you become Patient Zero, you will regain the use of Infectious Influence. 
+&gt; **Spread (Day)** - Infect a player with a stronger strain of the Gor Serum, killing them in two nights time. [1 Use]
+&gt; **Dark Dimension (Day)** - All of your fellow Infected will appear as &amp;lsquo;Not Suspicious&amp;rsquo; to investigatives tonight. Patient Zero will appear as a Support Class. [2 Uses]
+**Time Warp (Night)** - Cause all effects on a player to be delayed by 2 days. This includes death, occupation, infection, bleed and redirection. All investigative abilities on your target will return results 2 days late. [Infinite Uses, Can Target Self]
+**Time Snatch (Night)** - Everything that happens to your target tonight will also happen to them tomorrow night, independent of any abilities. If your target is bleeding/infected, it will instead only take 1 night to kill them instead of 2. [3 Uses]
+*Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=purple]The Infected Coroner[/color]
+&gt; [color=purple]Infected[/color] Social
+**Spread (Day)** - Infect a player with a stronger strain of the Gor Serum, killing them in two nights time. [1 Use]
+**Grave Focus (Day)** - In addition to the results from Exhume, you will also learn the class of your target&amp;rsquo;s killer. [2 Uses]
+**Exhume (Night)** - Target a deceased player, you will learn of all effects the target received the night they died and who they visited. [Infinite Uses]
+**Tampering (Night)** - If target player dies tonight, their logs will be replaced with logs of your choice. If no logs are specified, the flip will be logless. The player&amp;rsquo;s real logs will be revealed to the infected. [3 Uses]
+*Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=purple]The Infected Court Wizard[/color]
+&gt; [color=purple]Infected[/color] Offensive
+&gt; **Spread (Day)** - Infect a player with a stronger strain of the Gor Serum, killing them in two nights time. [1 Use]
+**Dark Rune (Day)** - Choose a player. If that player uses an ability today they will target themselves with it. [2 Uses]
+**Shock (Night)** - The target player will target themselves with their ability tonight. [Infinite Uses]
+**Wall of Fire (Night)** - Prevent all visits except that of Patient Zero from affecting your target. [2 Uses]
+*Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=purple]The Infected Crusader[/color]
+&gt; [color=purple]Infected[/color] Killer
+**Spread (Day)** - Infect a player with a stronger strain of the Gor Serum, killing them in two nights time. [1 Use]
+**Infectious Barrier (Day)** - All who visit you tonight will be infected sometime tomorrow. [1 Use]
+**Ungodly Guardian (Night)** - Target a member of the Infected. The first visitor to your target will be infected sometime tomorrow. This does not stop their actions. [Infinite Uses]
+**Hungry Leap (Night)** - Target two players, they will be infected sometime tomorrow. After using this, all of your abilities will be disabled. [1 Use]
+*Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=purple]The Infected Diplomat[/color]
+&gt; [color=purple]Infected[/color] Social
+**Royal Blood (Passive)** - You can step up to become the new Regent earlier than other players.
+**Spread (Day)** - Infect a player with a stronger strain of the Gor Serum, killing them in two nights time. [1 Use]
+**Infected Network (Day)** - You will receive the names of people to use day abilities today. [1 Use]
+**Infectious Intrigue (Night)** - Recieve the feedback of all abilities used on your target, even if the user did not recieve the feedback themselves. Your target will appear as Patient Zero to investigators. [Infinite Uses]
+**Whispers (Night)** - Allow a player to send you a message tonight. You will be anonymous. [2 Uses]
+*Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=purple]The Infected Duelist[/color]
+&gt; [color=purple]Infected[/color] Killer
+**Royal Blood (Passive)** - You can step up to become the new Regent earlier than other players.
+**Spread (Day)** - Infect a player with a stronger strain of the Gor Serum, killing them in two nights time. [1 Use]
+**Gerissen (Passive)** - If you become the King, then your guards will also have the additional effect of having faction checks automatically return &amp;lsquo;Not Suspicious&amp;rsquo; on their target.
+**Vom Tach (Night)** - Deflects any incoming attack against all members of the Infected and kills the attacker. Cannot kill Night Immune targets. [3 Uses]
+**Missgunst (Night)** - Removes Royal Blood from a target for the remainder of the game. [1 Use]
+*Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=purple]The Infected Drunk[/color]
+&gt; [color=purple]Infected[/color] Offensive
+&gt; **Royal Blood (Passive)** - You can step up to become the new Regent earlier than other players.
+&gt; **I am the Liquor (Passive)** - Immune to occupation and target changing.
+&gt; **Spread (Day)** - Infect a player with a stronger strain of the Gor Serum, killing them in two nights time. [1 Use]
+&gt; **Beer! (Day)** - Target a player, they will be prevented from using their day ability. They will not be informed. [2 Uses]
+**Debauchery (Night)** - Get in a player&amp;rsquo;s way, causing them to target you. You are immune to all attacks and conversions redirected to you. [Infinite Uses]
+**Happy Hour (Night)** - Occupy a player, and disable any death or occupy immunity they have for the night. [2 Uses]
+*Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=purple]The Infected Eccentric[/color]
+&gt; [color=purple]Infected[/color] Support
+**Royal Blood (Passive)** - You can step up to become the new Regent earlier than other players.
+**Spread (Day)** - Infect a player with a stronger strain of the Gor Serum, killing them in two nights time. [1 Use]
+**Infection Field (Day)** - You deploy a Infection Field around yourself, giving you night immunity tonight. [1 Use]
+**Infection Golem (Night)** - Target a member of the Infected, you will send an Infection Golem to guard them, giving them night immunity. This is disabled the night on which you deploy an M/S Field. [Infinite Uses]
+**Infection Mirror (Night)** - Target a member of the infected, you will place a Infection Mirror at their door, causing any player visiting them to visit themselves. This also bypasses redirection immunity. [2 Uses]
+*Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=purple]The Infected Elementalist[/color]
+&gt; [color=purple]Infected[/color] Offensive
+**Book of Infection (Passive)** - You are immune to occupation and redirection.
+**Spread (Day)** - Infect a player with a stronger strain of the Gor Serum, killing them in two nights time. [1 Use]
+**Infectious Pull (Night)** - Target a player. All players targeting your target will target you instead and be infected sometime tomorrow. If you use this ability you will appear &amp;lsquo;Not Suspicious&amp;rsquo; to investigators. [Infinite Uses]
+**Pathogenic Burst (Night)** - All players targeting you will target themselves. [2 Uses]
+*Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=purple]The Infected Governor[/color]
+&gt; [color=purple]Infected[/color] Investigative
+**Kingmaker (Passive)** - Your vote for the next Regent counts as three votes.
+**Connection (Passive)** - If you or a fellow member of the Infected step up to be king, they will be able to communicate in the Infected Chat as normal.
+**Spread (Day)** - Infect a player with a stronger strain of the Gor Serum, killing them in two nights time. [1 Use]
+**Trace Lineage (Night)** - Target a player, you will find out whether they have royal blood or not. If they do you will learn their exact class. [Infinite Uses]
+**Erase Records (Night)** - Remove a player&amp;rsquo;s royal blood passive. [1 Use]
+*Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=purple]The Infected Hunter[/color] :shield: 
+&gt; [color=purple]Infected[/color] Killer
+**Isolation (Passive)** - Immune to occupation and redirection.
+**Spread (Day)** - Infect a player with a stronger strain of the Gor Serum, killing them in two nights time. [1 Use]
+**Call of the Infection (Day)** - Lure wolves to attack your target, causing them to bleed. They will die in two nights time. [1 Use]
+**Spike Traps (Night)** - Place a spike trap outside a player&amp;rsquo;s room. No one will be able to visit the player, and they will be occupied. [4 Uses]
+**Infected Bear (Night)** - Prevent all visits to yourself tonight, all visitors will be infected sometime tomorrow. [2 Uses]
+*Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=purple]The Infected Knight[/color]
+&gt; [color=purple]Infected[/color] Offensive
+**Spread (Day)** - Infect a player with a stronger strain of the Gor Serum, killing them in two nights time. [1 Use]
+**Frenzy (Night)** - Guarantee Patient Zero&amp;rsquo;s kill tonight. Bypasses any mechanism of stopping Patient Zero from attacking. [1 Use]
+**Body Shield (Night)** - Prevent visits to target member of the Infected, if they would be attacked, you will sacrifice yourself to kill their attacker and lower the number of trials tomorrow by one. [3 Uses]
+*Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=purple]The Infected Librarian[/color]
+&gt; [color=purple]Infected[/color] Social
+**Prestige (Passive)** - Only one class with Prestige can spawn the entire game.
+**Concealed Access (Passive)**  - All copies of the logs in the network are available in the Unseen chat. You may use both day abilities in the same day.
+**Spread (Day)** - Infect a player with a stronger strain of the Gor Serum, killing them in two nights time. [1 Use]
+**Archive (Day)** - Target two players, you will invite them to the log network. The player must accept before joining and can choose to leave at anytime. [Infinite Uses]
+**Revoke (Night)** - Removes a player from the log network. [Infinite Uses]
+**Information Subterfuge** - Cause everyone in your log network to receive incorrect feedback tonight. [1 Use]
+*Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=purple]The Infected Magician[/color]
+&gt; [color=purple]Infected[/color] Offensive
+**Focused (Passive)** - Immune to occupation and redirection.
+**Spread (Day)** - Infect a player with a stronger strain of the Gor Serum, killing them in two nights time. [1 Use]
+**Infection Barrier (Day)** - Your target player will have all visits prevented on them tonight. [1 Uses, Can Target Self]
+**Mind Cloud Trick (Night)** - Force two players to target each other. [Infinite Uses]
+**Toxic Tornado (Night)** - Swap the postion of two players, causing all players who target your first target to target the second and vice versa. [Infinite Uses]
+*Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=purple]The Infected Maid[/color]
+&gt; [color=purple]Infected[/color] Investigative
+**Spread (Day)** - Infect a player with a stronger strain of the Gor Serum, killing them in two nights time. [1 Use]
+**Poke Around (Day)** - Look in someone&amp;rsquo;s chambers to determine their class type. [1 Use]
+**Matchmake (Night)** - Check 2 players to see if they&amp;rsquo;re the same class type. If they are the same class type, you will be told which class type they are. [Infinite Uses]
+**Room Service (Night)** - Occupy a player. [2 Uses]
+*Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=purple]The Infected Mystic[/color] :shield: 
+&gt; [color=purple]Infected[/color] Social
+**Spread (Day)** - Infect a player with a stronger strain of the Gor Serum, killing them in two nights time. [1 Use]
+**Telepathy (Day)** - Anonymously send a single 1000 character message through the host to a player. [2 Uses]
+**Hive Mind (Day)** - Select two players that will have a private night chat for this night. Can select yourself. You will be privy to the chat at the end of the night. Can be used alongside Telepathy. [Infinite Uses]
+**Brain Infection (Night)** - Infect a target with a specialised version of the Gor Serum. Your target will receive incorrect results from investigations tonight, and will appear to be the Assassin to any investigations on them. [Infinite Uses]
+*Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=purple]The Infected Noble[/color]
+&gt; [color=purple]Infected[/color] Social
+**Royal Blood (Passive)** - You can step up to become the new Regent earlier than other players.
+**Spread (Day)** - Infect a player with a stronger strain of the Gor Serum, killing them in two nights time. [1 Use]
+**Pull Rank (Day)** - Your vote will count as two today. This will not be announced publicly or affect the number of votes required to reach majority. [3 Uses]
+**Order (Night)** - Negate the votes of a target player the next day. They can&amp;rsquo;t accuse anyone or vote tomorrow. The target still counts towards the voting majority. [Infinite Uses]
+**Incriminate (Night)** - Slip a player forged documents, making them appear evil to investigations tonight. [Infinite Uses]
+*Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=purple]The Infected Observer[/color]
+&gt; [color=purple]Infected[/color] Investigative
+**Spread (Day)** - Infect a player with a stronger strain of the Gor Serum, killing them in two nights time. [1 Use]
+**Diseased Bird (Day)** - You will be told the name of the next player to use a day ability. [Infinite Uses]
+**Follow (Night)** - Watch someone to see who visits them and who they visit. [Infinite Uses]
+**Watch Carefully (Night)** - Watch someone to learn their class. [2 Uses]
+*Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=purple]The Infected Pathologist[/color]
+&gt; [color=purple]Infected[/color] Investigative
+**Quarantine (Passive)** - You are immune to infection and bleeding.
+**Once Respected (Passive)** - You will remain as not suspicious to investigators for one night after your conversion.
+**Spread (Day)** - Infect a player with a stronger strain of the Gor Serum, killing them in two nights time. [1 Use]
+**Experimental Investigation (Night)** - If target player is a member of the kingdom, find their exact class. [Infinite Uses]
+**Experimental Serum (Night)** - Cure a player of infection. If you target a member of the Infected, they will appear as not suspicious to investigations and be guaranteed to visit their target tonight. [3 Uses, Cannot Target Patient Zero]
+*Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=purple]The Infected Patron[/color]
+&gt; [color=purple]Infected[/color] Support
+**Royal Blood (Passive)** - You can step up to become the new Regent earlier than other players.
+**Spread (Day)** - Infect a player with a stronger strain of the Gor Serum, killing them in two nights time. [1 Use]
+**Emergency Funds (Day)** - Target a player, if they have a limited use ability that has 0 uses, silently give them another use. Does not work on the king, or any class which has lost its ability due to killing a member of the Kingdom. [1 Use, Cannot Target Patient Zero]
+**Patronage (Night)** - Target a player, if they use a limited-usage ability tonight, then they will not consume a use of it. [Infinite Uses, Cannot Target Patient Zero]
+**Strength of the Infection (Night)** - Target Patient Zero, they will recieve one extra use of Infectious Influence. [1 Use]
+*Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=purple]Patient Zero[/color] :shield: :fire: 
+&gt; [color=purple]Infected[/color] Killer
+**Uncurable (Passive)** - You cannot be killed by the Pathogist&amp;rsquo;s cure.
+**Ascension (Passive)** - If you die, you will be replaced by another member of the Infection. If the Plaguebearer dies before D4, you will become the plaguebearer. The original Plaguebearer will be replaced regardless of the Day.
+**Spread (Day)** - Infect a player with a stronger strain of the Gor Serum, killing them in two nights time. [1 Use]
+**Lethal Dosage (Night)** - Kill a player. [Infinite Uses]
+**Infectious Influence (Night)** - Target two players, they will die in one night&amp;rsquo;s time. [1 Use, Targets Will Not be Notified]
+*Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=purple]The Infected Physician[/color]
+&gt; [color=purple]Infected[/color] Support
+**Remedy Studies (Passive)** - You are immune to infection and bleeding.
+**Spread (Day)** - Infect a player with a stronger strain of the Gor Serum, killing them in two nights time. [1 Use]
+**Exhume (Day)** - Find the cause of death of a player. [3 Uses]
+**Infectious Remedy (Night)** - Heal one of your fellow infected, preventing their death tonight. They will appear &#39;Not Suspicious&#39; to investigators.  [3 Uses]
+**Defile (Night)** - If targeted player dies tonight, they will appear as a class of your choice. [2 Uses]
+*Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=purple]The Plaguebearer[/color] :shield: :fire: 
+&gt; [color=purple]Infected[/color] Special
+**There Can Only Be One (Passive)** - If checked by a Pathologist, you will appear as not suspicious. You have the final say on all abilities used by your teammates. As long as you are alive, all feedback from Infected abilities will be posted in the Infected chat.
+**Vaccination (Passive)** -You are immune to infection and bleeding, and are immune to death at night. You are also immune to occupation and redirection.
+**Biological Insight (Day** - At the end of the day, if your target is Kingdom, you will learn their class type. [3 Uses]
+**Pathogen (Day)** - Infect a player with a more virulent strain of the Gor Serum, causing them to die in 2 nights time. On the night they die, you will be able to control who they target. [Infinite Uses]
+**Infect (Night)** - Infect a player with the Gor Serum, converting them into the Infected. [Infinite Uses, 1 Night Cooldown]
+**Cauterize (Night)** - Heal a player, preventing their death, curing infection and bleed, and occupying them for the night. [3 Uses]
+*Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=purple]The Infected Priest[/color] :shield: 
+&gt; [color=purple]Infected[/color] Support
+&gt;**Zombie Army (Passive)** - If one of the members of the infected were to die, your zombie will die instead.
+**Call the Dead (Passive)** - You can talk to the dead at night. Dead members of the Infected may talk in the Infected Chat.
+**Spread (Day)** - Infect a player with a stronger strain of the Gor Serum, killing them in two nights time. [1 Use]
+**Zombify (Night)** - Revive a dead player, converting them into their Infected equivalent class. They will have one use of Spread, and will not be able to use any other abilities. [1 Use]
+**Cloud Mind (Night)** - Targeted Infection member will appear &amp;lsquo;Not Suspicious&amp;rsquo; to investigators. Patient Zero will appear as a Support Class. [2 Uses]
+*Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=purple]The Infected Princess[/color]
+&gt; [color=purple]Infected[/color] Investigative
+**Royal Blood (Passive)** - You can step up to become the new Regent earlier than other players.
+**Spread (Day)** - Infect a player with a stronger strain of the Gor Serum, killing them in two nights time. [1 Use]
+**Wink (Day)** - Found out whether your target has a passive ability. [2 Uses]
+**Bat Eyelashes (Night)** - Learn a player&amp;rsquo;s class type. [Infinite Uses]
+**Infectious Wisp (Night)** - Release an air-bourne version of the Gor Virus, clouding the minds of investigators who visit the Infected. All members of the Infected will appear as &amp;lsquo;Not Suspicious.&amp;rsquo; Patient Zero will appear as a support class. [2 Uses]
+*Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=purple]The Infected Regent[/color] :shield: 
+&gt; [color=purple]Infected[/color] Special
+**Pass The Torch (Passive)** - If you die, there will be a vote held to crown the next King.
+**Infectious Influence (Passive)** - Your vote counts as two. You will be notified when there is a successful convert.
+**Royal Pardon (Day)** - Make a player unable to be voted today. [2 Uses]
+**Decide Fate (Day)** - You may choose the whether the player on trial will be executed or pardoned. [1 Use]
+**Guard! (Night)** - Choose a player. They will be immune to death tonight. [3 Uses]
+**Ignorance (Night)** - Make the target player look not suspicious to The Pathologist this night when investigated. [Infinite Uses]
+*Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=purple]The Infected Socialite[/color]
+&gt; [color=purple]Infected[/color] Investigative
+**Royal Blood (Passive)** - You can step up to become the new Regent earlier than other players.
+**Spread (Day)** - Infect a player with a stronger strain of the Gor Serum, killing them in two nights time. [1 Use]
+**Awareness (Day)** - At the end of the night, you will receive the names of all those who visit you tonight. [2 Uses]
+**Social Links (Night)** - Target two players, you will receive a positive result providing both targets&amp;rsquo; class types match. Special classes count as Investigative. [Infinite Uses]
+**Conversation (Night)** - Determine a player&amp;rsquo;s class type. [2 Uses]
+*Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=purple]The Infected Squire[/color]
+&gt; [color=purple]Infected[/color] Support
+&gt; **Spread (Day)** - Infect a player with a stronger strain of the Gor Serum, killing them in two nights time. [1 Use]
+**Train (Night)** - Become the non-unique Infected equivalent of a class of a deceased player, if they have one. [Infinite Uses]
+*Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=purple]The Infected Tactician[/color]
+&gt; [color=purple]Infected[/color] Support
+**Spread (Day)** - Infect a player with a stronger strain of the Gor Serum, killing them in two nights time. [1 Use]
+**Pathogenic Encystment (Day)** - Prevent all day abilities from working on Infected Members today. [2 Uses]
+**Pathogenic Evolution (Night)** - Target a player, they will be able to use their night ability twice tomorrow night. If you target a member of the Infected, they will have their use of Spread replenished. [Infinite Uses, Cannot Target the Plaguebearer]
+**Pathogenic Strength (Night)** - Target a member of the Infected, they will be guaranteed to visit their target tonight. [2 Uses]
+*Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+&gt; # [color=purple]The Infected Tailor[/color]
+&gt; [color=purple]Infected[/color] Support
+**Spread (Day)** - Infect a player with a more virulent of the Gor Serum, killing them in two nights time. [1 Use]
+**Disguise (Day)** - Give your target the royal blood passive. [1 Uses]
+**Cloak of Deception (Night)** - All players targeting your target will receive incorrect feedback from their abilities. [Infinite Uses]
+**Cloak of Disease (Night)** - All players visiting your target will be infected sometime tomorrow. [1 Use]
+*Defeat the Kingdom, and any Neutrals who seek to do you harm.*
+
+[/details]
+
+[details=&quot;Neutral Classes&quot;]
+&gt; # [color=grey]The Afflicted[/color]
+&gt; [color=grey]Neutral[/color] Special
+**Not Important (Passive)** - You can remember any dead non-unique Kingdom class, or any Infected Class. If you remember a promotable Infected class, the person in that role will return to their pre-promoted class.
+**Medicine (Passive)** - By day three, the medicine you have been taking will will restore your memory. You will remember your class then. You are also night immune until night 3.
+**Miraculous Cure (Night)** - The medicine has worked earlier than expected, your memory is restored and therefore, you remember your class. [1 Use]
+*Goal: Remember a dead class and win as that class.*
+
+&gt; # [color=white]The Child[/color] :crossed_swords: 
+&gt; [color=grey]Neutral[/color] Special
+**Innocent (Passive)** - You are night immune, this does not count if you die due to Accompany.
+**Trusting (Passive)** - You must accompany a player every night, otherwise you will get lost and suffer a terrible fate.
+**Hide (Day)** - Prevent all visits to yourself tonight. [1 Use]
+**Accompany (Night)** - Hang out with an adult tonight, sharing their fate. [Infinite Uses, Can NOT target The King]
+*Goal: Survive*
+
+&gt; # [color=silver]The Cleric[/color]
+&gt; [color=grey]Neutral[/color] Support
+**Sanctuary (Passive)** - Any one visiting you will be healed.
+**Vulnerable (Passive)** - Any attacks against you are guaranteed to succeed.
+**Strengthen (Day)** - Any one visiting you tonight will also receive immunity to death tonight. [3 Uses]
+**Rejuvenate (Night)** - Any visitors tonight will also be guaranteed to visit their target tomorrow night as well as being healed. [3 Uses]
+**Sacrifice (Night)** - All visitors tonight will have visits to them prevented tonight. If any of them are visited by an attacker, the attacker will be redirected to you, bypassing immunity. [1 Use]
+*Goal: See the defeat of the Infected at any cost.*
+
+&gt; # [color=#CC0000]The Devil[/color] :shield:
+&gt; **[color=gray]Neutral Social[/color]**
+**Second Chance (Passive)** - Immune to death at night, once.
+**Informant (Day)** - You learn the faction of your target at the end of the day. - 1 use
+**Frame (Night)** - Make a target appear to be a member of the scum faction (**[color=purple]Unseen[/color]** or **[color=darkred]Cult[/color]**) to investigations tonight. - Infinite uses
+**Trickery (Night)** - If the target player is executed tomorrow, they will appear to be a chosen class. - 2 uses
+*Goal: See three Kingdom players executed, or survive to see the Kingdom defeated.*
+
+&gt; # [color=green]The Face-Changer[/color] :shield: :crossed_swords:
+&gt; [color=grey]Neutral[/color] Offensive
+**Cunning (Passive)** - You are immune to occupation and redirection.
+**Powerful (Passive)** - You are immune to death once.
+**Insight (Day)** - Gain a clue to your target&amp;rsquo;s class type. [4 Uses]
+**Steal (Night)** - Steal a players primary ability, occupying them tonight, and replacing this slot with their primary ability. If you use this on an alchemist, you will also gain their day ability. The ability you steal has one use, and once you use it, you will gain this ability back. [Infinite Uses]
+**Consume (Night)** - Permanently disable your target&amp;rsquo;s main ability, and replacing this slot with the ability you disabled.
+*Goal: See the defeat of the Kingdom at any cost.*
+
+&gt; # [color=hotpink]The Fool[/color] :crossed_swords: 
+&gt; [color=grey]Neutral[/color] Social
+**Mask of Many Faces (Passive)**  - If you are executed by the court, you may appear as a class of your choice. You must submit this class to the host before you are executed. You may choose the class at any time and change it at will.
+**Trickery (Passive)**  - Immune to being occupied at night. Additionally, the night after your execution, all players who voted to execute you will be redirected to themselves.
+**Hide (Day)**  - You will be immune to death tonight. [2 Uses]
+**Costume Examination (Day)**  - Learn the faction of the player you Masquerade as at the end of the night, if you use it. [3 Uses]
+**Masquerade (Night)**  - Appear as the class, faction and type of your target to investigations tonight. Abilities that change the apparent class of your target will not affect Masquerade. Additionally, if you die tonight you will also appear as the class. You will not know the class of your target. [Infinite Uses]
+*Goal: Be executed for treason.*
+
+&gt; # [color=magenta]The Lab Assistant[/color] :shield: 
+&gt;[color=grey]Neutral[/color] Offensive
+**Tenacity (Passive)** - You are immune to occupation and target changing.
+**Lost Assistant (Passive)** - If you are visited by or targeted for a kill or conversion by the Infected, you will join the Infected chat and not count towards the faction cap. Once this passive activates, you will no longer be a neutral class and instead gain the Infected win condition. You gain the Spread ability as well.
+**Sleeping Pills (Day)** - You will make the king believe they were poisoned by a butler. [1 Use, Cannot Be Used Before Day 4]
+**Stonewall (Night)** - Prevent all non-kill and non-convert visits to your target. [Infinite Uses]
+**Intimidate (Night)** - Occupy a player. [Infinite Uses]
+*Goal: Defeat the Kingdom at any cost.*
+
+&gt; # [color=#86a94a]The Mercenary[/color] :crossed_swords:
+&gt; [color=grey]Neutral[/color] Support
+**Looking for Work (Passive)** - If your original target dies, you have 3 days to find another or you will die.
+**Failure (Passive)** - If your original target and your new target die, you will commit suicide.
+**Offer Contract (Day)** - If your original target dies, you may form a contract with another player during the day. [3 Uses]
+**Stand Guard (Night)** - Protect your target from visits, and grant yourself immunity to death tonight. [4 Uses]
+**Rebound (Night)** - Kill a player who accused your target of treason earlier in the day. [1 Use]
+*Goal: Ensure that your target remains alive until the end of the game, your target is [x].*
+
+&gt; # [color=#bc00fa]The Pretender[/color]
+&gt; [color=grey]Neutral[/color] Investigative
+**Royal Blood (Passive)** - You can step up to become the new regent earlier than others.
+**No Allegiance (Passive)** - You are immune to death at night.
+**Ballot Mixing (Day)** - If the King uses Decide Fate today, you will swap the decision. [2 Uses]
+**Assassination (Day)** - Target a player, they will begin to bleed. If they have royal blood you will gain another use of **Kinslayer**. [3 Uses]
+**Family Matters (Night)** - Determine whether a player has royal blood. You will also receive a clue to their class type, the same as princess. [Infinite Uses]
+**Kinslayer (Night)** - If target player has royal blood you will attack them. You can also target the king with this. [2 Uses]
+*Goal: Make sure the game ends with no starting royals alive, other than yourself, or become the Regent and survive until the end of the game.*
+
+&gt; # [color=lightblue]The Puppet[/color]
+&gt; [color=grey]Neutral[/color] Special
+**Loyalty (Passive)** - You are immune to occupation and redirection. If the Puppet Master dies, you will die as well.
+**Master&amp;rsquo;s Command (Passive)** - You and your master will have a separate chat. If you or the Puppet Master dies, the chat will cease to exist.
+**Deadly Strings (Night)** - Attack a player. [Infinite Uses]
+**Master Above All (Night)** - Prevent all visits towards the Puppet Master. [3 Uses]
+&gt; *Goal: Ensure the Puppet Master wins the game.*
+
+&gt; # [color=red]The Scorned[/color] :shield: :crossed_swords:
+&gt; [color=grey]Neutral[/color] Social
+**Resolve (Passive)** - Immune to death at night, occupation and target changing.
+**Trollbox (Day)** - Anonymously send a single 1000 character message through the host to the court. [2 Uses]
+**Frame (Night)** - Frame one of your targets. They will appear as a member of the Infected to investigations tonight. [3 Uses]
+**Bait and Switch (Night)** - Swap a player with one of your targets, redirecting all actions on one to the other. [3 Uses]
+*Goal: See the public execution of one of your targets for treason. Your targets are [X] and [Y].*
+
+&gt; # [color=#bc00fa]The Usurper Regent[/color]
+&gt; [color=grey]Neutral[/color] Special
+**Pass The Torch (Passive)**  - If you die, there will be a vote held to crown the next Regent.
+**Head of State (Passive)**  - Your vote counts as two.
+**Royal Pardon (Day)**  - Make a player unable to be voted today. [2 Uses]
+**Decide Fate (Day)**  - You may choose the whether the player on trial will be executed or pardoned. [1 Use]
+**Guard? (Night)**  - Prevent all visits to you tonight. [1 Use]
+**Disinherit (Night)**  - Permanently remove a player’s royal blood. If this is successful, you will gain two uses of Guard?. [Infinite Uses]
+*Goal: Survive.*
+
+&gt; # [color=cyan]The Warlock[/color] :shield: :crossed_swords:
+&gt; [color=grey]Neutral[/color] Offensive
+**Bend Reality (Passive)** - As long as you remain alive, Blue Dragon classes that are passively immune to occupation are not.
+**Dark Magics (Passive)** - You appear as a member of the Infected to investigations. Also, you are immune to death once. This does not apply if attacked by a member of the Kingdom.
+**Detect Thoughts (Day)** - Cast a spell that reveals your target&amp;rsquo;s last night action to you. [4 Uses]
+**Carnage (Day)** - Cast a spell that causes all kills tonight to bypass all forms of protection or prevention. [1 Use]
+**Mind Control (Night)** - Cast a spell that forces your target to target somebody of your choosing. [3 Uses]
+**Seeming (Night)** - Make yourself and one other person of your choice appear as members of the Blue Dragon to investigations. [2 Uses]
+*Goal: Defeat the kingdom at any cost.*
+
+[/details]
+
+[details=&quot;Neutral Killer Classes&quot;]
+
+&gt; # [color=gold]The Archduke [/color] :shield: :crossed_swords:
+&gt;[color=grey]Neutral[/color] Killer
+**Megalomaniac (Passive)** - You have royal blood, meaning you can step up for regent earlier than others. Becomes the Tyrannous Regent instead of the Psychopathic Regent.
+**Paranoia (Passive)** - Grants the Archduke immunity against death at night, infection and bleeding. The first player to accuse the Archduke of treason during the day will have their class revealed to the Archduke during the night.
+**Tyrant&amp;rsquo;s Orders (Day)**- Negate the votes of a target player in the next day as long as the user has not been jailed or occupied. They can&amp;rsquo;t accuse anyone or vote tomorrow. The target still counts towards the voting majority. [Infinite Uses]
+**Pull Rank (Day)** - Your vote will count as two today. This will not be announced publicly or affect the number of votes required to reach majority. [3 Uses]
+**Political Murder (Night)** - Kills a player without counting as a visit. [Infinite Uses]
+**Coup d&amp;rsquo;Etat (Night)** - Kills the King while bypassing healing and immunity. Can only be used in the fifth night or later. [1 Use]
+*Goal: Destroy both the major factions and any neutrals who may stand in your way.*
+
+&gt; # [color=darkred]The Berserker[/color] :shield: :crossed_swords:
+&gt; [color=grey]Neutral[/color] Killer
+**Untamed (Passive)** - You are immune to occupation, target changing, and death at night, including against the Hunter&amp;rsquo;s Bear Companion and the Knight&amp;rsquo;s Defend, however, if these abilities are used upon who you are attacking, the player will survive. If you are jailed, bled, or attacked, you gain two charges of Rampage and empower Bloody Swings for the next night.
+**Unchained (Passive)** - If a player attempts and fails to occupy or redirect the Berserker, then he will gain a charge of Rampage.
+**Quarrelsome Banter (Day)** - Target a player, tonight your will redirect any night actions used by them to yourself. [3 Uses]
+**Wild Leeches (Day)** - If you are bleeding then you can transfer the condition to another player. [3 Uses]
+**Bloody Swings (Night)** - Kills a player. If Bloody Swings is empowered then it bypasses Night Immunity and healing. [Infinite Uses]
+**Rampage (Night)** - Kills the target. If another player visited the target and you have more than one charge, then Rampage will chain to the next player until a player has not been visited or you run out of Rampage charges. [0 Uses]
+*Goal: Destroy both the major factions and any neutrals who may stand in your way.*
+
+&gt; # [color=grey]The Doppelganger[/color] :shield: :crossed_swords:
+&gt; [color=grey]Neutral[/color] Killer
+**Sadism (Passive)** - You are immune to occupation, target changing, and have self-healing for the first two nights. You gain an additional two nights of self-healing for every Kingdom-aligned player executed during the day.
+**Sociopathy (Day)** - Adds two votes for execution during the first three days, and one for the remainder, during the trial phase. [Infinite Uses]
+**Scapegoat (Day)** - If the target player is voted to be executed in the day, including yourself, then they will swap their position with another chosen player. The King cannot be the target. [1 Use]
+**Impersonate (Night)** - Target two players, your will take the form of the first and kill the second. Any investigative results a player will have on you will instead reflect on the player you impersonated. If the impersonated target has Royal Blood, then you will also have Royal Blood for the next day. If you attack a player who is being followed, then the feedback will show the impersonated player being the visitor. The impersonated player will be framed for the night and Will o&amp;rsquo; Wisp will only show the target attacked if used on the impersonated player. [Infinite Uses]
+**Crushing Guilt (Night)** - If a Kingdom-aligned player was executed the previous day, then the Doppelgänger can select two players who&amp;rsquo;ve voted to execute and cause them to commit suicide by guilt, bypassing healing and night immunity. This does not count as a visit. [Infinite Uses]
+*Goal: Destroy both the major factions and any neutrals who may stand in your way.*
+
+&gt; # [color=brown]The Ifrit[/color] :shield: :crossed_swords:
+&gt; [color=grey]Neutral[/color] Killer
+**Djinn Form (Passive)** -You are immune to occupation, redirection, bleeding, infection, and death at night.
+**Burning Transformation (Day)** - Upon killing a target, you will cause them to flip a class of your choice. If you successfully kill a player tonight, you will be able to see their true class. [2 Uses]
+**Heat Wave (Day)** - Occupies all targets who try to visit you tonight. Bypasses immunity to occupation. [3 Uses]
+**Incinerate (Night)** - Kills a player by burning them alive. Players that have been incinerated will have their logs erased. Only you will see the player&amp;rsquo;s original logs. [Infinite Uses]
+**Fires of Jahannam (Night)** - Prevents all visits to the target player and attacks them, erasing their logs if they die. [3 Uses]
+*Goal: Destroy both the major factions and any neutrals who may stand in your way.*
+
+&gt; # [color = slateblue] The Lich [/color] :shield:
+&gt;**[color = gray] Neutral Killer [/color]**
+**Phylactery (Passive)** - At the beginning of the game, two players are randomly designated as the Lich’s Phylactery Holders. The Lich will know who they are, as well as their starting classes, and will be night immune while at least one of them lives. If both of them die, the Lich will die the following night. Investigations against the Phylactery Holders will also yield the additional message &quot;You feel a chill surrounding the target player. They are a Phylactery Holder for The Lich.&quot;
+**Undeath (Passive)** - As long as the Phylactery Holders are alive, at the start of every night the Lich will automatically revive themselves if they are dead, regardless of how they died.
+**Spectral Mist (Day)** - A target Phylactery Holder is healed tonight. - 3 uses
+**Black Fog (Day)** - Attempts to investigate either of the Phylactery Holders will fail tonight. - 3 uses
+**Finger of Decay (Night)** - Kill a player. If you were revived at the start of the night, then this attack bypasses night immunity and healing. - Infinite uses
+**Death&#39;s Curtains (Night)** - Kill one of your Phylactery holders (bypasses night immunity and healing), and two other targets. - Infinite uses, but only usable while you have two Phylactery Holders alive
+*Goal: Destroy both the major factions and any neutrals who may stand in your way. You do not need to kill your phylactery holders to win. They do not win with you.*
+
+&gt; # [color=orange]The Mind Flayer[/color] :shield: :crossed_swords:  
+&gt; [color=grey]Neutral[/color] Killer
+**Insanity (Passive)** - You are immune to death at night, occupation and redirection.
+**Mindstorm (Passive)** - Once per night you may guess a player&amp;rsquo;s class. If you are correct you will empower your attack via **Mind Read**. You will gain a one-night buff depending on who you kill with this passive. This passive will be disabled if you guess incorrectly twice. Cannot Target the King.
+**Insight (Day)** - Gain a clue to your target&amp;rsquo;s class type. You receive the same results as princess. [4 Uses]
+**Mind Read (Day)** - You will see who your target visits tonight. [4 Uses]
+**Brain Destruction (Night)** - Kill a player. You will be able to choose who they target tonight, bypassing redirection immunity. You may not redirect the King. [Infinite Uses]
+**Whispers of Insanity (Night)** - Cause a player to commit suicide, destroying their logs and allowing you to determine what they flip as the next day. You will receive their real class and their logs. [1 Use, Cannot Target the King]
+**Possible Buffs Gained:**
+&gt;&gt;* Killer: Gain an addition use of Whispers of Insanity.
+&gt;&gt;* Offensive: You will occupy everyone visiting you, bypassing occupy immunity.
+&gt;&gt;* Support: You will heal yourself tomorrow night, curing infection and bleed.
+&gt;&gt;* Social: You will be guaranteed to visit your target.
+&gt;&gt;* Investigative: All uses of Insight and Mind Read will be replenished. Your visits will be hidden from Investigators.
+&gt;&gt;* Special: You will appear as the class of your choice to investigators.
+&gt;
+&gt;*Goal: Destroy both the major factions and any neutrals who may stand in your way.*
+
+&gt;Credit for psychoneirik for the idea.
+
+&gt; # [color=lightgreen]The Occultist[/color] :shield: :crossed_swords:
+&gt; [color=grey]Neutral[/color] Killer
+**Corrupting Energy (Passive)** - Any player that visits you will be corrupted. For each player that is alive and corrupted, your Corruption Rating increases by 3% per night and caps at 100%. You will know your corruption rating at the start of each night your gains at the end of it. You start with 0%.
+**Shield of Corruption (Passive)** - You gain defensive bonuses depending on your Corruption Rating.
+&gt;&gt;* 5%+: The Occultist will be immune to death at night.
+&gt;&gt;* 15%+: The Occultist will be immune to occupation and target changing.
+&gt;&gt;* 25%+: The Occultist will be immune to Bleeding and Infection.
+&gt;&gt;* 65%+: The Occultist will automatically kill all incoming attackers.
+&gt;&gt;* 90%+: The Occultist will be immune to Frenzy and execution by the Prince and will instead kill the Prince when jailed.
+&gt;
+&gt;**Mental Corruption (Day)** - If the target uses an ability tonight, they will receive incorrect feedback. Only usable if your Corruption Rating is at 40% or higher. Able to use it against two players at once if your Corruption Rating is at 75% or higher. Gains an additional charge per 30% corruption. [1 Use]
+&gt;**Dreadful Omen (Day)** - Prevents any voting from happening during the day. Can only be used when the Occultist&amp;rsquo;s Corruption Rating is at 90% or higher. [1 Use]
+&gt;**Burst of Corruption (Night)** - Only usable if your Corruption Rating is at 5% rating or higher. Kill a player. Gains the following bonuses depending on the your Corruption Rating. [Infinite Uses]
+&gt;&gt;* 20%+: The first attack does not count as a visit.
+&gt;&gt;* 35%+: The first attack bypasses night immunity and healing.
+&gt;&gt;* 55%+: The Occultist is able to select a second target.
+&gt;&gt;* 65%+: The second attack does not count as a visit.
+&gt;&gt;* 70%+: The second attack bypasses night immunity and healing.
+&gt;&gt;* 75%+: The first attack kills all players who visits the first target.
+&gt;&gt;* 85%+: The second attack kills all players who visit the second target.
+&gt;
+&gt;**Beacon of Corruption (Night)** - Target a player. Increases your Corruption Rating by 5% and causes Corrupting Energy to trigger against anyone visiting the your target along with the target themselves. Allows selecting two targets if your Corruption Rating is at 50% or higher. [Infinite Uses]
+&gt;*Goal: Destroy both the major factions and any neutrals who may stand in your way.*
+
+&gt; # [color=darkpink]The Possessor[/color] :shield: :crossed_swords: 
+&gt; **[color=grey]Neutral[/color] Killer**
+**Driven (Passive)**  - You are immune to occupation and target changing.
+**Blackened Shield (Passive)**  - You are immune to death at night.
+**Possessive Influence (Day)** - Your vote will count as two today. [3 Uses]
+**Puppet Strings (Night)**  - Control a player and force them to kill someone. They will not be notified that they were controlled, unless you caused them to target themself.
+**Possess (Night)**  - Kill the target player. Their class will appear as one of your choice, and they will have information in their logbook of your choosing (or no logbook if nothing is specified). You will know what class they truly were, and what their logbook said. - 3 uses
+&gt; *Goal: Destroy both the major factions and any neutrals who may stand in your way.*
+
+&gt; # [color=lightblue]The Puppet Master[/color] :shield: :crossed_swords:
+&gt; [color=grey]Neutral[/color] Killer
+**Behind the Curtain (Passive)** - You are immune to occupation, redirection and death.
+**Master&amp;rsquo;s Command (Passive)** - You and your puppet will have a separate chat. If you or the Puppet dies, the chat will cease to exist.
+**Stage Directions (Day)** - Find out who a selected player visited and who visited them last night. [4 Uses]
+**Attach (Night)** - Convert a player into the Puppet. You can only have one puppet at a time. [Infinite Uses]
+**The Show Must Go On (Night)** - Kill a player without the use of a Puppet. The attack will bypass death immunity. [3 Uses]
+*Goal: Destroy both the major factions and any neutrals who may stand in your way.*
+
+&gt; Credit to PoisonedSquid
+
+&gt; # [color=black]The Reaper[/color] :shield: :crossed_swords:
+&gt;[color=grey]Neutral[/color] Killer
+**Consume Soul (Passive)** - If you die at night with at least one soul, you will consume it and come back to life. You start with two souls. (Does NOT work if executed by The Prince)
+**Icy Touch (Day)** - Consume two souls to prevent a player from using day and night abilities today. The target will only be aware of being prevented if they attempt to use a day ability , and they will appear occupied at night. [Infinite Uses]
+**Gather Darkness (Day)** - Consume two souls to make reap bypass death immunity. You will receive occupy and redirection immunity on the night you use this ability. They will have information in their logbook of your choosing (or no logbook if nothing is specified), and you will receive their real logbook when they die. [Infinite Uses]
+**Reap (Night)** - Reap the soul of a player, killing them and occupying them. The victim can not be healed. You will gain one soul on a successful reap. [Infinite Uses]
+**Circle of Death (Night)** - Consume three souls to place a circle of death on a player, killing all visitors. You will gain one soul for every player killed. [Infinite Uses]
+*Goal: Destroy both the major factions and any neutrals who may stand in your way.*
+
+&gt; # [color=darkblue]The Sorcerer[/color] :shield: :crossed_swords:
+&gt;[color=grey]Neutral[/color] Killer
+**Mage Armour (Passive)** - You are immune to death at night, infection and bleeding. You are also immune to occupation and redirection.
+**Perception (Passive)** - If your attack would cause you to die (to knight, hunter etc.) you will instead no action. You will be notified.
+**Enchant (Day)** - Place an enchantment on a player. [Infinite Uses]
+**Magic Cloak (Day)** - Prevent visits to yourself and hide your visits from investigators tonight. [2 Uses]
+**Magic Missile (Night)** - Attack a player. [Infinite Uses]
+**Spell of Death (Night)** - All players who are enchanted will die tonight, bypassing death immunity. [Infinite Uses]
+*Goal: Destroy both the major factions and any neutrals who may stand in your way.*
+
+&gt; # [color=gold]The Tyrannous Regent[/color] :shield: :crossed_swords:
+&gt; [color=grey]Neutral[/color] Special
+**Reign of Terror (Passive)** - Your guards will bypass both night immunity and healing if your target did not vote for you during the election phase. If you die, there will be a vote held to crown the next King.
+**L&amp;rsquo;etat, C&amp;rsquo;est Moi (Passive)** - You are immune to death at night and bleeding. Additionally, your vote counts as two. For the first time you are accused of treason, you will instantly pardon yourself when on trial and kills your first accuser in broad daylight.
+**Royal Pardon (Day)** - Make a player unable to be voted today. [2 Uses]
+**Decide Fate (Day)** - You may choose the whether the player on trial will be executed or pardoned. [1 Use]
+**Sadistic Guards (Night)** - Allows the Tyrannous King to select two players who will then be attacked and killed by his guards. [Infinite Uses]
+*Goal: Destroy both the major factions and any neutrals who may stand in your way.*
+Crowned From:
+&gt; * The Archduke
+
+&gt; # [color=green]The Werewolf[/color] :shield: :crossed_swords:
+&gt; [color=grey]Neutral[/color] Killer
+**Lycanthropy (Passive)** - You are also randomly assigned a Kingdom-aligned pseudo-class at the start of the game. The pseudo-class must be able to exist on its own, such as you cannot have a Physician pseudo-class if three Physicians already exist. This pseudo-class decides your first day and first night ability along with giving them all of the pseudo-class&amp;rsquo; passives and having bonus attributes depending on the current day or night.
+&gt;&gt;~Attributes until the fourth day.
+&gt;&gt;* The Werewolf will be seen as their pseudo-class to investigative abilities.
+&gt;&gt;* If the Werewolf is executed or dies in any way, they will flip as their pseudo-class.
+&gt;
+&gt;&gt;~Attributes from the fourth day onwards.
+&gt;&gt;* The Werewolf is immune to Poison and Bleeding.
+&gt;&gt;* The Werewolf is immune to redirection and occupation.
+&gt;&gt;* If the Werewolf has the Hunter as their pseudo-class, they lose Retribution.
+&gt;
+&gt;**Lunacy (Passive)** - The Werewolf is immune to death at night and also can use both night abilities starting the fourth night.
+**??? (Day)** - The same primary day ability as your pseudo-class. [? Uses]
+**Eclipse (Day)** - Allows you to switch back to the attribute set for the first three nights for this night and the following day, but they can still use Maul and Chow. [1 Use]
+**??? (Night)** - The same primary night ability as your pseudo-class. [? Uses]
+**Maul and Chow (Night)** - Kills the target player, but this ability is only usable after the third night. Can be used alongside your pseudo-class primary ability. [Infinite Uses]
+*Goal: Destroy both the major factions and any neutrals who may stand in your way.*
+[/details]</description>
+    
+    <lastBuildDate>Thu, 24 Oct 2019 00:21:46 +0000</lastBuildDate>
+    <category>Forum Matches</category>
+    <atom:link href="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>SFoL Infection Class Cards</title>
+        <dc:creator><![CDATA[Marshal]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Geyde" data-post="576" data-topic="72377">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/geyde/40/32764_2.png" class="avatar"> Geyde:</div>
+<blockquote>
+<p>a bit on the hard side to fake</p>
+</blockquote>
+</aside>
+<p>But if you pull it off it is good.</p>
+<p>Also if people claim, you can just “check them to make sure they are doing what they said they would”.</p>
+<p>it’s like faking a princess check on people who have claimed. You know they are town, so saying they got a matching result on someone isn’t hard to fake, and town has reason to check it.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/584">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/584</link>
+        <pubDate>Thu, 24 Oct 2019 00:21:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72377-584</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377.rss">SFoL Infection Class Cards</source>
+      </item>
+      <item>
+        <title>SFoL Infection Class Cards</title>
+        <dc:creator><![CDATA[Luxy]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Geyde" data-post="579" data-topic="72377">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/geyde/40/32764_2.png" class="avatar"> Geyde:</div>
+<blockquote>
+<p>Some classes just don’t</p>
+</blockquote>
+</aside>
+<p>Wdym by this</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/583">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/583</link>
+        <pubDate>Thu, 24 Oct 2019 00:19:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72377-583</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377.rss">SFoL Infection Class Cards</source>
+      </item>
+      <item>
+        <title>SFoL Infection Class Cards</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p>Old Obs is crazy hard</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/582">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/582</link>
+        <pubDate>Thu, 24 Oct 2019 00:18:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72377-582</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377.rss">SFoL Infection Class Cards</source>
+      </item>
+      <item>
+        <title>SFoL Infection Class Cards</title>
+        <dc:creator><![CDATA[Luxy]]></dc:creator>
+        <description><![CDATA[
+            <p>I mean old Obs</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/581">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/581</link>
+        <pubDate>Thu, 24 Oct 2019 00:18:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72377-581</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377.rss">SFoL Infection Class Cards</source>
+      </item>
+      <item>
+        <title>SFoL Infection Class Cards</title>
+        <dc:creator><![CDATA[Luxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Wdym?</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/580">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/580</link>
+        <pubDate>Thu, 24 Oct 2019 00:18:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72377-580</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377.rss">SFoL Infection Class Cards</source>
+      </item>
+      <item>
+        <title>SFoL Infection Class Cards</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p>Some classes just don’t<br>
+Obs is easy since people can’t help but soft</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/579">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/579</link>
+        <pubDate>Thu, 24 Oct 2019 00:18:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72377-579</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377.rss">SFoL Infection Class Cards</source>
+      </item>
+      <item>
+        <title>SFoL Infection Class Cards</title>
+        <dc:creator><![CDATA[Luxy]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Geyde" data-post="576" data-topic="72377">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/geyde/40/32764_2.png" class="avatar"> Geyde:</div>
+<blockquote>
+<p>hard side to fake</p>
+</blockquote>
+</aside>
+<p>Not really, at worst its a 50/50 guess but people have a tendency to use their primary ability.</p>
+<p>Try faking observer</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/578">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/578</link>
+        <pubDate>Thu, 24 Oct 2019 00:17:33 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72377-578</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377.rss">SFoL Infection Class Cards</source>
+      </item>
+      <item>
+        <title>SFoL Infection Class Cards</title>
+        <dc:creator><![CDATA[Luxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Yes I already started changing all the bleeds to infect.</p>
+<p>I just patched it with a gamerule last 2 games, but now since I’m no longer burned out, I’m motivated to go through and change them.</p>
+<p>I will change all the royal bloods to counts for 2 votes again.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/577">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/577</link>
+        <pubDate>Thu, 24 Oct 2019 00:16:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72377-577</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377.rss">SFoL Infection Class Cards</source>
+      </item>
+      <item>
+        <title>SFoL Infection Class Cards</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Luxy" data-post="567" data-topic="72377" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/luxy/40/18622_2.png" class="avatar"> Luxy:</div>
+<blockquote>
+<aside class="quote no-group" data-username="Marshal" data-post="562" data-topic="72377">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/marshal/40/32698_2.png" class="avatar"> Marshal:</div>
+<blockquote>
+<p>It becomes a class that sees if people use an inf or limited-use ability at night to catch fakeclaims</p>
+</blockquote>
+</aside>
+<p>Might be a good rework</p>
+</blockquote>
+</aside>
+<p>Sure I guess<br>
+It’s kinda weak but a bit on the hard side to fake</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/576">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/576</link>
+        <pubDate>Thu, 24 Oct 2019 00:16:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72377-576</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377.rss">SFoL Infection Class Cards</source>
+      </item>
+      <item>
+        <title>SFoL Infection Class Cards</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p>A lot of the class cards need rewording in that case<br>
+Are you going to standardize bleed/infect</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/575">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/575</link>
+        <pubDate>Thu, 24 Oct 2019 00:15:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72377-575</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377.rss">SFoL Infection Class Cards</source>
+      </item>
+      <item>
+        <title>SFoL Infection Class Cards</title>
+        <dc:creator><![CDATA[Luxy]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Luxy" data-post="567" data-topic="72377">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/luxy/40/18622_2.png" class="avatar"> Luxy:</div>
+<blockquote>
+<blockquote>
+<p>It becomes a class that sees if people use an inf or limited-use ability at night to catch fakeclaims</p>
+</blockquote>
+<p>Might be a good rework</p>
+</blockquote>
+</aside>
+<p>This is proposed</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/574">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/574</link>
+        <pubDate>Thu, 24 Oct 2019 00:15:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72377-574</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377.rss">SFoL Infection Class Cards</source>
+      </item>
+      <item>
+        <title>SFoL Infection Class Cards</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p>What was changed</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/573">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/573</link>
+        <pubDate>Thu, 24 Oct 2019 00:15:24 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72377-573</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377.rss">SFoL Infection Class Cards</source>
+      </item>
+      <item>
+        <title>SFoL Infection Class Cards</title>
+        <dc:creator><![CDATA[Luxy]]></dc:creator>
+        <description><![CDATA[
+            <p>I was just gonna make King elections like vanilla FoL</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/572">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/572</link>
+        <pubDate>Thu, 24 Oct 2019 00:14:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72377-572</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377.rss">SFoL Infection Class Cards</source>
+      </item>
+      <item>
+        <title>SFoL Infection Class Cards</title>
+        <dc:creator><![CDATA[Luxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Do you like the Actuary change?</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/571">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/571</link>
+        <pubDate>Thu, 24 Oct 2019 00:14:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72377-571</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377.rss">SFoL Infection Class Cards</source>
+      </item>
+      <item>
+        <title>SFoL Infection Class Cards</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh<br>
+I thought you were rewording elections</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/570">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/570</link>
+        <pubDate>Thu, 24 Oct 2019 00:14:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72377-570</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377.rss">SFoL Infection Class Cards</source>
+      </item>
+      <item>
+        <title>SFoL Infection Class Cards</title>
+        <dc:creator><![CDATA[Luxy]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Geyde" data-post="568" data-topic="72377">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/geyde/40/32764_2.png" class="avatar"> Geyde:</div>
+<blockquote>
+<p>Second night ability lets it know who got votes and how many on each<br>
+That’s how it could be fixed</p>
+</blockquote>
+</aside>
+<p>You mean make King votes invisible?</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/569">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/569</link>
+        <pubDate>Thu, 24 Oct 2019 00:13:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72377-569</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377.rss">SFoL Infection Class Cards</source>
+      </item>
+      <item>
+        <title>SFoL Infection Class Cards</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Luxy" data-post="560" data-topic="72377" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/luxy/40/18622_2.png" class="avatar"> Luxy:</div>
+<blockquote>
+<p>I like royal blood cop and had Marl used governor properly in Infection 1 he’d have confirmed two town and caught Fk but he just gave up and let fk win.</p>
+</blockquote>
+</aside>
+<p>Second night ability lets it know who got votes and how many on each<br>
+That’s how it could be fixed</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/568">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/568</link>
+        <pubDate>Thu, 24 Oct 2019 00:12:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72377-568</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377.rss">SFoL Infection Class Cards</source>
+      </item>
+      <item>
+        <title>SFoL Infection Class Cards</title>
+        <dc:creator><![CDATA[Luxy]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Marshal" data-post="562" data-topic="72377">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/marshal/40/32698_2.png" class="avatar"> Marshal:</div>
+<blockquote>
+<p>It becomes a class that sees if people use an inf or limited-use ability at night to catch fakeclaims</p>
+</blockquote>
+</aside>
+<p>Might be a good rework</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/567">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/567</link>
+        <pubDate>Thu, 24 Oct 2019 00:12:15 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72377-567</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377.rss">SFoL Infection Class Cards</source>
+      </item>
+      <item>
+        <title>SFoL Infection Class Cards</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Luxy" data-post="561" data-topic="72377" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/luxy/40/18622_2.png" class="avatar"> Luxy:</div>
+<blockquote>
+<p>What should we do to Actuary <a class="mention" href="/u/geyde">@Geyde</a></p>
+</blockquote>
+</aside>
+<p>Delete<br>
+It’d need a massive overhaul to work</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/566">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/566</link>
+        <pubDate>Thu, 24 Oct 2019 00:10:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72377-566</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377.rss">SFoL Infection Class Cards</source>
+      </item>
+      <item>
+        <title>SFoL Infection Class Cards</title>
+        <dc:creator><![CDATA[Maxwell]]></dc:creator>
+        <description><![CDATA[
+            <p>ur right sorry</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/565">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/565</link>
+        <pubDate>Thu, 24 Oct 2019 00:09:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72377-565</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377.rss">SFoL Infection Class Cards</source>
+      </item>
+      <item>
+        <title>SFoL Infection Class Cards</title>
+        <dc:creator><![CDATA[Marshal]]></dc:creator>
+        <description><![CDATA[
+            <p>wrong thread</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/564">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/564</link>
+        <pubDate>Thu, 24 Oct 2019 00:09:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72377-564</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377.rss">SFoL Infection Class Cards</source>
+      </item>
+      <item>
+        <title>SFoL Infection Class Cards</title>
+        <dc:creator><![CDATA[Maxwell]]></dc:creator>
+        <description><![CDATA[
+            <p>I like the idea <a class="mention" href="/u/marshal">@Marshal</a><br>
+Although I’d prefer to call the ability Triumphant Resolve instead of just Triumph</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/563">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/563</link>
+        <pubDate>Thu, 24 Oct 2019 00:09:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72377-563</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377.rss">SFoL Infection Class Cards</source>
+      </item>
+      <item>
+        <title>SFoL Infection Class Cards</title>
+        <dc:creator><![CDATA[Marshal]]></dc:creator>
+        <description><![CDATA[
+            <p>Random idea:</p>
+<p>It becomes a class that sees if people use an inf or limited-use ability at night to catch fakeclaims</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/562">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/562</link>
+        <pubDate>Wed, 23 Oct 2019 23:44:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72377-562</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377.rss">SFoL Infection Class Cards</source>
+      </item>
+      <item>
+        <title>SFoL Infection Class Cards</title>
+        <dc:creator><![CDATA[Luxy]]></dc:creator>
+        <description><![CDATA[
+            <p>What should we do to Actuary <a class="mention" href="/u/geyde">@Geyde</a></p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/561">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/561</link>
+        <pubDate>Wed, 23 Oct 2019 23:41:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72377-561</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377.rss">SFoL Infection Class Cards</source>
+      </item>
+      <item>
+        <title>SFoL Infection Class Cards</title>
+        <dc:creator><![CDATA[Luxy]]></dc:creator>
+        <description><![CDATA[
+            <p>I like royal blood cop and had Marl used governor properly in Infection 1 he’d have confirmed two town and caught Fk but he just gave up and let fk win.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/560">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-infection-class-cards/72377/560</link>
+        <pubDate>Wed, 23 Oct 2019 23:24:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72377-560</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-infection-class-cards/72377.rss">SFoL Infection Class Cards</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Patch v4.1.2 Notes - Vote-to-Start System</title>
+    <link>https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579</link>
+    <description>Hear ye hear ye!
+
+&gt; Tired of waiting for fellow citizens to join the game of deceit? The Royal Court proudly presents the new vote-to-start-early system! When there are 8+ citizens waiting for the next court, citizens can vote to start after 1 minute of wait, and the game of deceit will begin with more than 60% consent.  
+
+&gt; With the global climate changes, the sun of Castle Adiart will shine upon our land 120s per Day, but note that the sun reacts to the number of deaths happening in Castle Adiart. With the increase of grieving souls floating around, the sunlight will also shorten until it reaches as low as 30s per Day. Nights will only be slightly longer (especially night 1). As citizens rely on the moon for night activities, the moon will glow upon Castle Adiart for 55s per Night. Citizens will have 40s to get familiar with the King&#39;s Courtroom on Day 1. And the Royal Court decided to light up the castle with torch fire to welcome the citizens to King&#39;s Courtroom, which grants an additional 10s to a total of 65s for citizen&#39;s First Night activities. 
+
+## ***Patch Highlights***
+
+* Vote-to-start-early System LIVE: When there are 8+ citizens in the queue, citizens can vote to start the game early after 1 minute of waiting in the queue, with more than 60% of citizens vote for it.
+* Time Adjustments:
+  * Day time raised from 90s to 120s, with a falling timer with fewer citizens alive in the game. It can be as low as 30s.
+  * Nighttime raised from 45s to 55s, with a falling timer with fewer citizens alive in the game. It can be as low as 45s.
+  * The First Day is now 40s.
+  * The First Night is now 65s.
+
+## ***Class Balance and Updates***
+* Change Butler&#39;s *Serve Wine* to be unable to use on the same target twice in a row.
+* Chronomancer&#39;s *Distort Reality* now notifies the victim it was moved to.
+* Replace *Tenacity* from the Kings (minus Psycho King) to *Privileged*, allowing the Kings to talk during Trial.
+* Replace Ritualist&#39;s *Brotherhood* with *Intensify* with 2 charges.
+* Reduce Court Wizard&#39;s *Icy Veins* to 2 charges.
+* Reduce Alchemist&#39;s *Stoneskin* to 2 charges.
+* Reduce Sellsword&#39;s *Stonewall* to 3 charges.
+* Reduce Observer&#39;s *Overlook* to 3 charges.
+* Change Sage to Offensive Class Type.
+* Change Herbalist to Social Class Type.
+* Unseen and Cult classes that cancel his/her night ability that is NOT a self/auto-targeted ability will now properly warn allies (self-auto already worked).
+* Fixed Observer/Seeker flipped problem.
+
+## ***UI and Tutorial***
+* Rearranged lobby header.
+* Add collapsed &quot;Knowledgebase&quot; menu at the top-right for UI improvement.
+* Move &quot;Class Cards&quot; to the top-left to be more dominant for UI improvement.
+* Additional tutorial content on clickable chat links by Mastermind.
+
+## ***System and Game Improvements***
+* Class Card Improvements
+* Fixed class card stuck problem.
+* Fixed class card underline links&#39; click-ability.
+* Fixed logbook&#39;s &quot;Send to Chat&quot; to pass multiple lines for readability.
+* Fixed de-sync problem.
+* Fixed the friend interaction bug.
+* Remove class card scrollbars.
+* Hover over abilities for longer class card descriptions no longer block by yellow memos.
+* Press ESC to exit the glossary.
+
+See you in the King’s Courtroom!</description>
+    
+    <lastBuildDate>Mon, 03 May 2021 08:57:59 +0000</lastBuildDate>
+    <category>Official Announcements</category>
+    <atom:link href="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Patch v4.1.2 Notes - Vote-to-Start System</title>
+        <dc:creator><![CDATA[Mercenary]]></dc:creator>
+        <description><![CDATA[
+            <p>Eh I don’t play for a time but isn’t when there’s the least people alive that we need more time to discuss?</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/29">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/29</link>
+        <pubDate>Mon, 03 May 2021 08:57:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87579-29</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579.rss">Patch v4.1.2 Notes - Vote-to-Start System</source>
+      </item>
+      <item>
+        <title>Patch v4.1.2 Notes - Vote-to-Start System</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <h2>v4.1.2c</h2>
+<aside class="quote" data-post="2" data-topic="87579">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="20" height="20" src="/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar">
+    <a href="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/2">Patch v4.1.2 Notes - Vote-to-Start System</a> <a class="badge-wrapper  bullet" href="/c/announcements/8"><span class="badge-category-bg" style="background-color: #F7941D;"></span><span style="" data-drop-close="true" class="badge-category clear-badge" title="Official staff announcements. Although you can’t post, you can reply.
+Chat @ https://discord.gg/tol">Official Announcements</span></a>
+  </div>
+  <blockquote>
+    v4.1.2c
+
+
+Vote Start Early fixes
+Name selection name&lt;&gt;message is no longer reversed
+Ritualist “Intensify” ability charges are now 2 instead of infinite
+Possessor should no longer die from casting Puppet Strings targeting Hunter when a Bear Companion trap is set.
+
+4/26/2021
+  </blockquote>
+</aside>
+
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/28">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/28</link>
+        <pubDate>Mon, 26 Apr 2021 09:27:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87579-28</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579.rss">Patch v4.1.2 Notes - Vote-to-Start System</source>
+      </item>
+      <item>
+        <title>Patch v4.1.2 Notes - Vote-to-Start System</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <p>tbh observe is rly strong too</p>
+<p>overlook has much much higher potential to break the game but “i think X is bad, ill track them” is something i say quite often as observer</p>
+<p>but “Y claimed Prince ill watch them” is really really really strong</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/27">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/27</link>
+        <pubDate>Tue, 20 Apr 2021 20:09:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87579-27</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579.rss">Patch v4.1.2 Notes - Vote-to-Start System</source>
+      </item>
+      <item>
+        <title>Patch v4.1.2 Notes - Vote-to-Start System</title>
+        <dc:creator><![CDATA[Soulshade55r]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Planterror" data-post="4" data-topic="87579">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/planterror/40/9678_2.png" class="avatar"> Planterror:</div>
+<blockquote>
+<p>Overlook was never really used that much outside of once or twice on Prince, so not sure why this was even a problem.</p>
+</blockquote>
+</aside>
+<p>Looks like people still don’t understand how overlook is just objectively better then observe</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/26">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/26</link>
+        <pubDate>Tue, 20 Apr 2021 19:17:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87579-26</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579.rss">Patch v4.1.2 Notes - Vote-to-Start System</source>
+      </item>
+      <item>
+        <title>Patch v4.1.2 Notes - Vote-to-Start System</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <p>EK is v strong as is (starting king is general, but i find EK stronger) and i don’t think nerfing allies really changes that very much</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/25</link>
+        <pubDate>Mon, 19 Apr 2021 23:38:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87579-25</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579.rss">Patch v4.1.2 Notes - Vote-to-Start System</source>
+      </item>
+      <item>
+        <title>Patch v4.1.2 Notes - Vote-to-Start System</title>
+        <dc:creator><![CDATA[Intensify]]></dc:creator>
+        <description><![CDATA[
+            <p>I mean… Evil Kang can be swingy… shrug.</p>
+<p>I don’t think it’s like the biggest nerf though.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/24</link>
+        <pubDate>Mon, 19 Apr 2021 23:29:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87579-24</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579.rss">Patch v4.1.2 Notes - Vote-to-Start System</source>
+      </item>
+      <item>
+        <title>Patch v4.1.2 Notes - Vote-to-Start System</title>
+        <dc:creator><![CDATA[RHCube]]></dc:creator>
+        <description><![CDATA[
+            <p>That’s more of an issue with the current king loadout and prince though, not king being immune to occupation</p>
+<aside class="quote no-group" data-username="Intensify" data-post="21" data-topic="87579" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/intensify/40/38643_2.png" class="avatar"> Intensify:</div>
+<blockquote>
+<p>Well your forms of occupation are Mercenary, Sellsword and Butler…</p>
+<p>Mercenary usually isn’t a problem…</p>
+<p>Sellsword might be?</p>
+<p>And with Butler if they Party you basically learn that they’re BD</p>
+</blockquote>
+</aside>
+<p>I still don’t see why it’s worth nerfing EK though. You could just make it so that allies refunds a use if it fails, or bypasses everything.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/23</link>
+        <pubDate>Mon, 19 Apr 2021 23:24:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87579-23</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579.rss">Patch v4.1.2 Notes - Vote-to-Start System</source>
+      </item>
+      <item>
+        <title>Patch v4.1.2 Notes - Vote-to-Start System</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <p>there’s very few things that can actually occupy/redirect the king</p>
+<p>the change is mostly so GK cant be an unstoppable force in protecting prince imo</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/22</link>
+        <pubDate>Mon, 19 Apr 2021 20:50:54 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87579-22</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579.rss">Patch v4.1.2 Notes - Vote-to-Start System</source>
+      </item>
+      <item>
+        <title>Patch v4.1.2 Notes - Vote-to-Start System</title>
+        <dc:creator><![CDATA[Intensify]]></dc:creator>
+        <description><![CDATA[
+            <p>Well your forms of occupation are Mercenary, Sellsword and Butler…</p>
+<p>Mercenary usually isn’t a problem…</p>
+<p>Sellsword might be?</p>
+<p>And with Butler if they Party you basically learn that they’re BD</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/21</link>
+        <pubDate>Mon, 19 Apr 2021 20:50:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87579-21</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579.rss">Patch v4.1.2 Notes - Vote-to-Start System</source>
+      </item>
+      <item>
+        <title>Patch v4.1.2 Notes - Vote-to-Start System</title>
+        <dc:creator><![CDATA[RHCube]]></dc:creator>
+        <description><![CDATA[
+            <p>Because an Evil king has to find other evils in order to be useful(not counting decide fate on an important BD), and by occupying the king it makes it harder. I don’t even see why this is necessary in the first case.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/20</link>
+        <pubDate>Mon, 19 Apr 2021 20:47:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87579-20</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579.rss">Patch v4.1.2 Notes - Vote-to-Start System</source>
+      </item>
+      <item>
+        <title>Patch v4.1.2 Notes - Vote-to-Start System</title>
+        <dc:creator><![CDATA[Intensify]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group quote-modified" data-username="RHCube" data-post="18" data-topic="87579">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/ritualist-icon-256.jpg" class="avatar"> RHCube:</div>
+<blockquote>
+<aside class="quote group-Admin" data-username="DaDaSama" data-post="1" data-topic="87579">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/dadasama/40/35981_2.png" class="avatar"> DaDaSama:</div>
+<blockquote>
+<p>Replace <em>Tenacity</em> from the Kings (minus Psycho King) to <em>Privileged</em> , allowing the Kings to talk during Trial.</p>
+</blockquote>
+</aside>
+<p>I dislike this change, and I don’t really see the point. This is a really unnecessary huge EK nerf. King in general doesn’t deserve to be nerfed like this.</p>
+</blockquote>
+</aside>
+<p>I don’t get how this is a Evil King nerf at all most of the time?</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/19</link>
+        <pubDate>Mon, 19 Apr 2021 19:51:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87579-19</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579.rss">Patch v4.1.2 Notes - Vote-to-Start System</source>
+      </item>
+      <item>
+        <title>Patch v4.1.2 Notes - Vote-to-Start System</title>
+        <dc:creator><![CDATA[RHCube]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote group-Admin" data-username="DaDaSama" data-post="1" data-topic="87579">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/dadasama/40/35981_2.png" class="avatar"> DaDaSama:</div>
+<blockquote>
+<p>Change Butler’s <em>Serve Wine</em> to be unable to use on the same target twice in a row.</p>
+</blockquote>
+</aside>
+<p>This is certainly a good start, and I’m happy for any butler nerf, but I’d still prefer it for the occupation immunity system to be changed to “You will be immune the next night”.</p>
+<aside class="quote group-Admin" data-username="DaDaSama" data-post="1" data-topic="87579">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/dadasama/40/35981_2.png" class="avatar"> DaDaSama:</div>
+<blockquote>
+<p>Replace <em>Tenacity</em> from the Kings (minus Psycho King) to <em>Privileged</em> , allowing the Kings to talk during Trial.</p>
+</blockquote>
+</aside>
+<p>I dislike this change, and I don’t really see the point. This is a really unnecessary huge EK nerf. King in general doesn’t deserve to be nerfed like this.</p>
+<aside class="quote group-Admin" data-username="DaDaSama" data-post="1" data-topic="87579">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/dadasama/40/35981_2.png" class="avatar"> DaDaSama:</div>
+<blockquote>
+<p>Replace Ritualist’s <em>Brotherhood</em> with <em>Intensify</em> with 2 charges.</p>
+</blockquote>
+</aside>
+<p>I’m all for more Butler nerfs, but I don’t think this is a good one. Now there is no counterplay to Paladin finding someone NS.</p>
+<aside class="quote group-Admin" data-username="DaDaSama" data-post="1" data-topic="87579">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/dadasama/40/35981_2.png" class="avatar"> DaDaSama:</div>
+<blockquote>
+<p>Reduce Court Wizard’s <em>Icy Veins</em> to 2 charges.</p>
+</blockquote>
+</aside>
+<p>This is a good change. The same should happen to CW’s other abilities.</p>
+<aside class="quote group-Admin" data-username="DaDaSama" data-post="1" data-topic="87579">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/dadasama/40/35981_2.png" class="avatar"> DaDaSama:</div>
+<blockquote>
+<ul>
+<li>Change Sage to Offensive Class Type.</li>
+<li>Change Herbalist to Social Class Type.</li>
+</ul>
+</blockquote>
+</aside>
+<p>Finally. Prince should also be changed to special</p>
+<p>Everything else I like</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/18</link>
+        <pubDate>Mon, 19 Apr 2021 19:49:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87579-18</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579.rss">Patch v4.1.2 Notes - Vote-to-Start System</source>
+      </item>
+      <item>
+        <title>Patch v4.1.2 Notes - Vote-to-Start System</title>
+        <dc:creator><![CDATA[Intensify]]></dc:creator>
+        <description><![CDATA[
+            <p>: /</p>
+<p>Ree</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/17</link>
+        <pubDate>Mon, 19 Apr 2021 18:20:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87579-17</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579.rss">Patch v4.1.2 Notes - Vote-to-Start System</source>
+      </item>
+      <item>
+        <title>Patch v4.1.2 Notes - Vote-to-Start System</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p>But we know it’s true</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/16</link>
+        <pubDate>Mon, 19 Apr 2021 18:10:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87579-16</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579.rss">Patch v4.1.2 Notes - Vote-to-Start System</source>
+      </item>
+      <item>
+        <title>Patch v4.1.2 Notes - Vote-to-Start System</title>
+        <dc:creator><![CDATA[Intensify]]></dc:creator>
+        <description><![CDATA[
+            <p>;-;</p>
+<p>Roode</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/15</link>
+        <pubDate>Mon, 19 Apr 2021 18:09:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87579-15</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579.rss">Patch v4.1.2 Notes - Vote-to-Start System</source>
+      </item>
+      <item>
+        <title>Patch v4.1.2 Notes - Vote-to-Start System</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p>This is sound reasoning I cannot disagree with</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/14</link>
+        <pubDate>Mon, 19 Apr 2021 17:34:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87579-14</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579.rss">Patch v4.1.2 Notes - Vote-to-Start System</source>
+      </item>
+      <item>
+        <title>Patch v4.1.2 Notes - Vote-to-Start System</title>
+        <dc:creator><![CDATA[Arctic]]></dc:creator>
+        <description><![CDATA[
+            <p>on second thoughts<br>
+it’s you<br>
+so it must be a nerf</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/13</link>
+        <pubDate>Mon, 19 Apr 2021 17:32:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87579-13</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579.rss">Patch v4.1.2 Notes - Vote-to-Start System</source>
+      </item>
+      <item>
+        <title>Patch v4.1.2 Notes - Vote-to-Start System</title>
+        <dc:creator><![CDATA[Intensify]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group quote-modified" data-username="Arctic" data-post="3" data-topic="87579" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="/user_avatar/forum.throneoflies.com/arctic/40/40373_2.png" class="avatar"> Arctic:</div>
+<blockquote>
+<aside class="quote group-Admin" data-username="DaDaSama" data-post="1" data-topic="87579">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/dadasama/40/35981_2.png" class="avatar"> DaDaSama:</div>
+<blockquote>
+<p>Replace Ritualist’s <em>Brotherhood</em> with <em>Intensify</em> with 2 charges.</p>
+</blockquote>
+</aside>
+<p>is this supposed to be a nerf?</p>
+</blockquote>
+</aside>
+<p>Yesn’t.</p>
+<p>Think of it more like a rework.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/12</link>
+        <pubDate>Mon, 19 Apr 2021 17:01:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87579-12</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579.rss">Patch v4.1.2 Notes - Vote-to-Start System</source>
+      </item>
+      <item>
+        <title>Patch v4.1.2 Notes - Vote-to-Start System</title>
+        <dc:creator><![CDATA[thepigeonnyc]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote group-Admin" data-username="DaDaSama" data-post="1" data-topic="87579">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/dadasama/40/35981_2.png" class="avatar"> DaDaSama:</div>
+<blockquote>
+<p>With the global climate changes</p>
+</blockquote>
+</aside>
+<p>Also I like the tie to irl</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/11</link>
+        <pubDate>Mon, 19 Apr 2021 17:01:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87579-11</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579.rss">Patch v4.1.2 Notes - Vote-to-Start System</source>
+      </item>
+      <item>
+        <title>Patch v4.1.2 Notes - Vote-to-Start System</title>
+        <dc:creator><![CDATA[Intensify]]></dc:creator>
+        <description><![CDATA[
+            <p><s>Everything is outclassed by Enforcer</s></p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/10</link>
+        <pubDate>Mon, 19 Apr 2021 17:00:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87579-10</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579.rss">Patch v4.1.2 Notes - Vote-to-Start System</source>
+      </item>
+      <item>
+        <title>Patch v4.1.2 Notes - Vote-to-Start System</title>
+        <dc:creator><![CDATA[Novali91]]></dc:creator>
+        <description><![CDATA[
+            <p>Comparing anything to Enforcer makes that class seem bad. Sage is still very good, even if it appears K/O to Princess. Regardless of all of that, I’d argue that this patch is favourable for Sage because of the King change.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/9</link>
+        <pubDate>Mon, 19 Apr 2021 17:00:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87579-9</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579.rss">Patch v4.1.2 Notes - Vote-to-Start System</source>
+      </item>
+      <item>
+        <title>Patch v4.1.2 Notes - Vote-to-Start System</title>
+        <dc:creator><![CDATA[thepigeonnyc]]></dc:creator>
+        <description><![CDATA[
+            <p>With extended D1, will we finally get D1 claim train meta?</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/8</link>
+        <pubDate>Mon, 19 Apr 2021 16:58:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87579-8</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579.rss">Patch v4.1.2 Notes - Vote-to-Start System</source>
+      </item>
+      <item>
+        <title>Patch v4.1.2 Notes - Vote-to-Start System</title>
+        <dc:creator><![CDATA[Planterror]]></dc:creator>
+        <description><![CDATA[
+            <p>One of the best but still outclassed heavily by Enforcer… The ability to dispose of important BD is done better since Frenzy can work twice in one night with 2for1, as well as Sage not being able to stop Butlers from occing the assassin.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/7</link>
+        <pubDate>Mon, 19 Apr 2021 16:42:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87579-7</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579.rss">Patch v4.1.2 Notes - Vote-to-Start System</source>
+      </item>
+      <item>
+        <title>Patch v4.1.2 Notes - Vote-to-Start System</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p>I feel like stonewall nerf was literally just in tandem with king change</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/6</link>
+        <pubDate>Mon, 19 Apr 2021 16:38:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87579-6</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579.rss">Patch v4.1.2 Notes - Vote-to-Start System</source>
+      </item>
+      <item>
+        <title>Patch v4.1.2 Notes - Vote-to-Start System</title>
+        <dc:creator><![CDATA[Arctic]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Planterror" data-post="4" data-topic="87579">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/planterror/40/9678_2.png" class="avatar"> Planterror:</div>
+<blockquote>
+<p>Herbalist buff and sage nerf when comparing Princess flirts… I’m all for a herbalist buff but Sage being offensive just hurts the outclassed nature of Sage…</p>
+</blockquote>
+</aside>
+<p>sage is one of the best converts</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579/5</link>
+        <pubDate>Mon, 19 Apr 2021 16:38:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87579-5</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-1-2-notes-vote-to-start-system/87579.rss">Patch v4.1.2 Notes - Vote-to-Start System</source>
+      </item>
+  </channel>
+</rss>

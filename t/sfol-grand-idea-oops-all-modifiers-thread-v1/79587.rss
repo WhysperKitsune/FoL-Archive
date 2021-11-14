@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>SFoL Grand Idea &quot;Oops All Modifiers!&quot; Thread v1</title>
+    <link>https://forum.throneoflies.com/t/sfol-grand-idea-oops-all-modifiers-thread-v1/79587</link>
+    <description># *Rules:*
+Every post here must contain a Modifier. It could be an existing one or something new. If the modifier is an existing FoL (any) modifier, the name and a hyperlink to it will qualify it. If it is a modifier that is already in this thread, put down the name hyperlinked to the post in this thread that includes its class card. Otherwise you must make the entire class card.
+
+Include the post number of your post in its description. A post number may only cover one modifier.
+
+Format:
+
+&gt; Post #
+&gt;
+&gt; &gt; # Modifier Name
+&gt;&gt; Modifier&#39;s text.
+
+**Modifiers can NOT prevent others from appearing in a game by being rolled.**
+
+**You can not change any aspect of an existing post in a future post.**
+
+**Consecutive duplicate posts of the same modifier are banned. This includes named variants.**
+
+**You may not change a core aspect of the game. Examples include: Removing the town faction, removing voting, etc.**
+* **This does not include renaming any aspects of the game. You are allowed to make a modifier that renames every class into one name.**
+
+**Moderators have the option to delete modifiers that do not fit the rules of this thread.**
+
+# *How to use the GIOAM threade:*
+
+Instead of rolling classes, you roll modifiers from this thread, which may alter gameplay. This can be used in GIFoL, but should be announced if using. You should only use a few amount of Modifiers, as using too many may cause an un-welcoming environment to play in.
+
+# *Hoste Notes:*
+
+The host has the right to reject/reroll any modifers if they so wish.
+
+GIFoL games fall under SFoL.
+
+To start this thread:
+
+1
+
+&gt; # Rise of the Red Dragon
+&gt; The name of the Informed Minority will be The [color=red]**Red Dragon**[/color].</description>
+    
+    <lastBuildDate>Wed, 27 Nov 2019 01:04:26 +0000</lastBuildDate>
+    <category>Forum of Lies</category>
+    <atom:link href="https://forum.throneoflies.com/t/sfol-grand-idea-oops-all-modifiers-thread-v1/79587.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>SFoL Grand Idea &quot;Oops All Modifiers!&quot; Thread v1</title>
+        <dc:creator><![CDATA[Simon]]></dc:creator>
+        <description><![CDATA[
+            <p>2</p>
+<aside class="quote no-group">
+<blockquote>
+<h1>What Do You Mean “Other Ways To Vote?” (WDYM"OWTV")</h1>
+<p>first, announce that this specific modifier is in play, and link players to this post so they can understand how it works<br>
+Votes for the lynch will now be calculated as follows. nonstandard methods contain links to demonstrations:<br>
+abilties modifying majority for the day have no effect<br>
+abilities modifying the number of votes needed for a given player to be lynched have no effect.<br>
+gladiating abilties choose their amount of candidates for the day, and move straight into phase 3.<br>
+vote doublers or increasers only affect an individual during phase 3<br>
+If no-lynch is a valid target, no-voters should be treated as a vote for no-lynch (0, all 1 but no-lynch 5, no-lynch wins each 1v1 or unapplicable) for each phase<br>
+if no-lynch is not a valid target, no-voters should be treated as if their vote slot does not exist for that round, and votes are otherwise counted normally.<br>
+anything else: WotM<br>
+phase 1:<br>
+for the first half of the voting period, players submit a range for the amount of people they’d like to be up to lynch, inclusive (they could submit “3” for a total of 3 wagons, or  2-4 to show they are voting for 2 wagons, 3 wagons <strong>and</strong> 4 wagons) the number with the highest total votes is the number of available wagons in phase 3.<br>
+in other words, the number of candidates is chosen by an <a href="http://ncase.me/ballot/sandbox?m=%7B%22s%22%3A%22Approval%22%2C%22v%22%3A%5B%5B150%2C100%5D%2C%5B150%2C200%5D%5D%2C%22c%22%3A%5B%5B66%2C84%5D%2C%5B245%2C124%5D%2C%5B122%2C250%5D%5D%2C%22d%22%3A%22Voters%20vote%20for%20every%20option%20they%20would%20be%20okay%20with.%20this%20can%20mean%20voting%20anywhere%20from%200%20to%203%20times%20(in%20this%20example)%5Cntotal%20up%20the%20number%20of%20approvals%20for%20each%20option%2C%20option%20with%20greatest%20number%20of%20approvals%20win.%5Cnin%20case%20of%20a%20tie%2C%20either%20average%20or%20decide%20randomly%2C%20whichever%20is%20more%20applicable%5Cn%5CnLook%20below%20for%20this%20persons%20explanation%20of%20various%20voting%20systems.%20They%20explain%20it%20much%20better%20than%20i%20ever%20could.%22%7D" rel="noopener nofollow ugc">approval vote</a>. basically plurality<br>
+(from here on out when i say ‘n’ i mean the number of candidates as decided by this phase)</p>
+<p>phase 2:<br>
+still within the first half of the voting period (players can submit for both phase 1 and 2 simultaneously), players assign each player a score from 1 to 5 (decimals <strong>are</strong> allowed) 5 is most want to lynch, 1 is least. average each players score, and the highest n scores move on as candidates to phase 3<br>
+in other words, the candidates for lynch are chosen via a <a href="http://ncase.me/ballot/sandbox?m=%7B%22s%22%3A%22Score%22%2C%22v%22%3A%5B%5B150%2C100%5D%2C%5B150%2C200%5D%5D%2C%22c%22%3A%5B%5B106%2C73%5D%2C%5B213%2C131%5D%2C%5B159%2C206%5D%5D%2C%22d%22%3A%22%20Each%20voter%20assigns%20each%20candidate%20a%20score%20from%201%20to%205.%20the%20scores%20are%20then%20averaged%20(add%20them%20up%20then%20divide%20by%20the%20amount%20of%20voters)%5Cnthe%20highest%20score%20wins.%5Cn%5CnLook%20below%20for%20this%20persons%20explanation%20of%20various%20voting%20systems.%20They%20explain%20it%20much%20better%20than%20i%20ever%20could.%22%7D" rel="noopener nofollow ugc">score vote</a></p>
+<p>Phase 3:<br>
+for the rest of the voting phase, the lynch will be determined via the Condorcet method. voters vote for every 1v1 match-up from the available candidates (if there are 3, players vote on AvsB, AvsC, and BvsC), to determine who they would rather lynch out of those two. given a tie, no one is lynched<br>
+a relatively standard <a href="http://ncase.me/ballot/sandbox?m=%7B%22s%22%3A%22Condorcet%22%2C%22v%22%3A%5B%5B150%2C115%5D%2C%5B115%2C180%5D%2C%5B185%2C180%5D%5D%2C%22c%22%3A%5B%5B82%2C99%5D%2C%5B233%2C125%5D%2C%5B152%2C248%5D%5D%2C%22d%22%3A%22Voters%20vote%20for%20which%20candidate%20should%20%5C%22win%5C%22%20in%20a%201v1%20for%20every%20possible%201v1%20given%20the%20list%20of%20candidates.%5Cntotal%20number%20of%20combination%20increases%20quadratically%2C%20so%20less%20candidates%20is%20better.%5Cnthe%20Condorcet%20method%20gives%20the%20mathematically%20*best*%20candidate%20in%20almost%20any%20situation.%5Cnhowever%20a%20quirk%20of%20it%20is%20that%20it%20is%20possible%20for%20the%20Condorcet%20method%20to%20tie%2C%20an%20example%20of%20which%20is%20shown%20below%5Cn%5CnLook%20below%20for%20this%20persons%20explanation%20of%20various%20voting%20systems.%20They%20explain%20it%20much%20better%20than%20i%20ever%20could.%22%7D" rel="noopener nofollow ugc">Condorcet</a> vote</p>
+<p>the main reasons for phases 1 and 2 is to limit the candidates during phase 3, so players dont have to decide over 120 matches in a standard 16 player game on day 1</p>
+</blockquote>
+</aside>
+          <p><a href="https://forum.throneoflies.com/t/sfol-grand-idea-oops-all-modifiers-thread-v1/79587/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-grand-idea-oops-all-modifiers-thread-v1/79587/7</link>
+        <pubDate>Wed, 27 Nov 2019 01:04:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79587-7</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-grand-idea-oops-all-modifiers-thread-v1/79587.rss">SFoL Grand Idea &quot;Oops All Modifiers!&quot; Thread v1</source>
+      </item>
+      <item>
+        <title>SFoL Grand Idea &quot;Oops All Modifiers!&quot; Thread v1</title>
+        <dc:creator><![CDATA[DatBird]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh ok</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-grand-idea-oops-all-modifiers-thread-v1/79587/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-grand-idea-oops-all-modifiers-thread-v1/79587/6</link>
+        <pubDate>Tue, 26 Nov 2019 17:27:42 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79587-6</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-grand-idea-oops-all-modifiers-thread-v1/79587.rss">SFoL Grand Idea &quot;Oops All Modifiers!&quot; Thread v1</source>
+      </item>
+      <item>
+        <title>SFoL Grand Idea &quot;Oops All Modifiers!&quot; Thread v1</title>
+        <dc:creator><![CDATA[JakeTheWolfie]]></dc:creator>
+        <description><![CDATA[
+            <p>This is supposed to be used in conjunction with the GI thread</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-grand-idea-oops-all-modifiers-thread-v1/79587/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-grand-idea-oops-all-modifiers-thread-v1/79587/5</link>
+        <pubDate>Tue, 26 Nov 2019 17:22:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79587-5</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-grand-idea-oops-all-modifiers-thread-v1/79587.rss">SFoL Grand Idea &quot;Oops All Modifiers!&quot; Thread v1</source>
+      </item>
+      <item>
+        <title>SFoL Grand Idea &quot;Oops All Modifiers!&quot; Thread v1</title>
+        <dc:creator><![CDATA[DatBird]]></dc:creator>
+        <description><![CDATA[
+            <p>Ok but how do u roll a class when it’s only modifiers. Unless they are all vts this seems like it wont work</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-grand-idea-oops-all-modifiers-thread-v1/79587/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-grand-idea-oops-all-modifiers-thread-v1/79587/4</link>
+        <pubDate>Tue, 26 Nov 2019 17:21:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79587-4</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-grand-idea-oops-all-modifiers-thread-v1/79587.rss">SFoL Grand Idea &quot;Oops All Modifiers!&quot; Thread v1</source>
+      </item>
+      <item>
+        <title>SFoL Grand Idea &quot;Oops All Modifiers!&quot; Thread v1</title>
+        <dc:creator><![CDATA[AlexejheroYTB]]></dc:creator>
+        <description><![CDATA[
+            <p>Modifiers that rename stuff are useless in my opinion.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-grand-idea-oops-all-modifiers-thread-v1/79587/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-grand-idea-oops-all-modifiers-thread-v1/79587/3</link>
+        <pubDate>Tue, 26 Nov 2019 17:05:20 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79587-3</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-grand-idea-oops-all-modifiers-thread-v1/79587.rss">SFoL Grand Idea &quot;Oops All Modifiers!&quot; Thread v1</source>
+      </item>
+      <item>
+        <title>SFoL Grand Idea &quot;Oops All Modifiers!&quot; Thread v1</title>
+        <dc:creator><![CDATA[Luxy]]></dc:creator>
+        <description><![CDATA[
+            <p>What?</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-grand-idea-oops-all-modifiers-thread-v1/79587/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-grand-idea-oops-all-modifiers-thread-v1/79587/2</link>
+        <pubDate>Tue, 26 Nov 2019 16:57:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79587-2</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-grand-idea-oops-all-modifiers-thread-v1/79587.rss">SFoL Grand Idea &quot;Oops All Modifiers!&quot; Thread v1</source>
+      </item>
+      <item>
+        <title>SFoL Grand Idea &quot;Oops All Modifiers!&quot; Thread v1</title>
+        <dc:creator><![CDATA[JakeTheWolfie]]></dc:creator>
+        <description><![CDATA[
+            <h1><em>Rules:</em></h1>
+<p>Every post here must contain a Modifier. It could be an existing one or something new. If the modifier is an existing FoL (any) modifier, the name and a hyperlink to it will qualify it. If it is a modifier that is already in this thread, put down the name hyperlinked to the post in this thread that includes its class card. Otherwise you must make the entire class card.</p>
+<p>Include the post number of your post in its description. A post number may only cover one modifier.</p>
+<p>Format:</p>
+<blockquote>
+<p>Post #</p>
+<blockquote>
+<h1>Modifier Name</h1>
+<p>Modifier’s text.</p>
+</blockquote>
+</blockquote>
+<p><strong>Modifiers can NOT prevent others from appearing in a game by being rolled.</strong></p>
+<p><strong>You can not change any aspect of an existing post in a future post.</strong></p>
+<p><strong>Consecutive duplicate posts of the same modifier are banned. This includes named variants.</strong></p>
+<p><strong>You may not change a core aspect of the game. Examples include: Removing the town faction, removing voting, etc.</strong></p>
+<ul>
+<li><strong>This does not include renaming any aspects of the game. You are allowed to make a modifier that renames every class into one name.</strong></li>
+</ul>
+<p><strong>Moderators have the option to delete modifiers that do not fit the rules of this thread.</strong></p>
+<h1><em>How to use the GIOAM threade:</em></h1>
+<p>Instead of rolling classes, you roll modifiers from this thread, which may alter gameplay. This can be used in GIFoL, but should be announced if using. You should only use a few amount of Modifiers, as using too many may cause an un-welcoming environment to play in.</p>
+<h1><em>Hoste Notes:</em></h1>
+<p>The host has the right to reject/reroll any modifers if they so wish.</p>
+<p>GIFoL games fall under SFoL.</p>
+<p>To start this thread:</p>
+<p>1</p>
+<blockquote>
+<h1>Rise of the Red Dragon</h1>
+<p>The name of the Informed Minority will be The <font color="red"><strong>Red Dragon</strong></font>.</p>
+</blockquote>
+          <p><a href="https://forum.throneoflies.com/t/sfol-grand-idea-oops-all-modifiers-thread-v1/79587/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-grand-idea-oops-all-modifiers-thread-v1/79587/1</link>
+        <pubDate>Tue, 26 Nov 2019 16:26:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79587-1</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-grand-idea-oops-all-modifiers-thread-v1/79587.rss">SFoL Grand Idea &quot;Oops All Modifiers!&quot; Thread v1</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Can&#39;t Open Game</title>
+    <link>https://forum.throneoflies.com/t/cant-open-game/24497</link>
+    <description>**What happened:**
+Whenever I try and play the game now, the fullscreen option opens to a blank [orange/yellow screen as though loading and then turns black](https://i.imgur.com/uzLaYtQ.png). 
+A windowed option is simply invisible, in other words, aside from the title bar there&#39;s nothing on screen. (Unfortunately, I can&#39;t screenshot that since, in making it fullscreen, I&#39;ve disabled any apparent ability to turn it back to windowed mode since I can&#39;t access a settings menu.)
+
+I&#39;ve tried uninstalling the game multiple times; following any instructions on Steam regarding similar issues (verifying the integrity of game files); even uninstalling Steam a few times but nothing is working.
+
+I don&#39;t actually know what caused this to happen as I was playing one day and the following day I tried to play again and it wouldn&#39;t work.
+
+I also know that there don&#39;t seem to be any files for the game saved anywhere? [These](https://i.imgur.com/GxAjzCK.png) are the files I appear to have.
+
+**What was SUPPOSED to happen:**
+The game should start.
+
+**Steps to reproduce this issue:**
+
+1. Opened Steam
+2. Clicked &#39;play&#39;
+3. Game opens to black screen</description>
+    
+    <lastBuildDate>Sat, 06 Jan 2018 23:43:45 +0000</lastBuildDate>
+    <category>Support</category>
+    <atom:link href="https://forum.throneoflies.com/t/cant-open-game/24497.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Can&#39;t Open Game</title>
+        <dc:creator><![CDATA[TryphonX]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href="https://forum.throneoflies.com/t/cant-open-game/24497/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cant-open-game/24497/13</link>
+        <pubDate>Mon, 08 Jan 2018 20:36:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-24497-13</guid>
+        <source url="https://forum.throneoflies.com/t/cant-open-game/24497.rss">Can&#39;t Open Game</source>
+      </item>
+      <item>
+        <title>Can&#39;t Open Game</title>
+        <dc:creator><![CDATA[aalyoshka]]></dc:creator>
+        <description><![CDATA[
+            <p>Sorry, just to say that I took a look at the graphics settings and everything because of what you said and I’m not sure what I did but it’s working again!</p>
+<p>So thank you so much for your help <img src="/images/emoji/twitter/heart.png?v=9" title=":heart:" class="emoji" alt=":heart:"></p>
+          <p><a href="https://forum.throneoflies.com/t/cant-open-game/24497/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cant-open-game/24497/12</link>
+        <pubDate>Sat, 06 Jan 2018 23:43:45 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-24497-12</guid>
+        <source url="https://forum.throneoflies.com/t/cant-open-game/24497.rss">Can&#39;t Open Game</source>
+      </item>
+      <item>
+        <title>Can&#39;t Open Game</title>
+        <dc:creator><![CDATA[aalyoshka]]></dc:creator>
+        <description><![CDATA[
+            <p>Okay, here’s another set of logs:</p>
+<p><a href="https://drive.google.com/open?id=1CjZwysCXwlAV0ydSXht6cDvVCisY6TnBSu5LN1A_DQo" rel="noopener nofollow ugc">https://drive.google.com/open?id=1CjZwysCXwlAV0ydSXht6cDvVCisY6TnBSu5LN1A_DQo</a></p>
+<p>Thank you for taking a look!</p>
+          <p><a href="https://forum.throneoflies.com/t/cant-open-game/24497/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cant-open-game/24497/11</link>
+        <pubDate>Sat, 06 Jan 2018 22:17:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-24497-11</guid>
+        <source url="https://forum.throneoflies.com/t/cant-open-game/24497.rss">Can&#39;t Open Game</source>
+      </item>
+      <item>
+        <title>Can&#39;t Open Game</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>Heya, can you send me a “last resort” set of logs again with the latest patch? Most issues before you see the main screen has to do with Unity engine, which is not so friendly with Macs (tbh, not with Windows either -_- we’ll probably use Unreal our next game haha).</p>
+<p>However, it’s mostly strange that you could run before and not now.</p>
+<p>One thing I did notice was that your graphics chipset is significantly under the minimum requirements:</p>
+<p><a href="https://technical.city/en/video/Iris-Plus-Graphics-640-vs-HD-Graphics-5000" class="onebox" target="_blank" rel="noopener">https://technical.city/en/video/Iris-Plus-Graphics-640-vs-HD-Graphics-5000</a></p>
+<p>Because it’s under minimum requirements, each driver update may either improve or drop support – that’s my <strong>best guess</strong>… Pre-login screen issues are left to the mercy of your graphics card/drivers and Unity behaving.</p>
+<p>I’ll still take a look at your logs, but if we can’t get this working and you played over 2 hours, let me know on Discord ( <a href="https://discord.gg/tol" class="inline-onebox-loading">https://discord.gg/tol</a> ) and I’ll personally refund you through PayPal or something.</p>
+          <p><a href="https://forum.throneoflies.com/t/cant-open-game/24497/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cant-open-game/24497/10</link>
+        <pubDate>Sat, 06 Jan 2018 16:19:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-24497-10</guid>
+        <source url="https://forum.throneoflies.com/t/cant-open-game/24497.rss">Can&#39;t Open Game</source>
+      </item>
+      <item>
+        <title>Can&#39;t Open Game</title>
+        <dc:creator><![CDATA[aalyoshka]]></dc:creator>
+        <description><![CDATA[
+            <p>I am still having this problem.</p>
+          <p><a href="https://forum.throneoflies.com/t/cant-open-game/24497/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cant-open-game/24497/9</link>
+        <pubDate>Sat, 06 Jan 2018 13:42:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-24497-9</guid>
+        <source url="https://forum.throneoflies.com/t/cant-open-game/24497.rss">Can&#39;t Open Game</source>
+      </item>
+      <item>
+        <title>Can&#39;t Open Game</title>
+        <dc:creator><![CDATA[aalyoshka]]></dc:creator>
+        <description><![CDATA[
+            <p>So I don’t know if the patch you were referring to came out yet or not because there’s no recent patch since November 29th listed on the Steam updates for me, but my game did just update tonight and I can confirm that as of that update it’s still not working.</p>
+          <p><a href="https://forum.throneoflies.com/t/cant-open-game/24497/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cant-open-game/24497/8</link>
+        <pubDate>Tue, 12 Dec 2017 20:02:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-24497-8</guid>
+        <source url="https://forum.throneoflies.com/t/cant-open-game/24497.rss">Can&#39;t Open Game</source>
+      </item>
+      <item>
+        <title>Can&#39;t Open Game</title>
+        <dc:creator><![CDATA[Ellie]]></dc:creator>
+        <description><![CDATA[
+            <p>Well we should have a patch out tomorrow. Can you try again once the update is out, and let us know if the game is working?</p>
+          <p><a href="https://forum.throneoflies.com/t/cant-open-game/24497/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cant-open-game/24497/7</link>
+        <pubDate>Sat, 09 Dec 2017 03:00:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-24497-7</guid>
+        <source url="https://forum.throneoflies.com/t/cant-open-game/24497.rss">Can&#39;t Open Game</source>
+      </item>
+      <item>
+        <title>Can&#39;t Open Game</title>
+        <dc:creator><![CDATA[aalyoshka]]></dc:creator>
+        <description><![CDATA[
+            <p>I wouldn’t be able to say for sure that it started directly after an update but I do know that having tried to play  after the update, it didn’t work, so probably?</p>
+          <p><a href="https://forum.throneoflies.com/t/cant-open-game/24497/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cant-open-game/24497/6</link>
+        <pubDate>Sat, 09 Dec 2017 02:06:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-24497-6</guid>
+        <source url="https://forum.throneoflies.com/t/cant-open-game/24497.rss">Can&#39;t Open Game</source>
+      </item>
+      <item>
+        <title>Can&#39;t Open Game</title>
+        <dc:creator><![CDATA[Ellie]]></dc:creator>
+        <description><![CDATA[
+            <p>Did this start happening after an update to your OS?</p>
+          <p><a href="https://forum.throneoflies.com/t/cant-open-game/24497/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cant-open-game/24497/5</link>
+        <pubDate>Thu, 07 Dec 2017 03:45:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-24497-5</guid>
+        <source url="https://forum.throneoflies.com/t/cant-open-game/24497.rss">Can&#39;t Open Game</source>
+      </item>
+      <item>
+        <title>Can&#39;t Open Game</title>
+        <dc:creator><![CDATA[aalyoshka]]></dc:creator>
+        <description><![CDATA[
+            <p>Ah, that’s a relief, I was really worried there just weren’t any logs at all!</p>
+<p><strong>These are my logs:</strong><br>
+<a href="https://drive.google.com/file/d/1gjKNigUsC53Y38WpyhcHgCC7VoS7GRcZ/view?usp=sharing" rel="noopener nofollow ugc">https://drive.google.com/file/d/1gjKNigUsC53Y38WpyhcHgCC7VoS7GRcZ/view?usp=sharing</a></p>
+          <p><a href="https://forum.throneoflies.com/t/cant-open-game/24497/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cant-open-game/24497/4</link>
+        <pubDate>Thu, 07 Dec 2017 01:08:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-24497-4</guid>
+        <source url="https://forum.throneoflies.com/t/cant-open-game/24497.rss">Can&#39;t Open Game</source>
+      </item>
+      <item>
+        <title>Can&#39;t Open Game</title>
+        <dc:creator><![CDATA[Ellie]]></dc:creator>
+        <description><![CDATA[
+            <p>The logs for Mac are located at:<br>
+~/Library/Logs/Unity/Player.log</p>
+<p>If you can get me those, I’ll look at them.</p>
+          <p><a href="https://forum.throneoflies.com/t/cant-open-game/24497/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cant-open-game/24497/3</link>
+        <pubDate>Wed, 06 Dec 2017 18:01:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-24497-3</guid>
+        <source url="https://forum.throneoflies.com/t/cant-open-game/24497.rss">Can&#39;t Open Game</source>
+      </item>
+      <item>
+        <title>Can&#39;t Open Game</title>
+        <dc:creator><![CDATA[robflop]]></dc:creator>
+        <description><![CDATA[
+            <p>Hey!</p>
+<p>Thanks for the report, relaying it as we speak.</p>
+<p>Gonna get back to you asap.</p>
+          <p><a href="https://forum.throneoflies.com/t/cant-open-game/24497/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cant-open-game/24497/2</link>
+        <pubDate>Wed, 06 Dec 2017 14:41:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-24497-2</guid>
+        <source url="https://forum.throneoflies.com/t/cant-open-game/24497.rss">Can&#39;t Open Game</source>
+      </item>
+      <item>
+        <title>Can&#39;t Open Game</title>
+        <dc:creator><![CDATA[aalyoshka]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>What happened:</strong><br>
+Whenever I try and play the game now, the fullscreen option opens to a blank <a href="https://i.imgur.com/uzLaYtQ.png" rel="noopener nofollow ugc">orange/yellow screen as though loading and then turns black</a>.<br>
+A windowed option is simply invisible, in other words, aside from the title bar there’s nothing on screen. (Unfortunately, I can’t screenshot that since, in making it fullscreen, I’ve disabled any apparent ability to turn it back to windowed mode since I can’t access a settings menu.)</p>
+<p>I’ve tried uninstalling the game multiple times; following any instructions on Steam regarding similar issues (verifying the integrity of game files); even uninstalling Steam a few times but nothing is working.</p>
+<p>I don’t actually know what caused this to happen as I was playing one day and the following day I tried to play again and it wouldn’t work.</p>
+<p>I also know that there don’t seem to be any files for the game saved anywhere? <a href="https://i.imgur.com/GxAjzCK.png" rel="noopener nofollow ugc">These</a> are the files I appear to have.</p>
+<p><strong>What was SUPPOSED to happen:</strong><br>
+The game should start.</p>
+<p><strong>Steps to reproduce this issue:</strong></p>
+<ol>
+<li>Opened Steam</li>
+<li>Clicked ‘play’</li>
+<li>Game opens to black screen</li>
+</ol>
+          <p><a href="https://forum.throneoflies.com/t/cant-open-game/24497/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cant-open-game/24497/1</link>
+        <pubDate>Wed, 06 Dec 2017 02:49:17 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-24497-1</guid>
+        <source url="https://forum.throneoflies.com/t/cant-open-game/24497.rss">Can&#39;t Open Game</source>
+      </item>
+  </channel>
+</rss>

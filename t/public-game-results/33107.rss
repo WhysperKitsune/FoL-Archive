@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Public game results</title>
+    <link>https://forum.throneoflies.com/t/public-game-results/33107</link>
+    <description>We occasionally hear things from devs like &quot;possessor&#39;s win rate is much lower than reaper&quot;, which are super interesting. I&#39;d like to be able to dig through that data myself. Currently I have guesses based on personal experience, like &quot;alchs tend to survive after the nk is dead&quot; and &quot;reapers tend to win more in games where unseen/cult did well&quot;. I&#39;d like to replace those guesses with numbers.
+
+Nothing too fancy would be necessary, I&#39;m thinking of something along the lines of:
+
+* csv or json data stuck on a web server somewhere
+* daily dump or similar is fine, no need to be real time
+* no names, no chat logs, no day-by-day of what happened, just: original and final classes, winners, when people died, and the game version
+
+I could learn a lot just from that.</description>
+    
+    <lastBuildDate>Sat, 30 Dec 2017 04:20:38 +0000</lastBuildDate>
+    <category>Feedback/Suggestions</category>
+    <atom:link href="https://forum.throneoflies.com/t/public-game-results/33107.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Public game results</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>Would put you leagues ahead of your competitors too</p>
+          <p><a href="https://forum.throneoflies.com/t/public-game-results/33107/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/public-game-results/33107/2</link>
+        <pubDate>Sat, 30 Dec 2017 04:20:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-33107-2</guid>
+        <source url="https://forum.throneoflies.com/t/public-game-results/33107.rss">Public game results</source>
+      </item>
+      <item>
+        <title>Public game results</title>
+        <dc:creator><![CDATA[asuffield]]></dc:creator>
+        <description><![CDATA[
+            <p>We occasionally hear things from devs like “possessor’s win rate is much lower than reaper”, which are super interesting. I’d like to be able to dig through that data myself. Currently I have guesses based on personal experience, like “alchs tend to survive after the nk is dead” and “reapers tend to win more in games where unseen/cult did well”. I’d like to replace those guesses with numbers.</p>
+<p>Nothing too fancy would be necessary, I’m thinking of something along the lines of:</p>
+<ul>
+<li>csv or json data stuck on a web server somewhere</li>
+<li>daily dump or similar is fine, no need to be real time</li>
+<li>no names, no chat logs, no day-by-day of what happened, just: original and final classes, winners, when people died, and the game version</li>
+</ul>
+<p>I could learn a lot just from that.</p>
+          <p><a href="https://forum.throneoflies.com/t/public-game-results/33107/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/public-game-results/33107/1</link>
+        <pubDate>Sat, 30 Dec 2017 01:41:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-33107-1</guid>
+        <source url="https://forum.throneoflies.com/t/public-game-results/33107.rss">Public game results</source>
+      </item>
+  </channel>
+</rss>

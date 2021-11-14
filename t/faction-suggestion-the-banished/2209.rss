@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[Faction Suggestion] The Banished</title>
+    <link>https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209</link>
+    <description># [color=#586b39]The Banished[/color]
+
+&gt;@JammySplodge: Okay team we need to design a new faction for no reason let&#39;s go 
+
+&gt;@ThePlex *already had another one saved*
+
+# [color=#586b39]The Forgotten (Banished Special)[/color]
+_(Starts with this)_
+_Immune to Occupy_
+
+_Passive: Remember me? - Nobody recognises you, you will be hidden from Warden unless he checks you again, he may recognise you._
+
+**Night Ability 1 - Banishment (Special - 1 Night Cooldown - Max 4 Banished)**
+Force somebody into Banishment and they will join the Banished as an Outsider. You can choose which class they should choose to become but they will have the choice which you&#39;ll be informed of after they choose it.
+
+**Night Ability 2 - Apprenticeship (Infinite uses)**
+Choose which member of the Banished will kill tonight, their special ability will take effect with the Kill. If this isn&#39;t used, then The Disturbed will be given the Apprenticeship **_or_** The Insane will be allowed to kill without Apprenticeship effect.
+
+------
+
+# [color=#586b39]The Disturbed (Banished Wildcard)[/color]
+_(Starts with this)_
+_Passive: Right Hand - If The Forgotten is found, you will gain command and take his place_
+
+**Night Ability 1: Craze (Infinite uses - 1 night cooldown)**
+Draw strange symbols on the wall inside your targets room tonight. If they are checked by Warden tonight and the next night, he will be told they are Banished. (lasts for 1 night)
+**_Apprenticeship effect: Draw symbols that will draw your target to suicide after 1 night._**
+_(Effect: Visit and death on two seperate nights + Exhume shows suicide)_
+
+**Night Ability 2: Horror (Infinite uses - 1 night cooldown)**
+Scare away anybody trying to visit your room with a fear inducing relic. They&#39;ll be told something prevented them from visiting their target.
+
+------
+
+# [color=#586b39]The Outsider (Banished Special)[/color]
+
+_Passive: Nobody - As long as you are an Outsider, you remain to be seen as Blue Dragon but you must take New Life as soon as it&#39;s Night Phrase. If you do not choose, you will be made whatever The Forgotten wanted you to become_
+
+**Night Ability: New Life (Special 15 Second Popup Window - Happens Instantly Upon Selecting)**
+Choose which Banished Class you want to become. The Forgotten wanted you to become &lt;class&gt; but you can choose whichever you want. There can&#39;t be more than 1 of any Banished Class.
+
+------
+
+#[color=#586b39]The Haunted (Banished Offensive)[/color]
+
+**Night Ability 1: Nightmare (Infinite uses)**
+Hide a haunted relic under your targets bed tonight. They will be Occupied from fear from their Nightmare. 
+**_Apprenticeship effect: Hide a powerful relic under your targets bed tonight. They will die from shock from their Nightmares._**
+_(Effect: Occupied+Killed)_
+
+**Day Ability 1: Spook (3 uses)**
+Prevent your target from voting for the rest of the day.
+
+------
+
+# [color=#586b39]The Shaman (Banished Support)[/color]
+
+**Night Ability 1: VooDoo (Special - Infinite)**
+If you used Dollmaster, control your target&#39;s doll, forcing them to visit somebody at random. They will not be told they were controlled.
+**_Apprenticeship effect: Stab your target&#39;s VooDoo doll, killing them._**
+_(Effect: Doesn&#39;t visit)_
+
+**Day Ability 1: Dollmaster (Infinite uses)**
+Create a VooDoo doll of your target
+
+------
+
+# [color=#586b39]The Stalker (Banished Investigative)[/color]
+
+**Night Ability 1: Stalk (Infinite uses)**
+Follow your target tonight to learn of their Class.
+**_Apprenticeship effect: Sneak up on your target tonight, where you will kill them and steal their journal._**
+_(Effect: Journal is hidden)_
+
+**Day Ability 1: Pickpocket (Special)**
+If your target had a day ability, you will steal it and it will become yours until you die. Targeting Prince will be treated as if he had no Day Ability.
+
+**Day Ability 2: Stolen (Special)**
+If you Pickpocketed a Day Ability, this will be replaced with it with the default number of uses. 
+
+------
+
+# [color=#586b39]The Begger (Banished Social)[/color]
+
+**Night Ability 1: Irritation (Infinite uses)**
+You will knock at your targets door tonight and beg for money all night. Keeping them awake and unable to attend the first half of court due to oversleeping. _(FoL: You&#39;ll be asked to not respond for the first half of the Day Phase)_
+**_Apprenticeship effect: Break into your targets room. You will kill him and take their place at court. If you take the place of a Royal, you will be able to step up as King._**
+_(Effect: Hide their Class, only you&#39;ll know what it was. If Royal, you get Royal Blood.)_
+
+**Day Ability 1: Plead (3 uses)**
+Beg your target for money, distracting them to be unable to perform a trial vote. _(Pardon/Guilty won&#39;t be counted from them)_
+
+------
+
+# [color=#586b39]The Insane (Banished Killer)[/color]
+
+_Passive: Natural Killer - You take priority over killing unless The Forgotten has chosen his killer but will not be given the Apprenticeship effect._
+
+_Passive: Psychotic - If you are jailed, you will attack the Prince. The Prince will not die unless The Forgotten uses Apprenticeship while you&#39;re jailed. If not, then the Prince will be told he was attacked but won&#39;t die._
+
+**Night Ability 1: Unleash (Infinite uses)**
+Attack your target in their room tonight. They will die unless they are immune to death.
+**_Apprenticeship effect: Attack your target and anybody visiting. You will bypass death immunity and healing on your main target, anybody visiting will die unless immune to death or being healed._**
+_(Effect: Bypass Immunity/Healing + Potential to kill multiple)_
+
+**Day Ability 1: Asylum (2 use)**
+Your target will lose their mind and attack the Prince if they&#39;re jailed. The Prince won&#39;t die.
+
+------
+
+# [color=#586b39]The Widow (Banished Support)[/color]
+
+_Passive: Mourning - Due to the death of your husband, you spend even nights at his grave, making you immune to death but unable to perform Midnight Rendevouz._
+
+**Night Ability 1: Midnight Rendevouz (Infinite uses)**
+You will visit your target tonight in an intimate embrace. They will be Occupied tonight and with the door locked, nobody will be able to visit.
+**_Apprenticeship effect: You will visit your target tonight in an intimate embrace, during which, you will murder him in his sleep. With the door locked, nobody will be able to visit._**
+_(Effect: Kill a person while keeping people from visits)_
+
+**Day Ability 1: Toxic Lipstick (2 uses)**
+With your toxic lipstick, sneak a kiss onto your target today, the toxic will cause their lips to swell and they will be unable to speak for the rest of the day. 
+**_(FoL alt: If they&#39;re jailed or Psychic linked, they can&#39;t reply to them.)_**
+
+------
+
+#  [color=#586b39]The Phantom (Banished Investigative)[/color]
+
+**Night Ability: Scrutinize (Infinite uses)**
+Creep around your targets room tonight to find out what class type they are. It will be revealed to you at the beginning of the day.
+**_Apprenticeship effect: Hide in your targets room. If they used an ability, the person that they originally targeted will show up as visiting them as well as yourself. You will also see who they visited._**
+_(Effect: Adds a visit to your visit to help cover your tracks)_
+
+**Day Ability: Survey (3 uses)**
+Check to see if a player has any sort of Immunity. If so, you&#39;ll be told one of their types of immunity.
+
+#  [color=#586b39]The Tinkerer (Banished Support)[/color]
+
+**Night Ability 1: Synergy (Infinite uses)**
+Perform an experiment with different types of poisons and expose your target to it. Due to inexperience in science, your concoction will give your target a message that they were healed and will be randomly told about Night shade poison during the day.
+**_Apprenticeship effect: Perform an experiment by combing Nightshade with a Crimson Potion. The concoction will kill your target and if inspected, it will suggest Alchemist killed them._**
+_(Effect: When exhumed, it will say Alchemist killed them)_
+
+**Day Ability 1: Potion Mixer (3 uses)**
+Slip a mixture of different potions into your targets wine. Your target will be told they were poisoned by Night shade and then told they were healed the next day.
+
+
+#  [color=#586b39]The Cultivator (Banished Support)[/color]
+
+_Passive: Pretty Aroma - Thanks to the smell of flowers on you after tending the gardens on odd days, you will be undetected by Warden on odd nights._
+
+**Night Ability 1: Dirt Trail (Infinite uses)**
+Leave a trail from one target&#39;s room to another and Observers will see your first target visiting your second but you will be undetected.
+**_Apprenticeship effect: If your Target is visiting somebody, you will kill them at their targets room. You will not be seen visiting your target but instead be seen visiting their target._**
+_(When you kill them, your visit will be to their target)_
+
+**Day Ability 1: Snakeroot (4 uses)**
+You will slip Snakeroot into your targets wine. They will be unable to perform the Night Ability they used the previous night.
+
+#  [color=#586b39]The Broker (Banished Social)[/color]
+
+[details=Needs Rework for FoL]_Passive: Snake Tongue - As long as you are alive, Banished are able to see whispers to The Broker._
+
+**Night Ability 1: Deal Breaker (Infinite uses)**
+You will visit your target tonight in an attempt to buy his silence. Your target will be unable to speak until he is on trial.
+**_Apprenticeship effect: You will murder your target tonight and silence him completely. He will be unable to communicate with the Priest at night._**
+_(Effect: Can&#39;t talk to Priest when dead)_
+
+**Day Ability 1: Trade Seats (2 uses)**
+You will swap positions with somebody in court. Anybody that targets you during the day will instead target who you swapped with. This includes Prince target.
+[/details]
+------
+
+# [color=#586b39]The Begger King (Banished Special)[/color]
+
+_Passive: Rags To Riches - If you die, anybody but Royal Blood can step up the next day._
+
+**Night Ability 1: Restrain! (2 uses)**
+Send the guards to keep somebody in their room tonight, Occupying them.
+
+**Night Ability 2: Guards! (2 uses)**
+Send the guards to protect somebody tonight.
+
+**Day Ability 1: Common Finger (3 uses - no cooldown)**
+Your vote for today counts as 2 votes
+
+**Day Ability 2: Decide Fate (1 use)**
+You may change the result of a trial
+
+-----
+
+# [color=lighblue]Faction Counter[/color]
+
+# [color=lighblue]The Warden (BlueDragon Investigative)[/color]
+_Passive: Immune to Conversion_
+
+**Night Ability 1: Inquisitive (Infinite uses)**
+Research your target tonight and learn something about them. You will be told if they are Banished, Convertible or Immune to Conversion.
+
+**Day Ability 1: Scribble (3 uses)**
+You will pass a note with a your written message to your target. They will know it came from The Warden.
+
+**Day Ability 2: Testimony (1 use - only available upon finding at least 1 Convertible using Inquisitive)**
+Your target will be granted conversion immunity and will become the new Warden if you die.</description>
+    
+    <lastBuildDate>Wed, 05 Jul 2017 02:10:38 +0000</lastBuildDate>
+    <category>Class/Lore/Fanfic</category>
+    <atom:link href="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[Faction Suggestion] The Banished</title>
+        <dc:creator><![CDATA[ThePlex]]></dc:creator>
+        <description><![CDATA[
+            <p>I appreciate the support <img src="/images/emoji/twitter/grin.png?v=9" title=":grin:" class="emoji" alt=":grin:"></p>
+<p>At first I thought that it might have been a little overpowered, what with always having somebody who can kill, and not always being able to Occupy them to stop kills, which really amps up the fact of “Oh, we really have to get rid of these guys”</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/19</link>
+        <pubDate>Wed, 05 Jul 2017 02:10:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-2209-19</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209.rss">[Faction Suggestion] The Banished</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Banished</title>
+        <dc:creator><![CDATA[PolikShadowbliss]]></dc:creator>
+        <description><![CDATA[
+            <p>I can’t wait until they test it out.</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/18</link>
+        <pubDate>Tue, 04 Jul 2017 21:12:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-2209-18</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209.rss">[Faction Suggestion] The Banished</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Banished</title>
+        <dc:creator><![CDATA[Ami]]></dc:creator>
+        <description><![CDATA[
+            <p>This is just fucking confusing for my pleb brain. Still very good though.</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/17</link>
+        <pubDate>Tue, 04 Jul 2017 21:07:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-2209-17</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209.rss">[Faction Suggestion] The Banished</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Banished</title>
+        <dc:creator><![CDATA[ThePlex]]></dc:creator>
+        <description><![CDATA[
+            <p>Added</p>
+<p>“The Warden” because Ruby likes Unique Faction Counters</p>
+<p>Added another Day ability to Warden.</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/16</link>
+        <pubDate>Mon, 03 Jul 2017 16:22:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-2209-16</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209.rss">[Faction Suggestion] The Banished</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Banished</title>
+        <dc:creator><![CDATA[ThePlex]]></dc:creator>
+        <description><![CDATA[
+            <p>That’s exactly what I’m gonna use &lt;3</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/15</link>
+        <pubDate>Mon, 03 Jul 2017 14:46:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-2209-15</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209.rss">[Faction Suggestion] The Banished</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Banished</title>
+        <dc:creator><![CDATA[Jazz]]></dc:creator>
+        <description><![CDATA[
+            <p>Surely one kisses them on the lips which causes their lips to swell up meaning they can’t talk</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/14</link>
+        <pubDate>Mon, 03 Jul 2017 07:25:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-2209-14</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209.rss">[Faction Suggestion] The Banished</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Banished</title>
+        <dc:creator><![CDATA[ThePlex]]></dc:creator>
+        <description><![CDATA[
+            <p>Toxic Lipstick <img src="/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"> It’s in the ability name</p>
+<p>See it as… “When the widow plants her lips on her victim’s cheek, the toxic from the lipstick seeps into his skin causing his vocal chords to break down temporarily.”</p>
+<p>She’s immune to it because she drank an antidote before applying it <img src="/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"></p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/13</link>
+        <pubDate>Mon, 03 Jul 2017 00:08:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-2209-13</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209.rss">[Faction Suggestion] The Banished</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Banished</title>
+        <dc:creator><![CDATA[Insanity]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="ThePlex" data-post="1" data-topic="2209">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/theplex/40/2519_2.png" class="avatar"> ThePlex:</div>
+<blockquote>
+<p>Day Ability 1: Toxic Lipstick (2 uses)<br>
+Sneak a kiss onto your target today, they will be unable to speak for the rest of the day.</p>
+</blockquote>
+</aside>
+<p>Um, since when kissing a people make them unable to speak in the day?</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/12</link>
+        <pubDate>Mon, 03 Jul 2017 00:04:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-2209-12</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209.rss">[Faction Suggestion] The Banished</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Banished</title>
+        <dc:creator><![CDATA[ThePlex]]></dc:creator>
+        <description><![CDATA[
+            <p>You have no idea how much fun I had coming up with all these Classes.</p>
+<p>Fun Fact:<br>
+“The Tinkerer” - Neutral Wildcard (Win with evils)<br>
+“The Widow” - BD Support<br>
+“The Shaman” - Neutral Wildcard (Win with Neutrals only)<br>
+“The Begger” - Neutral Wildcard (Become King)<br>
+“The Begger King” - Neutral Special (Survive as King)</p>
+<p>These were actually going to be Classes I was going to suggest for Neutrals in ToL rather than being in a faction.<br>
+I took a load of them and implemented them into this faction. Worked out pretty well I’d say.</p>
+<p>(Added their original stuff from my lists)</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/11</link>
+        <pubDate>Sun, 02 Jul 2017 23:07:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-2209-11</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209.rss">[Faction Suggestion] The Banished</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Banished</title>
+        <dc:creator><![CDATA[PolikShadowbliss]]></dc:creator>
+        <description><![CDATA[
+            <p>I like this faction.</p>
+<p>I will gladly play a game with it.</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/10</link>
+        <pubDate>Sun, 02 Jul 2017 23:02:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-2209-10</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209.rss">[Faction Suggestion] The Banished</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Banished</title>
+        <dc:creator><![CDATA[ThePlex]]></dc:creator>
+        <description><![CDATA[
+            <p>I’ve added</p>
+<p>“The Begger King”<br>
+“The Insane”<br>
+“The Widow”<br>
+“The Outsider”<br>
+“The Phantom”<br>
+“The Tinkerer”<br>
+“The Cultivator”<br>
+“The Broker”</p>
+<p><strong><em>Changed my mind - I’ve revamped my conversion system for this</em></strong></p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/9</link>
+        <pubDate>Sun, 02 Jul 2017 14:10:17 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-2209-9</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209.rss">[Faction Suggestion] The Banished</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Banished</title>
+        <dc:creator><![CDATA[ThePlex]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah.</p>
+<p>Also, I had thought about making a completely different Invest counter to Banished but I felt like Sheriff would seem to fit right in. I considered making “The Warden” but it would just be Sheriff with the same ability to check them but something alternative to recruiting. I scrapped it but I may just post a concept.</p>
+<p>(Also, I might add a couple more Banished Classes for concept too)</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/8</link>
+        <pubDate>Sun, 02 Jul 2017 13:00:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-2209-8</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209.rss">[Faction Suggestion] The Banished</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Banished</title>
+        <dc:creator><![CDATA[SadSnake]]></dc:creator>
+        <description><![CDATA[
+            <p>oh, the sheriff doesn’t have to check the guy two nights in a row to find he’s the banished, then?</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/7</link>
+        <pubDate>Sun, 02 Jul 2017 12:53:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-2209-7</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209.rss">[Faction Suggestion] The Banished</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Banished</title>
+        <dc:creator><![CDATA[ThePlex]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeh, it is.</p>
+<p>It means the target will be framed for two nights so that he doesn’t have to target whoever Sheriff is checking on the same night. That’s why I gave it a cool down too.</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/6</link>
+        <pubDate>Sun, 02 Jul 2017 12:52:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-2209-6</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209.rss">[Faction Suggestion] The Banished</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Banished</title>
+        <dc:creator><![CDATA[ThePlex]]></dc:creator>
+        <description><![CDATA[
+            <p>I swear I had a note there saying “Targetting Prince has no effect”</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/5</link>
+        <pubDate>Sun, 02 Jul 2017 12:46:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-2209-5</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209.rss">[Faction Suggestion] The Banished</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Banished</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>Also stealing Princes ability seems broken.</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/4</link>
+        <pubDate>Sun, 02 Jul 2017 10:45:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-2209-4</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209.rss">[Faction Suggestion] The Banished</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Banished</title>
+        <dc:creator><![CDATA[SadSnake]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="ThePlex" data-post="1" data-topic="2209">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/theplex/40/2519_2.png" class="avatar"> ThePlex:</div>
+<blockquote>
+<p>Draw strange symbols on the wall inside your targets room tonight. If they are checked by Sheriff tonight and the next night, he will be told they are Banished. (lasts for 1 night)</p>
+</blockquote>
+</aside>
+<p>tonight AND the next night? isn’t it a bit situationnal for a main ability?</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/3</link>
+        <pubDate>Sun, 02 Jul 2017 09:37:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-2209-3</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209.rss">[Faction Suggestion] The Banished</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Banished</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>10/10 I really like this one. I’d like to see a FoL with this or jammys green dragon faction as they’re both more balanced and interesting than cult tbh.</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/2</link>
+        <pubDate>Sun, 02 Jul 2017 09:00:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-2209-2</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209.rss">[Faction Suggestion] The Banished</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Banished</title>
+        <dc:creator><![CDATA[ThePlex]]></dc:creator>
+        <description><![CDATA[
+            <h1><font color="#586b39">The Banished</font></h1>
+<blockquote>
+<p><span class="mention">@JammySplodge</span>: Okay team we need to design a new faction for no reason let’s go</p>
+</blockquote>
+<blockquote>
+<p><a class="mention" href="/u/theplex">@ThePlex</a> <em>already had another one saved</em></p>
+</blockquote>
+<h1><font color="#586b39">The Forgotten (Banished Special)</font></h1>
+<p><em>(Starts with this)</em><br>
+<em>Immune to Occupy</em></p>
+<p><em>Passive: Remember me? - Nobody recognises you, you will be hidden from Warden unless he checks you again, he may recognise you.</em></p>
+<p><strong>Night Ability 1 - Banishment (Special - 1 Night Cooldown - Max 4 Banished)</strong><br>
+Force somebody into Banishment and they will join the Banished as an Outsider. You can choose which class they should choose to become but they will have the choice which you’ll be informed of after they choose it.</p>
+<p><strong>Night Ability 2 - Apprenticeship (Infinite uses)</strong><br>
+Choose which member of the Banished will kill tonight, their special ability will take effect with the Kill. If this isn’t used, then The Disturbed will be given the Apprenticeship <strong><em>or</em></strong> The Insane will be allowed to kill without Apprenticeship effect.</p>
+<hr>
+<h1><font color="#586b39">The Disturbed (Banished Wildcard)</font></h1>
+<p><em>(Starts with this)</em><br>
+<em>Passive: Right Hand - If The Forgotten is found, you will gain command and take his place</em></p>
+<p><strong>Night Ability 1: Craze (Infinite uses - 1 night cooldown)</strong><br>
+Draw strange symbols on the wall inside your targets room tonight. If they are checked by Warden tonight and the next night, he will be told they are Banished. (lasts for 1 night)<br>
+<strong><em>Apprenticeship effect: Draw symbols that will draw your target to suicide after 1 night.</em></strong><br>
+<em>(Effect: Visit and death on two seperate nights + Exhume shows suicide)</em></p>
+<p><strong>Night Ability 2: Horror (Infinite uses - 1 night cooldown)</strong><br>
+Scare away anybody trying to visit your room with a fear inducing relic. They’ll be told something prevented them from visiting their target.</p>
+<hr>
+<h1><font color="#586b39">The Outsider (Banished Special)</font></h1>
+<p><em>Passive: Nobody - As long as you are an Outsider, you remain to be seen as Blue Dragon but you must take New Life as soon as it’s Night Phrase. If you do not choose, you will be made whatever The Forgotten wanted you to become</em></p>
+<p><strong>Night Ability: New Life (Special 15 Second Popup Window - Happens Instantly Upon Selecting)</strong><br>
+Choose which Banished Class you want to become. The Forgotten wanted you to become  but you can choose whichever you want. There can’t be more than 1 of any Banished Class.</p>
+<hr>
+<p>#<font color="#586b39">The Haunted (Banished Offensive)</font></p>
+<p><strong>Night Ability 1: Nightmare (Infinite uses)</strong><br>
+Hide a haunted relic under your targets bed tonight. They will be Occupied from fear from their Nightmare.<br>
+<strong><em>Apprenticeship effect: Hide a powerful relic under your targets bed tonight. They will die from shock from their Nightmares.</em></strong><br>
+<em>(Effect: Occupied+Killed)</em></p>
+<p><strong>Day Ability 1: Spook (3 uses)</strong><br>
+Prevent your target from voting for the rest of the day.</p>
+<hr>
+<h1><font color="#586b39">The Shaman (Banished Support)</font></h1>
+<p><strong>Night Ability 1: VooDoo (Special - Infinite)</strong><br>
+If you used Dollmaster, control your target’s doll, forcing them to visit somebody at random. They will not be told they were controlled.<br>
+<strong><em>Apprenticeship effect: Stab your target’s VooDoo doll, killing them.</em></strong><br>
+<em>(Effect: Doesn’t visit)</em></p>
+<p><strong>Day Ability 1: Dollmaster (Infinite uses)</strong><br>
+Create a VooDoo doll of your target</p>
+<hr>
+<h1><font color="#586b39">The Stalker (Banished Investigative)</font></h1>
+<p><strong>Night Ability 1: Stalk (Infinite uses)</strong><br>
+Follow your target tonight to learn of their Class.<br>
+<strong><em>Apprenticeship effect: Sneak up on your target tonight, where you will kill them and steal their journal.</em></strong><br>
+<em>(Effect: Journal is hidden)</em></p>
+<p><strong>Day Ability 1: Pickpocket (Special)</strong><br>
+If your target had a day ability, you will steal it and it will become yours until you die. Targeting Prince will be treated as if he had no Day Ability.</p>
+<p><strong>Day Ability 2: Stolen (Special)</strong><br>
+If you Pickpocketed a Day Ability, this will be replaced with it with the default number of uses.</p>
+<hr>
+<h1><font color="#586b39">The Begger (Banished Social)</font></h1>
+<p><strong>Night Ability 1: Irritation (Infinite uses)</strong><br>
+You will knock at your targets door tonight and beg for money all night. Keeping them awake and unable to attend the first half of court due to oversleeping. <em>(FoL: You’ll be asked to not respond for the first half of the Day Phase)</em><br>
+<strong><em>Apprenticeship effect: Break into your targets room. You will kill him and take their place at court. If you take the place of a Royal, you will be able to step up as King.</em></strong><br>
+<em>(Effect: Hide their Class, only you’ll know what it was. If Royal, you get Royal Blood.)</em></p>
+<p><strong>Day Ability 1: Plead (3 uses)</strong><br>
+Beg your target for money, distracting them to be unable to perform a trial vote. <em>(Pardon/Guilty won’t be counted from them)</em></p>
+<hr>
+<h1><font color="#586b39">The Insane (Banished Killer)</font></h1>
+<p><em>Passive: Natural Killer - You take priority over killing unless The Forgotten has chosen his killer but will not be given the Apprenticeship effect.</em></p>
+<p><em>Passive: Psychotic - If you are jailed, you will attack the Prince. The Prince will not die unless The Forgotten uses Apprenticeship while you’re jailed. If not, then the Prince will be told he was attacked but won’t die.</em></p>
+<p><strong>Night Ability 1: Unleash (Infinite uses)</strong><br>
+Attack your target in their room tonight. They will die unless they are immune to death.<br>
+<strong><em>Apprenticeship effect: Attack your target and anybody visiting. You will bypass death immunity and healing on your main target, anybody visiting will die unless immune to death or being healed.</em></strong><br>
+<em>(Effect: Bypass Immunity/Healing + Potential to kill multiple)</em></p>
+<p><strong>Day Ability 1: Asylum (2 use)</strong><br>
+Your target will lose their mind and attack the Prince if they’re jailed. The Prince won’t die.</p>
+<hr>
+<h1><font color="#586b39">The Widow (Banished Support)</font></h1>
+<p><em>Passive: Mourning - Due to the death of your husband, you spend even nights at his grave, making you immune to death but unable to perform Midnight Rendevouz.</em></p>
+<p><strong>Night Ability 1: Midnight Rendevouz (Infinite uses)</strong><br>
+You will visit your target tonight in an intimate embrace. They will be Occupied tonight and with the door locked, nobody will be able to visit.<br>
+<strong><em>Apprenticeship effect: You will visit your target tonight in an intimate embrace, during which, you will murder him in his sleep. With the door locked, nobody will be able to visit.</em></strong><br>
+<em>(Effect: Kill a person while keeping people from visits)</em></p>
+<p><strong>Day Ability 1: Toxic Lipstick (2 uses)</strong><br>
+With your toxic lipstick, sneak a kiss onto your target today, the toxic will cause their lips to swell and they will be unable to speak for the rest of the day.<br>
+<strong><em>(FoL alt: If they’re jailed or Psychic linked, they can’t reply to them.)</em></strong></p>
+<hr>
+<h1><font color="#586b39">The Phantom (Banished Investigative)</font></h1>
+<p><strong>Night Ability: Scrutinize (Infinite uses)</strong><br>
+Creep around your targets room tonight to find out what class type they are. It will be revealed to you at the beginning of the day.<br>
+<strong><em>Apprenticeship effect: Hide in your targets room. If they used an ability, the person that they originally targeted will show up as visiting them as well as yourself. You will also see who they visited.</em></strong><br>
+<em>(Effect: Adds a visit to your visit to help cover your tracks)</em></p>
+<p><strong>Day Ability: Survey (3 uses)</strong><br>
+Check to see if a player has any sort of Immunity. If so, you’ll be told one of their types of immunity.</p>
+<h1><font color="#586b39">The Tinkerer (Banished Support)</font></h1>
+<p><strong>Night Ability 1: Synergy (Infinite uses)</strong><br>
+Perform an experiment with different types of poisons and expose your target to it. Due to inexperience in science, your concoction will give your target a message that they were healed and will be randomly told about Night shade poison during the day.<br>
+<strong><em>Apprenticeship effect: Perform an experiment by combing Nightshade with a Crimson Potion. The concoction will kill your target and if inspected, it will suggest Alchemist killed them.</em></strong><br>
+<em>(Effect: When exhumed, it will say Alchemist killed them)</em></p>
+<p><strong>Day Ability 1: Potion Mixer (3 uses)</strong><br>
+Slip a mixture of different potions into your targets wine. Your target will be told they were poisoned by Night shade and then told they were healed the next day.</p>
+<h1><font color="#586b39">The Cultivator (Banished Support)</font></h1>
+<p><em>Passive: Pretty Aroma - Thanks to the smell of flowers on you after tending the gardens on odd days, you will be undetected by Warden on odd nights.</em></p>
+<p><strong>Night Ability 1: Dirt Trail (Infinite uses)</strong><br>
+Leave a trail from one target’s room to another and Observers will see your first target visiting your second but you will be undetected.<br>
+<strong><em>Apprenticeship effect: If your Target is visiting somebody, you will kill them at their targets room. You will not be seen visiting your target but instead be seen visiting their target.</em></strong><br>
+<em>(When you kill them, your visit will be to their target)</em></p>
+<p><strong>Day Ability 1: Snakeroot (4 uses)</strong><br>
+You will slip Snakeroot into your targets wine. They will be unable to perform the Night Ability they used the previous night.</p>
+<h1><font color="#586b39">The Broker (Banished Social)</font></h1>
+<p>[details=Needs Rework for FoL]<em>Passive: Snake Tongue - As long as you are alive, Banished are able to see whispers to The Broker.</em></p>
+<p><strong>Night Ability 1: Deal Breaker (Infinite uses)</strong><br>
+You will visit your target tonight in an attempt to buy his silence. Your target will be unable to speak until he is on trial.<br>
+<strong><em>Apprenticeship effect: You will murder your target tonight and silence him completely. He will be unable to communicate with the Priest at night.</em></strong><br>
+<em>(Effect: Can’t talk to Priest when dead)</em></p>
+<h2>
+<strong>Day Ability 1: Trade Seats (2 uses)</strong><br>
+You will swap positions with somebody in court. Anybody that targets you during the day will instead target who you swapped with. This includes Prince target.<br>
+[/details]</h2>
+<h1><font color="#586b39">The Begger King (Banished Special)</font></h1>
+<p><em>Passive: Rags To Riches - If you die, anybody but Royal Blood can step up the next day.</em></p>
+<p><strong>Night Ability 1: Restrain! (2 uses)</strong><br>
+Send the guards to keep somebody in their room tonight, Occupying them.</p>
+<p><strong>Night Ability 2: Guards! (2 uses)</strong><br>
+Send the guards to protect somebody tonight.</p>
+<p><strong>Day Ability 1: Common Finger (3 uses - no cooldown)</strong><br>
+Your vote for today counts as 2 votes</p>
+<p><strong>Day Ability 2: Decide Fate (1 use)</strong><br>
+You may change the result of a trial</p>
+<hr>
+<h1><font color="lighblue">Faction Counter</font></h1>
+<h1><font color="lighblue">The Warden (BlueDragon Investigative)</font></h1>
+<p><em>Passive: Immune to Conversion</em></p>
+<p><strong>Night Ability 1: Inquisitive (Infinite uses)</strong><br>
+Research your target tonight and learn something about them. You will be told if they are Banished, Convertible or Immune to Conversion.</p>
+<p><strong>Day Ability 1: Scribble (3 uses)</strong><br>
+You will pass a note with a your written message to your target. They will know it came from The Warden.</p>
+<p><strong>Day Ability 2: Testimony (1 use - only available upon finding at least 1 Convertible using Inquisitive)</strong><br>
+Your target will be granted conversion immunity and will become the new Warden if you die.</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209/1</link>
+        <pubDate>Sun, 02 Jul 2017 06:05:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-2209-1</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-banished/2209.rss">[Faction Suggestion] The Banished</source>
+      </item>
+  </channel>
+</rss>

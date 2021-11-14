@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</title>
+    <link>https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459</link>
+    <description>The intent of this rework is to attempt to keep the Princess as a difficult to confirm role that is still useful to BD, while increasing her skill floor and skill ceiling. As such, I&#39;m proposing the following changes:
+
+&gt; # [color = &quot;steblue&quot;] The Princess [/color]
+&gt; **[color = &quot;steblue&quot;] Blue Dragon Investigative [/color]**
+**Royal Blood (Passive)** - As a Royal, you can put your name forward for nominations to become the next King.
+**Will O&#39; Wisp (Day)** - [Unavailable Day 1] Tonight, a loyal wisp will stand guard and notify you of any abilities used on you by Unseen or Cult players. - 5 uses.
+**Elixir of True Insight (Day)** - [Unavailable before Day 3] Drink a powerful elixir that empowers you at a terrible cost. Tonight, your Discern will yield all three clues at once, but you will lose your Royal Blood. - 1 use.
+**Discern (Night)** - Using your sharp people-reading skills, you will discover a clue about a target. You can only discover up to three clues per target. - Infinite uses.
+*Defeat the Unseen or Cult and any neutrals that seek to do you harm.*
+
+&gt; # [color = &quot;purple&quot;] The Duchess [/color]
+&gt; **[color = &quot;purple&quot;] Unseen Investigative [/color]**
+**Royal Blood (Passive)** - As a Royal, you can put your name forward for nominations to become the next King. [Only has this if they had it before conversion].
+**Dark Wisp (Day)** - You will uncage a dark wisp tonight, sucking out the light of all Unseen rooms. You will appear as Princess to investigations, the Mastermind as Observer and the Assassin as Knight. - 3 uses.
+**Draught of Stolen Blood (Day)** - [Unavailable before Day 3] You will brew a special potion that can only be completed if the Assassin kills a player with Royal Blood tonight. If you don&#39;t have Royal Blood, you will regain it. If you have Royal Blood, you will grant it to the Assassin. If both you and the Assassin already have Royal Blood, you will grant it to the Mastermind. - 1 use.
+**Pierce Deception (Night)** - You will ruthlessly examine a player, learning their class type. If you target a player that you have already examined with this ability (or with Discern, as a Princess), you will learn their exact class. - Infinite uses.
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*
+
+***Clues For Discern***
+
+First Clue:
+
+*Your target enjoys wielding power over others! They are a **Killer** or **Offensive** class.*
+*Your target has a sharp, intelligent mind! They are a **Special** or **Investigative** class.*
+*Your target pays a lot of attention to others! They are a **Support** or **Social** class.*
+
+Second Clue:
+
+*Your target has shed blood before! They are a **Killer** class.*
+*Your target enjoys getting in people&#39;s way! They are an **Offensive** class.*
+*Your target is a true leader! They are a **Special** class.*
+*Your target has a deep curiosity! They are an **Investigative** class.*
+*Your target is dedicated to helping others! They are a **Support** class.*
+*Your target uses words as their weapon! They are a **Social** class.*
+
+Third Clue:
+
+Note: If both of these clues are applicable, you will receive both.
+
+*Your target has a will of steel! They are **Immune to Occupation and Redirection**.*
+*Your target is in line for the throne! They have **Royal Blood**.*
+
+Note: If neither of these clues apply, you will receive this instead.
+
+*Your target appears unremarkable!*
+
+Classes ordered by clues:
+
+Special+Immune+Royal= **King**.
+Special+Unremarkable= **Mastermind**, **Cult Leader**.
+Killer+Immune+Royal= **Prince**.
+Killer+Immune= **Hunter**, **Sorcerer**, **Possessor**, [Killer With Acquired Immunity].
+Killer+Unremarkable= **Knight**, **Assassin**, **Reaper**.
+Offensive+Immune+Royal= **Drunk**, **Alcoholic**, **Royal Invoker**.
+Offensive+Immune= **Butler**, **Servant**, **Invoker**, **Poacher**, **Sellsword**, [Offensive With Acquired Immunity].
+Offensive+Unremarkable= **Herbalist**.
+Investigative+Immune+Royal= [Investigative Royal With Acquired Immunity].
+Investigative+Royal = **Royal Princess**, **Royal Duchess**, **Royal Seeker**.
+Investigative+Immune= [Investigative With Acquired Immunity].
+Investigative+Unremarkable= **Sheriff**, **Marshall**, **Observer**, **Nightwatch**, **Paladin**, **Seeker**, **Inquisitor**, **Non-Royal Princess**, **Non-Royal Duchess**.
+Support+Immune= **Mercenary**, [Support With Acquired Immunity].
+Support+Unremarkable= **Physician**, **Alchemist**, **Enforcer**, **Court Wizard**, **Sage**, **Ritualist**.
+Social+Immune+Royal= [Social Royal With Acquired Immunity].
+Social+Royal= **Noble**, **Aristocrat**, **Royal Apostle**.
+Social+Immune= **Scorned**, **Fool**, [Social With Acquired Immunity].
+Social+Unremarkable= **Mystic**, **Illusionist**, **Apostle**.
+
+***Notes:***
+
+*Discern*
+
+1) Discern works in stages. The first time you examine someone, you get the first clue. The second time you examine the same target, you get the second clue. The third and future times you examine the same target, you get the second and third clue together.
+2) In an Unseen game, Framing/Mindwarp makes a BD/Neutral target look like the Assassin, while in a Cult game, it makes them look like the Cult Leader. 
+3) Mindwarping the Princess while she&#39;s Discerning an Unseen target will make the Mastermind look like the Observer, the Assassin look like the Knight and all other Unseen members look like their pre-conversion classes. In a Cult game, the Seeker will look like the Paladin, the Invoker will look like the Drunk, the Apostle will look like the Mystic, the Ritualist will look like the Court Wizard and the Cult Leader will look like the Observer. This also applies if the Ritualist uses Brotherhood on a player being Discerned by the Princess.
+4) Framing/Mindwarp both affect the results the Princess gets depending on what stage she&#39;s in, as though the target was of a specific class (if the Princess is examining a Physician for the second time, she will get the second clue for Assassin/Cult Leader if a Frame/Mindwarp effect is in play).
+5) Using Elixir of True Insight and being affected by Frame/Mindwarp will yield 3 wrong clues, even if the Princess has already Discerned that target and received correct clues before.
+6) The only time the Princess&#39;s Discern does not progress to the next clue is if the ability is prevented. If she gets any results, whether correct or not, the ability will move on to the next clue when used again on the same target.
+
+*Will O&#39; Wisp*
+
+1) Will O&#39; Wisp message will be *Your Wisp witnessed you being targeted by [ability]!* or no message at all if no Cult or Unseen players targeted you with any abilities.
+2) The Wisp message cannot be Mindwarped and will notify you of the use of Mindwarp.
+3) The Wisp will notify you of failed abilities too, including failed conversions and attacks.
+
+*Royal Blood*
+
+1) In case it needs to be stated, the ability for the Princess to lose her Royal Blood is deliberate. It serves as a nifty way to empower her investigative abilities once and at a price, and allows evils to claim this role more easily.
+2) If by some reason everyone in the Unseen has Royal Blood, the Draught will do nothing.
+
+I think that&#39;s all, but I will definitely add more if necessary. Feedback is welcome! :smiley:</description>
+    
+    <lastBuildDate>Sun, 08 Jul 2018 00:37:55 +0000</lastBuildDate>
+    <category>Class/Lore/Fanfic</category>
+    <atom:link href="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</title>
+        <dc:creator><![CDATA[ShadowKnight]]></dc:creator>
+        <description><![CDATA[
+            <p>All right, Draught of Stolen Blood now regains RB or gives it to the Assassin/MM (in that order).</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/41">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/41</link>
+        <pubDate>Sun, 08 Jul 2018 00:37:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-69459-41</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459.rss">[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>The fact that it is dramatic is exactly the problem. Not because it is powerful but because it is loud much like the illusionists mental blur is. Sure you could get a royal killed but you always do it in a 1 for 1 trade and it’s not even that likely to succeed. And that’s even accounting for the possible frame method (accusing a princess of being a duchess that blocked you out).</p>
+<p>The thing is that the Royals that exist are: Princess, Drunk, Noble, Prince.</p>
+<p>Since no one in their right mind would doubt the prince and a Noble or Drunk are both more creditable than a Princess that means that the only person you could get executed like this is a princess.</p>
+<p>However since this requires both a Duchess and at least one dead royal it is likely that any other princesses are dead. And even if they aren’t there are so many things that can go wrong. That includes them having used their elixir and thus ignoring the frame entirely.</p>
+<p>A far simpler way to go about it is to simply accuse them directly, fake claiming as needed. You could even have your assassin do it so that you can preserve your royal.</p>
+<p>Oh and those 2 votes are a bigger deal than you might think. First of all Royal votes tend to be very close unless someone is definitely confirmed and no one else is. Second of all having even one person saying they are voting for you makes others more likely to do the same. In otherwords those 2 votes bring in more.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/40">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/40</link>
+        <pubDate>Sat, 07 Jul 2018 23:48:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-69459-40</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459.rss">[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</title>
+        <dc:creator><![CDATA[ShadowKnight]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="NuclearBurrito" data-post="37" data-topic="69459" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/nuclearburrito/40/4723_2.png" class="avatar"> NuclearBurrito:</div>
+<blockquote>
+<p>Here is the problem. If you were going to get the majority of votes anyways then the ability was useless. However if you were not going to get the majority of votes then at least 1 person who is likely confirmable now knows for a fact that you are an evil king.</p>
+<p>Neither situation is useful.</p>
+</blockquote>
+</aside>
+<p>Well, my theory is that the second outcome is useful if you’ve played skillfully enough and can get BD to turn on the other alleged royal. If you succeed, you will be found out as Evil King, yes, but you got a BD Royal killed, gave the MM a free conversion night and delayed the court for at least one full day, which is basically what Scorned/Fool do.</p>
+<aside class="quote no-group" data-username="Shrimpy" data-post="38" data-topic="69459">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shrimpy/40/15828_2.png" class="avatar"> Shrimpy:</div>
+<blockquote>
+<p>Sure, but you’re proposing raising this percentage even higher.</p>
+</blockquote>
+</aside>
+<p>It already happens, though. Unseen Royals get elected as Evil Kings in games. Since Unseen only get 3 members and only one “special converted class”, I don’t see the harm in letting one of those special converted classes have an easier way of becoming an Evil King.</p>
+<aside class="quote no-group" data-username="Shrimpy" data-post="38" data-topic="69459">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shrimpy/40/15828_2.png" class="avatar"> Shrimpy:</div>
+<blockquote>
+<p>Not a guarantee but the point is Unseen royals get elected more easily than others. Since you acknowledge both points how can you deny it would be a bad idea to make it even easier?</p>
+</blockquote>
+</aside>
+<p>Because I don’t think Unseen Royals get elected more easily than others? They have slightly better odds of surviving, sure, but 2 extra votes are meaningless when compared to actual BD ongoingly confirming themselves as BD, since people know that if there are a Drunk, a Noble and a Princess with at least decently solid proof of what they are, only one of them can be Unseen. The weakest claim of those is Princess and the least useful role of those is Noble. Smart BD will vote for the Noble even on the chance they’re an Aristocrat because they’re the strongest claim whose powers BD doesn’t particularly need.</p>
+<p>I mean, the only other option I liked for the ability is giving RB to Assassin/MM. It’s less dramatic, but I suppose it works just as well.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/39">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/39</link>
+        <pubDate>Sat, 07 Jul 2018 23:19:25 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-69459-39</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459.rss">[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</title>
+        <dc:creator><![CDATA[Shrimpy]]></dc:creator>
+        <description><![CDATA[
+            <blockquote>
+<p>starting King can be evil too, so the “it raises the number of Unseen to 4” is something that literally already happens in 35%</p>
+</blockquote>
+<p>Sure, but you’re proposing raising this percentage even higher.</p>
+<blockquote>
+<p>While that is a significant advantage over the competition, it in no way assures them the crown.</p>
+</blockquote>
+<p>If course it doesn’t <em>assure</em> anything.  The point is Unseen royals already have an easier time getting elected so why make it even easier?</p>
+<blockquote>
+<p>While the odds of surviving are slightly higher, being Unseen is by no means a guarantee you’ll make it to step up.</p>
+</blockquote>
+<p>Not a guarantee but the point is Unseen royals get elected more easily than others.  Since you acknowledge both points how can you deny it would be a bad idea to make it even easier?</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/38">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/38</link>
+        <pubDate>Sat, 07 Jul 2018 14:22:17 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-69459-38</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459.rss">[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Here is the problem. If you were going to get the majority of votes anyways then the ability was useless. However if you were not going to get the majority of votes then at least 1 person who is likely confirmable now knows for a fact that you are an evil king.</p>
+<p>Neither situation is useful.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/37">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/37</link>
+        <pubDate>Sat, 07 Jul 2018 13:18:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-69459-37</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459.rss">[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</title>
+        <dc:creator><![CDATA[ShadowKnight]]></dc:creator>
+        <description><![CDATA[
+            <p>Except this is literally a thing that already happens? None of the things you described are things I came up with. All the things you listed are mechanics already in the game and events that already happen. Especially since the starting King can be evil too, so the “it raises the number of Unseen to 4” is something that literally already happens in 35% of Unseen games and some unknown percentage of the remaining games.</p>
+<p>You’re also greatly over-exaggerating the control Unseen have over who gets selected King. An Unseen candidate doesn’t get 3 Unseen votes, it gets 2, because every candidate almost always votes for themselves. 2 extra votes can be meaningful late game when tbere aren’t many players left, but in the early/mid game, they’re usually around 15%-20% of the votes. While that is a significant advantage over the competition, it in no way assures them the crown.</p>
+<p>Unseen Royals are at the same risk of being attacked by NK or targeted by Scorned as BD Royals, and the risk of being attacked by Unseen is replaced by the risk of being discovered by Sheriff/Observer or CS’d/yolobombed/OE’d/executed by a distrustful Knight/Alch/King/Prince. While the odds of surviving are slightly higher, being Unseen is by no means a guarantee you’ll make it to step up.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/36">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/36</link>
+        <pubDate>Sat, 07 Jul 2018 05:19:24 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-69459-36</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459.rss">[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</title>
+        <dc:creator><![CDATA[Shrimpy]]></dc:creator>
+        <description><![CDATA[
+            <blockquote>
+<p>There’s value in an Unseen Royal that has an easier time getting elected, it’s something we don’t have yet.</p>
+</blockquote>
+<p>This is a terrible idea, let me explain.  An Unseen royal will not be attacked by the Unseen, while BD royals are fair game to both the Unseen and the NK.  So merely converting a royal makes it twice as likely that they will survive long enough to step up.  And then you have the fact that all 3 Unseen are guaranteed to vote for them.  Plus, electing them increases the Unseen population limit to 4.  This is almost overpowered.</p>
+<p>Making it even easier to get an evil king would definitely be overpowered.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/35">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/35</link>
+        <pubDate>Sat, 07 Jul 2018 05:04:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-69459-35</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459.rss">[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</title>
+        <dc:creator><![CDATA[ShadowKnight]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Shrimpy" data-post="33" data-topic="69459">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shrimpy/40/15828_2.png" class="avatar"> Shrimpy:</div>
+<blockquote>
+<p>Current Will o’ Wisp does not confirm her.</p>
+</blockquote>
+</aside>
+<p>Yeah, current Wisp is fine on that front, but it’s not a fun or terribly useful ability either. At the minute, I prefer the proposal to let the Wisp inform her of enemy abilites used on her, so I’ll change it to that.</p>
+<aside class="quote no-group" data-username="Shrimpy" data-post="33" data-topic="69459">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shrimpy/40/15828_2.png" class="avatar"> Shrimpy:</div>
+<blockquote>
+<p>Unseen doesn’t need more help maneuvering Evil Kings into power.</p>
+</blockquote>
+</aside>
+<p>This might be so, but it’s something no Unseen converts have as a niche, and it fits Duchess better than Aristocrat or Alcoholic. There’s value in an Unseen Royal that has an easier time getting elected, it’s something we don’t have yet. The alternative would be the proposed idea to let her regain RB if she lacks it and give RB to Assassin or MM.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/34">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/34</link>
+        <pubDate>Sat, 07 Jul 2018 04:42:28 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-69459-34</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459.rss">[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</title>
+        <dc:creator><![CDATA[Shrimpy]]></dc:creator>
+        <description><![CDATA[
+            <blockquote>
+<p>The important thing about Princess is to make her as unconfirmable as possible. Will O’ Wisp needs to be an ability that is useful but doesn’t automatically confirm her</p>
+</blockquote>
+<p>Current Will o’ Wisp does not confirm her.  Mastermind can “wisp” his own Assassin at the moment.  They can also “wisp” the NK since they find him easier than BD does.</p>
+<p>I don’t like the current wisp, but I dislike yours more since I don’t like knowing that if I use this ability, I have to die for it to be useful.  I have made a thread before proposing replacing wisp to an ability that tells you the ability type used by the target, instead of simply whether it was killer or not.</p>
+<blockquote>
+<p>Was there a problem with Dark Wisp? I thought the ability was fine, I simply moved it to the Day where I thought it’d be far more useful.</p>
+</blockquote>
+<p>Oh I misunderstood you then, I thought you were proposing a change to it.</p>
+<blockquote>
+<p>It’s a way for Unseen to maneuver an Evil King into power</p>
+</blockquote>
+<p>Unseen doesn’t need more help maneuvering Evil Kings into power.  They already have the benefit of 3 guaranteed votes (assuming all Unseen vote for the evil candidate), which is enormous.</p>
+<p>Princess sacrificing her royal blood for a powerful ability solves the MM failing to step up problem.  There was never a difficulty in getting a converted royal to the throne.  I have actually never heard anyone ever complain that it was too difficult to elect an evil king.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/33">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/33</link>
+        <pubDate>Sat, 07 Jul 2018 00:07:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-69459-33</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459.rss">[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</title>
+        <dc:creator><![CDATA[ShadowKnight]]></dc:creator>
+        <description><![CDATA[
+            <p>Sounds fair. How many uses? 5? Since you run the risk of wasting a few of them, it seems logical to give it a good number of uses.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/32">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/32</link>
+        <pubDate>Fri, 06 Jul 2018 21:51:25 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-69459-32</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459.rss">[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="ShadowKnight" data-post="30" data-topic="69459">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shadowknight/40/5439_2.png" class="avatar"> ShadowKnight:</div>
+<blockquote>
+<p>Maybe if it also lets you see prevented attacks and conversions? So you could confirm a CW/Knight (which you can already do if you investigate them)?</p>
+</blockquote>
+</aside>
+<p>I was just assuming it would work like that.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/31">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/31</link>
+        <pubDate>Fri, 06 Jul 2018 21:50:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-69459-31</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459.rss">[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</title>
+        <dc:creator><![CDATA[ShadowKnight]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Shrimpy" data-post="27" data-topic="69459">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shrimpy/40/15828_2.png" class="avatar"> Shrimpy:</div>
+<blockquote>
+<p>I don’t like the Will O’Wisp because it shares two of the three problems the old one had: From the Princess’ perspective, it makes her need to die to take advantage of it (not fun). From the evil faction’s perspective, it defeats the purpose of killing her, which is often to ensure nobody knows the results of her investigation last night.</p>
+</blockquote>
+</aside>
+<p>The important thing about Princess is to make her as unconfirmable as possible. Will O’ Wisp needs to be an ability that is useful but doesn’t automatically confirm her (unless it activates on death, as I have it right now). I don’t think it stops evils from killing her, since it takes time for her to ramp up to knowing who you really are, and by the time it gets to late game and she’s an actual threat, odds are she’s already used her Wisps.</p>
+<aside class="quote no-group" data-username="Shrimpy" data-post="27" data-topic="69459">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shrimpy/40/15828_2.png" class="avatar"> Shrimpy:</div>
+<blockquote>
+<p>Dark Wisp is exactly the same as current Dark Wisp for all intents and purposes.</p>
+</blockquote>
+</aside>
+<p>Was there a problem with Dark Wisp? I thought the ability was fine, I simply moved it to the Day where I thought it’d be far more useful.</p>
+<aside class="quote no-group" data-username="Shrimpy" data-post="27" data-topic="69459">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shrimpy/40/15828_2.png" class="avatar"> Shrimpy:</div>
+<blockquote>
+<p>I don’t like Draught of Stolen Blood either. It seems like it causes too much confusion.</p>
+</blockquote>
+</aside>
+<p>It’s a way for Unseen to maneuver an Evil King into power, something they can only sort-of do with Aristocrat/Alcoholic. Duchess gets that ability because Aristocrat is a lot more BD-passing than her (so he doesn’t need it) and Alcoholic is overall more useful.</p>
+<aside class="quote no-group" data-username="NuclearBurrito" data-post="28" data-topic="69459" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/nuclearburrito/40/4723_2.png" class="avatar"> NuclearBurrito:</div>
+<blockquote>
+<p>I have an idea for will-o-wisp</p>
+<p>Make it tell you what ability’s were used on you if the ability was used by someone not of the blue dragon.</p>
+</blockquote>
+</aside>
+<p>That’s actually not a bad idea, since it would tell you if you’ve been Mindwarped, therefore letting you know the results you got are fake. It’s still an unconfirmable ability and actually helps evils claim Princess, as they can say “well I got these results but I was Mindwarped so…”</p>
+<p>However, it’s a fairly niche ability (since most of the time evils visit you, you’re gonna get attacked or converted). Maybe if it also lets you see prevented attacks and conversions? So you could confirm a CW/Knight (which you can already do if you investigate them)?</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/30">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/30</link>
+        <pubDate>Fri, 06 Jul 2018 21:20:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-69459-30</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459.rss">[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Foresight for example</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/29">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/29</link>
+        <pubDate>Fri, 06 Jul 2018 21:00:33 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-69459-29</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459.rss">[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>I have an idea for will-o-wisp</p>
+<p>Make it tell you what ability’s were used on you if the ability was used by someone not of the blue dragon.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/28">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/28</link>
+        <pubDate>Fri, 06 Jul 2018 21:00:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-69459-28</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459.rss">[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</title>
+        <dc:creator><![CDATA[Shrimpy]]></dc:creator>
+        <description><![CDATA[
+            <p>I like the concept of a powerful ability that comes at the price of losing your royal blood.  I also like the concept of reexamining a target to further discern their class.  However …</p>
+<p>I don’t like the Will O’Wisp because it shares two of the three problems the old one had:  From the Princess’ perspective, it makes her need to die to take advantage of it (not fun).  From the evil faction’s perspective, it defeats the purpose of killing her, which is often to ensure nobody knows the results of her investigation last night.</p>
+<p>Dark Wisp is exactly the same as current Dark Wisp for all intents and purposes.</p>
+<p>I don’t like Draught of Stolen Blood either.  It seems like it causes too much confusion.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/27">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/27</link>
+        <pubDate>Fri, 06 Jul 2018 18:17:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-69459-27</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459.rss">[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Perfect!</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/26">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/26</link>
+        <pubDate>Fri, 06 Jul 2018 03:08:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-69459-26</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459.rss">[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</title>
+        <dc:creator><![CDATA[ShadowKnight]]></dc:creator>
+        <description><![CDATA[
+            <p>I replaced the third clue, but that forced me to have to change how Discern works, because otherwise she lacks the ability to re-check a target’s class type, so the third and successive Discern uses on the same target will reveal the 2nd and 3rd clues.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/25</link>
+        <pubDate>Fri, 06 Jul 2018 02:29:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-69459-25</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459.rss">[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Actually that’s basically the same thing. Just make it both cuz that’s what the list is trying to show.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/24</link>
+        <pubDate>Fri, 06 Jul 2018 01:59:17 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-69459-24</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459.rss">[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="ShadowKnight" data-post="21" data-topic="69459">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shadowknight/40/5439_2.png" class="avatar"> ShadowKnight:</div>
+<blockquote>
+<p>Or would the third clue reveal both at once, if they apply?</p>
+</blockquote>
+</aside>
+<p>Technically royalty should be enough 9 times out of 10 (as there is no more than 1 starting royal per type)</p>
+<p>So just 1 with Royalty overriding immunity? Makes Royal assassins a mindfuck.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/23</link>
+        <pubDate>Fri, 06 Jul 2018 01:58:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-69459-23</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459.rss">[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>More importantly note how a change in situation can muddy these results. For example if you occupy a knight 3 times then he is occupy immune and appears with Hunter.</p>
+<p>And if an Assassin gets RB he appears alone but if he was occupy immune he appears with Prince.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/22</link>
+        <pubDate>Fri, 06 Jul 2018 01:56:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-69459-22</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459.rss">[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</title>
+        <dc:creator><![CDATA[ShadowKnight]]></dc:creator>
+        <description><![CDATA[
+            <p>Fair enough! The problem is that the third clue would only reveal one of the two clues (either Royal Blood or Occupation Immunity), unless you want to allow a fourth check for cases like the Prince? Or would the third clue reveal both at once, if they apply?</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/21</link>
+        <pubDate>Fri, 06 Jul 2018 01:55:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-69459-21</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459.rss">[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Btw note how this groups fake claims with classes that claim them better than your original one does</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/20</link>
+        <pubDate>Fri, 06 Jul 2018 01:53:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-69459-20</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459.rss">[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="ShadowKnight" data-post="17" data-topic="69459">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shadowknight/40/5439_2.png" class="avatar"> ShadowKnight:</div>
+<blockquote>
+<p>You could also add something like “Immune to bleed/poison”</p>
+</blockquote>
+</aside>
+<p>Not this one spacificaly, that would make Sorcerer in a list alone.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/19</link>
+        <pubDate>Fri, 06 Jul 2018 01:52:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-69459-19</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459.rss">[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>So 3rd clue returns one of these lists effectively:</p>
+<p>(Prince)<br>
+(Mastermind, Cult leader)<br>
+(Hunter, Sorcerer, Possessor)<br>
+(Knight, Assassin, Reaper)<br>
+(Princess/Duchess, Royal Seeker)<br>
+(Sheriff/Marshal, Observer/Nightwatch, Paladin, Seeker, Inquisitor)<br>
+(Mercenary)<br>
+(Physician/Herbalist, Alchemist, Sage/CW, Ritualist, Enforcer)<br>
+(Drunk/Alchaholic, Royal Invoker)<br>
+(Butler/Servant, Poacher, Sellsword, Invoker)<br>
+(Noble/Aristocrat, Royal Apostle)<br>
+(Fool, Scorned)<br>
+(Mystic/Illusionist, Apostle)</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/18</link>
+        <pubDate>Fri, 06 Jul 2018 01:50:33 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-69459-18</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459.rss">[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</source>
+      </item>
+      <item>
+        <title>[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</title>
+        <dc:creator><![CDATA[ShadowKnight]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="NuclearBurrito" data-post="15" data-topic="69459" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/nuclearburrito/40/4723_2.png" class="avatar"> NuclearBurrito:</div>
+<blockquote>
+<p>Actually here is an idea. 3rd check tells you if the target is royal, occupy immune, or both.</p>
+</blockquote>
+</aside>
+<p>Oh, that’s an interesting idea. You could also add something like “Immune to bleed/poison” as well. I still think it should give some clue for classes that are none of these (especially Neutral classes, since Princess is the only BD Investigative class that can really figure out what a Neutral is), but it’s not a bad start for a third clue rework.</p>
+          <p><a href="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459/17</link>
+        <pubDate>Fri, 06 Jul 2018 01:50:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-69459-17</guid>
+        <source url="https://forum.throneoflies.com/t/rework-suggestion-the-princess-the-duchess-more-skill-and-usefulness/69459.rss">[Rework Suggestion] The Princess/The Duchess, more skill and usefulness!</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[MISC]Danganronpa - Needing Confirmation</title>
+    <link>https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319</link>
+    <description># Gameplay
+* Works similar to other misc/forum matches such as Sulit&#39;s recent VLDR.
+
+* Fifteen players are selected as Participants, one is selected as the Mastermind.
+* Participants have two differing wincons. They either become a Blackened and survive the Class Trial, or they survive the Final Trial and expose the Mastermind. Throughout the game you can search around the school for clues that can lead to the Mastermind or accessories that can help you in your murder plot. However, some participants may have alternate wincons.
+* The Mastermind&#39;s wincon is to survive the Final Trial and remain unexposed or for an N amount of Class Trials to select an incorrect player who is not the Mastermind as the Blackened. The Mastermind also has several benefits and tools the Participants lack, but they cannot become the Blackened. The N is unknown even for the Mastermind.
+
+* Failing a class trial won&#39;t end the game for the Spotless students, but failing a hidden pre-determined amount will. This amount is decided before the game begins and will not be revealed to anyone.
+
+* This is how the game phases work.
+
+
+[details=&quot;Phases&quot;]
+&gt;Daily Life begins.
+
+v
+&gt;A person finds the body, can be the Blackened who found it.
+
+v
+&gt;Game transitions into Deadly Life.
+
+v
+&gt;Twenty-four hours pass.
+
+v
+&gt;Class Trial begins.
+
+v
+&gt;48 hours pass or the entire class agrees on a blackened.
+
+v
+
+&gt; Next chapter begins with Daily Life.
+
+There are five normal chapters where this happen. The sixth is a Final Trial.
+[/details]
+
+* Each player begins with a limited number of movement points, to cross a grey hallway in the map it costs one MP. Such as if you wish to go to the West Commons to the Garbage Disposal Room it would cost you 2 MP. 20% of your MP is replenished per hour you spend in your Dorm.
+
+* Players can go to their own dorm, the bathrooms, or the cafeteria for free if they have 0 MP.
+
+* Each player begins with a limited number of Action Points, to use an action it costs one AP. Such as if you wish to go to search for a book in the Library it would cost 1 AP. 20% of your AP is replenished per hour you spend in your dorm.
+
+
+# Murders
+
+* Killing a player is decided by a mixture of RNG and stats. If a kill fails then the would-be victim is not notified. To attempt a murder it costs 40% of your total AP.
+
+* When a murder happens, the murder weapon will be bloodied. In addition if the kill was done in via a melee range then the killer will be splattered in blood. This will require them to change clothes, wash themselves, or use something like a blanket to prevent blood from splattering on them. Bloodied items can only be disposed of the room the murder happened or a room that had one tile adjacent to it.
+
+* Murders can only happen during the Daily Life Phase.
+
+* Accessories to murder can only be dropped in the room or the one adjacent to where the murder happened, however they can be incinerated in the Garbage Disposal Room.
+
+* Up to two players can be murdered in a single chapter. In the case both players are murdered by the same person or the first Blackened is murdered, then the Blackened to be found will always be the double murderer or the player who murdered the first Blackened.
+
+* It is possible for the Blackened to also be the victim in the case of suicide.
+
+* In the case of two different Blackeneds for two victims the Blackened to be found will be the killer of the victim whose body was first discovered, and the killer of the other victim will just become a normal participant.
+
+# School Map
+
+![SchoolLayout|605x410](upload://zzTAzEAF2xXwSmcqVK6XiTdUWQ6.png) 
+
+* Be advised that there **is** a single hidden passageway that connects two rooms together
+
+# Rolecards
+* Each player gets one with their character name, talent, gender, stats, and four abilities which can be passives or actives. Additionally, some players may have additional wincons.
+
+* Claiming and fakeclaiming are both allowed. Fakeclaiming is encouraged regardless if you wish to become a Blackened or not as claiming early may help the Blackened avoid being caught by your talent.
+
+* Your gender in your rolecard determines which bathroom or locker room you&#39;re allowed to enter, not your IRL one.
+
+# Item Slots
+* Each player by default begins with one private item slots and five public item slots. 
+
+* Anyone can check another player&#39;s public slot, but the private slot will remain hidden regardless
+
+* However, during Deadly Life the private slot will temporary turn into a public slot.
+
+# Motives
+Periodically the Mastermind will be able to add customized motives to the game, at the maximum of one motive per chapter. These motives can include alternative wincons, changing game mechanics, and whatnot. There will be a special announcement for each motive when they are issued.
+
+# Nighttime 
+* For the first and last 6 hours of the day the game will be during nighttime. 
+
+* During night-time the odds of finding information is halved, but the odds of finding weapons and accesories to a murder is doubled.
+* Staying in your dorm during nighttime will allow you to gain up to 200% of your Maximum AP or MP and the recovery rate is doubled.
+* The rolls for murder during nighttime is boosted, so a player has a higher chance of killing another during night.
+
+* MP cost is tripled during nighttime.
+
+* The Library and the Gym are closed during nighttime.
+
+
+Hunger Bar - Decreases by 20% every 12 hours. Starts and maximum at 100%. If it goes to 0 then your Action Points and Movement points will stay at 0 until it rises back to 50%.
+
+Digestion Bar - Increases by 10% every time you eat or drink something. Starts at 0% and maximum is 100%. If it goes to 100% then your Action Points and Movement points will stay at 0 until you go to a restroom. You may rest it to 0% by going to a bathroom.
+
+# Special Rooms
+* **Dormitories**: Each player has their own Dormitory. Other players cannot enter your dormitory without your permission unless you are dead. Staying in your own Dormitory restores AP and MP.
+
+* **Cafeteria**: While you&#39;re in the Cafeteria you may speak in the main thread. Effectively, this is a public commons. Also you may eat from the table here, which raises your Hunger Bar to 100%.
+
+* **Bathrooms**: You may only enter the Bathroom of your gender. Staying here will zero out your Digestion Bar.
+
+* **Garbage Disposal Room**: Contains the Incinerator. Players may dispose of evidence in the Incinerator. However in order to turn it on they are required to use their own Monopads, which will leave a print on the Incinerator&#39;s memory bank which is publicly shown.
+
+### Strength (STR) 
+* Potential to kill regarding slashing, bludgeoning, stabbing, and strangulation.
+* Additionally certain obstacles can only be moved by characters with a high level of Strength
+
+### Constitution (CON) 
+* Grants additional Maximum Movement Points.
+* Grants additional Maximum Action Points.
+
+### Agility (AGI) 
+* Increases the chance of a search netting an item.
+* Potential to kill regarding projectile weapons. 
+
+### Intelligence (INT)
+* Increases the chance of you gaining information by reading a book or a file.
+
+### Luck (LUK)
+* Increases the chance of surviving an incoming kill.
+* Increases the chance of finding an item or getting information by reading a book or file.
+
+# Sign-ups
+
+1. Jane 
+2. DatBird 
+3. Sulit
+4. PKR
+5. Apprentice
+6. Marshal
+7. Italy
+8. Wazza
+9. Universal
+10. Ami
+11. Geyde
+12. CRicahrd
+13. Moleland
+14. Vulgard
+15. Gorta
+16. Zone
+
+# Back-ups
+2. Mist1442
+3. Magnus
+4. TrustworthyLiberal
+5. Centuries
+6. Leafia
+7. an_gorta_pratai
+8. N.1
+9. Maximus Prime
+
+# Spectators
+1. Katze
+2. Napoleon
+3. Anstreim
+4. Astand
+5. Arete
+
+# This Misc will begin at earliest June 23rd when all sixteen slots are inned.</description>
+    
+    <lastBuildDate>Wed, 22 Jul 2020 00:15:22 +0000</lastBuildDate>
+    <category>Signups</category>
+    <atom:link href="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[MISC]Danganronpa - Needing Confirmation</title>
+        <dc:creator><![CDATA[Wazza]]></dc:creator>
+        <description><![CDATA[
+            <p>Ask these in your classcard, I recommend.</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/839">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/839</link>
+        <pubDate>Wed, 22 Jul 2020 00:15:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82319-839</guid>
+        <source url="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319.rss">[MISC]Danganronpa - Needing Confirmation</source>
+      </item>
+      <item>
+        <title>[MISC]Danganronpa - Needing Confirmation</title>
+        <dc:creator><![CDATA[Zone_Q11]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group quote-modified" data-username="Zone_Q11" data-post="713" data-topic="82319">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/zone_q11/40/31837_2.png" class="avatar"> Zone_Q11:</div>
+<blockquote>
+<aside class="quote no-group" data-username="Alice" data-post="689" data-topic="82319">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/alice/40/32176_2.png" class="avatar"> Alice:</div>
+<blockquote>
+<p>Rooms as a whole. You get kicked out if you remain there while night sets.</p>
+</blockquote>
+</aside>
+<p>Where would we get kicked if we were to stay at those rooms?</p>
+<aside class="quote no-group" data-username="Alice" data-post="691" data-topic="82319">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/alice/40/32176_2.png" class="avatar"> Alice:</div>
+<blockquote>
+<p>Yes, you are.</p>
+</blockquote>
+</aside>
+<p>How would that work with the Movement Points then? If we require 1 MP to move from one room to the other… what is the cost to move from-and-to a hallway? Is it something like “leaving a room costs 1 MP, but entering a room costs nothing”?</p>
+</blockquote>
+</aside>
+<p>Tagging <a class="mention" href="/u/alice">@Alice</a> once again to get answers.</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/838">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/838</link>
+        <pubDate>Wed, 22 Jul 2020 00:12:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82319-838</guid>
+        <source url="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319.rss">[MISC]Danganronpa - Needing Confirmation</source>
+      </item>
+      <item>
+        <title>[MISC]Danganronpa - Needing Confirmation</title>
+        <dc:creator><![CDATA[Zone_Q11]]></dc:creator>
+        <description><![CDATA[
+            <p>You planted the flag.</p>
+<p>…but nothing happened.</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/837">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/837</link>
+        <pubDate>Tue, 21 Jul 2020 22:21:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82319-837</guid>
+        <source url="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319.rss">[MISC]Danganronpa - Needing Confirmation</source>
+      </item>
+      <item>
+        <title>[MISC]Danganronpa - Needing Confirmation</title>
+        <dc:creator><![CDATA[Apprentice]]></dc:creator>
+        <description><![CDATA[
+            <p>moving to Ohio so yeah</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/836">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/836</link>
+        <pubDate>Mon, 20 Jul 2020 22:44:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82319-836</guid>
+        <source url="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319.rss">[MISC]Danganronpa - Needing Confirmation</source>
+      </item>
+      <item>
+        <title>[MISC]Danganronpa - Needing Confirmation</title>
+        <dc:creator><![CDATA[Moleland]]></dc:creator>
+        <description><![CDATA[
+            <p>You moving into hell?</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/835">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/835</link>
+        <pubDate>Mon, 20 Jul 2020 22:44:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82319-835</guid>
+        <source url="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319.rss">[MISC]Danganronpa - Needing Confirmation</source>
+      </item>
+      <item>
+        <title>[MISC]Danganronpa - Needing Confirmation</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p>yes</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/834">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/834</link>
+        <pubDate>Mon, 20 Jul 2020 22:43:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82319-834</guid>
+        <source url="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319.rss">[MISC]Danganronpa - Needing Confirmation</source>
+      </item>
+      <item>
+        <title>[MISC]Danganronpa - Needing Confirmation</title>
+        <dc:creator><![CDATA[Apprentice]]></dc:creator>
+        <description><![CDATA[
+            <p>this is gonna start while I’m moving out of my apartment isn’t it</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/833">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/833</link>
+        <pubDate>Mon, 20 Jul 2020 22:42:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82319-833</guid>
+        <source url="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319.rss">[MISC]Danganronpa - Needing Confirmation</source>
+      </item>
+      <item>
+        <title>[MISC]Danganronpa - Needing Confirmation</title>
+        <dc:creator><![CDATA[Zone_Q11]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group quote-modified" data-username="Zone_Q11" data-post="762" data-topic="82319">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/zone_q11/40/31837_2.png" class="avatar"> Zone_Q11:</div>
+<blockquote>
+<aside class="quote no-group quote-modified" data-username="Zone_Q11" data-post="713" data-topic="82319">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/zone_q11/40/31837_2.png" class="avatar"> Zone_Q11:</div>
+<blockquote>
+<blockquote>
+<aside class="quote no-group" data-username="Alice" data-post="689" data-topic="82319">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/alice/40/32176_2.png" class="avatar"> Alice:</div>
+<blockquote>
+<p>Rooms as a whole. You get kicked out if you remain there while night sets.</p>
+</blockquote>
+</aside>
+<p>Where would we get kicked if we were to stay at those rooms?</p>
+<aside class="quote no-group" data-username="Alice" data-post="691" data-topic="82319">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/alice/40/32176_2.png" class="avatar"> Alice:</div>
+<blockquote>
+<p>Yes, you are.</p>
+</blockquote>
+</aside>
+<p>How would that work with the Movement Points then? If we require 1 MP to move from one room to the other… what is the cost to move from-and-to a hallway? Is it something like “leaving a room costs 1 MP, but entering a room costs nothing”?</p>
+</blockquote>
+</blockquote>
+</aside>
+<aside class="quote no-group" data-username="Zone_Q11" data-post="728" data-topic="82319">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/zone_q11/40/31837_2.png" class="avatar"> Zone_Q11:</div>
+<blockquote>
+<p>Hey uh… Do we start the game at the Dorms, or at the Cafeteria?</p>
+</blockquote>
+</aside>
+<p><a class="mention" href="/u/alice">@Alice</a>, I need you to respond to these as well. Also…</p>
+</blockquote>
+</aside>
+<p>…I hope she could answer this before the game starts.</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/832">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/832</link>
+        <pubDate>Mon, 20 Jul 2020 21:55:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82319-832</guid>
+        <source url="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319.rss">[MISC]Danganronpa - Needing Confirmation</source>
+      </item>
+      <item>
+        <title>[MISC]Danganronpa - Needing Confirmation</title>
+        <dc:creator><![CDATA[Insanity]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>/spectate</strong></p>
+<p>Seems pretty interesting so far <img src="https://forum.throneoflies.com/images/emoji/twitter/stuck_out_tongue.png?v=9" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"></p>
+          <p><a href="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/831">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/831</link>
+        <pubDate>Mon, 20 Jul 2020 17:03:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82319-831</guid>
+        <source url="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319.rss">[MISC]Danganronpa - Needing Confirmation</source>
+      </item>
+      <item>
+        <title>[MISC]Danganronpa - Needing Confirmation</title>
+        <dc:creator><![CDATA[PokemonKidRyan]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Zone_Q11" data-post="829" data-topic="82319">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/zone_q11/40/31837_2.png" class="avatar"> Zone_Q11:</div>
+<blockquote>
+<p>Honestly, the 2-digits stat system scare me a bit. 1-digit systems are usually more simpler.</p>
+</blockquote>
+</aside>
+<p>They are simpler, yeah. However, this likely will involve some nice <a href="http://random.org" rel="noopener nofollow ugc">random.org</a> or dice rolling or something similar.</p>
+<p>Should be fun.</p>
+<p>Simulation was always a fun topic in maths ^^</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/830">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/830</link>
+        <pubDate>Mon, 20 Jul 2020 11:38:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82319-830</guid>
+        <source url="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319.rss">[MISC]Danganronpa - Needing Confirmation</source>
+      </item>
+      <item>
+        <title>[MISC]Danganronpa - Needing Confirmation</title>
+        <dc:creator><![CDATA[Zone_Q11]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="PokemonKidRyan" data-post="827" data-topic="82319">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/pokemonkidryan/40/17866_2.png" class="avatar"> PokemonKidRyan:</div>
+<blockquote>
+<p>I think the stat system and abilities are gonna make this nice and unique.</p>
+</blockquote>
+</aside>
+<p>Honestly, the 2-digits stat system scare me a bit. 1-digit systems are usually more simpler.</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/829">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/829</link>
+        <pubDate>Mon, 20 Jul 2020 11:36:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82319-829</guid>
+        <source url="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319.rss">[MISC]Danganronpa - Needing Confirmation</source>
+      </item>
+      <item>
+        <title>[MISC]Danganronpa - Needing Confirmation</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p>I can’t kill Nerbins<br>
+This game is RIGGED</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/828">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/828</link>
+        <pubDate>Mon, 20 Jul 2020 11:33:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82319-828</guid>
+        <source url="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319.rss">[MISC]Danganronpa - Needing Confirmation</source>
+      </item>
+      <item>
+        <title>[MISC]Danganronpa - Needing Confirmation</title>
+        <dc:creator><![CDATA[PokemonKidRyan]]></dc:creator>
+        <description><![CDATA[
+            <p><em>Hyped</em><br>
+Got added to my rolecard.<br>
+I think the stat system and abilities are gonna make this nice and unique.</p>
+<p><s>The last time there was an ability thing in place I won as a Chapter 2 Blackened</s></p>
+          <p><a href="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/827">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/827</link>
+        <pubDate>Mon, 20 Jul 2020 11:32:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82319-827</guid>
+        <source url="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319.rss">[MISC]Danganronpa - Needing Confirmation</source>
+      </item>
+      <item>
+        <title>[MISC]Danganronpa - Needing Confirmation</title>
+        <dc:creator><![CDATA[Zone_Q11]]></dc:creator>
+        <description><![CDATA[
+            <p>We are though? Since when are we not giving her time? It’s not as if I can physically teleport to wherever Alice is, and delay her from hosting the game. In the first place, why would I even delay the game? I am just memeing about our current situation.</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/826">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/826</link>
+        <pubDate>Mon, 20 Jul 2020 10:57:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82319-826</guid>
+        <source url="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319.rss">[MISC]Danganronpa - Needing Confirmation</source>
+      </item>
+      <item>
+        <title>[MISC]Danganronpa - Needing Confirmation</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p>Memes are an excellent way to vent minor frustrations in a non pissy way<br>
+breakfast lasting multiple days is on multiple levels hilarious</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/825">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/825</link>
+        <pubDate>Mon, 20 Jul 2020 10:57:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82319-825</guid>
+        <source url="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319.rss">[MISC]Danganronpa - Needing Confirmation</source>
+      </item>
+      <item>
+        <title>[MISC]Danganronpa - Needing Confirmation</title>
+        <dc:creator><![CDATA[Vulgard]]></dc:creator>
+        <description><![CDATA[
+            <p>Stop moaning and give her time to do things.</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/824">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/824</link>
+        <pubDate>Mon, 20 Jul 2020 10:53:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82319-824</guid>
+        <source url="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319.rss">[MISC]Danganronpa - Needing Confirmation</source>
+      </item>
+      <item>
+        <title>[MISC]Danganronpa - Needing Confirmation</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p>Breakfast is a keyword</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/823">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/823</link>
+        <pubDate>Mon, 20 Jul 2020 09:20:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82319-823</guid>
+        <source url="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319.rss">[MISC]Danganronpa - Needing Confirmation</source>
+      </item>
+      <item>
+        <title>[MISC]Danganronpa - Needing Confirmation</title>
+        <dc:creator><![CDATA[Moleland]]></dc:creator>
+        <description><![CDATA[
+            <p>Poor unfortunate pkr. He thinks we have cards already</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/822">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/822</link>
+        <pubDate>Mon, 20 Jul 2020 09:11:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82319-822</guid>
+        <source url="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319.rss">[MISC]Danganronpa - Needing Confirmation</source>
+      </item>
+      <item>
+        <title>[MISC]Danganronpa - Needing Confirmation</title>
+        <dc:creator><![CDATA[Zone_Q11]]></dc:creator>
+        <description><![CDATA[
+            <p>Next breakfast is… within an hour or two.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://i.redd.it/65yzpkqr5x031.jpg" title="" rel="noopener nofollow ugc"><img src="https://i.redd.it/65yzpkqr5x031.jpg" alt="" width="500" height="500"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename"></span><span class="informations">1039×1039</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div></p>
+          <p><a href="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/821">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/821</link>
+        <pubDate>Mon, 20 Jul 2020 09:03:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82319-821</guid>
+        <source url="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319.rss">[MISC]Danganronpa - Needing Confirmation</source>
+      </item>
+      <item>
+        <title>[MISC]Danganronpa - Needing Confirmation</title>
+        <dc:creator><![CDATA[PokemonKidRyan]]></dc:creator>
+        <description><![CDATA[
+            <p>Let us be patient.<br>
+Myself and Gorta need to be added to our cards too.<br>
+Myself in Blizer’s and Gorta in Simon’s<br>
+I have no idea what my talent and stats are for this game ^^</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/820">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/820</link>
+        <pubDate>Mon, 20 Jul 2020 07:01:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82319-820</guid>
+        <source url="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319.rss">[MISC]Danganronpa - Needing Confirmation</source>
+      </item>
+      <item>
+        <title>[MISC]Danganronpa - Needing Confirmation</title>
+        <dc:creator><![CDATA[anon97870008]]></dc:creator>
+        <description><![CDATA[
+            <p><s>I trust Italy more than u bud, sorry <img src="https://forum.throneoflies.com/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"></s></p>
+          <p><a href="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/819">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/819</link>
+        <pubDate>Mon, 20 Jul 2020 07:00:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82319-819</guid>
+        <source url="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319.rss">[MISC]Danganronpa - Needing Confirmation</source>
+      </item>
+      <item>
+        <title>[MISC]Danganronpa - Needing Confirmation</title>
+        <dc:creator><![CDATA[Marshal]]></dc:creator>
+        <description><![CDATA[
+            <p>I made a better meme</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/b/1/b1408a82382b29aa9263c0e25b33e059b43dfa68.jpeg" data-download-href="https://forum.throneoflies.com/uploads/default/b1408a82382b29aa9263c0e25b33e059b43dfa68" title="Screen Shot 2020-07-20 at 1.44.09 AM"><img src="https://forum.throneoflies.com/uploads/default/optimized/3X/b/1/b1408a82382b29aa9263c0e25b33e059b43dfa68_2_511x500.jpeg" alt="Screen Shot 2020-07-20 at 1.44.09 AM" data-base62-sha1="pi2N1WZXJVGo8NFokAgP8yKpmYM" width="511" height="500" srcset="https://forum.throneoflies.com/uploads/default/optimized/3X/b/1/b1408a82382b29aa9263c0e25b33e059b43dfa68_2_511x500.jpeg, https://forum.throneoflies.com/uploads/default/optimized/3X/b/1/b1408a82382b29aa9263c0e25b33e059b43dfa68_2_766x750.jpeg 1.5x, https://forum.throneoflies.com/uploads/default/optimized/3X/b/1/b1408a82382b29aa9263c0e25b33e059b43dfa68_2_1022x1000.jpeg 2x" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/b/1/b1408a82382b29aa9263c0e25b33e059b43dfa68_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">Screen Shot 2020-07-20 at 1.44.09 AM</span><span class="informations">1140×1114 266 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div></p>
+          <p><a href="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/818">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/818</link>
+        <pubDate>Mon, 20 Jul 2020 06:44:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82319-818</guid>
+        <source url="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319.rss">[MISC]Danganronpa - Needing Confirmation</source>
+      </item>
+      <item>
+        <title>[MISC]Danganronpa - Needing Confirmation</title>
+        <dc:creator><![CDATA[CRichard564]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Alice" data-post="759" data-topic="82319">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/alice/40/32176_2.png" class="avatar"> Alice:</div>
+<blockquote>
+<h1>
+<a class="mention" href="/u/an_gorta_pratai">@an_gorta_pratai</a> an_gorta_pratai has replaced in for Simon!</h1>
+<h1>The game will begin shortly as soon as I finish my breakfast.</h1>
+</blockquote>
+</aside>
+<p>This meme probably says what we’re thinking.</p>
+<p><img src="https://forum.throneoflies.com/uploads/default/original/3X/0/5/05df16cc394e0ad8eac58654dc5b80f3095f6a96.jpeg" alt="That be great meme 1" data-base62-sha1="PWlUDWSd9DyIfXjSqizUAhiOua" width="546" height="457"></p>
+          <p><a href="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/817">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/817</link>
+        <pubDate>Mon, 20 Jul 2020 06:11:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82319-817</guid>
+        <source url="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319.rss">[MISC]Danganronpa - Needing Confirmation</source>
+      </item>
+      <item>
+        <title>[MISC]Danganronpa - Needing Confirmation</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Alice" data-post="759" data-topic="82319">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/alice/40/32176_2.png" class="avatar"> Alice:</div>
+<blockquote>
+<p>The game will begin shortly as soon as I finish my breakfast.</p>
+</blockquote>
+</aside>
+<p>this aged well</p>
+<p><small>i hope you enjoyed your breakfast alice</small></p>
+          <p><a href="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/816">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/816</link>
+        <pubDate>Mon, 20 Jul 2020 06:04:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82319-816</guid>
+        <source url="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319.rss">[MISC]Danganronpa - Needing Confirmation</source>
+      </item>
+      <item>
+        <title>[MISC]Danganronpa - Needing Confirmation</title>
+        <dc:creator><![CDATA[sulit]]></dc:creator>
+        <description><![CDATA[
+            <p>I swear</p>
+<p>I’m gonna sleep and this is gonna start like immediately after</p>
+<p><em>ree sulit noises</em></p>
+          <p><a href="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/815">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319/815</link>
+        <pubDate>Mon, 20 Jul 2020 02:32:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82319-815</guid>
+        <source url="https://forum.throneoflies.com/t/misc-danganronpa-needing-confirmation/82319.rss">[MISC]Danganronpa - Needing Confirmation</source>
+      </item>
+  </channel>
+</rss>

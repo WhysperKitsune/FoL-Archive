@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Allow Ctrl-Z of a paste in the logs [Solved]</title>
+    <link>https://forum.throneoflies.com/t/allow-ctrl-z-of-a-paste-in-the-logs-solved/23748</link>
+    <description>Right now, if you manage to hit Ctrl-V instead of Ctrl-C when highlighting your logs, you completely blow them away with no chance of undo.
+
+Well, when I&#39;m nervous, I make that typo a lot and have gotten killed a lot.
+
+For the love of god, please allow undo after paste. It&#39;s so annoying to die after keeping really good logs because you blew them away and there&#39;s no undo buffer for that.
+
+Edit:
+
+This turns out to be a keymapping bug in Mac. Almost all keys are mapped to Cmd, but Undo is only on Ctrl. I filed in the Bugs forum.</description>
+    
+    <lastBuildDate>Tue, 05 Dec 2017 01:12:46 +0000</lastBuildDate>
+    <category>Feedback/Suggestions</category>
+    <atom:link href="https://forum.throneoflies.com/t/allow-ctrl-z-of-a-paste-in-the-logs-solved/23748.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Allow Ctrl-Z of a paste in the logs [Solved]</title>
+        <dc:creator><![CDATA[geoelectric]]></dc:creator>
+        <description><![CDATA[
+            <p>OK, the mapping is the problem. On Mac ToL, Cmd-C/V/X do copy/paste/cut (and Ctrl-whatever doesn’t work), but Undo is bound to Ctrl-Z on Mac too. It’s a bug, so I’ll file it there.</p>
+          <p><a href="https://forum.throneoflies.com/t/allow-ctrl-z-of-a-paste-in-the-logs-solved/23748/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/allow-ctrl-z-of-a-paste-in-the-logs-solved/23748/5</link>
+        <pubDate>Tue, 05 Dec 2017 01:12:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-23748-5</guid>
+        <source url="https://forum.throneoflies.com/t/allow-ctrl-z-of-a-paste-in-the-logs-solved/23748.rss">Allow Ctrl-Z of a paste in the logs [Solved]</source>
+      </item>
+      <item>
+        <title>Allow Ctrl-Z of a paste in the logs [Solved]</title>
+        <dc:creator><![CDATA[geoelectric]]></dc:creator>
+        <description><![CDATA[
+            <p>I do know that. Try it after a paste overwriting highlighted text. God knows I was trying to undo it, and can say pretty comfortably nothing undid.</p>
+<p>If you confirm you are able to undo a paste overwrite I’ll give it a shot next game with both cmd (which I think they have mapped as the Mac meta for clipboard ops) and ctrl (the Windows meta) to see what happens. It’s possible it’s actually an issue with Mac key mapping, but my take was paste was unreversible.</p>
+          <p><a href="https://forum.throneoflies.com/t/allow-ctrl-z-of-a-paste-in-the-logs-solved/23748/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/allow-ctrl-z-of-a-paste-in-the-logs-solved/23748/4</link>
+        <pubDate>Mon, 04 Dec 2017 17:36:17 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-23748-4</guid>
+        <source url="https://forum.throneoflies.com/t/allow-ctrl-z-of-a-paste-in-the-logs-solved/23748.rss">Allow Ctrl-Z of a paste in the logs [Solved]</source>
+      </item>
+      <item>
+        <title>Allow Ctrl-Z of a paste in the logs [Solved]</title>
+        <dc:creator><![CDATA[Vandalay]]></dc:creator>
+        <description><![CDATA[
+            <p>undo was implimented a few weeks ago… control Z should allow you to fix a journal that you blew up.</p>
+          <p><a href="https://forum.throneoflies.com/t/allow-ctrl-z-of-a-paste-in-the-logs-solved/23748/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/allow-ctrl-z-of-a-paste-in-the-logs-solved/23748/3</link>
+        <pubDate>Mon, 04 Dec 2017 12:10:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-23748-3</guid>
+        <source url="https://forum.throneoflies.com/t/allow-ctrl-z-of-a-paste-in-the-logs-solved/23748.rss">Allow Ctrl-Z of a paste in the logs [Solved]</source>
+      </item>
+      <item>
+        <title>Allow Ctrl-Z of a paste in the logs [Solved]</title>
+        <dc:creator><![CDATA[Moleland]]></dc:creator>
+        <description><![CDATA[
+            <p>But… you can ctrl z logs?</p>
+          <p><a href="https://forum.throneoflies.com/t/allow-ctrl-z-of-a-paste-in-the-logs-solved/23748/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/allow-ctrl-z-of-a-paste-in-the-logs-solved/23748/2</link>
+        <pubDate>Mon, 04 Dec 2017 10:32:32 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-23748-2</guid>
+        <source url="https://forum.throneoflies.com/t/allow-ctrl-z-of-a-paste-in-the-logs-solved/23748.rss">Allow Ctrl-Z of a paste in the logs [Solved]</source>
+      </item>
+      <item>
+        <title>Allow Ctrl-Z of a paste in the logs [Solved]</title>
+        <dc:creator><![CDATA[geoelectric]]></dc:creator>
+        <description><![CDATA[
+            <p>Right now, if you manage to hit Ctrl-V instead of Ctrl-C when highlighting your logs, you completely blow them away with no chance of undo.</p>
+<p>Well, when I’m nervous, I make that typo a lot and have gotten killed a lot.</p>
+<p>For the love of god, please allow undo after paste. It’s so annoying to die after keeping really good logs because you blew them away and there’s no undo buffer for that.</p>
+<p>Edit:</p>
+<p>This turns out to be a keymapping bug in Mac. Almost all keys are mapped to Cmd, but Undo is only on Ctrl. I filed in the Bugs forum.</p>
+          <p><a href="https://forum.throneoflies.com/t/allow-ctrl-z-of-a-paste-in-the-logs-solved/23748/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/allow-ctrl-z-of-a-paste-in-the-logs-solved/23748/1</link>
+        <pubDate>Mon, 04 Dec 2017 04:01:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-23748-1</guid>
+        <source url="https://forum.throneoflies.com/t/allow-ctrl-z-of-a-paste-in-the-logs-solved/23748.rss">Allow Ctrl-Z of a paste in the logs [Solved]</source>
+      </item>
+  </channel>
+</rss>

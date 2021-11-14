@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Puppets and Puppeteers. game over! master polikshadowbliss wins!</title>
+    <link>https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437</link>
+    <description>So, I tried launching this game about 5 months ago, before the official ToL release, but there wasn&#39;t enough interest in it at the time. Hopefully the TOL population has expanded to the point where this game is viable. If you signed up for the last game, You will need to sign up again.
+
+This is a game where you choose whether to be good or evil **during** the game, and can even switch sides during gameplay.
+
+Yes, Yes, I know that sounds like a broken system to some of you. But hear me out; I think that this game has mechanics which mitigate some of the negative effects of this sort of game.
+
+**Instructions**
+
+Each faction attempts to further their own goals through the use of actions.
+
+**Masters** control the actions of their **slaves**.
+
+A master wins when more than half of all living players are slaves of that master.
+
+**Teamers** are all players that are not masters or slaves. 
+
+All players start as teamers. Teamers win if, during a round, there are no enslavement attempts. They try to accomplish their objective by freeing slaves, finding Masters, and deciding whether to forgive or execute them.
+
+**Actions**
+
+Every player (except the sheriff), chooses from one of three actions each round. This action will be PM&#39;d to me, the host.
+
+1. /Enslave (target)
+
+players who attempt this action are attempting to enslave a fellow player. Enslaved players do not immediately know that they are slaves, but players will be informed if they have successfully enslaved a target. Once a player is enslaved, his master may secretly control that player&#39;s actions. Not even the slave know the actions that their master is making them perform.
+
+example:
+/Alice &gt; investigate Bob.
+
+A master chooses an action for each of his slaves (and himself) each round. Teamers who attempt to enslave can not be enslaved by other teamers that round, and masters can not be enslaved. If everyone attempts to enslave in the first round, everybody loses.
+
+2. /investigate (target)
+
+Players who attempt this action are attempting to discover the action of another player during that round. Slaves who attempt to investigate are informed that they are slaves. If the target of an investigation is a slave, the investigator sees the action the Master makes the slave perform, rather than the action that the slave attempted to perform.
+
+Example: 
+Alice is Bob&#39;s slave. Alice attempts to investigate Charlie, and is told she is a slave. In the same round, Bob forces Alice to enslave David. Edward investigates Alice, and sees that she chose the &quot;enslave&quot; action this round. Bob chooses to use his own action to free Frank. George investigates Bob, and sees that he chose the &quot;free&quot;  action.
+
+3. /free (target)
+
+Players who attempt this action are attempting to free a slave. Note that a Master may NOT use his slaves to free his own slaves. (This prevents masters from easily becoming teamers when things are not going well for them.) Players who choose this action will be told whether or not their target is a slave after all actions have been calculated. Slaves who attempt to free will be told their target is still a slave.
+
+NOTE:
+
+A slave who is forced to enslave someone will not become the master of the new slave. Rather, the new slave will belong to the original slave&#39;s master.
+
+A slave who is forced to investigate someone will not receive the information from that investigation. Rather, only the slave&#39;s master will receive the information.
+
+**The sheriff**
+
+The player who is the target of the most actions in any given round will become the sheriff of the next round. The sheriff may not choose any of the three normal actions, and instead _must_ execute a player (/execute (target)). The execution action itself is the only action NOT counted as a vote for the next sheriff. The Sheriff may be a slave. In case of a tie, the sheriff is decided randomly between those who tied for the most targeted. If the new Sheriff happens to also be the person the last sheriff executed, the new sheriff will be the player who received the second highest number of actions. When a master is executed, all of his slaves are freed. If the sheriff is inactive and/or does not choose someone to execute, he shoots himself.
+
+**resolving conflicts**
+
+If many different masters attempt to enslave a player, the player will become enslaved to the master which was behind the most enslave attempts on that player. In case of a tie, the targeted player does not change factions.
+
+example 1:
+
+Alice would like to enslave Bob, who is currently Charlie&#39;s slave. She uses her slaves&#39; actions to attempt to enslave Bob twice in the same round. Charlie, however. knows this will happen, and so he also uses his slaves&#39; actions to attempt to enslave Bob twice, In order to keep Bob in his possession. Since the number of enslavement attempts from both Alice and Charlie are equal, Bob remains in charlie&#39;s possession.
+
+example 2:
+
+Alice and Charlie would like to enslave Bob, who is currently a teamer. Using their slaves&#39; actions, they both attempt to enslave Bob twice. Since the number of enslavement attempts from both parties is equal, Bob remains a teamer.
+
+Attempts to free a slave are weighed against the master who used the most enslavement attempts to get or keep that slave.
+
+example 3:
+
+Alice would like to enslave Bob, who is currently Charlie&#39;s slave. Using their slaves&#39; actions, both Alice and Charlie attempt to enslave Bob twice. Three different Teamers attempt to free Bob. Bob is freed. (If only two teamers had attempted to free Bob, Bob would have remained in Charlie&#39;s possesion).
+
+**rounds**
+
+At the start of each round, I, your host, will post a public notice which will show how many times each type of action was used in the previous round, who the new sheriff is, and who the last sheriff killed. Rounds start at midnight pacific time and last 48 hours. The first round will be done in conjunction with confirmations, and may not last that long, or may last longer.
+
+I should also mention that slaves are not teamers and do not win with them, whether dead or alive. Dead teamers win with living teamers, though.
+
+player list:
+
+Living:
+
+1.Hippolytus
+2.Moleland
+3.Braxien
+4.RopestringFace
+5.polikshadowbliss
+
+dead:
+
+1. Simon
+2. Nozbugz
+3. Nuclear burrito
+4. Strangle
+5. Pokemonkidryan
+
+Oh, and whispers are allowed! Feel free to post any questions or improvement suggestions you have in this thread.
+
+**results**
+
+Round 1:
+
+enslavements  8
+investigations  2
+emancipations  0
+inactions 0
+
+Round 2:
+
+enslavements: 6
+investigations: 1  
+emancipations: 2
+inactions: 0
+
+Round 3:
+
+enslavements: 4
+investigations: 0
+emancipations: 1
+inactions: 3
+
+Round 4:
+
+enslavements: 4
+investigations: 1
+emancipations: 2
+inactions: 0
+
+Round 5:
+
+enslavements: 1
+investigations: 2
+emancipations: 3
+inactions: 0
+
+Round 6:
+
+enslavements: 1
+investigations: 1
+emancipations: 0
+inactions: 3
+
+## game over! Master Polikshadowbliss wins!</description>
+    
+    <lastBuildDate>Sun, 22 Oct 2017 23:37:06 +0000</lastBuildDate>
+    <category>Forum Matches</category>
+    <atom:link href="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Puppets and Puppeteers. game over! master polikshadowbliss wins!</title>
+        <dc:creator><![CDATA[RopeStringFace]]></dc:creator>
+        <description><![CDATA[
+            <p>everyone should have cooperated and enslaved no one so we all win</p>
+          <p><a href="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/416">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/416</link>
+        <pubDate>Sun, 22 Oct 2017 23:37:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3437-416</guid>
+        <source url="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437.rss">Puppets and Puppeteers. game over! master polikshadowbliss wins!</source>
+      </item>
+      <item>
+        <title>Puppets and Puppeteers. game over! master polikshadowbliss wins!</title>
+        <dc:creator><![CDATA[Ami]]></dc:creator>
+        <description><![CDATA[
+            <p>He was a slave of Polik’s</p>
+          <p><a href="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/415">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/415</link>
+        <pubDate>Sun, 22 Oct 2017 23:36:20 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3437-415</guid>
+        <source url="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437.rss">Puppets and Puppeteers. game over! master polikshadowbliss wins!</source>
+      </item>
+      <item>
+        <title>Puppets and Puppeteers. game over! master polikshadowbliss wins!</title>
+        <dc:creator><![CDATA[RopeStringFace]]></dc:creator>
+        <description><![CDATA[
+            <p>moleland made us lose by killing PKR</p>
+          <p><a href="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/414">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/414</link>
+        <pubDate>Sun, 22 Oct 2017 23:34:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3437-414</guid>
+        <source url="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437.rss">Puppets and Puppeteers. game over! master polikshadowbliss wins!</source>
+      </item>
+      <item>
+        <title>Puppets and Puppeteers. game over! master polikshadowbliss wins!</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>Thought so.</p>
+          <p><a href="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/413">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/413</link>
+        <pubDate>Fri, 20 Oct 2017 22:04:25 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3437-413</guid>
+        <source url="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437.rss">Puppets and Puppeteers. game over! master polikshadowbliss wins!</source>
+      </item>
+      <item>
+        <title>Puppets and Puppeteers. game over! master polikshadowbliss wins!</title>
+        <dc:creator><![CDATA[gingerbeardgentleman]]></dc:creator>
+        <description><![CDATA[
+            <p>Actually, Hippo still would have been enslaved by Polik in that scenario, since immunity to enslavement by those who enslave only applies to teamers targeted by other teamers.</p>
+<p>Since Polik was already a master, Hippo would have been enslaved, and hippo’s enslavement attempt would have failed.</p>
+<p>Polik still would have won.</p>
+          <p><a href="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/412">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/412</link>
+        <pubDate>Fri, 20 Oct 2017 20:59:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3437-412</guid>
+        <source url="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437.rss">Puppets and Puppeteers. game over! master polikshadowbliss wins!</source>
+      </item>
+      <item>
+        <title>Puppets and Puppeteers. game over! master polikshadowbliss wins!</title>
+        <dc:creator><![CDATA[gingerbeardgentleman]]></dc:creator>
+        <description><![CDATA[
+            <p>Polikshadowbliss did</p>
+          <p><a href="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/411">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/411</link>
+        <pubDate>Fri, 20 Oct 2017 20:51:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3437-411</guid>
+        <source url="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437.rss">Puppets and Puppeteers. game over! master polikshadowbliss wins!</source>
+      </item>
+      <item>
+        <title>Puppets and Puppeteers. game over! master polikshadowbliss wins!</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Wait so who won?</p>
+          <p><a href="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/410">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/410</link>
+        <pubDate>Fri, 20 Oct 2017 20:50:17 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3437-410</guid>
+        <source url="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437.rss">Puppets and Puppeteers. game over! master polikshadowbliss wins!</source>
+      </item>
+      <item>
+        <title>Puppets and Puppeteers. game over! master polikshadowbliss wins!</title>
+        <dc:creator><![CDATA[gingerbeardgentleman]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/braixen">@Braixen</a> you were the only person I pinged in the last round, just because I knew you’d had a history of being inactive without it.</p>
+<p>Ironically, you were one of the few active players last round.</p>
+<p>Would everyone prefer if I pinged every player individually in potential future games?</p>
+<p>I wouldn’t mind it, but I didn’t want to be a nag.</p>
+          <p><a href="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/409">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/409</link>
+        <pubDate>Fri, 20 Oct 2017 20:44:25 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3437-409</guid>
+        <source url="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437.rss">Puppets and Puppeteers. game over! master polikshadowbliss wins!</source>
+      </item>
+      <item>
+        <title>Puppets and Puppeteers. game over! master polikshadowbliss wins!</title>
+        <dc:creator><![CDATA[gingerbeardgentleman]]></dc:creator>
+        <description><![CDATA[
+            <p>Not really? Both of them could have their slaves freed.</p>
+<p>Or both could be shot.</p>
+          <p><a href="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/408">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/408</link>
+        <pubDate>Fri, 20 Oct 2017 20:41:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3437-408</guid>
+        <source url="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437.rss">Puppets and Puppeteers. game over! master polikshadowbliss wins!</source>
+      </item>
+      <item>
+        <title>Puppets and Puppeteers. game over! master polikshadowbliss wins!</title>
+        <dc:creator><![CDATA[Moleland]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah it would. I would be your slave, and polik would have none</p>
+          <p><a href="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/407">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/407</link>
+        <pubDate>Fri, 20 Oct 2017 20:36:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3437-407</guid>
+        <source url="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437.rss">Puppets and Puppeteers. game over! master polikshadowbliss wins!</source>
+      </item>
+      <item>
+        <title>Puppets and Puppeteers. game over! master polikshadowbliss wins!</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>I forgot to do my action but I was going to enslave you Moleland. I don’t think that would have stopped Polik winning though.</p>
+          <p><a href="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/406">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/406</link>
+        <pubDate>Fri, 20 Oct 2017 19:28:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3437-406</guid>
+        <source url="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437.rss">Puppets and Puppeteers. game over! master polikshadowbliss wins!</source>
+      </item>
+      <item>
+        <title>Puppets and Puppeteers. game over! master polikshadowbliss wins!</title>
+        <dc:creator><![CDATA[Moleland]]></dc:creator>
+        <description><![CDATA[
+            <p>I think I would have shot pkr regardless, but then polik wouldn’t have instant win</p>
+          <p><a href="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/405">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/405</link>
+        <pubDate>Fri, 20 Oct 2017 18:25:24 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3437-405</guid>
+        <source url="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437.rss">Puppets and Puppeteers. game over! master polikshadowbliss wins!</source>
+      </item>
+      <item>
+        <title>Puppets and Puppeteers. game over! master polikshadowbliss wins!</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>Someone definitely should have freed Mole, like that was just stupid. Ideally 2 of us should so Mole was then Sheriff and could shoot Polik. We just did not formulate a plan as we were suspicious of each other and also got lazy so we thought we would win anyway.</p>
+          <p><a href="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/404">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/404</link>
+        <pubDate>Fri, 20 Oct 2017 18:09:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3437-404</guid>
+        <source url="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437.rss">Puppets and Puppeteers. game over! master polikshadowbliss wins!</source>
+      </item>
+      <item>
+        <title>Puppets and Puppeteers. game over! master polikshadowbliss wins!</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>Nah we could have won we were just pretty shit.</p>
+          <p><a href="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/403">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/403</link>
+        <pubDate>Fri, 20 Oct 2017 18:08:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3437-403</guid>
+        <source url="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437.rss">Puppets and Puppeteers. game over! master polikshadowbliss wins!</source>
+      </item>
+      <item>
+        <title>Puppets and Puppeteers. game over! master polikshadowbliss wins!</title>
+        <dc:creator><![CDATA[Braixen]]></dc:creator>
+        <description><![CDATA[
+            <p>Sure, but the Fact is that if there are 2 masters at one point, Teamers Litterally can’t win</p>
+          <p><a href="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/402">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/402</link>
+        <pubDate>Fri, 20 Oct 2017 18:01:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3437-402</guid>
+        <source url="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437.rss">Puppets and Puppeteers. game over! master polikshadowbliss wins!</source>
+      </item>
+      <item>
+        <title>Puppets and Puppeteers. game over! master polikshadowbliss wins!</title>
+        <dc:creator><![CDATA[Moleland]]></dc:creator>
+        <description><![CDATA[
+            <p>Everyone had enough time to make an action</p>
+          <p><a href="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/401">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/401</link>
+        <pubDate>Fri, 20 Oct 2017 18:01:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3437-401</guid>
+        <source url="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437.rss">Puppets and Puppeteers. game over! master polikshadowbliss wins!</source>
+      </item>
+      <item>
+        <title>Puppets and Puppeteers. game over! master polikshadowbliss wins!</title>
+        <dc:creator><![CDATA[Braixen]]></dc:creator>
+        <description><![CDATA[
+            <p>Considering that Teamers Litterally Can’t win it kind of was unfair.</p>
+          <p><a href="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/400">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/400</link>
+        <pubDate>Fri, 20 Oct 2017 17:59:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3437-400</guid>
+        <source url="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437.rss">Puppets and Puppeteers. game over! master polikshadowbliss wins!</source>
+      </item>
+      <item>
+        <title>Puppets and Puppeteers. game over! master polikshadowbliss wins!</title>
+        <dc:creator><![CDATA[Moleland]]></dc:creator>
+        <description><![CDATA[
+            <p>Considering the forum reminds you of new replies, and he does post a warning, too bad.</p>
+          <p><a href="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/399">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/399</link>
+        <pubDate>Fri, 20 Oct 2017 17:57:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3437-399</guid>
+        <source url="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437.rss">Puppets and Puppeteers. game over! master polikshadowbliss wins!</source>
+      </item>
+      <item>
+        <title>Puppets and Puppeteers. game over! master polikshadowbliss wins!</title>
+        <dc:creator><![CDATA[Braixen]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/gingerbeardgentleman">@gingerbeardgentleman</a> How about you ping people and give a warning. Because a lot of times people don’t remeber</p>
+          <p><a href="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/398">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/398</link>
+        <pubDate>Fri, 20 Oct 2017 17:55:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3437-398</guid>
+        <source url="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437.rss">Puppets and Puppeteers. game over! master polikshadowbliss wins!</source>
+      </item>
+      <item>
+        <title>Puppets and Puppeteers. game over! master polikshadowbliss wins!</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh rip. I was a funny one to go for at that point as most ppl seemed to think I was a Master but that makes sense I guess.</p>
+          <p><a href="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/397">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/397</link>
+        <pubDate>Fri, 20 Oct 2017 17:08:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3437-397</guid>
+        <source url="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437.rss">Puppets and Puppeteers. game over! master polikshadowbliss wins!</source>
+      </item>
+      <item>
+        <title>Puppets and Puppeteers. game over! master polikshadowbliss wins!</title>
+        <dc:creator><![CDATA[gingerbeardgentleman]]></dc:creator>
+        <description><![CDATA[
+            <p>You actually weren’t a slave until the end of round 6. Polik enslaved you as he made moleland shoot PKR.</p>
+          <p><a href="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/396">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/396</link>
+        <pubDate>Fri, 20 Oct 2017 17:01:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3437-396</guid>
+        <source url="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437.rss">Puppets and Puppeteers. game over! master polikshadowbliss wins!</source>
+      </item>
+      <item>
+        <title>Puppets and Puppeteers. game over! master polikshadowbliss wins!</title>
+        <dc:creator><![CDATA[Ami]]></dc:creator>
+        <description><![CDATA[
+            <p>I scumslipped so hard round 2, I said I enslaved Hippo then I said Strangle</p>
+          <p><a href="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/395">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/395</link>
+        <pubDate>Fri, 20 Oct 2017 12:18:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3437-395</guid>
+        <source url="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437.rss">Puppets and Puppeteers. game over! master polikshadowbliss wins!</source>
+      </item>
+      <item>
+        <title>Puppets and Puppeteers. game over! master polikshadowbliss wins!</title>
+        <dc:creator><![CDATA[PokemonKidRyan]]></dc:creator>
+        <description><![CDATA[
+            <p>I agree with Hip.<br>
+Interesting game, but small things can be worked on to improve it.<br>
+GJ for hosting it GBG…</p>
+          <p><a href="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/394">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/394</link>
+        <pubDate>Fri, 20 Oct 2017 11:01:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3437-394</guid>
+        <source url="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437.rss">Puppets and Puppeteers. game over! master polikshadowbliss wins!</source>
+      </item>
+      <item>
+        <title>Puppets and Puppeteers. game over! master polikshadowbliss wins!</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>Interesting premise of a game though, though there may need a few small kinks to work out.</p>
+          <p><a href="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/393">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/393</link>
+        <pubDate>Fri, 20 Oct 2017 10:52:28 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3437-393</guid>
+        <source url="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437.rss">Puppets and Puppeteers. game over! master polikshadowbliss wins!</source>
+      </item>
+      <item>
+        <title>Puppets and Puppeteers. game over! master polikshadowbliss wins!</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>I knew I was a slave I asked to be freed like action 2. In hindsight seeing as no one admitted to visiting Moleland apart from me and he won Sheriff it was clear he must have been enslaved.</p>
+<p>Noz sent me a whisper saying we should enslave Moleland so I am not sure he understood how the game worked. I instead suggested we always enslave each other but then ginger changed the rules anyway.</p>
+          <p><a href="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/392">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437/392</link>
+        <pubDate>Fri, 20 Oct 2017 10:51:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3437-392</guid>
+        <source url="https://forum.throneoflies.com/t/puppets-and-puppeteers-game-over-master-polikshadowbliss-wins/3437.rss">Puppets and Puppeteers. game over! master polikshadowbliss wins!</source>
+      </item>
+  </channel>
+</rss>

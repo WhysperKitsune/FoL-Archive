@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Ritual Mafia 2 - Heretics and The Elementalist Win!</title>
+    <link>https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416</link>
+    <description>## :skull: [color=darkred]Welcome to Ritual Mafia[/color] :skull: 
+In Ritual mafia The Congregation (town faction) must fight against The Heretics (mafia faction) in order to gain the favor of their gods. How do you gain their favor? By sacrificing your own teammates on a ritual, of course!
+
+Also every class has a high-risk/high-reward ability that can give your team an advantage if used correctly. However you must be careful, use it without thinking and you will face the wrath of the gods.
+
+## :skull: [color=darkred]What&#39;s new?[/color] :skull: 
+If you played the first Ritual Mafia, this is what has changed:
+* Day 1 no longer has a Ritual phase. 
+* Ritual votes are now done privately in the player&#39;s class cards instead of publicly.
+* Several class changes and reworks.
+* Medium is now Unique
+* Inquisitor was nerfed and is now called &quot;The Minister&quot;
+* All Heretic classes now have a new ritual ability: Ritual of Resonance, which allows them to keep talking in Heretic chat if they are sacrificed.
+* New Traitor classes that replace the 4th Heretic. Traitors win with Heretics but won&#39;t join their chat. 1 Random Traitor will always spawn.
+
+**Hosted by:** Psychoneirik
+
+### :skull: [color=darkred]Rules[/color] :skull: 
+1. Follow the Global Forum Rules
+2. If you haven&#39;t posted in the thread or in your classcard for a while you will be prodded for inactivity. If you don’t respond to that prod in 24 hours, you will be force replaced.
+3. No private messaging others in the game about the game.
+4. No angleshooting. This includes any attempt to gain info about the game from external sources. 
+5. Do not screenshot or quote private host messages
+6. While the nature of the game can make it easy to accidentally screw up your own faction, intentionally throwing the game is against the rules.
+7. Players are not allowed to use big letters. These are reserved for the host.
+8. Do not post in the main thread or like posts if you are dead or not in the game.
+9. Remember: its a game so have fun!
+
+**If you want to spectate, you must follow these rules:**
+1. Do not share information about the game in any way. 
+2. Do not post in the main thread
+3. Do not give likes to posts in the main thread
+4. If you want to discuss the game do it in the spectator chat. Any discussion outside of it is not allowed.
+
+
+### :skull: [color=darkred]Gameplay[/color] :skull: 
+* Day is divided in two phases: Ritual Phase and Lynch 
+* There won&#39;t be a Ritual phase on Day 1.
+* Ritual Phase lasts 24 hours
+* During the Ritual phase people are able to vote for a person to sacrifice. The person with the highest amount of votes at the end of the phase will be sacrificed and their Ritual abilities will trigger.
+* Ritual votes are done privately through your classcards.
+* Someone will always be sacrificed during this phase, and if there is a draw or no one gets any votes then it will be decided by RNG.  
+* &quot;The Ritual was interrupted&quot; message means that the player&#39;s ritual abilities were prevented from triggering because of an ability.
+* Self-voting is allowed in both Ritual and Lynch phases.
+* Lynch Phase lasts 48 hours or until majority is reached.
+* You can submit the target(s) of your ritual effects at any point in time before you are sacrificed so the ritual effects take place immediately.
+* If a lynch happens within the first 12 hours of the lynch phase and ritual targets&#39; haven&#39;t been chosen a grace period will be given to pick the targets.
+* If the sacrificed player hasn&#39;t picked their targets on time their ritual ability will be skipped. If said player is a heretic, other heretics will be able to choose a target for them. Ritual of initiation cannot be skipped this way, and if no one picks a convert target for any reason it will be picked randomly.
+* During the Lynch phase people are able to vote for a person to lynch. Once the majority has voted said person, they will be lynched. 
+* Nights will be 24 hours long
+* During the night you can submit your actions through your class card.
+* You cannot target yourself with an ability unless stated otherwise.
+* Players can only use one day ability each day and one night ability each night, unless stated otherwise.
+* The Heretics will have a day/night chat.
+* The most recent version of your logs will be shown when you die.
+* You can submit deathnotes on kills. These can be text or pictures.
+* There can be a maximum of 3 of each non-unique classes.
+* There will be limited feedback. Most classes will only get &quot;You slept peacefully.&quot; or &quot;You died&quot; as feedback. The exceptions are the following:
+
+[details=&quot;List of night results&quot;]
+If you use an investigative ability and you are redirected (you will not know who you are redirected to): You were forced to target someone else.
+_If an investigative ability fails because of occupation/prevention: You were unable to perform your action._
+_If a Martyr uses Penitence for the second time on a target: Your target&#39;s class type is [class type]._
+_If you receive a private message because of the Confession day ability: Someone sent you an anonymous message [message]._
+_If a Medium uses Seance on a dead player: You got the following message from your Seance: [message]._
+_If a Diviner uses Divination and the player is not suspicious: Your target is not suspicious._
+_If a Diviner uses Divination and the player is suspicious: Your target is a member of the Heretics!_
+_If one or more of your targets are Heretics when using Diviner&#39;s Change of Faith: &quot;At least one of your targets is a member of the Heretics!&quot;_
+_If none of your targets are Heretics when using Diviner&#39;s Change of Faith: &quot;None of your targets are members of the Heretics&quot;_
+_If you successfully predict a death with Oracle&#39;s Prediction: You gained 1 extra use of All-seeing Eye._
+_If you use Clairvoyance on a player that didn&#39;t visit anyone: Your target didn&#39;t visit anyone last night._
+_If you use Clairvoyance on a player that visited someone: Your target visited [Player(s)] last night._
+_If an Oracle uses Vision on a player that wasn&#39;t visited by anyone: No one visited your target last night._
+_If an Oracle uses Vision on a player that was visited by someone: Your target was visited by [Player(s)] last night._
+_If an Oracle uses All-seeing Eye on a player: Your target is the [Class]._
+_If you get a new ability from a Ritual: You have gained a new ability: [ability description]_
+[/details]
+
+
+### :skull: [color=darkred]Other mechanics and interactions[/color] :skull: 
+
+[details=&quot;Other mechanics/interactions&quot;]
+* Conflicting abilities will be cancelled. For example, two Enchanters trying to redirect the same player to different targets would cause said player to not be redirected at all.
+* Enchanter can only redirect targeted abilities.
+* Self-killing or suicide abilities cannot be healed or prevented in any way except being occupied or by Voodoo Link.
+* Dying because of Voodoo Link counts as a suicide.
+* Blood Mage will die with Drain Blood as long as they have collected corrupted blood, even if they haven&#39;t
+* Traitors can also be converted with &quot;Ritual of Initiation&quot;. This will change their class to a Heretic class of the same type and add them to the &quot;Heretics&quot; chat.
+* If a Witch Doctor dies to &quot;Blood for Blood&quot; instead of a Heretic because of Voodoo Link the Warlock will gain the effects of the ability
+* If you are prevented from visiting one of your &quot;Change of Faith&quot; targets you will not be notified and get a result based on the remaining players.
+* If you are redirected during &quot;Change of Faith&quot; you will know you were redirected, but not to which player and get a result based on the new target.
+* If an enchanter redirects an ability that targets more than 1 player, only the first target will be redirected.
+* If your limited use ability fails for any reason you will still spend an use.
+* If a Chanel Spirit&#39;s target is changed the ability will fail.
+* Communication abilities like Seance and Clergy are instant so you cannot be occupied/redirected while using them and they don&#39;t count as visiting.
+* A target of Channel Spirit will not get notified when the effect ends due to conversion.
+* The medium will visit the targets of the channeled spirit.
+* If the last Heretic is sacrificed, Town will NOT win, since the conversion triggers immediately (unless their Ritual abilities are disabled somehow).
+* If two Witch Doctors use voodoo link on each other and one of them dies, then both will die.
+[/details]
+
+
+### :skull: [color=darkred]Class Cards[/color] :skull: 
+
+[details=&quot;The Congregation&quot;]
+&gt;# [color=darkgreen]The Witch Doctor[/color]
+&gt;**[color=darkgreen]Congregation Support[/color]**
+&gt;**Ritual of Leadership (Ritual)** - If you are sacrificed, a player of your choice will have two votes for the rest of the day.
+&gt;**Ritual of Eternal Youth (Ritual)** - If you are sacrificed, select up to a third of the currently alive players (rounded up). They will become immune to death tonight.
+&gt;**Healing Spell (Night)** - Heal a player from attacks. Unlimited uses.
+&gt;**Voodoo Link (Night)** - Permanently link yourself to another player. If they would die by any means except being sacrificed you will die in their place. (Includes being lynched, suicide and other deaths that cannot normally be healed or prevented) - 1 use.
+&gt;
+&gt;_**Goal:** Defeat the Heretics._
+----
+
+&gt;# [color=darkgreen]The Exorcist[/color]
+&gt;**[color=darkgreen]Congregation Support[/color]**
+&gt;**Ritual of Leadership (Ritual)** - If you are sacrificed, a player of your choice will have two votes for the rest of the day.
+&gt; **Ritual of Purification (Ritual)** - If you are sacrificed, select up to a third of the currently alive players (rounded up). They will be immune to negative effects except death tonight. 
+&gt;**Purify (Night)** - Select a player. They will be immune to all negative effects tonight except death. Unlimited uses.
+&gt;**Exorcise (Night)** - Select a player. They will lose their ritual abilities for tomorrow. 1 use.
+&gt;
+&gt;_**Goal:** Defeat the Heretics._
+
+
+[details=&quot;Notes:&quot;]
+&gt; Players affected by Purify or Ritual of Purification are immune to occupation, redirection and visit prevention from any sources except Witch Doctor&#39;s Voodoo Link (including Rituals), and are guaranteed to get correct results with investigative abilities. In addition, they are immune to the effects of the following abilities or their &quot;Lure&quot; versions:
+&gt;
+&gt; Exorcise
+&gt; Spirit Chains (will not remove the effect if the ability was used on a previous night)
+&gt; Lure 
+&gt; Body Swap
+&gt; Soul Exchange
+&gt; Cleanse
+&gt; Cloak of Darkness
+&gt; Demonic Voice
+&gt; Bad Omen
+&gt; Water Clone
+&gt; Fire Rune
+[/details]
+
+----
+
+&gt;# [color=darkgreen]The Conjurer[/color]
+&gt;**[color=darkgreen]Congregation Offensive[/color]**
+&gt;**Ritual of Leadership (Ritual)** - If you are sacrificed, a player of your choice will have two votes for the rest of the day.
+&gt; **Ritual of Lockdown (Ritual)** - If you are sacrificed, select up to a third of the currently alive players (rounded up). Occupy them tonight.
+&gt; **Dazing Spell (Night)** - Prevent a player from performing their night action. Unlimited uses.
+&gt; **Spirit Chains (Night)** - Permanently chain a player. The next time they would use a limited use ability, they will be occupied. (Also works on day abilities) 1 use.
+&gt;
+&gt;_**Goal:** Defeat the Heretics._
+----
+
+&gt;# [color=darkgreen]The Enchanter[/color]
+&gt;**[color=darkgreen]Congregation Offensive[/color]**
+&gt;**Ritual of Leadership (Ritual)** - If you are sacrificed, a player of your choice will have two votes for the rest of the day.
+&gt;**Ritual of Chaos (Ritual)** - If you are sacrificed, double the effects of tomorrow&#39;s rituals excluding Ritual of Leadership, Ritual of True Leadership, Ritual of Chaos, Ritual of Souls, Ritual of Resonance or Ritual of Initiation. 
+&gt; **Mind Control (Night)** - Force a player to target another. Can force them to target you, but not themselves. Unlimited uses.
+&gt; **Lure (Night)** - Force a player to use one of their special abilities on a target of your choice (Can force them to target you, but not themselves). Doesn&#39;t work on Investigative classes. This will not consume an use of their ability and they will not be notified. (This will prevent them from using any night action they were planning to use. This ability will fail if either you or your target is occupied). 1 use.
+&gt;
+&gt;_**Goal:** Defeat the Heretics._
+
+
+[details=&quot;Effects of Lure depending on the class&quot;]
+&gt; * Witch Doctor: Force them to use Voodoo Link on your target. A witch doctor can have multiple Voodoo links this way.
+&gt; * Exorcist: Both the exorcist and your target will lose their ritual abilities.
+&gt; * Conjurer: Your target will be chained. They will be occupied the next time they try to use their limited use abilities.
+&gt; * Enchanter: No effect
+&gt; * Martyr: Martyr will die and occupy the warlock.
+&gt; * Blood Mage: Blood mage will collect blood from your target and use &quot;Elixir of Blood&quot;. If they have collected corrupted blood, they will die instead (cannot be healed or prevented in any way except Voodoo Ritual).
+&gt; * Inquisitor: The first person they vote will be sacrificed/lynched. The Inquisitor will reveal themselves as soon as this happens, making any abilities from Congregation members targeting the Inquisitor to fail.
+&gt; * Diviner: No effect
+&gt; * Oracle: No effect
+&gt; * Warlock: Warlock will kill your target and everyone that visits them, including you.
+&gt; * Shaman: If either The Shaman or your target would be sacrificed in tomorrow&#39;s ritual the other will be sacrificed instead.
+&gt; * Sorcerer: Everyone&#39;s Ritual abilities will be disabled tomorrow.
+&gt; * Occultist: The first person your target votes will be lynched. This will not end the day and another lynch can still occur.
+&gt; * Seer: No effect
+&gt; * Elementalist: Prevent all members of the Congregation from visiting your target.
+&gt; * Lamb: No effect
+&gt; * Ritualist: Ritualist will attack your target.
+[/details]
+
+
+[details=&quot;Effects of Ritual of Chaos depending on the Ritual:&quot;]
+* Ritual of Power: Warlock will gain 2 uses of Rampage.
+* Ritual of Sleep: You may select 2 class types.
+* Elemental Ritual: Heretics will get 2 uses of their abilities.
+All other ritual effects will have the number of targets doubled.
+
+[/details]
+
+
+----
+
+&gt;# [color=darkgreen]The Martyr[/color]
+&gt;**[color=darkgreen]Congregation Killing[/color]**
+&gt;**Ritual of Leadership (Ritual)** - If you are sacrificed, a player of your choice will have two votes for the rest of the day.
+&gt; **Ritual of Penitence (Ritual)** - If you are sacrificed, select a player and give them the following abilities:
+&gt;&gt; **Contrition (Day)** - Select a player, they will be healed tonight. 1 use.
+&gt;&gt; **Confession (Day)** - Send an anonymous message to a player. 1 use.
+&gt;&gt; **Penance (Day)** - Select a player, they will be occupied tonight. 1 use.
+&gt;
+&gt; **Penitence (Night)** -  Select a player. The effects of this ability are different depending on how many times you have used it on the same player. Unlimited uses.
+&gt; * First time: Contrition - Prevent all visits on your target.
+&gt; * Second time: Confession - Check your target&#39;s class type.
+&gt; * Three or more times: Penance - Attack the player. 
+&gt;
+&gt; **Absolution (Night)** - Kill yourself in order to occupy The Warlock. This ability doesn&#39;t count as a visit. 1 use.
+&gt;
+&gt;_**Goal:** Defeat the Heretics._
+----
+
+&gt;# [color=darkgreen]The Blood Mage[/color]
+&gt;**[color=darkgreen]Congregation Killing[/color]**
+&gt;**Ritual of Leadership (Ritual)** - If you are sacrificed, a player of your choice will have two votes for the rest of the day.
+&gt; **Ritual of Death (Ritual)** - If you are sacrificed, a player of your choice will die immediately.
+&gt; **Collect Blood (Day)** - Select a player and collect their blood. Members of the congregation give you pure blood, while members of the heretics and traitors give you corrupted blood. You can only target each player once. - Unlimited uses.
+&gt; **Elixir of Blood (Night)** - Drink the blood you&#39;ve collected so far. The effects of this ability change depending on how many people you&#39;ve collected pure blood from. If you have collected corrupted blood this ability will have no effect. You will lose all blood you&#39;ve collected afterwards. Unlimited uses. 
+&gt;* **1 stack of pure blood**: Become immune to all negative effects tonight. 
+&gt;* **2 stacks of pure blood**: Become immune to death and negative effects tonight.
+&gt;* **3 stacks of pure blood**: Become immune to death and negative effects and kill everyone that visits you tonight.
+&gt;* **4 or more stacks of pure blood**: Become immune to death and negative effects and kill all Heretics or Traitors visiting you tonight.
+&gt;
+&gt;**Drain Blood (Night)** - Select between 1 and 4 players and collect blood from all of them. Then use &quot;Elixir of Blood&quot;. If you have collected corrupted blood you will die instead (this death cannot be healed or prevented in any way except Voodoo Ritual). Framing abilities will not affect the type of blood you get from a player). You cannot select players that you have previously collected blood from. (Collecting the blood doesn&#39;t count as visiting, and you cannot be redirected or prevented from doing it in any way). - 1 use.
+&gt;
+&gt;_**Goal:** Defeat the Heretics._
+
+
+[details=&quot;Notes&quot;]
+&gt; Immunity to negative effects will make you immune to all forms of occupation and will also make you immune to the effects of the following abilities:
+&gt; Exorcise
+&gt; Spirit Chains (will not remove the effect if the ability was used on a previous night)
+&gt; Lure 
+&gt; Body Swap 
+&gt; Soul Exchange
+&gt; Cleanse
+&gt; Cloak of Darkness
+&gt; Demonic Voice
+&gt; Bad Omen
+&gt; Water Clone
+&gt; Fire Rune
+[/details]
+
+----
+
+&gt;# [color=darkgreen]The Medium[/color]
+&gt;**[color=darkgreen]Unique Congregation Social[/color]**
+&gt;**Ritual of Leadership (Ritual)** - If you are sacrificed, a player of your choice will have two votes for the rest of the day.
+&gt; **Ritual of Souls (Ritual)** - If you are sacrificed all dead Congregation members will be able to use their unlimited use night abilities tonight. 
+&gt; **Seance (Night)** - Select a dead player. They will be able to send you a message of up to 1000 characters. Unlimited uses.
+&gt; **Channel Spirit (Night)** - Select a dead player. They will be able to use their unlimited use night abilities through you, however you will be unable to use your Seance ability for the rest of the game. The effect ends if you die or are converted. 1 use. 
+&gt;
+&gt;_**Goal:** Defeat the Heretics._
+----
+
+&gt; # [color=darkgreen]The Minister[/color]
+&gt; **[color=darkgreen]Unique Congregation Social[/color]**
+&gt;**Ritual of True Leadership (Ritual)** - If you are sacrificed, a player of your choice will have three votes for the rest of the day.
+&gt; **Reveal (Day)** - Reveal as the Minister. After revealing, you cannot be converted into the Heretics, your Ritual abilities will be disabled and your votes will count as two, but all Congregate abilities that target you will fail (includes day abilities). 1 use.
+&gt; **Clergy (Night)** - Mark a player as a Cleric. After you reveal, you and all Clerics will get a private day and night chat. Targeting the same player twice will remove them from the Clergy. You cannot use this ability after revealing. Unlimited uses. Unlimited uses.
+&gt;
+&gt;_**Goal:** Defeat the Heretics._
+----
+
+&gt;# [color=darkgreen]The Diviner[/color]
+&gt;**[color=darkgreen]Congregation Investigative[/color]**
+&gt;**Ritual of Leadership (Ritual)** - If you are sacrificed, a player of your choice will have two votes for the rest of the day.
+&gt; **Ritual of Truth (Ritual)** - If you are sacrificed, select a player. The court will be told if said player is a member of the Heretics (Starting warlock will appear as &quot;not suspicious&quot; for the first 3 days and traitors will always appear &quot;not suspicious&quot;).
+&gt; **Divination (Night)** - Check if a player is part of the Heretics. Starting Warlock appears not suspicious for the first 3 nights. Unlimited uses
+&gt; **Change of Faith (Night)** - Select up to three players and check if at least one of them is a Heretic. (Starting warlock doesn&#39;t appear as a Heretic for the first 3 nights). After using this ability (even if it fails due to occupation, etc.), you will appear as a Warlock to investigators for the rest of the game. 1 use.
+&gt;
+&gt;_**Goal:** Defeat the Heretics._
+----
+
+&gt;# [color=darkgreen]The Oracle[/color]
+&gt;**[color=darkgreen]Congregation Investigative[/color]**
+&gt;**Ritual of Leadership (Ritual)** - If you are sacrificed, a player of your choice will have two votes for the rest of the day.
+&gt; **Ritual of Clairvoyance (Ritual)** - If you are sacrificed, select a player. They will gain the following day ability:
+&gt;&gt;**Clairvoyance (Day)** - Select a player. At the end of the night, you will know who they visited. Unlimited uses. 
+&gt;
+&gt; **Prediction (Day)** - Select a player. If they die during the next night by any means, you will gain one use of &quot;All-seeing eye&quot;. If you make 2 wrong predictions you will die (cannot be healed or prevented by death immunity). Unlimited uses.
+&gt; **Vision (Night)** - Check a player to see who visits them. Unlimited uses
+&gt; **All-seeing eye (Night)** - Check the exact class of a player. 0 uses.
+&gt;
+&gt;_**Goal:** Defeat the Heretics._
+----
+
+[/details]
+
+
+[details=&quot;The Heretics&quot;]
+&gt;# [color=red]The Warlock[/color]
+&gt;**[color=red]Heretic Killing[/color]**
+&gt;**Ascension (Passive)** - If you die, another member of the Heretics will turn into the Warlock.
+&gt; **Ritual of Initiation (Ritual)** - If you are sacrificed, convert a player into the Heretics. They will become the Heretic class of the same type as their old class (killing classes turn into &quot;The Sorcerer&quot; instead).
+&gt; **Ritual of Resonance (Ritual)** - If you are sacrificed, you will be able to continue speaking in Heretic chat.
+&gt; **Ritual of Revenge (Ritual)** - If you are sacrificed, select a player and kill them immediately. 
+&gt; **Blood for Blood (Day)** - Select a member of the Heretics or yourself. They will suicide at the end of the night and flip as a class of your choice. If they successfully die, The Warlock will gain 1 use of rampage and 1 use of Unstoppable Onslaught. (The suicide cannot be prevented in any way. Cannot be used if you are the last heretic alive). - Unlimited uses. 
+&gt; **Unstoppable Onslaught (Day)** - Tonight, you will become immune to occupation and redirection and your attacks will bypass healing, death immunity and visit prevention. (If used with &quot;Rampage&quot; it will only empower the attack against the main target and not its visitors). 1 use, shared.
+&gt; **Kill (Night)** - Kill a player. Unlimited uses
+&gt; **Rampage (Night)** - Kill a player and everyone that visits them. - 1 use, shared.
+&gt; 
+&gt;_**Goal:** Defeat the Congregation._
+----
+
+&gt;# [color=red]The Shaman[/color]
+&gt;**[color=red]Heretics Support[/color]**
+&gt; **Ritual of Initiation (Ritual)** - If you are sacrificed, convert a player into the Heretics. They will become the Heretic class of the same type as their old class (killing classes turn into &quot;The Sorcerer&quot; instead. If you select a traitor they will also be converted into a heretic class of the same type).
+&gt; **Ritual of Resonance (Ritual)** - If you are sacrificed, you will be able to continue speaking in Heretic chat.
+&gt; **Ritual of Power (Ritual)** - If you are sacrificed, the Warlock will gain 1 use of &quot;Rampage&quot;.
+&gt; **Body Swap (Night)** - Select two players, anyone targeting one of them will instead target the other. Can target yourself. Unlimited uses
+&gt; **Soul Exchange (Night)** - Select a player. If they would be sacrificed during the Ritual phase tomorrow you will be sacrificed instead, and if you would be sacrificed they will be sacrificed instead. 1 use.
+&gt;
+&gt;_**Goal:** Defeat the Congregation._
+----
+
+&gt;# [color=red]The Sorcerer[/color]
+&gt;**[color=red]Heretic Offensive[/color]**
+&gt; **Ritual of Initiation (Ritual)** - If you are sacrificed, convert a player into the Heretics. They will become the Heretic class of the same type as their old class (killing classes turn into &quot;The Sorcerer&quot; instead. If you select a traitor they will also be converted into a heretic class of the same type).
+&gt; **Ritual of Resonance (Ritual)** - If you are sacrificed, you will be able to continue speaking in Heretic chat.
+&gt; **Ritual of Sleep (Ritual)** - If you are sacrificed, select a class type (Support/Killer/Offensive/Social/Investigative). All Congregation players of said class type will be occupied tonight.
+&gt; **Binding Spell (Night)** - Prevent a player from performing their night action. Unlimited uses
+&gt; **Cleanse (Night)** - Disable everyone&#39;s Ritual abilities tomorrow, including The Heretics. 1 use.
+&gt;
+&gt;_**Goal:** Defeat the Congregation._
+----
+
+&gt;# [color=red]The Occultist[/color]
+&gt;**[color=red]Heretic Social[/color]**
+&gt; **Ritual of Initiation (Ritual)** - If you are sacrificed, convert a player into the Heretics. They will become the Heretic class of the same type as their old class (killing classes turn into &quot;The Sorcerer&quot; instead. If you select a traitor they will also be converted into a heretic class of the same type).
+&gt; **Ritual of Resonance (Ritual)** - If you are sacrificed, you will be able to continue speaking in Heretic chat.
+&gt; **Ritual of Silence (Ritual)** - If you are sacrificed select two players and prevent them from voting.
+&gt; **Cloak of Darkness (Night)** - Select a player. They will appear as a class of your choice to investigators. Can target yourself. Unlimited uses.
+&gt; **Demonic Voice (Night)** - Select a non-heretic player. The first person they vote during the Lynch phase tomorrow will be instantly lynched. This will not end the lynch phase, and a normal lynch can still happen. Your target will not know if they are under the effects of this ability. 1 use.
+&gt;
+&gt;_**Goal:** Defeat the Congregation._
+----
+
+&gt;# [color=red]The Seer[/color]
+&gt;**[color=red]Heretic Investigative[/color]**
+&gt; **Ritual of Initiation (Ritual)** - If you are sacrificed, convert a player into the Heretics. They will become the Heretic class of the same type as their old class (killing classes turn into &quot;The Sorcerer&quot; instead. If you select a traitor they will also be converted into a heretic class of the same type).
+&gt; **Ritual of Resonance (Ritual)** - If you are sacrificed, you will be able to continue speaking in Heretic chat.
+&gt; **Ritual of Omniscience (Ritual)** - If you are sacrificed, select up to two players. Their classes will be revealed to the Heretics.
+&gt; **Crystal Ball (Night)** - Check the class type of a player. Unlimited uses
+&gt; **Bad Omen (Night)** - Select a player and guess their exact class. If you get it right you will permanently disable their Ritual abilities. If you get it wrong, your own Ritual abilities will be permanently disabled. (You are not notified whether you got it right or wrong). 1 use.
+&gt;
+&gt;_**Goal:** Defeat the Congregation._
+&gt;
+[/details]
+
+[details=&quot;Traitors&quot;]
+
+
+&gt; # [color=FF1493]The Elementalist[/color]
+&gt; **Traitor Offensive**
+&gt; **Traitor (Passive)** - You cannot be killed by the Warlock. You win with the Heretics, but you don&#39;t know them and won&#39;t join their night chat. You do not appear as a Heretic to investigators. You will commit suicide after all Heretics die.
+&gt; **Morph (Passive)** - If you visit a Heretic with any of your abilities, the ability will fail and you will join their night chat. You will gain one of the following abilities depending on your current class type:
+&gt; * Support: **Soul Exchange (Night)** - Select a player. If they would be sacrificed during the Ritual phase tomorrow you will be sacrificed instead, and if you would be sacrificed they will be sacrificed instead. 1 use.
+&gt; * Offensive: **Cleanse (Night)** - Disable everyone’s Ritual abilities tomorrow, including The Heretics. 1 use.
+&gt; * Social: **Demonic Voice (Night)** - Select a non-heretic player. The first person they vote during the Lynch phase tomorrow will be instantly lynched. This will not end the lynch phase, and a normal lynch can still happen. Your target will not know if they are under the effects of this ability. 1 use.
+&gt; * Investigative: **Bad Omen (Night)** - Select a player and guess their exact class. If you get it right you will permanently disable their Ritual abilities. If you get it wrong, your own Ritual abilities will be permanently disabled. (You are not notified whether you got it right or wrong). 1 use.
+&gt;
+&gt; **Elemental Ritual (Ritual)** - If you are sacrificed, all the Heretics will get 1 extra use of their limited use abilities.
+&gt; **Petrify (Night)** - Occupy a player. Your class type will change to offensive tonight. - Unlimited uses.
+&gt; **Eye of Mist (Night)** - Check a player&#39;s class type. Your class type will change to investigative tonight. - Unlimited uses.
+&gt; **Water Clone (Night)** - Make a player appear as The Warlock to investigators. Your class type will change to Social tonight. - Unlimited uses.
+&gt; **Fire Rune (Night)** - Prevent members of the Congregation from visiting a player tonight. Your class type will change to Support tonight. - 3 uses.
+&gt;
+&gt; _**Goal:** Defeat the Congregation._
+
+----
+
+&gt; # [color=FF1493]The Lamb[/color]
+&gt;**Traitor Social**
+&gt; **Traitor (Passive)** - You cannot be killed by the Warlock. You win with the Heretics but you don&#39;t know who they are and you won&#39;t join their night chat. You do not appear as a Heretic to investigators. You will commit suicide after all Heretics die.
+&gt; **Herd the Sheep (Passive)** - Your Ritual abilities cannot be disabled. Ritual votes from members of the Congregation towards you count as two. 
+&gt; **Ritual of Brotherhood (Ritual)** - You will be told who the heretics are after being sacrificed.
+&gt; **Ritual of Revenge (Ritual)** - If you are sacrificed, select a player and kill them immediately. 
+&gt; **Ritual of Power (Ritual)** - If you are sacrificed, the Warlock will gain 1 use of “Rampage”.
+&gt; **Ritual of Sleep (Ritual)** - If you are sacrificed, select a class type (Support/Killer/Offensive/Social/Investigative). All Congregation players of said class type will be occupied tonight
+&gt; **Ritual of Silence (Ritual)** - If you are sacrificed select up to two players and prevent them from voting.
+&gt; **Ritual of Omniscience (Ritual)** - If you are sacrificed, select up to two players. Their classes will be revealed to the Heretics.
+&gt; 
+&gt; _**Goal:** Defeat the Congregation._
+
+----
+
+&gt; # [color=FF1493]The Ritualist[/color]
+&gt; **Traitor Investigative**
+&gt; **Traitor (Passive)** - You cannot be killed by the Warlock. You win with the Heretics, but you don&#39;t know them and won&#39;t join their night chat. You do not appear as a Heretic to investigators. You will commit suicide after all Heretics die.
+&gt; **Ritual Knowledge (Passive)** - Your ritual votes count as 2. 
+&gt; **Double Ritual (Ritual)** - If you are sacrificed, select a player. Sacrifice them and trigger their Ritual abilities (this counts as a normal ritual, so any abilities that affect rituals such as soul exchange will affect this as well).
+&gt; **Muting Spell (Day)** - Select a player. Their Ritual vote will count as 0 for today. Can only be used during the Ritual phase - Unlimited uses.
+&gt; **Test of Spirit (Night)** - Select a player. If they are a member of the Heretics you will know their class. This ability will always give you correct results. Unlimited uses.
+&gt; **Soul Rip (Night)** - Attack a player. 0 uses. You gain an use each time a member of the Heretics is sacrificed on a ritual.
+&gt;
+&gt; _**Goal:** Defeat the Congregation._
+[/details]
+
+### :skull: [color=darkred]Rolelist[/color] :skull: 
+[color=green]**12 Random Congregation**[/color]
+[color=darkred]**Warlock**[/color]
+[color=darkred]**2 Random Heretics**[/color]
+[color=FF1493]**Random Traitor**[/color]
+
+### :skull: [color=darkred]Players[/color] :skull: 
+
+1. Firekitten
+2. Blizer
+3. &lt;strike&gt;Sam17z&lt;/strike&gt;[color=green]The Medium[/color]
+4. PoisonedSquid
+5. Alice
+6. &lt;strike&gt;Marluxion&lt;/strike&gt;, [color=green]The Martyr[/color]
+7. &lt;strike&gt;Bazingaboy&lt;/strike&gt;, [color=green]The Enchanter[/color]
+8. htm
+9. Margaret
+10. &lt;strike&gt;BlueSt0rm22&lt;/strike&gt;, [color=red]The Seer[/color]
+11. &lt;strike&gt;Captain&lt;/strike&gt;, [color=green]The Blood Mage[/color]
+12. &lt;strike&gt;Solic&lt;/strike&gt;, [color=red] The Warlock[/color]
+13. Gamerpoke
+14. &lt;strike&gt;CloverPlayer&lt;/strike&gt;, [color=green]The Conjurer[/color]
+15. &lt;strike&gt;WazzaAzza&lt;/strike&gt;, [color=green]The Oracle[/color]
+16. &lt;strike&gt;MaximusPrime&lt;/strike&gt;, [color=pink]The Elementalist[/color]
+
+Backups:
+1. Boss110
+2. Livicus
+3. MarcusDoodalee
+
+
+### :skull: [color=darkred]Notable events[/color] :skull:
+[Start of Day 1](https://forum.imperium42.com/t/ritual-mafia-2-day-2-ritual-phase-12-16/72416/60)
+[Start of Day 2](https://forum.imperium42.com/t/ritual-mafia-2-day-2-ritual-phase-12-16/72416/723)
+[Start of Day 3](https://forum.imperium42.com/t/ritual-mafia-2-night-2-10-16/72416/1344)</description>
+    
+    <lastBuildDate>Sat, 22 Sep 2018 22:07:08 +0000</lastBuildDate>
+    <category>Forum Matches</category>
+    <atom:link href="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Ritual Mafia 2 - Heretics and The Elementalist Win!</title>
+        <dc:creator><![CDATA[Livicus]]></dc:creator>
+        <description><![CDATA[
+            <p>oramge’s mafia</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2352">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2352</link>
+        <pubDate>Sat, 22 Sep 2018 22:07:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72416-2352</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416.rss">Ritual Mafia 2 - Heretics and The Elementalist Win!</source>
+      </item>
+      <item>
+        <title>Ritual Mafia 2 - Heretics and The Elementalist Win!</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Also when is the next premium game?</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2351">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2351</link>
+        <pubDate>Sat, 22 Sep 2018 21:42:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72416-2351</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416.rss">Ritual Mafia 2 - Heretics and The Elementalist Win!</source>
+      </item>
+      <item>
+        <title>Ritual Mafia 2 - Heretics and The Elementalist Win!</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <p>Wait, why did Maxi frame the mechanically proven town here?</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2350">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2350</link>
+        <pubDate>Sat, 22 Sep 2018 21:41:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72416-2350</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416.rss">Ritual Mafia 2 - Heretics and The Elementalist Win!</source>
+      </item>
+      <item>
+        <title>Ritual Mafia 2 - Heretics and The Elementalist Win!</title>
+        <dc:creator><![CDATA[Marcus_Doodalee]]></dc:creator>
+        <description><![CDATA[
+            <p>tfw Captain is willing to die to witness the Solic v Sarun Deathtunnel war</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2349">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2349</link>
+        <pubDate>Sat, 22 Sep 2018 21:41:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72416-2349</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416.rss">Ritual Mafia 2 - Heretics and The Elementalist Win!</source>
+      </item>
+      <item>
+        <title>Ritual Mafia 2 - Heretics and The Elementalist Win!</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="psychoneirik" data-post="2341" data-topic="72416" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/psychoneirik/40/12950_2.png" class="avatar"> psychoneirik:</div>
+<blockquote>
+<p>Cant remember any funny moments, but the Solic vs Alice thunderdome was interesting to watch.</p>
+</blockquote>
+</aside>
+<p>If both of us are in a game the odds of us tunneling into each other is more likely than not.</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2348">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2348</link>
+        <pubDate>Sat, 22 Sep 2018 21:40:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72416-2348</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416.rss">Ritual Mafia 2 - Heretics and The Elementalist Win!</source>
+      </item>
+      <item>
+        <title>Ritual Mafia 2 - Heretics and The Elementalist Win!</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <p>I can’t exactly disagree here. I was essentially converted into a win after I allowed FK and Blue to pocket me while mislynching Wazza. Not exactly my best town game so far IMO.</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2347">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2347</link>
+        <pubDate>Sat, 22 Sep 2018 21:36:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72416-2347</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416.rss">Ritual Mafia 2 - Heretics and The Elementalist Win!</source>
+      </item>
+      <item>
+        <title>Ritual Mafia 2 - Heretics and The Elementalist Win!</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Marls town tell is mislynching <img src="/images/emoji/twitter/smirk_cat.png?v=9" title=":smirk_cat:" class="emoji" alt=":smirk_cat:"></p>
+<p><s>in all honestly though I’m joking</s></p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2346">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2346</link>
+        <pubDate>Sat, 22 Sep 2018 03:09:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72416-2346</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416.rss">Ritual Mafia 2 - Heretics and The Elementalist Win!</source>
+      </item>
+      <item>
+        <title>Ritual Mafia 2 - Heretics and The Elementalist Win!</title>
+        <dc:creator><![CDATA[bazingaboy]]></dc:creator>
+        <description><![CDATA[
+            <p>? I scum read marl for that too, that was terrible.</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2345">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2345</link>
+        <pubDate>Sat, 22 Sep 2018 03:08:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72416-2345</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416.rss">Ritual Mafia 2 - Heretics and The Elementalist Win!</source>
+      </item>
+      <item>
+        <title>Ritual Mafia 2 - Heretics and The Elementalist Win!</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/bazingaboy">@bazingaboy</a></p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2344">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2344</link>
+        <pubDate>Sat, 22 Sep 2018 02:55:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72416-2344</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416.rss">Ritual Mafia 2 - Heretics and The Elementalist Win!</source>
+      </item>
+      <item>
+        <title>Ritual Mafia 2 - Heretics and The Elementalist Win!</title>
+        <dc:creator><![CDATA[GamerPoke]]></dc:creator>
+        <description><![CDATA[
+            <p>How many games have I been called scum while being town so far?</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2343">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2343</link>
+        <pubDate>Sat, 22 Sep 2018 02:46:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72416-2343</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416.rss">Ritual Mafia 2 - Heretics and The Elementalist Win!</source>
+      </item>
+      <item>
+        <title>Ritual Mafia 2 - Heretics and The Elementalist Win!</title>
+        <dc:creator><![CDATA[bazingaboy]]></dc:creator>
+        <description><![CDATA[
+            <p>alice should have lost that one 100% after lynching a town</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2342">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2342</link>
+        <pubDate>Sat, 22 Sep 2018 02:46:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72416-2342</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416.rss">Ritual Mafia 2 - Heretics and The Elementalist Win!</source>
+      </item>
+      <item>
+        <title>Ritual Mafia 2 - Heretics and The Elementalist Win!</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>Cant remember any funny moments, but the Solic vs Alice thunderdome was interesting to watch.</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2341">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2341</link>
+        <pubDate>Sat, 22 Sep 2018 02:40:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72416-2341</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416.rss">Ritual Mafia 2 - Heretics and The Elementalist Win!</source>
+      </item>
+      <item>
+        <title>Ritual Mafia 2 - Heretics and The Elementalist Win!</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>If I remember correctly there were 2 town voting Solic at one point plus the Traitor</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2340">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2340</link>
+        <pubDate>Sat, 22 Sep 2018 02:39:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72416-2340</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416.rss">Ritual Mafia 2 - Heretics and The Elementalist Win!</source>
+      </item>
+      <item>
+        <title>Ritual Mafia 2 - Heretics and The Elementalist Win!</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Any funnier moments?</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2339">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2339</link>
+        <pubDate>Sat, 22 Sep 2018 02:39:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72416-2339</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416.rss">Ritual Mafia 2 - Heretics and The Elementalist Win!</source>
+      </item>
+      <item>
+        <title>Ritual Mafia 2 - Heretics and The Elementalist Win!</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>literally why would Town vote solic</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2338">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2338</link>
+        <pubDate>Sat, 22 Sep 2018 02:38:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72416-2338</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416.rss">Ritual Mafia 2 - Heretics and The Elementalist Win!</source>
+      </item>
+      <item>
+        <title>Ritual Mafia 2 - Heretics and The Elementalist Win!</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>There was a point where the ritual votes were tied between clover, solic and blue. Also, if all heretics had voted Solic on the first ritual he would’ve been sacrificed.</p>
+<p>Also margaret didn’t see a single visit all game.</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2337">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2337</link>
+        <pubDate>Sat, 22 Sep 2018 02:37:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72416-2337</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416.rss">Ritual Mafia 2 - Heretics and The Elementalist Win!</source>
+      </item>
+      <item>
+        <title>Ritual Mafia 2 - Heretics and The Elementalist Win!</title>
+        <dc:creator><![CDATA[PoisonedSquid]]></dc:creator>
+        <description><![CDATA[
+            <p><em>Stills gets called scum</em></p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2336">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2336</link>
+        <pubDate>Sat, 22 Sep 2018 01:34:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72416-2336</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416.rss">Ritual Mafia 2 - Heretics and The Elementalist Win!</source>
+      </item>
+      <item>
+        <title>Ritual Mafia 2 - Heretics and The Elementalist Win!</title>
+        <dc:creator><![CDATA[PoisonedSquid]]></dc:creator>
+        <description><![CDATA[
+            <p><em>That moment when you get occupied on every single night :^)</em></p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2335">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2335</link>
+        <pubDate>Sat, 22 Sep 2018 01:34:25 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72416-2335</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416.rss">Ritual Mafia 2 - Heretics and The Elementalist Win!</source>
+      </item>
+      <item>
+        <title>Ritual Mafia 2 - Heretics and The Elementalist Win!</title>
+        <dc:creator><![CDATA[bazingaboy]]></dc:creator>
+        <description><![CDATA[
+            <p>I feel like there’s a conspiracy to play poorly as town and get converted</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2334">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2334</link>
+        <pubDate>Sat, 22 Sep 2018 01:32:24 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72416-2334</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416.rss">Ritual Mafia 2 - Heretics and The Elementalist Win!</source>
+      </item>
+      <item>
+        <title>Ritual Mafia 2 - Heretics and The Elementalist Win!</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Funny moments summary?</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2333">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2333</link>
+        <pubDate>Sat, 22 Sep 2018 01:31:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72416-2333</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416.rss">Ritual Mafia 2 - Heretics and The Elementalist Win!</source>
+      </item>
+      <item>
+        <title>Ritual Mafia 2 - Heretics and The Elementalist Win!</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>There is the spread sheet<br>
+<a href="https://docs.google.com/spreadsheets/d/15u51hHSGXvOvhm05NNM0QdW0ZV89ylbO0_6_rxnLXis/edit?usp=sharing" class="onebox" target="_blank" rel="noopener nofollow ugc">https://docs.google.com/spreadsheets/d/15u51hHSGXvOvhm05NNM0QdW0ZV89ylbO0_6_rxnLXis/edit?usp=sharing</a></p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2332">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2332</link>
+        <pubDate>Sat, 22 Sep 2018 01:31:17 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72416-2332</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416.rss">Ritual Mafia 2 - Heretics and The Elementalist Win!</source>
+      </item>
+      <item>
+        <title>Ritual Mafia 2 - Heretics and The Elementalist Win!</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Also when where why is the next game</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2331">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2331</link>
+        <pubDate>Sat, 22 Sep 2018 00:54:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72416-2331</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416.rss">Ritual Mafia 2 - Heretics and The Elementalist Win!</source>
+      </item>
+      <item>
+        <title>Ritual Mafia 2 - Heretics and The Elementalist Win!</title>
+        <dc:creator><![CDATA[BlueStorm]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh yeah, fun fact: Alice misread the mechanics of her class, she never had an “alert” N2 or N3 at all. Since Drain Blood uses Elixir of Blood immediately after its use, her blood stack reset to 0 after N1.</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2330">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2330</link>
+        <pubDate>Sat, 22 Sep 2018 00:53:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72416-2330</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416.rss">Ritual Mafia 2 - Heretics and The Elementalist Win!</source>
+      </item>
+      <item>
+        <title>Ritual Mafia 2 - Heretics and The Elementalist Win!</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Let him die in peace</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2329">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2329</link>
+        <pubDate>Sat, 22 Sep 2018 00:52:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72416-2329</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416.rss">Ritual Mafia 2 - Heretics and The Elementalist Win!</source>
+      </item>
+      <item>
+        <title>Ritual Mafia 2 - Heretics and The Elementalist Win!</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>It’s meta to rampage at your house</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2328">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416/2328</link>
+        <pubDate>Sat, 22 Sep 2018 00:51:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72416-2328</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-2-heretics-and-the-elementalist-win/72416.rss">Ritual Mafia 2 - Heretics and The Elementalist Win!</source>
+      </item>
+  </channel>
+</rss>

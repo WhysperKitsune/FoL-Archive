@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Class Reworks (Mostly Social)</title>
+    <link>https://forum.throneoflies.com/t/class-reworks-mostly-social/46000</link>
+    <description>Huge thanks to NuclearBurrito, who helped me refine all these ideas.
+
+&gt; **[color=blue]Psychic (Unique Blue Dragon Social)[/color]**
+&gt; 
+&gt; Passive: Astral Network: You may speak to anyone you have linked with anonymously at night. They can also talk to each other. Anyone in jail cannot hear or speak using the chat. This passive will remain if your class changes.
+&gt; 
+&gt; Day Ability: Telepathy: Send an anonymous message to everyone. 2 uses.
+&gt; 
+&gt; Night Ability: Alter Link: Target player is immediately added to the astral network. If they are already in the astral network they are immediately removed. The network cannot have more than 4 other players at once.(Unlimited. 1 day cooldown)
+
+&gt; **[color=purple]Illusionist (Unique Unseen Social)[/color]**
+&gt; 
+&gt; Passive: Astral Network: You may speak to anyone you have linked with anonymously at night. They can also talk to each other. Anyone in jail cannot hear or speak using the chat. This passive will remain if your class changes.
+&gt;
+&gt; Passive: Skilled: You can use both night abilities in the same night.
+&gt; 
+&gt; Day Ability: Telepathy: Send an anonymous message to everyone. 2 uses.
+&gt; 
+&gt; Night Ability: Alter Link: Target player is immediately added to the astral network. If they are already in the astral network they are immediately removed. The network cannot have more than 4 other players at once.(Unlimited. 1 day cooldown)
+&gt;
+&gt; Night Ability: Mind warp - Target player receives incorrect feedback tonight (unlimited)
+
+&gt; **[color=blue]Priest (Unique Blue Dragon Social)[/color]**
+&gt; 
+&gt; Passive: Call of the Dead: Speak to the dead at night.
+&gt;
+&gt; Passive: Devout: You cannot die until someone else dies.
+&gt; 
+&gt; Night Ability 1: Power of the Dead: Power of the Dead: Use the primary power of someone who has died. You may only use each person once, and you may not utilize a Killer or Special class. Unlimited uses.
+&gt; 
+&gt; Night Ability 2: Reanimate: Revive one Blue Dragon as a Death Knight. 1 use.
+
+&gt; **[color=purple]Soulcatcher (Unique Unseen Social)[/color]**
+&gt; 
+&gt; Passive: Call the Darkness: Dead Unseen may speak to the Unseen while this is alive.
+&gt; 
+&gt; Night Ability 1: Power of the Dead: Use the primary power of someone who has died. You may only use each person once, and you may not utilize a Killer or Special class. Unlimited uses.
+
+&gt; **[color=blue]Death Knight (Blue Dragon Killer)[/color]**
+&gt; 
+&gt; Passive: Undead: All players will see you as dead, you may not vote, and you may talk to the Priest at night. Your target cannot be changed, and you cannot be occupied.
+&gt; 
+&gt; Night Ability: Deathly Steel: You may attack one person. 1 use. You will die when you use this (again). Bypasses all protection (excluding immunity)
+
+&gt; **[color=Blue]Scribe (Blue Dragon Social)[/color]**
+&gt; 
+&gt; Passive: Espionage - If a hidden negative effect is applied to you then you will know
+&gt; 
+&gt; Day Ability: Private matters - Whispers to and from you are hidden for the rest of the day. (Unlimited)
+&gt; 
+&gt; Night Ability 1: Maid Spy - Hear whispers to and from Target player until you choose another player. Does not count as a visit. (Unlimited)
+
+&gt; **[color=purple]Forger (Unseen Social)[/color]**
+&gt; 
+&gt; Passive: Espionage - If a hidden negative effect is applied to you then you will know
+&gt; 
+&gt; Day Ability: Private matters - Whispers to and from you are hidden for the rest of the day. (Unlimited)
+&gt; 
+&gt; Night Ability 1: Maid Spy - Hear whispers to and from Target player until you choose another player. Does not count as a visit. (Unlimited)
+
+&gt; **[color=blue]Noble (Blue Dragon Social)[/color]**
+&gt; 
+&gt; Passive: Bureaucracy - You can see vote contents in real time exept when you are on trial
+&gt;
+&gt;Passive 1: Royal Blood - You can step up to be king
+&gt; 
+&gt; Day Ability 1: Political Pressure - Force one person to accuse another and prevent further voting. (2 uses)
+&gt; 
+&gt; Day Ability 2: Noble Twin - If there is a tie on trial the person is executed. (2 uses)
+&gt; 
+&gt; Night Ability 1: Bounty - If target player is executed tomorrow and is Blue Dragon then there will be an additional trial and execution. Cannot target King. (Unlimited)
+&gt; 
+&gt; Night Ability 2: Overtime - There can be up to 3 trials tomorrow. (1 use)
+
+&gt; **[color=purple]Aristocrat (Unseen Social)[/color]**
+&gt; 
+&gt; Passive: Bureaucracy - You can see vote contents in real time exept when you are on trial
+&gt; 
+&gt; Passive 1: Royal Blood - You can step up to be king
+&gt;
+&gt; Day Ability 1: Political Pressure - Force one person to accuse another and prevent further voting. (2 uses)
+&gt; 
+&gt; Day Ability 2: Noble Twin- If there is a tie on trial the person is executed. (2 uses)
+&gt; 
+&gt; Night Ability 1: Bounty - If target player is executed tomorrow and is Blue Dragon then there will be an additional trial and execution. Cannot target King. (Unlimited)
+&gt; 
+&gt; Night Ability 2: Cease and desist - There can be only 1 trial tomorrow. (1 use)
+
+&gt; **[color=red]Apostle (Cult Social)[/color]**
+&gt; 
+&gt; Passive: Call the Darkness: The Cult may speak to their dead while you live.
+&gt; 
+&gt; Bribe - Force one person to accuse another and prevent further voting. (2 uses)
+&gt; 
+&gt; Day Ability: Telepathy: Telepathy: Send an anonymous message to everyone. 2 uses.
+&gt; 
+&gt; Night Ability: Cult Spy: See all whispers to and from your target the next day. 2 uses.
+
+&gt;**[color=blue]Court Wizard (Unique Blue Dragon Support)[/color]**
+&gt;
+&gt; Night Ability: Tornado: Swap two players, making anyone who targets one of them target the other. Unlimited uses. Bypasses occupation immunity.
+&gt; 
+&gt; Night Ability 2: Magic Barrier: Prevent all negative effects on one target besides death tonight, and the next day. Unlimited uses. Does not prevent death, poison, or bleeding.
+
+Sage&#39;s tornado would become the same as Court Wizard.
+
+&gt; **[color=grey]Mercenary (Neutral Support)[/color]**
+&gt; 
+&gt; Passive: Failure: If both your targets die or if your target dies after day 5, you will commit suicide.
+&gt; 
+&gt; Passive: Contracted: You may not vote up your target, and must always vote to pardon them.
+&gt; 
+&gt; Day Ability: Offer Contract: If your target is dead on or before day 5, you may select a new contract. Your uses of Stand Guard will be reduced to two, unless you have less than 2 uses.
+&gt; 
+&gt; Day Ability: Warn: Your target will need a two thirds majority to be voted up (if not already). If your target is executed, the target of this ability will be killed. Everyone will be notified, and your target cannot be the target of Imprison, Blood of Mithras, Nightshade Poisoning, or Rupture. One use.
+&gt; 
+&gt; Night Ability: Stand Guard: Prevent all visitors to your target, and prevent Prince from executing them. 4 uses. You will be immune for the night.
+
+&gt; **[color=purple]Sellsword (Unseen Support)[/color]**
+&gt; 
+&gt; Day Ability: Threaten: Target unseen member will need a two thirds majority to be voted up (if not already). If they are executed, your second target will be killed. They cannot be the target of Imprison. 1 use.
+&gt; 
+&gt; Night Ability: Protection: All visits to target unseen member will be prevented. The Prince may not execute them.
+
+Butler would stay the same, but would not be notified if their target was occupy immune. Same goes for Servant. Servant would get the following ability:
+
+&gt; Hallucinogenic Wine: The target will think they were poisoned. They will receive a notification if they were healed, as will healer.
+
+Purposes:
+
+Psychic/Illusionist: Coordination with other classes
+Noble/Aristocrat: Whispers
+Priest/Soulcatcher: Having information/powers of the dead.
+Scribe/Forger: Vote manipulation
+Mercenary: Same
+Court Wizard: Redirecting attacks and conversions, stopping conversions
+
+Change log:
+1: Added Notes
+2: Fixed Typos
+3: Added Mercenary and Court Wizard Reworks. Also Servant Ability.
+4: Added Purposes, tweaked Political Power
+5: Edited Magic Barrier, made Sage tornado same as Court Wizard&#39;s
+6: Tweaked Power of the Dead
+7: Added Devout on Priest
+8: Redid Psychic and Illusionist, see above
+9: Reworked, again
+10: Reworked Noble/Aristocrat/Apostle, added Merchant/Con Artist
+11: Updated purposes
+12: Renamed Merchant and Con Artist to Scribe and Forger
+13: Swapped some names</description>
+    
+    <lastBuildDate>Mon, 26 Feb 2018 00:36:18 +0000</lastBuildDate>
+    <category>Class/Lore/Fanfic</category>
+    <atom:link href="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Class Reworks (Mostly Social)</title>
+        <dc:creator><![CDATA[NightX]]></dc:creator>
+        <description><![CDATA[
+            <p>Would you mind commenting on <a href="https://forum.imperium42.com/t/master-rework-of-doom/47102">this</a> thread?</p>
+<p>This one is outdated. Go check the other one out.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/125">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/125</link>
+        <pubDate>Mon, 26 Feb 2018 00:36:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-46000-125</guid>
+        <source url="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000.rss">Class Reworks (Mostly Social)</source>
+      </item>
+      <item>
+        <title>Class Reworks (Mostly Social)</title>
+        <dc:creator><![CDATA[Shrimpy]]></dc:creator>
+        <description><![CDATA[
+            <p>I like the idea of leaving Noble with vote manipulation abilities and taking away spy and snoop and giving them to some other “spy” class.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/124">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/124</link>
+        <pubDate>Mon, 26 Feb 2018 00:35:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-46000-124</guid>
+        <source url="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000.rss">Class Reworks (Mostly Social)</source>
+      </item>
+      <item>
+        <title>Class Reworks (Mostly Social)</title>
+        <dc:creator><![CDATA[Livicus]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks dude.</p>
+<p>Although it would probably be amazing if those class reworks were divided into its individual class types.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/123">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/123</link>
+        <pubDate>Tue, 20 Feb 2018 05:33:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-46000-123</guid>
+        <source url="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000.rss">Class Reworks (Mostly Social)</source>
+      </item>
+      <item>
+        <title>Class Reworks (Mostly Social)</title>
+        <dc:creator><![CDATA[NightX]]></dc:creator>
+        <description><![CDATA[
+            <p>It actually has every single class, but I put  it all in details and added some links.</p>
+<p>It took forever.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/122">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/122</link>
+        <pubDate>Tue, 20 Feb 2018 05:33:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-46000-122</guid>
+        <source url="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000.rss">Class Reworks (Mostly Social)</source>
+      </item>
+      <item>
+        <title>Class Reworks (Mostly Social)</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>It’s Ability’s were:</p>
+<p>Day Ability: Faux nightshade - Target will think they were poisoned with nightshade (2 uses)</p>
+<p>Night Ability 1: Erraticate - Kill target player (2 uses)<br>
+Night Ability 2: Something I forget</p>
+          <p><a href="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/121">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/121</link>
+        <pubDate>Tue, 20 Feb 2018 05:32:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-46000-121</guid>
+        <source url="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000.rss">Class Reworks (Mostly Social)</source>
+      </item>
+      <item>
+        <title>Class Reworks (Mostly Social)</title>
+        <dc:creator><![CDATA[NightX]]></dc:creator>
+        <description><![CDATA[
+            <p>The thread of doom is posted.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/120">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/120</link>
+        <pubDate>Tue, 20 Feb 2018 05:32:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-46000-120</guid>
+        <source url="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000.rss">Class Reworks (Mostly Social)</source>
+      </item>
+      <item>
+        <title>Class Reworks (Mostly Social)</title>
+        <dc:creator><![CDATA[Livicus]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh. Then Acolyte should return, and take the spot of Killer converts; it’s already been in the game like Priest.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/119">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/119</link>
+        <pubDate>Tue, 20 Feb 2018 05:31:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-46000-119</guid>
+        <source url="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000.rss">Class Reworks (Mostly Social)</source>
+      </item>
+      <item>
+        <title>Class Reworks (Mostly Social)</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Actually that was the case even then. Acolyte was a starting cultist that only spawned once and would not promote unless alone.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/118">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/118</link>
+        <pubDate>Tue, 20 Feb 2018 05:31:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-46000-118</guid>
+        <source url="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000.rss">Class Reworks (Mostly Social)</source>
+      </item>
+      <item>
+        <title>Class Reworks (Mostly Social)</title>
+        <dc:creator><![CDATA[Livicus]]></dc:creator>
+        <description><![CDATA[
+            <p>Okay, because I started playing in October, and I didn’t see it here but was really weirded on why Invoker takes both Offensive and Killer classes.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/117">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/117</link>
+        <pubDate>Tue, 20 Feb 2018 05:30:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-46000-117</guid>
+        <source url="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000.rss">Class Reworks (Mostly Social)</source>
+      </item>
+      <item>
+        <title>Class Reworks (Mostly Social)</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>It was. It was back before eradicate was a thing on CL.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/116">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/116</link>
+        <pubDate>Tue, 20 Feb 2018 05:29:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-46000-116</guid>
+        <source url="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000.rss">Class Reworks (Mostly Social)</source>
+      </item>
+      <item>
+        <title>Class Reworks (Mostly Social)</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>At which point we probably have enough BD/Unseen/Cult to work with.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/115">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/115</link>
+        <pubDate>Tue, 20 Feb 2018 05:28:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-46000-115</guid>
+        <source url="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000.rss">Class Reworks (Mostly Social)</source>
+      </item>
+      <item>
+        <title>Class Reworks (Mostly Social)</title>
+        <dc:creator><![CDATA[Livicus]]></dc:creator>
+        <description><![CDATA[
+            <p>Didn’t Acolyte used to be a part of it? I tried making Acolyte as a game name a while back but I wasn’t able to.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/114">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/114</link>
+        <pubDate>Tue, 20 Feb 2018 05:28:28 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-46000-114</guid>
+        <source url="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000.rss">Class Reworks (Mostly Social)</source>
+      </item>
+      <item>
+        <title>Class Reworks (Mostly Social)</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>And also acolyte I hope.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/113">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/113</link>
+        <pubDate>Tue, 20 Feb 2018 05:28:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-46000-113</guid>
+        <source url="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000.rss">Class Reworks (Mostly Social)</source>
+      </item>
+      <item>
+        <title>Class Reworks (Mostly Social)</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>And duelist.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/112">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/112</link>
+        <pubDate>Tue, 20 Feb 2018 05:27:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-46000-112</guid>
+        <source url="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000.rss">Class Reworks (Mostly Social)</source>
+      </item>
+      <item>
+        <title>Class Reworks (Mostly Social)</title>
+        <dc:creator><![CDATA[Livicus]]></dc:creator>
+        <description><![CDATA[
+            <p>And then possible Baron and Escort (And Duelist)</p>
+<p>But we’re not entitled to this going in, I just like designing and theory crafting for the sake of creativity</p>
+          <p><a href="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/111">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/111</link>
+        <pubDate>Tue, 20 Feb 2018 05:27:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-46000-111</guid>
+        <source url="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000.rss">Class Reworks (Mostly Social)</source>
+      </item>
+      <item>
+        <title>Class Reworks (Mostly Social)</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Probably would be gradual. Probably the social ones first and then the FoL ones.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/110">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/110</link>
+        <pubDate>Tue, 20 Feb 2018 05:27:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-46000-110</guid>
+        <source url="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000.rss">Class Reworks (Mostly Social)</source>
+      </item>
+      <item>
+        <title>Class Reworks (Mostly Social)</title>
+        <dc:creator><![CDATA[Livicus]]></dc:creator>
+        <description><![CDATA[
+            <p>If the staff do actually consider this into their updates, then I feel this would be too much at once for a regular 1.0.xx</p>
+<p>It would seem more like a 1.1.0 because of complete Social overhaul, and addition of several classes (or re-addition)</p>
+          <p><a href="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/109">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/109</link>
+        <pubDate>Tue, 20 Feb 2018 05:26:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-46000-109</guid>
+        <source url="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000.rss">Class Reworks (Mostly Social)</source>
+      </item>
+      <item>
+        <title>Class Reworks (Mostly Social)</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>In anycase those numbers seem close enough to work with.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/108">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/108</link>
+        <pubDate>Tue, 20 Feb 2018 05:25:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-46000-108</guid>
+        <source url="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000.rss">Class Reworks (Mostly Social)</source>
+      </item>
+      <item>
+        <title>Class Reworks (Mostly Social)</title>
+        <dc:creator><![CDATA[Livicus]]></dc:creator>
+        <description><![CDATA[
+            <p>Just was making my point <img src="/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"></p>
+          <p><a href="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/107">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/107</link>
+        <pubDate>Tue, 20 Feb 2018 05:23:42 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-46000-107</guid>
+        <source url="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000.rss">Class Reworks (Mostly Social)</source>
+      </item>
+      <item>
+        <title>Class Reworks (Mostly Social)</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Ok well your assumption is correct even if currently meaningless.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/106">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/106</link>
+        <pubDate>Tue, 20 Feb 2018 05:23:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-46000-106</guid>
+        <source url="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000.rss">Class Reworks (Mostly Social)</source>
+      </item>
+      <item>
+        <title>Class Reworks (Mostly Social)</title>
+        <dc:creator><![CDATA[Livicus]]></dc:creator>
+        <description><![CDATA[
+            <p>I actually used that assumption months in advance for my old Priest rework’s Consecration, if you remember.</p>
+<p>Well I kinda forgot CL’s Sacrifice, because I rarely use it, but I considered Scout and Imprison as Night Abilities.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/105">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/105</link>
+        <pubDate>Tue, 20 Feb 2018 05:22:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-46000-105</guid>
+        <source url="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000.rss">Class Reworks (Mostly Social)</source>
+      </item>
+      <item>
+        <title>Class Reworks (Mostly Social)</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Btw I have been told by Boslof that jail, scout and sacrifice don’t count as day Ability’s. Take that how you will.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/104">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/104</link>
+        <pubDate>Tue, 20 Feb 2018 05:21:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-46000-104</guid>
+        <source url="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000.rss">Class Reworks (Mostly Social)</source>
+      </item>
+      <item>
+        <title>Class Reworks (Mostly Social)</title>
+        <dc:creator><![CDATA[Livicus]]></dc:creator>
+        <description><![CDATA[
+            <p>I’ll do it then.</p>
+<p>Social: 2 Unique, 2 regular, 6 max<br>
+Support: 1 Unique, 3 regular, 7 max<br>
+Killer: 1 guarenteed, 2 Unique, 1 regular, 5 max<br>
+Investigative: 1 guarenteed but regular, 3 regular, 8 max<br>
+Offensive: 3 regular, 6 max</p>
+<p>In short:<br>
+Maximum Classes for each type</p>
+<p>Social: (Psychic, Priest, Noble, Noble, Scribe, Scribe)<br>
+Support: (Baron, Physician, Physician, Court Wizard, Court Wizard, Squire, Squire)<br>
+Killer: (Prince, Hunter, Duelist, Knight, Knight)<br>
+Offensive: (Butler, Butler, Drunk, Drunk, Escort, Escort)<br>
+Investigative: (Sheriff, Paladin, Observer, Observer, Princess, Princess, Maid, Maid)</p>
+          <p><a href="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/103">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/103</link>
+        <pubDate>Tue, 20 Feb 2018 05:21:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-46000-103</guid>
+        <source url="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000.rss">Class Reworks (Mostly Social)</source>
+      </item>
+      <item>
+        <title>Class Reworks (Mostly Social)</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Ok well I’m not posting another update.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/102">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/102</link>
+        <pubDate>Tue, 20 Feb 2018 05:18:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-46000-102</guid>
+        <source url="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000.rss">Class Reworks (Mostly Social)</source>
+      </item>
+      <item>
+        <title>Class Reworks (Mostly Social)</title>
+        <dc:creator><![CDATA[Livicus]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh, ok, but I still advocate for non-Unique Squire, just for claimspace.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/101">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-reworks-mostly-social/46000/101</link>
+        <pubDate>Tue, 20 Feb 2018 05:18:25 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-46000-101</guid>
+        <source url="https://forum.throneoflies.com/t/class-reworks-mostly-social/46000.rss">Class Reworks (Mostly Social)</source>
+      </item>
+  </channel>
+</rss>

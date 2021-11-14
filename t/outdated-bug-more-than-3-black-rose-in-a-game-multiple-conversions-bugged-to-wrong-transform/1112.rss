@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[Outdated] BUG: More than 3 Black Rose in a game - multiple conversions bugged to wrong transform</title>
+    <link>https://forum.throneoflies.com/t/outdated-bug-more-than-3-black-rose-in-a-game-multiple-conversions-bugged-to-wrong-transform/1112</link>
+    <description>
+
+**Expected Results:** Only 3 Black rose would exist in a game and converted Blue Dragon members would convert to their appropriate Black Rose role
+
+Knight &gt; Enforcer
+Priest &gt;Soulcatcher
+Princess &gt; Traitor Princess
+
+**Actual Results:** **_Knight, Priest, and Princess all converted into Assassins._**  This allowed for multiple Assassin kills in the end game, and the game does not consider Assassin unique, so I was able to keep converting beyond the 3 max Black Rose members.  By the end of the game, I had 5 Black Rose members that I was aware of (with 1 BR King who disconnected later in the game).
+
+I believe the cause of the bug to be linked with my Assassin who DC&#39;d day 2, before I converted the first princess into a Traitor Princess.
+
+**Steps to reproduce:**
+
+1. Be Mastermind
+2. Night 1 - Don&#39;t kill anyone with the Assassin that spawns with you.  Don&#39;t convert night 1
+3. Day 2 -  Have the Assassin disconnect from the game.
+4. Night 2 - Convert cult member on night 2  **(note the game won&#39;t mark the original Assassin as suicided/dead until day 3)**
+5. Day 3 - Original Assassin shows to Court as suicided.  BR now includes Mastermind and a random BR.  No assassin is with the BR.  **_I think this causes the game to freak out to try to force an Assassin to appear._**
+6. Night 3 - can&#39;t convert
+7. Night 4 - Convert another member.  This role will appear as Assassin, as the game tries to add an Assassin back to the BR team.
+8. Repeat Process on nights 6 and 8 for conversion.  Game will continue to convert any BD role to an Assassin, and the Black Rose will exceed past the limit of 3 members.
+
+**Comments:**
+
+See the attached screenshots.  **I can not attach a log file.  .txt is not in the supported extensions for forum uploads.**  I will post the log file on discord to any dev available upon request, as I have it saved under a new name on my machine, separate from other logs.
+&lt;img src=&quot;/uploads/default/original/1X/bffbf5e99e93d3b0812cf60005e2a483901d7ca2.jpg&quot; width=&quot;690&quot; height=&quot;388&quot;&gt;&lt;img src=&quot;/uploads/default/original/1X/df5fa9b01d1c7742275aec5af0aedefe5dcd0d91.jpg&quot; width=&quot;690&quot; height=&quot;388&quot;&gt;&lt;img src=&quot;/uploads/default/original/1X/715ff419eb476b3e6d1675755030ac1ca1202976.jpg&quot; width=&quot;690&quot; height=&quot;388&quot;&gt;&lt;img src=&quot;/uploads/default/original/1X/a0970fd394cc775c404a84d8cb9c2a1ee47ac56c.jpg&quot; width=&quot;690&quot; height=&quot;388&quot;&gt;</description>
+    
+    <lastBuildDate>Thu, 31 Aug 2017 02:43:20 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forum.throneoflies.com/t/outdated-bug-more-than-3-black-rose-in-a-game-multiple-conversions-bugged-to-wrong-transform/1112.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[Outdated] BUG: More than 3 Black Rose in a game - multiple conversions bugged to wrong transform</title>
+        <dc:creator><![CDATA[ThePlex]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href="https://forum.throneoflies.com/t/outdated-bug-more-than-3-black-rose-in-a-game-multiple-conversions-bugged-to-wrong-transform/1112/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-bug-more-than-3-black-rose-in-a-game-multiple-conversions-bugged-to-wrong-transform/1112/2</link>
+        <pubDate>Thu, 31 Aug 2017 02:43:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-1112-2</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-bug-more-than-3-black-rose-in-a-game-multiple-conversions-bugged-to-wrong-transform/1112.rss">[Outdated] BUG: More than 3 Black Rose in a game - multiple conversions bugged to wrong transform</source>
+      </item>
+      <item>
+        <title>[Outdated] BUG: More than 3 Black Rose in a game - multiple conversions bugged to wrong transform</title>
+        <dc:creator><![CDATA[Malchior]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>Expected Results:</strong> Only 3 Black rose would exist in a game and converted Blue Dragon members would convert to their appropriate Black Rose role</p>
+<p>Knight &gt; Enforcer<br>
+Priest &gt;Soulcatcher<br>
+Princess &gt; Traitor Princess</p>
+<p><strong>Actual Results:</strong> <strong><em>Knight, Priest, and Princess all converted into Assassins.</em></strong>  This allowed for multiple Assassin kills in the end game, and the game does not consider Assassin unique, so I was able to keep converting beyond the 3 max Black Rose members.  By the end of the game, I had 5 Black Rose members that I was aware of (with 1 BR King who disconnected later in the game).</p>
+<p>I believe the cause of the bug to be linked with my Assassin who DC’d day 2, before I converted the first princess into a Traitor Princess.</p>
+<p><strong>Steps to reproduce:</strong></p>
+<ol>
+<li>Be Mastermind</li>
+<li>Night 1 - Don’t kill anyone with the Assassin that spawns with you.  Don’t convert night 1</li>
+<li>Day 2 -  Have the Assassin disconnect from the game.</li>
+<li>Night 2 - Convert cult member on night 2  <strong>(note the game won’t mark the original Assassin as suicided/dead until day 3)</strong>
+</li>
+<li>Day 3 - Original Assassin shows to Court as suicided.  BR now includes Mastermind and a random BR.  No assassin is with the BR.  <strong><em>I think this causes the game to freak out to try to force an Assassin to appear.</em></strong>
+</li>
+<li>Night 3 - can’t convert</li>
+<li>Night 4 - Convert another member.  This role will appear as Assassin, as the game tries to add an Assassin back to the BR team.</li>
+<li>Repeat Process on nights 6 and 8 for conversion.  Game will continue to convert any BD role to an Assassin, and the Black Rose will exceed past the limit of 3 members.</li>
+</ol>
+<p><strong>Comments:</strong></p>
+<p>See the attached screenshots.  <strong>I can not attach a log file.  .txt is not in the supported extensions for forum uploads.</strong>  I will post the log file on discord to any dev available upon request, as I have it saved under a new name on my machine, separate from other logs.<br>
+<img src="/uploads/default/original/1X/bffbf5e99e93d3b0812cf60005e2a483901d7ca2.jpg" width="690" height="388"><img src="/uploads/default/original/1X/df5fa9b01d1c7742275aec5af0aedefe5dcd0d91.jpg" width="690" height="388"><img src="/uploads/default/original/1X/715ff419eb476b3e6d1675755030ac1ca1202976.jpg" width="690" height="388"><img src="/uploads/default/original/1X/a0970fd394cc775c404a84d8cb9c2a1ee47ac56c.jpg" width="690" height="388"></p>
+          <p><a href="https://forum.throneoflies.com/t/outdated-bug-more-than-3-black-rose-in-a-game-multiple-conversions-bugged-to-wrong-transform/1112/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-bug-more-than-3-black-rose-in-a-game-multiple-conversions-bugged-to-wrong-transform/1112/1</link>
+        <pubDate>Sat, 08 Apr 2017 01:07:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-1112-1</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-bug-more-than-3-black-rose-in-a-game-multiple-conversions-bugged-to-wrong-transform/1112.rss">[Outdated] BUG: More than 3 Black Rose in a game - multiple conversions bugged to wrong transform</source>
+      </item>
+  </channel>
+</rss>

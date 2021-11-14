@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Throne of Salem (10/16) | Day 4: PoisonedPrince</title>
+    <link>https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696</link>
+    <description>## Welcome to Throne of Salem. Hosted by Pug and cohosted by @CheesyKnives 
+
+### Rules
+
+https://forum.imperium42.com/t/forum-of-lies-official-hub/1515
+
+### Gameplay
+Day/Night cycle is 72/24
+Actions are done by class DM.
+Mafia/Vampires will talk through a Forum DM
+
+When you receive a card you will have 24 hours to reply, confirming in thread.
+
+### Executions
+To accuse someone say &quot;**/accuse [player]**&quot; or &quot;**/vote [player]**&quot;
+Executions end the Day
+
+
+### Journals
+Message me your entire journal, the last draft I receive before you die shall be the one displayed
+
+### To Join
+To join, simply express interest in joining by saying something like &quot;I want to join&quot; or &quot;/join&quot; or &quot;/in&quot; or &quot;sign me up, coach&quot; or whatever you want
+
+### Classcards:
+[details=Show]
+[details=Blue Dragon]
+&gt; # [color=steblue]The King[/color] :shield: 
+&gt; **[color=steblue]Blue Dragon Special[/color]**
+&gt; **Royalty (Passive)** - Once you have revealed yourself to the public, your votes will count as 3. You may not be healed once you have revealed.
+&gt; **Royal Word (Day)** - You may reveal yourself as The King through the game master. - 1 use
+*Your goal is to lynch every criminal and evildoer.*
+
+&gt; **Convert Immune**
+
+&gt; # [color=steblue]The Lord[/color]
+&gt; **[color=steblue]Blue Dragon Support[/color]**
+&gt; **Useful (Passive)** - You do not have any abilities
+*Your goal is to lynch every criminal and evildoer.*
+
+&gt; **Converts into the Associate or Vampire**
+
+&gt; # [color=steblue]The Paladin[/color] :shield: 
+&gt; **[color=steblue]Blue Dragon Killing[/color]**
+&gt; **Test of Faith (Night)** - If targeted player is a vampire, you will kill them. - Infinite uses
+*Your goal is to lynch every criminal and evildoer.*
+
+&gt; **Convert Immune**
+
+&gt; # [color=steblue]The Physician[/color] :shield: 
+&gt; **[color=steblue]Blue Dragon Protective[/color]**
+&gt; **Heal (Night)** - If targeted player is attacked, you may heal them, you may only target yourself once in a game. - Infinite uses
+*Your goal is to lynch every criminal and evildoer.*
+
+&gt; **Converts into the Disguiser or Vampire**
+
+&gt; # [color=steblue]The Prince[/color] :shield: 
+&gt; **[color=steblue]Blue Dragon Killing[/color]**
+&gt; **Imprison (Day)** - Targeted player will be imprisoned tonight, both of you may share two 1000 character messages directly to each other. Current imprisoned player will be immune to attacks and may not use abilities. - Infinite uses
+&gt; **Execute (Night)** - Execute your current prisoner, bypassing immunities. - 3 uses
+*Your goal is to lynch every criminal and evildoer.*
+
+&gt; **Convert Immune**
+
+&gt; # [color=steblue]The Sheriff[/color] :shield: 
+&gt; **[color=steblue]Blue Dragon Investigative[/color]**
+&gt; **Expert Investigation (Night)** - Learn if your target is a member of the Mafia. - Infinite uses
+*Your goal is to lynch every criminal and evildoer.*
+
+&gt; **Convert Immune**
+
+[/details]
+
+[details=Mafia]
+&gt; # [color=red]The Associate[/color]
+&gt; **[color=red]Mafia Support[/color]**
+&gt; **Useful (Passive)** - You do not have any abilities
+*Your goal is to kill anyone that will not submit to the Mafia.*
+
+&gt; **Converted from [color=steblue]The Lord[/color] or [color=darkgreen]The Alchemist[/color]**
+
+&gt; # [color=red]The Disguiser[/color] :shield: 
+&gt; **[color=red]Mafia Deception[/color]**
+&gt; **Defile (Night)** - You will appear as targeted player&#39;s class if you die. You will still appear as a member of the Mafia to the Sheriff though. - Infinite uses
+*Your goal is to kill anyone that will not submit to the Mafia.*
+
+&gt; **Converted from [color=steblue]The Physician[/color]**
+
+&gt; # [color=red]The Godfather[/color] :shield: 
+&gt; **[color=red]Mafia Special[/color]**
+&gt; **Lurking Presence (Passive)** - If you are killed within the first 3 nights your next in line will take your place as Godfather.
+&gt; **Striking Moustache (Passive)** - Immune to death at night, additionally you will appear Not Suspicious to the Sheriff.
+&gt; **Convert (Night)** - Change target player into the Mafia version of their class. If you have failed to convert a target twice already and your next conversion would fail it will instead target a random convertible player. - Infinite uses, 1 night cooldown
+*Your goal is to kill anyone that will not submit to the Mafia.*
+
+&gt; # [color=red]The Mafioso[/color] :shield: 
+&gt; **[color=red]Mafia Killing[/color]**
+&gt; **Assassinate (Night)** - Kill targeted player.
+*Your goal is to kill anyone that will not submit to the Mafia.*
+
+&gt; Factioncap is 3.
+
+[/details]
+
+[details=Vampire]
+&gt; # [color=grey]The Dracula[/color] :shield: 
+&gt; **[color=grey]Vampire Killing[/color]**
+&gt; **Bite (Night)** - Convert targeted player into a vampire if they are convertable. - Infinite uses - 1 night cooldown
+*Your goal is to convert everyone who would oppose you.*
+
+&gt; # [color=grey]The Vampire[/color] :shield: 
+&gt; **[color=grey]Vampire Killing[/color]**
+&gt; **Exchange Blood (Day)** - Exchange blood with target vampire, killing them tonight and giving you two uses of Suck Blood.
+&gt; **Suck Blood (Night)** - Kill two targeted players. Only one vampire may use this each night. - 1 use
+*Your goal is to convert everyone who would oppose you.*
+
+&gt; Factioncap is 4.
+
+[/details]
+
+[details=Neutral]
+&gt; # [color=darkgreen]The Alchemist[/color]
+&gt; **[color=lightgrey]Neutral Benign[/color]**
+&gt; **Stoneskin Potion (Night)** - You will be immune to attacks tonight. - 4 uses
+*Your goal is to live until the end of the game*
+
+&gt; **Converts into the Associate or Vampire**
+
+&gt; # [color=darkgreen]The Druid[/color] :shield: 
+&gt; **[color=lightgrey]Neutral Killing[/color]**
+&gt; **Wall of Nature (Passive)** - Immune to death at night.
+&gt; **Root Network (Passive)** - Your attacks may not be prevented in any way.
+&gt; **Spreading Roots (Night)** - Curl roots around a player&#39;s room. If you target yourself, you will kill all currently rooted players. - Infinite uses
+*Your goal is to live to protect nature by killing all those who corrupt it.*
+
+&gt; Convert Immune
+
+&gt; # [color=hotpink]The Fool[/color]
+&gt; **[color=lightgrey]Neutral Evil[/color]**
+&gt; **Poor Fellow (Night)** - If you are lynched at day, target player will die tonight, bypassing everything. You may only use this when you are dead - 1 use
+*Your goal is to get yourself lynched by any means necessary.*
+
+&gt; Convert Immune
+
+&gt; # [color=olivedrab]The Guardian Mercenary[/color]
+&gt; **[color=lightgrey]Neutral Benign[/color]**
+&gt; **Failure (Passive)** - If your target dies, you will become an Alchemist without any stoneskin potions.
+&gt; **Stand Guard (Night)** - Heal your target from attacks tonight.  This may also be used while dead. - 2 uses
+*Your goal is to keep your target alive until the end of the game. Your target is [x]*
+
+&gt; **Converts into the Associate or Vampire**
+
+&gt; # [color=darkblue]The Possessor[/color] :shield: 
+&gt; **[color=lightgrey]Neutral Killing[/color]**
+&gt; **Driven (Passive)** - Immune to death at night. Additionally, you will kill the Prince if you are imprisoned.
+&gt; **Possess (Night)** - Targeted player will commit suicide. - Infinite uses
+*Your goal is to kill everyone who would oppose you.*
+
+&gt; Convert Immune
+
+&gt; # [color=black]The Reaper[/color] :shield: 
+&gt; **[color=lightgrey]Neutral Killing[/color]**
+&gt; **Consume Soul (Passive)** - Every time you reap a player, you will gain a new ability. You start with what is presented here.
+&gt; **Drain (Night)** - Reap the soul of targeted player if tonight is a full moon, killing them. - Infinite uses
+*Your goal is to kill everyone who would oppose you.*
+
+&gt; **One Successful Reap:**
+&gt; (Replaces Drain) **Reap (Night)** - Reap the soul of targeted player, killing them. - Infinite uses 
+&gt;
+&gt; **Two Successful Reaps:**
+&gt; **Soul Barrier (Passive)** - You are immune to death at night.
+&gt;
+&gt; **Three Successful Reaps:**
+&gt; **Icy Touch (Day)** - Your kill tonight will also kill any visitors to your victim. - 2 uses
+&gt;
+&gt; **Four Successful Reaps:**
+&gt; (Replaces Reap) **Gathered Darkness (Night)** - Reap the soul of targeted player, killing them bypassing all forms of protection. - Infinite uses
+
+&gt; Convert Immune
+
+&gt; # [color=darkred]The Scorned[/color] :shield: 
+&gt; **[color=lightgrey]Neutral Evil[/color]**
+&gt; **Resolve (Passive)** - If your target dies, you will turn into a Fool. Additionally you are immune to death at night.
+*Your goal is to get your target lynched at any cost. Your target is [x]*
+
+&gt; Convert Immune
+
+&gt; # [color=mediumpurple]The Sorcerer[/color]
+&gt; **[color=lightgrey]Neutral Evil[/color]**
+&gt; **Mage Armor (Passive)** - You will survive the first attack made on you.
+&gt; **Magical Redirection (Night)** - Select two targets, the first target will target the second. You will know the class of the player you control. You may select the same person twice. Your target will be alerted that a Sorcerer controlled them. - Infinite uses
+*Your goal is to survive to see the Blue Dragon lose the game.*
+
+&gt; Convert Immune
+
+&gt; # [color=navyblue]The Squire[/color]
+&gt; **[color=lightgrey]Neutral Benign[/color]**
+&gt; **Train (Night)** - Become the class of targeted dead player, you may not become the Prince, King, another Squire or Sheriff. - 1 use
+*Your goal is to train as a class and complete that class&#39; goal.*
+
+&gt; Convert Immune
+
+&gt; # [color=orange]The Weredemon[/color] :shield: 
+&gt; **[color=lightgrey]Neutral Killing[/color]**
+&gt; **Cloak of Mithras (Passive)** - Immune to death at night. Additionally, every Full Moon. You will transform from a normal human into a Demon, allowing you to use your abilities. 
+&gt; **Haemophilia (Night)** - Kill two targeted players. - Infinite uses - May only be used on Full Moon.
+*Your goal is to kill everyone who would oppose you.*
+
+&gt; Convert Immune
+
+[/details]
+
+[/details]
+
+### Rolelist:
+**[color=steblue]King[/color]**
+**[color=red]Godfather[/color] / [color=lightgrey]Dracula[/color]**
+**[color=red]Mafioso[/color] / [color=lightgrey]Vampire[/color]**
+**[color=steblue]Lord[/color] / [color=lightgrey]Vampire[/color]**
+**[color=steblue]Prince[/color]**
+**[color=steblue]Sheriff / Paladin[/color]**
+**[color=steblue]Physician[/color]**
+**[color=steblue]Lord[/color]**
+**[color=steblue]Lord[/color]**
+**[color=steblue]Lord[/color]**
+**[color=steblue]Lord[/color]**
+**[color=steblue]Lord[/color]**
+**[color=steblue]Lord[/color]**
+**[color=grey]Neutral Killer[/color]**
+**[color=grey]Neutral Non-Killer[/color]**
+**[color=steblue]Lord[/color] / [color=grey]Neutral Non-Killer[/color]**
+
+Players:
+1. Celeste
+2. MaximusPrime
+3. MtheJoker
+4. Firekitten - **Died Night One - [color=steblue]The Lord[/color]**
+5. Memesky
+6. Sam17z
+7. PoisonedSquid - **Died Night Three - [color=steblue]The Prince[/color]**
+8. [Color=orange]orange[/color]and[color=black]black[/color]5 - **Executed Day One - [color=steblue]The Lord[/color]**
+9. :b:arluxion
+10. Frostwolf103
+11. htm
+12. Munstrish
+13. Hippolytus
+14. Vulgard - **Died Night Two - [color=steblue]The King[/color]**
+15. Soulshade55r - **Executed Day Two - [color=steblue]The Lord[/color]**
+16. Whammerist - **Executed Day Three - [color=steblue]The Lord[/color]**
+
+[Day 2](https://forum.imperium42.com/t/throne-of-salem-16-16-day-1-rules-not-finalised/67696/1068?u=pug)
+[Day 3](https://forum.imperium42.com/t/throne-of-salem-16-16-day-3-usurp/67696/1176?u=pug)</description>
+    
+    <lastBuildDate>Mon, 09 Jul 2018 14:41:00 +0000</lastBuildDate>
+    <category>Forum Matches</category>
+    <atom:link href="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Throne of Salem (10/16) | Day 4: PoisonedPrince</title>
+        <dc:creator><![CDATA[Munstrish]]></dc:creator>
+        <description><![CDATA[
+            <p>who did<br>
+i think marl<br>
+k i kill marl</p>
+          <p><a href="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1400">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1400</link>
+        <pubDate>Mon, 09 Jul 2018 14:41:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67696-1400</guid>
+        <source url="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696.rss">Throne of Salem (10/16) | Day 4: PoisonedPrince</source>
+      </item>
+      <item>
+        <title>Throne of Salem (10/16) | Day 4: PoisonedPrince</title>
+        <dc:creator><![CDATA[MaximusPrime]]></dc:creator>
+        <description><![CDATA[
+            <p>Too bad I didn’t vote you lel</p>
+          <p><a href="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1399">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1399</link>
+        <pubDate>Sun, 08 Jul 2018 23:18:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67696-1399</guid>
+        <source url="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696.rss">Throne of Salem (10/16) | Day 4: PoisonedPrince</source>
+      </item>
+      <item>
+        <title>Throne of Salem (10/16) | Day 4: PoisonedPrince</title>
+        <dc:creator><![CDATA[Munstrish]]></dc:creator>
+        <description><![CDATA[
+            <p>maxi <img src="/images/emoji/twitter/smiling_imp.png?v=9" title=":smiling_imp:" class="emoji" alt=":smiling_imp:"></p>
+          <p><a href="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1398">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1398</link>
+        <pubDate>Sun, 08 Jul 2018 19:52:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67696-1398</guid>
+        <source url="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696.rss">Throne of Salem (10/16) | Day 4: PoisonedPrince</source>
+      </item>
+      <item>
+        <title>Throne of Salem (10/16) | Day 4: PoisonedPrince</title>
+        <dc:creator><![CDATA[PoisonedSquid]]></dc:creator>
+        <description><![CDATA[
+            <p>I can’t handle being the Prince <img src="/images/emoji/twitter/frowning.png?v=9" title=":frowning:" class="emoji" alt=":frowning:"></p>
+          <p><a href="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1397">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1397</link>
+        <pubDate>Sun, 08 Jul 2018 14:42:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67696-1397</guid>
+        <source url="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696.rss">Throne of Salem (10/16) | Day 4: PoisonedPrince</source>
+      </item>
+      <item>
+        <title>Throne of Salem (10/16) | Day 4: PoisonedPrince</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Whoa whoa whoa unfair.</p>
+<p>BIASED</p>
+          <p><a href="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1396">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1396</link>
+        <pubDate>Sun, 08 Jul 2018 13:02:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67696-1396</guid>
+        <source url="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696.rss">Throne of Salem (10/16) | Day 4: PoisonedPrince</source>
+      </item>
+      <item>
+        <title>Throne of Salem (10/16) | Day 4: PoisonedPrince</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Munstrish" data-post="1389" data-topic="67696">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/munstrish/40/10577_2.png" class="avatar"> Munstrish:</div>
+<blockquote>
+<p>myfuckinggosh<br>
+this whole time i was fool and people were just starting to vote me and then the game got canned <img src="/images/emoji/twitter/sob.png?v=9" title=":sob:" class="emoji" alt=":sob:"></p>
+</blockquote>
+</aside>
+<p>Fine.</p>
+<p>YOU WIN TOO, WHO DO YOU WANT TO KILL WHO ISNT HIPPOLYTUS</p>
+          <p><a href="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1395">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1395</link>
+        <pubDate>Sun, 08 Jul 2018 13:02:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67696-1395</guid>
+        <source url="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696.rss">Throne of Salem (10/16) | Day 4: PoisonedPrince</source>
+      </item>
+      <item>
+        <title>Throne of Salem (10/16) | Day 4: PoisonedPrince</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Nah meme knew all the mafia pug just decided to can it so he couldn’t out then <img src="/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          <p><a href="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1394">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1394</link>
+        <pubDate>Sun, 08 Jul 2018 12:51:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67696-1394</guid>
+        <source url="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696.rss">Throne of Salem (10/16) | Day 4: PoisonedPrince</source>
+      </item>
+      <item>
+        <title>Throne of Salem (10/16) | Day 4: PoisonedPrince</title>
+        <dc:creator><![CDATA[MaximusPrime]]></dc:creator>
+        <description><![CDATA[
+            <p>Liar</p>
+<p>That would be so suspicious anyway that you would be upped.</p>
+<p>Hippo literally said htm and marl are mad but you vote me instead? Sure. And why would you even think I was scum anyway</p>
+          <p><a href="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1393">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1393</link>
+        <pubDate>Sun, 08 Jul 2018 12:49:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67696-1393</guid>
+        <source url="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696.rss">Throne of Salem (10/16) | Day 4: PoisonedPrince</source>
+      </item>
+      <item>
+        <title>Throne of Salem (10/16) | Day 4: PoisonedPrince</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p><s>They killed me because I was going to out all of them</s></p>
+          <p><a href="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1392">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1392</link>
+        <pubDate>Sun, 08 Jul 2018 12:43:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67696-1392</guid>
+        <source url="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696.rss">Throne of Salem (10/16) | Day 4: PoisonedPrince</source>
+      </item>
+      <item>
+        <title>Throne of Salem (10/16) | Day 4: PoisonedPrince</title>
+        <dc:creator><![CDATA[Memesky]]></dc:creator>
+        <description><![CDATA[
+            <p>I did i was bouta up u</p>
+          <p><a href="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1391">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1391</link>
+        <pubDate>Sun, 08 Jul 2018 12:42:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67696-1391</guid>
+        <source url="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696.rss">Throne of Salem (10/16) | Day 4: PoisonedPrince</source>
+      </item>
+      <item>
+        <title>Throne of Salem (10/16) | Day 4: PoisonedPrince</title>
+        <dc:creator><![CDATA[MaximusPrime]]></dc:creator>
+        <description><![CDATA[
+            <p>You didn’t know I was maf lmfao</p>
+          <p><a href="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1390">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1390</link>
+        <pubDate>Sun, 08 Jul 2018 10:36:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67696-1390</guid>
+        <source url="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696.rss">Throne of Salem (10/16) | Day 4: PoisonedPrince</source>
+      </item>
+      <item>
+        <title>Throne of Salem (10/16) | Day 4: PoisonedPrince</title>
+        <dc:creator><![CDATA[Munstrish]]></dc:creator>
+        <description><![CDATA[
+            <p>myfuckinggosh<br>
+this whole time i was fool and people were just starting to vote me and then the game got canned <img src="/images/emoji/twitter/sob.png?v=9" title=":sob:" class="emoji" alt=":sob:"></p>
+          <p><a href="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1389">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1389</link>
+        <pubDate>Sun, 08 Jul 2018 09:41:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67696-1389</guid>
+        <source url="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696.rss">Throne of Salem (10/16) | Day 4: PoisonedPrince</source>
+      </item>
+      <item>
+        <title>Throne of Salem (10/16) | Day 4: PoisonedPrince</title>
+        <dc:creator><![CDATA[Memesky]]></dc:creator>
+        <description><![CDATA[
+            <p>I was about to up all maf rip <img src="/images/emoji/twitter/man_shrugging.png?v=9" title=":man_shrugging:" class="emoji" alt=":man_shrugging:"></p>
+          <p><a href="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1388">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1388</link>
+        <pubDate>Sun, 08 Jul 2018 06:52:20 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67696-1388</guid>
+        <source url="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696.rss">Throne of Salem (10/16) | Day 4: PoisonedPrince</source>
+      </item>
+      <item>
+        <title>Throne of Salem (10/16) | Day 4: PoisonedPrince</title>
+        <dc:creator><![CDATA[Margaret]]></dc:creator>
+        <description><![CDATA[
+            <p>Lol nice asf</p>
+          <p><a href="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1387">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1387</link>
+        <pubDate>Sun, 08 Jul 2018 03:36:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67696-1387</guid>
+        <source url="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696.rss">Throne of Salem (10/16) | Day 4: PoisonedPrince</source>
+      </item>
+      <item>
+        <title>Throne of Salem (10/16) | Day 4: PoisonedPrince</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>For the record I didn’t control Htm, I just controlled Marl and saw he was Unseen so Htm was obviously Unseen too, and then just wanted to troll the shit out of them cuz i was bored.</p>
+          <p><a href="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1386">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1386</link>
+        <pubDate>Sun, 08 Jul 2018 03:24:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67696-1386</guid>
+        <source url="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696.rss">Throne of Salem (10/16) | Day 4: PoisonedPrince</source>
+      </item>
+      <item>
+        <title>Throne of Salem (10/16) | Day 4: PoisonedPrince</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>ayyy</p>
+          <p><a href="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1385">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1385</link>
+        <pubDate>Sun, 08 Jul 2018 03:23:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67696-1385</guid>
+        <source url="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696.rss">Throne of Salem (10/16) | Day 4: PoisonedPrince</source>
+      </item>
+      <item>
+        <title>Throne of Salem (10/16) | Day 4: PoisonedPrince</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m actually the count.</p>
+<p><img src="/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji only-emoji" alt=":slight_smile:"></p>
+          <p><a href="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1384">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1384</link>
+        <pubDate>Sun, 08 Jul 2018 03:16:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67696-1384</guid>
+        <source url="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696.rss">Throne of Salem (10/16) | Day 4: PoisonedPrince</source>
+      </item>
+      <item>
+        <title>Throne of Salem (10/16) | Day 4: PoisonedPrince</title>
+        <dc:creator><![CDATA[Htm]]></dc:creator>
+        <description><![CDATA[
+            <p>Also I am not even mafia so…</p>
+          <p><a href="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1383">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1383</link>
+        <pubDate>Sun, 08 Jul 2018 03:16:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67696-1383</guid>
+        <source url="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696.rss">Throne of Salem (10/16) | Day 4: PoisonedPrince</source>
+      </item>
+      <item>
+        <title>Throne of Salem (10/16) | Day 4: PoisonedPrince</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>This just proves how unfun citizens are though.</p>
+          <p><a href="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1382">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1382</link>
+        <pubDate>Sun, 08 Jul 2018 03:15:25 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67696-1382</guid>
+        <source url="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696.rss">Throne of Salem (10/16) | Day 4: PoisonedPrince</source>
+      </item>
+      <item>
+        <title>Throne of Salem (10/16) | Day 4: PoisonedPrince</title>
+        <dc:creator><![CDATA[Htm]]></dc:creator>
+        <description><![CDATA[
+            <p><s>Nah mafia do</s></p>
+          <p><a href="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1381">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1381</link>
+        <pubDate>Sun, 08 Jul 2018 03:15:20 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67696-1381</guid>
+        <source url="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696.rss">Throne of Salem (10/16) | Day 4: PoisonedPrince</source>
+      </item>
+      <item>
+        <title>Throne of Salem (10/16) | Day 4: PoisonedPrince</title>
+        <dc:creator><![CDATA[Htm]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Firelitten1" data-post="1375" data-topic="67696">
+<div class="title">
+<div class="quote-controls"></div>
+ Firelitten1:</div>
+<blockquote>
+<p>Wait you didn’t give possessor a chance to win?</p>
+</blockquote>
+</aside>
+<p>it was because he died in my head because I forgot what happened after the 98 hour nite</p>
+          <p><a href="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1380">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1380</link>
+        <pubDate>Sun, 08 Jul 2018 03:14:45 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67696-1380</guid>
+        <source url="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696.rss">Throne of Salem (10/16) | Day 4: PoisonedPrince</source>
+      </item>
+      <item>
+        <title>Throne of Salem (10/16) | Day 4: PoisonedPrince</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <div class="poll" data-poll-status="open" data-poll-public="true" data-poll-type="regular" data-poll-name="poll">
+<div>
+<div class="poll-container">
+<ul>
+<li data-poll-option-id="643f70bc5639e937fbb26d5753f15b86">Sam deserves the win!!! RIOT!</li>
+<li data-poll-option-id="19328003957920a2e6d4026012b1bef4">First Option Best Option!!!</li>
+</ul>
+</div>
+<div class="poll-info">
+<p>
+<span class="info-number">0</span>
+<span class="info-label">voters</span>
+</p>
+</div>
+</div>
+</div>
+          <p><a href="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1379">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1379</link>
+        <pubDate>Sun, 08 Jul 2018 03:14:25 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67696-1379</guid>
+        <source url="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696.rss">Throne of Salem (10/16) | Day 4: PoisonedPrince</source>
+      </item>
+      <item>
+        <title>Throne of Salem (10/16) | Day 4: PoisonedPrince</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Firelitten1" data-post="1377" data-topic="67696">
+<div class="title">
+<div class="quote-controls"></div>
+ Firelitten1:</div>
+<blockquote>
+<p>Cruel.</p>
+</blockquote>
+</aside>
+<p>Nolol</p>
+          <p><a href="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1378">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1378</link>
+        <pubDate>Sun, 08 Jul 2018 03:13:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67696-1378</guid>
+        <source url="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696.rss">Throne of Salem (10/16) | Day 4: PoisonedPrince</source>
+      </item>
+      <item>
+        <title>Throne of Salem (10/16) | Day 4: PoisonedPrince</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>So? Cruel.</p>
+          <p><a href="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1377">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1377</link>
+        <pubDate>Sun, 08 Jul 2018 03:13:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67696-1377</guid>
+        <source url="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696.rss">Throne of Salem (10/16) | Day 4: PoisonedPrince</source>
+      </item>
+      <item>
+        <title>Throne of Salem (10/16) | Day 4: PoisonedPrince</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Firelitten1" data-post="1375" data-topic="67696" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+ Firelitten1:</div>
+<blockquote>
+<p>Wait you didn’t give possessor a chance to win?</p>
+</blockquote>
+</aside>
+<p>Inactive</p>
+          <p><a href="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1376">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696/1376</link>
+        <pubDate>Sun, 08 Jul 2018 03:12:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67696-1376</guid>
+        <source url="https://forum.throneoflies.com/t/throne-of-salem-10-16-day-4-poisonedprince/67696.rss">Throne of Salem (10/16) | Day 4: PoisonedPrince</source>
+      </item>
+  </channel>
+</rss>

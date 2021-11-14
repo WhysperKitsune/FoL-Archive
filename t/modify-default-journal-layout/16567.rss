@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Modify Default Journal Layout</title>
+    <link>https://forum.throneoflies.com/t/modify-default-journal-layout/16567</link>
+    <description>Hey. I love the fact that we have a default layout button, but I think the functionality could be expanded upon.
+
+Personally, I prefer a layout more akin to the following:
+
+&gt; | **Character Name**, the **Class Name** |
+&gt; 1.
+&gt; 2. 
+&gt; 3.
+&gt; 4.
+
+&gt; | Miscellaneous Information |
+&gt; [3] claimed that he was a noble, despite having been immune to attack.
+&gt; The King didn&#39;t give us a lead on day two, so therefore he is evil.
+
+Since this deviates from the default log, I can&#39;t really make use of this great new feature. Which is why I recommend adding the ability to customize the default log through an in-menu option, [as shown in this mock-up image](https://i.imgur.com/oZyO1gU.png). The player would be able to pull up a menu that is, essentially, [a journal with a button below it](https://i.imgur.com/FZoBjgL.png) allowing the player to set a new default format.
+
+I think this would be a great additional layer of functionality to the default journal layout, which would give players a little more control over adding their own personal styles to their logs.
+
+Let me know what you think!
+Thanks.</description>
+    
+    <lastBuildDate>Tue, 28 Nov 2017 08:01:29 +0000</lastBuildDate>
+    <category>Feedback/Suggestions</category>
+    <atom:link href="https://forum.throneoflies.com/t/modify-default-journal-layout/16567.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Modify Default Journal Layout</title>
+        <dc:creator><![CDATA[geoelectric]]></dc:creator>
+        <description><![CDATA[
+            <p>I agree with this. As it is, I think being able to c/p chat log opens that tactic up for abuse, with the kinda-bad UI around that being the mitigating factor. Can you imagine trying to dupe the color tags that get copied?</p>
+          <p><a href="https://forum.throneoflies.com/t/modify-default-journal-layout/16567/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/modify-default-journal-layout/16567/11</link>
+        <pubDate>Tue, 28 Nov 2017 08:01:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-16567-11</guid>
+        <source url="https://forum.throneoflies.com/t/modify-default-journal-layout/16567.rss">Modify Default Journal Layout</source>
+      </item>
+      <item>
+        <title>Modify Default Journal Layout</title>
+        <dc:creator><![CDATA[Vandalay]]></dc:creator>
+        <description><![CDATA[
+            <p>The one fear I have of an automated “name the classname”. While it may be easy to do, it’s also a newbie trap metagame… IE the prince can demand the log include the top row, and study it closely for typo’s spelling errors, capitalizations etc…</p>
+          <p><a href="https://forum.throneoflies.com/t/modify-default-journal-layout/16567/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/modify-default-journal-layout/16567/10</link>
+        <pubDate>Mon, 27 Nov 2017 23:56:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-16567-10</guid>
+        <source url="https://forum.throneoflies.com/t/modify-default-journal-layout/16567.rss">Modify Default Journal Layout</source>
+      </item>
+      <item>
+        <title>Modify Default Journal Layout</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>That pipe idea is pretty good, I’ll keep it in mind.</p>
+<p>That being said, I’d also like to request a default private notes feature as well.</p>
+          <p><a href="https://forum.throneoflies.com/t/modify-default-journal-layout/16567/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/modify-default-journal-layout/16567/9</link>
+        <pubDate>Mon, 27 Nov 2017 22:56:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-16567-9</guid>
+        <source url="https://forum.throneoflies.com/t/modify-default-journal-layout/16567.rss">Modify Default Journal Layout</source>
+      </item>
+      <item>
+        <title>Modify Default Journal Layout</title>
+        <dc:creator><![CDATA[geoelectric]]></dc:creator>
+        <description><![CDATA[
+            <p>I went looking for game files to modify and didn’t find one. Anyone have any hints?</p>
+<p>FWIW, I find log readability goes -way- up on paste with a pipe character before the N1.</p>
+<blockquote>
+<p>Geo the Reaper</p>
+<p>| N1 - reap 1&gt;5; linked<br>
+| N2 - reap 2: immune<br>
+| D3 - chill 3<br>
+| N3 - reap 3</p>
+</blockquote>
+<p>…becomes:</p>
+<blockquote>
+<p>Geo the Reaper | N1 - reap 1&gt;5; linked | N2 - reap 2: immune | D3 - chill 3 | N3 - reap 3</p>
+</blockquote>
+<p>instead of:</p>
+<blockquote>
+<p>Geo the Reaper N1 - reap 1&gt;5; linked N2 - reap 2: immune D3 - chill 3 N3 - reap 3</p>
+</blockquote>
+<p>The difference is more notable in the game font since pipe is a thinner and longer character than most of the letters, and the impact is even higher if you tend towards verbose logs. I find I get exe’d a lot less for “bad logs” and people seem to read them more closely when I do this.</p>
+<p>My new game ritual now is to c/p a "| " down the left side, and clip the last few nights since the current layout doesn’t let you write day logs for scouting, poisons, etc, without going over 1 page. The current scrolling behavior is cancer when trying to c/p.</p>
+<p>If the devs don’t make things configurable, at least tossing in a default line delimiter like this for c/p wouldn’t suck.</p>
+<p>Edit:</p>
+<blockquote>
+<p>This 100%. I thought this is what they meant by default initially. Also i would like to save deathnotes for future use and the ability to read logs at the score board.</p>
+</blockquote>
+<p>100% more on deathnotes, especially if I could draw offline, and scoreboard logs–I quit using deathnotes because they’re too hard to draw quickly, tbh.</p>
+<p>I’d like to be able to review chat from scoreboard too, honestly, since a lot of times I’m at the wtf just happened point when the game ends. If you wanted to really thrill me let me save all that for later review.</p>
+          <p><a href="https://forum.throneoflies.com/t/modify-default-journal-layout/16567/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/modify-default-journal-layout/16567/8</link>
+        <pubDate>Mon, 27 Nov 2017 22:00:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-16567-8</guid>
+        <source url="https://forum.throneoflies.com/t/modify-default-journal-layout/16567.rss">Modify Default Journal Layout</source>
+      </item>
+      <item>
+        <title>Modify Default Journal Layout</title>
+        <dc:creator><![CDATA[bbiaglla]]></dc:creator>
+        <description><![CDATA[
+            <p>This 100%. I thought this is what they meant by default initially. Also i would like to save deathnotes for future use and the ability to read logs at the score board.</p>
+          <p><a href="https://forum.throneoflies.com/t/modify-default-journal-layout/16567/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/modify-default-journal-layout/16567/7</link>
+        <pubDate>Fri, 24 Nov 2017 01:06:17 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-16567-7</guid>
+        <source url="https://forum.throneoflies.com/t/modify-default-journal-layout/16567.rss">Modify Default Journal Layout</source>
+      </item>
+      <item>
+        <title>Modify Default Journal Layout</title>
+        <dc:creator><![CDATA[Wesentlich]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/silcore">@Silcore</a> I really dont like this idea, for a similar reason they removed the ability to copy system messages.<br>
+It just makes it easier catching people in a lie because you would then be expected to show logs immediately.<br>
+If you happen to catch a mistake while copy-pasting you can still correct it.<br>
+Also if you keep multiple classes logged at the start of the game to stay flexible you would have to keep them on different pages and switch around etc…</p>
+<p>I´m all for the customizable layout though.</p>
+          <p><a href="https://forum.throneoflies.com/t/modify-default-journal-layout/16567/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/modify-default-journal-layout/16567/6</link>
+        <pubDate>Thu, 23 Nov 2017 21:55:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-16567-6</guid>
+        <source url="https://forum.throneoflies.com/t/modify-default-journal-layout/16567.rss">Modify Default Journal Layout</source>
+      </item>
+      <item>
+        <title>Modify Default Journal Layout</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Boslof has confirmed that he is working on it. In the mean time try looking at the game files</p>
+          <p><a href="https://forum.throneoflies.com/t/modify-default-journal-layout/16567/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/modify-default-journal-layout/16567/5</link>
+        <pubDate>Tue, 21 Nov 2017 21:20:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-16567-5</guid>
+        <source url="https://forum.throneoflies.com/t/modify-default-journal-layout/16567.rss">Modify Default Journal Layout</source>
+      </item>
+      <item>
+        <title>Modify Default Journal Layout</title>
+        <dc:creator><![CDATA[Silcore]]></dc:creator>
+        <description><![CDATA[
+            <p>Some additional functionality worth considering: being able to display a single journal page to the public.</p>
+<p>Every trial ends up demanding that the accused copy their logs into chat. This ruins the formatting and makes reading through their log arduous. Instead, there should be a second button at the base of the journal (just beside the “default layout” option) which allows the player to “present a page.” This would make the process a little easier and will further discourage the plague of blank journals.</p>
+          <p><a href="https://forum.throneoflies.com/t/modify-default-journal-layout/16567/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/modify-default-journal-layout/16567/4</link>
+        <pubDate>Tue, 21 Nov 2017 14:55:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-16567-4</guid>
+        <source url="https://forum.throneoflies.com/t/modify-default-journal-layout/16567.rss">Modify Default Journal Layout</source>
+      </item>
+      <item>
+        <title>Modify Default Journal Layout</title>
+        <dc:creator><![CDATA[PandaKing]]></dc:creator>
+        <description><![CDATA[
+            <p>Agreed.  I still see people putting in their name and class name at top having to make players “double enter” from the top, this should be a small hotfix without requiring an update.</p>
+          <p><a href="https://forum.throneoflies.com/t/modify-default-journal-layout/16567/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/modify-default-journal-layout/16567/3</link>
+        <pubDate>Tue, 21 Nov 2017 05:27:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-16567-3</guid>
+        <source url="https://forum.throneoflies.com/t/modify-default-journal-layout/16567.rss">Modify Default Journal Layout</source>
+      </item>
+      <item>
+        <title>Modify Default Journal Layout</title>
+        <dc:creator><![CDATA[sunchamber]]></dc:creator>
+        <description><![CDATA[
+            <p>Agree. This is a very good QOL change, and should not be a difficult feature to implement.</p>
+          <p><a href="https://forum.throneoflies.com/t/modify-default-journal-layout/16567/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/modify-default-journal-layout/16567/2</link>
+        <pubDate>Tue, 21 Nov 2017 05:22:17 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-16567-2</guid>
+        <source url="https://forum.throneoflies.com/t/modify-default-journal-layout/16567.rss">Modify Default Journal Layout</source>
+      </item>
+      <item>
+        <title>Modify Default Journal Layout</title>
+        <dc:creator><![CDATA[Silcore]]></dc:creator>
+        <description><![CDATA[
+            <p>Hey. I love the fact that we have a default layout button, but I think the functionality could be expanded upon.</p>
+<p>Personally, I prefer a layout more akin to the following:</p>
+<blockquote>
+<p>| <strong>Character Name</strong>, the <strong>Class Name</strong> |<br>
+1.<br>
+2.<br>
+3.<br>
+4.</p>
+</blockquote>
+<blockquote>
+<p>| Miscellaneous Information |<br>
+[3] claimed that he was a noble, despite having been immune to attack.<br>
+The King didn’t give us a lead on day two, so therefore he is evil.</p>
+</blockquote>
+<p>Since this deviates from the default log, I can’t really make use of this great new feature. Which is why I recommend adding the ability to customize the default log through an in-menu option, <a href="https://i.imgur.com/oZyO1gU.png" rel="noopener nofollow ugc">as shown in this mock-up image</a>. The player would be able to pull up a menu that is, essentially, <a href="https://i.imgur.com/FZoBjgL.png" rel="noopener nofollow ugc">a journal with a button below it</a> allowing the player to set a new default format.</p>
+<p>I think this would be a great additional layer of functionality to the default journal layout, which would give players a little more control over adding their own personal styles to their logs.</p>
+<p>Let me know what you think!<br>
+Thanks.</p>
+          <p><a href="https://forum.throneoflies.com/t/modify-default-journal-layout/16567/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/modify-default-journal-layout/16567/1</link>
+        <pubDate>Tue, 21 Nov 2017 02:28:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-16567-1</guid>
+        <source url="https://forum.throneoflies.com/t/modify-default-journal-layout/16567.rss">Modify Default Journal Layout</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Pretender Rework version 1</title>
+    <link>https://forum.throneoflies.com/t/pretender-rework-version-1/74034</link>
+    <description>[details=&quot;Why Pretender needs a rework&quot;]
+
+* There is nothing to discourage Pretenders from open claiming.  Pretender is meant to be more NC than NB.  Right now, Pretender can just act as a better Princess.  
+
+* Pretender&#39;s abilities are built around eliminating competition when they should focus on manipulating trials.  
+
+[/details]
+
+
+[details=&quot;Notes&quot;]
+* I have based some of these ideas upon  @Reaper&#39;s [thread](https://forum.imperium42.com/t/pretender-rework-ideas-and-how-to-make-elections-more-interesting/73696), so credit for some of them goes to him.
+
+* Duchess&#39;s Bat Eyeless should be changed to this version.  
+
+* Noble&#39;s gossip should be changed to this version.
+
+[/details]
+   
+
+# [color=grey]Pretender[/color]
+
+&gt; **Passive 1: Outcast -** Immune to death at night once.  The king and any royals(and their faction, if any) may not win as long as you are still alive.  
+
+[details=&quot;Explanation&quot;]
+
+* Say the Prince, a CW, and a Pretender are still alive.  The BD wouldn&#39;t be able to win because Prince is a royal.  Also works if you replace Prince with a BD king.  
+
+[/details]
+
+[details=&quot;Reasoning&quot;]
+
+* Discourages Pretenders from open claiming  
+
+[/details]
+
+&gt; **Passive 2: Heir-** Whenever a king dies, the amount election votes for you count for will increase by 1.  You will start at one vote.  
+
+[details=&quot;Explanation&quot;]
+
+* Say the first king dies, and 2 people vote for you during an election.  Now you have a total of 4 votes.  Now say 2 kings die, and 2 people vote for you.  This results in you having 6 votes.  
+
+[/details]
+
+[details=&quot;Reasoning&quot;]
+
+* Discourages Pretenders from claiming to the King even more since they need that extra vote
+
+* Encourages Pretenders to attack the king
+
+* This, in turn, encourages BD to protect their king.  
+
+[/details]
+
+&gt; **Night ability 1: Family Matters-** Choose an ability to use out of the following:
+&gt; * **Gossip(Uses: Unlimited)-** Receive the feedback of all visiting abilities used on your target.  Does not see feedback for conversions(but can see feedback for attacks and evil supporting abilities.
+&gt; * **Bat Eyelashes(Uses: Unlimited?)-** Learn the exact class type and faction of your target.
+&gt; * **Court Spy(Uses: 2)-**
+&gt; * **Blood Test(Uses: Unlimited)-** Determine which immunities your target has and if they have a royal blood.  Gain one use of Kinslayer upon finding a royal.  
+
+[details=&quot;Explanation&quot;]
+
+* This will basically work the same as Alchemist&#39;s Concoct Potion.  Using this ability will give you 4 more abilities to choose from.
+
+* Blood Test(immunity part): You will be told what immunities your target has.  Players who are healed, time warped, shielded, defended, or are targeted by another ability that prevents them from attacks(Bear counts) will appear to be night immune.  Players who are Inoculated, healed, or Time Warped will appear to be immune to Bleeding and Poison.  Players who are targeted by Smite or Clear mind will appear to be conversion immune.  reaper will appear to be immune to bleeding, poison, and death if they have at least one soul.  
+
+* Blood Test(Royal Blood Part)- Basically works the same as the current Blood Test without the Class Type part.  If you successfully find a Royal Blood then you will gain one use of Kinslayer.  
+
+[/details]
+
+[details=&quot;Reasoning&quot;]
+
+* Gossip: Allows you to fakeclaim Noble.  Can also help determine what Royals are in the game
+
+* Bat Eyelashes:  Allows you to fakeclaim Princess.  Can also help discover possible competition for the throne.
+
+* Court Spy: Helps fakeclaim Noble.
+
+* Blood Test:  Helps find and eliminate royals.  The immunities part is for determining when you should use Kinslayer.  
+
+[/details]
+
+&gt; **Night ability 2: Kinslayer(Uses: 1) -** Kill your target.  Upon killing a Royal, the amount election votes for you count for increase by one.  
+
+[details=&quot;Explanation&quot;]
+
+* Basically the same as the current Kinslayer, but can target non-royals
+
+* The second part works the same as the Heir passive, except with royals instead of the king.  And it only happens when you kill a royal with Kinslayer youself.  
+[/details]
+
+[details=&quot;Reasoning&quot;]
+
+* Royals can be a major threat to the throne, but they aren&#39;t the only competition.  Mystics, Observers, and any confirmable class can be a threat which the current Kinslayer can&#39;t eliminate.  
+
+* The vote part is to give Pretenders an incentive to kill Royals
+
+[/details]
+
+&gt; **Day Ability 1: Fraud(Uses: 1)-** During an election, you will steal all of the election votes a player has and take them for yourself.  They will not be notified, and this only works at the end of the election.  
+
+
+[details=&quot;Explanation&quot;]
+
+* At the end of the election, this will remove all of the votes for the target player and give them to the Pretender instead.  
+
+* Say a Noble and Pretender step up for king with one king dead.  2 players vote for the Noble and nobody votes for the Pretender.  The pretender uses Fraud on the Noble.  When the final votes are counted, the Noble will have 0 votes and the Pretender will have 4.  So the Pretender will become king.  
+[/details]
+
+[details=&quot;Reasoning&quot;]
+
+* This is mainly for countering situations when everyone is following a confirmed player.
+
+* This also has an effect even when Pretender isn&#39;t in the game.  This makes people more careful about electing players in general.   
+
+[/details]
+
+&gt; **Day Ability 2: Ballot Mixing(Uses: 1)-** During an election, announce the presence of a Pretender to the court.  If you gain any election vote other than yourself then you will become king.  
+
+[details=&quot;Explanation&quot;]
+
+* Upon using this, the court will receive the following message(Could be reworded): &quot;A Pretender has decided to mix the Ballot!  Upon receiving any vote besides their own they will become king!  
+
+* If the Pretender receives any vote at all other than their own, then they will become king.  This overrides the votes given to other players, even if the Pretender has less votes.
+
+* However, this will not announce who the Pretender is, even if the Pretender becomes King.  
+
+[/details]
+
+[details=Reasoning]
+
+* This is another nerf to confirmation, giving the Pretender a chance even if everyone else who has stepped up is confirmed.  
+
+[/details]
+
+* **Goal:** Ascend to the throne, and survive
+
+# [color=grey]Exiled King[/color]
+
+* **Crowned From:** Pretender
+&gt; **Passive 1: Tenacity-** Same as current
+
+* No explanation needed
+
+&gt; **Passive 2: Dethrone-** There may not be any more elections after your death
+
+[details=&quot;Explanation&quot;]
+
+* If the king dies for any reason then this will prevent the court from having any more kings.
+
+[/details]
+
+[details=&quot;Reasoning&quot;]
+
+* Further discourages Pretenders from open claiming.
+
+* Discourages Butlers from poisoning a suspected Exiled King
+
+* Discourages the court from lynching a suspected Exiled King
+[/details]
+
+
+&gt; **Night Ability 1: Hide(Uses: 2)-** Prevent anyone from targeting you
+
+[details=&quot;Explanation&quot;]
+
+* Works like Stand Guard, except it can self-target and has no cooldown.
+
+[/details]
+
+[details=&quot;Reasoning&quot;]
+
+* Gives the king some survivability
+
+[/details]
+
+&gt; **Day ability 1: Royal Finger-** Same
+**Day Ability 2: Decide Fate-** Same
+
+**Goal:** Survive</description>
+    
+    <lastBuildDate>Sun, 25 Nov 2018 23:01:52 +0000</lastBuildDate>
+    <category>Feedback/Suggestions</category>
+    <atom:link href="https://forum.throneoflies.com/t/pretender-rework-version-1/74034.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Pretender Rework version 1</title>
+        <dc:creator><![CDATA[RHCube]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Marcus_Doodalee" data-post="27" data-topic="74034">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/marcus_doodalee/40/15452_2.png" class="avatar"> Marcus_Doodalee:</div>
+<blockquote>
+<p>Their win condition stops them from claiming to someone who’s existence is in direct hostility to their win condition. What king wouldn’t up an open pretender claim</p>
+</blockquote>
+</aside>
+<p>I’ve seen people do it.</p>
+<p>Also, I just made a new version so move discussion there</p>
+          <p><a href="https://forum.throneoflies.com/t/pretender-rework-version-1/74034/30">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/pretender-rework-version-1/74034/30</link>
+        <pubDate>Sun, 25 Nov 2018 23:01:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74034-30</guid>
+        <source url="https://forum.throneoflies.com/t/pretender-rework-version-1/74034.rss">Pretender Rework version 1</source>
+      </item>
+      <item>
+        <title>Pretender Rework version 1</title>
+        <dc:creator><![CDATA[Twil1ight]]></dc:creator>
+        <description><![CDATA[
+            <p>Tell me, what it would change if your suggestions would be added to the game?</p>
+          <p><a href="https://forum.throneoflies.com/t/pretender-rework-version-1/74034/29">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/pretender-rework-version-1/74034/29</link>
+        <pubDate>Sun, 25 Nov 2018 23:01:33 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74034-29</guid>
+        <source url="https://forum.throneoflies.com/t/pretender-rework-version-1/74034.rss">Pretender Rework version 1</source>
+      </item>
+      <item>
+        <title>Pretender Rework version 1</title>
+        <dc:creator><![CDATA[Twil1ight]]></dc:creator>
+        <description><![CDATA[
+            <p>Here’s the thing, the question is how badly you want rework Pretender and risk BD’s winrate goes down below 50%.</p>
+          <p><a href="https://forum.throneoflies.com/t/pretender-rework-version-1/74034/28">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/pretender-rework-version-1/74034/28</link>
+        <pubDate>Sun, 25 Nov 2018 23:00:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74034-28</guid>
+        <source url="https://forum.throneoflies.com/t/pretender-rework-version-1/74034.rss">Pretender Rework version 1</source>
+      </item>
+      <item>
+        <title>Pretender Rework version 1</title>
+        <dc:creator><![CDATA[Marcus_Doodalee]]></dc:creator>
+        <description><![CDATA[
+            <p>Their win condition stops them from claiming to someone who’s existence is in direct hostility to their win condition. What king wouldn’t up an open pretender claim</p>
+<p>(or if they don’t remind me to claim pretender a HELL of a lot more often as scum)</p>
+          <p><a href="https://forum.throneoflies.com/t/pretender-rework-version-1/74034/27">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/pretender-rework-version-1/74034/27</link>
+        <pubDate>Sun, 25 Nov 2018 23:00:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74034-27</guid>
+        <source url="https://forum.throneoflies.com/t/pretender-rework-version-1/74034.rss">Pretender Rework version 1</source>
+      </item>
+      <item>
+        <title>Pretender Rework version 1</title>
+        <dc:creator><![CDATA[RHCube]]></dc:creator>
+        <description><![CDATA[
+            <p>Becoming king isn’t as hard as it should be because there is nothing to discourage Pretenders from open claiming.  The day abilities exist to counter that.</p>
+<aside class="quote no-group" data-username="Marcus_Doodalee" data-post="22" data-topic="74034">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/marcus_doodalee/40/15452_2.png" class="avatar"> Marcus_Doodalee:</div>
+<blockquote>
+<p>It allows the scum to focus on upping someone for king who is both mislynch bait and a late-game vote for them</p>
+</blockquote>
+</aside>
+<p>It can be good for scum but not BD.  My main issue is that there is nothing to discourage them from claiming to the king, of all people.</p>
+          <p><a href="https://forum.throneoflies.com/t/pretender-rework-version-1/74034/26">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/pretender-rework-version-1/74034/26</link>
+        <pubDate>Sun, 25 Nov 2018 22:58:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74034-26</guid>
+        <source url="https://forum.throneoflies.com/t/pretender-rework-version-1/74034.rss">Pretender Rework version 1</source>
+      </item>
+      <item>
+        <title>Pretender Rework version 1</title>
+        <dc:creator><![CDATA[Marcus_Doodalee]]></dc:creator>
+        <description><![CDATA[
+            <p>You’re right in a sense, the pretender winrate should be higher.</p>
+          <p><a href="https://forum.throneoflies.com/t/pretender-rework-version-1/74034/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/pretender-rework-version-1/74034/25</link>
+        <pubDate>Sun, 25 Nov 2018 22:58:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74034-25</guid>
+        <source url="https://forum.throneoflies.com/t/pretender-rework-version-1/74034.rss">Pretender Rework version 1</source>
+      </item>
+      <item>
+        <title>Pretender Rework version 1</title>
+        <dc:creator><![CDATA[Marcus_Doodalee]]></dc:creator>
+        <description><![CDATA[
+            <p>Put simply, if BD do not outnumber scum by a 2:1 ratio or better, including the pretender as scum for the sake of king elections, being elected is easy</p>
+          <p><a href="https://forum.throneoflies.com/t/pretender-rework-version-1/74034/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/pretender-rework-version-1/74034/24</link>
+        <pubDate>Sun, 25 Nov 2018 22:56:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74034-24</guid>
+        <source url="https://forum.throneoflies.com/t/pretender-rework-version-1/74034.rss">Pretender Rework version 1</source>
+      </item>
+      <item>
+        <title>Pretender Rework version 1</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Pretender can win D2 if king dies N1 and no BD votes for them</p>
+<p>that’s the funny thing</p>
+          <p><a href="https://forum.throneoflies.com/t/pretender-rework-version-1/74034/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/pretender-rework-version-1/74034/23</link>
+        <pubDate>Sun, 25 Nov 2018 22:55:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74034-23</guid>
+        <source url="https://forum.throneoflies.com/t/pretender-rework-version-1/74034.rss">Pretender Rework version 1</source>
+      </item>
+      <item>
+        <title>Pretender Rework version 1</title>
+        <dc:creator><![CDATA[Marcus_Doodalee]]></dc:creator>
+        <description><![CDATA[
+            <p>Here’s the thing right, we say in theory open claiming pretender should be punishable, however there are certain instances where open claiming pretender to be elected is very strong, in fact it should be encouraged to open claim.</p>
+<p>For one: It allows the scum to focus on upping someone for king who is both mislynch bait and a late-game vote for them<br>
+In practicality BD risk losing if they don’t scumhunt and choose to focus on the king instead, they have to trust them to side with them effectively and “play nice.” because they are probably very close to losing voting majority.</p>
+          <p><a href="https://forum.throneoflies.com/t/pretender-rework-version-1/74034/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/pretender-rework-version-1/74034/22</link>
+        <pubDate>Sun, 25 Nov 2018 22:54:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74034-22</guid>
+        <source url="https://forum.throneoflies.com/t/pretender-rework-version-1/74034.rss">Pretender Rework version 1</source>
+      </item>
+      <item>
+        <title>Pretender Rework version 1</title>
+        <dc:creator><![CDATA[Planterror]]></dc:creator>
+        <description><![CDATA[
+            <p>Cool, but you don’t have to make her so fucking broken OP. This is too much.</p>
+          <p><a href="https://forum.throneoflies.com/t/pretender-rework-version-1/74034/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/pretender-rework-version-1/74034/21</link>
+        <pubDate>Sun, 25 Nov 2018 22:52:54 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74034-21</guid>
+        <source url="https://forum.throneoflies.com/t/pretender-rework-version-1/74034.rss">Pretender Rework version 1</source>
+      </item>
+      <item>
+        <title>Pretender Rework version 1</title>
+        <dc:creator><![CDATA[Twil1ight]]></dc:creator>
+        <description><![CDATA[
+            <p>Didn’t you just claim, becoming King as Pretender is easy? If that’s the case for what purpose they would need that?</p>
+          <p><a href="https://forum.throneoflies.com/t/pretender-rework-version-1/74034/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/pretender-rework-version-1/74034/20</link>
+        <pubDate>Sun, 25 Nov 2018 22:52:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74034-20</guid>
+        <source url="https://forum.throneoflies.com/t/pretender-rework-version-1/74034.rss">Pretender Rework version 1</source>
+      </item>
+      <item>
+        <title>Pretender Rework version 1</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>That’s not my point</p>
+<p>Is discussing changes and complaining about them a bad thing for the game<br>
+Itself</p>
+          <p><a href="https://forum.throneoflies.com/t/pretender-rework-version-1/74034/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/pretender-rework-version-1/74034/19</link>
+        <pubDate>Sun, 25 Nov 2018 22:52:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74034-19</guid>
+        <source url="https://forum.throneoflies.com/t/pretender-rework-version-1/74034.rss">Pretender Rework version 1</source>
+      </item>
+      <item>
+        <title>Pretender Rework version 1</title>
+        <dc:creator><![CDATA[Planterror]]></dc:creator>
+        <description><![CDATA[
+            <p>It made her quit balancing.</p>
+          <p><a href="https://forum.throneoflies.com/t/pretender-rework-version-1/74034/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/pretender-rework-version-1/74034/18</link>
+        <pubDate>Sun, 25 Nov 2018 22:52:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74034-18</guid>
+        <source url="https://forum.throneoflies.com/t/pretender-rework-version-1/74034.rss">Pretender Rework version 1</source>
+      </item>
+      <item>
+        <title>Pretender Rework version 1</title>
+        <dc:creator><![CDATA[RHCube]]></dc:creator>
+        <description><![CDATA[
+            <p>Hey I’m not the only one who thinks that Pretender needs changes.</p>
+          <p><a href="https://forum.throneoflies.com/t/pretender-rework-version-1/74034/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/pretender-rework-version-1/74034/17</link>
+        <pubDate>Sun, 25 Nov 2018 22:52:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74034-17</guid>
+        <source url="https://forum.throneoflies.com/t/pretender-rework-version-1/74034.rss">Pretender Rework version 1</source>
+      </item>
+      <item>
+        <title>Pretender Rework version 1</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>is that a bad thing tho</p>
+          <p><a href="https://forum.throneoflies.com/t/pretender-rework-version-1/74034/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/pretender-rework-version-1/74034/16</link>
+        <pubDate>Sun, 25 Nov 2018 22:51:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74034-16</guid>
+        <source url="https://forum.throneoflies.com/t/pretender-rework-version-1/74034.rss">Pretender Rework version 1</source>
+      </item>
+      <item>
+        <title>Pretender Rework version 1</title>
+        <dc:creator><![CDATA[Planterror]]></dc:creator>
+        <description><![CDATA[
+            <p>Honestly, ellie/bos is right. You do complain about the tiniest stuff.</p>
+          <p><a href="https://forum.throneoflies.com/t/pretender-rework-version-1/74034/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/pretender-rework-version-1/74034/15</link>
+        <pubDate>Sun, 25 Nov 2018 22:51:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74034-15</guid>
+        <source url="https://forum.throneoflies.com/t/pretender-rework-version-1/74034.rss">Pretender Rework version 1</source>
+      </item>
+      <item>
+        <title>Pretender Rework version 1</title>
+        <dc:creator><![CDATA[RHCube]]></dc:creator>
+        <description><![CDATA[
+            <p>I’ll remove that part, but that’s why I added dethrone.</p>
+<aside class="quote no-group" data-username="Planterror" data-post="11" data-topic="74034">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/planterror/40/9678_2.png" class="avatar"> Planterror:</div>
+<blockquote>
+<p>if there’s confirmed BD, they’ll be voted, not pretender.</p>
+</blockquote>
+</aside>
+<p>That’s what I added the day abilities for.</p>
+<aside class="quote no-group" data-username="Firelitten" data-post="12" data-topic="74034" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+ Firelitten:</div>
+<blockquote>
+<p>It punishes people way too harsh as well it actually encourages open claiming</p>
+</blockquote>
+</aside>
+<p>Maybe it could be changed to this then:</p>
+<p>Dethrone: If you are found guilty of treason then there may not be any more kings.</p>
+<p>And Exiled king should have something else to help with survivability.  Maybe a 1 use Deadly Guards?</p>
+<aside class="quote no-group" data-username="Twil1ight" data-post="13" data-topic="74034">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/twil1ight/40/15561_2.png" class="avatar"> Twil1ight:</div>
+<blockquote>
+<p>Uhuh which is why they have around 22% winrate.</p>
+</blockquote>
+</aside>
+<p>Bad wording, I was mainly talking about how Pretenders can just claim Pretender with no downside.</p>
+<aside class="quote no-group" data-username="Twil1ight" data-post="13" data-topic="74034">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/twil1ight/40/15561_2.png" class="avatar"> Twil1ight:</div>
+<blockquote>
+<p>Look at Pretender’s win condition and then at your statement. Do you see a problem?</p>
+</blockquote>
+</aside>
+<p>Pretender’s win con is ascend to the throne.  Not eliminating the king.  It can help, but Pretender’s win condition is probably harmed by having nothing to manipulate the elections themselves.</p>
+          <p><a href="https://forum.throneoflies.com/t/pretender-rework-version-1/74034/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/pretender-rework-version-1/74034/14</link>
+        <pubDate>Sun, 25 Nov 2018 22:51:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74034-14</guid>
+        <source url="https://forum.throneoflies.com/t/pretender-rework-version-1/74034.rss">Pretender Rework version 1</source>
+      </item>
+      <item>
+        <title>Pretender Rework version 1</title>
+        <dc:creator><![CDATA[Twil1ight]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="RHCube" data-post="1" data-topic="74034">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/ritualist-icon-256.jpg" class="avatar"> RHCube:</div>
+<blockquote>
+<p>Pretender is easy.</p>
+</blockquote>
+</aside>
+<p>Uhuh which is why they have around 22% winrate.</p>
+<aside class="quote no-group" data-username="RHCube" data-post="1" data-topic="74034">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/ritualist-icon-256.jpg" class="avatar"> RHCube:</div>
+<blockquote>
+<p>Pretender’s abilities are built around eliminating competition when they should focus on manipulating trials.</p>
+</blockquote>
+</aside>
+<p>Look at Pretender’s win condition and then at your statement. Do you see a problem?</p>
+          <p><a href="https://forum.throneoflies.com/t/pretender-rework-version-1/74034/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/pretender-rework-version-1/74034/13</link>
+        <pubDate>Sun, 25 Nov 2018 22:48:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74034-13</guid>
+        <source url="https://forum.throneoflies.com/t/pretender-rework-version-1/74034.rss">Pretender Rework version 1</source>
+      </item>
+      <item>
+        <title>Pretender Rework version 1</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>It punishes people way too harsh as well it actually encourages open claiming</p>
+          <p><a href="https://forum.throneoflies.com/t/pretender-rework-version-1/74034/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/pretender-rework-version-1/74034/12</link>
+        <pubDate>Sun, 25 Nov 2018 22:46:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74034-12</guid>
+        <source url="https://forum.throneoflies.com/t/pretender-rework-version-1/74034.rss">Pretender Rework version 1</source>
+      </item>
+      <item>
+        <title>Pretender Rework version 1</title>
+        <dc:creator><![CDATA[Planterror]]></dc:creator>
+        <description><![CDATA[
+            <p>Nope. Butler will poison, killers will attack, and here’s another thing. if there’s confirmed BD, they’ll be voted, not pretender.</p>
+          <p><a href="https://forum.throneoflies.com/t/pretender-rework-version-1/74034/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/pretender-rework-version-1/74034/11</link>
+        <pubDate>Sun, 25 Nov 2018 22:46:25 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74034-11</guid>
+        <source url="https://forum.throneoflies.com/t/pretender-rework-version-1/74034.rss">Pretender Rework version 1</source>
+      </item>
+      <item>
+        <title>Pretender Rework version 1</title>
+        <dc:creator><![CDATA[RHCube]]></dc:creator>
+        <description><![CDATA[
+            <p>Wait what’s wrong with Dethrone?</p>
+          <p><a href="https://forum.throneoflies.com/t/pretender-rework-version-1/74034/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/pretender-rework-version-1/74034/10</link>
+        <pubDate>Sun, 25 Nov 2018 22:46:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74034-10</guid>
+        <source url="https://forum.throneoflies.com/t/pretender-rework-version-1/74034.rss">Pretender Rework version 1</source>
+      </item>
+      <item>
+        <title>Pretender Rework version 1</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Maybe</p>
+<p>Remove everyone royal blood if you die</p>
+          <p><a href="https://forum.throneoflies.com/t/pretender-rework-version-1/74034/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/pretender-rework-version-1/74034/9</link>
+        <pubDate>Sun, 25 Nov 2018 22:45:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74034-9</guid>
+        <source url="https://forum.throneoflies.com/t/pretender-rework-version-1/74034.rss">Pretender Rework version 1</source>
+      </item>
+      <item>
+        <title>Pretender Rework version 1</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="RHCube" data-post="7" data-topic="74034">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/ritualist-icon-256.jpg" class="avatar"> RHCube:</div>
+<blockquote>
+<p>They how else should they be encouraged to kill royals?</p>
+</blockquote>
+</aside>
+<p>It’s competition for them, as well I would claim exiled king RIGHT away as it’s a heavy punishment to lynch you.</p>
+<p>It’s really harsh tbh</p>
+          <p><a href="https://forum.throneoflies.com/t/pretender-rework-version-1/74034/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/pretender-rework-version-1/74034/8</link>
+        <pubDate>Sun, 25 Nov 2018 22:45:28 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74034-8</guid>
+        <source url="https://forum.throneoflies.com/t/pretender-rework-version-1/74034.rss">Pretender Rework version 1</source>
+      </item>
+      <item>
+        <title>Pretender Rework version 1</title>
+        <dc:creator><![CDATA[RHCube]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m mainly talking about becoming king.  Surviving is hard, but I’ve seen a lot of pretenders get elected just because they claim Pretender.  That shouldn’t happen.</p>
+<aside class="quote no-group" data-username="Firelitten" data-post="5" data-topic="74034" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+ Firelitten:</div>
+<blockquote>
+<p>Killing royals shouldn’t increase the amount of votes they get</p>
+</blockquote>
+</aside>
+<p>They how else should they be encouraged to kill royals?</p>
+          <p><a href="https://forum.throneoflies.com/t/pretender-rework-version-1/74034/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/pretender-rework-version-1/74034/7</link>
+        <pubDate>Sun, 25 Nov 2018 22:44:45 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74034-7</guid>
+        <source url="https://forum.throneoflies.com/t/pretender-rework-version-1/74034.rss">Pretender Rework version 1</source>
+      </item>
+      <item>
+        <title>Pretender Rework version 1</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>king could</p>
+<p>but royals no</p>
+          <p><a href="https://forum.throneoflies.com/t/pretender-rework-version-1/74034/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/pretender-rework-version-1/74034/6</link>
+        <pubDate>Sun, 25 Nov 2018 22:44:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74034-6</guid>
+        <source url="https://forum.throneoflies.com/t/pretender-rework-version-1/74034.rss">Pretender Rework version 1</source>
+      </item>
+  </channel>
+</rss>

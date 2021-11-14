@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>SFoL18 Post-Match Discussion</title>
+    <link>https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141</link>
+    <description>There were a lot of changes made in SFoL18, and I personally feel that many of them would be really good if implemented into normal FoL, especially since, although the Unseen won, it was a much closer game than pretty much all of the recent FoL games, and the changes that have already passed are unlikely to be enough to change that on their own. So, I&#39;d like to open up the changes I made for SFoL18 to see how everybody feels about bringing the new roles and changes I made over.
+
+# Game Mechanics
+
+SFoL18 had several mechanical differences compared to FoL proper.
+
+- Rather than run 96-hour days and 48-hour nights, it ran with 72-hour days and 24-hour nights. This should help evils a little bit by giving the town &quot;only&quot; three days to discuss before lynching, rather than four.
+
+- Trials were completely nonexistent. Once majority was reached on a player, they immediately flipped. This helps prevent people from feeling safe to do literally nothing until they are on trial, and then claim and get voted down to instead vote up somebody else. One of the downsides to this was that the King&#39;s current iteration of Decide Fate is not possible, so it was changed to achieve a similar effect. The way it ran, the King could instantly end the day by lynching any player with over 33% of the majority. However, this is incredibly strong in the endgame, which may not be desirable if we don&#39;t want the largest factor of the game&#39;s outcome to be which faction is King at the end, so I don&#39;t think I&#39;d keep this version of DF. If trials are removed, it&#39;s probably best that Decide Fate goes too.
+
+- Feedback was much reduced, without ever withholding critical information from the player. If you were redirected, you do not know who you visited instead. If you occupied somebody that was occupy immune, you were not told they were immune. Changes like these prevent the Blue Dragon from racking up stores of free information for no reason at all and will be critical to the health of FoL going forward.
+
+- The Cult were completely disabled in SFoL18, and will not appear in the class cards below. This was purely due to limited time on my part, as making a ton of Cult Alts was simply not worth my time. Feel free to discuss Cult mechanics with these changes.
+
+- Although not implemented in SFoL18, I have merged poison and bleeding effects.
+
+# Rolling Classes
+
+The classlist is rolled from the following template:
+
+&gt;**King** (66% Good, 33% Evil)
+[color=steblue]**Prince**[/color]
+[color=steblue]**Sheriff/Paladin**[/color]
+[color=steblue]**Physician**[/color]
+[color=purple]**Mastermind**[/color]**/**[color=darkred]**Cult Leader**[/color]
+[color=purple]**Assassin**[/color]**/**[color=darkred]**Acolyte**[/color]
+[color=grey]**Neutral Killer**[/color]
+[color=grey]**Neutral Offensive/Social**[/color] (Neutral Evil)
+[color=grey]**Neutral Support**[/color]
+[color=steblue]**Random Blue Dragon**[/color]
+[color=steblue]**Random Blue Dragon**[/color]
+[color=steblue]**Random Blue Dragon**[/color]
+[color=steblue]**Random Blue Dragon**[/color]
+[color=steblue]**Random Blue Dragon**[/color]
+**Random** [color=steblue]**Blue Dragon**[/color]**/**[color=grey]**Neutral Non-Killing**[/color]
+**Random** [color=steblue]**Blue Dragon**[/color]**/**[color=grey]**Neutral Non-Killing**[/color]
+
+This means that games will always have at least one Physician to heal and at least one &quot;main&quot; investigative class, and allows 2-3 Neutral Non-Killing roles in most games. If a max of four seems like a lot, hosts can just limit it to 3 manually.
+
+I personally find it best to roll the classes from top to bottom first, then randomly assign players to each pre-rolled class. When I rolled each slot, I made a list of all the possible roles it could be, and then picked one. For example, the first Random Blue Dragon slot had a list with two of each non-unique Blue Dragon role, except for Sheriff and Physician. Because there was already one of these in the game, they only appeared one time in the list. If that slot were to roll Court Wizard, the next Random Blue Dragon slot would only have one Court Wizard in its list of possible classes. This helps to slightly cut down on repeat classes and increase class variety, without making having two of the same class unlikely.
+
+# The Classes
+
+SFoL saw most classes changed and quite a few entirely reworked from their current FoL counterparts, as well as a handful of removals, replacements, and additions. The general purpose behind these changes were to both bring FoL more in line with ToL, but also to give the evils more power than they currently have due to their lackluster performance thus far. In addition, all mechanics that punish one or more players for lynching have been removed, including the abilities possessed by Cowardly King and Hunter, as well as the complete removal of Fool and the Mad King.
+
+After the completion of SFoL18, I have made a few edits to the class cards below to fix some issues and make some improvements. Please read through the below classes carefully - I was really busy when I was making all of these changes, and did not have time to keep a proper changelog.
+
+---
+[details=&quot;The Blue Dragon&quot;]
+# [color=steblue]The Blue Dragon[/color]
+---
+&gt;## [color=steblue]The Butler[/color]
+&gt;**[color=steblue]Blue Dragon Offensive[/color]**
+**Dutiful (Passive)** - Immune to being occupied at night.
+**Nightshade Wine (Day)** - Secretly poison The King, causing him to die tonight if not healed. - 1 use
+**Serve Wine (Night)** - Occupy a player by getting them drunk. - Infinite Uses
+**Concentrated Wine (Night)** - Throw a party, occupying all players who visit you tonight. Bypasses occupy immunity. - 2 uses
+_Defeat the Unseen or Cult, and any neutrals that seek to do you harm._
+
+ &gt;**Converts into [color=purple]The Servant[/color].**
+---
+&gt;## [color=steblue]The Court Wizard[/color]
+&gt;**[color=steblue]Blue Dragon Support[/color]**
+&gt;**Mana Limit (Passive)** - Due to the taxing nature of your spells, you may not target any single player with Siphon twice or Empower twice in a row.
+&gt;**Siphon (Day)** - Gain protection the next two nights based on the target’s class type. You may only target any single player once. - 2 uses
+&gt;&gt;**Offensive/Special** – You will be occupation immune.
+&gt;&gt;**Killer/Support** – You will be death immune.
+&gt;&gt;**Social/Investigative** – You will be conversion immune.
+&gt;
+&gt;**Empower (Night)** - Give a target a boost tonight based on the target’s class type. - Infinite uses
+&gt;&gt;**Killer** – Target will be death immune.
+&gt;&gt;**Offensive** – Target’s abilities bypass occupation immunity.
+&gt;&gt;**Support** – Target will be occupation immune.
+&gt;&gt;**Social** – Target will be conversion immune.
+&gt;&gt;**Investigative** – Target’s abilities will return correct results.
+&gt;&gt;**Special** - Target will appear as Blue Dragon to investigations.
+&gt;
+&gt;**Tornado (Night)** - Swap two players&#39; positions, causing all players targeting one of them to target the other. Bypasses occupation immunity. - 2 uses
+&gt;
+&gt;_Defeat the Unseen or Cult, and any Neutrals that seek to do you harm._
+
+
+&gt;**Converts into [color=purple]The Sage[/color].**
+---
+&gt;## [color=steblue]The Drunk[/color]
+&gt;[color=steblue]**Blue Dragon Offensive**[/color]
+**Royal Blood (Passive)** - You can step up to become the new King early.
+**I am the Liquor (Passive)** - Immune to occupation.
+**Debauchery (Night)** - Get in a player’s way, causing them to target you. You are immune to all conversions and attacks redirected to you. - Infinite uses
+**Happy Hour (Night)** - Occupy and get rid of your target&#39;s night and occupy immunities for the night. - 2 uses
+_Defeat the Unseen or Cult, and any neutrals that seek to do you harm._
+
+&gt;**Converts into [color=purple]The Alcoholic[/color].**
+
+---------------------------------
+&gt;## [color=steblue]The Good King[/color] :crossed_swords: :shield: 
+&gt;**[color=steblue]Blue Dragon Special[/color]**
+**Head of State (Passive)** - Your vote counts as two. If you are the starting King, this ability also negates the Royal Bloodline if you are publicly executed, preventing Royals from stepping up early.
+**Tenacity (Passive)** - Immune to being occupied or investigated.
+**Decide Fate (Day)** - You may choose the whether the player on trial will be executed or pardoned. Using this will permanently disable your second vote from Head of State. - 1 use
+**Royal Pardon (Day)** - Make a player unable to be voted today. - 2 uses
+**Guards! (Night)** - Summon a guard to protect a player, granting them immunity for the night. If you are the starting King, your guards will also protect against conversions, and you will have an extra guard. - 3 uses
+**Loyalty (Night)** - Starting King exclusive. The target player receives a envoy that will protect them from all negative actions. The envoy will be spent once activated. Choosing to use this ability again will remove the envoy from the previous target if they have not yet been spent. - Infinite uses
+_Defeat the Unseen or Cult, and any neutrals that seek to do you harm._
+
+&gt;**Convert Immune**
+
+&gt;**Crowned From**
+&gt;* Any Blue Dragon class
+---
+&gt;## [color=steblue]The Hunter[/color]
+&gt;**[color=steblue]Blue Dragon Killer[/color]**
+**Isolation (Passive)** - Immune to occupation.
+**Food Supply (Passive)** - You may not use your night ability after using your day ability the previous day, and you may not use your day ability after using your night ability the previous night.
+**Wolf Companion (Day)** - Summon a wolf companion to attack a player. They will bleed and die in two nights if not healed. - 2 uses
+**Bear Companion (Night)** - Summon a bear to protect you, granting you death and conversion immunity for the night. You will kill any attackers, bypassing night immunity. - 3 uses
+_Defeat the Unseen or Cult, and any neutrals that seek to do you harm._
+
+&gt;**Converts into [color=purple]The Poacher[/color].**
+---
+&gt;## [color=steblue]The Knight[/color]
+&gt;**[color=steblue]Blue Dragon Killer[/color]**
+**Defend (Night)** - You will guard the target player tonight, giving your life to kill their attacker(s). - Infinite uses
+**Cold Steel (Night)** - Choose a player to attack. If they are a member of the Blue Dragon, you will instead take your own life. - Infinite uses
+_Defeat the Unseen or Cult, and any neutrals that seek to do you harm._
+
+&gt;**Converts into [color=purple]The Enforcer[/color].**
+
+---------
+&gt;## **[color=steblue]The Maid[/color]**
+&gt;**[color=steblue]Blue Dragon Investigative[/color]**
+**Service (Day)** - Check if the target player has Royal Blood. - 2 uses
+**Poke Around (Night)** - Look in someone&#39;s chambers to determine their class type. - 2 uses
+**Matchmake (Night)** - Try to &#39;hook up&#39; 2 players, you will be told whether they are compatible or not (see below). - Infinite Uses
+_Defeat the Unseen or Cult, and any neutrals that seek to do you harm._
+
+
+&gt;**Compatibility:**
+&gt;* Members of opposing Factions are not compatible
+&gt;* Neutrals are compatible with every Neutral that they can win with
+&gt;* Royals are not compatible with each other
+&gt;* The King is not compatible with anyone
+&gt;* The Mercenary is compatible with her target no matter the faction
+
+&gt;**Converts into [color=purple]The Mistress[/color]**.
+---
+&gt;## [color=steblue]The Mystic[/color]
+&gt;**[color=steblue]Blue Dragon Social[/color]**
+**Telepathy (Day)** - Anonymously send a single 1000 character message through the host to the court. - 2 uses
+**Conduit (Night)** - Your two targets will both be able to send each other two 1000 character messages through the host over the course of the night. You will later be given the entire conversation. - Infinite uses
+**Link Minds (Night)** - You and your target will both be able to send each other two 1000 character messages through the host over the course of the night. - 2 uses
+_Defeat the Unseen or Cult, and any neutrals that seek to do you harm._
+ 
+&gt;**Converts into [color=purple]The Illusionist[/color].**
+---
+
+&gt;## [color=steblue]**The Noble**[/color]
+&gt;[color=steblue]**Blue Dragon Social**[/color]
+**Trusted Advisor (Passive)** - If you become the King, you will get all of the benefits of a starting Good King.
+**Pull Rank (Day)** - Your vote will count as two today. This will not be announced publicly or affect the number of votes required to reach majority. - 3 uses
+**Bounty (Night)** - If target player is executed tomorrow and is Blue Dragon then there will be an additional trial and execution. Only one Bounty may take effect per day. You cannot target King. - 2 uses
+**Order (Night)** - Negate the votes of a target player the next day. They can&#39;t accuse anyone or vote tomorrow. The target still counts towards the voting majority. - Infinite uses
+_Defeat the Unseen or Cult, and any neutrals that seek to do you harm._
+ 
+&gt;**Converts into [color=purple]The Aristocrat[/color].**
+
+---
+
+&gt;## [color=steblue]The Observer[/color]
+&gt;**[color=steblue]Blue Dragon Investigative[/color]**
+**Follow (Night)** - Watch someone to see who visits them and who they visit. - Infinite uses
+**Window Peek (Night)** - Discover a player&#39;s faction. - 2 uses
+_Defeat the Unseen or Cult, and any neutrals that seek to do you harm._
+
+&gt;**Converts into [color=purple]The Nightwatch[/color].**
+
+---
+
+&gt;## [color=steblue]The Physician[/color]
+&gt;**[color=steblue]Blue Dragon Support[/color]**
+**Remedy Studies (Passive)** - You are immune to bleeding.
+**Innoculate (Day)** - Prevent a player from being poisoned or bleeding for the rest of the game. - 1 use
+**Heal (Night)** - Heal a player, preventing them from dying tonight, and curing any poison and bleeding they were suffering from.  - Infinite uses
+**Self-care (Night)** - Heal yourself tonight. - 2 uses
+_Defeat the Unseen or Cult, and any neutrals that seek to do you harm._
+
+ 
+&gt;**Converts into [color=purple]The Herbalist[/color].**
+
+------
+&gt;## [color=steblue]The Priest[/color]
+&gt;**[color=steblue]Blue Dragon Support[/color]**
+&gt;**Blessing (Day)** - You may bless a player, protecting them from all negative effects and conversion. The blessing will stay on the player until you bless someone else. - Infinite uses
+**Consecrate (Day)** - Make a player immune to death tonight. - 1 use
+&gt;**Anoint (Night)** - Prevent all day abilities from affecting your target tomorrow. - Infinite uses
+**Intercession (Night)** - Any day abilities your target attempts to use tomorrow will have no effect. - 3 uses
+&gt;
+&gt;_Defeat the Unseen or Cult, and any Neutrals that seek to do you harm._
+
+&gt;**Converts into [color=purple]The Heretic[/color].**
+---
+&gt;## [color=steblue]The Prince[/color] :crossed_swords:  :shield:
+&gt;**[color=steblue]Blue Dragon Killer[/color]**
+**Unstoppable (Passive)** - You are immune to occupation.
+**Royal Blood (Passive)** - You can step up to become the new King early.
+**Imprison (Day)** - Choose a player to jail at night occupying the target (Bypasses occupy immunity) and preventing visits to them. You both will be able to send each other a single 1000 character message through the host. - Infinite uses
+**Execute (Night)** - Kill the player you have jailed (Bypasses night immunity). If the executed is a member of the Blue Dragon, you will not be able to execute for the rest of the game. - 3 uses
+_Defeat the Unseen or Cult, and any neutrals that seek to do you harm._
+
+ 
+&gt;**Convert Immune**
+---
+&gt;## [color=steblue]The Princess[/color]
+&gt;**[color=steblue]Blue Dragon Investigative[/color]**
+**Royal Blood (Passive)** - You can step up to become the new King early.
+**Flirt (Night)** - Flirt with a player, you get a pairing of class types. Their class type will be one of the two. The pairings are Killer/Offensive, Support/Social and Special/Investigative. - Infinite uses
+**Will-o-Wisp (Night)** - Release a Will O&#39; Wisp, lighting your target&#39;s room. If they try to kill somebody, you will know. - 2 uses
+_Defeat the Unseen or Cult, and any neutrals that seek to do you harm._
+ 
+&gt;**Converts into [color=purple]The Duchess[/color].**
+
+---
+&gt;## [color=steblue]The Sheriff[/color] :crossed_swords:
+&gt;**[color=steblue]Blue Dragon Investigative[/color]**
+**Scout (Day)** - Scout a player. You will know if that player gets converted at any point afterwards. The scout will stay on the player until you command them to watch someone else - Infinite Uses
+**Expert Investigation (Night)** - Learn if your target is a member of the Unseen. - Infinite Uses
+_Defeat the Unseen and any neutrals that seek to do you harm._
+
+&gt;**Converts into [color=purple]The Marshall[/color].**
+---
+&gt;## [color=steblue]The Squire[/color]
+&gt;**[color=steblue]Blue Dragon Support[/color]**
+**Unskilled (Passive)** - You are immune to death at night.
+**Train (Night)** - Become the non-unique class of a deceased Blue Dragon player. - Infinite Uses
+_Defeat the Unseen or Cult, and any neutrals that seek to do you harm._
+ 
+&gt;**Converts into [color=purple]The Page[/color].**
+[/details]
+
+
+---
+[details=&quot;The Unseen&quot;]
+# [color=purple]The Unseen[/color]
+-----------------------
+&gt; ## [color=purple]The Alcoholic[/color]
+&gt; [color=purple]**Unseen Offensive**[/color]
+**Royal Blood (Passive)** - You can step up to become the new King early.
+**I am the Liquor (Passive)** - Immune to being occupied at night.
+**Debauchery (Night)** - Get in a player’s way, causing them to target you. You are immune to all attacks redirected to you. - Infinite uses
+**Happy Hour (Night)** - Occupy and get rid of your target&#39;s night and occupy immunities for the night. - 2 uses
+_Your objective is to Eliminate the Blue Dragon and any Neutrals who stand against you_
+
+-----------------------
+&gt;## [color=purple]The Aristocrat[/color]
+&gt;[color=purple]**Unseen Social**[/color]
+**Misplaced Trust (Passive)** - If you become the King, you will get all of the benefits of a starting Evil King.
+**Pull Rank (Day)** - Your vote will count as two today. This will not be announced publicly or affect the number of votes required to reach majority. - 2 uses
+**Order (Night)** - Negate the votes of a target player the next day. They can&#39;t accuse anyone or vote tomorrow. The target still counts towards the voting majority. - 2 uses
+**Incriminate (Night)** - Slip a player forged documents, making them appear evil to investigations tonight. - Infinite uses
+_Your objective is to Eliminate the Blue Dragon and any Neutrals who stand against you_
+
+----
+&gt;## [color=purple]The Assassin[/color] :crossed_swords: :shield: 
+&gt;[color=purple]**Unseen Killer**[/color]
+**Hidden Blade (Day)** - Cut your target, causing them to bleed. They will bleed and die in two nights if not healed. - 4 Uses (shared)
+**Distract (Day)** - Distract a player, rendering them unable to use a day ability for the rest of the day. (1 use)
+**Assassinate (Night)** - Kill a target player. - Infinite Uses
+**2-for-1 (Night)** - You can kill two targets this night. - 1 use (shared)
+_Your objective is to Eliminate the Blue Dragon and any Neutrals who stand against you_
+
+---
+
+&gt;## [color=purple]The Broker[/color]
+&gt;**[color=purple]Unseen $upport[/color]**
+**Greed (Passive)** - Immune to occupation.
+**Con (Day)** - Rope somebody into a grandiose moneymaking scheme, occupying them through occupy immunity whenever they next attempt to use a night ability. - 2 uses
+**Contract (Night)** - Occupy a player, but prevent any other Unseen from visiting them. - Infinite uses
+**Counting Change (Night)** - Nobody will be able to visit you tonight. Does not affect occupy immune classes. - 2 uses
+_Your objective is to Eliminate the Blue Dragon and any Neutrals who stand against you_
+
+------------------------
+&gt;## [color=purple]The Duchess[/color]
+&gt;**[color=purple]Unseen Investigative[/color]**
+**Royal Blood (Passive)** - If the King dies, you may become the next king by stating &quot;I shall be the King&quot; in the thread.
+**Bat Eyelashes (Night)** -  Get a player’s faction and class type - Infinite Uses
+**Dark Wisp (Night)** - The Unseen will appear as Blue Dragon to investigations tonight - 2 Uses
+_Your objective is to Eliminate the Blue Dragon and any Neutrals who stand against you_
+
+------
+
+&gt;## [color=purple]The Enforcer[/color]
+&gt;**[color=purple]Unseen Offensive[/color]**
+**Protection (Night)** - Prevent visits to a chosen Unseen member. - 3 Uses
+**Frenzy (Night)** - Guarantees The Assassin will kill the target. Bypasses everything that may prevent your assassin from attacking. - 1 Use
+_Your objective is to Eliminate the Blue Dragon and any Neutrals who stand against you_
+
+---------
+
+&gt;## [color=purple]The Evil King[/color] :crossed_swords: :shield: 
+&gt;[color=purple]**Unseen Special**[/color]
+**Head of State (Passive)** - Your vote counts as two.
+**Tenacity (Passive)** - Immune to being occupied or investigated.
+**Decide Fate (Day)** - You may choose the whether the player on trial will be executed or pardoned. Using this will permanently disable your second vote from Head of State. - 1 use
+**Royal Pardon (Day)** - Make a player unable to be voted today. - 2 uses
+**Guards! (Night)** - Summon a guard to protect a player, granting them immunity for the night. If you are the starting King, you will have an extra guard. - 3 uses
+**Scheme (Night)** - Starting King exclusive. The target player receives a envoy that will make them appear as Blue Dragon to all investigations. The envoy will be spent once activated. Choosing to use this ability again will remove the envoy from the previous target if they have not yet been spent. - Infinite uses
+_Your objective is to Eliminate the Blue Dragon and any Neutrals who stand against you_
+
+&gt;**Crowned From**
+&gt;* Any Unseen class
+&gt;* Baron
+&gt;* Sorcerer
+&gt;* Warlock
+
+------
+
+&gt;## [color=purple]The Herbalist[/color]
+&gt;**[color=purple]Unseen Offensive[/color]**
+**Remedy Studies (Passive)** - You are immune to bleeding.
+**Drug (Night)** - Trick a player into believing they were attacked and healed. They will not believe they were cured of bleeding. - 3 uses
+**Defile (Night)** - If the targeted player dies tonight, they will appear as a class of your choice, and their logs will remain hidden. You will be given their real class and logs. - 2 uses
+_Your objective is to Eliminate the Blue Dragon and any Neutrals who stand against you_
+
+___
+
+&gt;## [color=purple]The Heretic[/color]
+&gt;**[color=purple]Unseen Support[/color]**
+&gt;**Hearsay (Passive)** - As long as you are alive, the Unseen will be able to communicate during the day.
+&gt;**Witness (Day)** - You will be told the name of the next player to use a day ability. - Infinite uses
+**Indulgence (Day)** - If your target uses a day ability today, they will target themselves. - 2 uses
+&gt;**Mislead (Night)** - Any day abilities your target attempts to use tomorrow will have no effect. - Infinite uses
+**Scheme (Night)** - Prevent all day abilities from affecting your target tomorrow. - 3 uses
+&gt;_Your objective is to Eliminate the Blue Dragon and any Neutrals who stand against you._
+
+
+------
+
+&gt;## [color=purple]The Illusionist[/color]
+&gt;**[color=purple]Unseen Social[/color]**
+**Telepathy (Day)** - Anonymously send a single 1000 character message through the host to the chat. - 2 uses
+**Channel (Night)** - Your two targets will both be able to send each other two 1000 character messages through the host over the course of the night. You may target yourself - if you do not, you will later be given the entire conversation. - Infinite Uses
+**Construct Reality (Night)** - Your target will receive incorrect feedback from their abilities tonight, and will appear to be the Assassin to any investigations. - Infinite Uses
+_Your objective is to Eliminate the Blue Dragon and any Neutrals who stand against you_
+
+---
+
+&gt;## [color=purple]The Marshal[/color]
+&gt;[color=purple]**Unseen Investigative** [/color]
+**Expose (Day)** - Discover what day abilities were used on target player at the start of the night. Day abilities with no specific target count as targeting self. - 3 uses
+**Probe (Night)** - 	Determine a player’s class if they are part of the Blue Dragon. - Infinite uses
+**Snoop (Night)** - Choose a list of classes, with no size restrictions. You will know whether or not your target is one of those classes. - 3 uses
+
+____
+
+&gt;## [color=purple]The Mastermind[/color] :crossed_swords: :shield: 
+&gt;**[color=purple]Unseen Special[/color]**
+**Can&#39;t Touch This (Passive)** - Immune to occupation, target changing and death at night. Players who attempt to occupy you or change your target will believe it succeeded. Additionally, you will know who you would&#39;ve been redirected to if a player attempts to change your target. 
+**In the Shadows (Passive)** - You do not appear as Unseen to all Investigative abilities before Day 4. If you are killed before this time, the next oldest Unseen member will replace you as Mastermind.
+**Dirty Work (Day)** If there are no more Unseen members left, you can become the Assassin at the beginning of the night.
+**Convert (Night)** - Change target player into the Unseen version of their Class. After failing to convert twice in a row, if your next conversion would fail it will instead target a random convertible player. - Infinite Uses, 1 Night Cooldown
+**Foresight (Night)** Determine a player’s converted class type or if they cannot be converted. -  4 uses.
+_Your objective is to Eliminate the Blue Dragon and any Neutrals who stand against you_
+
+-------
+
+&gt;## [color=purple]The Mistress[/color]
+&gt;[color=purple]**Unseen Investigative** [/color]
+**Service (Day)** - Check if the target player has Royal Blood. - 2 uses
+**Poke Around (Day)** - Look in someone&#39;s bedchambers to determine their class - 1 use
+**Matchmake (Night)** - Check 2 players to see if they have the same class type - Infinite Uses
+**Room Service (Night)** - Occupy a player - 2 Uses
+_Your objective is to Eliminate the Blue Dragon and any Neutrals who stand against you_
+
+---------
+
+&gt;## [color=purple]The Nightwatch[/color]
+&gt;[color=purple]**Unseen Investigative**[/color]
+**Follow (Night)** - Stalk someone to see who visits them and who they visit, and get their full night results - Infinite Uses
+**Watch Carefully (Night)** - Reveal a player&#39;s class, and how many uses of each of their limited abilities they still have. - 2 uses
+_Your objective is to Eliminate the Blue Dragon and any Neutrals who stand against you_
+
+-----
+
+&gt;## [color=purple]The Page[/color]
+&gt;**[color=purple]Unseen Support[/color]**
+**Unskilled (Passive)** - You are immune to death at night.
+**Train (Night)** - Become the non-unique class of a deceased Unseen player, or the Unseen equivalent class of a deceased Blue Dragon player. - Infinite uses
+_Your objective is to Eliminate the Blue Dragon and any Neutrals who stand against you_
+------
+&gt;## [color=purple]The Poacher[/color]
+&gt;[color=purple]**Unseen Killer**[/color]
+**Isolation (Passive)** - Occupy immune
+**Rabid Wolves (Day)** - Lure rabid wolves to attack a player. They will bleed and die in two nights if not healed. Using this ability a second time requires and expends a use of the Assassin&#39;s Hidden Blade. - 2 Uses
+**Spike Traps (Night)** - Set spike traps outside a player&#39;s room, occupying them and preventing anyone from visiting. - 2 uses
+**Snare Trap (Night)** -  If the target player attempts to leave their room, they will be caught in the trap and prevented from visiting their target. Traps only work once per player. - Infinite Uses
+_Your objective is to Eliminate the Blue Dragon and any Neutrals who stand against you_
+
+------
+
+&gt;## [color=purple]The Sage[/color]
+&gt;[color=purple]**Unseen Support**[/color]
+**Dark Rune (Day)** - If your target uses a day ability today, they will target themself - 1 Use
+**Shock (Day)** - If your target uses a night ability tonight, they will be redirected to target themself - 1 Use
+**Tornado (Night)** - Swap two players&#39; positions, causing all players targeting one of them to target the other. - Infinite uses
+**Wall of Fire (Night)** - Prevent all visits except that of The Assassin from affecting your target - 2 Uses
+_Your objective is to Eliminate the Blue Dragon and any Neutrals who stand against you_
+
+------
+
+&gt;## [color=purple]The Sellsword[/color] 
+&gt;[color=purple]**Unseen Support**[/color]
+**Stonewall (Night)** - Prevent all visits to a member of the Unseen - 3 Uses
+**Revenge (Night)** - Kill a player who voted for an Unseen member - 1 Use
+_Your objective is to Eliminate the Blue Dragon and any Neutrals who stand against you_
+
+-----
+
+&gt;## [color=purple]The Servant[/color]
+&gt;[color=purple]**Unseen Offensive**[/color]
+**Dutiful (Passive)** - Immune to being occupied at night.
+**Serve Wine (Night)** - Occupy a player by getting them drunk. - Infinite Uses
+**Concentrated Wine (Night)** - Throw a party, occupying all players who visit you tonight. Bypasses occupy immunity. - 2 uses
+_Your objective is to Eliminate the Blue Dragon and any Neutrals who stand against you_
+[/details]
+
+
+---
+[details=&quot;Neutrals&quot;]
+# Neutrals
+-----
+
+&gt;## [color=green]The Alchemist[/color]
+&gt;**[color=lightgrey]Neutral Support[/color]**
+**Coagulate (Passive)** - You are immune to bleeding.
+**Stoneskin Potion (Day)** - Make yourself night immune tonight - 3 uses
+**Crimson Potion (Night)** - Heal a target player, preventing their death. Also cure any poison or bleeding. - Infinite Uses 
+**Emerald Potion (Night)** - Poison a player, killing them. - 2 Uses
+_Your objective is to remain alive until the game ends_
+ 
+&gt;**Convert Immune**
+
+---
+
+&gt;## [color=#008080]The Baron[/color]
+&gt; [color=lightgrey]**Neutral Offensive**[/color]
+**Forged Documents (Passive)** - You may step up early to become the King, as if you had Royal Blood, and tied votes for the Kingship will always go in your favor; however, investigations that determine if you have Royal Blood will show that you do not have it.
+**Pull Rank (Day)** - Your vote will count as two today. This will not be announced publicly or affect the number of votes required to reach majority. - 1 use
+**Proclaim Throne (Day)** - Privately learn the King’s true alignment. - 1 use
+**Order (Night)** - Negate the votes of a target player the next day. They can&#39;t accuse anyone or vote tomorrow. The target still counts towards the voting majority. - 1 use
+**Ordain (Night)** - Take Royal Blood from them if they have it. Give Royal Blood to them if they don’t. Targets that are affected by this will only learn of the change at the start of the next King election. - 2 uses
+_Your objective is to survive to see the Blue Dragon’s demise._
+
+&gt;**Convert Immune**
+
+----
+
+&gt;## [color=Red] The Begrudged King[/color] :shield:
+&gt;[color=lightgrey]**Neutral Special**[/color]
+**Head of State (Passive)** - Your vote counts as two.
+**Tenacity (Passive)** - Immune to being occupied or investigated.
+**Decide Fate (Day)** - You may choose the whether the player on trial will be executed or pardoned. Using this will permanently disable your second vote from Head of State. - 1 use
+**Royal Pardon (Day)** - Make a player unable to be voted today. - 2 uses
+**Guards! (Night)** - Summon a guard to protect a player, granting them immunity for the night. - 3 uses
+**Contraband  (Night)** - Send an envoy to frame one of your targets - 3 uses
+_Your objective is to live to see 3 Blue Dragons publicly executed or to see the Blue Dragon defeated._
+ 
+&gt;**Convert Immune**
+
+&gt;**Crowned from**
+&gt;* Scorned
+----
+
+&gt;## [color=lightgrey]The Cowardly King[/color] :crossed_swords: :shield: 
+&gt;[color=lightgrey]**Neutral Special**[/color]
+**Head of State (Passive)** - Your vote counts as two.
+**Tenacity (Passive)** - Immune to being occupied or investigated.
+**Decide Fate (Day)** - You may choose the whether the player on trial will be executed or pardoned. Using this will permanently disable your second vote from Head of State. - 1 use
+**Royal Pardon (Day)** - Make a player unable to be voted today. - 2 uses
+**Guards! (Night)** - Summon a guard to protect a player, granting them immunity for the night. - 3 uses
+**Hide (Night)** - Nobody will be able to visit you tonight. Does not affect occupy immune classes. - 3 uses
+_Your objective is to remain alive until the game ends_
+ 
+&gt;**Convert Immune**
+
+&gt;Crowned from
+&gt;* Alchemist
+&gt;* Trader
+
+-----
+&gt;## [color=green]The Druid[/color] :shield:
+&gt;[color=lightgrey]**Neutral Killer**[/color]
+**Life Finds a Way (Passive)** - You are immune to death and bleeding, and will not visit a target if it would cause your death.
+**Root Network (Passive)** - Thick roots prevent investigations of your room, as well as any players that receive roots on the night they are investigated.Otherwise, Investigative classes will be able to determine if their target&#39;s room has been rooted, in addition to their normal result. 
+**Judgement of the Wild (Day)** - Publicly mark someone, you will gain a use of Constricting Roots if they aren’t dead by the next day. - Infinite uses, 1 day cooldown
+**Rune of Growth (Day)** - Spreading Roots can target two people tonight. - Infinite uses, 1 day cooldown
+**Spreading Roots (Night)** - Curl roots around a player’s room. - Infinite uses
+**Constricting Roots (Night)** - Kill all players that are rooted. - 0 uses, loses one use per day
+_You win by eliminating the Blue Dragon, Unseen, Cult and all others who seek to corrupt nature._
+
+&gt;**Convert Immune**
+
+-----
+
+&gt;## [color=#86a94a]The Fanatical King[/color] :shield:
+&gt;[color=lightgrey]**Neutral Special**[/color]
+**Head of State (Passive)** - Your vote counts as two.
+**Tenacity (Passive)** - Immune to being occupied or investigated.
+**Decide Fate (Day)** - You may choose the whether the player on trial will be executed or pardoned. Using this will permanently disable your second vote from Head of State. - 1 use
+**Royal Pardon (Day)** - Make a player unable to be voted today. - 2 uses
+**Guards! (Night)** - Summon a guard to protect a player, granting them immunity for the night. - 3 uses
+**Protect (Night)** - Protect your target without the use of guard! - Infinite Use
+_Your objective is to ensure that your target remains alive until the end of the game._
+
+&gt;**Convert Immune**
+
+&gt;**Crowned From**
+&gt;* Mercenary
+
+-------------
+
+&gt;## [color=#86a94a]The Mercenary[/color]
+&gt;[color=lightgrey]**Neutral Support**[/color]
+**Looking for Work (Passive)** - If your original target dies, you have 3 days to find another or you will die
+**Failure (Passive)** - If your original target and your new target die, you will commit suicide
+**Offer Contract (Day)** - If your original target dies, you may form a contract with another player during the day - 3 Uses
+**Stand Guard (Night)** - Protect your target from any and all visits in addition you are night immune when you use this - 4 Uses
+**Rebound (Night)** - Kill player who accused your target of treason - 1 use
+_Your objective is to ensure that your target remains alive until the end of the game, your target is [x]_
+ 
+&gt;**Converts into [color=purple]The Sellsword[/color].**
+
+----
+
+&gt;## [color=navy]The Possessor[/color] :shield:
+&gt;[color=lightgrey]**Neutral Killer**[/color]
+**Driven (Passive)** - You cannot be occupied or killed at night.
+**Puppet Strings (Night)** - Control a player and force them to kill someone. They will not be notified that they were controlled, unless you caused them to target themself. - Infinite uses
+**Possess (Night)** - Kill the target player. Their class will appear as one of your choice, and they will have information in their logbook of your choosing (or no logbook if nothing is specified). You will know what class they truly were, and what their logbook said. - 3 uses
+_Your objective is to Eliminate the Blue Dragon, the Unseen, the Cult and any Neutrals who stand in your way_
+
+&gt;**Convert Immune**
+
+--------
+
+&gt;## [color=darkred]The Psychopathic King[/color] :shield:
+&gt;[color=lightgrey]**Neutral Special**[/color]
+**Head of State (Passive)** - Your vote counts as two.
+**Tenacity (Passive)** - Immune to being killed at night, occupied, or investigated.
+**Decide Fate (Day)** - You may choose the whether the player on trial will be executed or pardoned. Using this will permanently disable your second vote from Head of State. - 1 use
+**Royal Pardon (Day)** - Make a player unable to be voted today. - 2 uses
+**Guards! (Night)** - Summon a guard to protect a player, granting them immunity for the night. - 3 uses
+**Order Execution (Night)** - Send a guard to kill a player. - Infinite uses
+_Your objective is to Eliminate the Blue Dragon, the Unseen, the Cult and any Neutrals who stand in your way_
+
+&gt;**Convert Immune**
+
+&gt;**Crowned From**
+&gt;* Druid
+&gt;* Possessor
+&gt;* Reaper
+
+------
+&gt; ## [color=Black]The Reaper[/color] :shield:
+&gt;[color=lightgrey]**Neutral Killer**[/color]
+**Undead (Passive)** - You may talk with dead players, and start the game with two souls.
+**Consume Soul (Passive)** - If you die at night with at least one soul, you will consume it and come back to life. This does not work on attacks that pierce night immunity.
+**Icy Touch (Day)** - Consume two souls to prevent a player from using day and night abilities today. The target will only be aware of being prevented if they attempt to use a day ability , and they will appear occupied at night. - Infinite uses
+**Reap (Night)** - Reap the soul of a player, killing them and occupying them. The victim can not be healed. You will gain one soul on a successful reap. - Infinite uses
+**Gather Darkness (Night)** - Consume two souls to kill a player. Bypasses death immunity, and the victim can not be healed.  Their logbook will not be shown publicly, but you will privately receive it. - Infinite uses
+_Your objective is to Eliminate the Blue Dragon, the Unseen, the Cult and any Neutrals who stand in your way_
+
+&gt;**Convert Immune**
+
+----
+
+&gt;## [color=red]**The Scorned**[/color]
+&gt;[color=lightgrey]**Neutral Social**[/color]
+**Resolve (Passive)** - Immune to occupation and being killed at night.
+**Frame (Night)** - Make your target appear guilty to Investigations. - 2 uses
+**Bait and Switch (Night)** - Swap two players’ positions, causing all players targeting one of them to target the other. - 3 uses
+_Your objective is to live to see 3 Blue Dragons publicly executed or to see the Blue Dragon defeated._
+
+&gt;**Convert Immune**
+
+---
+
+&gt;## [color=#4B0082]The Sorcerer[/color] :shield:
+&gt; [color=lightgrey]**Neutral Killer**[/color]
+**Third Eye (Passive)** - 	You will not attack targets that are death immune, guarded by The Knight, or are an Unseen/Cult member.
+**Mage Armor (Passive)** - Immune to death at night, occupation, and bleeding.
+**Magic Missile (Night)** - Fire a magic missile at a player, killing them.
+**Magic Circle (Night)** - Everyone visiting target player will die. Unavailable before Night 3. - 2 uses
+_Your objective is to survive to see the Blue Dragon defeated._
+
+&gt;**Convert Immune**
+
+---
+
+&gt;## [color=#CD853F]The Trader[/color]
+&gt; [color=lightgrey]**Neutral $upport**[/color]
+**Entrepreneurial Spirit (Passive)** - Becomes immune to occupation after being occupied twice (rather than three times).
+**Bankruptcy (Passive)** - If you do not trade at least once every three nights, you will go bankrupt and be unable to use any night abilities for the rest of the game.
+**Advertise (Day)** - Excite somebody about your product, making them immune to occupation and allowing you to Barter with them through occupy immunity for the next night - 2 uses
+**Barter (Night)** - Trade supplies with another player, occupying them but also granting them night immunity for the night. - Infinite uses
+**We&#39;re Closed! (Night)** - Nobody will be able to visit you tonight. Does not affect occupy immune classes. - 2 uses
+_Your objective is to survive the game without going bankrupt._
+
+&gt;**Converts into [color=purple]The Broker[/color].**
+
+---
+
+&gt;## [color=#0EA050]The Warlock[/color] :shield: 
+&gt; [color=lightgrey]**Neutral Offensive**[/color]
+**Bend Reality (Passive)** - As long as you are alive, all Blue Dragon classes that would otherwise be immune to occupation are not.
+**Mindwarp (Day)** - Cast a spell that reveals your target&#39;s last night action to you. - 4 uses
+**Mind Control (Night)** - Cast a spell that forces your target to target somebody of your choosing. - 2 uses
+**Carnage (Night)** - Cast a spell that causes all kills tonight to bypass all forms of protection or prevention. - 1 use
+_Your objective is to survive to see the Blue Dragon’s demise._
+
+&gt;**Convert Immune**
+[/details]
+---
+
+# Further Discussion
+
+- I know that the Mercenary was just reworked in FoL - do we also want to adopt those changes here?
+- I added quite a few Neutral Non-Killing roles, including the Trader, Baron, and Warlock. Are these any good? None of them spawned in SFoL18 and so require further testing.
+- Following the above two points, since no more Neutrals are convertible in ToL, which I consider a good idea, should we just remove the Broker (converted Trader)?
+- We need another Blue Dragon class with Royal Blood. Considering the Killer Prince, Investigative Princess, and Offensive Drunk all have it, I think a Support or Social class should be next. If anybody has any good ideas for a class that fits this bill, please let me know!
+- The upcoming Noble rework is something that was released after I worked on these cards. Should we adopt that?
+
+Thanks for reading, and please let me know exactly how you feel about everything in this thread!</description>
+    
+    <lastBuildDate>Mon, 16 Apr 2018 06:43:32 +0000</lastBuildDate>
+    <category>Forum of Lies</category>
+    <atom:link href="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>SFoL18 Post-Match Discussion</title>
+        <dc:creator><![CDATA[Icibalus]]></dc:creator>
+        <description><![CDATA[
+            <p>72/24 is the best cycle length<br>
+Trials have always been unnececary in FoL; In ToL they’re helpful to make informed decisions about votes, but with longer day phases that’s unneeded. Plus, it kinda makes claiming a bit more brainless, in that you claim when on trial 100% of that time, instead of taking the more interesting avenue of dissecting when people claim from the wagon pressure.</p>
+<p>Decide fate is an obvious need for change, but maybe it should have a limit on how many people are needed in order for the King’s influence to matter?</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/32">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/32</link>
+        <pubDate>Mon, 16 Apr 2018 06:43:32 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58141-32</guid>
+        <source url="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141.rss">SFoL18 Post-Match Discussion</source>
+      </item>
+      <item>
+        <title>SFoL18 Post-Match Discussion</title>
+        <dc:creator><![CDATA[Lymphoma]]></dc:creator>
+        <description><![CDATA[
+            <p>Dont mind me im being stupid like usually</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/31">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/31</link>
+        <pubDate>Mon, 16 Apr 2018 03:44:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58141-31</guid>
+        <source url="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141.rss">SFoL18 Post-Match Discussion</source>
+      </item>
+      <item>
+        <title>SFoL18 Post-Match Discussion</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Ashe" data-post="28" data-topic="58141">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/ashe/40/10225_2.png" class="avatar"> Ashe:</div>
+<blockquote>
+<p>Conduit makes sense to add, but I’m not sure I like it being Mystic’s primary ability. In saying that though, I would be interested in hearing the argument for that change, because I do understand that Mystic being Prince junior isn’t really the best.</p>
+</blockquote>
+</aside>
+<p>Illusionist has that ability as well, so it’s less safe to just gather claims and is more useful as a neighborizer.</p>
+<aside class="quote no-group" data-username="Ashe" data-post="28" data-topic="58141">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/ashe/40/10225_2.png" class="avatar"> Ashe:</div>
+<blockquote>
+<p>Illusionist having Channel. This is less of an issue than it would be in regular ToL of course, but having a converted Mystic be able to continue their fake claim with ease isn’t quite what I’d like the conversion path to be, especially considering how powerful their current Cult alt is because it’s otherwise a weak conversion. However, I do like Construct Reality and Mind Warp being merged to be more powerful, but if we make changes to Illusionist I would probably want to give them a different second ability than Channel.</p>
+</blockquote>
+</aside>
+<p>I’d rather just rework the Cult Alt and allow Illusionist to act as a Mystic if they so choose than make Mystics almost certainly and entirely trustworthy.</p>
+<aside class="quote no-group" data-username="Ashe" data-post="28" data-topic="58141">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/ashe/40/10225_2.png" class="avatar"> Ashe:</div>
+<blockquote>
+<p>Demons <strong>IN</strong></p>
+</blockquote>
+</aside>
+<p>Demon is just a more boring Sorcerer. I replaced it.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/30">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/30</link>
+        <pubDate>Sun, 15 Apr 2018 21:57:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58141-30</guid>
+        <source url="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141.rss">SFoL18 Post-Match Discussion</source>
+      </item>
+      <item>
+        <title>SFoL18 Post-Match Discussion</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>*Prince</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/29">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/29</link>
+        <pubDate>Sun, 15 Apr 2018 21:49:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58141-29</guid>
+        <source url="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141.rss">SFoL18 Post-Match Discussion</source>
+      </item>
+      <item>
+        <title>SFoL18 Post-Match Discussion</title>
+        <dc:creator><![CDATA[Ashe]]></dc:creator>
+        <description><![CDATA[
+            <h1>I like:</h1>
+<p>Shorter day/night cycles. It could be interesting to play around with it a bit too see who it effects and how good/bad it is for hem, and definitely something I’d like to see done at some point.<br>
+Less feedback. Offensive classes not being able to find occupy immune people is great, and not knowing who you’re redirected to solves the “Sheriff knows Alcoholic is converted” issue.<br>
+Concentrated Wine bypassing occupy immunity. I feel it makes it as useful in Unseen games as it is in Cult games, which is good.<br>
+Punishment for killing a Good King. Having a danger of killing the King encourages not doing that and replacing them out with a near-confirmed BD Royal.<br>
+Royal Pardon is situationally useful, but I like it a lot.<br>
+Loyalty/Scheme. I’d say they do the job that the current FoL King abilities are meant to do a lot better.<br>
+Head of State. Having the King’s vote carry more weight by default I feel is how it should be.<br>
+Wolf Companion being a day ability. Less confirmation on if bleeding came from scum or not.<br>
+Noble’s passive. Them having that but not Royal Blood makes an argument for not having someone with Royal Blood step up, which could end up being good for getting Evil/Neutral Kings crowned.<br>
+Wisp. The current FoL Wisp is an ability that I feel can fairly easily be used to confirm yourself, so replacing it with this is good on the merit of not having current Wisp alone.<br>
+Hidden Blade. Not knowing what faction it is just because they used their day ability is nice. Distract and 2-for-1 are nice additions to the Assassin’s kit also.<br>
+Convertible Sheriff, and Marshal’s abilities. Having a confirmed town that can’t be converted on top of Prince is unnecessary, so I like this change, and the abilities Marshal has are nice.<br>
+Automatic conversion failsafe. If you’ve already failed to convert twice your faction is lagging behind, so not adding more insult to injury is good.<br>
+Poacher actually being an Unseen Killer. I always thought it was weird that there were no killer conversions, and this fixes that well. That being said, if we added this change, it would be nice to mirror a cult killer conversion.<br>
+Baron. I really like this neutral, and feel it could really work, for all of it except one of its abilities.<br>
+Psychopathic King. I don’t know why current Psycho King doesn’t have guards, but they should.<br>
+Sorcerer. A class I was considering adding at one point, although not having Inquisitor with it I’m not sure about.<br>
+Trader. It’s an interesting neutral with a unique objective, and excepting one thing I like it.<br>
+Warlock. Another neutral I’d be interested in using, that really captures what a Neutral Offensive should be. The only thing I don’t like is calling the day ability Mindwarp, as even though with the changes you’ve made the old Mind Warp wouldn’t exist it’s generally not a good idea to recycle the same name for a different ability.</p>
+<h1>I don’t like:</h1>
+<p>Trial removal and Decide Fate as they were in SFoL18. I prefer having trials, although I have been considering if they need to be shorter.<br>
+Conduit makes sense to add, but I’m not sure I like it being Mystic’s primary ability. In saying that though, I would be interested in hearing the argument for that change, because I do understand that Mystic being Prince junior isn’t really the best.<br>
+Broker. I don’t mind it, but if we change Merc to be conversion immune then I wouldn’t want this either.<br>
+Illusionist having Channel. This is less of an issue than it would be in regular ToL of course, but having a converted Mystic be able to continue their fake claim with ease isn’t quite what I’d like the conversion path to be, especially considering how powerful their current Cult alt is because it’s otherwise a weak conversion. However, I do like Construct Reality and Mind Warp being merged to be more powerful, but if we make changes to Illusionist I would probably want to give them a different second ability than Channel.<br>
+Baron’s Proclaim Throne. I don’t think King should be able to be investigated from any source no matter what, so I don’t really like this ability.<br>
+Fools, Revenants, Electrocutioners and Demons <strong>IN</strong> REEEEEEEEE :^)<br>
+Trader’s We’re Closed! I feel like it should just be the same as Concentrated Wine, so that it isn’t uniquely identifiable by visitors.</p>
+<h1>Additional Notes:</h1>
+<p>Heretic and Evil King both have an ability called Scheme.<br>
+In The Sheriff’s “Converts into” box, Marshal is spelt incorrectly.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/28">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/28</link>
+        <pubDate>Sun, 15 Apr 2018 19:18:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58141-28</guid>
+        <source url="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141.rss">SFoL18 Post-Match Discussion</source>
+      </item>
+      <item>
+        <title>SFoL18 Post-Match Discussion</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh and the system I just proposed means that Noble wins there unless King decide fates.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/27">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/27</link>
+        <pubDate>Sun, 15 Apr 2018 18:51:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58141-27</guid>
+        <source url="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141.rss">SFoL18 Post-Match Discussion</source>
+      </item>
+      <item>
+        <title>SFoL18 Post-Match Discussion</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>This matters for the Noble vs Evil King situation.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/26">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/26</link>
+        <pubDate>Sun, 15 Apr 2018 18:49:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58141-26</guid>
+        <source url="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141.rss">SFoL18 Post-Match Discussion</source>
+      </item>
+      <item>
+        <title>SFoL18 Post-Match Discussion</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>This would prevent the time of logging on changing the trial result.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/25</link>
+        <pubDate>Sun, 15 Apr 2018 18:47:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58141-25</guid>
+        <source url="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141.rss">SFoL18 Post-Match Discussion</source>
+      </item>
+      <item>
+        <title>SFoL18 Post-Match Discussion</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>I would say that after Hammer:</p>
+<p>A: Anyone who is voting for the hammered person cannot change their vote</p>
+<p>B: Anyone not voting for the hammered person can change votes</p>
+<p>C: Anyone can use ability’s that would effect votes (such as pull rank)</p>
+<p>D: The player with the most votes after 24 hours at most (less if there was less than 24 hours in the day remaining) is the one lynched.</p>
+<p>E: Decide fate counts as unlimited votes and the king wins ties for this.</p>
+<p>F: You cannot talk while this is happening.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/24</link>
+        <pubDate>Sun, 15 Apr 2018 18:47:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58141-24</guid>
+        <source url="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141.rss">SFoL18 Post-Match Discussion</source>
+      </item>
+      <item>
+        <title>SFoL18 Post-Match Discussion</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>If they got the prince voted and he was offline he would die without anything to say</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/23</link>
+        <pubDate>Sun, 15 Apr 2018 18:46:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58141-23</guid>
+        <source url="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141.rss">SFoL18 Post-Match Discussion</source>
+      </item>
+      <item>
+        <title>SFoL18 Post-Match Discussion</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Another thing I would do is change how Hammer works.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/22</link>
+        <pubDate>Sun, 15 Apr 2018 18:43:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58141-22</guid>
+        <source url="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141.rss">SFoL18 Post-Match Discussion</source>
+      </item>
+      <item>
+        <title>SFoL18 Post-Match Discussion</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>so the most he can win is a 2v3 with decide fate because 2v4 is also exactly 33%.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/21</link>
+        <pubDate>Sun, 15 Apr 2018 18:43:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58141-21</guid>
+        <source url="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141.rss">SFoL18 Post-Match Discussion</source>
+      </item>
+      <item>
+        <title>SFoL18 Post-Match Discussion</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Yea. Also solves the decide fate problem as it needs MORE THAN 33% (if it doesn’t then change that too) and in a 2v1 his vote counts as 1 still but just happens to hammer on ties and doesn’t let him decide fate (however he wins a 1v1 or a 2v2)</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/20</link>
+        <pubDate>Sun, 15 Apr 2018 18:41:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58141-20</guid>
+        <source url="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141.rss">SFoL18 Post-Match Discussion</source>
+      </item>
+      <item>
+        <title>SFoL18 Post-Match Discussion</title>
+        <dc:creator><![CDATA[Moleland]]></dc:creator>
+        <description><![CDATA[
+            <p>I’d be cool with it acting as a tie-breaking ability.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/19</link>
+        <pubDate>Sun, 15 Apr 2018 18:39:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58141-19</guid>
+        <source url="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141.rss">SFoL18 Post-Match Discussion</source>
+      </item>
+      <item>
+        <title>SFoL18 Post-Match Discussion</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>My suggestion. Head of state rather than being 2 votes instead makes the person he is voting for get hammered at <strong>exactally</strong> half the votes rather than more than half the votes.</p>
+<p>I would suggest the same thing for pull rank for the same reason.</p>
+<p>Edit: Forget what I said about pull rank. He cannot endgame scum this way and it cannot stack if you make it like that</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/18</link>
+        <pubDate>Sun, 15 Apr 2018 18:38:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58141-18</guid>
+        <source url="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141.rss">SFoL18 Post-Match Discussion</source>
+      </item>
+      <item>
+        <title>SFoL18 Post-Match Discussion</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Also there is another problem. Right now king in a 2v1 cannot lynch because the 2 votes also makes him unable to force exe the resulting trial. However with no trial the vote instantly kills the person with no trial. Somehow that needs to be changed.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/17</link>
+        <pubDate>Sun, 15 Apr 2018 18:34:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58141-17</guid>
+        <source url="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141.rss">SFoL18 Post-Match Discussion</source>
+      </item>
+      <item>
+        <title>SFoL18 Post-Match Discussion</title>
+        <dc:creator><![CDATA[Moleland]]></dc:creator>
+        <description><![CDATA[
+            <p>Decide Fate is fine, as long as King can’t decide fate alone - IE: It needs 33% of votes, not including it’s double vote.</p>
+<p>There were points if Livi or Wolfy had become king, they could lynched out all the scum alone.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/16</link>
+        <pubDate>Sun, 15 Apr 2018 18:31:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58141-16</guid>
+        <source url="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141.rss">SFoL18 Post-Match Discussion</source>
+      </item>
+      <item>
+        <title>SFoL18 Post-Match Discussion</title>
+        <dc:creator><![CDATA[Ashe]]></dc:creator>
+        <description><![CDATA[
+            <p>I’ll go read through everything a bit later, but this made me laugh:</p>
+<aside class="quote no-group" data-username="orangeandblack5" data-post="1" data-topic="58141">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/orangeandblack5/40/33172_2.png" class="avatar"> orangeandblack5:</div>
+<blockquote>
+<p>Killer Priest</p>
+</blockquote>
+</aside>
+          <p><a href="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/15</link>
+        <pubDate>Sun, 15 Apr 2018 18:19:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58141-15</guid>
+        <source url="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141.rss">SFoL18 Post-Match Discussion</source>
+      </item>
+      <item>
+        <title>SFoL18 Post-Match Discussion</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>King being insanely OP at the end game is kinda BS, but it seems you also recognize that.</p>
+<p>I dislike the way you roll the classes reducing multiple of the same classes spawn as that as it is harder for town when they CC each other and makes it more difficult for evils to fake claim, as if someone cc’s them it is very likely one is lying.</p>
+<p>I’ll look into the class stuff later but as of now I liked all the mechanic changes apart from those 2 things. I especially like the lack of info.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/14</link>
+        <pubDate>Sun, 15 Apr 2018 18:19:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58141-14</guid>
+        <source url="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141.rss">SFoL18 Post-Match Discussion</source>
+      </item>
+      <item>
+        <title>SFoL18 Post-Match Discussion</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Yea I know but this feel less situational than current Snoop. Like I said I initially intended snoop to be unlimited use and probe limited use when I suggested it.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/13</link>
+        <pubDate>Sun, 15 Apr 2018 18:17:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58141-13</guid>
+        <source url="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141.rss">SFoL18 Post-Match Discussion</source>
+      </item>
+      <item>
+        <title>SFoL18 Post-Match Discussion</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>Probe only works on BD but we’'ll see</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/12</link>
+        <pubDate>Sun, 15 Apr 2018 18:14:54 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58141-12</guid>
+        <source url="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141.rss">SFoL18 Post-Match Discussion</source>
+      </item>
+      <item>
+        <title>SFoL18 Post-Match Discussion</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="orangeandblack5" data-post="1" data-topic="58141">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/orangeandblack5/40/33172_2.png" class="avatar"> orangeandblack5:</div>
+<blockquote>
+<p>Snoop (Night) - Choose a list of classes, with no size restrictions. You will know whether or not your target is one of those classes. - 3 uses</p>
+</blockquote>
+</aside>
+<p>When I suggested this ability to you I intended for it to be the primary ability with probe being the secondary. However if it is secondary there is a simple change that can be made to make it strong enough to not be a nerfed Probe.</p>
+<p>Make it so you choose any number of Players AND classes and find out if any (but not which) of those players are any (but not which) of those classes. For example:</p>
+<p>Lets say I am looking for the prince and I have narrowed it down to 1 of 4 people. Right now the fastest way to find him is to probe 3 of them which takes a max of 3 nights to find him with. With snoop being multi target you could snoop 2 of them checking if they are prince and then probe the group that contains him to find the prince in a maximum of 2 nights. In addition you could select ALL players to check if a class is in play at all (Warlock for example)</p>
+<p>It would probably also need to not count as a visit. An observer seeing you visit the entire game is harder to explain than him seeing you visit no one.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/11</link>
+        <pubDate>Sun, 15 Apr 2018 18:14:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58141-11</guid>
+        <source url="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141.rss">SFoL18 Post-Match Discussion</source>
+      </item>
+      <item>
+        <title>SFoL18 Post-Match Discussion</title>
+        <dc:creator><![CDATA[Marluxion]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="orangeandblack5" data-post="1" data-topic="58141">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/orangeandblack5/40/33172_2.png" class="avatar"> orangeandblack5:</div>
+<blockquote>
+<p>it ran with 72-hour days and 24-hour nights.</p>
+</blockquote>
+</aside>
+<p>Good change</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/10</link>
+        <pubDate>Sun, 15 Apr 2018 18:13:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58141-10</guid>
+        <source url="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141.rss">SFoL18 Post-Match Discussion</source>
+      </item>
+      <item>
+        <title>SFoL18 Post-Match Discussion</title>
+        <dc:creator><![CDATA[Lymphoma]]></dc:creator>
+        <description><![CDATA[
+            <p>Putting the first post of the here was really important btw</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/9</link>
+        <pubDate>Sun, 15 Apr 2018 18:11:28 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58141-9</guid>
+        <source url="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141.rss">SFoL18 Post-Match Discussion</source>
+      </item>
+      <item>
+        <title>SFoL18 Post-Match Discussion</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>Glad to have you on board <img src="/images/emoji/twitter/+1.png?v=9" title=":+1:" class="emoji" alt=":+1:"></p>
+          <p><a href="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141/8</link>
+        <pubDate>Sun, 15 Apr 2018 18:10:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58141-8</guid>
+        <source url="https://forum.throneoflies.com/t/sfol18-post-match-discussion/58141.rss">SFoL18 Post-Match Discussion</source>
+      </item>
+  </channel>
+</rss>

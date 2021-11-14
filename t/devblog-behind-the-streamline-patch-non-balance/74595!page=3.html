@@ -1,0 +1,823 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>[DevBlog] Behind the Streamline Patch (Non-Balance) - Official Announcements - Forum of Lies | Throne of Lies | by Imperium42</title>
+    <meta name="description" content="Xblade, here. While balance is subjective, and the patch dust is settling, tons of people are starting to understand the patch, why we did it, and the positive impact it had (Yes, there were some balance disagreements, b&amp;hellip;">
+    <meta name="generator" content="Discourse 2.8.0.beta4 - https://github.com/discourse/discourse version 2c282a5a47af4b86a3d07160aacbd8ae6e2f0336">
+<link rel="icon" type="image/png" href="../../uploads/default/optimized/3X/3/c/3c4589975736c98aaeb36800f5e7300fd53a82be_2_32x32.png">
+<link rel="apple-touch-icon" type="image/png" href="../../uploads/default/optimized/2X/a/a0c3b95aba32838b12620cb9efe13fa3518cf6c9_2_180x180.png">
+<meta name="theme-color" content="#007ea1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover">
+<link rel="canonical" href="74595!page=3.html" />
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"https://forum.throneoflies.com","potentialAction":{"@type":"SearchAction","target":"https://forum.throneoflies.com/search?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link rel="search" type="application/opensearchdescription+xml" href="../../opensearch.xml" title="Forum of Lies | Throne of Lies | by Imperium42 Search">
+
+      <link href="../../stylesheets/desktop_9340ff5d69f8f3ca918dbed2cd569ce951f4edc2.css!__ws=forum.throneoflies.com.css" media="all" rel="stylesheet" data-target="desktop"  />
+      <link href="../../stylesheets/desktop_theme_6_dfe425bda26757794dab483fd4bcdf9d7e01b98f.css!__ws=forum.throneoflies.com.css" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="6" data-theme-name="dark"/>
+<link href="../../stylesheets/desktop_theme_16_26b56dd0d95ed87ec65468d7de36f43f2c03d7a7.css!__ws=forum.throneoflies.com.css" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="16" data-theme-name="hover color: light blue"/>
+<link href="../../stylesheets/desktop_theme_17_e2312ca6a1ba52641c2b9d505d122dfa85d805c2.css!__ws=forum.throneoflies.com.css" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="17" data-theme-name="category img size"/>
+<link href="../../stylesheets/desktop_theme_19_3b936417ddf6ec5cbcf109830efb3cd342ae15c8.css!__ws=forum.throneoflies.com.css" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="19" data-theme-name="fol-mask"/>
+<link href="../../stylesheets/desktop_theme_20_5cdd9bcffb79e9dde5afbb140a64de4983c09bc4.css!__ws=forum.throneoflies.com.css" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="20" data-theme-name="title colors (dark)"/>
+<link href="../../stylesheets/desktop_theme_23_72f42c7b38572cb492025a3b0f42485b45e4ccc5.css!__ws=forum.throneoflies.com.css" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="23" data-theme-name="hamburger colors impr (dark)"/>
+<link href="../../stylesheets/desktop_theme_27_10d977f8ba031c2f44400a42f52dc13c93089180.css!__ws=forum.throneoflies.com.css" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="27" data-theme-name="custom header links color impr (dark)"/>
+<link href="../../stylesheets/desktop_theme_32_ad9fa438393ecba6549d1a81937aa2693d7da605.css!__ws=forum.throneoflies.com.css" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="32" data-theme-name="ad banner hover"/>
+<link href="../../stylesheets/desktop_theme_34_6c7da7f5f610ff06b871f29b6d6b2a09cc190842.css!__ws=forum.throneoflies.com.css" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="34" data-theme-name="header links icons theme component"/>
+    
+    <meta id="data-ga-universal-analytics" data-tracking-code="UA-41755166-6" data-json="{&quot;cookieDomain&quot;:&quot;forum.throneoflies.com&quot;,&quot;userId&quot;:3460}" data-auto-link-domains="">
+
+  <link rel="preload" href="../../assets/google-universal-analytics-v3-706f1d28f0a97f67a47515c96189277240ec4940d968955042066d7873fd1fe8.js" as="script">
+<script src="../../assets/google-universal-analytics-v3-706f1d28f0a97f67a47515c96189277240ec4940d968955042066d7873fd1fe8.js"></script>
+
+
+        <link rel="alternate" type="application/rss+xml" title="RSS feed of &#39;[DevBlog] Behind the Streamline Patch (Non-Balance)&#39;" href="74595.rss" />
+    <meta property="og:site_name" content="Forum of Lies | Throne of Lies | by Imperium42" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:image" content="https://forum.throneoflies.com/uploads/default/original/2X/a/acd5c1a2b5cf616a7c701a28a00f02f8e7fb6f40.gif" />
+<meta property="og:image" content="https://forum.throneoflies.com/uploads/default/original/2X/a/acd5c1a2b5cf616a7c701a28a00f02f8e7fb6f40.gif" />
+<meta property="og:url" content="https://forum.throneoflies.com/t/devblog-behind-the-streamline-patch-non-balance/74595?page=3" />
+<meta name="twitter:url" content="https://forum.throneoflies.com/t/devblog-behind-the-streamline-patch-non-balance/74595?page=3" />
+<meta property="og:title" content="[DevBlog] Behind the Streamline Patch (Non-Balance)" />
+<meta name="twitter:title" content="[DevBlog] Behind the Streamline Patch (Non-Balance)" />
+<meta property="og:description" content="ToS tried that  It did not go well" />
+<meta name="twitter:description" content="ToS tried that  It did not go well" />
+<meta name="twitter:label1" value="Reading time" />
+<meta name="twitter:data1" value="18 mins 🕑" />
+<meta name="twitter:label2" value="Likes" />
+<meta name="twitter:data2" value="95 ❤" />
+<meta property="article:published_time" content="2018-12-28T02:04:07+00:00" />
+<meta property="og:ignore_canonical" content="true" />
+
+        <link rel="prev" href="74595!page=2.html">
+
+    
+  </head>
+  <body class="crawler">
+    
+<script src="../../theme-javascripts/7a9bafe457de7a95ab644a05b50d716e00ef8958.js!__ws=forum.throneoflies.com"></script>
+    <header>
+      <a href="../../index.html">
+          <img src="../../uploads/default/original/2X/a/a6d2069828ee3a0ac528fd2eaf6a64650f932d2f.png" alt="Forum of Lies | Throne of Lies | by Imperium42" id="site-logo" style="max-width: 150px;">
+      </a>
+    </header>
+    <div id="main-outlet" class="wrap">
+        <div id="topic-title">
+    <h1>
+      <a href="74595.html">[DevBlog] Behind the Streamline Patch (Non-Balance)</a>
+    </h1>
+
+      <div class="topic-category" itemscope itemtype="http://schema.org/BreadcrumbList">
+          <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+            <a href="../../c/announcements/8.html" class="badge-wrapper bullet" itemprop="item">
+              <span class='badge-category-bg' style='background-color: #F7941D'></span>
+              <span class='badge-category clear-badge'>
+                <span class='category-name' itemprop='name'>Official Announcements</span>
+              </span>
+            </a>
+            <meta itemprop="position" content="1" />
+          </span>
+      </div>
+
+  </div>
+
+  
+
+
+      <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+            <meta itemprop='name' content='Imperium42®, LLC'>
+              <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+                <meta itemprop='url' content='https://forum.throneoflies.com/uploads/default/original/2X/a/a6d2069828ee3a0ac528fd2eaf6a64650f932d2f.png'>
+              </div>
+          </div>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/orangeandblack5.html'><span itemprop='name'>orangeandblack5</span></a>
+            
+          </span>
+
+          <link itemprop="mainEntityOfPage" href="74595.html">
+
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2018-12-28T02:04:07Z' class='post-time'>
+                December 28, 2018,  2:04am
+              </time>
+              <meta itemprop='dateModified' content='2018-12-28T02:04:07Z'>
+          <span itemprop='position'>#41</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <aside class="quote group-Admin" data-username="í42-Xblade" data-post="15" data-topic="74595">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="../../user_avatar/forum.throneoflies.com/í42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>I wonder if an <strong>in-game survey</strong> would get more accurate results of what the community wants</p>
+</blockquote>
+</aside>
+<p>ToS tried that</p>
+<p>It did not go well</p>
+        </div>
+
+        <meta itemprop='headline' content='[DevBlog] Behind the Streamline Patch (Non-Balance)'>
+          <meta itemprop='keywords' content=''>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+      </div>
+      <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+            <meta itemprop='name' content='Imperium42®, LLC'>
+              <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+                <meta itemprop='url' content='https://forum.throneoflies.com/uploads/default/original/2X/a/a6d2069828ee3a0ac528fd2eaf6a64650f932d2f.png'>
+              </div>
+          </div>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/Firekitten.html'><span itemprop='name'>Firekitten</span></a>
+            
+          </span>
+
+          <link itemprop="mainEntityOfPage" href="74595.html">
+
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2018-12-28T02:07:06Z' class='post-time'>
+                December 28, 2018,  2:07am
+              </time>
+              <meta itemprop='dateModified' content='2018-12-28T02:07:06Z'>
+          <span itemprop='position'>#42</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>What happened</p>
+        </div>
+
+        <meta itemprop='headline' content='[DevBlog] Behind the Streamline Patch (Non-Balance)'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+      </div>
+      <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+            <meta itemprop='name' content='Imperium42®, LLC'>
+              <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+                <meta itemprop='url' content='https://forum.throneoflies.com/uploads/default/original/2X/a/a6d2069828ee3a0ac528fd2eaf6a64650f932d2f.png'>
+              </div>
+          </div>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/orangeandblack5.html'><span itemprop='name'>orangeandblack5</span></a>
+            
+          </span>
+
+          <link itemprop="mainEntityOfPage" href="74595.html">
+
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2018-12-28T02:35:53Z' class='post-time'>
+                December 28, 2018,  2:35am
+              </time>
+              <meta itemprop='dateModified' content='2018-12-28T02:35:53Z'>
+          <span itemprop='position'>#43</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Somewhere like 80% of people voted to keep the Spy the same and the community then exploded because vets really really hate spy but casual players just voted yes out of what I can only call ignorance</p>
+<p>To rectify this the devs had to change Spy anyways and now nobody is happy</p>
+        </div>
+
+        <meta itemprop='headline' content='[DevBlog] Behind the Streamline Patch (Non-Balance)'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="2" />
+           <span class='post-likes'>2 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+      </div>
+      <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+            <meta itemprop='name' content='Imperium42®, LLC'>
+              <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+                <meta itemprop='url' content='https://forum.throneoflies.com/uploads/default/original/2X/a/a6d2069828ee3a0ac528fd2eaf6a64650f932d2f.png'>
+              </div>
+          </div>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/Pug.html'><span itemprop='name'>Pug</span></a>
+            
+          </span>
+
+          <link itemprop="mainEntityOfPage" href="74595.html">
+
+
+          <span class="crawler-post-infos">
+              <meta itemprop='datePublished' content='2018-12-28T03:52:40Z'>
+              <time itemprop='dateModified' datetime='2018-12-28T03:53:54Z' class='post-time'>
+                December 28, 2018,  3:53am
+              </time>
+          <span itemprop='position'>#44</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <aside class="quote group-Admin" data-username="í42-Xblade" data-post="15" data-topic="74595">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="../../user_avatar/forum.throneoflies.com/í42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>I wonder if an <strong>in-game survey</strong> would get more accurate results of what the community wants. Maybe only show it if you played xx hours to prevent trolls or random clicks.</p>
+</blockquote>
+</aside>
+<p>OSRS does this if 75% of players agree. The player must have played for a specific amount of hours there as well and have a specific skill level (and be a member but the two later ones cannot and shouldn’t apply to tol)<br>
+I’d also suggest if a player has had a warning recently. They should wait 1-2 days but a ban should have to wait 1-2 weeks after their ban before voting on a poll.</p>
+<p>I think it’s a great idea to get everyone. Especially if you just do it</p>
+<p>*<em>Also DON’T make anyone have more priority. It’ll just piss off the people in the community. Devs, Mods, Judges, Guides, Kickstarter Backers and Patreon Supporters should not have an extra say. Everyone should be equal like communism for this system or votes will unfairly pass even if the majority doesn’t want it.</em></p>
+<p>Also I’d suggest doing a poll for every single change. Even new events or skins. Even if you think they’ll pass anyway.</p>
+<details>
+<summary>
+Loser talks about one specific event that should be handled extremely carefully</summary>
+<p><strong>Please do not assume from this passage that I dislike the idea of this event entirely and don’t call me the H word and ban me. Yes I’m an extremely controversial member in the community (around orangeandblack level) but I’m just doing this so you can learn from previous mistakes from other devs.</strong></p>
+<p>There’s one specific event that I’ve seen cause controversy within games and other things so I’d possibly say poll that one before doing it if you ever want to.<br>
+I mean, you dont really have those type of people playing from what I’ve seen but if that event ever does happen without the community support. The mods probably wont have fun while banning these said people.</p>
+<p>Many of the mods would support this as I can see already since some of them are part of it and inclusive and I can only tell that two of the devs are there too.</p>
+<p>Hell even 3 of the classes have been confirmed to fit into this group. Prince, Alch and Merc.</p>
+<p>I dont care if this event is added in personally. It’s not really one for me and I won’t be mad if it passes.<br>
+I’ll just probably look at it and say. “Oh cool.”</p>
+<p>Just from seeing OSRS and the SCP wiki’s controversy with this specific event.<br>
+Even Overwatch’s first Christmas comic with one specific reveal.</p>
+<p>I’m only wanting to warn you.<br>
+<em>also Russia might hate your game even more</em></p>
+<p>I’m not against any LGBT people (hell I have friends in that group). I’m just warning about how this event is a controversial addition and might paint you in a bad light if you handle it the wrong way.</p>
+</details>
+        </div>
+
+        <meta itemprop='headline' content='[DevBlog] Behind the Streamline Patch (Non-Balance)'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+      </div>
+      <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+            <meta itemprop='name' content='Imperium42®, LLC'>
+              <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+                <meta itemprop='url' content='https://forum.throneoflies.com/uploads/default/original/2X/a/a6d2069828ee3a0ac528fd2eaf6a64650f932d2f.png'>
+              </div>
+          </div>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/í42-Xblade.html'><span itemprop='name'>í42-Xblade</span></a>
+            
+          </span>
+
+          <link itemprop="mainEntityOfPage" href="74595.html">
+
+
+          <span class="crawler-post-infos">
+              <meta itemprop='datePublished' content='2018-12-28T13:57:02Z'>
+              <time itemprop='dateModified' datetime='2019-01-01T13:01:33Z' class='post-time'>
+                January 1, 2019,  1:01pm
+              </time>
+          <span itemprop='position'>#45</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Oh, I wouldn’t show the survey results. It would solely be feedback for the devs, not players. Now people wonder why we don’t show survey results, this is why <img src="../../images/emoji/twitter/stuck_out_tongue.png!v=9" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"> sort of like this patch, there are way more considerations than just player feedback that goes into changes. Not everyone can see that – and those that can’t get really pissed and <em>“voice” their opinion louder than others</em>, so to say.</p>
+<p>Really, the only balance priorities… goes to the balance dev, who probably gives priority to me + Ellie’s feedback, but we don’t really get in the way (I didn’t get in the way of Ellie’s balancing over the past 2 years, either (maybe only at the beginning), and I like the direction we’ve gone in – while there will always be those that disagree). We consider both new and veteran player feedback.</p>
+<p>The fact is, the level of complexity was not this high during launch, and we did have a certain level of consistency. It was already pretty intuitive, without any official system. Over time, there just became a big heap of garbage “leftovers” that was never meant to be, sometimes mistaken to be done on purpose as if we’re trying to add a new layer of complexity (we were not).</p>
+<p>This is also why <a class="hashtag" href="../../c/feedback/12.html">#<span>feedback</span></a> in Discord defaults to only a thumbs UP. We’re interested how many people are INTERESTED, not “not interested”. It’s often the same group of people that mass votes down, but varieties of people that upvote. Sort of like Steam reviews: People only upvote if they REALLY WANT TO. People will downvote if they get a 1 minute mute or merely disagreed with their idea ;p</p>
+<p>As for balance, every single balance patch is subjective. Even for AAA games that will change OP mechanics by 0.1% get super flamed by people. It’s been this way since the dawn of this game. There will always be more patches. And there will always be more patches that you’ll both love and hate. As devs, we just have to find the best balance, do what we think is best for everyone, and observe. We simply do the best we can, and we’re indie. The weight of feedback is strong.</p>
+<p>This is why we’re so strict about the way feedback is <em>delivered</em> (not that it’s good or bad, just simply <strong>constructive and civil</strong>): Ellie was already burned out. We don’t want to burn out Armae: She’s the last we got lol. This is why she hasn’t said anything yet, I honestly didn’t ask her to write a blog yet, as I know she’ll do it when she’s comfortable. I’m not going to force her, either, because she may lose her passion if I did that. Give her some time ;p No matter what she says, <strong>the patch is it what it is and there will be improvements.</strong></p>
+        </div>
+
+        <meta itemprop='headline' content='[DevBlog] Behind the Streamline Patch (Non-Balance)'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="4" />
+           <span class='post-likes'>4 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+      </div>
+      <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+            <meta itemprop='name' content='Imperium42®, LLC'>
+              <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+                <meta itemprop='url' content='https://forum.throneoflies.com/uploads/default/original/2X/a/a6d2069828ee3a0ac528fd2eaf6a64650f932d2f.png'>
+              </div>
+          </div>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/Shrimpy.html'><span itemprop='name'>Shrimpy</span></a>
+            
+          </span>
+
+          <link itemprop="mainEntityOfPage" href="74595.html">
+
+
+          <span class="crawler-post-infos">
+              <meta itemprop='datePublished' content='2018-12-28T14:13:31Z'>
+              <time itemprop='dateModified' datetime='2018-12-28T14:15:16Z' class='post-time'>
+                December 28, 2018,  2:15pm
+              </time>
+          <span itemprop='position'>#46</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>I strongly oppose giving Hunter Retribution back.  Especially with the proposed change of allowing him to arrow his desired target, he would be literally a Jester.</p>
+<blockquote>
+<p>To prevent Distract from being unfun I allowed the blackmailed player to talk to their blackmailer.</p>
+</blockquote>
+<p>This is a fantastic idea, I support it 100%.  Also, there’s actually potential for practical utility here.  You can often negotiate with evils especially if the Neutral Killer is still alive.</p>
+<blockquote>
+<p>Icy Touch(2 souls): Consume 2 souls to Blackmail, Distract, and Bewilder your target for the rest of the day.</p>
+</blockquote>
+<p>I support this 100%.</p>
+<blockquote>
+<ul>
+<li>Great change. Though why are you willing to merge these yet keep Sheriff and Paladin separate? They have the exact same problem.</li>
+</ul>
+</blockquote>
+<p>I would also like to see Sheriff and Paladin merged, or at least able to spawn regardless of whether it were Unseen or Cult game.</p>
+<blockquote>
+<p>Can’t Touch This nerf</p>
+</blockquote>
+<p>I wish Mastermind would simply be unique (no new one) and permanently unsuspicious.  Like in Town of Salem.  It’s simple, and involves no artificial time limit and complication like “starting Assassin will become Mastermind but not new Assassin,” or “Mastermind is unsuspicious until Night 4 and the Assassin will become Mastermind if the Mastermind dies before then.”</p>
+        </div>
+
+        <meta itemprop='headline' content='[DevBlog] Behind the Streamline Patch (Non-Balance)'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="1" />
+           <span class='post-likes'>1 Like</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="3" />
+          </div>
+
+      </div>
+      <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+            <meta itemprop='name' content='Imperium42®, LLC'>
+              <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+                <meta itemprop='url' content='https://forum.throneoflies.com/uploads/default/original/2X/a/a6d2069828ee3a0ac528fd2eaf6a64650f932d2f.png'>
+              </div>
+          </div>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/Icibalus.html'><span itemprop='name'>Icibalus</span></a>
+            
+          </span>
+
+          <link itemprop="mainEntityOfPage" href="74595.html">
+
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2018-12-28T17:12:10Z' class='post-time'>
+                December 28, 2018,  5:12pm
+              </time>
+              <meta itemprop='dateModified' content='2018-12-28T17:12:10Z'>
+          <span itemprop='position'>#47</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>I disagree on this point, since what made Jester kills bad was that they were arbitrary due to being on a kingmaker, and generally failed at their attempt to harm village for actually playing the game and lynching peo-</p>
+<p>oh sorry i’m going on a Jester/Fool rant again</p>
+        </div>
+
+        <meta itemprop='headline' content='[DevBlog] Behind the Streamline Patch (Non-Balance)'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+      </div>
+      <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+            <meta itemprop='name' content='Imperium42®, LLC'>
+              <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+                <meta itemprop='url' content='https://forum.throneoflies.com/uploads/default/original/2X/a/a6d2069828ee3a0ac528fd2eaf6a64650f932d2f.png'>
+              </div>
+          </div>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/Icibalus.html'><span itemprop='name'>Icibalus</span></a>
+            
+          </span>
+
+          <link itemprop="mainEntityOfPage" href="74595.html">
+
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2018-12-28T17:13:59Z' class='post-time'>
+                December 28, 2018,  5:13pm
+              </time>
+              <meta itemprop='dateModified' content='2018-12-28T17:13:59Z'>
+          <span itemprop='position'>#48</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>I disagree with the Sheriff and Paladin merge simply because if you merge them then the complaints about the Unseen and Cult being the same will be tripled and the game will feel more same-y because of it</p>
+        </div>
+
+        <meta itemprop='headline' content='[DevBlog] Behind the Streamline Patch (Non-Balance)'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+      </div>
+      <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+            <meta itemprop='name' content='Imperium42®, LLC'>
+              <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+                <meta itemprop='url' content='https://forum.throneoflies.com/uploads/default/original/2X/a/a6d2069828ee3a0ac528fd2eaf6a64650f932d2f.png'>
+              </div>
+          </div>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/orangeandblack5.html'><span itemprop='name'>orangeandblack5</span></a>
+            
+          </span>
+
+          <link itemprop="mainEntityOfPage" href="74595.html">
+
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2018-12-28T17:28:44Z' class='post-time'>
+                December 28, 2018,  5:28pm
+              </time>
+              <meta itemprop='dateModified' content='2018-12-28T17:28:44Z'>
+          <span itemprop='position'>#49</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>And that’s why I’m still a fan of making one hardcounter unconvertible even though that’s way harder to balance</p>
+        </div>
+
+        <meta itemprop='headline' content='[DevBlog] Behind the Streamline Patch (Non-Balance)'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+      </div>
+      <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+            <meta itemprop='name' content='Imperium42®, LLC'>
+              <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+                <meta itemprop='url' content='https://forum.throneoflies.com/uploads/default/original/2X/a/a6d2069828ee3a0ac528fd2eaf6a64650f932d2f.png'>
+              </div>
+          </div>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/NuclearBurrito.html'><span itemprop='name'>NuclearBurrito</span></a>
+            
+          </span>
+
+          <link itemprop="mainEntityOfPage" href="74595.html">
+
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2018-12-28T18:17:08Z' class='post-time'>
+                December 28, 2018,  6:17pm
+              </time>
+              <meta itemprop='dateModified' content='2018-12-28T18:17:08Z'>
+          <span itemprop='position'>#50</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Actually ToS has the same replacement system as the Unseen</p>
+<p>Spacifically a specific generic mafia (mafioso) can promote and not any other mafia members</p>
+<p>the starting mafioso is the equivalent to the starting assassin and acts identical in this context</p>
+        </div>
+
+        <meta itemprop='headline' content='[DevBlog] Behind the Streamline Patch (Non-Balance)'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="1" />
+           <span class='post-likes'>1 Like</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+      </div>
+      <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+            <meta itemprop='name' content='Imperium42®, LLC'>
+              <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+                <meta itemprop='url' content='https://forum.throneoflies.com/uploads/default/original/2X/a/a6d2069828ee3a0ac528fd2eaf6a64650f932d2f.png'>
+              </div>
+          </div>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/RHCube.html'><span itemprop='name'>RHCube</span></a>
+            
+          </span>
+
+          <link itemprop="mainEntityOfPage" href="74595.html">
+
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2018-12-28T20:34:00Z' class='post-time'>
+                December 28, 2018,  8:34pm
+              </time>
+              <meta itemprop='dateModified' content='2018-12-28T20:34:00Z'>
+          <span itemprop='position'>#51</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>That could work, but it would leave the prince with no counterplay.</p>
+<aside class="quote no-group" data-username="NuclearBurrito" data-post="38" data-topic="74595" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="../../user_avatar/forum.throneoflies.com/nuclearburrito/40/4723_2.png" class="avatar"> NuclearBurrito:</div>
+<blockquote>
+<p>(also tbh just make jail an AOE occupy like the other similar effects)</p>
+</blockquote>
+</aside>
+<p>Agreed.  That’s mainly why I disliked the prevention overhaul.  The point of adding more prevention in the first place was to not confirm jailed targets.</p>
+<aside class="quote no-group" data-username="Shrimpy" data-post="46" data-topic="74595">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="../../user_avatar/forum.throneoflies.com/shrimpy/40/15828_2.png" class="avatar"> Shrimpy:</div>
+<blockquote>
+<p>I strongly oppose giving Hunter Retribution back. Especially with the proposed change of allowing him to arrow his desired target, he would be literally a Jester.</p>
+</blockquote>
+</aside>
+<p>And what’s wrong with that?  Trading a hunter for MM is a great trade.  Plus it allows the hunter to still act aggressively even after he runs out of bears.</p>
+<aside class="quote no-group" data-username="Icibalus" data-post="48" data-topic="74595">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="../../user_avatar/forum.throneoflies.com/icibalus/40/31215_2.png" class="avatar"> Icibalus:</div>
+<blockquote>
+<p>I disagree with the Sheriff and Paladin merge simply because if you merge them then the complaints about the Unseen and Cult being the same will be tripled and the game will feel more same-y because of it</p>
+</blockquote>
+</aside>
+<p>That problem lies with the factions themselves though, not the cops.  The cops have their own issues(outing the opposing faction instantly, only being useful while the enemy faction is still alive, and smite is overpowered).</p>
+        </div>
+
+        <meta itemprop='headline' content='[DevBlog] Behind the Streamline Patch (Non-Balance)'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+      </div>
+      <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+            <meta itemprop='name' content='Imperium42®, LLC'>
+              <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+                <meta itemprop='url' content='https://forum.throneoflies.com/uploads/default/original/2X/a/a6d2069828ee3a0ac528fd2eaf6a64650f932d2f.png'>
+              </div>
+          </div>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/Reaper.html'><span itemprop='name'>Reaper</span></a>
+            
+          </span>
+
+          <link itemprop="mainEntityOfPage" href="74595.html">
+
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2018-12-29T09:12:44Z' class='post-time'>
+                December 29, 2018,  9:12am
+              </time>
+              <meta itemprop='dateModified' content='2018-12-29T09:12:44Z'>
+          <span itemprop='position'>#52</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <aside class="quote group-Admin" data-username="í42-Xblade" data-post="15" data-topic="74595">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="../../user_avatar/forum.throneoflies.com/í42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>This is a post for Armae to answer as it deals with balance (as OP is titled <strong>“Non-Balance”</strong> ). I don’t ask many questions when it comes to this since it’s not really my department, to be transparent. I’ll pass this along to encourage a devblog.</p>
+</blockquote>
+</aside>
+<p>That would be appreciated. Waiting for it.</p>
+        </div>
+
+        <meta itemprop='headline' content='[DevBlog] Behind the Streamline Patch (Non-Balance)'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="2" />
+           <span class='post-likes'>2 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+      </div>
+      <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+            <meta itemprop='name' content='Imperium42®, LLC'>
+              <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+                <meta itemprop='url' content='https://forum.throneoflies.com/uploads/default/original/2X/a/a6d2069828ee3a0ac528fd2eaf6a64650f932d2f.png'>
+              </div>
+          </div>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/í42-Xblade.html'><span itemprop='name'>í42-Xblade</span></a>
+            
+          </span>
+
+          <link itemprop="mainEntityOfPage" href="74595.html">
+
+
+          <span class="crawler-post-infos">
+              <meta itemprop='datePublished' content='2018-12-29T12:59:51Z'>
+              <time itemprop='dateModified' datetime='2018-12-29T13:00:31Z' class='post-time'>
+                December 29, 2018,  1:00pm
+              </time>
+          <span itemprop='position'>#53</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>I’m going to lock this thread since it’s heavily derailed, talking about balance when <strong>Non-Balance</strong> is in the title <img src="../../images/emoji/twitter/stuck_out_tongue.png!v=9" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"> Please make a new thread in <span class="hashtag">#lore</span> to discuss balance~</p>
+<p>(For feedback relevant to OP, thanks folks!)</p>
+        </div>
+
+        <meta itemprop='headline' content='[DevBlog] Behind the Streamline Patch (Non-Balance)'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="2" />
+           <span class='post-likes'>2 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+      </div>
+      <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+            <meta itemprop='name' content='Imperium42®, LLC'>
+              <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+                <meta itemprop='url' content='https://forum.throneoflies.com/uploads/default/original/2X/a/a6d2069828ee3a0ac528fd2eaf6a64650f932d2f.png'>
+              </div>
+          </div>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/í42-Xblade.html'><span itemprop='name'>í42-Xblade</span></a>
+            
+              closed 
+          </span>
+
+          <link itemprop="mainEntityOfPage" href="74595.html">
+
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2018-12-29T13:00:36Z' class='post-time'>
+                December 29, 2018,  1:00pm
+              </time>
+              <meta itemprop='dateModified' content='2018-12-29T13:00:36Z'>
+          <span itemprop='position'>#54</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          
+        </div>
+
+        <meta itemprop='headline' content='[DevBlog] Behind the Streamline Patch (Non-Balance)'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+      </div>
+
+    <div role='navigation' itemscope itemtype='http://schema.org/SiteNavigationElement' class="topic-body crawler-post">
+        <span itemprop='name'><a rel="prev" itemprop="url" href="74595!page=2.html">← previous page</a></span>
+    </div>
+
+
+
+
+
+    </div>
+    <footer class="container wrap">
+      <nav class='crawler-nav'>
+        <ul>
+        <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+          <span itemprop='name'>
+            <a href='../../index.html' itemprop="url">Home </a>
+          </span>
+        </li>
+        <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+          <span itemprop='name'>
+            <a href='../../categories.html' itemprop="url">Categories </a>
+          </span>
+        </li>
+        <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+          <span itemprop='name'>
+            <a href='../../guidelines.html' itemprop="url">FAQ/Guidelines </a>
+          </span>
+        </li>
+        <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+          <span itemprop='name'>
+            <a href='../../tos.html' itemprop="url">Terms of Service </a>
+          </span>
+        </li>
+        <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+          <span itemprop='name'>
+            <a href='../../privacy.html' itemprop="url">Privacy Policy </a>
+          </span>
+        </li>
+        </ul>
+      </nav>
+      <p class='powered-by-link'>Powered by <a href="https://www.discourse.org">Discourse</a>, best viewed with JavaScript enabled</p>
+    </footer>
+    
+    
+  </body>
+  
+</html>

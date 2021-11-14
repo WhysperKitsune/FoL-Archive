@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Patch v4.0.0a: Throne goes FREE (F2P)!</title>
+    <link>https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089</link>
+    <description># Throne Goes Free-to-Play Dec 18th @ 6pm EST! (LIVE)
+
+![](https://i.imgur.com/meEjmFD.png)
+
+https://www.youtube.com/watch?v=KuyrkHj7Tjg&amp;vq=1080
+
+https://forum.throneoflies.com/t/throne-goes-free-to-play-dec-18th/85006/
+
+* [color=red]**Patch Status?**[/color] LIVE (Dec 21)!
+* [color=red]**When is F2P (UPDATED)?**[/color] LIVE (Dec 23 @ 6pm EST)!
+* [color=red]**Veterans?**[/color] Vets claim an exclusive, *crystal-flaired* &quot;Veteran&quot; title + Veteran avatar~
+* [color=red]**Queue Times?**[/color] Expected to be seriously low (even during offpeak hours)! :tada: 
+
+## [color=red]Gold (gp)[/color]
+
+To better fit the f2p model, we have adjusted goldflow to be more progressive:
+* MVP gold now grants 200 gp
+* MVP silver now grants 125 gp
+* MVP bronze now grants 50 gp
+* Public game wins now grant 70 gp
+* Public game losses now grant 35 gp
+* Private game wins now grant 30 gp
+* Private game losses now grant 15 gp
+* Gold for win/loss no longer decreases with less starting players
+* Double gp weekends have been pending-shifted to double gp Thursdays to better support offpeak hours -- for launch weekend, we&#39;ll keep double gp *weekend* around for one more go :)
+
+## [color=red]Court Fees[/color]
+
+Introducing *Court Fees*:
+
+[color=cyan]**Why court fees?**[/color] 
+
+* Instead of bloating our store with finite items, jacking up the prices 10x, and having updates concentrate only on the *store* (like many other f2p games do), this route allows us to concentrate on the **game** like we did while premium. 
+
+* This way, we don&#39;t have to shove buying gold in your face! We calculated it: **It&#39;s pretty much impossible to go broke** (you even get gold when you lose; we also won&#39;t allow players to buy items if it&#39;ll mean they&#39;ll go below 50gp).
+
+* To further aid this, we&#39;ll continuously add more promo/progression goodies to help get more bonuses (eg, login promos and achievements are planned). Isn&#39;t it nice that we can actually concentrate on login promos / achievements / progression **instead of just store items**? This is why court fees!
+
+**Mechanics:**
+
+* When you start a public game and fully enter the game without being disconnected, there will be a 50gp &quot;court fee&quot; consumed.
+
+* **Introducing Court Ticket:** If you go &lt;50gp and try to play, we&#39;ll give you a free ticket to play a public (or semi-private) match. For now, you have unlimited: Later, we&#39;ll port them to login bonuses (that can stack up to a maximum — meaning, you can have free entries even if you *can* afford it).
+  * ![image|349x289](upload://1iKwbbExnDnS2ETomwOotIHANrq.png) 
+
+* Court fees (and game info) is now displayed when you hover over the start/create buttons.
+
+* Public court fee public reserves are checked *before* you queue up or create a room.
+
+* Once you get in game, you will receive a toast (bottom-right popup) notifying court fee withdrawn.
+
+* Private Games
+  * Semi Private (1~15p) court fee = 50 gp (same as public; merged into public queue)
+  * 100% Private (16p) court fee = 500gp (Host pays; all guests play FREE)
+    * **^ Why?** 100% private means -16 players in the queue, to encourage public queues. However, this also can lead to cool things like a gold-rich player treating the community to a hosted game with 0 court fees (eg, drop a Discord link invite). We can do something cool with this later.
+
+  * If a private room &quot;Queues as Group&quot; (now called &quot;Merge into Public&quot;), the 50gp court fee will be consumed as if queued publicly
+
+  * Yes, if you have 15 (out of 16), you may still merge into public for normal, public court fees.
+
+  * Guests of the private room are **free**, courtesy of the host, as long as they don&#39;t &quot;Queue as Group&quot; (where it&#39;ll revert back to public court fees).
+
+  * The host will be notified of the private court fee when they click &quot;Start&quot;.
+  
+  * If you host a private game, but you leave or d/c, the new host will be prompted about the 500gp court fee (in case it&#39;s unexpected) if they click the *Start Privately* button.
+
+* Leaving a room will not charge you court fees unless you&#39;re already in-game (Day 1+). You are not actually charged until you&#39;re confirmed to be in the game without issues.
+
+* You cannot purchase a new item without having a leftover 50gp public court fee reserve (we&#39;ll make sure you don&#39;t &quot;oops&quot;). **It&#39;s going to be almost impossible *to actually go broke*.**
+
+## [color=red]Customization Shop[/color]
+
+* [color=red]**New *Perpetual* (Available outside *Snowcrest*), Winter-Themed Avatars:**[/color]
+  1. Snow King
+  2. Snowine
+  3. Snow God Mithras
+
+* [color=red]**New *Perpetual* (Available outside *Snowcrest*), Winter-Themed Titles:**[/color]
+  1. Icecrafter
+  2. Snowmancer
+  3. Frosty One
+
+* *Rune of Focus* weapon temporarily disabled due to execution animation issues.
+
+* *Trueshot Crossbow* weapon temporarily disabled due to execution animation issues and possibly freezing the game.
+
+* Customization shop prices been adjusted to better match the new f2p model (more up, some down).
+
+* We have added 2 new gold buying options:
+	* **Tier 5:** 100,000gp for $49.99
+	* **Tier 6:** 250,000gp for $99.99
+
+* Refreshed the &quot;buy gold&quot; art to look way more satisfying since we&#39;re now *solely supported* by this 😂
+
+## [color=red]Balance[/color]
+
+1. **Remove Telepathy from Mystic, Apostle and Illusionist**
+    * Ever since whisper meta&#39;s stopped, this ability has lost it&#39;s purpose, and is currently used similarly to the old *Noble Twin* ability, which was removed because it had no actual purpose other than day-confirming the noble.
+
+2. **Hunters Mark: Cancel on redirection**
+    * This brings *Hunters Mark* abil in line with *Cold Steel* - all while making it less frustrating to use in certain situations.
+
+3. **Give Apostle and Illusionist 2 charges of &quot;Trollbox&quot; with a new, more fitting name &quot;Sinister Echoes&quot;**
+    * This ability fits thematically well into the classes, being a *social* ability and accomplishing similar things to the current *Telepathy* abil:
+  * ![](https://i.imgur.com/DWSdtyT.png)
+  * ![](https://i.imgur.com/VS2Fb5p.png)
+
+4. **Increase charges of &quot;Expose&quot; on Seeker to 2**
+    * This change aims at making *starting* Seeker be more in line with other *starting* Cultists.
+
+5. **Allow Enforcer to target himself with &quot;Protection&quot;. Also, allow Sellsword to target herself with &quot;Stonewall&quot;**
+    * &quot;This will help them protect themselves from being found as evil as well as reduce the chance of players being able to confirm anyone as unable to be either of those classes.
+    * This will also allow players to more-easily fake offensive classes - all while reducing the overall confirmability of those.
+
+6. **Reduce charges of &quot;Ritualist Brotherhood&quot; to 2.**
+    * Ritualist is currently the strongest Cult convert; this change is aimed at *reducing* it&#39;s power while making Paladin *less frustrating* to play.
+
+7. **Allow Invoker to target Cult members as second target with &quot;String of Mithras&quot;**
+    * Allowing the Invoker to redirect into Cult members allows him to potentially redirect protectives into fellow cult members, offering some utility to the abil.
+
+8. **Don&#39;t allow non-Possessor force votes to be used, unless there can currently be a trial.**
+    * Currently, Noble&#39;s *force vote* primarily gets used to confirm yourself as the Noble after the trial happened, which goes against the spirit of the ability.
+
+9. **Scorned Mark now persists until a new target is marked at night.**
+    * Getting occupied as Scorned was extremely frustrating. This change allows for the Scorned to still be able to push their win condition, unless they were both occupied and their previous target was killed by other means.
+
+10. **Sheriff &quot;Scout&quot; will no longer be useable Day 1**
+    * Being found as visited Night 1 has very little counterplay and can swing the game heavily; not just due to conversions, but also because this commonly got the *Neutral Killer* executed early. This issue became even bigger with multiple Sheriffs in the game.
+
+## [color=red]Class Fixes[/color]
+
+* Raised *Bear Traps* abil priority to allow *Intensify* abil to work with it.
+* *Puppet Strings* abil feedback now shows the correct target **1**&#39;s name (instead of target 2).
+* Removed *Intensify* mention for occupy immune feedback.
+
+## [color=red]Other Fixes/Improvements[/color]
+* Fixed MVP bonus gp
+
+* Set server&#39;s in-game player timeout timer (TTL) from 0 &gt;&gt; to 5 seconds.
+    * This will hopefully allow people to experience less disconnects, with the timeframe short enough to hopefully not experience desyncs. This is experimental (but tested in test realm).
+
+* In lobby, hovering over any of the center play buttons to play will now reveal the &quot;classic mode&quot; info (formerly only if you hovered over the mode banner) and now shows the &quot;court fee&quot; amounts
+    
+ * Toggling *show FPS* in-game will now instantly toggle when applied (instead of next game)
+
+## [color=red]Fluff[/color]
+
+* Pending new key art/logo by Adiart (top banner preview) - like it? :)
+* Lobby buttons at the bottom-right are now less bloaty.
+* Tutorial NPCs now have an assortment of weapons.
+* More-consistent use of &quot;Xgp&quot; vs &quot;X gp&quot;
+* More consistent customization shop layout.
+* Customization shop now orders from owned &gt;&gt; price &gt;&gt; alphabetical. *Filters coming soon!*
+* Tutorial can no longer be skipped.
+* Win7 users will no longer see video previews for weps and emotes (Win7 is missing the modern Windows media packs and shows a white screen).
+
+## [color=red]Pre-Registrant Reward?[/color]
+
+If you visited our promo link *before* we went F2P and registered your email (that matches your in-game email), you&#39;ll be marked as a pre-registrant: Shortly after the dust settles, we&#39;ll reward ya as promised! Give us a bit to code this :hourglass: 
+____________________
+
+We thank our new partners to contributing to this magic :) Missed the intro? See Discord #news
+
+We know both veterans and new players, alike, have asked us repeatedly to go F2P - This has been a ton of work over an incredibly short period of time. We hope you enjoy it!
+
+--Xblade @ https://discord.gg/tol</description>
+    
+    <lastBuildDate>Fri, 25 Dec 2020 03:16:27 +0000</lastBuildDate>
+    <category>Official Announcements</category>
+    <atom:link href="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Patch v4.0.0a: Throne goes FREE (F2P)!</title>
+        <dc:creator><![CDATA[Planterror]]></dc:creator>
+        <description><![CDATA[
+            <p>Anonymously. Whispering and just outing yourself means you are outed to everyone, which leaves you open to attacks when someone more important like Prince is being guarded.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/65">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/65</link>
+        <pubDate>Fri, 25 Dec 2020 03:16:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85089-65</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089.rss">Patch v4.0.0a: Throne goes FREE (F2P)!</source>
+      </item>
+      <item>
+        <title>Patch v4.0.0a: Throne goes FREE (F2P)!</title>
+        <dc:creator><![CDATA[SweetyCake]]></dc:creator>
+        <description><![CDATA[
+            <p>Hi Xblade, can we have a conversation on here or Discord?</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/64">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/64</link>
+        <pubDate>Thu, 24 Dec 2020 11:44:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85089-64</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089.rss">Patch v4.0.0a: Throne goes FREE (F2P)!</source>
+      </item>
+      <item>
+        <title>Patch v4.0.0a: Throne goes FREE (F2P)!</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <h2>F2P Imminent</h2>
+<p>The price is now FREE!</p>
+<p>          <iframe src="https://store.steampowered.com/widget/595280" frameborder="0" width="100%" height="190" seamless="seamless" sandbox="allow-same-origin allow-scripts allow-forms allow-popups allow-popups-to-escape-sandbox allow-presentation"></iframe>
+</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/63">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/63</link>
+        <pubDate>Tue, 22 Dec 2020 23:06:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85089-63</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089.rss">Patch v4.0.0a: Throne goes FREE (F2P)!</source>
+      </item>
+      <item>
+        <title>Patch v4.0.0a: Throne goes FREE (F2P)!</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <h2>v4.0.0b</h2>
+<ul>
+<li>Fixed Scorned - she can now win <img src="https://forum.throneoflies.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> Thanks <a class="mention" href="/u/stoneage">@Stoneage</a>
+</li>
+<li>Starter gp for new accounts raised from 500 gp &gt;&gt; to 1k gp.</li>
+</ul>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/62">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/62</link>
+        <pubDate>Tue, 22 Dec 2020 14:37:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85089-62</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089.rss">Patch v4.0.0a: Throne goes FREE (F2P)!</source>
+      </item>
+      <item>
+        <title>Patch v4.0.0a: Throne goes FREE (F2P)!</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <h2>New Relaunch Date Revealed</h2>
+<p>Tue, Dec 22 @ 6pm EST! Also introducing new trailer:</p>
+<div class="onebox lazyYT lazyYT-container" data-youtube-id="KuyrkHj7Tjg" data-youtube-title="Throne of Lies: Medieval Politics - Gameplay Trailer v4 (F2P Relaunch)" data-parameters="feature=oembed&amp;wmode=opaque">
+  <a href="https://www.youtube.com/watch?v=KuyrkHj7Tjg" target="_blank" rel="noopener">
+    <img class="ytp-thumbnail-image" src="https://i.ytimg.com/vi/KuyrkHj7Tjg/maxresdefault.jpg" title="Throne of Lies: Medieval Politics - Gameplay Trailer v4 (F2P Relaunch)" width="480" height="360">
+  </a>
+</div>
+
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/61">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/61</link>
+        <pubDate>Tue, 22 Dec 2020 06:16:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85089-61</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089.rss">Patch v4.0.0a: Throne goes FREE (F2P)!</source>
+      </item>
+      <item>
+        <title>Patch v4.0.0a: Throne goes FREE (F2P)!</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/58">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/58</link>
+        <pubDate>Sat, 19 Dec 2020 14:00:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85089-58</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089.rss">Patch v4.0.0a: Throne goes FREE (F2P)!</source>
+      </item>
+      <item>
+        <title>Patch v4.0.0a: Throne goes FREE (F2P)!</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>v4.0.0a live <img src="https://forum.throneoflies.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/57">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/57</link>
+        <pubDate>Sat, 19 Dec 2020 13:38:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85089-57</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089.rss">Patch v4.0.0a: Throne goes FREE (F2P)!</source>
+      </item>
+      <item>
+        <title>Patch v4.0.0a: Throne goes FREE (F2P)!</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>Added to OP:</p>
+<h1><font color="red">v4.0.0a Mini Patch</font></h1>
+<ul>
+<li>
+<p>Fixed black screen desync and sometimes being stuck in an empty Throne when you leave a live game or the tutorial; sometimes not allowing you to progress to the end scene; or anything to do with loading a new “scene” (was a Unity bug, gah! We downgraded back). THANK YOU TESTERS!! <img src="https://forum.throneoflies.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+</li>
+<li>
+<p>Fixed the visual tier 5 “buy gold” value: You get <strong>100k gp</strong> for this tier. Thx <code>that guy that made fun of the price tier math I can no longer find!</code></p>
+</li>
+<li>
+<p>Buying gold will no longer fail every <em>other</em> attempt (starting with 1st). Thx <code>Toilet</code></p>
+</li>
+<li>
+<p>The random “Weapons” text at the bottom-left of the lobby customization store page now says “*New store filters coming soon!” — way more exciting! Thx <code>beta testers</code></p>
+</li>
+<li>
+<p>There were 2 balance changes in the previous patch crossed out earlier that were inadvertently not included (for the # of charges tweaks); they have returned this mini patch. Thx <code>Dev Pnl</code></p>
+</li>
+<li>
+<p>Removed the class card conflicting mention of Scorned <em>marks</em> lasting for only 1 day (they now persist until marked again). Thx <code>Torino</code></p>
+</li>
+<li>
+<p><em>Sinister Echoes</em> abil now has more-interesting flavor text in feedback. Thx <code>GameShroomBoy</code></p>
+</li>
+<li>
+<p>Updated credits a bit (listen to the Hangman’s Dance theme song here! ♫). Thx <code>RedHed</code></p>
+</li>
+</ul>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/56">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/56</link>
+        <pubDate>Sat, 19 Dec 2020 13:04:42 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85089-56</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089.rss">Patch v4.0.0a: Throne goes FREE (F2P)!</source>
+      </item>
+      <item>
+        <title>Patch v4.0.0a: Throne goes FREE (F2P)!</title>
+        <dc:creator><![CDATA[RHCube]]></dc:creator>
+        <description><![CDATA[
+            <p>I guess I’ll just have to wait and see how it is in game.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/55">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/55</link>
+        <pubDate>Sat, 19 Dec 2020 02:56:42 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85089-55</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089.rss">Patch v4.0.0a: Throne goes FREE (F2P)!</source>
+      </item>
+      <item>
+        <title>Patch v4.0.0a: Throne goes FREE (F2P)!</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>[Delay]</strong> Hey folks, in order to provide the best gaming experience, we’re going to take down the servers for a full check of everything. ETA is 12~48 hours, hopefully less, but is currently just an estimate <img src="https://forum.throneoflies.com/images/emoji/twitter/+1.png?v=9" title=":+1:" class="emoji" alt=":+1:"></p>
+<p><img src="https://forum.throneoflies.com/images/emoji/twitter/bulb.png?v=9" title=":bulb:" class="emoji" alt=":bulb:"> We’re also going to still be marked as premium (rather than free) until we hotfix this bug.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/54">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/54</link>
+        <pubDate>Fri, 18 Dec 2020 22:48:33 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85089-54</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089.rss">Patch v4.0.0a: Throne goes FREE (F2P)!</source>
+      </item>
+      <item>
+        <title>Patch v4.0.0a: Throne goes FREE (F2P)!</title>
+        <dc:creator><![CDATA[Conduit]]></dc:creator>
+        <description><![CDATA[
+            <div class="spoiler">
+<p>the night ad was a joke</p>
+</div>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/53">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/53</link>
+        <pubDate>Fri, 18 Dec 2020 21:36:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85089-53</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089.rss">Patch v4.0.0a: Throne goes FREE (F2P)!</source>
+      </item>
+      <item>
+        <title>Patch v4.0.0a: Throne goes FREE (F2P)!</title>
+        <dc:creator><![CDATA[thepigeonnyc]]></dc:creator>
+        <description><![CDATA[
+            <p>True, true. I was thinking more post-game ads (think Among Us)</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/52">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/52</link>
+        <pubDate>Fri, 18 Dec 2020 21:26:28 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85089-52</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089.rss">Patch v4.0.0a: Throne goes FREE (F2P)!</source>
+      </item>
+      <item>
+        <title>Patch v4.0.0a: Throne goes FREE (F2P)!</title>
+        <dc:creator><![CDATA[Conduit]]></dc:creator>
+        <description><![CDATA[
+            <p>Also ads are mainly used for mobile f2p games</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/51">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/51</link>
+        <pubDate>Fri, 18 Dec 2020 21:25:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85089-51</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089.rss">Patch v4.0.0a: Throne goes FREE (F2P)!</source>
+      </item>
+      <item>
+        <title>Patch v4.0.0a: Throne goes FREE (F2P)!</title>
+        <dc:creator><![CDATA[Conduit]]></dc:creator>
+        <description><![CDATA[
+            <p><em>goes to ad during night</em> “huh i cant use my night action wtf!11!”</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/50">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/50</link>
+        <pubDate>Fri, 18 Dec 2020 21:24:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85089-50</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089.rss">Patch v4.0.0a: Throne goes FREE (F2P)!</source>
+      </item>
+      <item>
+        <title>Patch v4.0.0a: Throne goes FREE (F2P)!</title>
+        <dc:creator><![CDATA[thepigeonnyc]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="livejamie" data-post="48" data-topic="85089">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/livejamie/40/2088_2.png" class="avatar"> livejamie:</div>
+<blockquote>
+<p>The most successful F2P games (mostly MOBAs) monetize very well with badass cosmetics and seasonal content.</p>
+</blockquote>
+</aside>
+<p>Other extremely successful F2P games use ads (take Among Us, for example).</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/49">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/49</link>
+        <pubDate>Fri, 18 Dec 2020 21:10:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85089-49</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089.rss">Patch v4.0.0a: Throne goes FREE (F2P)!</source>
+      </item>
+      <item>
+        <title>Patch v4.0.0a: Throne goes FREE (F2P)!</title>
+        <dc:creator><![CDATA[livejamie]]></dc:creator>
+        <description><![CDATA[
+            <p>I would disagree that gating games with a currency is the only way to monetize the game.</p>
+<p>The most successful F2P games (mostly MOBAs) monetize very well with badass cosmetics and seasonal content.</p>
+<p>It’s been forever since character models and weapons were added. You could even extend the system to have certain skins for classes (Space Knight, Death Knight, Knight who says Ni, etc)</p>
+<p>It seems like such a natural fit for a game like this.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/48">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/48</link>
+        <pubDate>Fri, 18 Dec 2020 21:05:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85089-48</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089.rss">Patch v4.0.0a: Throne goes FREE (F2P)!</source>
+      </item>
+      <item>
+        <title>Patch v4.0.0a: Throne goes FREE (F2P)!</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p>But kat, we all know whispering is suspicious</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/47">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/47</link>
+        <pubDate>Fri, 18 Dec 2020 19:31:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85089-47</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089.rss">Patch v4.0.0a: Throne goes FREE (F2P)!</source>
+      </item>
+      <item>
+        <title>Patch v4.0.0a: Throne goes FREE (F2P)!</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Planterror" data-post="45" data-topic="85089">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/planterror/40/9678_2.png" class="avatar"> Planterror:</div>
+<blockquote>
+<p>As much as I am for this, there needs to be an alternative. I’ve always used telepathy for the intended purpose, outing information in links without outing the mystic. Now I am forced to link Prince or out myself as mystic (and we all know how much a mystic is guarded.)</p>
+</blockquote>
+</aside>
+<p>whispers have existed for years</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/46">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/46</link>
+        <pubDate>Fri, 18 Dec 2020 19:31:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85089-46</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089.rss">Patch v4.0.0a: Throne goes FREE (F2P)!</source>
+      </item>
+      <item>
+        <title>Patch v4.0.0a: Throne goes FREE (F2P)!</title>
+        <dc:creator><![CDATA[Planterror]]></dc:creator>
+        <description><![CDATA[
+            <p>Time for the montly Plant Reacts to updates.</p>
+<aside class="quote group-Admin" data-username="í42-Xblade" data-post="1" data-topic="85089">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p><strong>Introducing Court Ticket:</strong> If you go &lt;50gp and try to play, we’ll give you a free ticket to play a public (or semi-private) match. For now, you have unlimited: Later, we’ll port them to login bonuses (that can stack up to a maximum — meaning, you can have free entries even if you <em>can</em> afford it).</p>
+</blockquote>
+</aside>
+<p>I was originally worried about the court fee discouraging players from leaving games while dead. This is certainly another step to ensure leaving games gives GP, but I don’t think it’s enough at all.</p>
+<aside class="quote group-Admin" data-username="í42-Xblade" data-post="1" data-topic="85089">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>You cannot purchase a new item without having a leftover 50gp public court fee reserve (we’ll make sure you don’t “oops”). <strong>It’s going to be almost impossible <em>to actually go broke</em> .</strong></p>
+</blockquote>
+</aside>
+<p>Make this higher. At least 250GP. It’s still possible for someone to go under (ignoring the ticket) by losing a game right after they buy something.</p>
+<p><strong>Time for balance.</strong></p>
+<aside class="quote group-Admin" data-username="í42-Xblade" data-post="1" data-topic="85089">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>Remove Telepathy from Mystic, Apostle and Illusionist</p>
+</blockquote>
+</aside>
+<p>As much as I am for this, there needs to be an alternative. I’ve always used telepathy for the intended purpose, outing information in links without outing the mystic. Now I am forced to link Prince or out myself as mystic (and we all know how much a mystic is guarded.)</p>
+<aside class="quote group-Admin" data-username="í42-Xblade" data-post="1" data-topic="85089">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>Hunters Mark: Cancel on redirection</p>
+</blockquote>
+</aside>
+<p>Yes to this. No more making hunters suicide because of drunk.</p>
+<aside class="quote group-Admin quote-modified" data-username="í42-Xblade" data-post="1" data-topic="85089">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>Give Apostle and Illusionist 2 charges of “Trollbox” with a new, more fitting name “Sinister Echoes”</p>
+</blockquote>
+</aside>
+<p>Interesting. I will have to play with this and see if I like it or not. This could encourage more people to double speak more often though.</p>
+<aside class="quote group-Admin" data-username="í42-Xblade" data-post="1" data-topic="85089">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>Increase charges of “Expose” on Seeker to 2</p>
+</blockquote>
+</aside>
+<p>I don’t think this will do much to tip the balance but it helps.</p>
+<aside class="quote group-Admin quote-modified" data-username="í42-Xblade" data-post="1" data-topic="85089">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>Allow Enforcer to target himself with “Protection”. Also, allow Sellsword to target herself with “Stonewall”</p>
+</blockquote>
+</aside>
+<p>I disagree. Sellsword doesn’t need to survive to win, all he can do is prevent checkers from reaching him through this, killers still kill.</p>
+<aside class="quote group-Admin" data-username="í42-Xblade" data-post="1" data-topic="85089">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>Reduce charges of “Ritualist Brotherhood” to 2.</p>
+</blockquote>
+</aside>
+<p>I can get behind this.</p>
+<aside class="quote group-Admin quote-modified" data-username="í42-Xblade" data-post="1" data-topic="85089">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>Allow Invoker to target Cult members as second target with “String of Mithras”</p>
+</blockquote>
+</aside>
+<p>May open the door to throwing, but also opens the door to redirecting protectors to cult. I’m okay with.</p>
+<aside class="quote group-Admin" data-username="í42-Xblade" data-post="1" data-topic="85089">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>Don’t allow non-Possessor force votes to be used, unless there can currently be a trial.</p>
+</blockquote>
+</aside>
+<p>This is less effective the earlier the game is in. Nobles will be asked to confirm by forcing as soon as possible to avoid the penalty of force voting a BD to another BD.</p>
+<aside class="quote group-Admin" data-username="í42-Xblade" data-post="1" data-topic="85089">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>Scorned Mark now persists until a new target is marked at night.</p>
+</blockquote>
+</aside>
+<p>Good change.</p>
+<aside class="quote group-Admin" data-username="í42-Xblade" data-post="1" data-topic="85089">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>Sheriff “Scout” will no longer be useable Day 1</p>
+</blockquote>
+</aside>
+<p>Good change.</p>
+<aside class="quote group-Admin" data-username="í42-Xblade" data-post="1" data-topic="85089">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>Tutorial NPCs now have an assortment of weapons.</p>
+</blockquote>
+</aside>
+<p>This is objectively the best change, fight me.</p>
+<aside class="quote group-Admin" data-username="í42-Xblade" data-post="1" data-topic="85089">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>Tutorial can no longer be skipped.</p>
+</blockquote>
+</aside>
+<p>Please tell me that this only applies newcomers or similar… I used the Tutorial to create logs and death notes.</p>
+<aside class="quote group-Admin" data-username="í42-Xblade" data-post="1" data-topic="85089">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>Win7 users will no longer see video previews for weps and emotes (Win7 is missing the modern Windows media packs and shows a white screen)</p>
+</blockquote>
+</aside>
+<p>Is there not a way to apply this to tools like Proton/Wine? This bug also applies to them and preview hasn’t been disabled. Also, would this mean that there is a still image to preview or the button is removed entirely? Either way it’s a start, but needs some more polish.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/45">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/45</link>
+        <pubDate>Fri, 18 Dec 2020 19:27:33 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85089-45</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089.rss">Patch v4.0.0a: Throne goes FREE (F2P)!</source>
+      </item>
+      <item>
+        <title>Patch v4.0.0a: Throne goes FREE (F2P)!</title>
+        <dc:creator><![CDATA[ATNoName]]></dc:creator>
+        <description><![CDATA[
+            <p><small><small> shhhhh make them pay </small></small></p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/44">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/44</link>
+        <pubDate>Fri, 18 Dec 2020 16:58:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85089-44</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089.rss">Patch v4.0.0a: Throne goes FREE (F2P)!</source>
+      </item>
+      <item>
+        <title>Patch v4.0.0a: Throne goes FREE (F2P)!</title>
+        <dc:creator><![CDATA[thepigeonnyc]]></dc:creator>
+        <description><![CDATA[
+            <p>A detail often skipped by people, and needs to be added to the tutorial right away or newcomers will leave immediately, is that if you lose + vote three people MVP, you will break even.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/43">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/43</link>
+        <pubDate>Fri, 18 Dec 2020 16:57:28 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85089-43</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089.rss">Patch v4.0.0a: Throne goes FREE (F2P)!</source>
+      </item>
+      <item>
+        <title>Patch v4.0.0a: Throne goes FREE (F2P)!</title>
+        <dc:creator><![CDATA[Mew151]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote group-Admin" data-username="í42-Xblade" data-post="32" data-topic="85089">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>Trust me, it’d be way easier for me to just jack up the store prices and focus on store items instead of content (f2p model for numerous games) – but with court fees, there’s enough gold sink where we only have to make minor adjustments and still have patches focus on non-store. This is the “freemium-feels-premium” alternative.</p>
+</blockquote>
+</aside>
+<p>Would it though? You haven’t made new character models for goodness knows how long, has it been 2 years now? All that gets added is avatars and titles for this holiday season and last holiday season as well. I’m losing track of how long I’ve played the game but maybe it was when the Ice dress avatars were made? Forgive me for thinking this is the easy way out.</p>
+<p>I don’t think people would have a problem with cosmetic only loot box type thing rather than being punished for others gameplay ie. lose GP if someone on your team throws/is new or you get killed n1 and you dont want to hang around to vote in a Reaper 10 day game.</p>
+<p>And this “hey its free now” justification doesn’t really wash because the people here <em>did</em> pay for the game. Not saying no changes need to be made but the game is worse off then it was before the update and that doesn’t seem acceptable to me.</p>
+<p>Less queue times aren’t really worth more toxicity, frustration and less value for a game paid for.</p>
+<p>Good Scorned change though.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/42">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/42</link>
+        <pubDate>Fri, 18 Dec 2020 16:37:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85089-42</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089.rss">Patch v4.0.0a: Throne goes FREE (F2P)!</source>
+      </item>
+      <item>
+        <title>Patch v4.0.0a: Throne goes FREE (F2P)!</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <h1><font color="red"> Known Bugs</font></h1>
+<ol>
+<li>During offpeak (that won’t exist anymore, later), if the “Start Early” pops up in a public match, it says 500gp - it’s not, it’s just 50gp.</li>
+<li><s>There is a “weapons” text at the bottom-left of the store. This… was meant to say “*Store filters coming soon!”</s></li>
+<li>Tutorial can’t reopen class cards in the tutorial <em>after</em> the introduction to them is over by clicking – but you still can open them via TAB.</li>
+<li><s>“Queue as Group” was supposed to be renamed to “Merge into Public”.</s></li>
+</ol>
+<p>This f2p patch was crunched a bit (<em>no, not gonna fire myself!</em> I prepared for this), so if there are bugs - no worries! Like always, I’ll fix em <img src="https://forum.throneoflies.com/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"></p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/41">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/41</link>
+        <pubDate>Fri, 18 Dec 2020 13:49:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85089-41</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089.rss">Patch v4.0.0a: Throne goes FREE (F2P)!</source>
+      </item>
+      <item>
+        <title>Patch v4.0.0a: Throne goes FREE (F2P)!</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>Balance <span class="hashtag">#4</span> and <span class="hashtag">#6</span> (# of charges for Expose/Brotherhood) delayed until next patch.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/40">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/40</link>
+        <pubDate>Fri, 18 Dec 2020 13:49:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85089-40</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089.rss">Patch v4.0.0a: Throne goes FREE (F2P)!</source>
+      </item>
+      <item>
+        <title>Patch v4.0.0a: Throne goes FREE (F2P)!</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>Live ;D but not free until 6pm EST. I crunched like crazy, so let me rest unless it’s a breaking bug <img src="https://forum.throneoflies.com/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"> otherwise you can @ ping me for breaking bugs [that are not memes lol].</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/39">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089/39</link>
+        <pubDate>Fri, 18 Dec 2020 13:41:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85089-39</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089.rss">Patch v4.0.0a: Throne goes FREE (F2P)!</source>
+      </item>
+  </channel>
+</rss>

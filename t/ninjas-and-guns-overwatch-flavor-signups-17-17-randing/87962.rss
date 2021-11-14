@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</title>
+    <link>https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962</link>
+    <description># Ninjas and Guns
+
+### hosted by @katze, flavor written by @Geyde who is also a cohost
+
+##### Setup designed by Apoc, of Mafia Universe. Shamelessly stolen.
+# Rules
+
+Follow the [Global Forum/Discord/Game/Meta Rules - Please Read First ](https://forum.imperium42.com/t/global-forum-discord-game-meta-rules-please-read-first/244), and the [Official Forum Mafia and Forum of Lies Rules ](https://forum.imperium42.com/t/official-forum-mafia-and-forum-of-lies-rules/78926). Please make sure you have enough time for this game before you sign up.
+
+**A minimum of 10 substantive, on-topic, game-related posts must be posted every day. Failure to meet the requirement will result in a warning or a forced replacement. However, hosts reserve the right to replace without a warning should we believe that it is positive for the game.**
+
+
+# Setup
+:joy_cat:|A|B|C|D|E|
+|--|--|--|--|--|--|
+**1**|[color=green]Town Alignment Cop[/color]|[color=red]Mafia Jailkeeper/Ninja JOAT[/color]|[color=green]Town Jailkeeper[/color]|[color=green]Vanilla Town[/color]|[color=red]1-shot Mafia Vigilante[/color]
+**2**|[color=green]Vanilla Town[/color]|[color=green]Town Doctor[/color]|[color=red]Mafia Role Cop[/color]|[color=red]1-shot Mafia Vigilante[/color]|[color=green]Town Mason x2[/color]
+**3**|[color=red]Mafia Ninja JOAT[/color]|[color=green]Town Tracker[/color]|[color=red]1-shot Mafia Vigilante[/color]|[color=green]Town Innocent Child[/color]|[color=green]Town Bodyguard[/color]
+**4**|[color=green]1-shot Bulletproof Townie[/color]|[color=red]Mafia Role Cop/Jailkeeper[/color]|[color=green]Town Vigilante[/color]|[color=red]Mafia Jailkeeper/Ninja JOAT[/color]|[color=green]Vanilla Town[/color]
+**5**|[color=red]1-shot Mafia Vigilante/Role Cop[/color]|[color=green]Vanilla Town[/color]|[color=green]Vanilla Town[/color]|[color=green]Town JOAT[/color]|[color=red]Mafia Jailkeeper[/color]
+Ninjas and Guns is a matrix setup. There are 18 possible combinations:
+
+
+[details=&quot;Possible Setups&quot;]
+1. **1A** - [color=green]Cop, Jailkeeper, Vanilla.[/color] [color=red]Jailkeeper, 1-Shot Vigilante[/color] 
+2. **1B** - [color=green]Cop, Jailkeeper, Vanilla.[/color][color=red] Ninja JOAT, 1-Shot Vigilante[/color] 
+3. **2A** - [color=green]Vanilla, Doctor, Masons.[/color] [color=red]Role Cop, 1-Shot Vigilante[/color] 
+4. **3A** - [color=green]Tracker, Innocent Child, Bodyguard.[/color][color=red] Ninja JOAT, 1-Shot Vigilante[/color] 
+5. **4A** - [color=green]1-Shot Bulletproof, Vigilante, Vanilla.[/color][color=red] Jailkeeper, Role Cop[/color] 
+6. **4B** - [color=green]1-Shot Bulletproof, Vigilante, Vanilla.[/color][color=red] Jailkeeper, Ninja JOAT[/color] 
+7. **4C** - [color=green]1-Shot Bulletproof, Vigilante, Vanilla.[/color] [color=red] Ninja JOAT, Role Cop[/color] 
+8. **5A** - [color=green]Vanilla, Vanilla, JOAT.[/color] [color=red]Jailkeeper, 1-Shot Vigilante[/color] 
+9. **5B** - [color=green]Vanilla, Vanilla, JOAT.[/color] [color=red]Jailkeeper, Role Cop[/color] 
+10. **A1** - [color=green]Cop, 1-Shot Bulletproof, Vanilla.[/color] [color=red]Ninja JOAT, 1-Shot Vigilante[/color] 
+11. **A2** - [color=green]Cop, 1-Shot Bulletproof, Vanilla.[/color][color=red] Ninja JOAT, Role Cop[/color] 
+12. **B1** - [color=green]Doctor, Tracker, Vanilla.[/color] [color=red]Jailkeeper, Role Cop[/color] 
+13. **B2** - [color=green]Doctor, Tracker, Vanilla.[/color] [color=red]Jailekeeper, Ninja JOAT[/color] 
+14. **B3** - [color=green]Doctor, Tracker, Vanilla.[/color] [color=red]Ninja JOAT, Role Cop[/color] 
+15. **C1** - [color=green]Jailkeeper, Vigilante, Vanilla. [/color][color=red]Role Cop, 1-Shot Vigilante[/color] 
+16. **D1** - [color=green]Vanilla, Innocent Child, JOAT.[/color] [color=red]Jailkeeper, 1-Shot Vigilante[/color] 
+17. **D2** - [color=green]Vanilla, Innocent Child, JOAT.[/color] [color=red]Ninja JOAT, 1-Shot Vigilante[/color] 
+18. **E1** - [color=green]Masons, Bodyguard, Vanilla.[/color][color=red] Jailkeeper, 1-Shot Vigilante[/color] 
+[/details]
+
+Additionally:
+
+&gt; - Jailkeepers and Doctors cannot target the same player on consecutive nights, nor can they self target.
+&gt; - Town Alignment Cops get a random n0 town peek. Peeks alignment (town/mafia).
+&gt; - Mafia Role Cops get a random n0 vanilla town peek. Peeks full role.
+&gt; - Mod rands the setup (rows and columns), *then* rands the &quot;OR&quot; statements. This means each row/column has a 10% chance of being chosen. *Setup 4 &amp; Setup B cannot have two jailkeepers.*
+
+Regardless of the setup that is randed, 10 Vanilla Townies and 2 Mafia Goons will be added.
+
+[details=&quot;More in depth explanation on how I will rand this&quot;]
+To rand the setup, I will do the following:
+
+First, I will roll a d10. 1-5 will obviously be 1-5, while A-E will be 6-10. 
+
+If I roll a 7, then I get Column B. 
+
+![image|132x316, 100%](upload://niSbGUJ7EVnxM4vvHYEYfXXgZVm.png)
+
+In cases like this, I will roll a d2 on the two mafia roles. Keep in mind there cannot be two duplicate Mafia Jailkeepers.
+
+If I roll a 2 on the d2, then I will add a [color=red]**Mafia Ninja JOAT**[/color] and roll a second. If I get another 2, I will add a [color=red]**Mafia Jailkeeper**[/color].
+
+This would be setup B2, and would (in total, after adding the 10 VTs and 2 Goons) be:
+&gt; 
+&gt; [color=green]**11x Vanilla Town**
+&gt; **1x Town Doctor**
+&gt; **1x Town Tracker**[/color]
+&gt; 
+&gt; [color=red]**2x Mafia Goon
+&gt; 1x Mafia Ninja JOAT
+&gt; 1x Mafia Jailkeeper**[/color]
+[/details]
+# Gameplay
+
+* Days are 48 hours unless majority is reached early and nights are 24 hours. 
+* Yeets are majority and plurality. In cases of a tie, the yeet will be determined randomly among the players receiving the most votes.
+* No-yeet is a valid vote, and may be hammered to end the day early. In cases where no-yeet and another vote are tied at the end of the day, no-yeet will have priority in the rand.
+* Self-votes are considered valid votes. Accompanied AtE is not required. 
+* Votes are locked in MyLo and LyLo scenarios. That is to say, in situations where a misyeet or a no-yeet will guarantee a Mafia victory, the first vote cast by a given player is final and cannot be changed.
+* All votes must be in the form **/vote [name of player]** to be considered valid, and all unvotes must be in the form **/unvote** . This is to enable the smooth processing of votes. Pinging the host(s) is not required, but is welcomed.
+* The Mafia factional kill is mandatory. If no factional kill is submitted, the kill will be determined randomly from among living members of the town.
+* The Mafia will communicate through a private Discord server or forum topic.
+* Mafia **can** perform the factional kill alongside any abilities they have.
+* Alts will **not** be allowed.
+
+
+
+# Example Rolecards
+
+&gt; # [color=green]Vanilla Town[/color]
+&gt; 
+&gt; You have no abilities, other than your voice and your vote.
+&gt; 
+&gt; *You win when you eliminate the mafia.*
+
+[details=&quot;Town PRs&quot;]
+
+&gt;# [color=green]Town Alignment Cop[/color]
+&gt;
+&gt; Each night, you may inspect a player to determine their alignment. You will be given a Town or Mafia result.
+&gt;
+&gt; Additionally, you know that [NAME] is town. Their name will be redacted in the event you flip.
+&gt;
+&gt; *You win when you eliminate the mafia.*
+
+&gt;# [color=green]Town Jailkeeper[/color]
+&gt;
+&gt; Each night, you may jail a player. This will protect them from being attacked, and additionally roleblock the player. You may not target the same player two nights in a row.
+&gt; 
+&gt; *You win when you eliminate the mafia.*
+
+&gt; # [color=green]Town Doctor[/color]
+&gt;
+&gt; Each night, you may heal a player. This will protect them from being attacked. You may not target the same player two nights in a row.
+&gt;
+&gt; *You win when you eliminate the mafia.*
+
+&gt; # [color=green]Town Mason[/color]
+&gt;
+&gt; You share a 24/7 chat with [NAME], who is also a [color=green]**Town Mason**[/color]. Their name will be redacted in the event that you flip. 
+&gt;
+&gt; *You win when you eliminate the mafia.*
+
+&gt; # [color=green]Town Tracker[/color]
+&gt; 
+&gt; Each night, you may track a player. You will be informed who they visit at night, if anybody.
+&gt; 
+&gt; *You win when you eliminate the mafia.*
+
+
+&gt; # [color=green]Town Innocent Child[/color]
+&gt; 
+&gt; Once, at any time during a day phase, you may ask the hosts to you reveal as an Innocent Child. 
+&gt; 
+&gt; *You win when you eliminate the mafia.*
+
+
+&gt; # [color=green]Town Bodyguard[/color]
+&gt; 
+&gt; Each night, you may guard a player. If they are attacked, you will sacrifice yourself and die in their place.
+&gt; 
+&gt; *You win when you eliminate the mafia.*
+
+
+&gt; # [color=green]Town 1-shot Bulletproof[/color]
+&gt; 
+&gt; The first time you are attacked, you will survive.
+&gt; 
+&gt; *You win when you eliminate the mafia.*
+
+
+&gt; # [color=green]Town Vigilante[/color]
+&gt; 
+&gt; Each night, you may target a player. You will attack them.
+&gt;
+&gt; *You win when you eliminate the mafia.*
+
+&gt; # [color=green]Town Jack of all Trades[/color]
+&gt; 
+&gt; Each night, you may use one of the following abilities:
+&gt; 
+&gt; - Vigilante: Target a player. You will attack them.
+&gt; - Cop: Target a player. You will inspect their alignment, and receive a Town or Mafia result.
+&gt; - Jailkeep: Target a player. You will jail them, roleblocking them for the night and protecting them from attacks.
+&gt; 
+&gt; You may only use each ability twice, and you must use each ability once before you can use one again. Like a regular Jailkeeper, you may not consecutively target the same player with your Jailkeep ability.
+&gt; 
+&gt; *You win when you eliminate the mafia.*
+
+[/details]
+
+
+&gt;# [color=red]Mafia Goon[/color]
+&gt;
+&gt; You have no special abilities, but possess a 24/7 scum chat and a factional kill.
+&gt;
+&gt; *You win when you reach parity with the town.*
+[details=&quot;Mafia PRs&quot;]
+
+
+&gt; # [color=red]Mafia Jailkeeper[/color]
+&gt; 
+&gt; Each night, you may jail a player. This will protect them from being attacked, and additionally roleblock the player. You may not target the same player two nights in a row.
+&gt; 
+&gt; *You win when you reach parity with the town.*
+
+
+&gt; # [color=red]Mafia Ninja JOAT[/color]
+&gt; 
+&gt; Each night, you may choose one of the following passive modifiers to grant yourself: 
+&gt; 
+&gt; - Godfather: You will appear as Town to alignment checks.
+&gt; - Ninja: You will appear to not visit anybody if you are tracked.
+&gt; - Bulletproof: You are immune to death at night.
+&gt;
+&gt; Applying a passive modifier resolves instantly and does not count as a visit.
+&gt; 
+&gt; *You win when you reach parity with the town.*
+
+&gt; # [color=red]Mafia Role Cop[/color]
+&gt; 
+&gt; Each night, you may inspect a player. You will learn their role.
+&gt;
+&gt; Additionally, you know that [NAME] is [color=green]**Vanilla Town**[/color]. Their name will be redacted in the event you flip.
+&gt;
+&gt; *You win when you reach parity with the town.*
+
+&gt; # [color=red]Mafia 1-shot Vigilante[/color]
+&gt; 
+&gt; Once, you may target a player. You will attack them. This is separate from the factional kill.
+&gt;
+&gt; *You win when you reach parity with the town.*
+[/details]
+
+Flavored rolecards will look like this:
+
+[details=&quot;Example Rolecard with Flavor&quot;]
+
+
+&gt; # [color=green] &lt;div align=&quot;center&quot;&gt;  Jeff Kaplan &lt;/div&gt; [/color]
+&gt; &lt;div align=&quot;center&quot;&gt; &lt;img src=&quot;https://cdn.vox-cdn.com/thumbor/BnLAD623M7ZDyMeV8T_I1GhW3WY=/0x0:1200x800/1400x1400/filters:focal(466x108:658x300):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/55882051/Jeff_dva.0.jpeg&quot;&gt;
+&gt; 
+&gt; [*&quot;2 to the 1 from the 1 to the 3. What&#39;s up, this is Jeff from the Overwatch team. Making changes that you wouldn&#39;t believe, I&#39;m going to take you out with a long range beam.&quot;*](https://www.youtube.com/watch?v=RMDItOwN_SU)
+&gt;
+&gt; You are [color=green]**Vanilla Town**[/color].
+&gt; 
+&gt; You have no abilities, other than your voice and your vote.
+&gt;
+&gt; *You win when you eliminate the mafia.* &lt;/div&gt;
+[/details]
+
+Flavor will not be alignment indicative. This flavor will not be present in the game.
+
+[details=&quot;Investigative Feedback&quot;]
+
+## Alignment Cop
+
+&gt; [name] is Town.
+&gt; [name] is Mafia.
+
+## Role Cop
+
+&gt; [name] is [role]
+
+examples:
+
+&gt; [name] is 1-shot Bulletproof.
+&gt; [name] is Vigilante.
+&gt; [name] is Vanilla.   **[This would be the feedback on both Vanilla Town and Mafia Goon]**
+
+## Tracker
+
+&gt; [name] visited X, Y, and Z.
+&gt; [name] did not visit anybody.
+
+## Any investigative who had an action fail
+
+&gt; You failed to investigate your target.
+[/details]
+___
+# Players
+1. EliThePsycho
+2. Marluxion
+3. Intensify
+4. Aelin
+5. sulit
+6. Icibalus
+7. eevee
+8. ATNoName
+9. NetherNitro
+10. Universal
+11. clonedcheese
+12. SkyRED
+13. Wazza
+14. Esooa
+15. WindwardAway
+16. DkKoba
+17. PokemonKidRyan
+
+# Backups
+1. Arete
+2. Marshal :pleading_face: 
+3. Nightingale
+4. 
+5.  
+6. 
+
+
+# Spectators
+1. DatBird (informed)
+2. CRichard (Informed)
+3. Chloe (Informed)
+4. astand (Informed)
+5. Jane (Uninformed)
+6. m*in(formed)* &lt;small&gt;get it?&lt;/small&gt;
+7. thepigeonnyc (Informed)
+
+
+# Threadmarks
+[You clicking this, despite me advertising it as a rickroll](https://www.youtube.com/watch?v=dQw4w9WgXcQ)</description>
+    
+    <lastBuildDate>Fri, 04 Jun 2021 18:18:00 +0000</lastBuildDate>
+    <category>Signups</category>
+    <atom:link href="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/220">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/220</link>
+        <pubDate>Fri, 04 Jun 2021 18:18:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87962-220</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962.rss">Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</source>
+      </item>
+      <item>
+        <title>Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <h1>
+<a name="randing-game-locking-thread-dm-me-here-or-on-discord-if-youd-like-to-become-a-replacementspec-1" class="anchor" href="#randing-game-locking-thread-dm-me-here-or-on-discord-if-youd-like-to-become-a-replacementspec-1"></a>randing game, locking thread. dm me here or on discord if youd like to become a replacement/spec</h1>
+<h2>
+<a name="classcards-should-be-going-out-within-the-hour-game-probably-starting-around-date2021-06-05-time130000-timezoneamericanew_york-2" class="anchor" href="#classcards-should-be-going-out-within-the-hour-game-probably-starting-around-date2021-06-05-time130000-timezoneamericanew_york-2"></a>classcards should be going out within the hour, game probably starting around <span data-date="2021-06-05" data-time="13:00:00" class="discourse-local-date" data-timezone="America/New_York" data-email-preview="2021-06-05T17:00:00Z UTC">2021-06-05T17:00:00Z</span>
+</h2>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/219">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/219</link>
+        <pubDate>Fri, 04 Jun 2021 18:18:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87962-219</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962.rss">Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</source>
+      </item>
+      <item>
+        <title>Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</title>
+        <dc:creator><![CDATA[DatBird]]></dc:creator>
+        <description><![CDATA[
+            <p>                    <a href="https://media3.giphy.com/media/QfHVl7Zd1ZgDosoIjc/giphy.gif" target="_blank" rel="noopener" class="onebox">
+            <img src="https://media3.giphy.com/media/QfHVl7Zd1ZgDosoIjc/giphy.gif" width="480" height="480">
+          </a>
+
+</p>
+<p>oh my python is running itself. AM i gonna be ok</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/218">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/218</link>
+        <pubDate>Fri, 04 Jun 2021 17:51:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87962-218</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962.rss">Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</source>
+      </item>
+      <item>
+        <title>Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</title>
+        <dc:creator><![CDATA[thepigeonnyc]]></dc:creator>
+        <description><![CDATA[
+            <p>Python doesn’t work like that smh my head</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/217">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/217</link>
+        <pubDate>Fri, 04 Jun 2021 17:43:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87962-217</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962.rss">Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</source>
+      </item>
+      <item>
+        <title>Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</title>
+        <dc:creator><![CDATA[ATNoName]]></dc:creator>
+        <description><![CDATA[
+            <p>it runs itself</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/216">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/216</link>
+        <pubDate>Fri, 04 Jun 2021 17:42:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87962-216</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962.rss">Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</source>
+      </item>
+      <item>
+        <title>Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</title>
+        <dc:creator><![CDATA[thepigeonnyc]]></dc:creator>
+        <description><![CDATA[
+            <p>*I didn’t run it until I proofread it</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/215">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/215</link>
+        <pubDate>Fri, 04 Jun 2021 17:42:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87962-215</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962.rss">Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</source>
+      </item>
+      <item>
+        <title>Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</title>
+        <dc:creator><![CDATA[thepigeonnyc]]></dc:creator>
+        <description><![CDATA[
+            <p>I never ran it wdym</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/214">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/214</link>
+        <pubDate>Fri, 04 Jun 2021 17:42:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87962-214</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962.rss">Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</source>
+      </item>
+      <item>
+        <title>Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</title>
+        <dc:creator><![CDATA[ATNoName]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="thepigeonnyc" data-post="212" data-topic="87962" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/thepigeonnyc/40/32596_2.png" class="avatar"> thepigeonnyc:</div>
+<blockquote>
+<p>I removed that part of the code</p>
+</blockquote>
+</aside>
+<aside class="quote no-group" data-username="ATNoName" data-post="207" data-topic="87962" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/atnoname/40/38428_2.png" class="avatar"> ATNoName:</div>
+<blockquote>
+<p>you took too long</p>
+</blockquote>
+</aside>
+<p>???</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/213">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/213</link>
+        <pubDate>Fri, 04 Jun 2021 17:42:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87962-213</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962.rss">Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</source>
+      </item>
+      <item>
+        <title>Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</title>
+        <dc:creator><![CDATA[thepigeonnyc]]></dc:creator>
+        <description><![CDATA[
+            <p>I removed that part of the code</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/212">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/212</link>
+        <pubDate>Fri, 04 Jun 2021 17:41:32 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87962-212</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962.rss">Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</source>
+      </item>
+      <item>
+        <title>Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</title>
+        <dc:creator><![CDATA[ATNoName]]></dc:creator>
+        <description><![CDATA[
+            <p>you should know this</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/211">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/211</link>
+        <pubDate>Fri, 04 Jun 2021 17:29:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87962-211</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962.rss">Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</source>
+      </item>
+      <item>
+        <title>Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</title>
+        <dc:creator><![CDATA[ATNoName]]></dc:creator>
+        <description><![CDATA[
+            <p>kat.py created kat.exe</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/210">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/210</link>
+        <pubDate>Fri, 04 Jun 2021 17:28:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87962-210</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962.rss">Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</source>
+      </item>
+      <item>
+        <title>Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</title>
+        <dc:creator><![CDATA[thepigeonnyc]]></dc:creator>
+        <description><![CDATA[
+            <p>I downloaded kat.py, not kat.exe</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/209">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/209</link>
+        <pubDate>Fri, 04 Jun 2021 17:27:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87962-209</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962.rss">Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</source>
+      </item>
+      <item>
+        <title>Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <p>insert <code>katze.exe</code> creepypasta</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/208">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/208</link>
+        <pubDate>Fri, 04 Jun 2021 17:27:42 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87962-208</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962.rss">Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</source>
+      </item>
+      <item>
+        <title>Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</title>
+        <dc:creator><![CDATA[ATNoName]]></dc:creator>
+        <description><![CDATA[
+            <p>you took too long</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/207">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/207</link>
+        <pubDate>Fri, 04 Jun 2021 17:27:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87962-207</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962.rss">Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</source>
+      </item>
+      <item>
+        <title>Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</title>
+        <dc:creator><![CDATA[thepigeonnyc]]></dc:creator>
+        <description><![CDATA[
+            <p>That’s why I took a close look at kat.py and deleted those things</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/206">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/206</link>
+        <pubDate>Fri, 04 Jun 2021 17:26:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87962-206</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962.rss">Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</source>
+      </item>
+      <item>
+        <title>Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</title>
+        <dc:creator><![CDATA[Marshal]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="thepigeonnyc" data-post="203" data-topic="87962">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/thepigeonnyc/40/32596_2.png" class="avatar"> thepigeonnyc:</div>
+<blockquote>
+<p><code>import kat</code></p>
+</blockquote>
+</aside>
+<p>w…why would you do this<br>
+your computer would be destroyed<br>
+it would become a monster</p>
+<p>the cursor would turn into a joycat<br>
+every key would only type out joycats<br>
+the yellow and blue beast would take over your computer until it must be destroyed</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/205">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/205</link>
+        <pubDate>Fri, 04 Jun 2021 17:25:32 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87962-205</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962.rss">Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</source>
+      </item>
+      <item>
+        <title>Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</title>
+        <dc:creator><![CDATA[thepigeonnyc]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="thepigeonnyc" data-post="196" data-topic="87962">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/thepigeonnyc/40/32596_2.png" class="avatar"> thepigeonnyc:</div>
+<blockquote>
+<p>5B</p>
+<ul>
+<li>EliThePsycho - VT</li>
+<li>Marluxion - VT</li>
+<li>Intensify - VT</li>
+<li>Aelin - VT</li>
+<li>sulit - VT</li>
+<li>Icibalus - VT</li>
+<li>eevee - VT</li>
+<li>ATNoName - Mafia Role Cop</li>
+<li>NetherNitro - VT</li>
+<li>Universal - Mafia Goon</li>
+<li>clonedcheese - Mafia Goon</li>
+<li>SkyRED - VT</li>
+<li>Wazza - Town JoaT</li>
+<li>Esooa - Mafia Jailkeeper</li>
+<li>WindwardAway - VT</li>
+<li>DkKoba - VT</li>
+<li>PokemonKidRyan - VT</li>
+</ul>
+</blockquote>
+</aside>
+<p>And I got this</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/204">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/204</link>
+        <pubDate>Fri, 04 Jun 2021 17:21:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87962-204</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962.rss">Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</source>
+      </item>
+      <item>
+        <title>Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</title>
+        <dc:creator><![CDATA[thepigeonnyc]]></dc:creator>
+        <description><![CDATA[
+            <pre><code class="lang-python">import kat
+import future
+print(kat.FMRand(future.FMRand(NinjasAndGuns)))
+</code></pre>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/203">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/203</link>
+        <pubDate>Fri, 04 Jun 2021 17:20:33 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87962-203</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962.rss">Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</source>
+      </item>
+      <item>
+        <title>Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</title>
+        <dc:creator><![CDATA[EliThePsycho]]></dc:creator>
+        <description><![CDATA[
+            <p>just had somebody say that mafia having inconsistent KP in untrusted is a good thing, because then NETSEC can go on a break without any arrests<br>
+feeling good</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/202">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/202</link>
+        <pubDate>Fri, 04 Jun 2021 17:18:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87962-202</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962.rss">Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</source>
+      </item>
+      <item>
+        <title>Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</title>
+        <dc:creator><![CDATA[Intensify]]></dc:creator>
+        <description><![CDATA[
+            <p>Pigeon sus</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/201">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/201</link>
+        <pubDate>Fri, 04 Jun 2021 17:18:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87962-201</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962.rss">Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</source>
+      </item>
+      <item>
+        <title>Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</title>
+        <dc:creator><![CDATA[thepigeonnyc]]></dc:creator>
+        <description><![CDATA[
+            <p>And the future</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/200">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/200</link>
+        <pubDate>Fri, 04 Jun 2021 17:12:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87962-200</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962.rss">Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</source>
+      </item>
+      <item>
+        <title>Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</title>
+        <dc:creator><![CDATA[thepigeonnyc]]></dc:creator>
+        <description><![CDATA[
+            <p>I made a bot that hacks into kat’s mind</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/199">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/199</link>
+        <pubDate>Fri, 04 Jun 2021 17:12:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87962-199</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962.rss">Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</source>
+      </item>
+      <item>
+        <title>Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</title>
+        <dc:creator><![CDATA[Intensify]]></dc:creator>
+        <description><![CDATA[
+            <p>Pigeon hacked ur account kat and pre-randed everything for u</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/198">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/198</link>
+        <pubDate>Fri, 04 Jun 2021 17:04:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87962-198</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962.rss">Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</source>
+      </item>
+      <item>
+        <title>Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <p>howd u get the rand that doesnt even exist yet wtf</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/197">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/197</link>
+        <pubDate>Fri, 04 Jun 2021 16:53:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87962-197</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962.rss">Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</source>
+      </item>
+      <item>
+        <title>Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</title>
+        <dc:creator><![CDATA[thepigeonnyc]]></dc:creator>
+        <description><![CDATA[
+            <p>Pre-rand created by Pigeon:<br>
+5B</p>
+<ul>
+<li>EliThePsycho - VT</li>
+<li>Marluxion - VT</li>
+<li>Intensify - VT</li>
+<li>Aelin - VT</li>
+<li>sulit - VT</li>
+<li>Icibalus - VT</li>
+<li>eevee - VT</li>
+<li>ATNoName - Mafia Role Cop</li>
+<li>NetherNitro - VT</li>
+<li>Universal - Mafia Goon</li>
+<li>clonedcheese - Mafia Goon</li>
+<li>SkyRED - VT</li>
+<li>Wazza - Town JoaT</li>
+<li>Esooa - Mafia Jailkeeper</li>
+<li>WindwardAway - VT</li>
+<li>DkKoba - VT</li>
+<li>PokemonKidRyan - VT</li>
+</ul>
+<p>Note that this was created purely because I felt like it and it has no meaning on the actual game</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/196">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962/196</link>
+        <pubDate>Fri, 04 Jun 2021 16:50:54 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87962-196</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-overwatch-flavor-signups-17-17-randing/87962.rss">Ninjas and Guns - Overwatch Flavor - SIGNUPS [17/17] - RANDING</source>
+      </item>
+  </channel>
+</rss>

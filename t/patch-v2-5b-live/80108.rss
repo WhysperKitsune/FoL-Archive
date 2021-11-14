@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Patch v2.5b (LIVE)</title>
+    <link>https://forum.throneoflies.com/t/patch-v2-5b-live/80108</link>
+    <description>*Balance, Onboarding &amp; Improvements*
+
+![](https://media.giphy.com/media/L46eSXJOoUlh9t1wzD/giphy.gif)
+
+____________
+
+## Balance
+
+See next session for explanations. Shoutout to the new dev panel for their help! :beers:
+
+&gt; Class Retired: Pretender
+
+* Pretender got caught pretending to be the King and was brutally slaughtered by the Blue Dragon. She was never seen again... (except as a new portrait in the store! Scroll down for store updates)
+
+&gt; Balance Changes: Observer
+
+![observer-distantFollow.min|128x128](upload://zFdx0GB0rJRJAU9FmV6p2THwW9p.png) ![observer-survey.min|128x128](upload://3dbndwfzql173XGXsZjljj0pFOd.png) 
+
+* `Follow` has been replaced with ~~Distant Follow~~ `Observe`: &quot;Discover who target player visits.&quot;
+* `Window Peek` has been replaced with ~~Survey~~ `Overlook`: &quot;Discover who visits target player.&quot;
+
+&gt; Balance Change: Noble
+
+* `Noble Twin` ability removed. Replacement may come later.
+* `Gossip` can no longer target the King.
+
+&gt; Balance Change: Chronomancer
+
+* Timesnatcher&#39;s Dark Dimension ability now disguises self as Chronomancer.
+
+&gt; Balance Changes: Mercenary + Sellsword
+
+* &quot;Stand Guard&quot; + &quot;Stonewall&quot; ability priorities bumped down below occupy abilities. Merc will no longer gain Brilders when you were occupied (by a Butler, etc).
+
+&gt; Other Balance
+
+* Sheriff and Paladin now max at 3 spawns (instead of semi-uncapped for investigation types). 
+* [2.4a] Sheriff&#39;s *Scout* fixed, no longer showing players *just* converted.
+
+____________
+
+## Balance : Explained
+
+&gt; Noble unable to use Gossip on the King
+
+Turns out being able to confirm 3+ classes that normally have great difficulty to confirm themselves is very strong. Also it limits evil fake claimability. There should be more risks to doing that if they are unable to pick King as their target.
+
+&gt; Remove Noble/Aristocrat&#39;s Noble Twin + Cannot Target King
+
+Noble was extremely strong and unfun to play against. The current one allows him to confirm self at any point in the game for free.
+
+&gt; Pretender RIP
+
+Due to how the meta shaped, the class is both unfun to play and unfun to play against. It&#39;s very limiting for evils due to Blood Test and makes playing King even more of a pain than it should be.
+
+&gt; Observer Nerfs
+
+Observer was the strongest invest and, by using *Follow*, he can just get too much info. Breaking them down into separate abilities should make Obs more manageable to play against, and easier to fake claim. 
+
+In the future, we may adjust the spawn rates of Obs, but not in this patch.
+
+____________
+
+## Onboarding
+
+&gt; Tutorial
+
+* Mini-revamped it: Should be wayy better now. If you have improvement suggestion with wording (not mechanics - which take a ton of time to change), please submit to #feedback-qol
+* Localization will come next patch for this.
+
+&gt; Newcomer Title
+
+In-Game Survey Results:
+&lt;div align=&quot;center&quot;&gt;
+New / Returning players to have some distinguishable title.
+  &lt;img src=&#39;https://forum.imperium42.com/uploads/default/original/3X/4/d/4d6ad837f443126cd2d15d1d8e11f6c82208db9a.png&#39;&gt;
+&lt;/div&gt;
+
+* Players that have \&lt;50 games will now have a forced &quot;Newcomer&quot; title. This is not an equippable/permanent.
+* After 50 games, the title will permanently poof and use whatever title you have equipped (falling back to Squire).
+
+We will force this title on returning players as well in the future.
+
+&gt; Welcome Screen
+
+* Players that have not yet seen the new welcome screen will be guided through, once, in the lobby, introducing the lobby UI and encouraging use of the learning buttons.
+* This will also let players know about the new \&lt;Newcomer\&gt; title.
+
+&gt; Class Cards
+
+* Updated old info.
+* Added more info.
+* Fixed straight-up mistakes.
+
+Class cards should now be up-to-date while including as much info as possible.
+____________
+
+## Improvements
+
+&gt; Bug Fixes
+
+* Fixed class cards # of ability charges either showing incorrectly or not at all.
+* Troll Box input max characters capped to other chat caps to prevent spam.
+* Cult Leader&#39;s &quot;Eradicate&quot; ability will now allow the same target to be targeted twice (so you can kill single targets).
+* Fixed &quot;Debauchery-type&quot; abilities to now leave feedback vs untargeted abilities.
+* Day 1 abilities should no longer show a quick fade effect if no day abilities to use d1.
+* Fixed class list panel &quot;cancel weirdness&quot; when 2nd day ability exists (eg, Possessor&#39;s Facelift).
+* Possessor&#39;s &quot;Mind Control&quot; is no longer enabled on D1.
+* Fixed ability button exploit that allowed you to click an ability button really fast to use it when you weren&#39;t supposed to. For real-real, this time.
+* Fixed the confusing end-screen when a Possessor possessed others.
+* Corrected old typo for &quot;50% winnings if left/won&quot; when you actually get full winnings.
+* Fixed &quot;Add Friend&quot; in lobby.
+* Fixed &quot;Add Friend&quot; buttons showing up on players you&#39;re already friends with in Post-Game.
+* Fixed &quot;Report&quot; button showing up on yourself.
+* Guidebook text should no longer be &quot;elastic&quot;.
+* Lobby &quot;fading&quot; errors will no longer linger if you&#39;re quick to queue again.
+
+&gt; Quality of Life
+
+* Court Wizard&#39;s &quot;Empower&quot; ability feedback has been reworded to `You will attempt to empower {Target} for the night and receive notification upon success.`
+* Paladin&#39;s &quot;Test Faith&quot; and &quot;Smite&quot; ability positions have been swapped for consistency.
+* Replaced some of the feedback text to say &quot;you&quot; instead of your own name in 3rd-person.
+* Possessor &quot;Possess recipient&quot;, upon death, will now have additional sfx
+* Game invites will now poof after 30s
+* ESC &gt;&gt; Mute panel now has hover fx for easier targeting
+* If 2-target-panel ability feedback were to normally show the same person twice (x and x), it&#39;ll only show that person&#39;s name once.
+* Possessor&#39;s Facelift now has descriptive cancel feedback.
+* Players banned from private rooms will show a chat message to the remaining players.
+* The lobby &quot;fake chat&quot; at bottom-left before joining a room is now hidden when you can&#39;t chat to be less confusing. We&#39;ll replace it with something later.
+* Possessed players will now have a white `(P)` next to their class at the end screen.
+* Better aligned the top-right &quot;deduction&quot; panel numbers.
+* Lobby&#39;s &quot;My Character&quot; now shows &lt;Your Title&gt; above your char. If it blocks any heads, let me know :P
+* BD King is now back to his original name Good King.
+In-Game Survey Results:
+&lt;div align=&quot;center&quot;&gt;
+Have BD King shown as Good King again.
+  &lt;img src=&#39;https://forum.imperium42.com/uploads/default/original/3X/4/d/4ddc4330d69c2836d3137479d1f31729b289122d.png&#39;&gt;
+&lt;/div&gt;
+
+&gt; Stability/Security
+
+* Async tasks now cancel when they&#39;re supposed to, which is the likely cause for freezy exits.
+* ^ That said, better exit handling: This patch *should* fix the long-awaited &quot;Freeze/crash-on-exiting&quot; bug!
+* Better lobby sync checks to prevent possible infinite loading from desync&#39;d players.
+* If a player is kicked due to being desync&#39;d with the new feature above, this will be displayed in chat. Be sure to screenshot what you see to Discord Judges+ if a player looks suspicious!
+* Chat should now reject more forms of spammy empty/blank messages.
+
+&gt; Customization Store Updates
+
+* Added every class portrait as an avatar for around 2k/ea! Gotta catch em all?
+
+&gt; 中文
+
+* Fixed tons of vertical alignments
+* More localizations next patch - promise ;)
+
+_____________________
+
+## v2.5.0a
+
+Additionally:
+
+* Fixed v2.4.0 bugs, notably in response to integrity check bugs and some day ability gray-outs.
+* Lobby integrity checks have been temporarily pulled for further testing.
+* Due to popular demand over a long period of time, we have added the **Scorned Beta** avatar as the 1st &quot;prestige&quot; avatar. It&#39;s expensive.
+* Observer abils are now called &quot;Observe&quot; and &quot;Overlook&quot;.
+* GDPR &quot;Request Data&quot; fixed.
+* Sheriff&#39;s Scout fixed, no longer showing players *just* converted.
+
+_____________________
+
+## v2.5.0b
+
+* Tutorial doesn&#39;t freeze.
+* Scorned Troll Box abil will now enable when it&#39;s supposed to.
+* King Point Finger abil will now enable when it&#39;s supposed to.
+* King Point Finger abil will now toggle on/off as you nominate someone for treason.
+* King Decide Fate (slam) abil will now toggle on/off as you decide between pardon/exe/abstain.
+  * This was a speedy hotfix and there may be some unintended side effects: Will polish this later.
+* Welcome screen now gets no popups until you&#39;re done.
+* *Kingslayer II* promo should stop (should&#39;ve stopped a while back!).
+
+_____________________
+
+## v2.5.1
+
+https://forum.imperium42.com/t/patch-v2-5-1-testing/80431/
+
+_____________________
+
+--Xblade @ https://discord.gg/tol</description>
+    
+    <lastBuildDate>Tue, 28 Jan 2020 14:43:20 +0000</lastBuildDate>
+    <category>Official Announcements</category>
+    <atom:link href="https://forum.throneoflies.com/t/patch-v2-5b-live/80108.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Patch v2.5b (LIVE)</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <h2>v2.5.0b</h2>
+<ul>
+<li>Tutorial doesn’t freeze.</li>
+<li>Scorned Troll Box abil will now enable when it’s supposed to.</li>
+<li>King Point Finger abil will now enable when it’s supposed to.</li>
+<li>King Point Finger abil will now toggle on/off as you nominate someone for treason.</li>
+<li>King Decide Fate (slam) abil will now toggle on/off as you decide between pardon/exe/abstain.
+<ul>
+<li>This was a speedy hotfix and there may be some unintended side effects: Will polish this later.</li>
+</ul>
+</li>
+<li>Welcome screen now gets no popups until you’re done.</li>
+<li>
+<em>Kingslayer II</em> promo should stop (should’ve stopped a while back!).</li>
+</ul>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5b-live/80108/96">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5b-live/80108/96</link>
+        <pubDate>Tue, 28 Jan 2020 14:43:20 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80108-96</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5b-live/80108.rss">Patch v2.5b (LIVE)</source>
+      </item>
+      <item>
+        <title>Patch v2.5b (LIVE)</title>
+        <dc:creator><![CDATA[Polarthief]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote group-Admin" data-username="í42-Xblade" data-post="1" data-topic="80108">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>Due to popular demand over a long period of time, we have added the <strong>Scorned Beta</strong> avatar as the 1st “prestige” avatar. It’s expensive.</p>
+</blockquote>
+</aside>
+<p>:DDDDDDDDDDD<br>
+Glad I made that recent QoL post! Probably gonna cry when I see the price but idc, thank you!</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5b-live/80108/95">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5b-live/80108/95</link>
+        <pubDate>Tue, 28 Jan 2020 14:09:42 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80108-95</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5b-live/80108.rss">Patch v2.5b (LIVE)</source>
+      </item>
+      <item>
+        <title>Patch v2.5b (LIVE)</title>
+        <dc:creator><![CDATA[UncannyLuck]]></dc:creator>
+        <description><![CDATA[
+            <p>They tried that at one point and it resulted in nobody ever claiming to the mystic, iirc</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5b-live/80108/94">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5b-live/80108/94</link>
+        <pubDate>Tue, 28 Jan 2020 13:06:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80108-94</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5b-live/80108.rss">Patch v2.5b (LIVE)</source>
+      </item>
+      <item>
+        <title>Patch v2.5b (LIVE)</title>
+        <dc:creator><![CDATA[Shrimpy]]></dc:creator>
+        <description><![CDATA[
+            <p>Heck yeah!</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5b-live/80108/93">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5b-live/80108/93</link>
+        <pubDate>Tue, 28 Jan 2020 12:21:24 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80108-93</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5b-live/80108.rss">Patch v2.5b (LIVE)</source>
+      </item>
+      <item>
+        <title>Patch v2.5b (LIVE)</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <h2>2.5.0a</h2>
+<ul>
+<li>Fixed v2.4.0 bugs, notably in response to integrity check bugs and some day ability gray-outs.</li>
+<li>Lobby integrity checks have been temporarily pulled for further testing.</li>
+<li>Due to popular demand over a long period of time, we have added the  <strong>Scorned Beta</strong>  avatar as the 1st “prestige” avatar. It’s expensive.</li>
+<li>Observer abils are now called “Observe” and “Overlook”.</li>
+<li>GDPR “Request Data” fixed.</li>
+<li>Sheriff’s Scout fixed, no longer showing players  <em>just</em>  converted.</li>
+</ul>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5b-live/80108/92">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5b-live/80108/92</link>
+        <pubDate>Tue, 28 Jan 2020 10:11:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80108-92</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5b-live/80108.rss">Patch v2.5b (LIVE)</source>
+      </item>
+      <item>
+        <title>Patch v2.5b (LIVE)</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <p>getting claims from people is cool and all until you realize that most games have a majority of the court claiming by D3</p>
+<p>and then what more are you than an IC :^)</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5b-live/80108/91">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5b-live/80108/91</link>
+        <pubDate>Sun, 26 Jan 2020 07:14:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80108-91</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5b-live/80108.rss">Patch v2.5b (LIVE)</source>
+      </item>
+      <item>
+        <title>Patch v2.5b (LIVE)</title>
+        <dc:creator><![CDATA[JakeTheWolfie]]></dc:creator>
+        <description><![CDATA[
+            <p>It links a player, and either they give a claim and logs, or the Mystic announces to the court that they failed to do so.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5b-live/80108/90">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5b-live/80108/90</link>
+        <pubDate>Sun, 26 Jan 2020 07:11:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80108-90</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5b-live/80108.rss">Patch v2.5b (LIVE)</source>
+      </item>
+      <item>
+        <title>Patch v2.5b (LIVE)</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <p>mystic sounds powerful when you put it like that</p>
+<p>but in practice mystic is quite meh</p>
+<p>if it lost IC status it’d just be useless tbh</p>
+<p>(this is partially due to the current meta, though)</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5b-live/80108/89">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5b-live/80108/89</link>
+        <pubDate>Sun, 26 Jan 2020 07:03:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80108-89</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5b-live/80108.rss">Patch v2.5b (LIVE)</source>
+      </item>
+      <item>
+        <title>Patch v2.5b (LIVE)</title>
+        <dc:creator><![CDATA[JakeTheWolfie]]></dc:creator>
+        <description><![CDATA[
+            <p>*IC Rolecop &amp; Omnitracker</p>
+<p>(Omnitracker meaning it tracked on all nights)</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5b-live/80108/88">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5b-live/80108/88</link>
+        <pubDate>Sun, 26 Jan 2020 06:58:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80108-88</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5b-live/80108.rss">Patch v2.5b (LIVE)</source>
+      </item>
+      <item>
+        <title>Patch v2.5b (LIVE)</title>
+        <dc:creator><![CDATA[JakeTheWolfie]]></dc:creator>
+        <description><![CDATA[
+            <p>It’s the equivalent of an IC rolecop that can be lied to.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5b-live/80108/87">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5b-live/80108/87</link>
+        <pubDate>Sun, 26 Jan 2020 06:55:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80108-87</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5b-live/80108.rss">Patch v2.5b (LIVE)</source>
+      </item>
+      <item>
+        <title>Patch v2.5b (LIVE)</title>
+        <dc:creator><![CDATA[anon97870008]]></dc:creator>
+        <description><![CDATA[
+            <p>No need to nerf Mystic. It is a weak class.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5b-live/80108/86">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5b-live/80108/86</link>
+        <pubDate>Sun, 26 Jan 2020 06:54:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80108-86</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5b-live/80108.rss">Patch v2.5b (LIVE)</source>
+      </item>
+      <item>
+        <title>Patch v2.5b (LIVE)</title>
+        <dc:creator><![CDATA[JakeTheWolfie]]></dc:creator>
+        <description><![CDATA[
+            <p>All you would need is Link with Illu and Apostle, and it’s no longer insta confirmed.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5b-live/80108/85">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5b-live/80108/85</link>
+        <pubDate>Sun, 26 Jan 2020 06:54:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80108-85</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5b-live/80108.rss">Patch v2.5b (LIVE)</source>
+      </item>
+      <item>
+        <title>Patch v2.5b (LIVE)</title>
+        <dc:creator><![CDATA[Soulshade55r]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="JakeTheWolfie" data-post="74" data-topic="80108">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/jakethewolfie/40/19497_2.png" class="avatar"> JakeTheWolfie:</div>
+<blockquote>
+<p>The point wasn’t to <em>just</em> nerf Observer. It was also to make less confirmed investigatives. Now, no investigative claim is truly a “safe” claim. The only thing next is to work our way to making Mystic less confirmed.</p>
+</blockquote>
+</aside>
+<p>You’d literally have to rework the whole class.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5b-live/80108/84">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5b-live/80108/84</link>
+        <pubDate>Sun, 26 Jan 2020 06:52:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80108-84</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5b-live/80108.rss">Patch v2.5b (LIVE)</source>
+      </item>
+      <item>
+        <title>Patch v2.5b (LIVE)</title>
+        <dc:creator><![CDATA[Shrimpy]]></dc:creator>
+        <description><![CDATA[
+            <p>This is literally the BEST PATCH EVER <img src="/images/emoji/twitter/star_struck.png?v=9" title=":star_struck:" class="emoji" alt=":star_struck:"> <img src="/images/emoji/twitter/smiling_face_with_three_hearts.png?v=9" title=":smiling_face_with_three_hearts:" class="emoji" alt=":smiling_face_with_three_hearts:"> <img src="/images/emoji/twitter/heart_eyes.png?v=9" title=":heart_eyes:" class="emoji" alt=":heart_eyes:"> <img src="/images/emoji/twitter/partying_face.png?v=9" title=":partying_face:" class="emoji" alt=":partying_face:"></p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5b-live/80108/83">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5b-live/80108/83</link>
+        <pubDate>Fri, 24 Jan 2020 10:13:28 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80108-83</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5b-live/80108.rss">Patch v2.5b (LIVE)</source>
+      </item>
+      <item>
+        <title>Patch v2.5b (LIVE)</title>
+        <dc:creator><![CDATA[JakeTheWolfie]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh shit it’s the noble</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5b-live/80108/82">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5b-live/80108/82</link>
+        <pubDate>Thu, 23 Jan 2020 19:10:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80108-82</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5b-live/80108.rss">Patch v2.5b (LIVE)</source>
+      </item>
+      <item>
+        <title>Patch v2.5b (LIVE)</title>
+        <dc:creator><![CDATA[Apostle]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote group-Admin" data-username="í42-Xblade" data-post="1" data-topic="80108">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>Class Retired: Pretender</p>
+</blockquote>
+</aside>
+<p><img src="/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji only-emoji" alt=":slight_smile:"></p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5b-live/80108/81">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5b-live/80108/81</link>
+        <pubDate>Thu, 23 Jan 2020 16:57:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80108-81</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5b-live/80108.rss">Patch v2.5b (LIVE)</source>
+      </item>
+      <item>
+        <title>Patch v2.5b (LIVE)</title>
+        <dc:creator><![CDATA[JakeTheWolfie]]></dc:creator>
+        <description><![CDATA[
+            <p>The game revolves around the conflict between the Town and Scum</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5b-live/80108/80">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5b-live/80108/80</link>
+        <pubDate>Thu, 23 Jan 2020 12:31:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80108-80</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5b-live/80108.rss">Patch v2.5b (LIVE)</source>
+      </item>
+      <item>
+        <title>Patch v2.5b (LIVE)</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <p>does every class need to be fake claimable though</p>
+<p>after this patch there’s only gonna be like, 2 (Prince/Mystic) you can’t really reliably fakeclaim</p>
+<p>i think that’s fine, mystic is weak without its IC status and prince is, well, what the game revolves around to an extent</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5b-live/80108/79">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5b-live/80108/79</link>
+        <pubDate>Thu, 23 Jan 2020 12:24:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80108-79</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5b-live/80108.rss">Patch v2.5b (LIVE)</source>
+      </item>
+      <item>
+        <title>Patch v2.5b (LIVE)</title>
+        <dc:creator><![CDATA[JakeTheWolfie]]></dc:creator>
+        <description><![CDATA[
+            <p>I don’t even see why Prince would need to be a safe claim.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5b-live/80108/78">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5b-live/80108/78</link>
+        <pubDate>Thu, 23 Jan 2020 11:43:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80108-78</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5b-live/80108.rss">Patch v2.5b (LIVE)</source>
+      </item>
+      <item>
+        <title>Patch v2.5b (LIVE)</title>
+        <dc:creator><![CDATA[anon97870008]]></dc:creator>
+        <description><![CDATA[
+            <p>It’s pretty hard to fake claim Mystic, not only cuz of his night ability, but also already cuz of his day ability, yes.<br>
+But on the other side Mystic has not a single mechanic other than being extreme easily confirmable, so … not sure if taking that away wouldn’t make him underpowered</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5b-live/80108/77">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5b-live/80108/77</link>
+        <pubDate>Thu, 23 Jan 2020 11:31:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80108-77</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5b-live/80108.rss">Patch v2.5b (LIVE)</source>
+      </item>
+      <item>
+        <title>Patch v2.5b (LIVE)</title>
+        <dc:creator><![CDATA[JakeTheWolfie]]></dc:creator>
+        <description><![CDATA[
+            <p>That still makes a Mystic confirmed in cult games.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5b-live/80108/76">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5b-live/80108/76</link>
+        <pubDate>Thu, 23 Jan 2020 11:27:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80108-76</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5b-live/80108.rss">Patch v2.5b (LIVE)</source>
+      </item>
+      <item>
+        <title>Patch v2.5b (LIVE)</title>
+        <dc:creator><![CDATA[anon97870008]]></dc:creator>
+        <description><![CDATA[
+            <p>Observer is now way easier to fake claim, that’s the important part for me. Before this already the claim “Obs” was pretty much confirmed since very very few players like me are so insane to fake claim it <img src="/images/emoji/twitter/smiley.png?v=9" title=":smiley:" class="emoji" alt=":smiley:"></p>
+<p>Mystic is pretty useless mechanical wise but than “being mech confirmed”, I guess it would be possible to re-add Linking to Illusionist, but idk</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5b-live/80108/75">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5b-live/80108/75</link>
+        <pubDate>Thu, 23 Jan 2020 11:26:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80108-75</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5b-live/80108.rss">Patch v2.5b (LIVE)</source>
+      </item>
+      <item>
+        <title>Patch v2.5b (LIVE)</title>
+        <dc:creator><![CDATA[JakeTheWolfie]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Mew151" data-post="72" data-topic="80108">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/possessor-icon-256.jpg" class="avatar"> Mew151:</div>
+<blockquote>
+<p>Strongest invest doesn’t mean it needs a nerf. And functionally it doesn’t make it change a whole deal asides from random info.</p>
+</blockquote>
+</aside>
+<p>The point wasn’t to <em>just</em> nerf Observer. It was also to make less confirmed investigatives. Now, no investigative claim is truly a “safe” claim. The only thing next is to work our way to making Mystic less confirmed.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5b-live/80108/74">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5b-live/80108/74</link>
+        <pubDate>Thu, 23 Jan 2020 11:22:25 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80108-74</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5b-live/80108.rss">Patch v2.5b (LIVE)</source>
+      </item>
+      <item>
+        <title>Patch v2.5b (LIVE)</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Mew151" data-post="72" data-topic="80108">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/possessor-icon-256.jpg" class="avatar"> Mew151:</div>
+<blockquote>
+<p>Strongest invest doesn’t mean it needs a nerf.</p>
+</blockquote>
+</aside>
+<p>I mean</p>
+<p>On an extremely technical level you are correct</p>
+<p>But considering Observer with any context whatsoever shows that yeah it <strong>needed</strong> a nerf</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5b-live/80108/73">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5b-live/80108/73</link>
+        <pubDate>Thu, 23 Jan 2020 04:17:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80108-73</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5b-live/80108.rss">Patch v2.5b (LIVE)</source>
+      </item>
+      <item>
+        <title>Patch v2.5b (LIVE)</title>
+        <dc:creator><![CDATA[Mew151]]></dc:creator>
+        <description><![CDATA[
+            <p>Strongest invest doesn’t mean it needs a nerf. And functionally it doesn’t make it change a whole deal asides from random info. Obs will follow a bleeder to find out healers (survey it now) or Prince to check out healers/knights (survey it again). You could use it to confirm if a sheriff actually targets a sus assassin and to see where suspect assa went but really how often were you doing that, you would peek the sus player instead.</p>
+<p>I’m not saying “ahhh dont nerf Obs”. I’m saying its completely unnecessary. Like the Merc change. Unnecessary. This game has huge game breaking bugs (see isockets post above) and classes that need huge tinkering or frankly a complete overhaul.</p>
+<p>I don’t need to hear about how useless Twin is (I have 1500 hours I know) but the devs (or dev?) are consistently ignoring real issues and its why scores of players are moving to other games. When I saw an actual balance patch I was exited maybe my former favourite game was going to get some much needed fixes but it’s just ignored the glaring issues the game has (I wont repeat isocket’s excellent points).</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5b-live/80108/72">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5b-live/80108/72</link>
+        <pubDate>Thu, 23 Jan 2020 04:13:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80108-72</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5b-live/80108.rss">Patch v2.5b (LIVE)</source>
+      </item>
+  </channel>
+</rss>

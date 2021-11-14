@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Target Changing ability resolution (Swapping 2 players)</title>
+    <link>https://forum.throneoflies.com/t/target-changing-ability-resolution-swapping-2-players/77363</link>
+    <description># Here&#39;s the setup:
+
+&gt;5, the CW, swaps A and B
+
+&gt;7, the CW, swaps B and C
+
+# Usually, the higher(?) CW in the number list takes priority, so therefore:
+
+&gt;5, the CW, swaps A and B
+
+&gt;7, the CW, swaps B and C, but is redirected from B to A, so that:
+&gt;&gt;7, the CW, swaps A and C.
+
+# My proposed solution to this seemingly arbitrary way to work it is this:
+
+&gt;5, the CW, swaps A and B
+&gt;&gt;Since 7 initially swaps B and C, 5 instead swaps A and C
+
+&gt;7, the CW, swaps B and C
+&gt;&gt;Since 5 initially swaps A and B, 7 instead swaps A and C
+
+# Since 2 CWs are swapping the same person now, they both cancel out and no one is swapped.
+
+# If there were 3 swappers, it could work like this:
+
+&gt;2, the CW, swaps A and B
+&gt;&gt; Since 3 initially swaps B and C, 2 instead swaps A and C.
+&gt;&gt; Since 4 initially swaps C and A, 2 instead swaps C and C.
+
+&gt;3, the Ritualist, swaps B and C
+&gt;&gt; Since 2 initially swaps A and B, 3 instead swaps A and C.
+&gt;&gt; Since 4 initially swaps C and A, 4 instead swaps C and A.
+
+&gt;4, the CW, swaps C and A
+&gt;&gt; Since 2 initially swaps A and B, 4 instead swaps C and B.
+&gt;&gt; Since 3 initially swaps B and C, 4 instead swaps B and B.
+
+## This leads us to the final conclusion:
+
+&gt; 2 swaps C and C, therefore their action is nullified, since targetting the same person twice in a swap is the same as doing nothing
+
+&gt; 3 swaps C and A.
+
+&gt; 4 swaps A and A, therefore their action is nullified.
+
+Any questions?</description>
+    
+    <lastBuildDate>Sun, 14 Jul 2019 00:25:43 +0000</lastBuildDate>
+    <category>Class/Lore/Fanfic</category>
+    <atom:link href="https://forum.throneoflies.com/t/target-changing-ability-resolution-swapping-2-players/77363.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Target Changing ability resolution (Swapping 2 players)</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>That… kinda breaks down in terms of feedback. It also implies that someone targeting in a 2 CW chain should also be split for the same reason.</p>
+<p>I’m simply working on the implicit assumption that you can’t be split.</p>
+<p>In RAR this essentially resolves with 3 rules (which are themselves derived from other rules but never mind that)</p>
+<ul>
+<li>Each Redirects resolve once per effected player</li>
+<li>Redirects resolve in the order they would effect them (basically in situation 1 targeting A swaps you from A to B and then B to C). This also means that a Drunk will always resolve before a CW swap.</li>
+<li>If you are ever being redirected by 2 or more different redirects at the exact same time (redirects going to the same place are not considered different) then you aren’t redirected.</li>
+</ul>
+          <p><a href="https://forum.throneoflies.com/t/target-changing-ability-resolution-swapping-2-players/77363/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/target-changing-ability-resolution-swapping-2-players/77363/5</link>
+        <pubDate>Sun, 14 Jul 2019 00:25:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-77363-5</guid>
+        <source url="https://forum.throneoflies.com/t/target-changing-ability-resolution-swapping-2-players/77363.rss">Target Changing ability resolution (Swapping 2 players)</source>
+      </item>
+      <item>
+        <title>Target Changing ability resolution (Swapping 2 players)</title>
+        <dc:creator><![CDATA[JakeTheWolfie]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="NuclearBurrito" data-post="3" data-topic="77363">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/nuclearburrito/40/4723_2.png" class="avatar"> NuclearBurrito:</div>
+<blockquote>
+<p>A+B<br>
+A+C<br>
+A+D</p>
+</blockquote>
+</aside>
+<p>A+B = 1<br>
+A+C = 2<br>
+A+D = 3</p>
+<p>In 1, A becomes C and D (1 would swap anyone from B to C and D, and vice versa. This, of course, causes multiple targeting, which I am happy with. I do not know about other people.)<br>
+In 2, A becomes B and D.<br>
+In 3, A becomes B and C.</p>
+<p>An analogy to Multi-targeting via swaps would be that you essentially clone the single person and put it in the house of where the multiple people were, and you would put the others in the single person’s house.</p>
+<p>If you do not like multi-targetting, but still want a mechanical way to deduct what happens, then good luck with that, as the swappers themselves (I feel) should at least be changed once to avoid chains (instead of merging them like you did. If we did that then why would no one be changed when they target A?)</p>
+<p>If you don’t want mechanical way to deduct, just make it random.</p>
+          <p><a href="https://forum.throneoflies.com/t/target-changing-ability-resolution-swapping-2-players/77363/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/target-changing-ability-resolution-swapping-2-players/77363/4</link>
+        <pubDate>Sun, 14 Jul 2019 00:11:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-77363-4</guid>
+        <source url="https://forum.throneoflies.com/t/target-changing-ability-resolution-swapping-2-players/77363.rss">Target Changing ability resolution (Swapping 2 players)</source>
+      </item>
+      <item>
+        <title>Target Changing ability resolution (Swapping 2 players)</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>If there is 3 or more CW’s then the swap should become 1 way going towards the overlap</p>
+<p>A+B<br>
+A+C<br>
+A+D</p>
+<p>Anyone targeting B C or D is redirected to A. Anyone targeting A is not redirected.</p>
+<p>Note how the first merging thing I mentioned can be used to prove the 3 or more way swap interaction I mentioned.</p>
+<p>Basically, when there are 2 CW’s who’s swaps are A+B and B+C the CW targeting C is redirected from B to A and the CW targeting A is redirected from B to C, thus anyone else would be redirected from A directly to C.</p>
+<p>If you apply this using RAR logic to a 3 way. A CW targeting A would be potentially redirected by either of the 2 CW’s, however because of the 2 CW rule it resolves as neither of them redirecting the initial CW. Since this works for all 3 CW’s none of them redirect each other and thus all of them redirect towards A.</p>
+<p>When a 3rd party target’s A, you can essentially just note that each CW is locking the others up and thus the 3rd party isn’t redirected.</p>
+<p>Since the 3rd party could just be a ritualist that means this can be expanded indefinitely no matter how many swaps you have</p>
+          <p><a href="https://forum.throneoflies.com/t/target-changing-ability-resolution-swapping-2-players/77363/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/target-changing-ability-resolution-swapping-2-players/77363/3</link>
+        <pubDate>Sat, 13 Jul 2019 23:45:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-77363-3</guid>
+        <source url="https://forum.throneoflies.com/t/target-changing-ability-resolution-swapping-2-players/77363.rss">Target Changing ability resolution (Swapping 2 players)</source>
+      </item>
+      <item>
+        <title>Target Changing ability resolution (Swapping 2 players)</title>
+        <dc:creator><![CDATA[JakeTheWolfie]]></dc:creator>
+        <description><![CDATA[
+            <h1>Here’s the setup:</h1>
+<blockquote>
+<p>5, the CW, swaps A and B</p>
+</blockquote>
+<blockquote>
+<p>7, the CW, swaps B and C</p>
+</blockquote>
+<h1>Usually, the higher(?) CW in the number list takes priority, so therefore:</h1>
+<blockquote>
+<p>5, the CW, swaps A and B</p>
+</blockquote>
+<blockquote>
+<p>7, the CW, swaps B and C, but is redirected from B to A, so that:</p>
+<blockquote>
+<p>7, the CW, swaps A and C.</p>
+</blockquote>
+</blockquote>
+<h1>My proposed solution to this seemingly arbitrary way to work it is this:</h1>
+<blockquote>
+<p>5, the CW, swaps A and B</p>
+<blockquote>
+<p>Since 7 initially swaps B and C, 5 instead swaps A and C</p>
+</blockquote>
+</blockquote>
+<blockquote>
+<p>7, the CW, swaps B and C</p>
+<blockquote>
+<p>Since 5 initially swaps A and B, 7 instead swaps A and C</p>
+</blockquote>
+</blockquote>
+<h1>Since 2 CWs are swapping the same person now, they both cancel out and no one is swapped.</h1>
+<h1>If there were 3 swappers, it could work like this:</h1>
+<blockquote>
+<p>2, the CW, swaps A and B</p>
+<blockquote>
+<p>Since 3 initially swaps B and C, 2 instead swaps A and C.<br>
+Since 4 initially swaps C and A, 2 instead swaps C and C.</p>
+</blockquote>
+</blockquote>
+<blockquote>
+<p>3, the Ritualist, swaps B and C</p>
+<blockquote>
+<p>Since 2 initially swaps A and B, 3 instead swaps A and C.<br>
+Since 4 initially swaps C and A, 4 instead swaps C and A.</p>
+</blockquote>
+</blockquote>
+<blockquote>
+<p>4, the CW, swaps C and A</p>
+<blockquote>
+<p>Since 2 initially swaps A and B, 4 instead swaps C and B.<br>
+Since 3 initially swaps B and C, 4 instead swaps B and B.</p>
+</blockquote>
+</blockquote>
+<h2>This leads us to the final conclusion:</h2>
+<blockquote>
+<p>2 swaps C and C, therefore their action is nullified, since targetting the same person twice in a swap is the same as doing nothing</p>
+</blockquote>
+<blockquote>
+<p>3 swaps C and A.</p>
+</blockquote>
+<blockquote>
+<p>4 swaps A and A, therefore their action is nullified.</p>
+</blockquote>
+<p>Any questions?</p>
+          <p><a href="https://forum.throneoflies.com/t/target-changing-ability-resolution-swapping-2-players/77363/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/target-changing-ability-resolution-swapping-2-players/77363/1</link>
+        <pubDate>Sat, 13 Jul 2019 22:38:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-77363-1</guid>
+        <source url="https://forum.throneoflies.com/t/target-changing-ability-resolution-swapping-2-players/77363.rss">Target Changing ability resolution (Swapping 2 players)</source>
+      </item>
+  </channel>
+</rss>

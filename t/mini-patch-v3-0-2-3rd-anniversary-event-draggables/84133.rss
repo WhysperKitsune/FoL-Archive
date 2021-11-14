@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Mini Patch v3.0.2: 3rd Anniversary Event + Draggables</title>
+    <link>https://forum.throneoflies.com/t/mini-patch-v3-0-2-3rd-anniversary-event-draggables/84133</link>
+    <description>![AVATAR_KINGSLAYER_2020-512|500x500, 75%](upload://vvdAfuJoDGx6roy7gIWhBBmlTZ6.png) 
+
+## [color=lime]Event: 3rd Anniversary[/color]
+  
+* To celebrate our 3rd anniversary, @ those that login within the next 2~3 weeks, you will be rewarded with an exclusive, progressive title and avatar similar to the previous anniversary rewards.
+* ![image|609x500](upload://x8WrnvPhXLtBUqQYcAwr0vTsYJk.jpeg) 
+* To those that hang out within our Discord ( https://discord.gg/tol ) shortly after this patch launches, you will receive an exclusive/colored `Kingslayer III` role that will never be handed out again. We will do a small purge before we hand out this role, so be sure you&#39;ve participated at least once within the past month!
+* Ends Oct 31
+
+## [color=lime]Event: Moon Festival[/color]
+![moonFestivalBanner|512x256](upload://jQYXBCFMGChFzNpGlUXBwa8ODDp.jpeg) 
+* Ends Oct 31
+
+## New/Impr
+* ~~You now have the ability to **disable** chat clicky links in options. Although it says glossary links, this also applies to class card links in chat.~~ (Requires further testing for a future update)
+* When you click your class portrait at the top-left, it will now always open *your class* card. Pressing TAB will continue &quot;resuming&quot; whatever the previous class card was.
+* Tutorial now mentions the **glossary** for acronyms.
+* Added a new &quot;draggable&quot; cursor (the compass-like one) for things draggable.
+* Added new draggable goodies (that, like chat, reset each game):
+  * Whisper panel
+  * Pardon/Execute panel
+  * &quot;Step Forward&quot; button (the outside area)
+* Allowed the chat to resize larger and wider (ability buttons on top).
+* Chat resizer is now less &quot;wonky&quot; (for lack of a better word) after exceeding max thresholds.
+* Draggables demo:
+  ![image|386x140](upload://oSNNMOfkJ477XjngsYlspzZZ4HH.png) 
+  ![image|483x276](upload://5T93LbGW3kCBqlagyuckSUdEunS.jpeg) 
+
+## Fixes
+* Sorc&#39;s day abils should be more consistent.
+* You can no longer see friends online that are in different regions to prevent confusion when joining/inviting would fail.
+* You can no longer receive queued invites from those in another region (it would fail, anyway, if accepted - this is just less confusing).
+* Fixed garbled class card description when you clicked a link before your normally entering class cards.
+* Emotes buttons fixed.
+* Suicide *&quot;are you sure?&quot;* panel will no longer show preemptively.
+* Fix a style typo for &quot;Poison ended your life&quot; feedback to King.
+* More of a workaround than a fix: *Spectator Mode* has been temporarily disabled while we fix the bugs that are preventing matches from starting. 
+* Fixed Snare Trap abil that was literally showing %TARGET% instead of target name.
+* Fixed bad translation key for MVP panel for starting King (eg, &quot;B_D_KING--SOMETHING&quot;).
+* You may now click-thru the winner banner when the game is ending
+* Potentially fixed early-game &quot;fake disconnects&quot; that now check for a heartbeat at NIGHT 1 instead of day 1 (perhaps some folks loaded in slow).
+* Potentially fixed disconnected players&#39; death that would sometimes occur the *following* night (bug) instead of the immediate night (intended).
+* MVP no longer awards bonus gp in private matches (sorry folks, ancient bug).
+* Name selection, when changing names, will now correctly show the old&lt;&gt;new names.
+* Merc&#39;s extra brilders will now offer the bonus gp promised.
+* Fixed tutorial journal button that should now properly open the journal, once it&#39;s enabled (outside the normal force click).
+
+## Chinese Only
+[details=&quot;僅中文 (Click to Expand)&quot;]
+## 僅中文
+1. 因應中文玩家反映，白天時間由90秒延長至110秒。（由於中文輸入較英文耗時，因此調整以便配合英語地區的節奏）
+2. 移除中文職業名稱旁的英文名稱。（主要方便作者在中文版本測試間，能更快解決bug而設）
+3. 修正MVP及玩家介面的中文化bug。
+4. 修正結算版面 開始及終結 時的職業中文名稱。
+5. 修正由中文玩家 #feedback所報告的漢化問題。（感謝中文玩家的報告！請繼續協助我們找出更多漢化出現的問題）
+6. 修正玩家介面中，首王的顯示錯誤 （例如：“B_D_KING–SOMETHING”）
+7. 我們在2019年時發現並向開發團隊報告了一項，當輸入中文並轉換成英文時所造成的[IME bug](https://forum.unity.com/threads/tmp-breaking-chinese-bugs-for-traditional-zhuyin-bopomofo-taiwan-locale.717308/#post-6343383)，開發團隊將會在未來數天內完成修正，並盡快提出修正。
+
+謝謝 `@bAo` 的翻譯！
+
+## Chinese Only (English)
+* **Day timer increased from 90s &gt;&gt; 110s** by popular demand (takes longer to type Chinese than English, so this should better match the English region&#39;s pace).
+* English class names next to the Chinese ones have been removed (mostly used during Chinese alpha to resolve bugs faster as an English speaker).
+* MVP and player panel localization bugs fixed.
+* End screen start/final classes list is now localized.
+* Misc English localizations now in Chinese that were reported to #feedback: Thanks! Please report more unexpected English, as seen.
+* Fixed bad translation key for player panel for starting King (eg, &quot;B_D_KING--SOMETHING&quot;).
+* We are aware of the IME bug that messes up typing Chinese and swaps to English: [This is a **unity** bug](https://forum.unity.com/threads/tmp-breaking-chinese-bugs-for-traditional-zhuyin-bopomofo-taiwan-locale.717308/#post-6343383) for a bug report we submitted in 2019. The dev claims they will have a patch ready &quot;within the next few days&quot;. As soon as it&#39;s available (see above link for updates), we&#39;ll patch it in.
+[/details]
+
+_________
+
+## Recent Discord Poll Result
+![image|690x351](upload://fBan6Np4gBiNftkGHP0gZNxItg5.png) 
+
+_________
+
+## Related
+
+* https://forum.throneoflies.com/t/mini-patch-v3-0-1-clicky-links/83893
+* https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299</description>
+    
+    <lastBuildDate>Mon, 05 Oct 2020 14:05:02 +0000</lastBuildDate>
+    <category>Official Announcements</category>
+    <atom:link href="https://forum.throneoflies.com/t/mini-patch-v3-0-2-3rd-anniversary-event-draggables/84133.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Mini Patch v3.0.2: 3rd Anniversary Event + Draggables</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>Live!</p>
+          <p><a href="https://forum.throneoflies.com/t/mini-patch-v3-0-2-3rd-anniversary-event-draggables/84133/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/mini-patch-v3-0-2-3rd-anniversary-event-draggables/84133/2</link>
+        <pubDate>Mon, 05 Oct 2020 14:05:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84133-2</guid>
+        <source url="https://forum.throneoflies.com/t/mini-patch-v3-0-2-3rd-anniversary-event-draggables/84133.rss">Mini Patch v3.0.2: 3rd Anniversary Event + Draggables</source>
+      </item>
+      <item>
+        <title>Mini Patch v3.0.2: 3rd Anniversary Event + Draggables</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p><div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/d/c/dccad214405692ce40e07965c1ab6364631d2280.png" data-download-href="https://forum.throneoflies.com/uploads/default/dccad214405692ce40e07965c1ab6364631d2280" title="AVATAR_KINGSLAYER_2020-512"><img src="https://forum.throneoflies.com/uploads/default/optimized/3X/d/c/dccad214405692ce40e07965c1ab6364631d2280_2_375x375.png" alt="AVATAR_KINGSLAYER_2020-512" data-base62-sha1="vvdAfuJoDGx6roy7gIWhBBmlTZ6" width="375" height="375" srcset="https://forum.throneoflies.com/uploads/default/optimized/3X/d/c/dccad214405692ce40e07965c1ab6364631d2280_2_375x375.png, https://forum.throneoflies.com/uploads/default/original/3X/d/c/dccad214405692ce40e07965c1ab6364631d2280.png 1.5x, https://forum.throneoflies.com/uploads/default/original/3X/d/c/dccad214405692ce40e07965c1ab6364631d2280.png 2x" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/d/c/dccad214405692ce40e07965c1ab6364631d2280_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">AVATAR_KINGSLAYER_2020-512</span><span class="informations">512×512 92.5 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div></p>
+<h2><font color="lime">Event: 3rd Anniversary</font></h2>
+<ul>
+<li>To celebrate our 3rd anniversary, @ those that login within the next 2~3 weeks, you will be rewarded with an exclusive, progressive title and avatar similar to the previous anniversary rewards.</li>
+<li><div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/e/8/e84a8653730cda9b7368d3ab257e1779decd011a.jpeg" data-download-href="https://forum.throneoflies.com/uploads/default/e84a8653730cda9b7368d3ab257e1779decd011a" title="image"><img src="https://forum.throneoflies.com/uploads/default/original/3X/e/8/e84a8653730cda9b7368d3ab257e1779decd011a.jpeg" alt="image" data-base62-sha1="x8WrnvPhXLtBUqQYcAwr0vTsYJk" width="609" height="500" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/e/8/e84a8653730cda9b7368d3ab257e1779decd011a_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">814×668 151 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div></li>
+<li>To those that hang out within our Discord ( <a href="https://discord.gg/tol">https://discord.gg/tol</a> ) shortly after this patch launches, you will receive an exclusive/colored <code>Kingslayer III</code> role that will never be handed out again. We will do a small purge before we hand out this role, so be sure you’ve participated at least once within the past month!</li>
+<li>Ends Oct 31</li>
+</ul>
+<h2><font color="lime">Event: Moon Festival</font></h2>
+<p><img src="https://forum.throneoflies.com/uploads/default/original/3X/8/b/8b268ccd3aea19d85e342d37828ee2931d5a5357.jpeg" alt="moonFestivalBanner" data-base62-sha1="jQYXBCFMGChFzNpGlUXBwa8ODDp" width="512" height="256"></p>
+<ul>
+<li>Ends Oct 31</li>
+</ul>
+<h2>New/Impr</h2>
+<ul>
+<li>
+<s>You now have the ability to <strong>disable</strong> chat clicky links in options. Although it says glossary links, this also applies to class card links in chat.</s> (Requires further testing for a future update)</li>
+<li>When you click your class portrait at the top-left, it will now always open <em>your class</em> card. Pressing TAB will continue “resuming” whatever the previous class card was.</li>
+<li>Tutorial now mentions the <strong>glossary</strong> for acronyms.</li>
+<li>Added a new “draggable” cursor (the compass-like one) for things draggable.</li>
+<li>Added new draggable goodies (that, like chat, reset each game):
+<ul>
+<li>Whisper panel</li>
+<li>Pardon/Execute panel</li>
+<li>“Step Forward” button (the outside area)</li>
+</ul>
+</li>
+<li>Allowed the chat to resize larger and wider (ability buttons on top).</li>
+<li>Chat resizer is now less “wonky” (for lack of a better word) after exceeding max thresholds.</li>
+<li>Draggables demo:<br>
+<img src="https://forum.throneoflies.com/uploads/default/original/3X/a/e/ae66169a784014d0eb1ab410297271a4f578d46d.png" alt="image" data-base62-sha1="oSNNMOfkJ477XjngsYlspzZZ4HH" width="386" height="140"><br>
+<img src="https://forum.throneoflies.com/uploads/default/original/3X/2/9/2946b46ef90c26e82137c583e4e4a2b36c80ac50.jpeg" alt="image" data-base62-sha1="5T93LbGW3kCBqlagyuckSUdEunS" width="483" height="276">
+</li>
+</ul>
+<h2>Fixes</h2>
+<ul>
+<li>Sorc’s day abils should be more consistent.</li>
+<li>You can no longer see friends online that are in different regions to prevent confusion when joining/inviting would fail.</li>
+<li>You can no longer receive queued invites from those in another region (it would fail, anyway, if accepted - this is just less confusing).</li>
+<li>Fixed garbled class card description when you clicked a link before your normally entering class cards.</li>
+<li>Emotes buttons fixed.</li>
+<li>Suicide <em>“are you sure?”</em> panel will no longer show preemptively.</li>
+<li>Fix a style typo for “Poison ended your life” feedback to King.</li>
+<li>More of a workaround than a fix: <em>Spectator Mode</em> has been temporarily disabled while we fix the bugs that are preventing matches from starting.</li>
+<li>Fixed Snare Trap abil that was literally showing %TARGET% instead of target name.</li>
+<li>Fixed bad translation key for MVP panel for starting King (eg, “B_D_KING–SOMETHING”).</li>
+<li>You may now click-thru the winner banner when the game is ending</li>
+<li>Potentially fixed early-game “fake disconnects” that now check for a heartbeat at NIGHT 1 instead of day 1 (perhaps some folks loaded in slow).</li>
+<li>Potentially fixed disconnected players’ death that would sometimes occur the <em>following</em> night (bug) instead of the immediate night (intended).</li>
+<li>MVP no longer awards bonus gp in private matches (sorry folks, ancient bug).</li>
+<li>Name selection, when changing names, will now correctly show the old&lt;&gt;new names.</li>
+<li>Merc’s extra brilders will now offer the bonus gp promised.</li>
+<li>Fixed tutorial journal button that should now properly open the journal, once it’s enabled (outside the normal force click).</li>
+</ul>
+<h2>Chinese Only</h2>
+<details>
+<summary>
+僅中文 (Click to Expand)</summary>
+<h2>僅中文</h2>
+<ol>
+<li>因應中文玩家反映，白天時間由90秒延長至110秒。（由於中文輸入較英文耗時，因此調整以便配合英語地區的節奏）</li>
+<li>移除中文職業名稱旁的英文名稱。（主要方便作者在中文版本測試間，能更快解決bug而設）</li>
+<li>修正MVP及玩家介面的中文化bug。</li>
+<li>修正結算版面 開始及終結 時的職業中文名稱。</li>
+<li>修正由中文玩家 <span class="hashtag">#feedback所報告的漢化問題。</span>（感謝中文玩家的報告！請繼續協助我們找出更多漢化出現的問題）</li>
+<li>修正玩家介面中，首王的顯示錯誤 （例如：“B_D_KING–SOMETHING”）</li>
+<li>我們在2019年時發現並向開發團隊報告了一項，當輸入中文並轉換成英文時所造成的<a href="https://forum.unity.com/threads/tmp-breaking-chinese-bugs-for-traditional-zhuyin-bopomofo-taiwan-locale.717308/#post-6343383">IME bug</a>，開發團隊將會在未來數天內完成修正，並盡快提出修正。</li>
+</ol>
+<p>謝謝 <code>@bAo</code> 的翻譯！</p>
+<h2>Chinese Only (English)</h2>
+<ul>
+<li>
+<strong>Day timer increased from 90s &gt;&gt; 110s</strong> by popular demand (takes longer to type Chinese than English, so this should better match the English region’s pace).</li>
+<li>English class names next to the Chinese ones have been removed (mostly used during Chinese alpha to resolve bugs faster as an English speaker).</li>
+<li>MVP and player panel localization bugs fixed.</li>
+<li>End screen start/final classes list is now localized.</li>
+<li>Misc English localizations now in Chinese that were reported to <a class="hashtag" href="/c/feedback/12">#<span>feedback:</span></a> Thanks! Please report more unexpected English, as seen.</li>
+<li>Fixed bad translation key for player panel for starting King (eg, “B_D_KING–SOMETHING”).</li>
+<li>We are aware of the IME bug that messes up typing Chinese and swaps to English: <a href="https://forum.unity.com/threads/tmp-breaking-chinese-bugs-for-traditional-zhuyin-bopomofo-taiwan-locale.717308/#post-6343383">This is a <strong>unity</strong> bug</a> for a bug report we submitted in 2019. The dev claims they will have a patch ready “within the next few days”. As soon as it’s available (see above link for updates), we’ll patch it in.</li>
+</ul>
+</details>
+<hr>
+<h2>Recent Discord Poll Result</h2>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/6/d/6d542aee1fa0ec209e7e42331502148ab1ed2f29.png" data-download-href="https://forum.throneoflies.com/uploads/default/6d542aee1fa0ec209e7e42331502148ab1ed2f29" title="image"><img src="https://forum.throneoflies.com/uploads/default/original/3X/6/d/6d542aee1fa0ec209e7e42331502148ab1ed2f29.png" alt="image" data-base62-sha1="fBan6Np4gBiNftkGHP0gZNxItg5" width="690" height="351" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/6/d/6d542aee1fa0ec209e7e42331502148ab1ed2f29_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">765×390 44.4 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div></p>
+<hr>
+<h2>Related</h2>
+<ul>
+<li><a href="https://forum.throneoflies.com/t/mini-patch-v3-0-1-clicky-links/83893" class="inline-onebox">Mini Patch v3.0.1: Clicky Links</a></li>
+<li><a href="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299" class="inline-onebox">Patch v3.0.0: Major Balance / 中文 Chinese Localization</a></li>
+</ul>
+          <p><a href="https://forum.throneoflies.com/t/mini-patch-v3-0-2-3rd-anniversary-event-draggables/84133/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/mini-patch-v3-0-2-3rd-anniversary-event-draggables/84133/1</link>
+        <pubDate>Wed, 30 Sep 2020 15:52:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84133-1</guid>
+        <source url="https://forum.throneoflies.com/t/mini-patch-v3-0-2-3rd-anniversary-event-draggables/84133.rss">Mini Patch v3.0.2: 3rd Anniversary Event + Draggables</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Patch v2.5.3 - Newcomer system, class fixes, Unity 2020</title>
+    <link>https://forum.throneoflies.com/t/patch-v2-5-3-newcomer-system-class-fixes-unity-2020/80918</link>
+    <description>## Class Fixes
+* *Matchmaking* abil feedback chaos should now be fixed (after reverting a failed scalability revamp).
+* Maid no longer has a chance to have herself be the starting  *Matchmake* abil target.
+* &quot;Couldn&#39;t heal&quot; message from *Heal* abilities have been fixed and should show the correct message, which was especially affecting Knight (*poor Knight*).
+* Mystic&#39;s *Conduit* abil fixed, no longer able to target *King*.
+* There are now more-aggressive checks for neutral win checks (with eyes on objective-based classes, sellsword, etc).
+* Inquisitor *Heathen* icon should now -only- show to the Inquisitor when using *Interrogate*.
+* *Tornado* and *Teleportation* redirection abils: 
+  * Will no longer be able to target the same person 2x.
+  * Can now also target self in 2nd slot instead of only 1st (both not both).
+* Fixed *Disguise/Defile* abils that, when combo&#39;d with the same target being converted, would cause desyncs or &quot;incomplete&quot; converts due to unintended errors. 
+  * This should fix *some* feedback-on-convert bugs that were missing (although there are likely additional causes of the bug). 
+  * This also fixed Scorned *Disguise* working on someone that died during a convert attempt to the same target. 
+  * Since this likely caused bugs elsewhere, this may magically fix other bugs in an unknown fashion. 
+
+## Newcomer
+Now that we have a newcomer flag, we can start adding some goodies to start building good habits, such as additional system messages (Thx @Stoneage). These messages are customized per-faction, then also customized per-class for some Neutral.
+* Whenever a user is *imprisoned*, they will be instructed how to handle Prince interrogation.
+  * For BD, you&#39;ll be notified that the Prince is a trusted ally and that you should quickly reveal your class + logs to gain his trust.
+  * For Cultseen, you&#39;ll be notified how dangerous an adversary the Prince is - and that you should offer FAKE claim/logs to gain his trust.
+  * (...etc)
+* Whenever a user is *on trial*, they will be instructed similarly ^ for how to handle a viable defense.
+* At the beginning of each day, there will be a reminder to update your logbook with recent actions + results.
+* Fixed 2019 anniversary gifts still leaking out to new players.
+
+## General
+* Upgraded to Unity 2020: Tested throughout, but there may be some unexpected bugs (or improvements!). The main point of this was to reap the benefits of improved editor performance (previously sluggish) and fix some editor bugs I&#39;ve been waiting for. This will also allow us to use the new graphics pipeline in the future. Let me know if you get a performance boost!
+* I can confirm Win7 works with this Unity 2020 port.
+* Swapped lighting over to an experimental &quot;GPU&quot;-based schema (previously CPU-based): This may improve performance.
+* Some glitchy walls were magically fixed after the Unity 2020 upgrade.
+* Added some code to prep for *Sloof Lirpa* (more later).
+* Settings *Logs Preset* button is now layered *behind* the *Texture Quality* dropdown list.
+* Slightly adjusted color hues after Unity 2020 rendered them &quot;grayish&quot;: Let me know if you like it better or worse (if noticed):
+  
+https://i.imgur.com/CgBJtmZ.jpg
+
+^ I noticed that some death hallways are stupidly bright. I&#39;ll fix it soon, but figured bug fixes trumped this in priority. 
+
+I was playing around with Unity 2020 features and had some nice &quot;light hazing&quot; on the Windows, but of course reverted because that was just a small test and would&#39;ve broken consistency. One day, *everything* involving light needs to be revamped - I know it&#39;s not pretty.
+
+## Test Realm (Beta)
+Test realm is only up occasionally before a patch - it&#39;s not persistent. However, when it is up, it&#39;s best to streamline some stuff:
+* Players will now auto-lock-in their *username* as their IGN.
+* Player classes will now be revealed at the beginning of each match with a new *welcome to test realm* message to better discover combos to test.
+
+## Dev Notes
+* Bugs are bad, mmkay. There are still bugs unfixed, but I gotta patch a little at a time to deliver what we have instead of hoard them all for a giant patch that could potentially cause more bugs - I decided to focus on the ones that had the best bang for the buck of notable impact and speed to fix (some bugs take wayy too long to test and I really wanted to fix a LIST of bugs instead of just like 1 or 2 that will get more love later).
+* In one of the fixes above, there was a HUGE bug involving converting + disguise together that would just destroy silently games (for the rest of the match). This fix will have positive ripple effects on what else it fixed. Let&#39;s keep an eye this patch what was &quot;magically&quot; fixed. If you notice something fixed not in patch notes, let me know!
+* I am still stupidly close to finishing localization. Next patch may be a bit boring so I can wrap this up. Localization to a native English speaker sounds boring, but opening the doors to new markets means higher budget: The more we make and the more globally-popular we are, the better things that arrive to *Throne*! We&#39;ve demonstrated for years we always reinvest in *Throne of Lies*. Localization means better things for all of us.
+
+____
+## More
+https://forum.imperium42.com/t/mini-patch-v2-5-4-testing/81011
+___
+
+--Xblade
+&lt;https://discord.gg/tol&gt;</description>
+    
+    <lastBuildDate>Sun, 29 Mar 2020 14:44:40 +0000</lastBuildDate>
+    <category>Official Announcements</category>
+    <atom:link href="https://forum.throneoflies.com/t/patch-v2-5-3-newcomer-system-class-fixes-unity-2020/80918.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Patch v2.5.3 - Newcomer system, class fixes, Unity 2020</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>Live!</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5-3-newcomer-system-class-fixes-unity-2020/80918/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5-3-newcomer-system-class-fixes-unity-2020/80918/5</link>
+        <pubDate>Sun, 29 Mar 2020 14:44:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80918-5</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5-3-newcomer-system-class-fixes-unity-2020/80918.rss">Patch v2.5.3 - Newcomer system, class fixes, Unity 2020</source>
+      </item>
+      <item>
+        <title>Patch v2.5.3 - Newcomer system, class fixes, Unity 2020</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>Added:</p>
+<ul>
+<li>Maid no longer has a chance to have herself be the starting <em>Matchmake</em> abil target.</li>
+<li>Settings <em>Logs Preset</em> button is now layered <em>behind</em> the <em>Texture Quality</em> dropdown list.</li>
+<li>I can confirm Win7 works with this Unity 2020 port.</li>
+</ul>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5-3-newcomer-system-class-fixes-unity-2020/80918/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5-3-newcomer-system-class-fixes-unity-2020/80918/4</link>
+        <pubDate>Sat, 28 Mar 2020 12:32:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80918-4</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5-3-newcomer-system-class-fixes-unity-2020/80918.rss">Patch v2.5.3 - Newcomer system, class fixes, Unity 2020</source>
+      </item>
+      <item>
+        <title>Patch v2.5.3 - Newcomer system, class fixes, Unity 2020</title>
+        <dc:creator><![CDATA[Braixen]]></dc:creator>
+        <description><![CDATA[
+            <p>Potential reminder to put if the you were prevented or occupied or redirected as many new players are mis-exed due to not saying they were occupied/redirected/prevented</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5-3-newcomer-system-class-fixes-unity-2020/80918/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5-3-newcomer-system-class-fixes-unity-2020/80918/3</link>
+        <pubDate>Fri, 27 Mar 2020 16:51:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80918-3</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5-3-newcomer-system-class-fixes-unity-2020/80918.rss">Patch v2.5.3 - Newcomer system, class fixes, Unity 2020</source>
+      </item>
+      <item>
+        <title>Patch v2.5.3 - Newcomer system, class fixes, Unity 2020</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>Added:</p>
+<h2>Newcomer</h2>
+<p>Now that we have a newcomer flag, we can start adding some goodies to start building good habits, such as additional system messages (Thx <a class="mention" href="/u/stoneage">@Stoneage</a>). These messages are customized per-faction, then also customized per-class for some Neutral.</p>
+<ul>
+<li>Whenever a user is <em>imprisoned</em>, they will be instructed how to handle Prince interrogation.
+<ul>
+<li>For BD, you’ll be notified that the Prince is a trusted ally and that you should quickly reveal your class + logs to gain his trust.</li>
+<li>For Cultseen, you’ll be notified how dangerous an adversary the Prince is - and that you should offer FAKE claim/logs to gain his trust.</li>
+<li>(…etc)</li>
+</ul>
+</li>
+<li>Whenever a user is <em>on trial</em>, they will be instructed similarly ^ for how to handle a viable defense.</li>
+<li>At the beginning of each day, there will be a reminder to update your logbook with recent actions + results.</li>
+</ul>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5-3-newcomer-system-class-fixes-unity-2020/80918/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5-3-newcomer-system-class-fixes-unity-2020/80918/2</link>
+        <pubDate>Fri, 27 Mar 2020 08:05:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80918-2</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5-3-newcomer-system-class-fixes-unity-2020/80918.rss">Patch v2.5.3 - Newcomer system, class fixes, Unity 2020</source>
+      </item>
+      <item>
+        <title>Patch v2.5.3 - Newcomer system, class fixes, Unity 2020</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <h2>Class Fixes</h2>
+<ul>
+<li>
+<em>Matchmaking</em> abil feedback chaos should now be fixed (after reverting a failed scalability revamp).</li>
+<li>Maid no longer has a chance to have herself be the starting  <em>Matchmake</em> abil target.</li>
+<li>“Couldn’t heal” message from <em>Heal</em> abilities have been fixed and should show the correct message, which was especially affecting Knight (<em>poor Knight</em>).</li>
+<li>Mystic’s <em>Conduit</em> abil fixed, no longer able to target <em>King</em>.</li>
+<li>There are now more-aggressive checks for neutral win checks (with eyes on objective-based classes, sellsword, etc).</li>
+<li>Inquisitor <em>Heathen</em> icon should now -only- show to the Inquisitor when using <em>Interrogate</em>.</li>
+<li>
+<em>Tornado</em> and <em>Teleportation</em> redirection abils:
+<ul>
+<li>Will no longer be able to target the same person 2x.</li>
+<li>Can now also target self in 2nd slot instead of only 1st (both not both).</li>
+</ul>
+</li>
+<li>Fixed <em>Disguise/Defile</em> abils that, when combo’d with the same target being converted, would cause desyncs or “incomplete” converts due to unintended errors.
+<ul>
+<li>This should fix <em>some</em> feedback-on-convert bugs that were missing (although there are likely additional causes of the bug).</li>
+<li>This also fixed Scorned <em>Disguise</em> working on someone that died during a convert attempt to the same target.</li>
+<li>Since this likely caused bugs elsewhere, this may magically fix other bugs in an unknown fashion.</li>
+</ul>
+</li>
+</ul>
+<h2>Newcomer</h2>
+<p>Now that we have a newcomer flag, we can start adding some goodies to start building good habits, such as additional system messages (Thx <a class="mention" href="/u/stoneage">@Stoneage</a>). These messages are customized per-faction, then also customized per-class for some Neutral.</p>
+<ul>
+<li>Whenever a user is <em>imprisoned</em>, they will be instructed how to handle Prince interrogation.
+<ul>
+<li>For BD, you’ll be notified that the Prince is a trusted ally and that you should quickly reveal your class + logs to gain his trust.</li>
+<li>For Cultseen, you’ll be notified how dangerous an adversary the Prince is - and that you should offer FAKE claim/logs to gain his trust.</li>
+<li>(…etc)</li>
+</ul>
+</li>
+<li>Whenever a user is <em>on trial</em>, they will be instructed similarly ^ for how to handle a viable defense.</li>
+<li>At the beginning of each day, there will be a reminder to update your logbook with recent actions + results.</li>
+<li>Fixed 2019 anniversary gifts still leaking out to new players.</li>
+</ul>
+<h2>General</h2>
+<ul>
+<li>Upgraded to Unity 2020: Tested throughout, but there may be some unexpected bugs (or improvements!). The main point of this was to reap the benefits of improved editor performance (previously sluggish) and fix some editor bugs I’ve been waiting for. This will also allow us to use the new graphics pipeline in the future. Let me know if you get a performance boost!</li>
+<li>I can confirm Win7 works with this Unity 2020 port.</li>
+<li>Swapped lighting over to an experimental “GPU”-based schema (previously CPU-based): This may improve performance.</li>
+<li>Some glitchy walls were magically fixed after the Unity 2020 upgrade.</li>
+<li>Added some code to prep for <em>Sloof Lirpa</em> (more later).</li>
+<li>Settings <em>Logs Preset</em> button is now layered <em>behind</em> the <em>Texture Quality</em> dropdown list.</li>
+<li>Slightly adjusted color hues after Unity 2020 rendered them “grayish”: Let me know if you like it better or worse (if noticed):</li>
+</ul>
+<p><a href="https://i.imgur.com/CgBJtmZ.jpg" class="onebox" target="_blank" rel="noopener">https://i.imgur.com/CgBJtmZ.jpg</a></p>
+<p>^ I noticed that some death hallways are stupidly bright. I’ll fix it soon, but figured bug fixes trumped this in priority.</p>
+<p>I was playing around with Unity 2020 features and had some nice “light hazing” on the Windows, but of course reverted because that was just a small test and would’ve broken consistency. One day, <em>everything</em> involving light needs to be revamped - I know it’s not pretty.</p>
+<h2>Test Realm (Beta)</h2>
+<p>Test realm is only up occasionally before a patch - it’s not persistent. However, when it is up, it’s best to streamline some stuff:</p>
+<ul>
+<li>Players will now auto-lock-in their <em>username</em> as their IGN.</li>
+<li>Player classes will now be revealed at the beginning of each match with a new <em>welcome to test realm</em> message to better discover combos to test.</li>
+</ul>
+<h2>Dev Notes</h2>
+<ul>
+<li>Bugs are bad, mmkay. There are still bugs unfixed, but I gotta patch a little at a time to deliver what we have instead of hoard them all for a giant patch that could potentially cause more bugs - I decided to focus on the ones that had the best bang for the buck of notable impact and speed to fix (some bugs take wayy too long to test and I really wanted to fix a LIST of bugs instead of just like 1 or 2 that will get more love later).</li>
+<li>In one of the fixes above, there was a HUGE bug involving converting + disguise together that would just destroy silently games (for the rest of the match). This fix will have positive ripple effects on what else it fixed. Let’s keep an eye this patch what was “magically” fixed. If you notice something fixed not in patch notes, let me know!</li>
+<li>I am still stupidly close to finishing localization. Next patch may be a bit boring so I can wrap this up. Localization to a native English speaker sounds boring, but opening the doors to new markets means higher budget: The more we make and the more globally-popular we are, the better things that arrive to <em>Throne</em>! We’ve demonstrated for years we always reinvest in <em>Throne of Lies</em>. Localization means better things for all of us.</li>
+</ul>
+<hr>
+<h2>More</h2>
+<p><a href="https://forum.imperium42.com/t/mini-patch-v2-5-4-testing/81011" class="onebox" target="_blank" rel="noopener">https://forum.imperium42.com/t/mini-patch-v2-5-4-testing/81011</a></p>
+<hr>
+<p>–Xblade<br>
+<a href="https://discord.gg/tol">https://discord.gg/tol</a></p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-5-3-newcomer-system-class-fixes-unity-2020/80918/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-5-3-newcomer-system-class-fixes-unity-2020/80918/1</link>
+        <pubDate>Thu, 26 Mar 2020 15:35:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80918-1</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-5-3-newcomer-system-class-fixes-unity-2020/80918.rss">Patch v2.5.3 - Newcomer system, class fixes, Unity 2020</source>
+      </item>
+  </channel>
+</rss>

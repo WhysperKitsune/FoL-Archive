@@ -1,0 +1,1281 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>DRX - Mirrored Embers - 0/16</title>
+    <link>https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426</link>
+    <description>&lt;div align=&quot;center&quot;&gt;
+
+![DR5 Logo|690x307](upload://zqKFNQzVPrkIDHfR2olPJ0I8WfC.jpeg) 
+
+# DR5: Mirrored Embers
+
+A killing game.
+Hosted by Arete and Icibalus.
+
+&lt;/div&gt;
+
+**What is this?**
+
+- Dangan Ronpa is a forum game based on the approximately popular game series of the same named, except because I&#39;m hosting it, there will be a *minimal* amount of anime.
+- In the game, you explore the map in the **Daily Life** phase, uncover evidence in the **Deadly Life** phase, and attempt to bring the killer to justice in the **Class Trial**. You can perform actions that could be- well, just about anything an actual human could do.
+- In the game, the majority of players will be [color=teal]**Participants**[/color], but one player, lurking among them, will be the nefarious [color=brown]**Mastermind**[/color], plotting their destruction.
+- There are two ways to win as a [color=teal]**Participant**[/color]:
+- - Survive the killing game, unveil all the Blackened, and expose the Mastermind in the **FINAL TRIAL**
+- - Commit murder and survive to escape the town.
+- There are two ways for the [color=brown]**Mastermind**[/color] to win:
+- - Ensure the Participants fail to expose N murderers. The value of N is unknown, even to the [color=brown]**Mastermind**[/color].
+- - Survive the **FINAL TRIAL** without being exposed.
+- Note that the [color=brown]**Mastermind**[/color] *cannot* directly kill, but they have other... advantages that they can use to help bring the [color=teal]**Participants**[/color] down.
+- There are also the neutral [color=red]**Wildcards**[/color], who win by doing:
+- - Something. You don&#39;t know what, but something.
+
+**Daily Life**
+
+- During this phase, players may perform actions freely (explained below), explore the academy, and do incredibly stupid and completely unjustifiable actions for the sake of ephemeral comedy.
+- Throughout the map are secret items, hidden rooms, puzzles, and at least one secret passage. Some of these items are murder weapons. Do with them what their name suggests and you might win.
+- During **Daily Life**, players have the option to become **Blackened** by comitting murder. This action is tiring, but could potentially win you the game if you go undetected.
+- During this phase, the game will change between **Day** and **Night**, on a 12/12 cycle.
+- The following changes will occur during night time:
+- 1. Murders have a +2% chance of succeeding at night time, thanks to the low visibility.
+- 2. Sleeping in your dorm room will gain you +30% of your AP per hour, and will allow you to have 150% more than your AP maximum. This is opposed to sleeping during the day, which grants +20% per hour and does not allow you to exceed your AP maximum.
+- 3. The base cost for moving between locations will become 2 AP instead of 1 AP.
+- This phase will end when a body is discovered by a group of three or more players encountering a dead body. This could, of course, include the **Blackened**.
+
+**Deadly Life**
+
+ - Players may investigate the school once more, but not to explore. Instead, they must determine the identity of the killer by finding evidence. The phase lasts for 24 hours.
+- This phase is fairly simple, so I shall use the rest of this section to explain some finer points of homicide:
+- - Killing a player is a mix of RNG and stats, and costs 40% of your total AP to work up the nerve to murder.
+- - When a murder happens, it&#39;s extremely likely that physical evidence will be left behind, and there&#39;s not much you can do to stop that. Mostly blood.
+- - Due to magical wards in place in the town, all items marked with blood cannot be dropped outside of the building the murder was comitted in.
+- - Items involved in the murder that are not covered with blood can be placed anywhere, but cannot be easily destroyed.
+- - A maximum of 2 players may be murdered in each Daily Life phase. If two seperate murders were comitted, only the  murderer of the first body to be discobered is Blackened. There are only a few, niche, exceptions to this rule:
+- - - If the bodies were discovered simultaneously, the murder which was committed first chronologicaly decides the Blackened.
+- - - If the murderer of the first victim is then murdered, their murderer will be the Blackened.
+- - - If both murders were committed simultaneously and discovered simultaneously, the Blackened will be decided by luck.
+- - A dead player can be Blackened in cases of suicide. However, without access to necromancy, it is impossible to win this way.
+
+**Class Trial**
+- For 48 hours, players may freely discuss the murder, the evidence, and the identity of the killer. No actions may be performed except for showing the class evidence in your inventory.
+- Players may vote **privately** during the Class Trial. If all players have voted, the phase will end early.
+- Votes are **weighted** according to your INT stat. Please check later sections.
+- If all players excepting the Mastermind and the Blackened vote correctly, the trial is automatically a success.
+
+**Items And Stats**
+
+- There are 5 stats in the game:
+- - STR - How strong you are, your ability to perform physically taxing actions.
+- - CON - How resistant you are, rarely used for stat rolls, but determines AP.
+- - AGI - How fast and dexterous you are.
+- - INT - How smart you are, determines your vote weight in class trials, and affects your ability to perform complex, precise actions. 
+- - LUK - Your affinity for the endless stream of random bullshit endemic to killing games.
+- In addition, all players (unless otherwise stated) have 5 **Public Item Slots** and 1 **Private Item Slot**, each of which can hold one item.
+- **Public Item Slots** can be inspected at any time. However, you may only check another player&#39;s **Public Slots** a maximum of 3 times per cycle.
+- **Private Item Slots** cannot be checked normally. However, during the Deadly Life phase, one **Private Item Slot** from each player will temporarily become public.
+- It is possible to steal another player&#39;s items from one of their **Public Slots** by passing a roll of (AGI/2)%
+
+**IMPORTANT STAT INFO (FOR NERDS (AND ALSO PEOPLE WHO WANT TO LIVE))**
+
+- Melee Attack Kill Chance = (50 + (Attacker STR - Defender STR)/2 + Weapon Attack - (Defender&#39;s LUK/8))%
+- Projectile Kill Chance = (50 + (Attacker AGI  - Defender AGI)/2 + Weapon Attack - (Defender&#39;s LUK/8))%
+- Poision Kill Chance = 100%, unless an antidode is found.
+- Time Until Poison Kill = (Poison Power)*(1+Defender&#39;s CON/5).  Symptoms will be experienced depending on the poison.
+- Electrocution, Drowning, Burn, And Miscellaneous Kill Chance = 100% - (Victim&#39;s CON/2 + LUK/5). Advantage (roll twice, if  either roll kills, the victim is dead) may be given for strong miscellaneous methods, Disadvantage (roll twice, the victim may only die if both kill) may be given for weak miscellaneous methods of murder. Use with caution.
+- Maximum AP = 25 + CON/4
+- Vote Weight = 80 + INT/2
+
+**AP And Actions**
+
+- All players begin the game with an amount of AP. Moving rooms costs 1 AP during the day (2 AP at night). 
+- **All actions, unless otherwise stated, cost 1 AP**
+- Murdering another player costs 40% of your total AP to attempt.
+ - AP may be recovered by the following methods:
+- - Sleeping. During the day, recover 20% of your max AP each hour. At night, this moves up to 30% of your max AP.
+- - Eating.
+- - Magic
+
+**Roles, and also Magic**
+
+- All players will have a role granting them special abilities. You are free to reveal these abilities, but note that there are.. certain incentives not to claim your true capabilities. These cards also include a name and gender.
+- Each role has a one-use ***ULTIMATE ABILITY***, which can only be used **once per game**, but have exceedingly powerful effects.
+- Magic exists within this game, allowing players to violate the laws of physics, and additionally the laws of taste. However, magic obeys ***very*** strict rules, and is very hard to keep a secret. It cannot be used as a catch-all. Be sure to familliarise yourself with the arcane if you wish to use it as a weapon, or uncover the nature of its&#39; use.
+
+# **Map**
+
+---- 
+
+![image|556x500](upload://7edxAeQa28Eo9nxtLRsnhMtm1cG.jpeg) 
+
+Each of the building areas marked by a letter has their own unique minimap in 3D.  See them below:
+
+**A, B, and C - Dorm Rooms**
+
+
+[details=]
+![Dorm Rooms|414x384](upload://yZnhNUrsjS3nuIKklnkG692d4sR.png) 
+[/details]
+
+**D - Deluxe Dorm Rooms**
+
+
+[details=&quot;&quot;]
+![image|504x500](upload://e9kW2TAobavo2sHk4EwH7ZMdtlb.png) 
+[/details]
+
+**E - Hospital**
+
+[details=&quot;&quot;]
+![image|623x500](upload://iDCNt3tNfae1I47zLpQHymHHyaJ.png) 
+[/details]
+
+**F - Bank**
+
+
+[details=&quot;&quot;]
+![Feybrook Arcane Ventures|524x500](upload://uldRwmb2bbyeEkNyMx2GitzKDUu.png) 
+[/details]
+
+**G - Senate**
+
+
+[details=&quot;&quot;]
+![image|525x499](upload://wTwZIAuCPVglghl4TxsoRoIcQ0t.png) 
+[/details]
+
+**H - Library**
+
+
+[details=&quot;&quot;]
+![image|584x500](upload://sReALUgscaeFbUCipjrCBAHOjMo.png) 
+[/details]
+
+------------
+
+**Changes From Previous Games (TL;DR)**
+
+- The nature of discovering bodies has changed somewhat.
+- Some of the wording has been changed to be a bit more naturalistic.
+- Magic exists and can be manipulated as part of the game. Otherwise, the game will stick more closely to reality. Expect slightly more detail forensics-wise.
+
+**Signups**
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.</description>
+    
+    <lastBuildDate>Sun, 14 Mar 2021 20:41:59 +0000</lastBuildDate>
+    <category>Completed</category>
+    <atom:link href="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>DRX - Mirrored Embers - 0/16</title>
+        <dc:creator><![CDATA[CRichard564]]></dc:creator>
+        <description><![CDATA[
+            <p>I’ll admit it, that meme post should never have been a thing.<br>
+And yes I shouldn’t have threatened Night over that meme post.</p>
+          <p><a href="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/376">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/376</link>
+        <pubDate>Sun, 14 Mar 2021 20:41:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84426-376</guid>
+        <source url="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426.rss">DRX - Mirrored Embers - 0/16</source>
+      </item>
+      <item>
+        <title>DRX - Mirrored Embers - 0/16</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            <p>Hi everyone,</p>
+<p>This is where we worked on game design, primarily. Feel free to look through this to see things that you missed, and/or lore details that started out as one thing but evolved into another over time.</p>
+<p>I hope you enjoyed the game!</p>
+          <p><a href="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/375">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/375</link>
+        <pubDate>Sun, 14 Mar 2021 19:36:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84426-375</guid>
+        <source url="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426.rss">DRX - Mirrored Embers - 0/16</source>
+      </item>
+      <item>
+        <title>DRX - Mirrored Embers - 0/16</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/374">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/374</link>
+        <pubDate>Sun, 14 Mar 2021 19:35:45 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84426-374</guid>
+        <source url="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426.rss">DRX - Mirrored Embers - 0/16</source>
+      </item>
+      <item>
+        <title>DRX - Mirrored Embers - 0/16</title>
+        <dc:creator><![CDATA[Icibalus]]></dc:creator>
+        <description><![CDATA[
+            <p>final endgame post:</p>
+<hr>
+<h1>
+<a class="mention" href="/u/arcticxi">@ArcticXI</a>, <a class="mention" href="/u/eevee">@eevee</a>, <a class="mention" href="/u/katze">@katze</a>, <a class="mention" href="/u/min">@min</a>, <a class="mention" href="/u/tangeld">@Tangeld</a> and <a class="mention" href="/u/apprentice">@Apprentice</a> successfully identified the Mastermind and escape victoriously!</h1>
+<h1>
+<a class="mention" href="/u/jane">@Jane</a> successfully committed murder, and wins the game!</h1>
+<h1><font color="red">All dead players, including CRichard, have lost the game.</font></h1>
+<ul>
+<li>CRich was killed in the lore due to threatening to break the rules, a modkillable offense, as well as unacceptable behaviour regarding Nightingale, their previous slot holder. We were unable to modkill him during the game due to him being in the PoE at the time, and this making the case against the Mastermind even worse. With that said:</li>
+</ul>
+<h1><font color="blue"><a class="mention" href="/u/trochilidae">@Trochilidae</a>  lost all their memories, and receives a draw as a result.</font></h1>
+<ul>
+<li>There are two key reasons for this. Firstly, CRIch’s behaviour made the case against them unfairly potent due to him spewing himself as not the Mastermind using improper methods.</li>
+<li>Secondly, the damning evidence gained from the Theatre of Darkest Hours was a moderror. The version of the part discussing Matilda Martell’s backstory was a first draft that was not indended to be posted- the intention was to edit the section to make the evidence pointing towards them far more subtle than it was. This mistake on my part was severe enough that I feel it grounds to grant a no contest for them, since they lost due to a mod mistake rather than their own play (although that did play into the loss, since the mistake did not 100% damn them).</li>
+</ul>
+<p><strong>Thank you all for playing.</strong></p>
+          <p><a href="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/373">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/373</link>
+        <pubDate>Sun, 14 Mar 2021 16:43:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84426-373</guid>
+        <source url="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426.rss">DRX - Mirrored Embers - 0/16</source>
+      </item>
+      <item>
+        <title>DRX - Mirrored Embers - 0/16</title>
+        <dc:creator><![CDATA[Icibalus]]></dc:creator>
+        <description><![CDATA[
+            <div align="center">
+<p><big> “Hmm. Well, you all figured out the truth anyway, but let’s go through everything that happened…”</big></p>
+<hr>
+</div>
+<p>It’s somewhat hard to pinpoint when this story began, but perhaps the best way to explain it would be to start with the villain of the piece, one <font color="red"><strong>Timoleon Silverheart</strong></font>. Timoleon Silverheart, for reasons obscure, began to become obsessively convinced that following the rising of the Atlantic Wastes, magic was dying, and drastic measures had to be taken in order to ensure that humanity did not lose access to magic. This was of course entirely wrong, but in his research to find a solution to this imaginary problem, he found a pocket dimension known as The Knot.</p>
+<p>The Knot was ruled by a set of three sentient artifacts known as the Three Fates, who by a complex ritual ended up being bound to run an iterative game by which Timoleon Silverheart could generate an Ultimate Mage. This was attempted after Timoleon had already abused many people in an attempt to get them to release enough “aninos”, a particle he believed to catalyse the Ultimate Mage to ascend to a greater level of power.</p>
+<p>Using his supernatural ability to manipulate money, as well as using old-fashioned donations from extremely wealthy benefactors, in particular Daphne Fansleigh-Reynolds, Duchess of the Atlantic Wastes, Timoleon gathered funds that he hoped to use in order to create the most effective possible incubation by hellfire. However, this naturally left traces of suspicious activity, that were picked up on by the son of Alfred Abode, Harleck, who prompted his father to create a select committee in order to investigate the supernatural embezzlement. Meanwhile, the Magic Circle, ever watchful, likewise began to close in on the operation with intent to shut it down. Finally, even from within Project Ouroboros, suspicion of Timoleon’s motives grew, most notably from the Duchess and from a minor researcher named Nicholas Arden. Taking all of this into consideration, Timoleon decided to accelerate the experiment’s timeframe, throwing caution to the wind.</p>
+<p>Selecting 15 students who showed signs of Ultimate ability as well as signs of extreme trauma, he got them to agree to enter the Knot, hence leading to Feybrook University. The first three games were simple matters of election and discovery that we don’t need to go into detail on, but all the while the threat of death hung over the childrens’ heads. That threat came to reality in the fourth iteration, where Alex Bracknell was murdered by an unknown party. Who that person is does not particularly matter, as this death somewhat… poisoned the iterative process by which the rules of the game were defined.</p>
+<p>In the fifth loop,  a far more familliar set of deadly rules came into effect. It was at <em>this</em> point that the player known as the Mastermind became a reality. Discovering of the death of their girlfriend in a previous life using the Inverted Library, surrounded by death on all sides, the Mastermind made a moral calculation. They alone had discovered the truth, and they realised that Timoleon Silverheart had no intention of stopping the game, unless they made it too deadly to continue. Using a horrific ritual, they killed five of their fellow classmates in a magical explosion, and using this, took control of the Knot, with intent to make sacrifices of them all… and of their own morality.</p>
+<p>Outside, the forces that had closed in around Timoleon comfronted him, but while not willing to give up the search for the Ultimate Mage, Timoleon decided he needed to buy time, and concoted Project Jormungandr, dedicated to reversing the effects of his previous project. Unbenknownst to the other leading figures on the project, Timoleon concealed crucial evidence that could be used to easily expose the Mastermind and end the time loops forever, and hence left the project in a position where they could do nothing, year after year, as they watched people die by the hundreds (but never enough that they’d figure out the Mastermind, thanks to Mr. Silverheart’s deception.)</p>
+<p>That was until the 7131st loop. During this loop, something was different. A 16th player had entered the game, the spirit of King Arthur Pendragon, awakened by the ultimate suffering of his people.  It is said that he would return in Albion’s greatest time of need, and indeed this was the case- the time dialation effecting the Knot was growing more and  more extreme, which would eventually lead to it flooding potentially the entire world with traumatised teenagers, something that would likely be enough to cause the wholesale collapse of society.</p>
+<p>This was what lead to the second case of the Ultimate Hunt- Arthur intended to break the rules of the game in order to weaken it to interference. Despite his failure to fully acheive this objective, he weakened it just enough to allow Project Jormungandr to send Kobayashi Asuka through, and eventually leading to them being able to send enough clues to uncover the Mastermind’s identity. (This is also the reason we were able to sned them the note that exposed Timoleon Silverheart, by the way, children.)</p>
+<p>The Mastermind attempted to conceal themselves. They faked their own attempted suicide, an outrageous risk that very nearly carried them through another loop. But, killed by Sonja Erikson, foolishly drinking the mislabelled Elixir, the Mastermind became the third victim of their own game, perhaps seeking to escape the horrible suffering they themselves caussed.</p>
+<p>That’s why you did it, isn’t it…</p>
+<h1>Matilda Martell, the Ultimate Witch, and the <font color="purple">Mastermind</font> <a class="mention" href="/u/trochilidae">@Trochilidae</a>
+</h1>
+<hr>
+<p><strong>Please discuss amongst yourselves. The finale will begin shortly.</strong></p>
+          <p><a href="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/372">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/372</link>
+        <pubDate>Sun, 14 Mar 2021 16:01:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84426-372</guid>
+        <source url="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426.rss">DRX - Mirrored Embers - 0/16</source>
+      </item>
+      <item>
+        <title>DRX - Mirrored Embers - 0/16</title>
+        <dc:creator><![CDATA[Icibalus]]></dc:creator>
+        <description><![CDATA[
+            <h1>Post Script: The Milky Waters Of The River Lethe</h1>
+<hr>
+<p>In an empty Feybrook stands Matilda Martell, and the Three Fates before her. She trembles.</p>
+<p>“W…why have you called me here? I-I failed.” she said, shivering.  Clotho grinned.<br>
+<em>“No, you succeded.”</em> she spoke <em>“The loops have ended. Ironically, you acheived exactly what you wanted to acheive, making the game so shocking that Project Jormungandr would kill Timoleon Silverheart. You gave <strong>us</strong> enough time to figure out how to get the others out. Buuuut. The rules stop us from doing that for you”</em>.</p>
+<p>Matilda turned to Aretena, then to Monkeuma, as if trying to stammer out some kind of answer, shakily slam the keys of the typewriter into a belated expression of VICTORY, but could do no such thing. She clutched herself by the arms, and sat down on the floor, twisted adages burrowing deep into her mind.</p>
+<p>“…I was the villain. That’s what you’re saying, isn’t it? I was the tragic hero of this fucking GREEK TRAGEDY that you make me play and… I deserve it. But so do you. And what is there to do now? I get a moment of empty… what is it, anagonrisis, after seeing everything I wanted come to fruitiion, and then I realise that I’m empty inside becuase… I gave up something. The nuns were right. I really am just hellspawn. My death approaches.”</p>
+<p>Lachesis stepped forward. "Not… exactly. We’re moving on out of here, and after that… well, this whole pocket dimension will collapse, and we don’t know <strong>what</strong> will happen to you. Maybe you’ll somehow flourish. But we have a better offer.</p>
+<p>"<strong>Who fucking said there can’t be <em>four</em> Fates?"</strong> said Atropos. Matilda froze in place.</p>
+<p><em>“Oh, you’re never going back to  your world, but… We could use some company. We’re going elsewhere again, to another world, establishing a new Knot, and we’re probably going to be accosted by some other asshole who thinks he understands magic, and forced to… I don’t know, host a singing contest where if you sing badly we have to kill them. You know, something like that.”</em></p>
+<p>Matilda, stone-faced, held out her hand. “Fine. But… can you do one thing for me, first? Before… I submit myself to the unknown.”</p>
+<p><strong>"What do you want"</strong></p>
+<p>“I want you to kill Matilda Martell. Not… <em>me</em>, but I want you to kill every last second of that miserable girl’s life. Burn away my memories.”</p>
+<p>The Three Fates thought for a moment. Then grins spread across their faces. A wave of miky warmth spread across Feybrook, as the city of death folded in on itself, wiping away every trace of Matilda Martell, her body and her life, leaving nothing but The Four Fates. Clotho, Lachesis, Vaféas, and Atropos.</p>
+<p>“<font color="blue"><strong>I feel better already.</strong></font>” said Vateas, her face empty, her eyes staring with near-hypnotised glee at not remembering a second of herself. “<font color="blue"><strong>Where are we to go next, bretheren?</strong></font>”</p>
+<p>“<strong>I don’t fucking know. Maybe we could go to the fucking Among Us dimension or something like that?</strong>”</p>
+<p><em>“By the gods, no. I vote we go to say… a version of the world we just visited but without magic. I’m sure one exists.”</em></p>
+<p>“…What exactly are we going to do there?”</p>
+<p>“<font color="blue"><strong>Clotho, are you going to try and set up another killing game? Because, well, I veto that for a few thousand years. The human that was once me is still screaming in the back of my skull not to do that.</strong></font>”</p>
+<p><em>“Really? But I had an excellent idea! We could manipulate events such that one happens in the real world using something called the Wellspring…”</em></p>
+<p>“<strong>That’s already happened, actually. Saw it happen back when me and Lachesis were the Two Fates.</strong>”</p>
+<p><em>“Are you sure that’s not just us from the future who caused that, Atropos?”</em></p>
+<p><strong>"After over seven thousand iterations of timey-wimey bullshit, I quite frankly don’t fucking care, we’re not doing it until I fucking forget about it, which thereby resolves the bootstrap paradox. Time travel authors think they’re so fucking clever that they don’t realise the solution to their contrived-ass paradoxes is just being a complete fucking dumbass. I cannot stress this enough.</strong>"</p>
+<p>“Well, wherever we’re going next… We should probably not be here.” said Lachesis.<br>
+“<font color="blue"><strong>Agreed</strong></font>” said Vateas.<br>
+“<em>I suppose.</em>” said Clotho.<br>
+“<strong>Fucking <em>finally</em></strong>.” said Atropos.</p>
+<p>And then Feybrook dissapeared, and Fate left the universe forever.</p>
+          <p><a href="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/371">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/371</link>
+        <pubDate>Sun, 14 Mar 2021 11:21:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84426-371</guid>
+        <source url="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426.rss">DRX - Mirrored Embers - 0/16</source>
+      </item>
+      <item>
+        <title>DRX - Mirrored Embers - 0/16</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            <h1>Epilogue</h1>
+<p><em>Everything made has a start and an end<br>
+so for kings, so for worlds, so for stars, so for men<br>
+so for nations that rise and are slaughtered again<br>
+for my brother, my enemy, traitor, my friend.</em></p>
+<p>[<a href="http://www.sassafrassmusic.com/wp-content/uploads/2011/10/SundownLyricsSheet.pdf">source</a>]</p>
+<p><em>This world’s end is now.</em></p>
+<p>Around the seven of you, the world seems to grow more fragile. The walls of the Senate disappear into dust. You grab at the furniture around them, only to find that their hands pass through it as though through dust and smoke.</p>
+<p>Suddenly, a portal opens in the center of the room. On the other side stands Sonja Eriksson, wearing a badge labelled <em>7131</em>, her hair tied back behind her head in a ponytail. “Hurry!” she shouts, beckoning you towards the portal. “There’s not much time!”</p>
+<p>Most of you start to run towards the portal, the ground seeming to dissolve beneath your feet, but Alicia shrinks back nervously. “I don’t trust Project Jormungandr!” she says. “You had decades to figure out what Timoleon was doing, and none of you noticed.”</p>
+<p>“For God’s sake, Alicia, don’t be an idiot!” says Sonja. As the first of you reaches the portal, Sonja runs into the center of the Senate, grabs Alicia by the wrist, and pulls her through the portal. Just as the two of them cross the threshold, the portal closes.</p>
+<p>You find yourself in a room with five strangers – or, strangers to most of you. A middle-aged woman rushes over to Geoffrey, a glittering circle on her head. “Geoffrey!” she says. “Are you alright? I’m so sorry-- I never should have allowed you to go to that school–”</p>
+<p>Geoffrey hesitates for a moment, before wrapping his arms around her, wiping tears from his eyes. “I missed you so much, Daphne,” he said.</p>
+<p>“You call your mom by her name?” says Alicia. “Weird.”</p>
+<p>Albert Abode strides across the room to Harleck. “Son,” he says, his face impassive.</p>
+<p>“Father,” says Harleck, looking up at him. “…Father? Are you proud of me? After all the times I must have killed…”</p>
+<p>Albert hesitates for a moment. “Yes, Harleck,” he says. “I’m proud of you. Besides … you aren’t responsible for what they did. <em>You</em> helped make it possible to get everyone else out.”</p>
+<p>“So did they, though,” says Sophie, her hands in her pockets. “We didn’t just make it out because of what <em>we</em> did. We had help from – people who didn’t make it, writing down everything they could think of, even though it would never help them.”</p>
+<p>Alyx reaches up to ruffle her hair. “Don’t be so modest, Sophie!” they say. “You didn’t tell them how <em>you</em> were the one to solve the puzzles–”</p>
+<p>“Both you and they played an important role,” says a Japanese woman; Dennis and Harleck recognize her as Kobayashi Asuka. “Very little of what we accomplish is accomplished alone.”</p>
+<p>A middle-aged man with a long beard looks at Alicia and Dennis. “Speaking of that, the two of you’d best follow me,” he says. “There’s people waiting for you.”</p>
+<p>Alicia and Dennis follow him out of the room and into a sprawling complex. The man leads them down the hallway to another room, where two groups of people have gathered.</p>
+<p>In one half of the room, a group of eleven people is standing around talking to each other. When Dennis enters, they look up and beckon him over.</p>
+<p>“–We’re your old archery team,” one of them explains. “We heard you had a shot of actually getting out this time, and we figured we’d come and say hi.”</p>
+<p>“Oh,” says Dennis. “You still care? After all this time? I wasn’t sure if anyone I knew would even be <em>alive</em>.”</p>
+<p>“The time flow between the Knot and the real world is – was – neither linear nor one-to-one,” says the man. “It’s been forty-eight years. Most of the people you know are alive, though some of them are much older.”</p>
+<p>Meanwhile, Alicia turns to the other group of people, looking at them. Some of them look almost exactly like her, while others look like they could be a relative a few years or decades older than her. All of them are wearing little badges with numbers on them, like Sonja’s badge earlier.</p>
+<p>“Hey, Alicia!” says one of them. “We’re you!”</p>
+<p>“You are?” asks Alicia. “–Are 5955 and 6263 here?”</p>
+<p>Two of them nod. “That’s us,” one of them says.</p>
+<p>“What do you know about becoming the Ultimate Mage?” asks Alicia.</p>
+<p>5955 grimaces. “Well, given some of the rumors going around about what happened to Tim, I’m not sure if it’s going to work. The two of us have been discussing other research projects, though, and you can join us if you want.”</p>
+<p><em>Thus having pass’d the night in fruitless pain,</em><br>
+<em>I to my longing friends return again,</em><br>
+<em>Amaz’d th’ augmented number to behold,</em><br>
+<em>Of men and matrons mix’d, of young and old;</em><br>
+<em>A wretched exil’d crew together brought,</em><br>
+<em>With arms appointed, and with treasure fraught,</em><br>
+<em>Resolv’d, and willing, under my command,</em><br>
+<em>To run all hazards both of sea and land.</em></p>
+<p>[<a href="http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:latinLit:phi0690.phi003.perseus-eng1:2.795">source</a>]</p>
+<hr>
+<p><strong>Epilogue: Sonja</strong></p>
+<p>Sonja decides quickly that she doesn’t want the reputation of being the only escapee from the Knot’s final run to escape by killing someone, even if that someone was the Mastermind. She changes her name to Rakel, her middle name. She goes back to school for a degree in biochemistry and gets a job doing pharmaceutical development – close enough to her talent for her to be one of the best employees at her company, far enough from her talent that most people aren’t going to suspect that the clever young employee is secretly Sonja Eriksson.</p>
+<p>In her free time, she writes mystery novels. They’re inspired by the Knot – not just her experiences, but the experiences of all the other Sonjas. She’s vaguely surprised that none of the others took that niche first, but she’s not exactly inclined to complain.</p>
+<p>When Rakel is forty-three, she has a flash of insight from her Ultimate, falls unconscious for an hour, wakes up, and draws the chemical structure for an Alzheimer’s cure on the nearest piece of paper. She can’t particularly keep the secret from her coworkers, after that, but by now they like her well enough not to hold what happened in the Knot against her. “It’s not a situation I’ve ever been in,” one of them tells her, patting her arm. “I can’t judge you for it.”</p>
+<hr>
+<p><strong>Epilogue: Suzannah</strong></p>
+<p>The day after escaping, Suzannah decides to go for a walk outside of Project Jormungandr’s complex. She takes two steps into the road and is immediately run over by a drunk driver, dying instantly.</p>
+<hr>
+<p><strong>Epilogue: Harleck</strong></p>
+<p>Harleck goes back to helping out his father as a private investigator. He’s mostly successful – cases in the real world are rarely half as mystifying as some of what he encountered during the Ultimate Hunt – but occasionally he doesn’t manage to figure it out in time. After managing to track down a kidnapping victim, only to find her corpse in the Thames, he sneaks into his father’s study and steals (<em>borrows</em>, he tells himself) his father’s opium. It’s <em>floaty</em> and <em>pleasant</em> and <em>peaceful</em> and it’s so easy to just – not stop. <em>It’s just this once</em> turns to <em>it’s just until this case is done</em> turns to <em>my father does it too.</em></p>
+<p>When he skips a day and wakes up sweating heavily, his heart rate rapid, he realizes that something is wrong. He writes his father a letter explaining exactly what’s been happening and asks his blessing to enroll in an inpatient treatment program. It’s not an <em>easy</em> process, but with the help of decades of advancement in treatment quality, he manages to avoid returning to it.</p>
+<p>Eventually, Harleck realizes that although he’s a <em>good</em> private investigator, it isn’t making him <em>happy</em>. When he’s twenty-five, he figures out the fastest way to get a law degree and becomes a defense attorney, working pro-bono, with a literally supernatural instinct for identifying defendants who are innocent, but who for whatever reason would otherwise likely be convicted. People start writing him letters from prison, explaining that they were wrongfully convicted; some of them are lying, but others aren’t, and he figures out which ones are telling the truth and does everything in his power to help them appeal.</p>
+<p>His father tries to get him to follow in his footsteps and run for office, but he refuses. He’s seen how politics wears on his father, and he has no interest in repeating his mistakes. He’s happy to periodically suggest a reform for the criminal justice system to his father. Some of his changes are popular, others less so, but all of them make the courts a little more just.</p>
+<hr>
+<p><strong>Epilogue: Dennis</strong></p>
+<p>Dennis considers for a long time whether he wants to try to make a career out of archery, but ultimately decides that he doesn’t want to stop enjoying it, and looks for other work. He keeps going to archery clubs in his free time.</p>
+<p>He considers what he most enjoyed about his talent and decides that what he really needs is a career where he can work with his hands. Project Jormungandr pays his way through welding school and he spends the next several decades as a welder. As automation improves, he stops being able to find work nearly as consistently, but he manages to live off of his UBI stipend, and occasionally technophobes hire him.</p>
+<p>A couple years after escaping, Dennis hears about the MIT Mystery Hunt from another Dennis, and puts together a team of Dennises to compete. Their third year together, they place first. Dennis puts the medallion in the trophy case next to his old archery trophies.</p>
+<hr>
+<p><strong>Epilogue: Geoffrey</strong></p>
+<p>Geoffrey moves back to the Atlantic Wastes with his mother. He tries not to think too hard about the notes on his application record. He goes to therapy.</p>
+<p>As the only living Geoffrey who hasn’t killed someone, his family decides that it’s best for their image to name him the heir. It hadn’t occurred to him to consider any other future, and he’s adjusted enough to the idea that he is to be the future Duke of the Atlantic Wastes that this news isn’t disappointing.</p>
+<p>His mother helps him found a nonprofit for re-acclimating the victims of magical accidents to society. He poses for photo-ops and does interviews with any journalists who will talk to him. He adjusts to fielding the same questions, over and over – <em>do you talk to the other yous? how do you feel about the ones who kill people?</em></p>
+<p>Geoffrey befriends one of the Josephines from a previous run, and after learning about historical traditions of nobility being patrons of the arts, he sets up a scholarship fund for artists and musicians and poets and authors. Half the applicants in the first year submit portfolios that are overtly propaganda, but after a few years people figure out that the way to get accepted is to appeal to his extremely niche taste in art and fiction.</p>
+<p>Eventually, his mother decides that he needs an heir, and sets him up with a sweet Norwegian princess, who happens to be the Ultimate Composer. Princess Anja moves to the Atlantic Wastes, and the two of them attempt to influence obscure points of tax policy. Geoffrey and Anja have a single heir, and otherwise remain platonic friends. Their heir is an Ultimate like their parents, and becomes the Ultimate Classical Literature Scholar.</p>
+<hr>
+<p><strong>Epilogue: Alicia</strong></p>
+<p>Alicia reluctantly gives up her goal of becoming the Ultimate Mage after re-reading all of Timoleon’s research notes and concluding that it’s genuinely impossible, at least within a human lifespan. She and a group of other Alicias decide that if they can’t become the Ultimate Mage, they might as well try to find another way to surpass the limitations of normal humanity.</p>
+<p>Using the knowledge they learned from the Reverse Biology Lab, and their own research, they develop more reliable rituals to fuse humans and animals. Alicia <span class="hashtag">#7131</span> gives herself functional eagle wings and nine foxtails; the others come up with other combinations of features they like, ranging from ‘bat wings, a forked tail and horns’ to ‘Gallade’ to ‘three pairs of arms’ to ‘scales covering her entire body’ to ‘literally a centaur.’</p>
+<p>Eventually, they have the procedure developed well enough to market it to other people. With that project out of the way, their research group sets their sights to finding a way to use their rituals to prevent aging, or even reverse it.</p>
+<hr>
+<p><strong>Epilogue: Alyx and Sophie</strong></p>
+<p>Alyx and Sophie accept Project Jormungandr’s offer of a double apartment, and share a bunk bed. Sophie modifies the technology in their apartment, adding an elevator to the bed and creating the first functional popcorn cooker on a microwave. Alyx tracks down a copy of the latest Pokemon game, Pokemon Spectrum, and starts a playthrough. They nickname their Pokemon after other people from Feybrook and don’t evolve any of them.</p>
+<p>Sophie sells the patent for the popcorn cooker, and they use the money to rent an apartment in Suffolk. They adopt a cat, and name it Bulbasaur. Sophie gets a job doing research and development for a furniture company. Alyx decides that they aren’t comfortable earning money off of gaming if the reason they’re so successful is that they’re subconsciously manipulating RNG, and enrolls at a regular, non-murder-based university to study zoology.</p>
+<p>While sitting on the balcony one night, holding hands, Sophie reaches into her pocket and slips a ring onto Alyx’s finger. “There are a thousand Sophies out in the world,” she whispers, “but I’m the luckiest, because I have you. Will you marry me, Alyx?”</p>
+<p>Alyx smiles. “Of course, Sophie,” they say, and kiss her.</p>
+          <p><a href="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/370">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/370</link>
+        <pubDate>Sun, 14 Mar 2021 08:40:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84426-370</guid>
+        <source url="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426.rss">DRX - Mirrored Embers - 0/16</source>
+      </item>
+      <item>
+        <title>DRX - Mirrored Embers - 0/16</title>
+        <dc:creator><![CDATA[Icibalus]]></dc:creator>
+        <description><![CDATA[
+            <p><big> “So… You’ve all voted. How about… instead of doing what we usually do, and just explaining what happened… we show you what’s happening in the outside world? Hit it.”</big></p>
+<hr>
+<p>A meeting room. Timoleon Silverheart sat at the table, the other members of Project Jormungandr there as well. The atmosphere cold, the room’s wallpaper seeming to curve from the tiny millimetre-sized buildup of moisture in them, the entire place seeming somewhat dillapidated. Nobody is speaking. Until.</p>
+<p>“S-s-so. Timoleon. We called this m-meeting for a good reason.” says Boden Eriksson, clearly resembling his sister. “I… uh… Me and Kobayashi-san didn’t want to call this, but…” He nervously flicks his little bowtie, as Conrad Bombardier pushes a piece of paper up the table. It reads:</p>
+<blockquote>
+<p><strong>Principles for Finding The Mastermind</strong></p>
+<ul>
+<li>The Mastermind cannot kill.</li>
+<li>The Mastermind can sometimes send out clones of themselves to simulate killing.</li>
+<li>We cannot observe much of the Knot; the Fates prevent us.</li>
+</ul>
+<p>Timoleon Silverheart.</p>
+</blockquote>
+<p>“I was on to your ass from the start, M. Timoleon.” he finally says, pulling out  a phone. "For fucking <em>years</em> you’ve held us to these princoples. Then… I found something out. Do any of you want to watch a fucking movie? Actually, let me run you through how I got this little bit of footage. See, the Knot has been growing a lot more brazen in doing what it does, which is stealing locations and objects from the real world and replicating them this loop, thanks to… (I can’t believe I’m saying this) King Fucking Arthur Pendragon. "</p>
+<p>“Well… It turns out that finally it’s doing something back. Our friends inside the Knot have chosen someone in the Final Trial. And a little pen drive fell out of the rift. It had a note attatched. Here’s the note, first.”</p>
+<blockquote>
+<p>An End Is near. The truth is, of course, ending the loop was never something truly in our power. Timoleon programmed us such that we couldn’t do that. But the rules of the game demand that with the result, some kind of end is needed. Quite often that End is just a reprieve for a few years, because we can’tt set them free as we want to. Well, we figured out how we can.</p>
+<p>In truth, they’ve found the Mastermind before. Quite a few times. But every single time we weren’t able to figure out how to actually end the loop, which is probably why this whole thing has become progressively worse to oversee. Our rules have been breaking down internally.</p>
+<p>But we’ve been watching. And we’ve been predicting. On this pen drive are two files. You’ll know how to use them.</p>
+<p>We’re sorry for ruining your world.</p>
+<p><strong>The Three Fates.</strong></p>
+</blockquote>
+<p>“Fascinating. Now, we can trust the Fates, ironically, because they can’t lie outside of like… pop culture references, <em>oui</em>? The second file is a ritual instruction. The first file, though, is what interests us today…”</p>
+<p>The rest of the room sits in silence. Flapping his hands down on the chair to theatrically pull himself up, Conrad Bombardier stands up, then flicks the screen, linking the phone to a projector. He plays footage from a security camera, that shows… what is clearly some kind of security room full of strange instruments. A man walks in, clearly Timoleon Silverheart, and pulls out a series of analogue tapes from a drawer.</p>
+<p>He does… something. The tapes turn into silver coins, which he scoops up and places in a wallet, then leaves the room. The footage ends, with everyone looking horrified, except for Conrad Bombardier, who is slow-clapping with vindictive glee.</p>
+<p>“Wow. What a fucking masterpiece. So, there goes the third point. Turns out the reason most of our tapes of the events are gone isn’t because of some namby-pamby magic bullshit. It’s because Timoleon’s been stuffing his purse with the evidence that would prove what, let’s face it, all of you knew the whole time. He’s full of shit. And those rules are full of shit, and I’m willing to believe that he made them up just so his pet project wouldn’t have to end.”</p>
+<p>Kobayashi Asuka stands up and slams her hands on the table “Conrad, does this…”</p>
+<p>“Yep. Timoleon’s known who the Mastermind is the whole time. We all know now as well, right? Only two people haven’t ever escaped, and let’s face it, one of them is a fucking <em>nyan-binary gamer</em>. So, Timoleon… explain yourself.”</p>
+<p>The older man stands up, again. He strolls to a window that fills the wall of the meeting room, showing a vast, empty wasteland, above which lies a rift in the sky, twisting and winding itself through the clouds. He sighs.</p>
+<p>“Gentlemen… and ladies. You are all fools. Every single one of you. The evidence pointing to the existence of the Ultimate Mage is now unmistakable. I’ve been proven right,. The Mastermind… no, let’s not pretend any more,<span class="spoiler"> <font color="red"><strong>Matilda Martell</strong></font></span>, is the most powerful mage we’ve ever seen. The ability to single-handedly magically sustain an entire pocket dimension, keeping it stable <em>involuntarily</em> against all of your narrow-minded attempts to stop the future… It’s wonderful. She’s so close. A few thousand years and humanity will finally reach true apotheosis.”</p>
+<p>“Why should I tell you the truth?  If I hadn’t made this cute little game for you to play, you’d have simply thrown your one chance away, consigned me to stone and one day to hemp, and the suffering they caused would be… well, pointless. I don’t believe in suffering without a point. Nothing you have done has ever proven that point to not be real. So, what will it be? Will you join me at l-” He suddenly screams, as a bullet rips into his left arm.</p>
+<p>Alfred Abode, holding the smoking gun, places it on the table. Enranged, Timoleon’s eyes grow white, as power emmanates from him. Coin after coin after coin begins to fly from the walls, sharp, and flying towards Alfred Abode. The room breaks out into commotion as coin after coin scratches the man’s skin, as he winces, blood flecking across the room.</p>
+<p>Kobayashi Asuka cowers beneath a desk, her hand moving in strange patterns, causing the coins to slow down. But Timoleon does not care. His power grows stronger and stronger, folding everything and everything into bladed silver coins, threatening to bury them all.</p>
+<p>And then, from the blue, a bolt of purple sludge flies onto him, and fades into his face. Boden Erikson, with a trembling and glowing hand, says:</p>
+<p>“…sorry.”</p>
+<p>Timoleon falls to the floor, coughing. “You… it’s too late… they… I’ll win… I <em>will</em> win…” He slams his glowing hands against his face, and in an instant, the body of Timoleon Silverheart is morphed into a grotesque silver statue.</p>
+<p>Stunned silence.</p>
+<p>“…Poor girl.” says Daphne Fansleigh-Reynolds, almost hugging herself. “I… can’t believe it… She becomes a bloodstained, blackened husk, and for what? She… was right. We could’ve stopped this at any time… But because an old man wanted to play games with people’s lives… She ends up dealing the poisoned cards.”</p>
+<hr>
+<p>the next post is the explanation of the entire lore, and everything that Trochi did during the game<br>
+how is this as the beginning of the finale</p>
+          <p><a href="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/369">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/369</link>
+        <pubDate>Sat, 13 Mar 2021 19:16:20 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84426-369</guid>
+        <source url="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426.rss">DRX - Mirrored Embers - 0/16</source>
+      </item>
+      <item>
+        <title>DRX - Mirrored Embers - 0/16</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>Vernal Tower</strong><br>
+Tower of Absolution<br>
+Tower of Pain<br>
+Tower of Spirals</p>
+<p><strong>Estival Tower</strong><br>
+Attic<br>
+Brewery<br>
+Ritual Room</p>
+<p><strong>Autumnal Tower</strong><br>
+Research Study<br>
+Admissions Office<br>
+Mail Room</p>
+<p><strong>Hibernal Tower</strong><br>
+Morgue<br>
+Hall of Failures<br>
+Theatre of Darkest Hours</p>
+          <p><a href="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/368">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/368</link>
+        <pubDate>Wed, 10 Mar 2021 07:21:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84426-368</guid>
+        <source url="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426.rss">DRX - Mirrored Embers - 0/16</source>
+      </item>
+      <item>
+        <title>DRX - Mirrored Embers - 0/16</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <h1>FUCKING SICK LORE HERE</h1>
+          <p><a href="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/367">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/367</link>
+        <pubDate>Wed, 10 Mar 2021 06:54:15 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84426-367</guid>
+        <source url="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426.rss">DRX - Mirrored Embers - 0/16</source>
+      </item>
+      <item>
+        <title>DRX - Mirrored Embers - 0/16</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            <p><em>A chill fills your body as you enter the Tower of Spirals. In letters above the door, someone has chiseled “WHAT HAS BEEN SHALL BEGIN AGAIN.” Inside of the room, you see chiseled stone tablets, which are arranged in a spiral. In the corner of the room is a cabinet.</em></p>
+<p>Stone tablets (this is blatantly stolen from Luna, shoutout to Luna)</p>
+<p>I.</p>
+<ol>
+<li><code>There is only one way to exit the town; be selected by The Guardians to graduate.</code></li>
+<li><code>The Guardians' grounds for selection in the next iteration will be based on this iteration. This detail will not be revealed to subjects.</code></li>
+<li><code>After a certain amount of time has passed the iteration will end and all subjects will "Die". The "dead" subjects will partake in the new iteration, as well as clones of the ones to graduate</code></li>
+</ol>
+<p>II.</p>
+<ol>
+<li><code>There is only one way to exit the town; be selected by The Guardians to graduate.</code></li>
+<li><code>Graduation is decided by the results of an election.</code></li>
+<li><code>The Guardians' grounds for selection in the next iteration will be based on this iteration. This detail will not be revealed to subjects.</code></li>
+<li><code>After a certain amount of time has passed the iteration will end and all subjects will "Die". The "dead" subjects will partake in the new iteration, as well as clones of the ones to graduate.</code></li>
+</ol>
+<p>III.</p>
+<ol>
+<li><code>There is only one way to exit the town; be selected by The Guardians to graduate.</code></li>
+<li><code>The Guardians will select the one to graduate based on whoever finds and demonstrates mastery of a certain artifact first.</code></li>
+<li><code>The Guardians grounds for selection in the next iteration will be based on this iteration. This detail will not be revealed to subjects.</code></li>
+<li><code>After a certain amount of time has passed the iteration will end and all subjects will "Die". The "dead" subjects will partake in the new iteration, as well as clones of the ones to graduate.</code></li>
+</ol>
+<p>IV.</p>
+<ol>
+<li><code>There is only one way to exit the town; be selected by The Guardians to graduate.</code></li>
+<li><code>The Guardians will select the one to graduate based on whoever finds and demonstrates mastery of a certain artifact first. The identity of this artifact will not be revealed; it could be any.</code></li>
+<li><code>The Guardians' grounds for selection in the next iteration will be based on this iteration. This detail will not be revealed to subjects.</code></li>
+<li><code>After a certain amount of time has passed the iteration will end and all subjects will "Die". The "dead" subjects will partake in the new iteration, as well as clones of the ones to graduate.</code></li>
+</ol>
+<p>V.</p>
+<ol>
+<li><code>There is only one way to exit the town; be selected by The Guardians to graduate.</code></li>
+<li><code>The Guardians will select the one to graduate based on whoever finds and demonstrates mastery of a certain artifact first. The identity of this artifact will not be revealed; it could be any.</code></li>
+<li><code>Should a murder be committed, a Class Trial will be held a period of 24 hours after the body is found. If the killer is found, they will be executed and will "die" early, in a particular gruesome and painful manner.</code></li>
+<li><code>The Guardians' grounds for selection in the next iteration will be based on this iteration. This detail will not be revealed to subjects.</code></li>
+<li><code>After a certain amount of time has passed the iteration will end and all subjects will "Die". The "dead" subjects will partake in the new iteration, as well as clones of the ones to graduate.</code></li>
+</ol>
+<p>VI.</p>
+<ol>
+<li><code>There is only one way to exit the town; be selected by The Guardians to graduate.</code></li>
+<li><code>In order to be selected, a subject must demonstrate mastery of the material uses of magic by committing a murder and not being found by the end of the Class Trial.</code></li>
+<li><code>Should a murder be committed, a Class Trial will be held a period of 24 hours after the body is found. If the killer is found, they will be executed and will "die" early, in a particular gruesome and painful manner. If the killer is not found, they will be allowed to graduate.</code></li>
+<li><code>The Guardians' grounds for selection in the next iteration are eternal and unchanging. Only by discovering and defeating their controller can the cycle be broken.</code></li>
+<li><code>After a certain amount of time has passed the iteration will end and all remaining subjects will Die. The dead subjects will partake in the new iteration, as well as clones of the ones to graduate.</code></li>
+</ol>
+<p><em><strong>The remainder of the tablets have been scratched out and are illegible.</strong></em></p>
+<p><strong>Cabinet:</strong></p>
+<p><em>The cabinet seems to be locked. However, no external locking mechanism is visible. On the cabinet, you see a note. It reads:</em></p>
+<blockquote>
+<p>TKWTO OKIWC UNCAK NOEIO LCFTN OKAKC CTSNE</p>
+</blockquote>
+<p>[The solution is to knock twice quickly, then once slowly.]</p>
+<p><em>Inside the cabinet, you see a key, made of the same metal as the cabinet.</em></p>
+          <p><a href="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/366">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/366</link>
+        <pubDate>Wed, 10 Mar 2021 06:53:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84426-366</guid>
+        <source url="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426.rss">DRX - Mirrored Embers - 0/16</source>
+      </item>
+      <item>
+        <title>DRX - Mirrored Embers - 0/16</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>Tower of Absolution</strong></p>
+<p><em>You enter a room which looks almost medieval, in some ways. As you enter, you feel a flash of memory – you’ve been here, before, in a previous loop, but the last time you were here it was empty stone, save for a cabinet in the corner. The cabinet is still there, but the rest of the room is completely different. In the center of the room is a canopied bed, with something strewn across it. Next to the bed, you see a stone, with a sword sticking out of it. On the wall, you see a painting.</em></p>
+<p>Bed:</p>
+<p><em>The bed is covered in rose petals, which seem to spell out the letters G and L.</em></p>
+<p>Stone:</p>
+<p><em>The sword in the stone looks exactly like Excalibur, which you’ve seen several times by now.</em></p>
+<p>Painting:</p>
+<p><em>The painting depicts a beautiful woman, climbing out of a lake.</em></p>
+<p>Cabinet:</p>
+<p><em>The cabinet seems to be locked, and has a numeric keypad attached, with the numbers 0 through 9. A note attached to the cabinet reads:</em></p>
+<blockquote>
+<p>The truth calls to you. Will you be able to answer?</p>
+<p>The answer is the son of the one who invaded the Knot, tainted by the same darkness that taints you, but unable to resist his destiny.</p>
+</blockquote>
+<p><em>You don’t remember this note being here last time.</em></p>
+<p>[The password to the cabinet is 6673733]</p>
+<p><em>Inside the cabinet, you see an obsidian key.</em></p>
+          <p><a href="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/365">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/365</link>
+        <pubDate>Wed, 10 Mar 2021 06:19:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84426-365</guid>
+        <source url="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426.rss">DRX - Mirrored Embers - 0/16</source>
+      </item>
+      <item>
+        <title>DRX - Mirrored Embers - 0/16</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>Tower of Pain</strong></p>
+<p><em>As you enter the room, your head is filled for a moment with a blinding, all-consuming pain. As it fades to a dull throb, you look around the room, and see a futon, with an end table set in front of it like some sort of improvised desk. Atop the end table is a typewriter, with a stack of paper next to it. There is also a tape recorder sitting next to the typewriter. In the corner of the room is a medium-sized cabinet.</em></p>
+<p><em>Stack of papers:</em></p>
+<p><em>The stack of papers contains several typewritten notes. A few of the pages in it are stained with tears.</em></p>
+<blockquote>
+<p>I don’t know what to do.</p>
+<p>The emails I found are pretty unambiguous. That bastard Timoleon knew that the knot was getting dangerous, and he decided not to stop it.</p>
+<p>But that doesn’t mean I know what to do. Everyone always made it sound so easy to figure out what the right thing is, but I don’t. Maybe that’s a problem with me, but I don’t trust the rest of them, so.</p>
+<p>If Timoleon isn’t willing to stop this twisted game himself, then I have to make him. But the only way I can think of to do that is to force the loops to get even worse, until eventually they’re so bloody that he has no choice. I really, really don’t want to. I’m going to try as many things as I can to avoid it. But I’m not sure if I’m going to have a choice.</p>
+</blockquote>
+<blockquote>
+<p>Dear Timoleon Silverheart,</p>
+<p>I’m not sure if you remember me from the interview, but you need to stop the time loop. I don’t know what your plan has to do with Feybrook University, but torturing and killing the students at your university is bad. I’m hoping that you just didn’t realize that you were doing it, and that you’ll stop now that you know.</p>
+<p>All I’m asking from you is that you stop the time loop. I don’t need anything else. I’m not going to try to chase you down. I just want you to let us go.</p>
+<p>Sincerely,</p>
+</blockquote>
+<p><em>The bottom of the page is torn.</em></p>
+<blockquote>
+<p>I don’t have another choice.</p>
+<p>I’ve done the math. If I don’t stop this, it could continue for dozens or hundreds of iterations. If I make the choice I have to, the loops will be worse for a little while, but then they’ll be over.</p>
+<p>I wish I could rely on the hope some of my classmates had when I told them, that there’s someone, somewhere out there who cares enough to try to rescue us, but the world is not so kind.</p>
+<p>I’m sorry.</p>
+</blockquote>
+<blockquote>
+<p>Remembering things is strange. The ritual allowed me to retain some of my memories of the previous loop, and that’s never something I’ve been able to do before.</p>
+<p>The murders this round are already getting more bloody. It hurts, to know that I’m the one causing this, but I also know that it’s necessary. The first murder this cycle used a special ink designed to make whoever saw it feel more pain. They didn’t even think it would help with the murder, they just wanted to make the victim suffer as much as possible. Is that my fault?</p>
+<p>Even if it is, if it makes sure the scientists running this let us out, it’s worth it.</p>
+</blockquote>
+<blockquote>
+<p>I can’t believe he’s not shutting them down.</p>
+<p>Last loop, Josephine ate Sonja’s brain with a spoon. The loop before that, Sonja slowly tortured Josephine to death. I can’t understand how Timoleon looks at that and lets these loops keep going.</p>
+</blockquote>
+<blockquote>
+<p>At this point, I’m scared that he’s not going to stop. That no matter how awful things get, he’s never going to just give up. I’m scared that I’m only making things worse, that if we’re going to be trapped in the time loop forever, it might as well be less horrifying.</p>
+<p>But I can’t stop now. If I stop, everything I’ve done was for nothing. I have to hope that if I just cause even more suffering, he’ll understand why he needs to let us out.</p>
+</blockquote>
+<p>Tape Recorder:</p>
+<p><em>You press the “play” button on the tape recorder, and it starts playing back a message. You hear two voices, one of which has been garbled beyond all recognition, the other of which belongs to Monoluna.</em></p>
+<p>Unknown speaker: “Monoluna? Are you there?”</p>
+<p>Monoluna: “Yes, child?”</p>
+<p>Unknown speaker: “Are there ways to control the Knot?”</p>
+<p>Monoluna: “I’m afraid I cannot tell you that.”</p>
+<p>Unknown speaker: “Cannot, or won’t?”</p>
+<p><em>There’s a brief pause.</em></p>
+<p>Unknown speaker: “I thought so. I … found a ritual. One that would bind a piece of my soul to the Knot. It would let me remember things, but also give me a little bit of control over the Knot. And over you.”</p>
+<p>Monoluna: “Why are you telling me this?”</p>
+<p>Unknown speaker: “I’m – I’m sorry–”</p>
+<p><em>The remainder of the recording consists solely of incomprehensible screaming.</em></p>
+<p><em>Cabinet</em></p>
+<p>*The cabinet seems to have some sort of locking mechanism, which seems to be looking for an answer that is five letters long.</p>
+<blockquote>
+<p><em>Everything you need to understand this note is part of this room.</em></p>
+<p>Ihzrt sbngs qa ihm fzy nbgm pvh mwfi cprgiautd ongmmais, rhht if ihm gwrmr zegf lity vidr noc bce ws ihm ncsergs bupt gbj smrz.</p>
+</blockquote>
+<p>The password to the cabinet is ORION. Upon unlocking it:</p>
+<p><em>In the bottom of the cabinet, you find a key covered in stars.</em></p>
+          <p><a href="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/364">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/364</link>
+        <pubDate>Wed, 10 Mar 2021 05:56:54 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84426-364</guid>
+        <source url="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426.rss">DRX - Mirrored Embers - 0/16</source>
+      </item>
+      <item>
+        <title>DRX - Mirrored Embers - 0/16</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>Morgue</strong></p>
+<p><em>As you enter the morgue, you see five white couches, each nearly as long as they are wide. On the first couch lies Alex Bracknell and Josephine Farrierson; the second couch is empty; on the third couch lies Matilda Martell; on the fourth couch lies Wilfred Arden and Stephanie Brown; on the fifth couch lies Alison Henderson and a pile of dust. All of their clothes have been replaced with white dresses, and their hands are folded across their chests. Finally, where the sixth couch should be, you instead see a safe.</em></p>
+<p>Couch 1:</p>
+<p><em>Alex’s body looks thin, nearly wasted away. The nanotechnology that supported her body in life is no longer present, and her dress fits loosely around her skin as a result. Her neck still has a thin hole in it, and underneath her dress, her chest has been cut open.</em></p>
+<p><em>Josephine’s body is more vivacious, albeit still dead. The stab marks in her body have been washed off, and her body is singed with the remnants of a fire.</em></p>
+<p>Couch 2:</p>
+<p><em>The couch is completely empty. As you look at it, you remember King Arthur’s body vanishing at the end of the execution.</em></p>
+<p>Couch 2:</p>
+<p><em>Matilda’s body looks almost peaceful, her death less brutal than most even if it was no less painful. Her body is covered in acid marks, though none of them seem to have affected her fresh dress.</em></p>
+<p>Couch 4:</p>
+<p><em>Wilfred’s body is still covered in burns, save for his face, although someone has wiped away the variously colored inks and his face no longer hurts at all to look at. Rather than the Exisal Suit, he now wears the same white dress as everyone else.</em></p>
+<p><em>Stephanie’s body is severely injured, with many of her bones fractured and several wounds. Even in death, her hands are curled into fists.</em></p>
+<p>Couch 5:</p>
+<p><em>Alison Henderson’s head and chest are still separated if you look closely, but her head has at least been positioned near her body. Her hands are folded over the wound in her chest where her heart was cut out.</em></p>
+<p><em>The pile of dust must be what remains of N Townsend, after … whatever it was, that happened to him.</em></p>
+<p>Safe:</p>
+<p><em>The safe seems to require three keys in order to unlock it.</em></p>
+<p>[When the three keys are found from the various puzzles in the Tower of [X] rooms:]</p>
+<p><em>You unlock the safe, to find inside an electronic tablet.</em></p>
+<p>[After turning on the tablet]</p>
+<p>A video begins to play. You see Alyx Blake’s face, smiling at the camera. They wave. “Hello everyone!” they say. “I’m Alyx Blake. The Mastermind took the liberty of letting me see some of the footage from past loops, and I just wanted to create a collection of some of my favorite moments!” They pause. “Oh, don’t worry about why I’m working with ████. That’s between me and ████.”</p>
+<p>“Of course, none of the kills actually let me <em>escape</em>, but that’s not the point!”</p>
+<p><em>Alyx holds up a sign. It reads TOP FIVE EPIC GAMING KILLS.</em></p>
+<p><em>They switch to a different sign. <strong><span class="hashtag">#5:</span> EPIC ROOF CATAPAULT</strong>.</em></p>
+<p><em>The footage shifts, beginning to look less like something hand-recorded and more like security camera footage. You see Alicia Hutchinson walk onto the “floor” of the Reverse Castle. As she walks across the balcony, she steps on a tripwire, falls, and lands inside the box.</em></p>
+<p><em>Alyx appears from the side of the balcony and triggers a complicated mechanism. The box reveals itself to be a catapult, and Alicia goes flying off the roof.</em></p>
+<p><em>The footage shifts back to Alyx holding a sign. <strong><span class="hashtag">#4:</span> TRUE Nether portal</strong>.</em></p>
+<p><em>You see Alyx, running down a road in the middle of the town. Following them closely is Alex Bracknell, buzzing with nanotechnology that seems to have come to life. Alyx nimbly leaps through a glowing portal, and Alex follows behind them. As Alex jumps through the portal, Alyx breaks a glass rod and mutters something. The portal closes, leaving one half of Alex on one side of the portal and the other half of Alex on the other side.</em></p>
+<p><em><strong><span class="hashtag">#3:</span> Death Of 1000 Cuts</strong>.</em></p>
+<p><em>You see Matilda Martell, unconscious and handcuffed to the ceiling of the Inverse Biology Lab. Alyx holds a dead porcupine and plucks its quills, one by one. As they pluck each quill, they insert it into Matilda’s body.</em></p>
+<p><strong><span class="hashtag">#2:</span> SEE-SAW EFFECT</strong>.*</p>
+<p><em>You see Arthur Townsend and Alyx wrestling with each other on some sort of large wooden platform. As they move along the platform, the platform rocks back and forth. Finally, Alyx ducks out of Arthur’s grip, races to the edge of the platform, and jumps, crashing onto the platform with unusual force. As they fall, you notice the unusual metal boots they are wearing. Arthur is launched into the air, before landing on the ground with a sickening crunch.</em></p>
+<p><strong><span class="hashtag">#1:</span> Kunaigeddon!!!</strong></p>
+<p><em>You see Alyx standing in the forest cottage, along with Wilfred Arden. Suddenly, Alyx drops a smoke bomb. You hear coughing, and the security camera footage shifts to highlight their silhouettes, as well as other important objects in the room. Alyx pulls a kunai from one of their pockets and hurtles it at Wilfred. The kunai flies through the air, turning at an impossible angle, before striking Wilfred in the chest.</em></p>
+          <p><a href="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/363">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/363</link>
+        <pubDate>Wed, 10 Mar 2021 01:09:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84426-363</guid>
+        <source url="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426.rss">DRX - Mirrored Embers - 0/16</source>
+      </item>
+      <item>
+        <title>DRX - Mirrored Embers - 0/16</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>Research Study</strong></p>
+<p><em>The Research Study feels more like a small library than a study, save for the fact that most of the shelves are bare. A desk sits in the center of the room, with a high-backed chair behind it; on the desk are various objects. Six bookshelves line the walls of the room. Most of them are empty, but one of them is filled with several years of <em>The Journal of Arcana Research</em> , and another of them has several spiral notebooks on it.</em></p>
+<p>Journal:</p>
+<p><em>You pull a volume off the shelf at random and open it up. It’s filled with technical jargon that’s nearly incomprehensible.</em></p>
+<p>Notebooks:</p>
+<p><em>The first notebook has a deep blue cover. In silver lettering, someone has written “Volume 1: Arcana and Ultimates.”</em></p>
+<p><em>The second notebook has a sky blue cover. In silver lettering, someone has written “Volume II: Project Ouroboros: Initial Attempts.”</em></p>
+<p><em>The third notebook has a royal blue cover. In silver lettering, someone has written “Volume III: The Knot: Implementation.”</em></p>
+<p><em>The fourth notebook has a sapphire blue cover. In silver lettering, someone has written “Volume V: The Knot: Observations After the Disaster.”</em></p>
+<p><em>The fifth notebook has a faded blue cover. In silver lettering, someone has written “Participant Data, part 32”</em></p>
+<p><em>Arcana and Ultimates</em></p>
+<p><em>A note on the inside of the cover reads: “This is where I have decided to log my research and its results. I believe that refraining from electronic records is safer.”</em></p>
+<blockquote>
+<p>What is magic? Magic, put simply, is any phenomenon that cannot be explained purely with physical laws. If I injure someone’s leg by shoving them off a roof, that isn’t magic, nor is magic to save someone from a deadly disease by applying Penicillin.</p>
+<p>There are three main types of magic: ritual magic, artifact magic, and the innate magic possessed by certain Ultimates. Ritual magic involves performing certain rituals in order to produce specific effects. It can only be transmitted through books, meaning that rituals can become lost through the destruction of all books containing the knowledge of how to perform them. Artifact magic is any form of magic that is tied to an object. It is typically less versatile than ritual magic, with the exception of potions and elixirs.</p>
+<p>All people are capable in theory of using ritual magic and artifact magic. However, the current evidence suggests that Ultimates are significantly better with respect to both strength and control, even if their Ultimate Talent is unrelated to magic and they have no magical paratalents.</p>
+<p>This ties into the final form of magic: Ultimate Magic. Some Ultimates have the ability to perform personalized forms of magic, connected in some way to their Ultimate Ability. Although Ultimates are well-established to be hereditary, arcane Ultimates do not seem to be hereditary, except in as much as arcane Ultimates are more likely to have children who are Ultimates. Their children will have a typical distribution of arcane and non-arcane Ultimates.</p>
+</blockquote>
+<p><em>Project Ouroborus</em></p>
+<blockquote>
+<p>In order to counter the Great Crisis of Arcana, it is necessary to create the Ultimate Mage. I have collected some initial data on things that seem to bring out magic talent in people.</p>
+<ul>
+<li>Instances of unusual magical talent are primarily manifested for the first time in children (up to age 25, when the brain stops developing). While adults are perfectly capable of learning magic, it is extremely rare for an adult to demonstrate unusual magical talent unless they previously manifested such talent in childhood.</li>
+<li>In most cases, the initial manifestation of unusual magical talent occurs under situations of extreme stress and danger. For example, a drowning child may manifest the ability to breathe underwater, or someone may manifest the ability to cure diseases after their parent dies of cancer.</li>
+<li>Manifestation of magical talent is strongly correlated with status as an Ultimate, even after controlling for the fact that in some cases magical talent is the primary reason for someone being classified as an Ultimate.</li>
+</ul>
+</blockquote>
+<blockquote>
+<p>Initial Attempt 1:</p>
+<ul>
+<li>Ten children, between the ages of 7 and 12, were recruited for participation in a study. The children were then told to play a VR video game. As part of the game, various simulated dangerous situations occurred, in the hopes of triggering a manifestation of magical power.</li>
+<li>Result: Failure. The children expressed the sentiment that none of the danger was actually real, which likely impaired the likelihood of manifesting arcane talent.</li>
+</ul>
+</blockquote>
+<blockquote>
+<p>Initial Attempt 2:</p>
+<ul>
+<li>Ten children, between the ages of 9 and 15, were recruited for participating in the study. After participating in a “decoy” study involving language retention, the children left the building, and were accosted by an actor pretending to be an armed robber, who threatened the children with a prop resembling a gun.</li>
+<li>Result: Failure, in all cases but one. In one case, after the staged robbery, the subject was actually robbed by a different armed robber, at which point they manifested magical talent. It seems likely that in addition to the perception of danger, there must also be a genuine danger.</li>
+</ul>
+</blockquote>
+<blockquote>
+<p>Initial Attempt 3:</p>
+<ul>
+<li>Ten children, between the ages of 10 and 12, were recruited for participating in the study. Children were disqualified if they knew how to swim. As part of the study, they were pushed into a moving river.</li>
+<li>Result: Study was shut down by the Research Ethics Committee after a child drowned.</li>
+</ul>
+</blockquote>
+<blockquote>
+<p>Initial Attempt 4:</p>
+<ul>
+<li>Ten children, between the ages of 6 and 17, were recruited for a study. As part of the study, they engaged in live, unprotected combat with each other, involving swords and other weapons.</li>
+<li>Result: Partial success. However, many children did not manifest any sort of magical ability.</li>
+</ul>
+</blockquote>
+<blockquote>
+<p>Initial Attempt 5:</p>
+<ul>
+<li>Ten children, between the ages of 13 and 17, were recruited for a study. All participants had documented non-arcane Ultimate abilities. As part of the study, they engaged in live, unprotected combat with each other, involving swords and other weapons.</li>
+<li>Result: 70 percent of participants manifested at least some form of arcane magic. However, in many cases, it was fairly weak, likely as a result of the relative lack of danger.</li>
+</ul>
+<p>In order to create the Ultimate Mage, it is clear that it is necessary to introduce more serious danger.</p>
+</blockquote>
+<p><em>Volume III: The Knot: Implementation</em></p>
+<blockquote>
+<p>What is the Knot? Put simply, it is a pocket dimension, separate from reality. In the Knot, subjects may freely hone their Ultimate abilities, in order to become the Ultimate Mage. Furthermore, due to the nature of the pocket dimension, in the case of extreme adverse events, the knot can simply be reset.</p>
+<p>Initial data suggests that it is possible to retain skills and knowledge acquired in the Knot after returning to the real world. In rare cases, it is possible to retain skills and knowledge acquired in the Knot after the time loop is reset; however, this is much less reliable and much more difficult.</p>
+</blockquote>
+<p><em>Volume V: The Knot: Observations After the Disaster</em></p>
+<blockquote>
+<p>Now that we have seen how the disaster in the Knot arose, I will discuss briefly my observations from the loops after the disaster. I still believe that the Knot’s experiment can be successful; although the Knot has turned to violence, no one is truly <em>permanently</em> dead, given that the Knot resets each time. While of course it would be better if the subjects could safely be extracted, given that that is impossible without their successful completion of the “Mastermind,” I believe that the Knot nevertheless has the potential to lead to the creation of the Ultimate Mage.</p>
+<p>As I write this, roughly two hundred fifty iterations have been completed. This provides me with substantial data about the suitability of each subject for becoming the Ultimate Mage, which I will summarize in the following volumes.</p>
+</blockquote>
+<p><em>Participant Data</em></p>
+<p><em>When you open up the notebook, you see that all the pages have been torn out. On the inside, in a different handwriting from the rest of the notebooks, someone has written:</em></p>
+<blockquote>
+<p>Someone burned all the other participant data, but they missed this one. I think they must have been trying to protect the Mastermind, or perhaps they <em>were</em> the Mastermind. Either way, they’re gone. To keep this one safe, I’ve hidden the pages away somewhere, and left a note to help you find them.</p>
+</blockquote>
+<p><em>On the other cover, in the same handwriting, is written:</em></p>
+<blockquote>
+<p><em>My iterest in history arose from when I was very young. Even as a child, I wanted to nderstand the relationships between different past events, and learn more about what life was like hundreds or thousands of years ago. When my school mae us go on field trips, my favoites were always trips to musums, rather than to the zoo.</em></p>
+<p><em>The first time I realized that I mght have some sort of Ultmate Talet, I was twelve, not even a teenaer. I obviously already knew that I was ifferent from the other students, but I thought that might just mean that I was weird. Then, when I was twelve, I discovered for the first time that I didn’t just have the ability to coduct particularly high-quality research. I also had the ability to create some sort of magical elixir.</em></p>
+<p><em>Still, being the Utimate Historian isn’t much help when what matters is not the past, but the uture. Well, I suppose the past matters in as much as it allows us to find the answer to the question of who is keeping us trapped here. But even if I knew, which I don’t, that wouldn’t necessarily allw me to get rid of them alne. I would need the othes to work with me, and <em>that</em> requires that I be able to control the present and the future.</em></p>
+</blockquote>
+<p>[NOTE FOR HOSTS: the typos are intentional and part of the puzzle.]</p>
+<p>The puzzle decodes to UNDER DINING FLOOR. Searching under the dining room floor in the regular castle (which requires some method of prying up the floorboards) finds several pieces of paper, which have seemingly been torn out of a notebook.</p>
+<blockquote>
+<p><em>This notebook logs the efforts of Sophie McDonald relating to the Ultimate Mage project, from the ninety-eighth iteration to the hundred-ninth iteration.</em><br>
+<em>While I initially envisioned her taking on more of a supportive role in the project, due to her comparative lack of magical ability and her strong research skills, she seems to be receptive, at least in some iterations, to the idea of becoming the Ultimate Mage herself.</em><br>
+Iteration 98: In this iteration, Sophie, upon learning about the Ultimate Mage project, began to work with Alicia Hutchinson, with whom she had a preexisting informal alliance. However, after Alicia’s death, she largely abandoned the project.<br>
+Iteration 99: In this iteration, Sophie dedicated most of her time after learning about the project to researching the Ultimate Mage. Based on our limited observations of the inside of the Knot, we concluded that she had likely made a novel breakthrough. Unfortunately, she was unable to transmit this information to the outside world before the simulation was restarted due to an excessively high number of Blackened subjects escaping. At this point in time, I used my limited ability to communicate with the Knot to attempt to ensure that she came into contact with information early in her iteration.<br>
+Iteration 100: This iteration contains little useful information, owing to the fact that Sophie died in the first chapter after accidentally ingesting a poisoned cookie.<br>
+Iteration 101: This iteration contains little useful information, as Sophie was executed in the second chapter after being successfully identified as the killer of Harleck Abode.<br>
+Iteration 102: In this iteration, Sophie attempted to become the Ultimate Mage by developing an elixir that would transform the drinker into said Ultimate. However, it appears she was unsuccessful, and although she was able to develop several elixirs not developed in any other iteration to date, we suspect that this is likely a fruitless endeavor.<br>
+Iteration 103: In this iteration, all research by any subject was largely interrupted by Alison Henderson’s attempts to recruit everyone to kill the Mastermind.<br>
+Iteration 104: In this iteration, Sophie largely ignored information relating to the Ultimate Mage, instead spending most of her time on attempting to identify the Mastermind, though she was ultimately unsuccessful.<br>
+Iteration 105: This iteration was largely unusable as a datapoint due to the fact that the Fates themed the iteration around illiteracy, and all subjects lost the ability to read for the duration of the experiment.<br>
+Iteration 106: In this iteration, Sophie attempted to induce stress reactions in other subjects by pretending to attempt to kill them, after learning that stress and danger is likely important to developing the Ultimate Mage.<br>
+Iteration 107: In this iteration, Sophie became sidetracked from all of her previous projects upon discovering the time loop. She apparently reasoned that people who have escaped the time loop most likely still have happy lives, albeit with some trauma, and concluded that it would be morally good to ensure the iterations repeat as many times as possible. Ironically, this led her to dedicate herself to opposing the Mastermind after finding evidence that the Mastermind sought to end the Knot, despite the Mastermind’s actions leading to the continuation of the Knot’s iterations.<br>
+Iteration 108: In this iteration, Sophie pretended to be interested in researching the Knot, and used that as cover to allow herself to successfully murder Alex Blake and escape the Knot. After escaping, she changed her name, moved to Canada, and began a career working for an adhesive company.<br>
+Iteration 109: In this iteration, Sophie spent most of her time researching rituals. When approached by Alicia Hutchinson to inquire as to whether she was researching the Ultimate Mage, she said that she simply found rituals interesting.</p>
+</blockquote>
+          <p><a href="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/362">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/362</link>
+        <pubDate>Wed, 10 Mar 2021 00:33:45 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84426-362</guid>
+        <source url="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426.rss">DRX - Mirrored Embers - 0/16</source>
+      </item>
+      <item>
+        <title>DRX - Mirrored Embers - 0/16</title>
+        <dc:creator><![CDATA[Icibalus]]></dc:creator>
+        <description><![CDATA[
+            <p>eh<br>
+honestly i genuinely don’t think it’s needed, and we can just take the extraneous bits from it<br>
+again i plan to do a <em>lot</em> of shuffling around and rewriting tomorrow</p>
+          <p><a href="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/361">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/361</link>
+        <pubDate>Tue, 09 Mar 2021 23:40:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84426-361</guid>
+        <source url="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426.rss">DRX - Mirrored Embers - 0/16</source>
+      </item>
+      <item>
+        <title>DRX - Mirrored Embers - 0/16</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            <p>So this was a thing that existed</p>
+<p>Are we still including this as part of Chapter 6 information (some of it isn’t totally consistent with current lore)</p>
+<p>Also are we doing the Final Dead Room in the Obelisk (if so, we could put this there)</p>
+          <p><a href="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/360">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/360</link>
+        <pubDate>Tue, 09 Mar 2021 23:38:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84426-360</guid>
+        <source url="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426.rss">DRX - Mirrored Embers - 0/16</source>
+      </item>
+      <item>
+        <title>DRX - Mirrored Embers - 0/16</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            <p><img src="https://forum.throneoflies.com/images/emoji/twitter/joy_cat.png?v=9" title=":joy_cat:" class="emoji only-emoji" alt=":joy_cat:"></p>
+<p>fixed</p>
+          <p><a href="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/359">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/359</link>
+        <pubDate>Tue, 09 Mar 2021 17:04:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84426-359</guid>
+        <source url="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426.rss">DRX - Mirrored Embers - 0/16</source>
+      </item>
+      <item>
+        <title>DRX - Mirrored Embers - 0/16</title>
+        <dc:creator><![CDATA[Icibalus]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Arete" data-post="357" data-topic="84426">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/arete/40/35558_2.png" class="avatar"> Arete:</div>
+<blockquote>
+<p><em>On closer inspection it is clear that the paper inside has been torn from some sort of book. It describes a ritual, requiring as a material component a lock of hair, which must be set on fire. Their hair will burn to a fine golden powder if they have, and to ash if they have not.</em></p>
+</blockquote>
+</aside>
+<p>finally<br>
+a ritual that allows me to determine if someone has done a thing</p>
+          <p><a href="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/358">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/358</link>
+        <pubDate>Tue, 09 Mar 2021 15:52:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84426-358</guid>
+        <source url="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426.rss">DRX - Mirrored Embers - 0/16</source>
+      </item>
+      <item>
+        <title>DRX - Mirrored Embers - 0/16</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>Ritual Athenaeum</strong></p>
+<p><em>The Ritual Athenaeum contains four tiny cages (gold, silver, bronze and copper). Inside each cage is a tiny piece of paper. On a table in the center of the room is a much larger piece of paper. The windows of the room are stained glass, and depict people sitting in the middle of rings of candles.</em></p>
+<p><em>Central table</em></p>
+<p>Paper: <em>The paper describes a ritual that can be performed to summon a projection of someone’s spirit into the Knot for an hour. The ritual requires three main components. First, a specific, highly complex inscription that the paper does not elaborate on; however, the bottom of the paper includes a prefilled sample circle which the paper informs you is suitable, designating the person to be pulled in as Timoleon Silverheart. Second, some sort of item relating to the Ultimate Talent of every living Ultimate in the Knot. Third, the ritual can only be performed in the presence of the Fate Lachesis. Apart from the Fate, all items used in the ritual are consumed.</em></p>
+<p>When performed, the ritual summons Timoleon Silverheart for an hour. He will blatantly lie every time it makes him look bad to tell the truth; I will do my best to make it <em>obvious</em> that he is lying to people. The Lachesis component is so you two don’t have to RP him.</p>
+<p><em>All cages:</em></p>
+<p>None of the papers in the cage can be read without opening them.</p>
+<p><em>Gold Cage:</em></p>
+<p><em>Inspecting the gold cage, you see a poem etched into the bottom of it.</em></p>
+<p><i>Tyger Tyger, burning bright,<br>
+In the forests of the night;<br>
+What immortal hand or eye,<br>
+Could frame thy fearful symmetry?</i></p>
+<p>[The cage can be opened by lighting it on fire inside the forest. This will not harm the ritual paper inside.]</p>
+<p><em>On closer inspection it is clear that the paper inside has been torn from some sort of book. It describes a ritual, requiring as a material component a lock of hair, which must be set on fire. Their hair will burn to a fine golden powder if they have used their Ultimate, and to ash if they have not.</em></p>
+<p><em>Silver Cage:</em></p>
+<p><em>Inspecting the silver cage, you see a poem etched into the bottom of it.</em></p>
+<p><em>Even as the sails inflated by the wind</em><br>
+<em>Involved together fall when snaps the mast,</em><br>
+<em>So fell the cruel monster to the earth.</em></p>
+<p><em>Thus we descended into the fourth chasm,</em><br>
+<em>Gaining still farther on the dolesome shore</em><br>
+<em>Which all the woe of the universe insacks.</em></p>
+<p>[The cage can be opened by throwing it from a high place]</p>
+<p><em>On closer inspection, it is clear that the paper inside has been torn from some sort of book. It describes a ritual allowing whoever performs it to determine if a document has been substantively altered from when it was originally written. As a component, the ritual requires a human finger, which is consumed in the ritual. If the object was substantively altered, it will glow red for five minutes.</em></p>
+<p><em>Bronze Cage:</em></p>
+<p><em>Inspecting the bronze cage, you see a poem etched into the bottom of it.</em></p>
+<p><i>Or hear’st thou rather pure Ethereal stream,<br>
+Whose Fountain who shall tell? before the Sun,<br>
+Before the Heavens thou wert, and at the voice<br>
+Of God, as with a Mantle didst invest<br>
+The rising world of waters dark and deep,<br>
+Won from the void and formless infinite.</i></p>
+<p>[The cage can be opened by submerging it in water. This does not damage the paper.]</p>
+<p><em>On closer inspection, it is clear that the paper inside has been torn from some sort of book. It describes a ritual which allows the purging of objects originating from outside the Knot. It requires a piece of string, tied around the object. If the object originated from outside the Knot, it will disappear; if it did not, it will not. Either way, the string is consumed.</em></p>
+<p><em>Copper Cage:</em></p>
+<p><em>Inspecting the copper cage, you see a poem etched into the bottom of it.</em></p>
+<p><i>Scarce dare I tell the sequel: from the womb<br>
+Of wounded earth, and caverns of the tomb,<br>
+A groan, as of a troubled ghost, renew’d<br>
+My fright, and then these dreadful words ensued:</i></p>
+<p>[The cage can be opened by placing earth on it while inside any part of the Tomb.]</p>
+<p><em>On closer inspection, it is clear that the paper inside has been torn from some sort of book. It describes a ritual which requires a drop of blood, placed on the edge of an arrow, which is consumed in the ritual. The ritual will reveal to whoever performs it some form of information that is true, but something they don’t want to know.</em></p>
+          <p><a href="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/357">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/357</link>
+        <pubDate>Tue, 09 Mar 2021 09:28:28 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84426-357</guid>
+        <source url="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426.rss">DRX - Mirrored Embers - 0/16</source>
+      </item>
+      <item>
+        <title>DRX - Mirrored Embers - 0/16</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>Brewery</strong></p>
+<p><em>As you enter the Brewery, you see a mess of different distillation equipment. In one corner of the room is a handwritten sign labelled “POTIONS INGREDIENTS,” and you see several smaller labelled boxes. On a central table is a simple distillation apparatus, several glass bottles, and a note.</em></p>
+<p>Note:</p>
+<blockquote>
+<p>Making potions isn’t that hard, just combine some of the ingredients in this room in one of the distillers. They take about half an hour to brew, from what I’ve noticed. Admittedly, most of them aren’t very useful. -Sonja</p>
+</blockquote>
+<p><em>Potions ingredients:</em></p>
+<p>Each box contains four “servings” of a different ingredient. Once used, even as something other than the “active” ingredient, a serving goes away. The ingredients are powdered sage, dragon liver, spider legs, bone dust, octopus ink, owl eyes, and swordfish scales.</p>
+<p><em>Potion making:</em></p>
+<p>Potions take 30 minutes to brew.</p>
+<p>For simplicity’s sake, which potion you get is based solely on the FIRST ingredient you submit.</p>
+<p>Powdered Sage (3/4 remaining):</p>
+<blockquote>
+<p><strong>Elixir of Recollection</strong><br>
+For the next hour, enhances your memory slightly, allowing you to more easily recall past events.</p>
+</blockquote>
+<p>[In game terms, the potion makes hosts be slightly nicer about answering questions like “do I remember if X.”]</p>
+<p>Dragon Liver:</p>
+<blockquote>
+<p><strong>Elixir of Rejuvenation</strong><br>
+Fully restores your AP to its maximum value.</p>
+</blockquote>
+<p>Spider Leg:</p>
+<blockquote>
+<p><strong>Elixir of Legs</strong><br>
+For the next hour, causes you to grow six additional legs.</p>
+</blockquote>
+<p>Bone Dust (3/4 remaining):</p>
+<blockquote>
+<p><strong>Elixir of Malleability</strong><br>
+For the next hour, makes your body much more flexible, and able to bend essentially at-will.</p>
+</blockquote>
+<p>Octopus Ink:</p>
+<blockquote>
+<p><strong>Elixir of Cunning</strong><br>
+For the next hour, doubles your intelligence.</p>
+</blockquote>
+<p>Owl eyes (2/4 remaining):</p>
+<blockquote>
+<p><strong>Elixir of Wisdom</strong><br>
+Causes you to have a vision of a room in which you may have missed something important.</p>
+</blockquote>
+<p>Swordfish scales:</p>
+<blockquote>
+<p><strong>Elixir of Insight</strong><br>
+While drinking this elixir, meditate on a task that you are unsure of how to do. You will have a vision of how to complete this task. The more concrete the task, the more likely this vision is to be useful.</p>
+</blockquote>
+          <p><a href="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/356">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/356</link>
+        <pubDate>Tue, 09 Mar 2021 08:58:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84426-356</guid>
+        <source url="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426.rss">DRX - Mirrored Embers - 0/16</source>
+      </item>
+      <item>
+        <title>DRX - Mirrored Embers - 0/16</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>Hall of Failures</strong></p>
+<p><em>As you enter the Hall of Failures, you step over a circle of salt, which someone has placed directly in front of the door. The hall itself contains very little in the way of furniture. In the center of the room is a laptop computer, sitting on the floor by itself. On the floor of the room is a box, with some sort of locking mechanism built in; it seems to want a seven-letter passcode.</em></p>
+<p>Computer:</p>
+<p><em>The computer contains a file named READMEFIRST.txt, as well as a .jpg image named PROOF.jpg. Would you like to read it?</em></p>
+<blockquote>
+<p>Hello. My name is N Townsend, and I’m guessing that I have about forty-nine hours to live – an hour until our final trial starts, and forty-eight more until I’m condemned to death by my classmates, all of whom are convinced, for some reason, that I’m the one trapping them here. Rather than try to change their minds, I’m leaving this for you, in the hopes that some future version of myself will be able to find it and figure out who the Mastermind is for real.<br>
+A handful of past mes managed to write down the mistake they made that led them to lose the trial. Based on the patterns I’ve observed, anything directly referencing their identity won’t persist through an iteration, but vaguer clues about what they did wrong might. I’ve collected their notes in a more … legible and comprehensible … form; they were difficult for me to understand, but I think I’ve pieced them together.<br>
+So that this doesn’t fall into the wrong hands, I’m leaving you with a simple puzzle to open the box that I’ve left the information. It’s probably super easy and obvious, but I’m hoping it’ll help ensure the box stays in the right hands.<br>
+The first, more accurately the nineteenth, begins to add them together<br>
+The second, surprise expressed,<br>
+The third, a thumb between pinky and ring,<br>
+The fourth, the beginning of everything, the end of the middle,<br>
+The fifth, coming from the sun’s rays itself,<br>
+The sixth, admiration, expressed as the second, although different,<br>
+The seventh, simultaneously answered and not, by one incomprehensible.</p>
+<p>Good luck.<br>
+N#2487</p>
+</blockquote>
+<p><em>Photograph:</em></p>
+<p><em>PROOF.jpg appears to depict N/Arthur Townsend, holding up a piece of paper that says “The message on the computer was written by me, not the Mastermind impersonating me, everything there is true.”</em></p>
+<p><em>The puzzle is clueing for the word “someday.” When this is entered into the box, the box opens.</em></p>
+<p><em>Box:</em></p>
+<p><em>The box contains several index cards, with notes written on them in neat handwriting. Leafing through them, you see:</em></p>
+<blockquote>
+<p>Run: 19<br>
+Mistake: They found a photo of someone killing in a past run. However, it turned out it was in Run 5, and apparently the Mastermind could still kill then?</p>
+</blockquote>
+<blockquote>
+<p>Run: 118<br>
+Mistake: They found a mirror in the weird upside-down castle that showed you visions of a past you killing someone. Apparently, they assumed that the Mastermind wouldn’t know that it did that, but they did, so they just lied and said they’d seen themself kill someone.</p>
+</blockquote>
+<blockquote>
+<p>Run: 563<br>
+Mistake: The Mastermind was the very first to die, they assumed the Mastermind dying would end the game and thought that that meant they had to be among the living.</p>
+</blockquote>
+<blockquote>
+<p>Run: I’m not sure, but I think it was after 563?<br>
+Mistake: The Mastermind repeatedly blatantly lied to cover for literally every killer (e.g. saying they were with the killer when the crime happened), somehow they still made it to the final trial, at that point they assumed the Mastermind wouldn’t be that obvious? I’m not really sure if I should include this one, since the problem here was that they were dumb, but I figure it can’t hurt to give you more information.</p>
+</blockquote>
+<blockquote>
+<p>Run: 814<br>
+Mistake: The Fates offered a motive in which an accomplice could escape alongside a Blackened. The Mastermind helped a Blackened escape, and everyone assumed that the Mastermind had escaped with them, but they’d actually stayed in the simulation secretly as part of their twisted plan to “end” the game that’s actually making literally everything worse. SERIOUSLY, HOW DO YOU MESS UP THAT BADLY.</p>
+</blockquote>
+<blockquote>
+<p>Run: 1314<br>
+Mistake: The Mastermind claimed under the effects of some sort of truth potion that makes you glow not to be the Mastermind. It turns out that they have literally perfect ability to lie, and can fool most forms of magical investigation.</p>
+</blockquote>
+<blockquote>
+<p>Run: 1827<br>
+Mistake: They mistakenly assumed that because everyone had a verifiable past prior to the project, and verifiable family or similar, that that meant that none of them were the Mastermind, and they all unanimously voted that there was no Mastermind within the game. In fact, the Mastermind had a life just like the rest of us.</p>
+</blockquote>
+<blockquote>
+<p>Run: 2003<br>
+Mistake: The Mastermind convincingly pretended to attempt to murder another player, but failed to actually murder them. People assumed that it was a real murder attempt.</p>
+</blockquote>
+          <p><a href="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/355">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/355</link>
+        <pubDate>Tue, 09 Mar 2021 08:35:17 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84426-355</guid>
+        <source url="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426.rss">DRX - Mirrored Embers - 0/16</source>
+      </item>
+      <item>
+        <title>DRX - Mirrored Embers - 0/16</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>Admissions Office</strong></p>
+<p><em>The Admissions Office has a large desk, with a note on it and a single drawer. There is a chair behind the desk, and a couch sitting in front of it, facing the desk. Next to the desk is a cabinet with two drawers.</em></p>
+<p><em>Desk:</em></p>
+<p>The top of the desk contains a photograph and a note:</p>
+<blockquote>
+<p>Did you seriously reject everyone who wasn’t sufficiently traumatised for your project? I can’t believe you.<br>
+K.A.</p>
+</blockquote>
+<p>*The photograph shows a middle-aged man standing outside of the Vernal Tower. By now, you recognize him as Timoleon Silverheart.</p>
+<p>The inside of the desk drawer contains a fountain pen and a ream of paper.</p>
+<p>The cabinet top drawer contains a binder with files on all the admitted students. The bottom drawer contains an identical binder, but with files on rejected students instead.</p>
+<blockquote>
+<p>Name: Sonja Eriksson</p>
+<p>Ultimate Talent: Ultimate Toxicologist</p>
+<p>Evidence of Talent: Subject has abnormal skill in identifying substances and their properties. Furthermore, she has discovered several new poisons with unique and especially-potent properties.</p>
+<p>Interview Notes: Subject appears to be extremely uncomfortable with cold weather, likely as a result of the events detailed in the essay she submitted to me. Potentially usable as a source of stress?</p>
+<p>Decision: Accepted</p>
+</blockquote>
+<blockquote>
+<p>Name: Wilfred Arden</p>
+<p>Ultimate Talent: Ultimate Magician</p>
+<p>Evidence of Talent: Subject demonstrated several difficult magic trips, including two of his own design. Although he was unwilling to explain how to do the tricks, I believe this to be genuine evidence of an Ultimate rather than merely unusual skill.</p>
+<p>Interview Notes: Subject seems to be involved in some sort of cult-like organization. I was unable to ascertain the details; however, I believe that it would be in his best interests for me to accept him.</p>
+<p>Decision: Accepted</p>
+</blockquote>
+<blockquote>
+<p>Name: Harleck Abode</p>
+<p>Ultimate Talent: Ultimate Detective</p>
+<p>Evidence of Talent: Subject presented me with a record of past cases he has solved, including several cases which went unsolved for decades prior to his involvement.</p>
+<p>Interview Notes: Subject seems extremely intelligent. Furthermore, due to his past history working with other authorities, I believe it will be easy to get him to cooperate with the project.</p>
+<p>Decision: Accepted</p>
+</blockquote>
+<blockquote>
+<p>Name: Dennis Gildenblake</p>
+<p>Ultimate Talent: Ultimate Archer</p>
+<p>Evidence of Talent: Subject has won numerous awards in archery competitions. In addition, during the interview, he demonstrated his talent by successfully hitting a 1 cm target from 150 meters away.</p>
+<p>Interview Notes: Subject seems to have a stable life, and may be uncooperative with some of the expectations of the project for that reason. However, I have reason to suspect he has an unusually strong paratalent, making him a particularly appealing research subject. Recommend follow-up interview to determine if he can be persuaded to cooperate.</p>
+<p>Decision: Accepted (provisional)</p>
+<p>Further Notes: After learning of the situation that occurred on his range two years ago, I am now confident that he is an acceptable subject.</p>
+</blockquote>
+<blockquote>
+<p>Name: Johnathan Blake (NOTE: Subject prefers to go by the name Alyx and requested that I use they/them pronouns.)</p>
+<p>Ultimate Talent: Ultimate Gamer</p>
+<p>Evidence of Talent: Subject demonstrates extraordinary proficiency with video games, and appears to be capable of subconsciously manipulating the random number generation (RNG) for games to be more favorable, without the use of any form of exploits. As a result, they were able to beat the speedrunning record previously held by “Minecraft” player “Dream.”</p>
+<p>Interview Notes: Subject refused to talk to the interviewer, instead spending the entire time default dancing. We believe this to demonstrate a creative approach to problem-solving.</p>
+<p>Decision: Accepted</p>
+</blockquote>
+<blockquote>
+<p>Name: Alison Henderson</p>
+<p>Ultimate Talent: Ultimate Conductor</p>
+<p>Evidence of Talent: Subject has been conducting professionally from before the time she was in primary school.</p>
+<p>Interview Notes: Subject clearly has a genuine Ultimate Talent; however, it is unclear whether she has experienced the sort of stress that I believe to be necessary to become the Ultimate Mage.</p>
+<p>Decision: <s>Rejected</s></p>
+<p>Further Notes: After leaving the interview, subject became extremely agitated due to a loud noise emitting from a nearby roadway. I believe that this indicates a potential source of stress that could be useful in developing her Ultimate Abilities.</p>
+<p>Decision: Accepted</p>
+</blockquote>
+<blockquote>
+<p>Name: Josephine Farrierson</p>
+<p>Ultimate Talent: Ultimate Historian</p>
+<p>Evidence of Talent: Subject displays not only extensive knowledge of history and skill in historical research techniques, but supernatural knowledge of past events.</p>
+<p>Interview Notes: Subject provided the interviewer with two draughts, which caused hallucinatory visions once consumed. Based on the subject’s experience with these substances, I believe she will be particularly amiable to any unusual requests made of her as part of the project.</p>
+<p>Decision: Accepted</p>
+</blockquote>
+<blockquote>
+<p>Name: Matilda Martell (NOTE: Unclear whether Martell is her legal last name, due to her complicated status as a quasi-adoptee.)</p>
+<p>Ultimate Talent: Ultimate Witch</p>
+<p>Evidence of Talent: Subject demonstrated supernatural healing abilities and other rituals.</p>
+<p>Interview Notes: Subject appears to be orphaned and homeless after escaping from Saint Martell’s Cathedral. As a result, I anticipate that she will be extremely willing to cooperate with the project in exchange for shelter and protection from Saint Martell’s.</p>
+<p>Decision: Accepted</p>
+</blockquote>
+<blockquote>
+<p>Name: Geoffrey Fansleigh-Reynolds</p>
+<p>Ultimate Talent: Ultimate Aristocrat</p>
+<p>Evidence of Talent: Subject appears to be extremely wealthy.</p>
+<p>Interview Notes: Although subject has experienced stressful events, they were sufficiently long ago, and sufficiently isolated, that I am uncertain whether they would be sufficient to produce the Ultimate Mage. Furthermore, I have doubts about whether subject is genuinely an Ultimate.</p>
+<p>Decision: <s>Rejected</s></p>
+<p>Further Notes: After considering the contributions of Her Grace Daphne Fansleigh-Reynolds to Feybrook University, I have decided to reverse this decision. I believe this to be sufficient proof of Mr. Fansleigh-Reynolds’ status as an Ultimate.</p>
+</blockquote>
+<blockquote>
+<p>Name: Susannah Redbrooke (NOTE: Subject inconsistently uses the name Hanako in place of her given name)</p>
+<p>Ultimate Talent: Ultimate Necromancer</p>
+<p>Evidence of Talent: Subject displayed the ability to use dead bodies to create animated beings.</p>
+<p>Interview Notes: Subject was unusually quiet, which may make her less suitable; however, her extraordinary magical potential justifies giving her a place in the program.</p>
+<p>Decision: Accepted</p>
+</blockquote>
+<blockquote>
+<p>Name: Alicia Hutchinson</p>
+<p>Ultimate Talent: Ultimate Snowboarder</p>
+<p>Evidence of Talent: Although subject retired from competitive snowboarding years ago after an accident, she displayed several arcane paratalents.</p>
+<p>Interview Notes: Subject appeared enthusiastic about the project despite lacking details. Although I continued to maintain the cover of a university admissions interview, she talked unprompted about her desire to create the Ultimate Mage.</p>
+<p>Decision: Accepted</p>
+</blockquote>
+<blockquote>
+<p>Name: Sophie McDonald</p>
+<p>Ultimate Talent: Ultimate Inventor</p>
+<p>Evidence of Talent: Subject provided extensive documentation of her inventions, including several patents.</p>
+<p>Interview Notes: Although the lack of extreme stresses in the subject’s life likely make her unsuitable for becoming the Ultimate Mage herself, her passion for research means that she will likely excel in a support role. Furthermore, due to the fact that she has not previously conducted human research, she is unlikely to object to any breaches of the highly regressive established guidelines for research with human subjects.</p>
+<p>Decision: Accepted</p>
+</blockquote>
+<blockquote>
+<p>Name: Arthur Townsend (NOTE: Subject requested that I refer to him as “N.”)</p>
+<p>Ultimate Talent: Ultimate Astrologer</p>
+<p>Evidence of Talent: Attempts by the subject to forecast future events are successful at a rate substantially higher than random chance although still not perfect.</p>
+<p>Interview Notes: Subject forecasted that if I did not accept him, the project would fail. Although I suspect this of being a ploy, given the high success of his predictions, I believe it unwise to take the risk.</p>
+<p>Decision: Accepted</p>
+</blockquote>
+<blockquote>
+<p>Name: Alex Bracknell</p>
+<p>Ultimate Talent: Ultimate Nanotechnologist</p>
+<p>Evidence of Talent: Subject replaced a large portion of her body with nanotechnology.</p>
+<p>Interview Notes: Similarly to Ms. Martell, subject is functionally an orphan. As a result, she will likely be extremely willing to cooperate with the project in exchange for shelter and other resources.</p>
+<p>Decision: Accepted</p>
+</blockquote>
+<blockquote>
+<p>Name: Stephanie Brown</p>
+<p>Ultimate Talent: Ultimate Highwaywoman</p>
+<p>Evidence of Talent: Instead of coming to the interview, the subject held me up on the train, then returned my stolen belongings to the inside of my room, which was locked.</p>
+<p>Interview Notes: See above.</p>
+<p>Decision: Accepted</p>
+</blockquote>
+<p><em>In the binder of rejected applicants, you see dozens of similar files. Although most of them were rejected due to a lack of a true Ultimate Talent, a few of the reasons stick out as different.</em></p>
+<p>-Theodore Winkle, rejected due to “lack of formative stressful experiences making him unsuitable as a candidate for becoming Ultimate Mage”<br>
+-Logan Bree-Cantor, rejected for “irrational lack of belief in magic”<br>
+-Amanda Ell, rejected for “arguing with her interviewer about the ethics of human genetic modification”<br>
+-Ciara Kelly, rejected for “projected uncooperativeness with the demands of the project”<br>
+-Daiki Ito, rejected for “demonstrated past noncompliance with instructions from authority”</p>
+          <p><a href="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/354">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/354</link>
+        <pubDate>Tue, 09 Mar 2021 07:55:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84426-354</guid>
+        <source url="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426.rss">DRX - Mirrored Embers - 0/16</source>
+      </item>
+      <item>
+        <title>DRX - Mirrored Embers - 0/16</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>Mail Room</strong></p>
+<p><em>The  Mail Room is sparsely populated with relatively little furniture. It has a hundred or so empty cubbies in the back of the room, as well as a counter in the front, with something on top of it. There is also a rug on the floor.</em></p>
+<p>Counter:</p>
+<p><em>The counter has a manila envelope on it. On the outside the envelope is an ornamented cursive J. Inside the envelope are several folded letters.</em></p>
+<blockquote>
+<p>My dear children, in spirit and in one case in blood,</p>
+<p>I write to you today to summarize the progress we’ve made on recovering you from the loop. I have reason to suspect that your iteration of the loop has a unique opportunity to end the simulation, and as such it is of the utmost importance that you discharge your duties with care and diligence.</p>
+<p>Based on the data we have collected it appears that an unknown entity entered the Knot at the beginning of this iteration. While we have been unable to determine what precisely that entity is, we believe that this entity is responsible for the comparative ease of transmitting messages between reality and the Knot. Under normal circumstances, it is rare for us to be able to transmit anything at all.</p>
+<p>Our research suggests that the necessary ritual to disable the cyclic effects of the Knot can only be performed by successfully identifying the Mastermind. Once the Mastermind has been identified, it should be possible to prevent them from continuing the cycle and freeing the rest of you from this simulation. While an unsuccessful attempt will merely cause the simulation to restart, we are uncertain whether the communicative benefits afforded by the unknown entity will persist into previous iterations. As a result, we strongly encourage you to try to end the Knot on this iteration.</p>
+<p>Sincerely,</p>
+<p>Albert Abode</p>
+</blockquote>
+<blockquote>
+<p>To the residents of the Knot:</p>
+<p>A question that my colleagues often pose to me is why I would bother working on this project at all. All of you, save possibly the Mastermind, are demonstrably willing to kill, often with little provocation; there are certainly those among them who do not believe you to be worth saving. So why, then, am I so insistent on abandoning the rest of my research simply to help you out?</p>
+<p>Aristotle says that virtue is a <em>habit</em>, not merely an abstract property that all of us possess within our souls but a choice that we must continuously make. One does not become courageous merely by possessing some sort of essence of courage, nor just by possessing some essence of justice. Instead, by acting in a way concordant with courage or justice or any other virtue, we become more virtuous, more excellent.</p>
+<p>But important in this idea is the idea that virtue <em>can be learned</em>, that it is possible to become virtuous. In some ways, this is the beauty of virtue ethics; where deontologists find themselves bound to rigid and inflexible rules, where consequentialists refuse to believe that anyone might have a character in need of changing, virtue ethicists see the truth of your character, while simultaneously understanding that that character can be changed. Your true characters, perhaps more than anyone else, can be clearly seen; after all, we have hundreds or thousands of examples. But that also makes it clear that <em>all of you are people capable of change</em>. That is why you <em>have</em> changed, thousands and thousands of times.</p>
+<p>Yours Truly,</p>
+<p>Dr. Kobayashi Asuka</p>
+</blockquote>
+<blockquote>
+<p>To whomever finds this letter:</p>
+<p>I have far more to explain than can possibly be expressed in a single letter. There should be a ritual somewhere in the Towers, and this loop it should finally work.</p>
+<p>Until we meet again,</p>
+<p>Timoleon Silverheart</p>
+</blockquote>
+<blockquote>
+<p>Friends,</p>
+<p>I’m not nearly as eloquent as the others who are part of Project Jormungandr, so I’m going to keep this brief. From my intake interviews for rescued Ultimates, I’ve heard a lot of worries about our project. I just wanted to list off what we’re doing – and remember, even if you get out of the loop, and decide that you don’t want to stay with us, that’s fine too.</p>
+<p>In any case, we’re doing our best to make sure that the Ultimates who get out, however they get out, have access to housing (we have apartments for you to stay in, if you want, a mix of singles and doubles, depending on if you made friends in your loop), counseling, job training, and integration to help you rejoin the wider world if you want to. Many Ultimates have also joined our project, although if you make it out, that obviously won’t be needed.</p>
+<p>No matter what happens, you are not alone. We are here for you.</p>
+<p>Sincerely,</p>
+<p>Her Grace Daphne Fansleigh-Reynolds</p>
+</blockquote>
+<p><em>The next letter is written in two different hands, one familiar and one not.</em></p>
+<blockquote>
+<p>Dear Ultimates,</p>
+<p>I’m going to be honest, my expertise is far more focused on ensuring that you are safe and healthy once you escape the knot than on allowing you to escape. Still, as the member of the project with the greatest personal connection to your iteration, what with the situation with my granddaughter and all, I thought I should probably write something, even if it’s not very helpful.</p>
+<p>In any case, as the Táknmynd Apothecary, I feel like I should probably tell you about the Brewery. It’s one of the rooms in the Towers, and based on what little we’ve been able to piece together about the Final Trial, it should allow you to make Elixirs that help you a little bit. At the same time, I encourage you not to focus too much on it, as much as it pains me to say this. It’s more important that you find out the truth of who the Mastermind is, and while potions may help you in your search, they will not give you the answer.</p>
+<p>Sincerely,</p>
+<p>Boden Eriksson</p>
+<p>Hi, everyone. It’s me.</p>
+<p>I’m not sure if you were expecting to hear from me? And I’m honestly not sure if you would want to. There’s a script here, right, where I talk about how much I regret killing Matilda and how I wish I could apologize to her, but I’m not going to say that, because it’s not <em>true</em>. Every moment I spent in the Knot was miserable, and if I had to kill someone to escape, I’m glad I got lucky enough to kill someone I didn’t particularly like.</p>
+<p>But – that doesn’t mean I want the rest of you to be trapped there forever, you know? If nothing else, the cycle restarting is just going to mean more Sonjas being trapped in the loop, and even if they’re only sort of me I still would rather they not be. And it’s not as if I <em>want</em> the rest of you to suffer. Most of you were decent enough people – well, not <em>decent</em> in the sense of being <em>good people</em>, but tolerable to interact with.</p>
+<p>(I did consider the question of whether it might actually be good to keep the loop going, since Sonjas are pretty cool and more loops means more Sonjas, but I don’t actually think that’s true, given how much mes hate being inside it).</p>
+<p>Sonja</p>
+</blockquote>
+<blockquote>
+<p>Hey everyone,</p>
+<p>The others didn’t really want me to tell me this, but I think you deserve to know. Like, you’re the people actually affected, you know?</p>
+<p>Anyways. The weirdass disturbance that happened didn’t just make it easier for you to get out, it also messed with the time dilation between the Knot and the rest of the world. If you can’t make it out this loop, there’s going to be <em>way</em> more of them, and there’ll probably be more unpleasant for the people inside.</p>
+<p>Now, go out there and fuck the Mastermind up.</p>
+<p>o7</p>
+<p>Conrad</p>
+</blockquote>
+          <p><a href="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/353">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/353</link>
+        <pubDate>Tue, 09 Mar 2021 04:31:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84426-353</guid>
+        <source url="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426.rss">DRX - Mirrored Embers - 0/16</source>
+      </item>
+      <item>
+        <title>DRX - Mirrored Embers - 0/16</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>Attic</strong></p>
+<p><em>Brushing aside cobwebs, you enter the attic of the [insert tower] Tower. Looking around, you notice ten boxes, with labels scrawled on them in Sharpie. The entire room is covered in a fine layer of dust.</em></p>
+<p>Boxes:</p>
+<p>1: Contains four coils of rope, each of which is 10 meters long.<br>
+2: Contains ten steel pitons and a bag of popcorn.<br>
+3: Contains a box of empty picture frames and an empty manilla envelope.<br>
+4: Contains several tools: a hammer, a screwdriver, a hacksaw, and a bottle of gorilla glue.<br>
+5: Contains a sewing machine, several spools of thread, and a pincushion shaped like a tomato.<br>
+6: Contains a bottle of gasoline.<br>
+7. Contains ten wooden planks, each around 3 meters in length.<br>
+8. Contains a pair of tongs, a pot, and  a small kitchen stove.<br>
+9. Contains several hundred pens and pencils, all of which are bright pink.<br>
+10. Contains a pair of garden shears anda  shovel.</p>
+          <p><a href="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/352">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426/352</link>
+        <pubDate>Tue, 09 Mar 2021 01:31:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84426-352</guid>
+        <source url="https://forum.throneoflies.com/t/drx-mirrored-embers-0-16/84426.rss">DRX - Mirrored Embers - 0/16</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Post Formatting Tips</title>
+    <link>https://forum.throneoflies.com/t/post-formatting-tips/76746</link>
+    <description>Hi! I’m Magnus. I’m going to show some basic forum commands everyone should know.
+
+# *How to change the size of your posts.*
+&lt;begin log&gt;
+#’s (hashtags) Change the size of each post. To end the size, simply start a new line. Examples are below;
+&lt;end log&gt;
+
+&gt;# 1 Hashtag (#)
+&gt;## 2 Hashtags (##)
+&gt;### 3 hashtags (###)
+&gt;#### 4 hashtags (####)
+&gt;##### 5 hashtags (#####)
+&gt;###### 6 hashtags (######)
+&gt;
+&gt;The maximum is 6 hashtags. **In most games on the Forum, only the Host and Co Host are allowed to use big text.**
+
+# *How to change the color of your posts.*
+&lt;begin log&gt;
+To change the color of your posts, do the text [ color=INSERT COLOR ] [ /color ]. For example, you may do [color=red]Hi, my name is Magnus[/color] by typing [ color=red ] hi, may name is Magnus [ /color ]. For a good list of available colours, check https://absitomen.com/index.php?topic=331.0
+&lt;end log&gt;
+
+# *How to use emojis.*
+&lt;begin log&gt;
+Emoji’s can be created in several ways. Some easy ones to use include :P, :D, :), and :(. These become :stuck_out_tongue:, :smiley:, :slight_smile: and :frowning:. You can also do : (colon) and search for an emoji, or click the smiley face (:slightly_smiling_face:) in the actions bar up top.
+&lt;end log&gt;
+
+# *How to bold, italicize and strikethrough your text.*
+&lt;begin log&gt;
+The fastest way to bold and italicize and strikethrough your text is by placing on either side some symbols.
+Having an * on either side will cause your text to become italic. *Italic Text is slanted slightly.*
+Having an ** on either side will cause your text to become bold. **Bold text is thicker.**
+Having ~~ on either side will strikethrough your text. ~~Strikethrough is cool as~~.
+Note that _ can be substituted for *’s.
+&lt;end log&gt;
+
+# *How to put a formatted hyperlink to a topic or specific post*
+&lt;begin log&gt;
+
+Hyperlink to a specific topic
+Remove the closing spaces from the ending bracket to make an URL, [url=(INSERT URL)] (name of the link) [ / url] 
+
+Example:
+[url=https://forum.imperium42.com/t/forum-of-lies-official-hub/1515]FoL Hub[/url]
+&lt;end log&gt;
+
+Press the specific sharing option on a post to obtain the hyperlink to point towards a specific post and do the same url trick as above:
+
+Example:
+[url=https://forum.imperium42.com/t/post-formatting-tips/76746/11]Post number 11 in this thread[/url]
+
+# *How to make synchronised clocks.*
+&lt;begin log&gt;
+To create a synchronised clock, you can do two things. You can click the calandar symbol at the actions bar and set a time. It will change to match other people’s time zones whenever they look at it. You can also do [ date=YEAR-MONTH-DAY time=HOUR:MINUTE:SECOND timezone=&quot;COUNTRY/CITY&quot; ]. Note that the time isn’t required, but a date is.
+&lt;end log&gt;
+
+# How to make a proper votecount:
+So first line is | then u put the first description another one of those bars, second description and another bar. Then third description and final bar
+Do the same thing on the second line but with the three dashes as each description -.
+Then the third line and onward is the first again
+
+example.
+~~~
+| Accused | Voters | Votes|
+| --- | --- | --- | 
+| Player1 | Player2, Player3 | 2/3
+| Player2 | Player1 | 1/3
+| Not Voting | Player4, Player5
+~~~
+which turns into
+| Accused | Voters | Votes|
+| --- | --- | --- | 
+| Player1 | Player2, Player3 | 2/3
+| Player2 | Player1 | 1/3
+| Not Voting | Player4, Player5 
+I believe that’s all that’s needed for now, if I missed something very important, please dm me (which can be done by clicking someone’s name and pressing MESSAGE) what it is and I will update this.</description>
+    
+    <lastBuildDate>Sun, 08 Dec 2019 18:49:21 +0000</lastBuildDate>
+    <category>General</category>
+    <atom:link href="https://forum.throneoflies.com/t/post-formatting-tips/76746.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Post Formatting Tips</title>
+        <dc:creator><![CDATA[DatBird]]></dc:creator>
+        <description><![CDATA[
+            <h6>fixed the example</h6>
+          <p><a href="https://forum.throneoflies.com/t/post-formatting-tips/76746/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/post-formatting-tips/76746/23</link>
+        <pubDate>Sun, 08 Dec 2019 18:49:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76746-23</guid>
+        <source url="https://forum.throneoflies.com/t/post-formatting-tips/76746.rss">Post Formatting Tips</source>
+      </item>
+      <item>
+        <title>Post Formatting Tips</title>
+        <dc:creator><![CDATA[Marshal]]></dc:creator>
+        <description><![CDATA[
+            <p>added an example of what it looks like</p>
+          <p><a href="https://forum.throneoflies.com/t/post-formatting-tips/76746/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/post-formatting-tips/76746/22</link>
+        <pubDate>Sun, 08 Dec 2019 18:48:28 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76746-22</guid>
+        <source url="https://forum.throneoflies.com/t/post-formatting-tips/76746.rss">Post Formatting Tips</source>
+      </item>
+      <item>
+        <title>Post Formatting Tips</title>
+        <dc:creator><![CDATA[DatBird]]></dc:creator>
+        <description><![CDATA[
+            <p>Updated with basic votecount formatting</p>
+          <p><a href="https://forum.throneoflies.com/t/post-formatting-tips/76746/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/post-formatting-tips/76746/21</link>
+        <pubDate>Sun, 08 Dec 2019 18:18:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76746-21</guid>
+        <source url="https://forum.throneoflies.com/t/post-formatting-tips/76746.rss">Post Formatting Tips</source>
+      </item>
+      <item>
+        <title>Post Formatting Tips</title>
+        <dc:creator><![CDATA[Solic]]></dc:creator>
+        <description><![CDATA[
+            <p>I made it a wiki, so everyone can contribute. Things like quoting a post on mobile/desktop are interesting for instance, but I already upkeep enough forum stuff, soooo have at it if you want to help new forum users. <img src="/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> You might learn a thing or two yourself.</p>
+          <p><a href="https://forum.throneoflies.com/t/post-formatting-tips/76746/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/post-formatting-tips/76746/16</link>
+        <pubDate>Wed, 22 May 2019 17:10:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76746-16</guid>
+        <source url="https://forum.throneoflies.com/t/post-formatting-tips/76746.rss">Post Formatting Tips</source>
+      </item>
+      <item>
+        <title>Post Formatting Tips</title>
+        <dc:creator><![CDATA[DatBird]]></dc:creator>
+        <description><![CDATA[
+            <p>I always use &lt;small (you put another &gt; at the end) with what text you want small here and&lt;/small( again &gt; at the end) for <small>small text like this</small></p>
+          <p><a href="https://forum.throneoflies.com/t/post-formatting-tips/76746/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/post-formatting-tips/76746/12</link>
+        <pubDate>Wed, 22 May 2019 14:11:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76746-12</guid>
+        <source url="https://forum.throneoflies.com/t/post-formatting-tips/76746.rss">Post Formatting Tips</source>
+      </item>
+      <item>
+        <title>Post Formatting Tips</title>
+        <dc:creator><![CDATA[Magnus]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks for your input solic!</p>
+          <p><a href="https://forum.throneoflies.com/t/post-formatting-tips/76746/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/post-formatting-tips/76746/11</link>
+        <pubDate>Wed, 22 May 2019 08:58:20 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76746-11</guid>
+        <source url="https://forum.throneoflies.com/t/post-formatting-tips/76746.rss">Post Formatting Tips</source>
+      </item>
+      <item>
+        <title>Post Formatting Tips</title>
+        <dc:creator><![CDATA[Magnus]]></dc:creator>
+        <description><![CDATA[
+            <p>As if you didn’t already know. It’s for newcomers to the forum.</p>
+          <p><a href="https://forum.throneoflies.com/t/post-formatting-tips/76746/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/post-formatting-tips/76746/6</link>
+        <pubDate>Wed, 22 May 2019 02:05:42 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76746-6</guid>
+        <source url="https://forum.throneoflies.com/t/post-formatting-tips/76746.rss">Post Formatting Tips</source>
+      </item>
+      <item>
+        <title>Post Formatting Tips</title>
+        <dc:creator><![CDATA[Magnus]]></dc:creator>
+        <description><![CDATA[
+            <p>Moderators, feel free to edit this yourself if I’ve made a mistake.</p>
+          <p><a href="https://forum.throneoflies.com/t/post-formatting-tips/76746/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/post-formatting-tips/76746/2</link>
+        <pubDate>Wed, 22 May 2019 01:00:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76746-2</guid>
+        <source url="https://forum.throneoflies.com/t/post-formatting-tips/76746.rss">Post Formatting Tips</source>
+      </item>
+      <item>
+        <title>Post Formatting Tips</title>
+        <dc:creator><![CDATA[Magnus]]></dc:creator>
+        <description><![CDATA[
+            <p>Hi! I’m Magnus. I’m going to show some basic forum commands everyone should know.</p>
+<h1><em>How to change the size of your posts.</em></h1>
+
+#’s (hashtags) Change the size of each post. To end the size, simply start a new line. Examples are below;
+
+<blockquote>
+<h1>1 Hashtag (#)</h1>
+<h2>2 Hashtags (##)</h2>
+<h3>3 hashtags (###)</h3>
+<h4>4 hashtags (####)</h4>
+<h5>5 hashtags (#####)</h5>
+<h6>6 hashtags (######)</h6>
+<p>The maximum is 6 hashtags. <strong>In most games on the Forum, only the Host and Co Host are allowed to use big text.</strong></p>
+</blockquote>
+<h1><em>How to change the color of your posts.</em></h1>
+
+To change the color of your posts, do the text [ color=INSERT COLOR ] [ /color ]. For example, you may do [color=red]Hi, my name is Magnus[/color] by typing [ color=red ] hi, may name is Magnus [ /color ]. For a good list of available colours, check https://absitomen.com/index.php?topic=331.0
+
+<h1><em>How to use emojis.</em></h1>
+
+Emoji’s can be created in several ways. Some easy ones to use include :P, :D, :), and :(. These become :stuck_out_tongue:, :smiley:, :slight_smile: and :frowning:. You can also do : (colon) and search for an emoji, or click the smiley face (:slightly_smiling_face:) in the actions bar up top.
+
+<h1><em>How to bold, italicize and strikethrough your text.</em></h1>
+
+The fastest way to bold and italicize and strikethrough your text is by placing on either side some symbols.
+Having an * on either side will cause your text to become italic. *Italic Text is slanted slightly.*
+Having an ** on either side will cause your text to become bold. **Bold text is thicker.**
+Having ~~ on either side will strikethrough your text. ~~Strikethrough is cool as~~.
+Note that _ can be substituted for *’s.
+
+<h1><em>How to put a formatted hyperlink to a topic or specific post</em></h1>
+
+<p>Hyperlink to a specific topic<br>
+Remove the closing spaces from the ending bracket to make an URL, [url=(INSERT URL)] (name of the link) [ / url]</p>
+<p>Example:<br>
+<a href="https://forum.imperium42.com/t/forum-of-lies-official-hub/1515" data-bbcode="true">FoL Hub</a><br>
+</p>
+<p>Press the specific sharing option on a post to obtain the hyperlink to point towards a specific post and do the same url trick as above:</p>
+<p>Example:<br>
+<a href="https://forum.imperium42.com/t/post-formatting-tips/76746/11" data-bbcode="true">Post number 11 in this thread</a></p>
+<h1><em>How to make synchronised clocks.</em></h1>
+
+To create a synchronised clock, you can do two things. You can click the calandar symbol at the actions bar and set a time. It will change to match other people’s time zones whenever they look at it. You can also do [ date=YEAR-MONTH-DAY time=HOUR:MINUTE:SECOND timezone="COUNTRY/CITY" ]. Note that the time isn’t required, but a date is.
+
+<h1>How to make a proper votecount:</h1>
+<p>So first line is | then u put the first description another one of those bars, second description and another bar. Then third description and final bar<br>
+Do the same thing on the second line but with the three dashes as each description -.<br>
+Then the third line and onward is the first again</p>
+<p>example.</p>
+<pre><code class="lang-auto">| Accused | Voters | Votes|
+| --- | --- | --- | 
+| Player1 | Player2, Player3 | 2/3
+| Player2 | Player1 | 1/3
+| Not Voting | Player4, Player5
+</code></pre>
+<p>which turns into</p>
+<div class="md-table">
+<table>
+<thead>
+<tr>
+<th>Accused</th>
+<th>Voters</th>
+<th>Votes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Player1</td>
+<td>Player2, Player3</td>
+<td>2/3</td>
+</tr>
+<tr>
+<td>Player2</td>
+<td>Player1</td>
+<td>1/3</td>
+</tr>
+<tr>
+<td>Not Voting</td>
+<td>Player4, Player5</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div><p>I believe that’s all that’s needed for now, if I missed something very important, please dm me (which can be done by clicking someone’s name and pressing MESSAGE) what it is and I will update this.</p>
+          <p><a href="https://forum.throneoflies.com/t/post-formatting-tips/76746/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/post-formatting-tips/76746/1</link>
+        <pubDate>Wed, 22 May 2019 00:59:42 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-76746-1</guid>
+        <source url="https://forum.throneoflies.com/t/post-formatting-tips/76746.rss">Post Formatting Tips</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</title>
+    <link>https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678</link>
+    <description>![image|285x268](upload://4zcDul6OLEybGjLMCs7CdLns3ne.png) 
+
+![image|690x91](upload://42dVUH7zPHtu6u5Ep8D4gtqQKLQ.png) 
+*Or how to overcomplicate game with very basic roles*
+
+## General rules:
+https://forum.imperium42.com/t/official-forum-mafia-and-forum-of-lies-rules/78926
+ 
+## Game rules:
+&gt; **Phases:** 48/24
+&gt; **Lynch:** Plurality on deadline. Ties equal no lynch.
+&gt; **Night actions:** RAR. 
+&gt; All actions to be submited 1 hour before night ends.
+&gt; 
+&gt; ALL ALIGMENTS, ROLES AND MODIFIERS ARE ROLLED SEPERATLY.
+&gt; Yes, that means (nearly) each role can be of any aligment.
+&gt;
+&gt; Each non-vanilla role has 20% chance to receive random modifier.
+&gt; If they received modifier, roll repeats (another 20% roll to get 2nd if they got the first ect.)
+&gt; 
+&gt; Each time mafia is rolled, 20% chance it will create NEW mafia faction instead of joining one of the old ones.
+
+## Aligment distribution:
+&gt; [color]Town
+&gt; Town
+&gt; Town
+&gt; Town
+&gt; Town
+&gt; Town
+&gt; Town
+&gt; Town[/color]
+&gt; [color=ligblue]Scum (NK or Mafia)
+&gt; Scum[/color]
+&gt; Any (Town, Mafia, Any Neutral)
+&gt; Any
+&gt; Any
+
+## Neutrals:
+&gt; * Angel - At the beginning of the game, the Angel receives a target. The Angel wins the game if their target is alive at the end of the game. Get&#39;s one random ability.
+&gt; * Serial Killer (with a knife and 1-shot BPV) - Each Night, may target a player to attempt to kill that player. Wins if all other players are eliminated, whether or not the Serial Killer is alive. 
+&gt; Get&#39;s one random, other ability they can use alongside theirs kill.
+&gt; * Survivor - Wins if they survive to the end of the game. Get&#39;s one random ability.
+
+**Disclaimer:** For reason of modifiers and all actions, the received &quot;bonus&quot; ability is one which will be affected.
+
+## Possible roles:
+&gt; [details=&quot;Roles&quot;]
+&gt; 
+&gt; [details=&quot;Copying / Vanilaizing&quot;]
+&gt; * Temporary Vanillaizer (A) - Each Night, may target a player. That player is Vanilla for the duration of the Night phase.
+&gt; * Role Thief - Each Night, may target a player. The Role Thief gains that player&#39;s abilities and that player becomes Vanilla until the Role Thief targets another player.
+&gt; * Role Copier - Each Night, may target a player. The Role Copier gains that player&#39;s abilities until the Role Copier targets another player.
+&gt; [/details]
+&gt; 
+&gt; [details=&quot;Commuters/Hiders&quot;]
+&gt; * Commuter - Each Night, may leave the game until the end of the Night. (100% chance for modifier)
+&gt; * Commuterizer - Each Night, may target a player to remove that player from the game until the end of the Night.
+&gt; * Hider - Each Night, may hide behind another target player, removing themself from the game. Any actions that would target the Hider target that player instead. If that player would die, the Hider dies as well.
+&gt; * Ascetic - Any non-killing actions that target the Ascetic are prevented.
+&gt; [/details]
+&gt; 
+&gt; [details=&quot;Roleblocking&quot;]
+&gt; * Roleblocker - Each Night, may target a player. That player&#39;s actions are prevented this Night.
+&gt; * Rolestopper - Each Night, may target a player. Non-Killing actions targeting that player are prevented this Night.
+&gt; * Jailkeeper - Each Night, may target a player. That player is protected from kills this Night and their actions are prevented.
+&gt; [/details]
+&gt; 
+&gt; [details=&quot;Redirecting&quot;]
+&gt; * Beguiler - Each Night, may hide behind another player. Any actions that would target the Beguiler target that player instead. (100% chance for modifier)
+&gt; * Magnet - Each Night, may target a player. Any actions that player would take target the Magnet instead of any other target.
+&gt; * Redirector - Each Night, may target two other players. Any actions the first player would take target the second player instead of any other target.
+&gt; * Lightning Rod - Each Night, may target a player. Any actions that would target that player target the Lightning Rod instead.
+&gt; * Deflector - Each Night, may target two other players. Any actions that would target the first player target the second player instead.
+&gt; [/details]
+&gt; 
+&gt; [details=&quot;Protectives&quot;]
+&gt; * Bulletproof/Killproof/Lynchproof - Automatically self-protected from Bullets/Kills/Lynches, respectively. (100% chance for modifier)
+&gt; * Bodydouble - Each Night, may redirect all kills from target player to themself.
+&gt; * Doctor - Each Night, may attempt to protect a player from kills.
+&gt; * Babysitter - Doctor that kills their target that Night if the Doctor dies.
+&gt; [/details]
+&gt; 
+&gt; [details=&quot;Communicative&quot;]
+&gt; * Neighbour - The Neighbour has a chat with any number of other player(s) who are also Neighbour(s).
+&gt; * Neighbourizer (A) - Each Night, may target a player. That player is added to the Neighbourizer&#39;s Neighbourhood. Is part of this neigbourhood.
+&gt; * Neighbourizer (B) - Each Night, may target a player. That player is added to the Neighbourizer&#39;s Neighbourhood. Is NOT a part of this neigbourhood.
+&gt; * Temporary Neighbourizer (A) - Each Night, may target a player. That player becomes a Neighbour with the Temporary Neighbourizer for the duration of the Night phase.
+&gt; * Temporary Neighbourizer (B) - Each Night, may target two players. Those players become Neighbours with each other for the duration of the Night phase.
+&gt; * Messenger - Each Night, may target a player and write a message for that player. The host relays that message to the target.
+&gt; [/details]
+&gt; 
+&gt; [details=&quot;Voting&quot;]
+&gt; * Gladiator - Each Day, may publicly target a player. Only that player and the Gladiator can be voted for.
+&gt; * X-voter - Has X votes. Uses their extra votes via publicly announcing in thread that they are voting an extra time (e.g. &quot; **Vote: eevee, Luxy** &quot;)
+&gt; **Note:** Vote will be counted quietly, despite publicly announcing it. It will not show on votecounts.
+&gt; [/details]
+&gt; 
+&gt; [details=&quot;Miscellaneous&quot;]
+&gt; * Backups - When the relevant player dies, the Backup can use that role.
+&gt; * Clown - Each Night, may target a player to give them a pie. A pie can be thrown at another player as a day action. 
+&gt; * Inventors - Each Night, may target a player to give them an item with a 1-shot ability linked to it.
+&gt; * Visitor - Each Night, may target a player.
+&gt; [/details]
+&gt; 
+&gt; [details=&quot;Killing&quot;]
+&gt; * Bomb - When the Bomb dies, they strongkill the player who killed them. (Random voter in case of lynch)
+&gt; * Day Vigilante - Each Day, may publicly target a player to attempt to kill that player.
+&gt; * Desperado - Each Day, may publicly target a player to check that player&#39;s alignment. If that player shows up as non-Town, the Desperado attempts to kill that player. If the player shows up as town, the Desperado dies.
+&gt; * Midnight Desperado - Each Night, may target a player to check that player&#39;s alignment. If that player shows up as non-Town, the Midnight Desperado attempts to kill that player. If the player shows up as town, the Midnight Desperado dies.
+&gt; * Poisoner - Each Night, may target a player to poison that player. A poisoned player dies at the end of the following Day phase.
+&gt; * Vengeful (Role) - When the Vengeful dies (or when lynched), they may kill a player.
+&gt; * Vigilante - Each Night, may target a player to attempt to kill that player.
+&gt; [/details]
+&gt; 
+&gt; [details=&quot;Investigative (Cops)&quot;]
+&gt; * Category Cop - Each Night, may target a player to check that player ability and modifier categories.
+&gt; * Alignment Cop - Each Night, may target a player to check  if they are member of town or not.
+&gt; * Neapolitan - Each Night, may target a player to check if that player is Vanilla Townie.
+&gt; * Parity Cop - Each Night, may target two players to check if those players share an alignment.
+&gt; * Rolecop - Each Night, may target a player to check that player&#39;s exact role.
+&gt; * Vanilla Cop - Each Night, may target a player to check if that player is Vanilla.
+&gt; * Gunsmith - Each Night, may target a player to check if that player has a killing ability.
+&gt; * Modifier Cop - Each Night, may target a player to check if that player has a modifier and which one.
+&gt; [/details]
+&gt; 
+&gt; [details=&quot;Investigative (Others)&quot;]
+&gt; * Follower - Each Night, may target a player to check what actions that player took. Scum night kill shows as killing.
+&gt; * Motion Detector - Each Night, may target a player to check if that player was targeted or targeted anyone.
+&gt; * Tracker - Each Night, may target a player to check who that player targeted.
+&gt; * Voyeur - Each Night, may target a player to check what actions that player was targeted by.
+&gt; * Watcher - Each Night, may target a player to check who targeted that player.
+&gt; [/details]
+&gt; 
+&gt; **Alignment-Specific:**
+&gt; [details=&quot;Town only&quot;]
+&gt; * Friendly Neighbour - Each Night, may target a player. The host messages that player the Friendly Neighbour&#39;s alignment.
+&gt; * Innocent Child - Any Night, or any Day as a public Day action, may have the host reveal their alignment to the thread.
+&gt; * Mason - Neighbour who is confirmed to their fellow Masons to be town.
+&gt; * Masonizer - Neighbourizer whose neighbours are confirmed to their fellow Masons to be town. Whole masonry dies upon recruiting scum.
+&gt; * Miller - Shows up as Mafia to Alignment checks. Is NOT aware they are miller (thinks they are vanilla townie). Counts as Vanilla Town for all other purposes.
+&gt; * Vanilla Townie - No abilities.
+&gt; [/details]
+&gt; 
+&gt; [details=&quot;Mafia only&quot;]
+&gt; * Godfather - Shows up as Vanilla Town to all checks.
+&gt; * Mafia Goon (Vanilla) - No abilities other than Mafia chat and factional kill.
+&gt; * Lost Wolf - Not in Mafia Chat. Doesn&#39;t know Mafia, but they know the Lost Wolf. Joins Mafia chat if factional killed. Shows as Vanilla Town.
+&gt; * Sympathiser - Not in Mafia Chat. Knows Mafia, but they don&#39;t know the Sympathiser. Joins Mafia chat if factional killed. Shows as Vanilla Town. Mafia is aware Sympathiser exists.
+&gt; * Spy - Not in Mafia Chat. Knows Mafia, and they know the Spy. Joins Mafia chat if factional killed. Shows as Vanilla Town.
+&gt; * Traitor - Not in Mafia Chat. Doesn&#39;t know Mafia, and they don&#39;t know the Traitor. Joins Mafia chat if factional killed. Shows as Vanilla Town. Mafia is aware Traitor exists.
+&gt; [/details]
+&gt; [/details]
+
+## Rolelist:
+&gt; 1 * [color]Copying / Vanilizing[/color] OR [color=orange]Miscellaneous[/color] OR [color=pink]Voting[/color]
+&gt; 1 * [color]Protective[/color] OR [color=orange]Commuters / Hiders[/color] OR  [color=pink]Investigative[/color] (Others)
+&gt; 1 * [color]Roleblocking[/color] OR [color=orange]Redirecting[/color] OR [color=pink]Killing[/color]
+&gt; 1 * [color]Investigative[/color] (Cops) OR [color=orange]Town Only[/color] OR [color=pink]Communicative[/color]
+&gt; 4 * Vanilla
+&gt; 5 * Any
+
+## Possible modifiers:
+
+&gt; [details=&quot;Modifiers&quot;]
+&gt; 
+&gt; [details=&quot;Anti-Action&quot;]
+&gt; * Macho - The player can&#39;t be protected.
+&gt; * Ninja - The player&#39;s actions and targets can&#39;t be checked.
+&gt; * Strongman - Player&#39;s abilities cannot be blocked or protected against.
+&gt; [/details]
+&gt; 
+&gt; [details=&quot;Timing-Limiting&quot;]
+&gt; * Even/Odd night - Player&#39;s ability can only be used on given night.
+&gt; * {X-day} Cooldown - It takes X days for the ability to be able to be used again.
+&gt; * Non-Consecutive Night - The ability cannot be used two nights in a row.
+&gt; * X-Shot - The ability or abilities can only be used X times per game.
+&gt; [/details]
+&gt; 
+&gt; [details=&quot;Target-Limiting&quot;]
+&gt; * Disloyal - The ability can only target players of the opposite alignment.
+&gt; * Loyal - The ability can only target players of the same alignment.
+&gt; * Indecisive - The ability cannot target the same player two times in a row.
+&gt; * Multi-Target - The ability can target multiple targets.
+&gt; * X-Unique - The ability cannot target the same player more than X times per game.
+&gt; * Uncivilized - The player using the ability dies if they target Town.
+&gt; * Weak - The player using the ability dies if they target Scum.
+&gt; [/details]
+&gt; 
+&gt; [details=&quot;Other&quot;]
+&gt; * Activated (Triggered) - The ability happens when a certain trigger occurs.
+&gt; * Announcing - The ability is announced to its target when it is used.
+&gt; * Burnout - When the ability is used, the player becomes Vanilla.
+&gt; * Combined - The ability is a combination of two other abilities.
+&gt; * Compulsive - The player must use the ability every time able.
+&gt; * Delayed - The ability occurs at a later time.
+&gt; * Event - The ability being activated is announced in thread, but not its targets or results.
+&gt; * JOAT - The player has multiple abilities, all of which have limited shots.
+&gt; * Loud - The player targeted learns that they are targeted by the player with the ability.
+&gt; * Public - The ability is activated publicly.
+&gt; * Vengeful - The ability triggers when the player dies.
+&gt; [/details]
+&gt; [/details]
+
+## Alive
+
+1. Derps
+6. Hippo
+8. Esquiddy
+
+
+## Dead
+0. ~~Geyde~~ - [color]Town Loyal Event Joat[/color]
+1. ~~Marshal~~ - [color]Town Vengful (Modkilled)[/color]
+3. ~~Squid~~ - [color=red]Mafia B Goon[/color]
+4. ~~Possessed~~ - [color]Town Deathproof 3-night cooldown[/color]
+5. ~~Shurian~~ - [color]Town Citizen[/color]
+7. ~~Wazza~~ -&gt; ~~ZoneQ11~~ - [color]Town Non-consecutive Begulier[/color]
+9. ~~Mist~~ - [color=orange]Mafia A Neighborizer[/color]
+10. ~~Katze~~ - [color]Town Miller[/color]
+11. ~~Jake~~ - [color]Town 3-Unique Quadravoter[/color]
+12. ~~marina~~ -&gt; ZoneQ11 - [color]Town Inventor[/color]</description>
+    
+    <lastBuildDate>Thu, 19 Dec 2019 03:41:32 +0000</lastBuildDate>
+    <category>Completed</category>
+    <atom:link href="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <p>i claim sk</p>
+<p>ez win suckers</p>
+          <p><a href="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2981">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2981</link>
+        <pubDate>Thu, 19 Dec 2019 03:41:32 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79678-2981</guid>
+        <source url="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678.rss">[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</source>
+      </item>
+      <item>
+        <title>[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</title>
+        <dc:creator><![CDATA[Shurian]]></dc:creator>
+        <description><![CDATA[
+            <p>No SKs, but since everyone died, the “SK” won</p>
+          <p><a href="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2980">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2980</link>
+        <pubDate>Thu, 19 Dec 2019 02:58:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79678-2980</guid>
+        <source url="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678.rss">[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</source>
+      </item>
+      <item>
+        <title>[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</title>
+        <dc:creator><![CDATA[Mercenary]]></dc:creator>
+        <description><![CDATA[
+            <p>SK win?</p>
+          <p><a href="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2979">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2979</link>
+        <pubDate>Thu, 19 Dec 2019 02:50:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79678-2979</guid>
+        <source url="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678.rss">[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</source>
+      </item>
+      <item>
+        <title>[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</title>
+        <dc:creator><![CDATA[Esquiddy]]></dc:creator>
+        <description><![CDATA[
+            <p>Thank you. I think I might play another game in the future. This was interesting. I’m happy that at least my suspicions toward Hippo we’re right.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2978">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2978</link>
+        <pubDate>Thu, 19 Dec 2019 02:41:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79678-2978</guid>
+        <source url="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678.rss">[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</source>
+      </item>
+      <item>
+        <title>[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</title>
+        <dc:creator><![CDATA[eevee]]></dc:creator>
+        <description><![CDATA[
+            <p>2-4</p>
+<p>70% - 2 votes<br>
+27% - 3 votes<br>
+3% - 4 votes</p>
+<p>Or something along this lines.</p>
+<p>Would have to check in recording and I’m in bed rn.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2977">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2977</link>
+        <pubDate>Thu, 19 Dec 2019 00:53:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79678-2977</guid>
+        <source url="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678.rss">[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</source>
+      </item>
+      <item>
+        <title>[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</title>
+        <dc:creator><![CDATA[JakeTheWolfie]]></dc:creator>
+        <description><![CDATA[
+            <p><span class="mention">@eevee-sama</span> What range did you use for my extra voting</p>
+          <p><a href="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2976">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2976</link>
+        <pubDate>Thu, 19 Dec 2019 00:03:54 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79678-2976</guid>
+        <source url="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678.rss">[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</source>
+      </item>
+      <item>
+        <title>[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</title>
+        <dc:creator><![CDATA[Shurian]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/esquiddy">@Esquiddy</a> I liked your performance this game! I do have improvement tips for you, which is to now formulate your own methods and insist on them :3</p>
+          <p><a href="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2975">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2975</link>
+        <pubDate>Wed, 18 Dec 2019 23:54:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79678-2975</guid>
+        <source url="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678.rss">[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</source>
+      </item>
+      <item>
+        <title>[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</title>
+        <dc:creator><![CDATA[Shurian]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah that was the nail<br>
+I was bolding you in my class card lol</p>
+          <p><a href="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2974">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2974</link>
+        <pubDate>Wed, 18 Dec 2019 00:48:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79678-2974</guid>
+        <source url="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678.rss">[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</source>
+      </item>
+      <item>
+        <title>[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>I didn’t want a mafia dead d1 so moved lynch off him lmao</p>
+          <p><a href="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2973">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2973</link>
+        <pubDate>Wed, 18 Dec 2019 00:48:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79678-2973</guid>
+        <source url="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678.rss">[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</source>
+      </item>
+      <item>
+        <title>[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>I legit thought marshall was scum too lol</p>
+          <p><a href="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2972">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2972</link>
+        <pubDate>Wed, 18 Dec 2019 00:47:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79678-2972</guid>
+        <source url="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678.rss">[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</source>
+      </item>
+      <item>
+        <title>[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</title>
+        <dc:creator><![CDATA[Shurian]]></dc:creator>
+        <description><![CDATA[
+            <p>I didnt expect all mafia to be single teamed tho</p>
+          <p><a href="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2971">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2971</link>
+        <pubDate>Wed, 18 Dec 2019 00:47:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79678-2971</guid>
+        <source url="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678.rss">[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</source>
+      </item>
+      <item>
+        <title>[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>Fun fact to easy read me: i never believe in scumslips or slips of any nature as town. All my reads are tonal reads which I find hard to explain. This game I don’t think I said the word ‘tone’ or ‘tonal’ once and instead relied on bs slips and interactions to fake reads.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2970">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2970</link>
+        <pubDate>Wed, 18 Dec 2019 00:47:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79678-2970</guid>
+        <source url="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678.rss">[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</source>
+      </item>
+      <item>
+        <title>[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</title>
+        <dc:creator><![CDATA[Shurian]]></dc:creator>
+        <description><![CDATA[
+            <p>I pushed Marshal for what again<br>
+I cant remember<br>
+I thought he was scum because you defended him XD</p>
+          <p><a href="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2969">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2969</link>
+        <pubDate>Wed, 18 Dec 2019 00:47:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79678-2969</guid>
+        <source url="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678.rss">[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</source>
+      </item>
+      <item>
+        <title>[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah I realized u p much knew i was scum just cuz all my reasoning on u was so shit lol</p>
+          <p><a href="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2968">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2968</link>
+        <pubDate>Wed, 18 Dec 2019 00:46:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79678-2968</guid>
+        <source url="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678.rss">[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</source>
+      </item>
+      <item>
+        <title>[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</title>
+        <dc:creator><![CDATA[Shurian]]></dc:creator>
+        <description><![CDATA[
+            <p>If you didnt I was actually planning to push on you hard on the basis of that one “caring about SK” slip you made</p>
+          <p><a href="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2967">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2967</link>
+        <pubDate>Wed, 18 Dec 2019 00:45:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79678-2967</guid>
+        <source url="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678.rss">[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</source>
+      </item>
+      <item>
+        <title>[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</title>
+        <dc:creator><![CDATA[PoisonedSquid]]></dc:creator>
+        <description><![CDATA[
+            <p>That moment actually gave me a shard of hope</p>
+          <p><a href="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2966">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2966</link>
+        <pubDate>Tue, 17 Dec 2019 22:44:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79678-2966</guid>
+        <source url="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678.rss">[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</source>
+      </item>
+      <item>
+        <title>[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>It’d probably end in sk winning again tbh</p>
+          <p><a href="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2965">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2965</link>
+        <pubDate>Tue, 17 Dec 2019 22:20:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79678-2965</guid>
+        <source url="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678.rss">[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</source>
+      </item>
+      <item>
+        <title>[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>Idk, if Marshall wasn’t modkilled I don’t think other scum would hang Squid D2. Only reason I went for squid D2 was cuz there was so few town left and I wanted to be last maf standing.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2964">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2964</link>
+        <pubDate>Tue, 17 Dec 2019 22:19:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79678-2964</guid>
+        <source url="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678.rss">[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</source>
+      </item>
+      <item>
+        <title>[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</title>
+        <dc:creator><![CDATA[eevee]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Geyde" data-post="2951" data-topic="79678" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/geyde/40/32764_2.png" class="avatar"> Geyde:</div>
+<blockquote>
+<p>As a note for future editions of this game, no more than 2 scumfacs<br>
+It gets crazy fast and with optimal kills this game would have ended much much sooner</p>
+</blockquote>
+</aside>
+<p>I believe leaving so much room for rand is optimal tho.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2963">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2963</link>
+        <pubDate>Tue, 17 Dec 2019 22:19:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79678-2963</guid>
+        <source url="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678.rss">[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</source>
+      </item>
+      <item>
+        <title>[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</title>
+        <dc:creator><![CDATA[eevee]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Hippolytus" data-post="2921" data-topic="79678" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="/user_avatar/forum.throneoflies.com/hippolytus/40/34066_2.png" class="avatar"> Hippolytus:</div>
+<blockquote>
+<p>Town had no chance with 4kpn in a 13 player game lmao</p>
+</blockquote>
+</aside>
+<p>Town would win this if Marshal wasn’t modkilled.</p>
+<p>Change my mind.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2962">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2962</link>
+        <pubDate>Tue, 17 Dec 2019 22:16:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79678-2962</guid>
+        <source url="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678.rss">[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</source>
+      </item>
+      <item>
+        <title>[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</title>
+        <dc:creator><![CDATA[eevee]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Jane" data-post="2898" data-topic="79678" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/jane/40/32683_2.png" class="avatar"> Jane:</div>
+<blockquote>
+<p>I calculated again and I got 0.07%, did I do it wrong again?</p>
+</blockquote>
+</aside>
+<p>It might be correct. I dont remember exact result, only that it waz around 0.05%, so 0.07% makes sense.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2961">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2961</link>
+        <pubDate>Tue, 17 Dec 2019 22:14:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79678-2961</guid>
+        <source url="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678.rss">[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</source>
+      </item>
+      <item>
+        <title>[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</title>
+        <dc:creator><![CDATA[eevee]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Zone_Q11" data-post="2885" data-topic="79678" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/zone_q11/40/31837_2.png" class="avatar"> Zone_Q11:</div>
+<blockquote>
+<p>Nonono. How can “something” win, if they don’t even “exist” in the first place?</p>
+</blockquote>
+</aside>
+<p>Rules be rules.</p>
+<p>Serial killers win if everyone died.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2960">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2960</link>
+        <pubDate>Tue, 17 Dec 2019 22:12:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79678-2960</guid>
+        <source url="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678.rss">[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</source>
+      </item>
+      <item>
+        <title>[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</title>
+        <dc:creator><![CDATA[SirDerpsAlot]]></dc:creator>
+        <description><![CDATA[
+            <p>Hit up that <a href="http://random.org" rel="noopener nofollow ugc">random.org</a> you know</p>
+          <p><a href="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2959">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2959</link>
+        <pubDate>Tue, 17 Dec 2019 20:36:15 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79678-2959</guid>
+        <source url="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678.rss">[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</source>
+      </item>
+      <item>
+        <title>[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <p>that was kind of my plan and it worked way better than expected</p>
+<aside class="quote no-group" data-username="SirDerpsAlot" data-post="2957" data-topic="79678" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/sirderpsalot/40/31931_2.png" class="avatar"> SirDerpsAlot:</div>
+<blockquote>
+<p>I legit used a random number generator for my N1 lmao</p>
+</blockquote>
+</aside>
+<p><img src="/images/emoji/twitter/frowning.png?v=9" title=":frowning:" class="emoji only-emoji" alt=":frowning:"></p>
+          <p><a href="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2958">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2958</link>
+        <pubDate>Tue, 17 Dec 2019 20:28:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79678-2958</guid>
+        <source url="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678.rss">[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</source>
+      </item>
+      <item>
+        <title>[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</title>
+        <dc:creator><![CDATA[SirDerpsAlot]]></dc:creator>
+        <description><![CDATA[
+            <p>I legit used a random number generator for my N1 lmao</p>
+          <p><a href="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2957">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678/2957</link>
+        <pubDate>Tue, 17 Dec 2019 20:25:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79678-2957</guid>
+        <source url="https://forum.throneoflies.com/t/sfm-vanilla-mafia-mafia-mafia-tm-serial-killer-win-wait-who/79678.rss">[SFM] Vanilla Mafia Mafia Mafia(TM) - Serial Killer Win! ...wait, who?</source>
+      </item>
+  </channel>
+</rss>

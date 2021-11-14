@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[Guide] Using Discourse for Forum Mafia</title>
+    <link>https://forum.throneoflies.com/t/guide-using-discourse-for-forum-mafia/83610</link>
+    <description>&lt;small&gt; Looking for the general guide to using Discourse? Click [here](https://forum.throneoflies.com/t/guide-using-discourse/83609). &lt;/small&gt;
+## 1. Isolation (ISO)
+ISO is a tool used to read a player&#39;s posts in isolation. In order to utilize this feature, you can:
+* Click a user&#39;s name or profile picture, and select `[x] posts in topic`
+![image|576x126](upload://BT695IhiywfB7YgIRuQxCIVuqD.png) 
+* Click a user&#39;s profile picture in &#39;Frequent Posters,&#39; below the OP, and select `[x] posts in topic`
+
+https://i.imgur.com/ypJs0Uc.png
+
+In order to stop ISOing a user, follow the same steps as above, but click `Remove filter`
+
+## 2. Votecounts (VCs)
+Mafia games on Forum of Lies are hosted manually, meaning all actions are processed by a host. Almost all Forum Mafia games include a voting feature. In order to determine how many votes a player has, and/or how many players have not voted, hosts utilize **votecounts**.
+
+An example of a votecount can be seen below:
+
+---
+**Voted** | **Voted by** | **Votes**
+| --- | --- | --- |
+Chloe | Xblade, System | 2/3
+Not Voting | Chloe, Discobot | 2
+
+---
+
+**How to read a votecount**:
+
+* **Voted** - Players under this column are those who are a current target of one or more votes. (Duh)
+
+* **Voted by** - This column contains a list of all players who are currently voting a specific player, or voting for no execution.
+
+* **Votes** - The final column in a VC is split into two segments. The first number shown is the current amount of voters voting the player, and the second number shown is the amount of votes necessary to reach majority. *Not all games have majority enabled, so not all games will have the second number*.
+
+## 3. Quoting
+
+
+To insert a quote, select the text you wish to quote, then press the Quote button that pops up. Repeat this for multiple quotes even from different posts and different users. The quoted text will point to their original source.
+https://i.imgur.com/FB2hPoe.gif
+https://i.imgur.com/nPf6fch.gif
+
+## 4. Formatting
+You can format a post using simple HTML, BBCode, or [Markdown](http://commonmark.org/help/):
+
+```
+This is &lt;b&gt;bold&lt;/b&gt;.
+This is [b]bold[/b].
+This is **bold**.
+```
+
+For more formatting ideas, I suggest [Magnus&#39; Post Formatting Tips](https://forum.throneoflies.com/t/post-formatting-tips/76746) or the [Unofficial Discourse User Reference Guide](https://forum.digikey.com/t/an-unofficial-discourse-user-reference-guide/1125).</description>
+    
+    <lastBuildDate>Tue, 22 Dec 2020 19:46:10 +0000</lastBuildDate>
+    <category>General</category>
+    <atom:link href="https://forum.throneoflies.com/t/guide-using-discourse-for-forum-mafia/83610.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[Guide] Using Discourse for Forum Mafia</title>
+        <dc:creator><![CDATA[Chloe]]></dc:creator>
+        <description><![CDATA[
+            <p><small> Looking for the general guide to using Discourse? Click <a href="https://forum.throneoflies.com/t/guide-using-discourse/83609">here</a>. </small></p>
+<h2>1. Isolation (ISO)</h2>
+<p>ISO is a tool used to read a player’s posts in isolation. In order to utilize this feature, you can:</p>
+<ul>
+<li>Click a user’s name or profile picture, and select <code>[x] posts in topic</code><br>
+<img src="https://forum.throneoflies.com/uploads/default/original/3X/0/4/04486f1e8d475b8e3a6052ed9d079af79b27ea63.png" alt="image" data-base62-sha1="BT695IhiywfB7YgIRuQxCIVuqD" width="576" height="126">
+</li>
+<li>Click a user’s profile picture in ‘Frequent Posters,’ below the OP, and select <code>[x] posts in topic</code>
+</li>
+</ul>
+<p>                    <a href="https://i.imgur.com/ypJs0Uc.png" target="_blank" rel="noopener" class="onebox">
+            <img src="https://i.imgur.com/ypJs0Uc.png" width="342" height="115">
+          </a>
+
+</p>
+<p>In order to stop ISOing a user, follow the same steps as above, but click <code>Remove filter</code></p>
+<h2>2. Votecounts (VCs)</h2>
+<p>Mafia games on Forum of Lies are hosted manually, meaning all actions are processed by a host. Almost all Forum Mafia games include a voting feature. In order to determine how many votes a player has, and/or how many players have not voted, hosts utilize <strong>votecounts</strong>.</p>
+<p>An example of a votecount can be seen below:</p>
+<hr>
+<div class="md-table">
+<table>
+<thead>
+<tr>
+<th><strong>Voted</strong></th>
+<th><strong>Voted by</strong></th>
+<th><strong>Votes</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Chloe</td>
+<td>Xblade, System</td>
+<td>2/3</td>
+</tr>
+<tr>
+<td>Not Voting</td>
+<td>Chloe, Discobot</td>
+<td>2</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<p><strong>How to read a votecount</strong>:</p>
+<ul>
+<li>
+<p><strong>Voted</strong> - Players under this column are those who are a current target of one or more votes. (Duh)</p>
+</li>
+<li>
+<p><strong>Voted by</strong> - This column contains a list of all players who are currently voting a specific player, or voting for no execution.</p>
+</li>
+<li>
+<p><strong>Votes</strong> - The final column in a VC is split into two segments. The first number shown is the current amount of voters voting the player, and the second number shown is the amount of votes necessary to reach majority. <em>Not all games have majority enabled, so not all games will have the second number</em>.</p>
+</li>
+</ul>
+<h2>3. Quoting</h2>
+<p>To insert a quote, select the text you wish to quote, then press the Quote button that pops up. Repeat this for multiple quotes even from different posts and different users. The quoted text will point to their original source.<br>
+                    <a href="https://i.imgur.com/FB2hPoe.gif" target="_blank" rel="noopener" class="onebox">
+            <img src="https://i.imgur.com/FB2hPoe.gif" width="614" height="79">
+          </a>
+
+<br>
+                    <a href="https://i.imgur.com/nPf6fch.gif" target="_blank" rel="noopener" class="onebox">
+            <img src="https://i.imgur.com/nPf6fch.gif" width="690" height="263">
+          </a>
+
+</p>
+<h2>4. Formatting</h2>
+<p>You can format a post using simple HTML, BBCode, or <a href="http://commonmark.org/help/">Markdown</a>:</p>
+<pre><code class="lang-auto">This is &lt;b&gt;bold&lt;/b&gt;.
+This is [b]bold[/b].
+This is **bold**.
+</code></pre>
+<p>For more formatting ideas, I suggest <a href="https://forum.throneoflies.com/t/post-formatting-tips/76746">Magnus’ Post Formatting Tips</a> or the <a href="https://forum.digikey.com/t/an-unofficial-discourse-user-reference-guide/1125">Unofficial Discourse User Reference Guide</a>.</p>
+          <p><a href="https://forum.throneoflies.com/t/guide-using-discourse-for-forum-mafia/83610/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/guide-using-discourse-for-forum-mafia/83610/1</link>
+        <pubDate>Wed, 02 Sep 2020 21:45:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-83610-1</guid>
+        <source url="https://forum.throneoflies.com/t/guide-using-discourse-for-forum-mafia/83610.rss">[Guide] Using Discourse for Forum Mafia</source>
+      </item>
+  </channel>
+</rss>

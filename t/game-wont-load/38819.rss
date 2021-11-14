@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Game won&#39;t load</title>
+    <link>https://forum.throneoflies.com/t/game-wont-load/38819</link>
+    <description>#### What happened?
+
+Title. When on the screen for graphical setting, this happened:
+
+https://media.discordapp.net/attachments/404585559835803648/404585686260252683/Screenshot.PNG?width=361&amp;height=330
+
+After that, the game did not load when play was clicked.
+
+Here are my logs:
+
+
+[details=&quot;Logs&quot;]
+Initialize engine version: 5.6.4p3 (11e8f66cfca7)
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) R6 Graphics (ID=0x130a)
+    Vendor:   ATI
+    VRAM:     1005 MB
+    Driver:   22.19.677.257
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\GameAnalytics.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\GameAnalytics.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\BouncyCastle_GameSparks.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\BouncyCastle_GameSparks.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\GameSparks.Api.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\GameSparks.Api.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\GameSparks.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\GameSparks.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\GameSparksRT.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\GameSparksRT.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\NestedPrefabs.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\NestedPrefabs.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\System.Windows.Forms.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\System.Windows.Forms.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\UnityEngine.CrashLog.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\UnityEngine.CrashLog.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\TextMeshPro-5.6-1.0.56-Runtime.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\TextMeshPro-5.6-1.0.56-Runtime.dll into Unity Child Domain
+- Completed reload, in  0.111 seconds
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on Reporter
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+OnLevelWasLoaded was found on LobbyPhoton
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+OnLevelWasLoaded was found on GameSparksMgr
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+OnLevelWasLoaded was found on MySteamFriends
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Boo.Lang.dll (this message is harmless)
+OnLevelWasLoaded was found on PhotonMgr
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+&lt;RI&gt; Initializing input.
+
+&lt;RI&gt; Input initialized.
+[/details]
+
+
+#### What was SUPPOSED to happen?
+
+The game should load, and the &#39;Select Monitor&#39; should come up with an actual monitor.
+
+#### Steps to reproduce:
+
+I&#39;m not certain how this happened, but hopefully the logs might indicate something.
+
+#### Comments:
+
+None</description>
+    
+    <lastBuildDate>Sun, 21 Jan 2018 11:16:25 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forum.throneoflies.com/t/game-wont-load/38819.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Game won&#39;t load</title>
+        <dc:creator><![CDATA[TryphonX]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href="https://forum.throneoflies.com/t/game-wont-load/38819/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/game-wont-load/38819/6</link>
+        <pubDate>Sun, 21 Jan 2018 16:43:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-38819-6</guid>
+        <source url="https://forum.throneoflies.com/t/game-wont-load/38819.rss">Game won&#39;t load</source>
+      </item>
+      <item>
+        <title>Game won&#39;t load</title>
+        <dc:creator><![CDATA[Icibalus]]></dc:creator>
+        <description><![CDATA[
+            <p>Issue solved.</p>
+          <p><a href="https://forum.throneoflies.com/t/game-wont-load/38819/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/game-wont-load/38819/5</link>
+        <pubDate>Sun, 21 Jan 2018 11:16:25 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-38819-5</guid>
+        <source url="https://forum.throneoflies.com/t/game-wont-load/38819.rss">Game won&#39;t load</source>
+      </item>
+      <item>
+        <title>Game won&#39;t load</title>
+        <dc:creator><![CDATA[Icibalus]]></dc:creator>
+        <description><![CDATA[
+            <p>There dosen’t appear to be a ‘perform scalling on’ setting on my GPU.</p>
+          <p><a href="https://forum.throneoflies.com/t/game-wont-load/38819/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/game-wont-load/38819/4</link>
+        <pubDate>Sun, 21 Jan 2018 11:14:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-38819-4</guid>
+        <source url="https://forum.throneoflies.com/t/game-wont-load/38819.rss">Game won&#39;t load</source>
+      </item>
+      <item>
+        <title>Game won&#39;t load</title>
+        <dc:creator><![CDATA[Icibalus]]></dc:creator>
+        <description><![CDATA[
+            <p>Having trouble getting to my GPU control panel, I’ll get back to you.</p>
+          <p><a href="https://forum.throneoflies.com/t/game-wont-load/38819/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/game-wont-load/38819/3</link>
+        <pubDate>Sun, 21 Jan 2018 11:01:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-38819-3</guid>
+        <source url="https://forum.throneoflies.com/t/game-wont-load/38819.rss">Game won&#39;t load</source>
+      </item>
+      <item>
+        <title>Game won&#39;t load</title>
+        <dc:creator><![CDATA[Ashe]]></dc:creator>
+        <description><![CDATA[
+            <p>This seems to be an issue with Windows 10 (and possibly other operating systems) and Unity games. To fix this, you have to go into your GPU Control Panel. The following are instructions for Nvidia Control Panel, but while it should be possible with other GPU Control Panels it may be slightly different to navigate. Under Display &gt; Adjust Desktop Size and Position, you will find a menu for scaling. If it is not already, change the Scaling Mode to “No Scaling”, and Perform Scaling on: to “Display”. Then, try opening ToL up, and you should see it can now select your display, and it should open properly. If that doesn’t fix the problem, tick the box “Override the scaling mode set by games and programs”, and then try again. Hopefully this fixes it!</p>
+          <p><a href="https://forum.throneoflies.com/t/game-wont-load/38819/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/game-wont-load/38819/2</link>
+        <pubDate>Sun, 21 Jan 2018 10:52:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-38819-2</guid>
+        <source url="https://forum.throneoflies.com/t/game-wont-load/38819.rss">Game won&#39;t load</source>
+      </item>
+      <item>
+        <title>Game won&#39;t load</title>
+        <dc:creator><![CDATA[Icibalus]]></dc:creator>
+        <description><![CDATA[
+            <h4>What happened?</h4>
+<p>Title. When on the screen for graphical setting, this happened:</p>
+<p><a href="https://media.discordapp.net/attachments/404585559835803648/404585686260252683/Screenshot.PNG?width=361&amp;height=330" class="onebox" target="_blank" rel="noopener nofollow ugc">https://media.discordapp.net/attachments/404585559835803648/404585686260252683/Screenshot.PNG?width=361&amp;height=330</a></p>
+<p>After that, the game did not load when play was clicked.</p>
+<p>Here are my logs:</p>
+<details>
+<summary>
+Logs</summary>
+<p>Initialize engine version: 5.6.4p3 (11e8f66cfca7)<br>
+Forcing GfxDevice: Direct3D 11<br>
+GfxDevice: creating device client; threaded=1<br>
+Direct3D:<br>
+Version:  Direct3D 11.0 [level 11.1]<br>
+Renderer: AMD Radeon™ R6 Graphics (ID=0x130a)<br>
+Vendor:   ATI<br>
+VRAM:     1005 MB<br>
+Driver:   22.19.677.257<br>
+Begin MonoManager ReloadAssembly<br>
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\UnityEngine.dll (this message is harmless)<br>
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\UnityEngine.dll into Unity Child Domain<br>
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)<br>
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain<br>
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Assembly-CSharp.dll (this message is harmless)<br>
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Assembly-CSharp.dll into Unity Child Domain<br>
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Assembly-UnityScript.dll (this message is harmless)<br>
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain<br>
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\UnityEngine.Networking.dll (this message is harmless)<br>
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain<br>
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\UnityEngine.UI.dll (this message is harmless)<br>
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\UnityEngine.UI.dll into Unity Child Domain<br>
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\GameAnalytics.dll (this message is harmless)<br>
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\GameAnalytics.dll into Unity Child Domain<br>
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\BouncyCastle_GameSparks.dll (this message is harmless)<br>
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\BouncyCastle_GameSparks.dll into Unity Child Domain<br>
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\GameSparks.Api.dll (this message is harmless)<br>
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\GameSparks.Api.dll into Unity Child Domain<br>
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\GameSparks.dll (this message is harmless)<br>
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\GameSparks.dll into Unity Child Domain<br>
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\GameSparksRT.dll (this message is harmless)<br>
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\GameSparksRT.dll into Unity Child Domain<br>
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Newtonsoft.Json.dll (this message is harmless)<br>
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain<br>
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\NestedPrefabs.dll (this message is harmless)<br>
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\NestedPrefabs.dll into Unity Child Domain<br>
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Photon3Unity3D.dll (this message is harmless)<br>
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Photon3Unity3D.dll into Unity Child Domain<br>
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\System.Windows.Forms.dll (this message is harmless)<br>
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\System.Windows.Forms.dll into Unity Child Domain<br>
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\UnityEngine.CrashLog.dll (this message is harmless)<br>
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\UnityEngine.CrashLog.dll into Unity Child Domain<br>
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\TextMeshPro-5.6-1.0.56-Runtime.dll (this message is harmless)<br>
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\TextMeshPro-5.6-1.0.56-Runtime.dll into Unity Child Domain</p>
+<ul>
+<li>Completed reload, in  0.111 seconds<br>
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\System.Core.dll (this message is harmless)<br>
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\System.dll (this message is harmless)<br>
+OnLevelWasLoaded was found on Reporter<br>
+This message has been deprecated and will be removed in a later version of Unity.<br>
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed</li>
+</ul>
+<p>(Filename:  Line: 376)</p>
+<p>OnLevelWasLoaded was found on LobbyPhoton<br>
+This message has been deprecated and will be removed in a later version of Unity.<br>
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed</p>
+<p>(Filename:  Line: 376)</p>
+<p>OnLevelWasLoaded was found on GameSparksMgr<br>
+This message has been deprecated and will be removed in a later version of Unity.<br>
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed</p>
+<p>(Filename:  Line: 376)</p>
+<p>OnLevelWasLoaded was found on MySteamFriends<br>
+This message has been deprecated and will be removed in a later version of Unity.<br>
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed</p>
+<p>(Filename:  Line: 376)</p>
+<p>Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Boo.Lang.dll (this message is harmless)<br>
+OnLevelWasLoaded was found on PhotonMgr<br>
+This message has been deprecated and will be removed in a later version of Unity.<br>
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed</p>
+<p>(Filename:  Line: 376)</p>
+<p>desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0<br>
+ Initializing input.</p>
+<p> Input initialized.</p>
+</details>
+<h4>What was SUPPOSED to happen?</h4>
+<p>The game should load, and the ‘Select Monitor’ should come up with an actual monitor.</p>
+<h4>Steps to reproduce:</h4>
+<p>I’m not certain how this happened, but hopefully the logs might indicate something.</p>
+<h4>Comments:</h4>
+<p>None</p>
+          <p><a href="https://forum.throneoflies.com/t/game-wont-load/38819/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/game-wont-load/38819/1</link>
+        <pubDate>Sun, 21 Jan 2018 10:44:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-38819-1</guid>
+        <source url="https://forum.throneoflies.com/t/game-wont-load/38819.rss">Game won&#39;t load</source>
+      </item>
+  </channel>
+</rss>

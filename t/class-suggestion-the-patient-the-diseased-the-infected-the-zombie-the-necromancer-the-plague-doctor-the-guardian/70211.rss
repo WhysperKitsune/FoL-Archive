@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[Class Suggestion] The Patient/The Diseased/The Infected/The Zombie/The Necromancer &amp; The Plague Doctor/The Guardian</title>
+    <link>https://forum.throneoflies.com/t/class-suggestion-the-patient-the-diseased-the-infected-the-zombie-the-necromancer-the-plague-doctor-the-guardian/70211</link>
+    <description>&gt; # **[color=gray]The Patient[/color]**
+&gt; **[color=gray]Neutral Social[/color]**
+&gt;
+&gt; **Passive (Unknown Illness)** - Immune to Occupation and Redirection.
+&gt;
+&gt; **Day Ability (Confusion)** - Make another player accuse you of treason.(2 Uses - If you get executed , the player that accused you of treason will become **[color=gray]The Diseased[/color]**)
+&gt; **Day Ability (Infected Chat)** - Silence a player.(1 Use - Not Usable on King - Not Usable until D4 - If the target votes you , they will become **[color=gray]The Diseased[/color]**)
+&gt;
+&gt; **Night Ability (Brutal Force)** - The Target will only be able to talk to you tomorrow.(3 Uses)
+&gt; **Night Ability (Death Mistake)** - Receive a player&#39;s abilities&#39; feedback.(2 Uses)
+&gt;**Goal:** *You or someone else becomes [color=gray]The Diseased[/color].*
+&gt;
+&gt; # [color=gray]The Diseased[/color]
+&gt; **[color=gray]Neutral Support[/color]**
+&gt;
+&gt; **Passive (The Plague)** - Immune to Occupation and Redirection. Immune to Death once.
+&gt; **Passive (The Start of The Plague)** - If you get attacked and die at night , the attacker becomes **[color=gray]The Diseased[/color]**.
+&gt;
+&gt; **Night Ability (Plague Shield)** - Prevents visits against a player. If 3 or more players visit your target , you will become **[color=gray]The Infected[/color]**.(Infinite Uses - Not Usable until N2)
+&gt; **Night Ability (Spread The Plague)** - Infect a player with **[color=gray]The Plague[/color]**. They will become Immune to Bleeding and Poison.(2 Uses - Will not transform the target into **[color=gray]The Diseased[/color]** ~ Not Usable until N3 - Once all of the charges have used , you will become **[color=gray]The Infected[/color]**.)
+&gt; **Goal:** *Become [color=gray]The Infected[/color].*
+&gt;
+&gt; # [color=gray]The Infected[/color]
+&gt; **[color=gray]Neutral Investigative[/color]**
+&gt; 
+&gt; **Passive (The Plague)** - Immune to Occupation and Redirection, Immune to Death once.
+&gt; **Passive (Patient Zero)** - If you get attacked and die at night , the attacker becomes **[color=gray]The Infected[/color]**.
+&gt;
+&gt;  **Day Ability (Illness)** - Target a player. If that target player gets converted tonight , they will die.(3 Uses - If all of these charges have been used successfully , you will become **[color=gray]The Zombie[/color]**.)
+&gt;
+&gt; **Night Ability (Dead Hint)** - Get a player&#39;s class type.(2 Uses - If you find 2 of the same class types , you will become **[color=gray]The Zombie[/color]**.)
+&gt; **Night Ability (Deadly)** - All players visiting you will appear as suspicious tonight.(1 Use - If one of your visitors gets investigated , you will become **[color=gray]The Zombie[/color]**)
+&gt; **Goal:** *Become [color=gray]The Zombie[/color].*
+&gt;
+&gt; # [color=gray]The Zombie[/color]
+&gt; **[color=gray]Neutral Offensive[/color]**
+&gt;
+&gt; **Passive (Undead)** - Immune To Occupation and Redirection. Immune to Death once.
+&gt; **Passive (Living Dead)** - All players you visit/target will become **[color=gray]The Infected[/color]**.
+&gt;
+&gt; **Day Ability (Walking Corpse)** - All players voting you today will become **[color=gray]The Infected[/color]**.(1 Use - Does NOT affect King)
+&gt;
+&gt; **Night Ability (Horde)** - Bite a player , turning him into **[color=gray]The Zombie[/color]**.(2 Uses - Can NOT target King - If you successfully turn 2 player , you will become **[color=gray]The Necromancer[/color]**)
+&gt; **Night Ability (Dead Skin)** - Occupy a player.(3 Uses - Can NOT target The King)
+&gt; **Goal:** *Become [color=gray]The Necromancer[/color].*
+&gt; # [color=gray]The Necromancer[/color] :shield: 
+&gt; **[color=gray]Neutral Killer[/color]**
+&gt;
+&gt; **Passive (Horseman of The Apocalypse)** - Immune to Occupation and Redirection. Immune to Death at Night.
+&gt; **Passive (Plague Bearer)** - All players visiting you will become **[color=gray]The Zombie[/color]**.
+&gt;
+&gt; **Day Ability (Living Apocalypse)** - Kill one of **[color=gray]The Zombies[/color]** , **[color=gray]The Infected[/color]** , **[color=gray]The Diseased[/color]** or **[color=gray]The Patients[/color]** to gain an extra charge of **Ressurect**.(Infinite Uses - You will know who are **[color=gray]The Zombies[/color]** , **[color=gray]The Infected[/color]** , **[color=gray]The Diseased[/color]** and **[color=gray]The Patients[/color]** and they will know who they are.)
+&gt; **Day Ability (Poison Ivy)** - Poison a player.(1 Use - Can NOT target The King)
+&gt;
+&gt; **Night Ability (Ressurect)** - Transform a player into **[color=gray]The Zombie[/color]** , **[color=gray]The Infected[/color]** , **[color=gray]The Diseased[/color]** or **[color=gray]The Patient[/color]**.(Infinite Uses - They will transform based on their class type.)
+&gt; **Night Ability (Dead Killer)** - Attack a player. If The Target is Immune , they will turn into **[color=gray]The Zombie[/color]** , **[color=gray]The Infected[/color]** , **[color=gray]The Diseased[/color]** or **[color=gray]The Patient[/color]** based on their class.(3 Uses)
+&gt;**Goal:** *Defeat the members of the main factions.*
+&gt;
+&gt; # Note 
+&gt; **[color=gray]The Zombies[/color]** , **[color=gray]The Infected[/color]** , **[color=gray]The Diseased[/color]** , **[color=gray]The Patients[/color]** win if **[color=gray]The Necromancer[/color]** wins.
+
+&gt; # [color=steblue]The Plague Doctor[/color] :shield: :crossed_swords:(In Undead Games) 
+&gt; **[color=steblue]Blue Dragon Special[/color]**
+&gt;
+&gt; **Passive (The Doctor)** - You are immune to **The Plague.**
+&gt; **Passive (Medical Studies)** - Alll the people you visit become immune to **The Plague**. You are Immune to **Nightshade** and **Bleeding**.
+&gt;
+&gt; **Day Ability (Check)** - Check if a player has been visited by a **Plague-Infected** person. If they have been visited , you will kill them the next night.(2 Uses)
+&gt; **Day Ability (Immunity)** - Make a player forever immune to **The Plague**.(2 Uses)
+&gt;
+&gt; **Night Ability (Examine)** - Check to see if a player is infected by **The Plague**.If they are infected , you will kill them.(Infinite Uses)
+&gt; **Night Ability (Requesting Help)** - Recruit a player , changing their class to **[color=steblue]The Knight[/color]**.(1 Use - Can not Target The King. The Target will become Immune to **The Plague** and they will have a chance to refuse your offer.)
+&gt; **Goal:** *Defeat The Plague.*
+&gt;
+&gt; **[color=purple]Converts[/color] into:**
+&gt;
+&gt; # [color=purple]The Guardian[/color] :shield:
+&gt; **[color=purple]Unseen Offensive[/color]**
+&gt;
+&gt; **Passive (Caring)** - All **[color=purple]Unseen[/color]** are Immune to **The Plague**
+&gt; **Passive (Immunity Shield)** - Players infected with **The Plague** will not be able to visit **[color=purple]The Unseen[/color]**.
+&gt;
+&gt; **Day Ability (Clarify)** - Check if a player has been visited by a **Plague-Infected** person. If they have been visited , they will be occupied tonight.(4 Uses - Can NOT target The King).
+&gt;
+&gt; **Night Ability (Examine)** - Check if a player has been infected by **The Plague**. If they were infected , they will be &quot;prevented&quot; when using an ability the next night and both the target and the target&#39;s target will die.(2 Uses)
+&gt; **Night Ability (Requesting Help)** - Recruit a player , changing their class to **[color=steblue]The Knight[/color]**.(1 Use - Can not Target The King. The Target will become Immune to **The Plague** and they will have a chance to refuse your offer.If they accept our offer , they will get converted into **[color=purple]The Enforcer[/color]** without **Frenzy**)
+&gt; **Goal:** *Defeat [color=steblue]The Blue Dragon[/color] and any [color=gray]Neutrals[/color] that seek you harm.*
+&gt;
+&gt; # Notes
+&gt; If **[color=steblue]The Plague Doctor[/color]** has won , he will become **unconvertable.**
+&gt; You Can NOT Convert Royalty using **Requesting Aid**.
+
+Any feedback is welcome. I know this may seem unfair but I want your opinions on this concept. Okay , thanks!</description>
+    
+    <lastBuildDate>Fri, 13 Jul 2018 09:55:00 +0000</lastBuildDate>
+    <category>Class/Lore/Fanfic</category>
+    <atom:link href="https://forum.throneoflies.com/t/class-suggestion-the-patient-the-diseased-the-infected-the-zombie-the-necromancer-the-plague-doctor-the-guardian/70211.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[Class Suggestion] The Patient/The Diseased/The Infected/The Zombie/The Necromancer &amp; The Plague Doctor/The Guardian</title>
+        <dc:creator><![CDATA[NAOtheRitualist]]></dc:creator>
+        <description><![CDATA[
+            <p>Did you read the Notes tho <img src="/images/emoji/twitter/thinking.png?v=9" title=":thinking:" class="emoji" alt=":thinking:"></p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-the-patient-the-diseased-the-infected-the-zombie-the-necromancer-the-plague-doctor-the-guardian/70211/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-the-patient-the-diseased-the-infected-the-zombie-the-necromancer-the-plague-doctor-the-guardian/70211/7</link>
+        <pubDate>Fri, 13 Jul 2018 09:55:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-70211-7</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-the-patient-the-diseased-the-infected-the-zombie-the-necromancer-the-plague-doctor-the-guardian/70211.rss">[Class Suggestion] The Patient/The Diseased/The Infected/The Zombie/The Necromancer &amp; The Plague Doctor/The Guardian</source>
+      </item>
+      <item>
+        <title>[Class Suggestion] The Patient/The Diseased/The Infected/The Zombie/The Necromancer &amp; The Plague Doctor/The Guardian</title>
+        <dc:creator><![CDATA[RHCube]]></dc:creator>
+        <description><![CDATA[
+            <p>I like the idea, but it could use a few changes.  Also, will the patient appear instead of the neutral killer?</p>
+<aside class="quote no-group" data-username="NAOtheRitualist" data-post="1" data-topic="70211">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/naotheritualist/40/5457_2.png" class="avatar"> NAOtheRitualist:</div>
+<blockquote>
+<p><strong>Day Ability (Illness)</strong> - Target a player. If that target player gets converted tonight , they will die.(3 Uses - If all of these charges have been used successfully , you will become <strong>The Zombie</strong> .)</p>
+</blockquote>
+</aside>
+<p>This is too niche.  Just make it so if they get visited tonight then they will die.</p>
+<aside class="quote no-group" data-username="NAOtheRitualist" data-post="1" data-topic="70211">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/naotheritualist/40/5457_2.png" class="avatar"> NAOtheRitualist:</div>
+<blockquote>
+<p><strong>Night Ability (Deadly)</strong> - All players visiting you will appear as suspicious tonight.(1 Use - If one of your visitors gets investigated , you will become <strong>The Zombie</strong> )</p>
+</blockquote>
+</aside>
+<p>This is also a bit niche, though I’m not sure what to change it to.</p>
+<aside class="quote no-group" data-username="NAOtheRitualist" data-post="1" data-topic="70211">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/naotheritualist/40/5457_2.png" class="avatar"> NAOtheRitualist:</div>
+<blockquote>
+<p>The Plague Doctor <img src="/images/emoji/twitter/shield.png?v=9" title=":shield:" class="emoji" alt=":shield:"> <img src="/images/emoji/twitter/crossed_swords.png?v=9" title=":crossed_swords:" class="emoji" alt=":crossed_swords:">(In Undead Games)</p>
+</blockquote>
+</aside>
+<p>No.  Hardcounters are a broken concept.  They’re not fun to play as or against and have an easy win condition.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-the-patient-the-diseased-the-infected-the-zombie-the-necromancer-the-plague-doctor-the-guardian/70211/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-the-patient-the-diseased-the-infected-the-zombie-the-necromancer-the-plague-doctor-the-guardian/70211/6</link>
+        <pubDate>Thu, 12 Jul 2018 21:21:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-70211-6</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-the-patient-the-diseased-the-infected-the-zombie-the-necromancer-the-plague-doctor-the-guardian/70211.rss">[Class Suggestion] The Patient/The Diseased/The Infected/The Zombie/The Necromancer &amp; The Plague Doctor/The Guardian</source>
+      </item>
+      <item>
+        <title>[Class Suggestion] The Patient/The Diseased/The Infected/The Zombie/The Necromancer &amp; The Plague Doctor/The Guardian</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Blue dragon class that does not have the blue dragon goal?</p>
+<p>Bad</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-the-patient-the-diseased-the-infected-the-zombie-the-necromancer-the-plague-doctor-the-guardian/70211/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-the-patient-the-diseased-the-infected-the-zombie-the-necromancer-the-plague-doctor-the-guardian/70211/5</link>
+        <pubDate>Thu, 12 Jul 2018 19:22:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-70211-5</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-the-patient-the-diseased-the-infected-the-zombie-the-necromancer-the-plague-doctor-the-guardian/70211.rss">[Class Suggestion] The Patient/The Diseased/The Infected/The Zombie/The Necromancer &amp; The Plague Doctor/The Guardian</source>
+      </item>
+      <item>
+        <title>[Class Suggestion] The Patient/The Diseased/The Infected/The Zombie/The Necromancer &amp; The Plague Doctor/The Guardian</title>
+        <dc:creator><![CDATA[NAOtheRitualist]]></dc:creator>
+        <description><![CDATA[
+            <p>ooooof -.-</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-the-patient-the-diseased-the-infected-the-zombie-the-necromancer-the-plague-doctor-the-guardian/70211/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-the-patient-the-diseased-the-infected-the-zombie-the-necromancer-the-plague-doctor-the-guardian/70211/4</link>
+        <pubDate>Thu, 12 Jul 2018 19:21:54 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-70211-4</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-the-patient-the-diseased-the-infected-the-zombie-the-necromancer-the-plague-doctor-the-guardian/70211.rss">[Class Suggestion] The Patient/The Diseased/The Infected/The Zombie/The Necromancer &amp; The Plague Doctor/The Guardian</source>
+      </item>
+      <item>
+        <title>[Class Suggestion] The Patient/The Diseased/The Infected/The Zombie/The Necromancer &amp; The Plague Doctor/The Guardian</title>
+        <dc:creator><![CDATA[Icibalus]]></dc:creator>
+        <description><![CDATA[
+            <p>(don’t expect that to ever mean anything to you it’s just too hard to resist)</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-the-patient-the-diseased-the-infected-the-zombie-the-necromancer-the-plague-doctor-the-guardian/70211/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-the-patient-the-diseased-the-infected-the-zombie-the-necromancer-the-plague-doctor-the-guardian/70211/3</link>
+        <pubDate>Thu, 12 Jul 2018 19:15:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-70211-3</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-the-patient-the-diseased-the-infected-the-zombie-the-necromancer-the-plague-doctor-the-guardian/70211.rss">[Class Suggestion] The Patient/The Diseased/The Infected/The Zombie/The Necromancer &amp; The Plague Doctor/The Guardian</source>
+      </item>
+      <item>
+        <title>[Class Suggestion] The Patient/The Diseased/The Infected/The Zombie/The Necromancer &amp; The Plague Doctor/The Guardian</title>
+        <dc:creator><![CDATA[Icibalus]]></dc:creator>
+        <description><![CDATA[
+            <p>MARL DIED OF THE PLA- </p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-the-patient-the-diseased-the-infected-the-zombie-the-necromancer-the-plague-doctor-the-guardian/70211/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-the-patient-the-diseased-the-infected-the-zombie-the-necromancer-the-plague-doctor-the-guardian/70211/2</link>
+        <pubDate>Thu, 12 Jul 2018 19:12:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-70211-2</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-the-patient-the-diseased-the-infected-the-zombie-the-necromancer-the-plague-doctor-the-guardian/70211.rss">[Class Suggestion] The Patient/The Diseased/The Infected/The Zombie/The Necromancer &amp; The Plague Doctor/The Guardian</source>
+      </item>
+      <item>
+        <title>[Class Suggestion] The Patient/The Diseased/The Infected/The Zombie/The Necromancer &amp; The Plague Doctor/The Guardian</title>
+        <dc:creator><![CDATA[NAOtheRitualist]]></dc:creator>
+        <description><![CDATA[
+            <blockquote>
+<h1><strong><font color="gray">The Patient</font></strong></h1>
+<p><strong><font color="gray">Neutral Social</font></strong></p>
+<p><strong>Passive (Unknown Illness)</strong> - Immune to Occupation and Redirection.</p>
+<p><strong>Day Ability (Confusion)</strong> - Make another player accuse you of treason.(2 Uses - If you get executed , the player that accused you of treason will become <strong><font color="gray">The Diseased</font></strong>)<br>
+<strong>Day Ability (Infected Chat)</strong> - Silence a player.(1 Use - Not Usable on King - Not Usable until D4 - If the target votes you , they will become <strong><font color="gray">The Diseased</font></strong>)</p>
+<p><strong>Night Ability (Brutal Force)</strong> - The Target will only be able to talk to you tomorrow.(3 Uses)<br>
+<strong>Night Ability (Death Mistake)</strong> - Receive a player’s abilities’ feedback.(2 Uses)<br>
+<strong>Goal:</strong> <em>You or someone else becomes <font color="gray">The Diseased</font>.</em></p>
+<h1><font color="gray">The Diseased</font></h1>
+<p><strong><font color="gray">Neutral Support</font></strong></p>
+<p><strong>Passive (The Plague)</strong> - Immune to Occupation and Redirection. Immune to Death once.<br>
+<strong>Passive (The Start of The Plague)</strong> - If you get attacked and die at night , the attacker becomes <strong><font color="gray">The Diseased</font></strong>.</p>
+<p><strong>Night Ability (Plague Shield)</strong> - Prevents visits against a player. If 3 or more players visit your target , you will become <strong><font color="gray">The Infected</font></strong>.(Infinite Uses - Not Usable until N2)<br>
+<strong>Night Ability (Spread The Plague)</strong> - Infect a player with <strong><font color="gray">The Plague</font></strong>. They will become Immune to Bleeding and Poison.(2 Uses - Will not transform the target into <strong><font color="gray">The Diseased</font></strong> ~ Not Usable until N3 - Once all of the charges have used , you will become <strong><font color="gray">The Infected</font></strong>.)<br>
+<strong>Goal:</strong> <em>Become <font color="gray">The Infected</font>.</em></p>
+<h1><font color="gray">The Infected</font></h1>
+<p><strong><font color="gray">Neutral Investigative</font></strong></p>
+<p><strong>Passive (The Plague)</strong> - Immune to Occupation and Redirection, Immune to Death once.<br>
+<strong>Passive (Patient Zero)</strong> - If you get attacked and die at night , the attacker becomes <strong><font color="gray">The Infected</font></strong>.</p>
+<p><strong>Day Ability (Illness)</strong> - Target a player. If that target player gets converted tonight , they will die.(3 Uses - If all of these charges have been used successfully , you will become <strong><font color="gray">The Zombie</font></strong>.)</p>
+<p><strong>Night Ability (Dead Hint)</strong> - Get a player’s class type.(2 Uses - If you find 2 of the same class types , you will become <strong><font color="gray">The Zombie</font></strong>.)<br>
+<strong>Night Ability (Deadly)</strong> - All players visiting you will appear as suspicious tonight.(1 Use - If one of your visitors gets investigated , you will become <strong><font color="gray">The Zombie</font></strong>)<br>
+<strong>Goal:</strong> <em>Become <font color="gray">The Zombie</font>.</em></p>
+<h1><font color="gray">The Zombie</font></h1>
+<p><strong><font color="gray">Neutral Offensive</font></strong></p>
+<p><strong>Passive (Undead)</strong> - Immune To Occupation and Redirection. Immune to Death once.<br>
+<strong>Passive (Living Dead)</strong> - All players you visit/target will become <strong><font color="gray">The Infected</font></strong>.</p>
+<p><strong>Day Ability (Walking Corpse)</strong> - All players voting you today will become <strong><font color="gray">The Infected</font></strong>.(1 Use - Does NOT affect King)</p>
+<p><strong>Night Ability (Horde)</strong> - Bite a player , turning him into <strong><font color="gray">The Zombie</font></strong>.(2 Uses - Can NOT target King - If you successfully turn 2 player , you will become <strong><font color="gray">The Necromancer</font></strong>)<br>
+<strong>Night Ability (Dead Skin)</strong> - Occupy a player.(3 Uses - Can NOT target The King)<br>
+<strong>Goal:</strong> <em>Become <font color="gray">The Necromancer</font>.</em></p>
+<h1>
+<font color="gray">The Necromancer</font> <img src="/images/emoji/twitter/shield.png?v=9" title=":shield:" class="emoji" alt=":shield:">
+</h1>
+<p><strong><font color="gray">Neutral Killer</font></strong></p>
+<p><strong>Passive (Horseman of The Apocalypse)</strong> - Immune to Occupation and Redirection. Immune to Death at Night.<br>
+<strong>Passive (Plague Bearer)</strong> - All players visiting you will become <strong><font color="gray">The Zombie</font></strong>.</p>
+<p><strong>Day Ability (Living Apocalypse)</strong> - Kill one of <strong><font color="gray">The Zombies</font></strong> , <strong><font color="gray">The Infected</font></strong> , <strong><font color="gray">The Diseased</font></strong> or <strong><font color="gray">The Patients</font></strong> to gain an extra charge of <strong>Ressurect</strong>.(Infinite Uses - You will know who are <strong><font color="gray">The Zombies</font></strong> , <strong><font color="gray">The Infected</font></strong> , <strong><font color="gray">The Diseased</font></strong> and <strong><font color="gray">The Patients</font></strong> and they will know who they are.)<br>
+<strong>Day Ability (Poison Ivy)</strong> - Poison a player.(1 Use - Can NOT target The King)</p>
+<p><strong>Night Ability (Ressurect)</strong> - Transform a player into <strong><font color="gray">The Zombie</font></strong> , <strong><font color="gray">The Infected</font></strong> , <strong><font color="gray">The Diseased</font></strong> or <strong><font color="gray">The Patient</font></strong>.(Infinite Uses - They will transform based on their class type.)<br>
+<strong>Night Ability (Dead Killer)</strong> - Attack a player. If The Target is Immune , they will turn into <strong><font color="gray">The Zombie</font></strong> , <strong><font color="gray">The Infected</font></strong> , <strong><font color="gray">The Diseased</font></strong> or <strong><font color="gray">The Patient</font></strong> based on their class.(3 Uses)<br>
+<strong>Goal:</strong> <em>Defeat the members of the main factions.</em></p>
+<h1>Note</h1>
+<p><strong><font color="gray">The Zombies</font></strong> , <strong><font color="gray">The Infected</font></strong> , <strong><font color="gray">The Diseased</font></strong> , <strong><font color="gray">The Patients</font></strong> win if <strong><font color="gray">The Necromancer</font></strong> wins.</p>
+</blockquote>
+<blockquote>
+<h1>
+<font color="steblue">The Plague Doctor</font> <img src="/images/emoji/twitter/shield.png?v=9" title=":shield:" class="emoji" alt=":shield:"> <img src="/images/emoji/twitter/crossed_swords.png?v=9" title=":crossed_swords:" class="emoji" alt=":crossed_swords:">(In Undead Games)</h1>
+<p><strong><font color="steblue">Blue Dragon Special</font></strong></p>
+<p><strong>Passive (The Doctor)</strong> - You are immune to <strong>The Plague.</strong><br>
+<strong>Passive (Medical Studies)</strong> - Alll the people you visit become immune to <strong>The Plague</strong>. You are Immune to <strong>Nightshade</strong> and <strong>Bleeding</strong>.</p>
+<p><strong>Day Ability (Check)</strong> - Check if a player has been visited by a <strong>Plague-Infected</strong> person. If they have been visited , you will kill them the next night.(2 Uses)<br>
+<strong>Day Ability (Immunity)</strong> - Make a player forever immune to <strong>The Plague</strong>.(2 Uses)</p>
+<p><strong>Night Ability (Examine)</strong> - Check to see if a player is infected by <strong>The Plague</strong>.If they are infected , you will kill them.(Infinite Uses)<br>
+<strong>Night Ability (Requesting Help)</strong> - Recruit a player , changing their class to <strong><font color="steblue">The Knight</font></strong>.(1 Use - Can not Target The King. The Target will become Immune to <strong>The Plague</strong> and they will have a chance to refuse your offer.)<br>
+<strong>Goal:</strong> <em>Defeat The Plague.</em></p>
+<p><strong><font color="purple">Converts</font> into:</strong></p>
+<h1>
+<font color="purple">The Guardian</font> <img src="/images/emoji/twitter/shield.png?v=9" title=":shield:" class="emoji" alt=":shield:">
+</h1>
+<p><strong><font color="purple">Unseen Offensive</font></strong></p>
+<p><strong>Passive (Caring)</strong> - All <strong><font color="purple">Unseen</font></strong> are Immune to <strong>The Plague</strong><br>
+<strong>Passive (Immunity Shield)</strong> - Players infected with <strong>The Plague</strong> will not be able to visit <strong><font color="purple">The Unseen</font></strong>.</p>
+<p><strong>Day Ability (Clarify)</strong> - Check if a player has been visited by a <strong>Plague-Infected</strong> person. If they have been visited , they will be occupied tonight.(4 Uses - Can NOT target The King).</p>
+<p><strong>Night Ability (Examine)</strong> - Check if a player has been infected by <strong>The Plague</strong>. If they were infected , they will be “prevented” when using an ability the next night and both the target and the target’s target will die.(2 Uses)<br>
+<strong>Night Ability (Requesting Help)</strong> - Recruit a player , changing their class to <strong><font color="steblue">The Knight</font></strong>.(1 Use - Can not Target The King. The Target will become Immune to <strong>The Plague</strong> and they will have a chance to refuse your offer.If they accept our offer , they will get converted into <strong><font color="purple">The Enforcer</font></strong> without <strong>Frenzy</strong>)<br>
+<strong>Goal:</strong> <em>Defeat <font color="steblue">The Blue Dragon</font> and any <font color="gray">Neutrals</font> that seek you harm.</em></p>
+<h1>Notes</h1>
+<p>If <strong><font color="steblue">The Plague Doctor</font></strong> has won , he will become <strong>unconvertable.</strong><br>
+You Can NOT Convert Royalty using <strong>Requesting Aid</strong>.</p>
+</blockquote>
+<p>Any feedback is welcome. I know this may seem unfair but I want your opinions on this concept. Okay , thanks!</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-the-patient-the-diseased-the-infected-the-zombie-the-necromancer-the-plague-doctor-the-guardian/70211/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-the-patient-the-diseased-the-infected-the-zombie-the-necromancer-the-plague-doctor-the-guardian/70211/1</link>
+        <pubDate>Thu, 12 Jul 2018 16:50:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-70211-1</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-the-patient-the-diseased-the-infected-the-zombie-the-necromancer-the-plague-doctor-the-guardian/70211.rss">[Class Suggestion] The Patient/The Diseased/The Infected/The Zombie/The Necromancer &amp; The Plague Doctor/The Guardian</source>
+      </item>
+  </channel>
+</rss>

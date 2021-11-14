@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Mini Patch v2.4.1</title>
+    <link>https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839</link>
+    <description>## This is an extension of v2.4a+
+
+![news-v24-animated|477x182](upload://1Qg5kim69mecCfkab3jfjvHsk63.gif) 
+
+https://forum.imperium42.com/t/v2-4-a-patch-notes/78603
+
+____________________
+
+## v2.4.1
+
+We&#39;re about done with hotfixes, so can probably combine the next patch with something more interesting. This should be a nice checkpoint~
+
+&gt; Bug Fixes
+
+* This was actually cloud fixed, but for those that missed the memo: Fixed &quot;Queue as Group&quot; and the bug that was causing players&#39; rich presence (eg, &quot;Queued&quot;) to not properly update when creating/joining a game (which would further mess up the &quot;Follow Friend&quot; feature).
+* Fixed major bug that was causing Day 1 abilities to not be properly disabled, fixing the exploit for infinite Reaper day abils, Sorc day abils, Assassin&#39;s double abils, etc (any class that gets 2 day abils probably fixed some annoying bugs).
+* Maid&#39;s Nosy Servants abil 2nd panel now allows you to select dead targets as intended.
+* May have fixed Mastermind Dirty Work exploit during trial. This is hard to test, though - please DM me in Discord, if not.
+* Fixed Defile/Disguise (and should have auto-fixed other issues that are similar, like Possessor).
+* Regular silence should no longer override a Reaper&#39;s Icy Touch (Chill).
+* Day abilities now disable when &lt;6 seconds on day 1 like other day ends.
+* Fixed exploit to spam-click abilities to activate them early, such as Prince Execute (For real this time).
+* Classes that shouldn&#39;t win while dead no longer do.
+* Sellsword should now be able to win with Draw.
+
+&gt; Optimization + Stability
+
+* Disconnections (especially when on the loading screen) should now be more-streamlined: You&#39;ll be immediately thrown back into the lobby instead of seeing an infinite loading screen (or wherever you got d/c&#39;d). This should also handle the &quot;Empty Throne&quot; bug, as well, caused by the same thing (server desync, usually).
+* We&#39;re now using a more-optimized flavor of coroutines (code that repeats over-and-over) instead of Unity&#39;s crap default one. This should use less resources and have less chance of memory leak.
+* ^ This new thing also has a special &quot;cancel&quot; detection on game shutdown. *Maybe* this will help that lingering exit lag? We&#39;ll see. Narrowing it down over time.
+* Leaving an in-game match would cause you to Disconnect from our realtime servers instead of just leave the room. This may have a performance boost and prevent weirdness when returning to lobby.
+* Fixed dead names, eg &quot;BDKingStart&quot;
+* Completely removed *GameAnalytics* package. We haven&#39;t used it in like a year, even though it&#39;s been there -- we used to use them for those fancy graphs (before they nerfed it).
+
+&gt; Quality of Life
+
+* Night abilities now fade-in 1-second faster.
+* You&#39;ll now know if YOU got d/c&#39;d or if the SERVER d/c&#39;d you. If the server d/c&#39;d you, it&#39;ll let you know you were simply unlucky :stuck_out_tongue: When you get booted to lobby, you&#39;ll now see a white fading text below the &quot;Start Solo&quot; button. 
+* The name selection background has changed from the summer castle to the winter castle.
+* Event item store label saying &quot;New!&quot; now says &quot;Limited Event!&quot; or... something like that 🤔 it may not be new to *you*.
+
+&gt; 中文
+
+* Paladin (聖騎士) has been corrected.
+* Physician (御醫) has been corrected.
+
+--Xblade
+https://discord.gg/tol</description>
+    
+    <lastBuildDate>Fri, 27 Dec 2019 18:40:24 +0000</lastBuildDate>
+    <category>Official Announcements</category>
+    <atom:link href="https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Mini Patch v2.4.1</title>
+        <dc:creator><![CDATA[Shrimpy]]></dc:creator>
+        <description><![CDATA[
+            <p>Wow I scrolled up and could not find that quote, so disappointed.</p>
+          <p><a href="https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839/15</link>
+        <pubDate>Fri, 27 Dec 2019 18:40:24 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79839-15</guid>
+        <source url="https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839.rss">Mini Patch v2.4.1</source>
+      </item>
+      <item>
+        <title>Mini Patch v2.4.1</title>
+        <dc:creator><![CDATA[Soulshade55r]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote group-Admin" data-username="í42-Xblade" data-post="1" data-topic="79839">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<blockquote>
+<p>Bug Fixes</p>
+</blockquote>
+<ul>
+<li>Pret remvod, pret is bug bye.</li>
+</ul>
+</blockquote>
+</aside>
+<p>yaaas queen!</p>
+          <p><a href="https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839/14</link>
+        <pubDate>Tue, 24 Dec 2019 21:32:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79839-14</guid>
+        <source url="https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839.rss">Mini Patch v2.4.1</source>
+      </item>
+      <item>
+        <title>Mini Patch v2.4.1</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>I can think of a few that could use more coverage, but in general I agree that enough is covered where changes will be better than additions at this point in time.</p>
+          <p><a href="https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839/13</link>
+        <pubDate>Sat, 21 Dec 2019 09:01:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79839-13</guid>
+        <source url="https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839.rss">Mini Patch v2.4.1</source>
+      </item>
+      <item>
+        <title>Mini Patch v2.4.1</title>
+        <dc:creator><![CDATA[SirDerpsAlot]]></dc:creator>
+        <description><![CDATA[
+            <p>I thought xblade expressed the didn’t want to add new classes for a while or am I wrong?</p>
+          <p><a href="https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839/12</link>
+        <pubDate>Sat, 21 Dec 2019 03:24:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79839-12</guid>
+        <source url="https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839.rss">Mini Patch v2.4.1</source>
+      </item>
+      <item>
+        <title>Mini Patch v2.4.1</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>I agree. We have enough classes to fit most niches. More wouldn’t unwelcome of course for the most part. But changes to existing classes would be a bigger potential improvement</p>
+          <p><a href="https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839/11</link>
+        <pubDate>Thu, 19 Dec 2019 23:20:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79839-11</guid>
+        <source url="https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839.rss">Mini Patch v2.4.1</source>
+      </item>
+      <item>
+        <title>Mini Patch v2.4.1</title>
+        <dc:creator><![CDATA[anon97870008]]></dc:creator>
+        <description><![CDATA[
+            <p>You’re really in denial, aren’t you? O_o</p>
+          <p><a href="https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839/10</link>
+        <pubDate>Thu, 19 Dec 2019 21:07:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79839-10</guid>
+        <source url="https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839.rss">Mini Patch v2.4.1</source>
+      </item>
+      <item>
+        <title>Mini Patch v2.4.1</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <p>you fools</p>
+<p>clearly astromancer is coming</p>
+          <p><a href="https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839/9</link>
+        <pubDate>Thu, 19 Dec 2019 21:06:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79839-9</guid>
+        <source url="https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839.rss">Mini Patch v2.4.1</source>
+      </item>
+      <item>
+        <title>Mini Patch v2.4.1</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>Also would be down with Priest and Gladiator I guess lol</p>
+<p>Actually maybe moreso than Ranger in current ToL</p>
+<p>But also a King rework or changes to Prince and Observer would honestly be more hype</p>
+          <p><a href="https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839/8</link>
+        <pubDate>Thu, 19 Dec 2019 18:05:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79839-8</guid>
+        <source url="https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839.rss">Mini Patch v2.4.1</source>
+      </item>
+      <item>
+        <title>Mini Patch v2.4.1</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>They changed my class’s name</p>
+          <p><a href="https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839/7</link>
+        <pubDate>Thu, 19 Dec 2019 18:02:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79839-7</guid>
+        <source url="https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839.rss">Mini Patch v2.4.1</source>
+      </item>
+      <item>
+        <title>Mini Patch v2.4.1</title>
+        <dc:creator><![CDATA[Jane]]></dc:creator>
+        <description><![CDATA[
+            <p>What’s Ranger? Why did you type Archer first?</p>
+          <p><a href="https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839/6</link>
+        <pubDate>Thu, 19 Dec 2019 18:02:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79839-6</guid>
+        <source url="https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839.rss">Mini Patch v2.4.1</source>
+      </item>
+      <item>
+        <title>Mini Patch v2.4.1</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>I’d take changes over new classes <s>Ranger excepted</s></p>
+          <p><a href="https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839/5</link>
+        <pubDate>Thu, 19 Dec 2019 18:01:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79839-5</guid>
+        <source url="https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839.rss">Mini Patch v2.4.1</source>
+      </item>
+      <item>
+        <title>Mini Patch v2.4.1</title>
+        <dc:creator><![CDATA[DatBird]]></dc:creator>
+        <description><![CDATA[
+            <p><img src="/images/emoji/twitter/eyes.png?v=9" title=":eyes:" class="emoji" alt=":eyes:"> plz give us new classes</p>
+          <p><a href="https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839/4</link>
+        <pubDate>Thu, 19 Dec 2019 17:53:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79839-4</guid>
+        <source url="https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839.rss">Mini Patch v2.4.1</source>
+      </item>
+      <item>
+        <title>Mini Patch v2.4.1</title>
+        <dc:creator><![CDATA[anon97870008]]></dc:creator>
+        <description><![CDATA[
+            <p><img src="/images/emoji/twitter/tada.png?v=9" title=":tada:" class="emoji only-emoji" alt=":tada:"></p>
+          <p><a href="https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839/3</link>
+        <pubDate>Thu, 19 Dec 2019 17:38:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79839-3</guid>
+        <source url="https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839.rss">Mini Patch v2.4.1</source>
+      </item>
+      <item>
+        <title>Mini Patch v2.4.1</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote group-Admin" data-username="í42-Xblade" data-post="1" data-topic="79839">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>We’re about done with hotfixes, so can probably combine the next patch with something more interesting.</p>
+</blockquote>
+</aside>
+<p><img src="/images/emoji/twitter/eyes.png?v=9" title=":eyes:" class="emoji only-emoji" alt=":eyes:"></p>
+          <p><a href="https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839/2</link>
+        <pubDate>Thu, 19 Dec 2019 17:09:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79839-2</guid>
+        <source url="https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839.rss">Mini Patch v2.4.1</source>
+      </item>
+      <item>
+        <title>Mini Patch v2.4.1</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <h2>This is an extension of v2.4a+</h2>
+<p><img src="/uploads/default/original/3X/0/c/0cea791c76b66e201497c208aebd75158f8719f7.gif" alt="news-v24-animated" data-base62-sha1="1Qg5kim69mecCfkab3jfjvHsk63" width="477" height="182"></p>
+<p><a href="https://forum.imperium42.com/t/v2-4-a-patch-notes/78603" class="onebox" target="_blank" rel="noopener">https://forum.imperium42.com/t/v2-4-a-patch-notes/78603</a></p>
+<hr>
+<h2>v2.4.1</h2>
+<p>We’re about done with hotfixes, so can probably combine the next patch with something more interesting. This should be a nice checkpoint~</p>
+<blockquote>
+<p>Bug Fixes</p>
+</blockquote>
+<ul>
+<li>This was actually cloud fixed, but for those that missed the memo: Fixed “Queue as Group” and the bug that was causing players’ rich presence (eg, “Queued”) to not properly update when creating/joining a game (which would further mess up the “Follow Friend” feature).</li>
+<li>Fixed major bug that was causing Day 1 abilities to not be properly disabled, fixing the exploit for infinite Reaper day abils, Sorc day abils, Assassin’s double abils, etc (any class that gets 2 day abils probably fixed some annoying bugs).</li>
+<li>Maid’s Nosy Servants abil 2nd panel now allows you to select dead targets as intended.</li>
+<li>May have fixed Mastermind Dirty Work exploit during trial. This is hard to test, though - please DM me in Discord, if not.</li>
+<li>Fixed Defile/Disguise (and should have auto-fixed other issues that are similar, like Possessor).</li>
+<li>Regular silence should no longer override a Reaper’s Icy Touch (Chill).</li>
+<li>Day abilities now disable when &lt;6 seconds on day 1 like other day ends.</li>
+<li>Fixed exploit to spam-click abilities to activate them early, such as Prince Execute (For real this time).</li>
+<li>Classes that shouldn’t win while dead no longer do.</li>
+<li>Sellsword should now be able to win with Draw.</li>
+</ul>
+<blockquote>
+<p>Optimization + Stability</p>
+</blockquote>
+<ul>
+<li>Disconnections (especially when on the loading screen) should now be more-streamlined: You’ll be immediately thrown back into the lobby instead of seeing an infinite loading screen (or wherever you got d/c’d). This should also handle the “Empty Throne” bug, as well, caused by the same thing (server desync, usually).</li>
+<li>We’re now using a more-optimized flavor of coroutines (code that repeats over-and-over) instead of Unity’s crap default one. This should use less resources and have less chance of memory leak.</li>
+<li>^ This new thing also has a special “cancel” detection on game shutdown. <em>Maybe</em> this will help that lingering exit lag? We’ll see. Narrowing it down over time.</li>
+<li>Leaving an in-game match would cause you to Disconnect from our realtime servers instead of just leave the room. This may have a performance boost and prevent weirdness when returning to lobby.</li>
+<li>Fixed dead names, eg “BDKingStart”</li>
+<li>Completely removed <em>GameAnalytics</em> package. We haven’t used it in like a year, even though it’s been there – we used to use them for those fancy graphs (before they nerfed it).</li>
+</ul>
+<blockquote>
+<p>Quality of Life</p>
+</blockquote>
+<ul>
+<li>Night abilities now fade-in 1-second faster.</li>
+<li>You’ll now know if YOU got d/c’d or if the SERVER d/c’d you. If the server d/c’d you, it’ll let you know you were simply unlucky <img src="/images/emoji/twitter/stuck_out_tongue.png?v=9" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"> When you get booted to lobby, you’ll now see a white fading text below the “Start Solo” button.</li>
+<li>The name selection background has changed from the summer castle to the winter castle.</li>
+<li>Event item store label saying “New!” now says “Limited Event!” or… something like that <img src="/images/emoji/twitter/thinking.png?v=9" title=":thinking:" class="emoji" alt=":thinking:"> it may not be new to <em>you</em>.</li>
+</ul>
+<blockquote>
+<p>中文</p>
+</blockquote>
+<ul>
+<li>Paladin (聖騎士) has been corrected.</li>
+<li>Physician (御醫) has been corrected.</li>
+</ul>
+<p>–Xblade<br>
+<a href="https://discord.gg/tol" class="onebox" target="_blank" rel="noopener">https://discord.gg/tol</a></p>
+          <p><a href="https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839/1</link>
+        <pubDate>Thu, 19 Dec 2019 16:13:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-79839-1</guid>
+        <source url="https://forum.throneoflies.com/t/mini-patch-v2-4-1/79839.rss">Mini Patch v2.4.1</source>
+      </item>
+  </channel>
+</rss>

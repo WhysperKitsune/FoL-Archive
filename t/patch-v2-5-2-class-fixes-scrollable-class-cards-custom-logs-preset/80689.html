@@ -1,0 +1,637 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Patch v2.5.2 - Class fixes, Scrollable Class Cards, Custom Logs Preset - Official Announcements - Forum of Lies | Throne of Lies | by Imperium42</title>
+    <meta name="description" content="v2.5.2 Bug Fix Patch 2
+ 
+While it’s impossible to fix all bugs in a game with so many interaction combinations, I’m definitely aiming to rid of the core ones. Last patch did a job of that, but there are still some repeat&amp;hellip;">
+    <meta name="generator" content="Discourse 2.8.0.beta4 - https://github.com/discourse/discourse version 2c282a5a47af4b86a3d07160aacbd8ae6e2f0336">
+<link rel="icon" type="image/png" href="../../uploads/default/optimized/3X/3/c/3c4589975736c98aaeb36800f5e7300fd53a82be_2_32x32.png">
+<link rel="apple-touch-icon" type="image/png" href="../../uploads/default/optimized/2X/a/a0c3b95aba32838b12620cb9efe13fa3518cf6c9_2_180x180.png">
+<meta name="theme-color" content="#007ea1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover">
+<link rel="canonical" href="80689.html" />
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"https://forum.throneoflies.com","potentialAction":{"@type":"SearchAction","target":"https://forum.throneoflies.com/search?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link rel="search" type="application/opensearchdescription+xml" href="../../opensearch.xml" title="Forum of Lies | Throne of Lies | by Imperium42 Search">
+
+      <link href="../../stylesheets/desktop_9340ff5d69f8f3ca918dbed2cd569ce951f4edc2.css!__ws=forum.throneoflies.com.css" media="all" rel="stylesheet" data-target="desktop"  />
+      <link href="../../stylesheets/desktop_theme_6_dfe425bda26757794dab483fd4bcdf9d7e01b98f.css!__ws=forum.throneoflies.com.css" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="6" data-theme-name="dark"/>
+<link href="../../stylesheets/desktop_theme_16_26b56dd0d95ed87ec65468d7de36f43f2c03d7a7.css!__ws=forum.throneoflies.com.css" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="16" data-theme-name="hover color: light blue"/>
+<link href="../../stylesheets/desktop_theme_17_e2312ca6a1ba52641c2b9d505d122dfa85d805c2.css!__ws=forum.throneoflies.com.css" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="17" data-theme-name="category img size"/>
+<link href="../../stylesheets/desktop_theme_19_3b936417ddf6ec5cbcf109830efb3cd342ae15c8.css!__ws=forum.throneoflies.com.css" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="19" data-theme-name="fol-mask"/>
+<link href="../../stylesheets/desktop_theme_20_5cdd9bcffb79e9dde5afbb140a64de4983c09bc4.css!__ws=forum.throneoflies.com.css" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="20" data-theme-name="title colors (dark)"/>
+<link href="../../stylesheets/desktop_theme_23_72f42c7b38572cb492025a3b0f42485b45e4ccc5.css!__ws=forum.throneoflies.com.css" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="23" data-theme-name="hamburger colors impr (dark)"/>
+<link href="../../stylesheets/desktop_theme_27_10d977f8ba031c2f44400a42f52dc13c93089180.css!__ws=forum.throneoflies.com.css" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="27" data-theme-name="custom header links color impr (dark)"/>
+<link href="../../stylesheets/desktop_theme_32_ad9fa438393ecba6549d1a81937aa2693d7da605.css!__ws=forum.throneoflies.com.css" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="32" data-theme-name="ad banner hover"/>
+<link href="../../stylesheets/desktop_theme_34_6c7da7f5f610ff06b871f29b6d6b2a09cc190842.css!__ws=forum.throneoflies.com.css" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="34" data-theme-name="header links icons theme component"/>
+    
+    <meta id="data-ga-universal-analytics" data-tracking-code="UA-41755166-6" data-json="{&quot;cookieDomain&quot;:&quot;forum.throneoflies.com&quot;,&quot;userId&quot;:3460}" data-auto-link-domains="">
+
+  <link rel="preload" href="../../assets/google-universal-analytics-v3-706f1d28f0a97f67a47515c96189277240ec4940d968955042066d7873fd1fe8.js" as="script">
+<script src="../../assets/google-universal-analytics-v3-706f1d28f0a97f67a47515c96189277240ec4940d968955042066d7873fd1fe8.js"></script>
+
+
+        <link rel="alternate" type="application/rss+xml" title="RSS feed of &#39;Patch v2.5.2 - Class fixes, Scrollable Class Cards, Custom Logs Preset&#39;" href="80689.rss" />
+    <meta property="og:site_name" content="Forum of Lies | Throne of Lies | by Imperium42" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:image" content="https://forum.throneoflies.com/uploads/default/original/3X/d/f/df2cf1b949ced6466ce5892b5dd381bc37a64956.png" />
+<meta property="og:image" content="https://forum.throneoflies.com/uploads/default/original/3X/d/f/df2cf1b949ced6466ce5892b5dd381bc37a64956.png" />
+<meta property="og:url" content="https://forum.throneoflies.com/t/patch-v2-5-2-class-fixes-scrollable-class-cards-custom-logs-preset/80689" />
+<meta name="twitter:url" content="https://forum.throneoflies.com/t/patch-v2-5-2-class-fixes-scrollable-class-cards-custom-logs-preset/80689" />
+<meta property="og:title" content="Patch v2.5.2 - Class fixes, Scrollable Class Cards, Custom Logs Preset" />
+<meta name="twitter:title" content="Patch v2.5.2 - Class fixes, Scrollable Class Cards, Custom Logs Preset" />
+<meta property="og:description" content="v2.5.2 Bug Fix Patch 2   While it’s impossible to fix all bugs in a game with so many interaction combinations, I’m definitely aiming to rid of the core ones. Last patch did a job of that, but there are still some repeated ones out there.   Class Bug Fixes  Fixed Assassin’s Assassinate abil interaction with Reaper (that was causing Reaper to be unhealable) and a more-obscure bug that forgot to consider Empower.  Analyze abil feedback class results now show properly. Noble’s Gossip abil now corre..." />
+<meta name="twitter:description" content="v2.5.2 Bug Fix Patch 2   While it’s impossible to fix all bugs in a game with so many interaction combinations, I’m definitely aiming to rid of the core ones. Last patch did a job of that, but there are still some repeated ones out there.   Class Bug Fixes  Fixed Assassin’s Assassinate abil interaction with Reaper (that was causing Reaper to be unhealable) and a more-obscure bug that forgot to consider Empower.  Analyze abil feedback class results now show properly. Noble’s Gossip abil now corre..." />
+<meta name="twitter:label1" value="Reading time" />
+<meta name="twitter:data1" value="1 mins 🕑" />
+<meta name="twitter:label2" value="Likes" />
+<meta name="twitter:data2" value="14 ❤" />
+<meta property="article:published_time" content="2020-03-15T12:18:14+00:00" />
+<meta property="og:ignore_canonical" content="true" />
+
+
+    
+  </head>
+  <body class="crawler">
+    
+<script src="../../theme-javascripts/7a9bafe457de7a95ab644a05b50d716e00ef8958.js!__ws=forum.throneoflies.com"></script>
+    <header>
+      <a href="../../index.html">
+          <img src="../../uploads/default/original/2X/a/a6d2069828ee3a0ac528fd2eaf6a64650f932d2f.png" alt="Forum of Lies | Throne of Lies | by Imperium42" id="site-logo" style="max-width: 150px;">
+      </a>
+    </header>
+    <div id="main-outlet" class="wrap">
+        <div id="topic-title">
+    <h1>
+      <a href="80689.html">Patch v2.5.2 - Class fixes, Scrollable Class Cards, Custom Logs Preset</a>
+    </h1>
+
+      <div class="topic-category" itemscope itemtype="http://schema.org/BreadcrumbList">
+          <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+            <a href="../../c/announcements/8.html" class="badge-wrapper bullet" itemprop="item">
+              <span class='badge-category-bg' style='background-color: #F7941D'></span>
+              <span class='badge-category clear-badge'>
+                <span class='category-name' itemprop='name'>Official Announcements</span>
+              </span>
+            </a>
+            <meta itemprop="position" content="1" />
+          </span>
+      </div>
+
+  </div>
+
+  
+
+
+      <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+            <meta itemprop='name' content='Imperium42®, LLC'>
+              <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+                <meta itemprop='url' content='https://forum.throneoflies.com/uploads/default/original/2X/a/a6d2069828ee3a0ac528fd2eaf6a64650f932d2f.png'>
+              </div>
+          </div>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/í42-Xblade.html'><span itemprop='name'>í42-Xblade</span></a>
+            
+          </span>
+
+          <link itemprop="mainEntityOfPage" href="80689.html">
+
+            <link itemprop="image" href="../../uploads/default/original/3X/d/f/df2cf1b949ced6466ce5892b5dd381bc37a64956.png">
+
+          <span class="crawler-post-infos">
+              <meta itemprop='datePublished' content='2020-03-15T12:18:14Z'>
+              <time itemprop='dateModified' datetime='2020-08-10T06:14:17Z' class='post-time'>
+                August 10, 2020,  6:14am
+              </time>
+          <span itemprop='position'>#1</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <h1>v2.5.2 Bug Fix Patch 2</h1>
+<p><img src="../../uploads/default/original/3X/d/f/df2cf1b949ced6466ce5892b5dd381bc37a64956.png" alt="image" data-base62-sha1="vQiLE3OOAfTEcDg7jYAVW74wZBc" width="300" height="141"></p>
+<p>While it’s impossible to fix <em>all</em> bugs in a game with so many interaction combinations, I’m definitely aiming to rid of the core ones. Last patch did a job of that, but there are still some repeated ones out there.</p>
+<hr>
+<h2>Class Bug Fixes</h2>
+<ul>
+<li>Fixed Assassin’s <em>Assassinate</em> abil interaction with Reaper (that was causing Reaper to be unhealable) and a more-obscure bug that forgot to consider <em>Empower</em>.</li>
+<li>
+<em>Analyze</em> abil feedback class results now show properly.</li>
+<li>Noble’s <em>Gossip</em> abil now correctly displays occupies.</li>
+<li>Fixed the ancient bug of Reaper’s <em>Icy Touch (Chill)</em> abil lifting too early due to host migration (disconnection) due to unsync’d timers.</li>
+<li>Knight’s <em>Defend</em> abil is now unhealable, as intended.</li>
+<li>Fixed obscure bug where Knights who get successfully redirected into Hunter’s <em>Bear Companion</em> abil will no longer die, since CS will be cancelled out, as intended.</li>
+<li>Knights will now successfully <em>Cold Steel</em> their intended target if they are occupy immune and there was a redirection attempt on them.</li>
+<li>Fixed Mystic’s <code>%X%</code> target name feedback that wasn’t being replaced with the actual name.</li>
+<li>^ Similarly fixed Hunter’s %CASTER% notification.</li>
+<li>Fixed an obscure <em>Matchmake</em> abil bug that was skewing results for Cult targets (Unseen targets worked fine).</li>
+<li>Fixed Alchemist’s <em>Emerald Potion</em> abil that was not considering protection from Merc’s <em>Shield</em> abil.</li>
+<li>
+<em>Hunter’s Mark</em> abil will now correctly occupy as intended.</li>
+<li>
+<em>Hunter’s Mark</em> abil no longer shows up in <em>Gossip</em> (since it’s an attack).</li>
+<li>
+<em>Conduit</em> abil is no longer able to target the same person twice.</li>
+<li>Fixed a feedback “perspective bug” for select abilities with 2 targets, such as redirection or “A attacks B” type abilities that would sometimes show the same target 2x or inadvertently say you targeted “yourself” (<em>was a visual bug only</em>).</li>
+</ul>
+<hr>
+<h2>General Fixes/Improvements</h2>
+<ul>
+<li>Fixed death abilities that were not interacting at all.</li>
+<li>Added a new room integrity check for room name: Sometimes this was getting desync’d, causing issues with reporting, was likely causing the “missing gp bug”, and potentially other bugs. If you join a room and the room name doesn’t match server, you’ll be booted: Joining again should fix it.</li>
+<li>Added more initialization null checks to <em>possibly</em> prevent getting booted back to lobby. This is hard to test: We’ll see.</li>
+<li>Tutorial can no longer target yourself for free-action phases (and the MM will no longer agree with you that it’s a good choice to assassinate yourself O_o).</li>
+<li>Tutorial arrow anchoring fixed when pointing to use your Assassin bleed day abil.</li>
+<li>Added <em>Knight</em> to list of “cannot heal” tips for <em>Self-Heal</em> abil.</li>
+<li>Fixed some awkward vertical spacing between class cards.</li>
+<li>Started ordering “<em>this could have been caused by…</em>” tips by faction &gt;&gt; then alpha. However, only as I come across them (low priority). There are only a few now that do this and will build over time.</li>
+<li>The notifications for people leaving the game, as well as graying out of their name in the name list is fixed.</li>
+<li>Fixed “Credits” section that wasn’t allowing you to back out, immortally looking upon the mighty folks that made this game possible. <s><em>I sort of liked that bug…</em></s>
+</li>
+<li>Fixed a bunch of vertical-align “bouncing” issues (eg, when you enter <code>j</code> which is longer than <code>x</code>) when typing inside an input box.</li>
+</ul>
+<hr>
+<h2>General Quality of Life</h2>
+<ul>
+<li>Upon successful Inquisitor <em>Interrogation</em>, that player’s Heretic icon is revealed to the Inquisitor.</li>
+<li>Logbook’s <em>Send Selection</em> limit is now gone.</li>
+<li>Dead people can now emote at night in the graveyard.</li>
+<li>Widened the chat “caret” from 1px to 2px.</li>
+</ul>
+<hr>
+<h1>QoL: Scrollable class cards:</h1>
+<p><a href="https://media.discordapp.net/attachments/580380189079502868/689021163237670941/classCardsScroller.gif" class="onebox" target="_blank" rel="noopener">https://media.discordapp.net/attachments/580380189079502868/689021163237670941/classCardsScroller.gif</a></p>
+<hr>
+<h1>QoL: Custom Logs Preset</h1>
+<p>The highly-requested logs preset feat is now here! You can change yours in settings:</p>
+<div align="center">
+Allow the user to create and edit their own personal log preset.
+<img src="https://i.imgur.com/KepwwGq.png">
+<p><strong>Creation Preview</strong></p>
+<p><img src="https://cdn.discordapp.com/attachments/564675652721180672/688120369827414150/unknown.png"></p>
+<p><em>^ Note:</em> Since this screenshot, a <em>Default Layout</em> button has been added.</p>
+<p><strong>In-Game Preview</strong></p>
+<p><img src="https://cdn.discordapp.com/attachments/564675652721180672/688216278141632516/unknown.png"></p>
+</div>
+<hr>
+<h2>中文 Localization</h2>
+<ul>
+<li>Tutorial has been localized. <strong>[During testing, it will be incomplete]</strong>
+</li>
+<li>Fixed some vertical-alignment anchoring.</li>
+<li>Translated some common phrases</li>
+</ul>
+<hr>
+<h2>v2.5 Patch Archive:</h2>
+<p><a href="https://forum.imperium42.com/t/patch-v2-5-1-live-bug-fixes-stability/80431/" class="onebox" target="_blank" rel="noopener">https://forum.imperium42.com/t/patch-v2-5-1-live-bug-fixes-stability/80431/</a></p>
+<p><a href="https://forum.imperium42.com/t/patch-v2-5b-live/80108" class="onebox" target="_blank" rel="noopener">https://forum.imperium42.com/t/patch-v2-5b-live/80108</a></p>
+        </div>
+
+        <meta itemprop='headline' content='Patch v2.5.2 - Class fixes, Scrollable Class Cards, Custom Logs Preset'>
+          <meta itemprop='keywords' content=''>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+      </div>
+      <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+            <meta itemprop='name' content='Imperium42®, LLC'>
+              <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+                <meta itemprop='url' content='https://forum.throneoflies.com/uploads/default/original/2X/a/a6d2069828ee3a0ac528fd2eaf6a64650f932d2f.png'>
+              </div>
+          </div>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/orangeandblack5.html'><span itemprop='name'>orangeandblack5</span></a>
+            
+          </span>
+
+          <link itemprop="mainEntityOfPage" href="80689.html">
+
+
+          <span class="crawler-post-infos">
+              <meta itemprop='datePublished' content='2020-03-15T13:24:52Z'>
+              <time itemprop='dateModified' datetime='2020-03-15T13:25:15Z' class='post-time'>
+                March 15, 2020,  1:25pm
+              </time>
+          <span itemprop='position'>#2</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Dude custom log defaults are a game changer</p>
+<p>It may have taken a while from when it was first suggested, but hoo boy is that a great feature and I’m glad it’s finally here! <img src="../../images/emoji/twitter/slight_smile.png!v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<p>Now, who the heckie were the 14% of people that said “no don’t add this”???</p>
+        </div>
+
+        <meta itemprop='headline' content='Patch v2.5.2 - Class fixes, Scrollable Class Cards, Custom Logs Preset'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="3" />
+           <span class='post-likes'>3 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+      </div>
+      <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+            <meta itemprop='name' content='Imperium42®, LLC'>
+              <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+                <meta itemprop='url' content='https://forum.throneoflies.com/uploads/default/original/2X/a/a6d2069828ee3a0ac528fd2eaf6a64650f932d2f.png'>
+              </div>
+          </div>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/anon97870008.html'><span itemprop='name'>anon97870008</span></a>
+            
+          </span>
+
+          <link itemprop="mainEntityOfPage" href="80689.html">
+
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2020-03-15T13:58:16Z' class='post-time'>
+                March 15, 2020,  1:58pm
+              </time>
+              <meta itemprop='dateModified' content='2020-03-15T13:58:16Z'>
+          <span itemprop='position'>#3</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>You mean 3%.</p>
+        </div>
+
+        <meta itemprop='headline' content='Patch v2.5.2 - Class fixes, Scrollable Class Cards, Custom Logs Preset'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+      </div>
+      <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+            <meta itemprop='name' content='Imperium42®, LLC'>
+              <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+                <meta itemprop='url' content='https://forum.throneoflies.com/uploads/default/original/2X/a/a6d2069828ee3a0ac528fd2eaf6a64650f932d2f.png'>
+              </div>
+          </div>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/orangeandblack5.html'><span itemprop='name'>orangeandblack5</span></a>
+            
+          </span>
+
+          <link itemprop="mainEntityOfPage" href="80689.html">
+
+
+          <span class="crawler-post-infos">
+              <meta itemprop='datePublished' content='2020-03-15T15:04:14Z'>
+              <time itemprop='dateModified' datetime='2020-03-15T15:04:21Z' class='post-time'>
+                March 15, 2020,  3:04pm
+              </time>
+          <span itemprop='position'>#4</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>No</p>
+<p>9.55 plus 3.65 is 13.2 percent</p>
+<p>I rounded up for comedic effect but I honestly don’t know how anybody looks at this and is like “no forcing people to use Notepad is clearly better”</p>
+        </div>
+
+        <meta itemprop='headline' content='Patch v2.5.2 - Class fixes, Scrollable Class Cards, Custom Logs Preset'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+      </div>
+      <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+            <meta itemprop='name' content='Imperium42®, LLC'>
+              <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+                <meta itemprop='url' content='https://forum.throneoflies.com/uploads/default/original/2X/a/a6d2069828ee3a0ac528fd2eaf6a64650f932d2f.png'>
+              </div>
+          </div>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/anon97870008.html'><span itemprop='name'>anon97870008</span></a>
+            
+          </span>
+
+          <link itemprop="mainEntityOfPage" href="80689.html">
+
+
+          <span class="crawler-post-infos">
+              <meta itemprop='datePublished' content='2020-03-15T15:16:19Z'>
+              <time itemprop='dateModified' datetime='2020-03-15T15:16:37Z' class='post-time'>
+                March 15, 2020,  3:16pm
+              </time>
+          <span itemprop='position'>#5</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>I voted for Nah cuz its the “yea you can do it but its not needed imo” answer</p>
+        </div>
+
+        <meta itemprop='headline' content='Patch v2.5.2 - Class fixes, Scrollable Class Cards, Custom Logs Preset'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+      </div>
+      <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+            <meta itemprop='name' content='Imperium42®, LLC'>
+              <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+                <meta itemprop='url' content='https://forum.throneoflies.com/uploads/default/original/2X/a/a6d2069828ee3a0ac528fd2eaf6a64650f932d2f.png'>
+              </div>
+          </div>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/orangeandblack5.html'><span itemprop='name'>orangeandblack5</span></a>
+            
+          </span>
+
+          <link itemprop="mainEntityOfPage" href="80689.html">
+
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2020-03-15T15:44:02Z' class='post-time'>
+                March 15, 2020,  3:44pm
+              </time>
+              <meta itemprop='dateModified' content='2020-03-15T15:44:02Z'>
+          <span itemprop='position'>#6</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>It’s not needed</p>
+<p>QoL changes are never needed</p>
+<p>But much like with the private notes, we should strive to do everything we can to improve player comfort and make it so you don’t need to have other programs open to be successful at the game.</p>
+        </div>
+
+        <meta itemprop='headline' content='Patch v2.5.2 - Class fixes, Scrollable Class Cards, Custom Logs Preset'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="7" />
+           <span class='post-likes'>7 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+      </div>
+      <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+            <meta itemprop='name' content='Imperium42®, LLC'>
+              <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+                <meta itemprop='url' content='https://forum.throneoflies.com/uploads/default/original/2X/a/a6d2069828ee3a0ac528fd2eaf6a64650f932d2f.png'>
+              </div>
+          </div>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/í42-Xblade.html'><span itemprop='name'>í42-Xblade</span></a>
+            
+          </span>
+
+          <link itemprop="mainEntityOfPage" href="80689.html">
+
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2020-03-16T08:07:45Z' class='post-time'>
+                March 16, 2020,  8:07am
+              </time>
+              <meta itemprop='dateModified' content='2020-03-16T08:07:45Z'>
+          <span itemprop='position'>#7</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Adding scrollable class cards:</p>
+<p><a href="https://media.discordapp.net/attachments/580380189079502868/689021163237670941/classCardsScroller.gif" class="onebox" target="_blank" rel="noopener">https://media.discordapp.net/attachments/580380189079502868/689021163237670941/classCardsScroller.gif</a></p>
+        </div>
+
+        <meta itemprop='headline' content='Patch v2.5.2 - Class fixes, Scrollable Class Cards, Custom Logs Preset'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="2" />
+           <span class='post-likes'>2 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+      </div>
+      <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+            <meta itemprop='name' content='Imperium42®, LLC'>
+              <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+                <meta itemprop='url' content='https://forum.throneoflies.com/uploads/default/original/2X/a/a6d2069828ee3a0ac528fd2eaf6a64650f932d2f.png'>
+              </div>
+          </div>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/orangeandblack5.html'><span itemprop='name'>orangeandblack5</span></a>
+            
+          </span>
+
+          <link itemprop="mainEntityOfPage" href="80689.html">
+
+
+          <span class="crawler-post-infos">
+              <meta itemprop='datePublished' content='2020-03-16T12:57:42Z'>
+              <time itemprop='dateModified' datetime='2020-03-16T12:58:38Z' class='post-time'>
+                March 16, 2020, 12:58pm
+              </time>
+          <span itemprop='position'>#8</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Seems niche but aight</p>
+<p>Are you clicking on the picture or using arrow keys or…?</p>
+        </div>
+
+        <meta itemprop='headline' content='Patch v2.5.2 - Class fixes, Scrollable Class Cards, Custom Logs Preset'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+      </div>
+      <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+            <meta itemprop='name' content='Imperium42®, LLC'>
+              <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+                <meta itemprop='url' content='https://forum.throneoflies.com/uploads/default/original/2X/a/a6d2069828ee3a0ac528fd2eaf6a64650f932d2f.png'>
+              </div>
+          </div>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/NuclearBurrito.html'><span itemprop='name'>NuclearBurrito</span></a>
+            
+          </span>
+
+          <link itemprop="mainEntityOfPage" href="80689.html">
+
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2020-03-17T15:29:11Z' class='post-time'>
+                March 17, 2020,  3:29pm
+              </time>
+              <meta itemprop='dateModified' content='2020-03-17T15:29:11Z'>
+          <span itemprop='position'>#9</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>I assumed he was using the mouse wheel</p>
+        </div>
+
+        <meta itemprop='headline' content='Patch v2.5.2 - Class fixes, Scrollable Class Cards, Custom Logs Preset'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="2" />
+           <span class='post-likes'>2 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+      </div>
+      <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+            <meta itemprop='name' content='Imperium42®, LLC'>
+              <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+                <meta itemprop='url' content='https://forum.throneoflies.com/uploads/default/original/2X/a/a6d2069828ee3a0ac528fd2eaf6a64650f932d2f.png'>
+              </div>
+          </div>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/orangeandblack5.html'><span itemprop='name'>orangeandblack5</span></a>
+            
+          </span>
+
+          <link itemprop="mainEntityOfPage" href="80689.html">
+
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2020-03-17T15:35:29Z' class='post-time'>
+                March 17, 2020,  3:35pm
+              </time>
+              <meta itemprop='dateModified' content='2020-03-17T15:35:29Z'>
+          <span itemprop='position'>#10</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Fair</p>
+        </div>
+
+        <meta itemprop='headline' content='Patch v2.5.2 - Class fixes, Scrollable Class Cards, Custom Logs Preset'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+      </div>
+
+
+
+
+
+
+    </div>
+    <footer class="container wrap">
+      <nav class='crawler-nav'>
+        <ul>
+        <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+          <span itemprop='name'>
+            <a href='../../index.html' itemprop="url">Home </a>
+          </span>
+        </li>
+        <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+          <span itemprop='name'>
+            <a href='../../categories.html' itemprop="url">Categories </a>
+          </span>
+        </li>
+        <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+          <span itemprop='name'>
+            <a href='../../guidelines.html' itemprop="url">FAQ/Guidelines </a>
+          </span>
+        </li>
+        <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+          <span itemprop='name'>
+            <a href='../../tos.html' itemprop="url">Terms of Service </a>
+          </span>
+        </li>
+        <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+          <span itemprop='name'>
+            <a href='../../privacy.html' itemprop="url">Privacy Policy </a>
+          </span>
+        </li>
+        </ul>
+      </nav>
+      <p class='powered-by-link'>Powered by <a href="https://www.discourse.org">Discourse</a>, best viewed with JavaScript enabled</p>
+    </footer>
+    
+    
+  </body>
+  
+</html>

@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Cult Rework Version 2.0</title>
+    <link>https://forum.throneoflies.com/t/cult-rework-version-2-0/72237</link>
+    <description>[details=&quot;General Cult Changes&quot;]
+
+* The cult now has a 5 member limit instead of 4.  
+
+* Vessel would replace the current cult leader(CL is a generic and unoriginal name).  
+
+* The current benefits for sacrificing a cult member should be removed(Current:  Gives the CL one charge of eradicate and each cultist one charge of their main ability).  Instead, the cult should receive a different effect depending on which class is sacrificed.  
+
+[/details]
+
+[details=&quot;Positive Effects&quot;]
+
+* Attack Prevention (Distinct from Target prevention. Knight Guard and Merc do this)
+
+* Ability modifiers(By this I mean any ability that improves another ability.  For example, Reaper&#39;s Gather Darkness, Court Wizard&#39;s Empower, and Invoker&#39;s enrage are all modifiers)
+
+* Healing
+
+* Immunities granted by another class
+
+* Limited Use Restoration
+
+* Negative Effect Prevention
+
+* Tailoring
+
+[/details]
+
+
+[details=&quot;Negative Effects&quot;]
+
+* Ability Disabling(This is different from occupation.  By this I mean Poor Fellow and Bewilder)
+
+* Frame 
+
+* Incorrect Feedback 
+
+* Occupation
+
+* Redirection
+
+* Target Prevention
+
+[/details]
+
+# [Color=Red]Vessel[/color]
+
+[details=&quot;Cult Special&quot;]
+Class type: Special
+
+* &gt;**Passive 1: Wrath of Mithras-** If you are killed by poison then you will prevent anyone from targeting the cult tonight.  
+
+* &gt; **Night ability 1: Initiate(Uses: Unlimited) -** Reveal your target&#39;s immunities.  If they are not conversion immune then you will mark them for conversion.  Select yourself to convert all marked players into the cult.  
+
+* &gt; **Night ability 2: Rupture(Uses: 4) -** kill your target.  If they are immune to death then you will cause them to bleed.  They will die in one night.  Can be healed.  Bleeding bypasses death immunity.  
+
+* &gt; **Day ability 1: Nightshade (Uses: 2)-** Poison target player.  They will die in 2 nights.  Can be healed.  Bypasses night immunity.
+
+* &gt; **Day Ability 2: Offering(Uses: Unlimited) -** Poison target faction member.  They will die tonight.  Can be healed.  Bypasses night immunity
+[/details]
+
+# [Color=Red]Ritualist[/color]
+
+[details=&quot;Cult Killing&quot;]
+
+* &gt; **Passive 1: Crimson Charge-** If you are killed by poison then you will give the cult one use of each limited ability.  
+
+* &gt; **Passive 2: Vest -** Immune to death at night once.  
+  
+* &gt; **Night ability 1: Scare(Uses: 3) - Disable your target&#39;s passives.  Lasts until the next night.  They will not be notified.  You will be told if you remove royal blood from them.  
+
+* &gt; **Night ability 2: Blood Barrier (Uses: 2)-** Cause everyone visiting target player to bleed.  They will die the next night.  Can be healed.  Bypasses night immunity.
+
+* &gt; **Day Ability 1: Deprive(Uses: 2) -** If your target has any limited use abilities then remove one use of each.  You will be told how many uses you remove.  
+
+* &gt; **Day ability 2: Crimson Curse(Uses: 1)-** Your target may not receive any positive effects tonight.  If they have a persisting positive effect(ex: merc&#39;s shield) then you will cancel it.  You will be told if this is successful. 
+ 
+[/details]
+
+# [Color=Red]Invoker[/color]
+
+[details=&quot;Cult Offensive&quot;]
+
+* &gt; **Passive 1: Fanatic-** Immune to redirection and occupation at night
+
+* &gt; **Passive 2: Crimson Wrath-** If you are killed by poison then you will guarantee that the cult is successful in their actions.  
+  
+* &gt; **Night ability 1: Strength of Mithras(Uses: 3) -** Occupy your target
+
+* &gt; **Night ability 2: Strings of Corax(Uses: 2)-** Redirect your first target to your second.  
+
+* &gt; **Day ability 1: Bewilder(Uses: 2)-** Disable your target&#39;s day abilities.  They will not be notified until they attempt to use an ability.  Still consumes a use(or whatever the cost of the ability is(ex: For reaper, this would be souls)) of the ability they are attempting to use.   
+
+* &gt; **Day Ability 2: Enrage(Uses: 1) -** Your abilities will bypass immunities tonight.  
+
+[/details]
+
+# [Color=Red]Seeker[/color]
+
+[details=&quot;Cult Investigative&quot;]
+
+* &gt; **Passive 1: Corax&#39;s sight-**  If you are killed by poison then the Cult will learn the exact class of any players you have visited
+  
+* &gt; **Night ability 1: Identify(Uses: 3) -** Determine your target&#39;s faction and class type.  
+
+* &gt; **Night ability 2: Crimson Eyes(Uses: 2)-** Discover who visits your target and reveal which classes visit your target.  You will not be told who is what class.  
+
+* &gt; **Day ability 1: Expose(Uses: 2)-** Reveal the next player to use a day ability
+
+* &gt; **Day Ability 2: Blood Tracker(Uses: 1)- ** Place a tracker on your target.  Receive all of their night feedback.  Players will remain targeted by this until you change targets.
+
+[/details]
+
+# [Color=Red]Acolyte [/color]
+
+[details=&quot;Cult Support&quot;]
+
+* &gt; **Passive 1: Crimson Shield -** If you are killed by poison then the cult will be immune to death tonight.  
+
+* &gt; **Night ability 1: Tornado(Uses: 3) -** Cause all players targeting one of your targets to target the other.  Bypasses redirection immunity.  
+
+* &gt; **Night ability 2: Brotherhood(Uses: 2)-** Prevent anyone from targeting target cultist.  You will be told who attempts to visit target cultist.   
+
+* &gt; **Day ability 1: Corax&#39;s Guidance(Uses: 2)-** Choose a cultist and a cult class.  They will become that class at the beginning of the night.  Will only consume a use at the end of the day.  If you change the Vessel&#39;s class then the oldest cultist will become the new Vessel.  You may not make your target become an unique class which is currently alive.   
+
+* &gt; **Day Ability 2: Blood Ward(Uses: 1) -** Cause the cult to become secretly immune to all negative effects tonight.  You will be notified if this is successful.  
+
+[/details]
+
+# **[color = Red]Apostle[/color]**
+
+[details=&quot;Notes&quot;]
+* There are 4 different day abilities for Apostle.  2 of them are labeled &quot;Version A&quot; and the other 2 are labeled &quot;Version B&quot;
+
+* Version A abilities require my [Mystic](https://forum.imperium42.com/t/mystic-and-illusionnist-rework-v1-3/71942) and [Noble](https://forum.imperium42.com/t/noble-and-aristocrat-rework-v3/71943/80) reworks to be added first or during the same patch.
+
+* Version B abilities do not require any non-cult reworks.  
+
+[/details]
+
+[details=&quot;Cult Social&quot;]
+* &gt; **Passive 1:** Crimson Chant - Members of the cult may speak to each other in a separate chat during the day.  
+
+* &gt; **Passive 2:** Crimson Blood - During the election for the next king, votes for you will count twice.  If you are killed by poison then each cultist will gain this passive.  
+
+* &gt; **Night ability 1:** Mind Warp(Uses: 3) - Cause your target to receive incorrect feedback from their abilities.  Receive all of their night feedback(* &gt; **Night Ability 2:** Eavesdrop(Uses: 2) - Receive the content of all public whispers tomorrow.  
+
+* &gt; **Day ability 1:** Voice of Corax(Uses: 1)(Version A)  - Cause your target&#39;s messages, whispers, and accusations of treason to become anonymous for the rest of the day They will appear as &quot;Telepathy&quot; to the court. 
+
+* &gt; **Day ability 1:** Voice of Corax(Uses: 1)(Version B)  - Your next message will be anonymous.  You will appear as telepathy to the court  
+
+* &gt; **Day ability 2:** Mental Blur(Uses: 2)(Version A) - Erase your target&#39;s chat history.  You will gain a copy of it
+
+* &gt; **Day ability 2:** Political Pressure(Uses: 2)(Version B) - Force your first target to accuse your second target of treason.  Prevent your first target from accusing and voting further for the rest of the day.  
+
+[/details]</description>
+    
+    <lastBuildDate>Fri, 07 Sep 2018 19:17:10 +0000</lastBuildDate>
+    <category>Feedback/Suggestions</category>
+    <atom:link href="https://forum.throneoflies.com/t/cult-rework-version-2-0/72237.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Cult Rework Version 2.0</title>
+        <dc:creator><![CDATA[RHCube]]></dc:creator>
+        <description><![CDATA[
+            <details>
+<summary>
+General Cult Changes</summary>
+<ul>
+<li>
+<p>The cult now has a 5 member limit instead of 4.</p>
+</li>
+<li>
+<p>Vessel would replace the current cult leader(CL is a generic and unoriginal name).</p>
+</li>
+<li>
+<p>The current benefits for sacrificing a cult member should be removed(Current:  Gives the CL one charge of eradicate and each cultist one charge of their main ability).  Instead, the cult should receive a different effect depending on which class is sacrificed.</p>
+</li>
+</ul>
+</details>
+<details>
+<summary>
+Positive Effects</summary>
+<ul>
+<li>
+<p>Attack Prevention (Distinct from Target prevention. Knight Guard and Merc do this)</p>
+</li>
+<li>
+<p>Ability modifiers(By this I mean any ability that improves another ability.  For example, Reaper’s Gather Darkness, Court Wizard’s Empower, and Invoker’s enrage are all modifiers)</p>
+</li>
+<li>
+<p>Healing</p>
+</li>
+<li>
+<p>Immunities granted by another class</p>
+</li>
+<li>
+<p>Limited Use Restoration</p>
+</li>
+<li>
+<p>Negative Effect Prevention</p>
+</li>
+<li>
+<p>Tailoring</p>
+</li>
+</ul>
+</details>
+<details>
+<summary>
+Negative Effects</summary>
+<ul>
+<li>
+<p>Ability Disabling(This is different from occupation.  By this I mean Poor Fellow and Bewilder)</p>
+</li>
+<li>
+<p>Frame</p>
+</li>
+<li>
+<p>Incorrect Feedback</p>
+</li>
+<li>
+<p>Occupation</p>
+</li>
+<li>
+<p>Redirection</p>
+</li>
+<li>
+<p>Target Prevention</p>
+</li>
+</ul>
+</details>
+<h1><font color="Red">Vessel</font></h1>
+<details>
+<summary>
+Cult Special</summary>
+<p>Class type: Special</p>
+<ul>
+<li>
+<blockquote>
+<p><strong>Passive 1: Wrath of Mithras-</strong> If you are killed by poison then you will prevent anyone from targeting the cult tonight.</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p><strong>Night ability 1: Initiate(Uses: Unlimited) -</strong> Reveal your target’s immunities.  If they are not conversion immune then you will mark them for conversion.  Select yourself to convert all marked players into the cult.</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p><strong>Night ability 2: Rupture(Uses: 4) -</strong> kill your target.  If they are immune to death then you will cause them to bleed.  They will die in one night.  Can be healed.  Bleeding bypasses death immunity.</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p><strong>Day ability 1: Nightshade (Uses: 2)-</strong> Poison target player.  They will die in 2 nights.  Can be healed.  Bypasses night immunity.</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p><strong>Day Ability 2: Offering(Uses: Unlimited) -</strong> Poison target faction member.  They will die tonight.  Can be healed.  Bypasses night immunity</p>
+</blockquote>
+</li>
+</ul>
+</details>
+<h1><font color="Red">Ritualist</font></h1>
+<details>
+<summary>
+Cult Killing</summary>
+<ul>
+<li>
+<blockquote>
+<p><strong>Passive 1: Crimson Charge-</strong> If you are killed by poison then you will give the cult one use of each limited ability.</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p><strong>Passive 2: Vest -</strong> Immune to death at night once.</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p>**Night ability 1: Scare(Uses: 3) - Disable your target’s passives.  Lasts until the next night.  They will not be notified.  You will be told if you remove royal blood from them.</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p><strong>Night ability 2: Blood Barrier (Uses: 2)-</strong> Cause everyone visiting target player to bleed.  They will die the next night.  Can be healed.  Bypasses night immunity.</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p><strong>Day Ability 1: Deprive(Uses: 2) -</strong> If your target has any limited use abilities then remove one use of each.  You will be told how many uses you remove.</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p><strong>Day ability 2: Crimson Curse(Uses: 1)-</strong> Your target may not receive any positive effects tonight.  If they have a persisting positive effect(ex: merc’s shield) then you will cancel it.  You will be told if this is successful.</p>
+</blockquote>
+</li>
+</ul>
+</details>
+<h1><font color="Red">Invoker</font></h1>
+<details>
+<summary>
+Cult Offensive</summary>
+<ul>
+<li>
+<blockquote>
+<p><strong>Passive 1: Fanatic-</strong> Immune to redirection and occupation at night</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p><strong>Passive 2: Crimson Wrath-</strong> If you are killed by poison then you will guarantee that the cult is successful in their actions.</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p><strong>Night ability 1: Strength of Mithras(Uses: 3) -</strong> Occupy your target</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p><strong>Night ability 2: Strings of Corax(Uses: 2)-</strong> Redirect your first target to your second.</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p><strong>Day ability 1: Bewilder(Uses: 2)-</strong> Disable your target’s day abilities.  They will not be notified until they attempt to use an ability.  Still consumes a use(or whatever the cost of the ability is(ex: For reaper, this would be souls)) of the ability they are attempting to use.</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p><strong>Day Ability 2: Enrage(Uses: 1) -</strong> Your abilities will bypass immunities tonight.</p>
+</blockquote>
+</li>
+</ul>
+</details>
+<h1><font color="Red">Seeker</font></h1>
+<details>
+<summary>
+Cult Investigative</summary>
+<ul>
+<li>
+<blockquote>
+<p><strong>Passive 1: Corax’s sight-</strong>  If you are killed by poison then the Cult will learn the exact class of any players you have visited</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p><strong>Night ability 1: Identify(Uses: 3) -</strong> Determine your target’s faction and class type.</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p><strong>Night ability 2: Crimson Eyes(Uses: 2)-</strong> Discover who visits your target and reveal which classes visit your target.  You will not be told who is what class.</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p><strong>Day ability 1: Expose(Uses: 2)-</strong> Reveal the next player to use a day ability</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p>**Day Ability 2: Blood Tracker(Uses: 1)- ** Place a tracker on your target.  Receive all of their night feedback.  Players will remain targeted by this until you change targets.</p>
+</blockquote>
+</li>
+</ul>
+</details>
+<h1><font color="Red">Acolyte </font></h1>
+<details>
+<summary>
+Cult Support</summary>
+<ul>
+<li>
+<blockquote>
+<p><strong>Passive 1: Crimson Shield -</strong> If you are killed by poison then the cult will be immune to death tonight.</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p><strong>Night ability 1: Tornado(Uses: 3) -</strong> Cause all players targeting one of your targets to target the other.  Bypasses redirection immunity.</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p><strong>Night ability 2: Brotherhood(Uses: 2)-</strong> Prevent anyone from targeting target cultist.  You will be told who attempts to visit target cultist.</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p><strong>Day ability 1: Corax’s Guidance(Uses: 2)-</strong> Choose a cultist and a cult class.  They will become that class at the beginning of the night.  Will only consume a use at the end of the day.  If you change the Vessel’s class then the oldest cultist will become the new Vessel.  You may not make your target become an unique class which is currently alive.</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p><strong>Day Ability 2: Blood Ward(Uses: 1) -</strong> Cause the cult to become secretly immune to all negative effects tonight.  You will be notified if this is successful.</p>
+</blockquote>
+</li>
+</ul>
+</details>
+<h1><strong><font color="Red">Apostle</font></strong></h1>
+<details>
+<summary>
+Notes</summary>
+<ul>
+<li>
+<p>There are 4 different day abilities for Apostle.  2 of them are labeled “Version A” and the other 2 are labeled “Version B”</p>
+</li>
+<li>
+<p>Version A abilities require my <a href="https://forum.imperium42.com/t/mystic-and-illusionnist-rework-v1-3/71942">Mystic</a> and <a href="https://forum.imperium42.com/t/noble-and-aristocrat-rework-v3/71943/80">Noble</a> reworks to be added first or during the same patch.</p>
+</li>
+<li>
+<p>Version B abilities do not require any non-cult reworks.</p>
+</li>
+</ul>
+</details>
+<details>
+<summary>
+Cult Social</summary>
+<ul>
+<li>
+<blockquote>
+<p><strong>Passive 1:</strong> Crimson Chant - Members of the cult may speak to each other in a separate chat during the day.</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p><strong>Passive 2:</strong> Crimson Blood - During the election for the next king, votes for you will count twice.  If you are killed by poison then each cultist will gain this passive.</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p><strong>Night ability 1:</strong> Mind Warp(Uses: 3) - Cause your target to receive incorrect feedback from their abilities.  Receive all of their night feedback(* &gt; <strong>Night Ability 2:</strong> Eavesdrop(Uses: 2) - Receive the content of all public whispers tomorrow.</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p><strong>Day ability 1:</strong> Voice of Corax(Uses: 1)(Version A)  - Cause your target’s messages, whispers, and accusations of treason to become anonymous for the rest of the day They will appear as “Telepathy” to the court.</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p><strong>Day ability 1:</strong> Voice of Corax(Uses: 1)(Version B)  - Your next message will be anonymous.  You will appear as telepathy to the court</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p><strong>Day ability 2:</strong> Mental Blur(Uses: 2)(Version A) - Erase your target’s chat history.  You will gain a copy of it</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p><strong>Day ability 2:</strong> Political Pressure(Uses: 2)(Version B) - Force your first target to accuse your second target of treason.  Prevent your first target from accusing and voting further for the rest of the day.</p>
+</blockquote>
+</li>
+</ul>
+</details>
+          <p><a href="https://forum.throneoflies.com/t/cult-rework-version-2-0/72237/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/cult-rework-version-2-0/72237/1</link>
+        <pubDate>Fri, 07 Sep 2018 19:17:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72237-1</guid>
+        <source url="https://forum.throneoflies.com/t/cult-rework-version-2-0/72237.rss">Cult Rework Version 2.0</source>
+      </item>
+  </channel>
+</rss>

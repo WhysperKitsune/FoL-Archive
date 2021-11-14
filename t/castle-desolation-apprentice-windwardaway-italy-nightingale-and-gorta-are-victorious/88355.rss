@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</title>
+    <link>https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355</link>
+    <description>
+Combat
+---
+Works on a roll system similar to VLDR, with losing all health causing a player to be knocked out. If a knocked out player is attacked again, they die. The only exception here is critical hits, which will deal x2 damage and bypass the knockout stage. In addition, players can submit retaliatory actions such as fleeing, countering, or what have you.
+
+Stats and Formulae
+---
+Stats will be from 1-100. Passing the cap is possible. Aside from the stats present in Death City, INT is also added.
+A = Attacked. D = Defender.
+
+Formulae:
+
+Hit chance = 65% + 0.5%*A.PRE-0.4%*D.AGI 
+
+Critical Chance =15%+0.3%*A.LUK (Bypasses KO)
+
+Max HP = 250+5*CON
+
+Melee Damage = A.STR+A.WeaponATK*rand(8...12)
+
+Ranged Damage = A.PRE+A.WeaponATK*rand(8...12)
+
+Magic/Explosives Damage = A.INT+A.WeaponATK*rand(8...12)
+
+Poison and Burn Damage = INT/3 per hour.
+
+Inventory
+---
+* Each player by default begins with two private item slots and five public item slots.
+* Each player also gains a weapon slot, an armor slot, and an off-hand slot.
+* Each player has an infinite inventory where they can hold Crystals.
+* Anyone can check another player’s public slot, but the private slot, equipment slots, and crystal slots will remain hidden unless the player is knocked out.
+* A player can dual-wield if they have a passive or a crystal that allows them to. Dual wielding means that your second weapon will  also attack for x0.7 of it&#39;s normal damage. You may only dual-wield 1H melee weapons.
+
+Claiming
+---
+You&#39;re allowed to claim. The wincons are fairly varied and some may overlap with others so it will be fairly easy to fakeclaim.
+
+Flips
+---
+If a player is murdered, then only their murderer will learn their alignment. If a player is executed, then only the Sovereign will learn their alignment.
+
+Alignments
+---
+
+There are three alignments that players can roll. Good, evil, and neutral
+
+Also a few notes on some changes on the alignment system when it comes to kills.
+* Good players don&#39;t get EXP from killing other Good players. (Planning on removing the incentive for good players to knowlingly kill other good players.)
+* Any player will gain a Crystal when killing an Evil one. (In short, more incentive for players to hunt Evils rather than just let them mess around like Night.)
+* Any player will gain a Legendary Weapon when killing a Neutral one. (Method to prevent people from claiming neutral to avoid conflcit. Becoming a pinata should do the trick)
+
+Wincons
+---
+
+Each player has a specific wincon. Evils gain fake safeclaims as well.
+
+Kill Penalties
+----------
+
+**Bloodied vs Bloodless**: Bloodied players have killed in the match, bloodless have not. This distinction matters in regards to passives and wincons.
+
+Sovereign
+-----------
+* The game begin with a Sovereign. The Sovereign can appoint up to three heirs. Once the Sovereign dies then a random heir will be chosen as the new Sovereign. Heirs may choose to decline becoming a sovereign.
+* Sovereigns can call execution votes.
+* Items called Skull Tokens exist. They can be used to give the voted player an additional vote for execution and are casted publicly.
+
+Crystals
+-----------
+Crystals are powerful items with strong passive abilities that can be found across the map. They are semi-rare, but they are relatively fragile and can be easily destroyed. Destroying them grants the destroyer EXP. Once every crystal in a chapter has been obtained, a new chapter will begin.
+# Execution Rework
+Executions automatically cause the Sovereign to execute their target once maj is reached. This should make them more useful now as before they were kind of like an afterthought to everyone just piling up on a random person ala Marshal.
+
+NPCs
+-----------
+Yes, there will be NPCs here in Castle Desolation. They&#39;ll be fairly weak but they&#39;ll give you EXP and may drop useful items, and many of the stronger ones even have the Crystals to use in the GoG that you can win. In addition, some players, mostly evils and neutrals though, will be able to summon NPCs to do their bidding. 
+
+The Gates of Moloch
+-----------
+To put it short, there will be the Five Seals of Moloch spread throughout the castle. If all of them go boom, then the Great Demon Moloch will be released into the game and _**baaaaaaaaaad**_ things will happen. No, this isn&#39;t going to be another lolbloodmoon and won&#39;t end the game prematurely. But still you should avoid breaking this. Obviously there will **likely** be an evil role or two who&#39;s wincon involves interacting with the gates, so be careful.
+
+
+Light of Hope
+---------
+In short, the LoH is a giant Crystal that&#39;s located in a specific room in the castle. while the LoH is working, good players do +30% damage to NPCs. This should help you guys burn through the map. However, keep in mind that it&#39;s possible for Evils to destroy the LoH. Once it&#39;s been destroyed, Goods will lose this bonus and instead evils will gain +30% damage against Good-aligned players when the LoH is destroyed. Good players need to wait 6 hours before they can use a Shard of Light to repair it, where it will become immune to Evil attacks for 6 hours.
+
+Grimoires
+--------
+Each Evil Class will have a grimoire of their class. If they obtain their own grimoire, then they will receive a shit-ton of buffs. If a Good player obtains an Evil player’s grimoire and the evil is dead, then the grimoire will give some slight passive buffs to them.
+
+Gate of Glory
+-----------
+After a player&#39;s wincon is fulfilled, they escape by going through the Gates of Glory. The Gates of Glory are activated once ten crystals are place on the slots of the Gates of Glory. Though Evils do not need the Gates of Glory to be active and can go through them as long as their win-con is satisfied and may have wincons pertaining to sabotaging the Gates of Glory as well.
+
+* All Good-aligned players need to go through the GoG to win and they must activate it beforehand.
+* Neutrals have wincons that do not require them to escape. They are less neutrals and more like true wild cards.
+* Some but not all Evil-aligned players need to go through the GoG to win, but they do not need to activate it beforehand. The only side requirement that evils have is that they need to destroy four crystals.
+
+Map
+---
+https://forum.throneoflies.com/t/castle-desolation-chapter-i-18-18/88355/814?u=alice
+
+Endgame
+-----------
+For the game to truly end, once there are five or less players alive who have not escaped then the game will end in twenty-four hours. If the remaining players do not finish up their wincon, they lose.
+
+Sign-ups
+--------
+1) ~~Apprentice~~ - [COLOR=LIME]**Escaped**[/COLOR]
+2) ~~Nightingale~~ - [COLOR=LIME]**Escaped**[/COLOR]
+3) ~~PokemonKidRyan~~ - [COLOR=RED]**Dead**[/COLOR]
+4) ~~Arctic~~ - [COLOR=RED]**Dead**[/COLOR]
+5) ~~Emilia~~ - [COLOR=RED]**Dead**[/COLOR]
+6) ~~Italy~~ - [COLOR=LIME]**Escaped**[/COLOR]
+7) ~~Amelia~~ - [COLOR=RED]**Dead**[/COLOR]
+8) ~~an_gorta_pratai~~ - [COLOR=LIME]**Escaped**[/COLOR]
+9) ~~Kyodaz~~ - [COLOR=RED]**Dead**[/COLOR]
+10) ~~Marluxion~~ - [COLOR=RED]**Dead**[/COLOR]
+11) ~~Aelin~~ - [color=red]**Dead**[/color]
+12) ~~WindwardAway~~ - [COLOR=LIME]**Escaped**[/COLOR]
+13) ~~EliThePsycho~~ - [COLOR=RED]**Dead**[/COLOR]
+14) ~~Atlas~~ - [COLOR=RED]**Dead**[/COLOR]
+15) ~~thepigeonnyc~~ - [COLOR=RED]**Dead**[/COLOR]
+16) ~~Whysper (Ryor)~~ - [COLOR=RED]**Dead**[/COLOR]
+17) ~~Zone_Q11~~ - [COLOR=RED]**Dead**[/COLOR]
+18) ~~Hippolytus~~ - [COLOR=RED]**Dead**[/COLOR]
+19) ~~&lt;big&gt;[color=red]**MOLOCH**[/color]~~ - [COLOR=RED]**DEAD**[/COLOR]
+
+Timetable 
+---------
+12pm EST to 10pm EST everyday, Wednesday&#39;s may be shorter than other days.</description>
+    
+    <lastBuildDate>Sat, 14 Aug 2021 18:36:37 +0000</lastBuildDate>
+    <category>Completed</category>
+    <atom:link href="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</title>
+        <dc:creator><![CDATA[Nightingale]]></dc:creator>
+        <description><![CDATA[
+            <p>tldr game design hard</p>
+<p>although a script where i could just push a button that says “arctic attacks” and get the damage calc there in half a second would be pretty good</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4733">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4733</link>
+        <pubDate>Sat, 14 Aug 2021 18:36:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88355-4733</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355.rss">Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</title>
+        <dc:creator><![CDATA[Nightingale]]></dc:creator>
+        <description><![CDATA[
+            <p>fair enough<br>
+straight hp is dry<br>
+straight rng is unsatisfying<br>
+a mix of both is hard to host</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4732">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4732</link>
+        <pubDate>Sat, 14 Aug 2021 18:29:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88355-4732</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355.rss">Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</title>
+        <dc:creator><![CDATA[Emilia]]></dc:creator>
+        <description><![CDATA[
+            <p>Then problem is that success or failure of most ppl will rely purely on rng which isnt really satisfying.</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4731">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4731</link>
+        <pubDate>Sat, 14 Aug 2021 18:28:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88355-4731</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355.rss">Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</title>
+        <dc:creator><![CDATA[Arctic]]></dc:creator>
+        <description><![CDATA[
+            <p>tbh my perk shouldn’t exist because it meant i just auto won every 1v1</p>
+<p>without crits the first attacker always wins and it usually takes 2 hits to ko anyone</p>
+<p>except for me i always win</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4730">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4730</link>
+        <pubDate>Sat, 14 Aug 2021 18:28:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88355-4730</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355.rss">Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</title>
+        <dc:creator><![CDATA[Nightingale]]></dc:creator>
+        <description><![CDATA[
+            <p>like<br>
+this health/attack/stat system is cool and all<br>
+but it was so complicated it seemed super hard to do quickly</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4729">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4729</link>
+        <pubDate>Sat, 14 Aug 2021 18:28:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88355-4729</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355.rss">Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <p>Nya?</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4728">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4728</link>
+        <pubDate>Sat, 14 Aug 2021 18:24:45 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88355-4728</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355.rss">Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</title>
+        <dc:creator><![CDATA[Nightingale]]></dc:creator>
+        <description><![CDATA[
+            <p>give targets that cant dodge &gt;&gt; chance of hitting<br>
+strong abilities that like give players 2 health instead of 1<br>
+etc</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4727">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4727</link>
+        <pubDate>Sat, 14 Aug 2021 18:23:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88355-4727</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355.rss">Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</title>
+        <dc:creator><![CDATA[Atlas]]></dc:creator>
+        <description><![CDATA[
+            <p>because he had a crystal which buffed his attack per seal broken</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4726">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4726</link>
+        <pubDate>Sat, 14 Aug 2021 18:13:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88355-4726</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355.rss">Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</title>
+        <dc:creator><![CDATA[Atlas]]></dc:creator>
+        <description><![CDATA[
+            <p>only reason Arc did that much damage is because zone decided to break all the seals</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4725">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4725</link>
+        <pubDate>Sat, 14 Aug 2021 18:12:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88355-4725</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355.rss">Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</title>
+        <dc:creator><![CDATA[Arctic]]></dc:creator>
+        <description><![CDATA[
+            <p>i’m guessing i was the strongest attacker in the game and ironically i didn’t even need to kill anyone</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4724">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4724</link>
+        <pubDate>Sat, 14 Aug 2021 18:12:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88355-4724</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355.rss">Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</title>
+        <dc:creator><![CDATA[Arctic]]></dc:creator>
+        <description><![CDATA[
+            <p>ftr my perk was i can’t get knocked out which is pretty op because it basically lets me take another hit regardless of how strong it is</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4723">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4723</link>
+        <pubDate>Sat, 14 Aug 2021 18:11:42 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88355-4723</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355.rss">Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</title>
+        <dc:creator><![CDATA[Nightingale]]></dc:creator>
+        <description><![CDATA[
+            <p>the main idea is so that you can process attacks in like 30 seconds or sth</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4722">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4722</link>
+        <pubDate>Sat, 14 Aug 2021 18:07:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88355-4722</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355.rss">Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</title>
+        <dc:creator><![CDATA[Nightingale]]></dc:creator>
+        <description><![CDATA[
+            <p>put the base hit % at something like 10%</p>
+<p>and also did you see arctic this game???</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4721">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4721</link>
+        <pubDate>Sat, 14 Aug 2021 18:06:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88355-4721</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355.rss">Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</title>
+        <dc:creator><![CDATA[Atlas]]></dc:creator>
+        <description><![CDATA[
+            <p>just simply attack first?</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4720">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4720</link>
+        <pubDate>Sat, 14 Aug 2021 18:06:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88355-4720</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355.rss">Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</title>
+        <dc:creator><![CDATA[Emilia]]></dc:creator>
+        <description><![CDATA[
+            <p>that would mean person who attacks first pretty much always win, which is pretty meh.</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4719">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4719</link>
+        <pubDate>Sat, 14 Aug 2021 18:05:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88355-4719</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355.rss">Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</title>
+        <dc:creator><![CDATA[Nightingale]]></dc:creator>
+        <description><![CDATA[
+            <p>simple combat processing idea<br>
+no hp, one hit is a ko, another is a kill<br>
+run everything in terms of hit chances</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4718">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4718</link>
+        <pubDate>Sat, 14 Aug 2021 18:04:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88355-4718</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355.rss">Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</title>
+        <dc:creator><![CDATA[Atlas]]></dc:creator>
+        <description><![CDATA[
+            <p>Hippo carried and defenitly didn’t try to exe a good player when there was several obvious evils</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4717">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4717</link>
+        <pubDate>Sat, 14 Aug 2021 15:31:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88355-4717</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355.rss">Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>Gg ez game</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4716">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4716</link>
+        <pubDate>Sat, 14 Aug 2021 15:28:32 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88355-4716</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355.rss">Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</title>
+        <dc:creator><![CDATA[Atlas]]></dc:creator>
+        <description><![CDATA[
+            <p>And that was probably there to suggest that it’s only players are who. Which doesn’t matter, considering that the original post suggested there would be neutrals</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4715">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4715</link>
+        <pubDate>Sat, 14 Aug 2021 15:26:20 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88355-4715</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355.rss">Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</title>
+        <dc:creator><![CDATA[Atlas]]></dc:creator>
+        <description><![CDATA[
+            <p>If beezlebug was a being of darkness, the skill would’ve said he was, I meant.</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4714">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4714</link>
+        <pubDate>Sat, 14 Aug 2021 15:25:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88355-4714</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355.rss">Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</title>
+        <dc:creator><![CDATA[PokemonKidRyan]]></dc:creator>
+        <description><![CDATA[
+            <p>No, it said to summon Beelzebub.<br>
+But Zone did have his innate be “Know how many <strong>player BoD’s</strong> there are”<br>
+Which suggests there should be non-player BoDs</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4713">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4713</link>
+        <pubDate>Sat, 14 Aug 2021 15:24:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88355-4713</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355.rss">Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</title>
+        <dc:creator><![CDATA[Atlas]]></dc:creator>
+        <description><![CDATA[
+            <p>Skills that make a being say on the skill</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4712">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4712</link>
+        <pubDate>Sat, 14 Aug 2021 15:22:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88355-4712</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355.rss">Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</title>
+        <dc:creator><![CDATA[Atlas]]></dc:creator>
+        <description><![CDATA[
+            <p>Did it ever say that it was a being?</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4711">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4711</link>
+        <pubDate>Sat, 14 Aug 2021 15:21:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88355-4711</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355.rss">Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</title>
+        <dc:creator><![CDATA[PokemonKidRyan]]></dc:creator>
+        <description><![CDATA[
+            <p>I still feel like Beelzebub, my ult, totally could’ve been a being of darkness lol</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4710">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4710</link>
+        <pubDate>Sat, 14 Aug 2021 15:21:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88355-4710</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355.rss">Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</title>
+        <dc:creator><![CDATA[Atlas]]></dc:creator>
+        <description><![CDATA[
+            <p>Almost instantly, I might add</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4709">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355/4709</link>
+        <pubDate>Sat, 14 Aug 2021 15:20:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88355-4709</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-apprentice-windwardaway-italy-nightingale-and-gorta-are-victorious/88355.rss">Castle Desolation - Apprentice, WindwardAway, Italy, Nightingale and Gorta are victorious!</source>
+      </item>
+  </channel>
+</rss>

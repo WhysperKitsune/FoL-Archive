@@ -1,0 +1,1382 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</title>
+    <link>https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512</link>
+    <description>![image|690x388, 75%](upload://8RNSxE1cZOQ6TbOYHyFOp91MxAI.jpeg) 
+
+Host is katze
+Co-host is Jane
+
+## Rules
+Follow the https://forum.imperium42.com/t/global-forum-discord-game-meta-rules-please-read-first/244, and the https://forum.imperium42.com/t/official-forum-mafia-and-forum-of-lies-rules/78926. Please make sure you have enough time for this game before you sign up.
+
+## Gameplay
+
+* Day 1 lasts 24 hours and will not have an execution.
+* Days last 48 hours, or until a majority is reached for execution. Nights last 24 hours.
+* All actions must be sent to the host.
+* This game features multiball with classic FoL cult points Mithras versus new ToL inspired Corax versus Blue Dragon. This means Mithras Cult can use cult points for abilities and Corax Cult cannot.
+* Neutrals, Sheriff and Unseen cannot spawn. 
+* Cults will talk through a special Discord server or forum message.
+* If both Cult Leaders try to convert the same player, the Mithras Cult has priority.
+* Neither Cult can convert the other Cult and they will get the same feedback as hitting a convert immune.
+* Both cults show up as the general cult upon faction check.
+* The Priest will speak with the dead through a separate Discord server or forum message.
+* The Priest and Mystic may both spawn this match.
+
+
+
+## Executions
+
+* To accuse someone say “/vote [player]”. Please make the life of the hosts easier by bolding it (by putting ** ** around it)
+* Should the votes reach the majority, that player will be executed and the day will end.
+* When the day ends, the player with the most votes will be executed.
+* Voting &quot;/no execute&quot; is an option.
+* You may self vote now.
+
+
+## Picking a New King
+
+* If there are less than 4 players a new king will not be selected.
+* When the king dies a 24 hour period starts. In this, players may vote in their class PM for who they want to become the next king.
+* Whoever receives the most votes in this period will be crowned king. If votes are tied, a king election will be held the next day to determine it.
+
+
+## Action Results
+
+You find all possible night feedback here: https://forum.imperium42.com/t/forum-of-lies-hosting-feedback-guide/75082
+
+[details=&quot;Action order&quot;]
+
+Night abilities will be processed in following order/priority:
+1. Visit Prevention
+2. Occupation
+3. Targetted redirection
+4. Non targetted redirection (like Tavernkeeper)
+5. Killing
+6. Protection
+7. Miscellaneous Effects (like Bounty)
+8. Investigation 1 (Faction checks, type checks, etc)
+9. Conversion
+10. Investigation 2 (Every kind of investigation which checks for abilities used *this* night)
+
+In case there are conflicts on the same level (example: two Drunks try to redirect the same player), all these conflicting effects are canceled.
+
+(thx Geyde)
+[/details]
+## Journals
+
+* PM the host what you want on your journal. When you die, the last update to your journal will be revealed to everyone. Journals are limited by 1000 characters.
+
+## Classlist
+**King**   **(60% &lt;font color=&quot;steblue&quot;&gt;Good&lt;/font&gt;, 20% &lt;font color=&quot;crimson&quot;&gt;Corax Devout&lt;/font&gt;, 20% &lt;font color=&quot;orangered&quot;&gt;Mithras Devout&lt;/font&gt;)**
+&lt;font color=&quot;crimson&quot;&gt;**Corax Cult Leader**&lt;/font&gt;
+&lt;font color=&quot;crimson&quot;&gt;**Random Corax Cult**&lt;/font&gt;
+&lt;font color=&quot;orangered&quot;&gt;**Mithras Cult Leader**&lt;/font&gt;
+&lt;font color=&quot;orangered&quot;&gt;**Random Mithras Cult**&lt;/font&gt;
+&lt;font color=&quot;steblue&quot;&gt;**Prince**&lt;/font&gt;
+&lt;font color=&quot;steblue&quot;&gt;**Random Blue Dragon**&lt;/font&gt;
+&lt;font color=&quot;steblue&quot;&gt;**Random Blue Dragon**&lt;/font&gt;
+&lt;font color=&quot;steblue&quot;&gt;**Random Blue Dragon**&lt;/font&gt;
+&lt;font color=&quot;steblue&quot;&gt;**Random Blue Dragon**&lt;/font&gt;
+&lt;font color=&quot;steblue&quot;&gt;**Random Blue Dragon**&lt;/font&gt;
+&lt;font color=&quot;steblue&quot;&gt;**Random Blue Dragon**&lt;/font&gt;
+&lt;font color=&quot;steblue&quot;&gt;**Random Blue Dragon**&lt;/font&gt;
+&lt;font color=&quot;steblue&quot;&gt;**Random Blue Dragon**&lt;/font&gt;
+&lt;font color=&quot;steblue&quot;&gt;**Random Blue Dragon**&lt;/font&gt;
+&lt;font color=&quot;steblue&quot;&gt;**Random Blue Dragon**&lt;/font&gt;
+&lt;font color=&quot;steblue&quot;&gt;**Random Blue Dragon**&lt;/font&gt;
+&lt;font color=&quot;steblue&quot;&gt;**Random Blue Dragon**&lt;/font&gt;
+&lt;font color=&quot;steblue&quot;&gt;**Random Blue Dragon**&lt;/font&gt;
+&lt;font color=&quot;steblue&quot;&gt;**Random Blue Dragon**&lt;/font&gt;
+&lt;font color=&quot;steblue&quot;&gt;**Random Blue Dragon**&lt;/font&gt;
+&lt;font color=&quot;steblue&quot;&gt;**Random Blue Dragon**&lt;/font&gt;
+
+
+[details=&quot;Blue Dragon Classes&quot;]
+
+&gt;# [color=steblue]The Alchemist[/color]
+&gt;
+&gt;[color=steblue]**Blue Dragon Special**[/color]
+**Brew Potion (Day)** - Brew a potion, each potion must be brewed once before you can brew the others again. - Infinite uses
+**Apply Potion (Night)**  - Use the potion you have brewed. You may save it if you wish. - Infinite uses
+&gt;**Potions:**
+&gt;
+&gt;&gt;* Truth Potion: Discover the target player&#39;s class type pairing.
+&gt;&gt;* Tar Potion: Occupy a player, you will be occupy and redirection immune while using this.
+&gt;&gt;* Health Potion: Heal a player, preventing their death tonight and curing bleeding. :crown:
+&gt;&gt;* Poison Potion: Attack a player, if they are a member of the Blue Dragon, you will commit suicide instead.
+&gt;
+&gt; *Your objective is to defeat the Corax and Mithras Cults.*
+
+&gt; **Converts into [color=orangered]The Mithras Cabalist[/color] or [color=crimson]The Corax Cabalist[/color]**.
+
+&gt; [color=orangered]**The Mithras Cabalist has no Cult Points.**[/color]
+---
+&gt;# [color=steblue]The Archer (Unofficial Class) [/color]
+&gt;**[color=steblue]Blue Dragon Killer[/color]**
+&gt;**Multi-shot (Day)** - If you fire an arrow at one of your marks tonight, remove all marks and attack any other player whose mark was removed. You are immune to redirection this night. - 2 uses
+&gt;**Eagle Shot (Night)** - Fire an arrow to kill your target. This ability is disabled if you kill a member of the Blue Dragon with it. - Infinite uses
+&gt;**Bulls-eye (Night)** - Place a mark on target player. A marked player is no longer passively death immune. You may have up to three marks. Targeting a marked player with this ability will remove the mark. Targeting yourself will remove all marks. Marks disappear on death or class change. - Infinite uses
+&gt;_Your objective is to defeat the Corax and Mithras Cults._
+
+&gt;**Converts into [color=orangered]The Mithras Acolyte[/color] or [color=crimson]The Corax Acolyte[/color].**
+
+&gt;[color=orangered]**Cult points: 2 - Each ability costs: 1**[/color]
+&gt;[color=orangered]**Cult Alts:**[/color]
+&gt;**(Multi-shot Alt) Flesh to Flesh (Day)** - Choose 2 players. If one of them is attacked tonight by a non-Mithras Cult member then you will attack the other. - 2 uses :crown:
+&gt;**(Eagle Shot Alt) Sacrilege (Night)** - If the Cult Leader’s conversion fails or they use Blood of Mithras, you will shoot their target for them instead. Does not count as a visit. - 2 uses
+&gt;**(Bulls-eye Alt) Ancient Curse (Night)** - Mark a player for death. If a player has two marks, you will learn their exact class. If a player has three marks, you will kill them bypassing everything. - Infinite uses
+
+----
+
+
+
+&gt;# [color=steblue]The Butler[/color]
+&gt;**[color=steblue]Blue Dragon Offensive[/color]**
+**Dutiful (Passive)** - Immune to occupation and redirection.
+**Nightshade Wine (Day)** - Poison The King, causing him to die tonight if not healed. The king will not be informed if he is poisoned. If The King is Good, you will commit suicide. - 1 use, available starting Day 2 :crown:
+**Serve Wine (Night)** - Occupy a player by getting them drunk. - Infinite uses
+**Concentrated Wine (Night)** - Throw a party, occupying all players who visit you tonight (Bypasses occupy immunity). - 2 uses
+_Your objective is to defeat the Corax and Mithras Cults._
+
+ &gt;**Converts into [color=orangered]The Mithras Invoker [/color] or [color=crimson]The Corax Invoker[/color]** 
+
+&gt;**[color=orangered]Cult points: 2 - Each ability costs: 1[/color]**
+[color=orangered]**Cult Alt:**[/color]
+**(Nightshade Wine): Toxic Wine (Day)** - Add a lethal amount of cyanide into The King&#39;s wine, causing The King will die from cyanide poisoning tonight unless healed. The King is not informed of the poison. If they are a Mithras Devout King, you will commit suicide due to Mithras&#39; anger the following night. - 1 use :crown:
+---
+---
+&gt; # [color = &quot;steblue&quot;] The Chronomancer [/color] 
+&gt; **[color = &quot;steblue&quot;] Blue Dragon Support [/color]** 
+&gt; **Pocket Dimension (Day)** - If you die tonight, delay it for 2 nights. This will delay bleeding in addition to attacks. - 2 uses 
+&gt; **Time Warp (Night)** - Delays a player’s death for 2 days. This will delay ongoing bleeding in addition to attacks. You can prevent a death multiple times. Cannot delay unhealable attacks or suicide. - Infinite uses :crown:
+&gt; **Distort Reality (Night)** - Redirect all deaths that you have delayed to the target player. Can be healed and does not bypass death immunity.  - Infinite uses 
+&gt; *Your objective is to defeat the Corax and Mithras Cults.*
+
+ &gt;**Converts into [color=orangered]The Mithras Ritualist[/color] or [color=crimson]The Corax Ritualist[/color]** 
+
+&gt; **[color=orangered]Cult points: 2 - Each ability costs: 1[/color]**
+
+
+---
+&gt;# [color=steblue]The Court Wizard[/color]
+&gt;**[color=steblue]Blue Dragon Support[/color]**
+**Arcane Empower (Day)**  - The player that you target with your ability tonight will bypass immunities (discounting conversion immunity) and be guaranteed to succeed with their actions. Their investigative abilities will always receive correct results. - 2 uses
+**Magical Barrier (Night)** - Protect a player from negative effects and conversion tonight. Does not prevent attacks. - Infinite uses
+**Ice Ward (Night)** - Prevent anyone else from visiting your target. - 2 uses :crown:
+_Your objective is to defeat the Corax and Mithras Cults._
+
+
+&gt;**Converts into [color=orangered]The Mithras Ritualist[/color] or [color=crimson]The Corax Ritualist[/color]**
+
+&gt;**[color=orangered]Cult points: 2 - Each ability costs: 1[/color]**
+
+---
+&gt;# [color=steblue]The Drunk[/color]
+&gt;[color=steblue]**Blue Dragon Offensive**[/color]
+**Royal Blood (Passive)** - Votes to become king count as two for you.
+**I am the Liquor (Passive)** - Immune to occupation and redirection.
+**Debauchery (Night)** - Redirect a player into another. You will only be seen visiting the first. - Infinite uses
+**Happy Hour (Night)** - Occupy a player, and disable any death or occupy immunity they have for the night. - 2 uses
+_Your objective is to defeat the Corax and Mithras Cults._
+
+&gt;**Converts into [color=orangered]The Mithras Invoker [/color] or [color=crimson]The Corax Invoker[/color]**
+
+&gt; **[color=orangered]Cult points: 2 - Each ability costs: 1[/color]**
+[color=orangered]**Cult Alt:**[/color]
+**(Happy Hour): Wine of Mithras (Night)** - Give someone cursed wine. They will not be able to receive any kind of protection tonight. - 1 use :crown:
+---
+&gt;# [color=steblue]The Hunter[/color] 
+&gt;**[color=steblue]Blue Dragon Killer[/color]**
+**Wolf Companion (Day)** - Summon a wolf companion to attack a player. They will bleed and die in two nights if not healed. You may not use your Wolf Companion after using your Bear Companion the previous night. - 1 use
+**Bear Companion (Night)** - Summon a bear to protect you, granting you death and conversion immunity for the night. You will kill any attackers (Bypasses night immunity). You may not use your Bear Companion after using your Wolf Companion the previous day. - 2 uses
+**Hunter’s Mark (Night)** - Target two other players. If the first visits the second, you will attack and occupy the first. You will only be seen visiting the first. - 2 uses
+&gt;_Your objective is to defeat the Corax and Mithras Cults._
+
+&gt;**Converts into [color=orangered]The Mithras Acolyte[/color] or [color=crimson]The Corax Acolyte[/color]**
+
+ &gt;**[color=orangered]Cult points: 2 - Each ability costs: 1[/color]**
+&gt;[color=orangered]**Cult Alts:**[/color]
+**(Wolf Companion): Uncontrollable Bleeding (Day)** - Invoke Mithras&#39; will to cause a target to start bleeding uncontrollably. They will bleed and die in two nights if not healed. - 1 use :crown:
+**(Bear Companion): Blood Wall (Night)** - Create a wall of blood to protect yourself from attacks. You will be death immune. - 2 uses
+---
+&gt; # [color=steblue]The Knight[/color]
+&gt; [color=steblue]**Blue Dragon Killer**[/color]
+**Armored (Passive)**  - Your first successful use of Defend will not kill you, if the attacker doesn’t die to Defend.
+**Defend (Night)**  - You will guard the target player tonight, giving your life to kill their attacker(s). - Infinite uses :crown:
+**Cold Steel (Night)**  - Choose a player to attack. If you kill them and they are a member of the Blue Dragon, all of your abilities will be disabled for the rest of the game. - Infinite uses
+*Your objective is to defeat the Corax and Mithras Cults.*
+
+&gt;**Converts into [color=orangered]The Mithras Acolyte[/color] or [color=crimson]The Corax Acolyte[/color]**
+
+&gt;[color=orangered]**Cult points: 2 - Each ability costs: 1**[/color]
+&gt;[color=orangered]**2 point Cult Alt:**[/color]
+**(Cold Steel): Lone Cultist (Night)** - Kill a player. - 1 use :crown:
+
+---------
+&gt;# **[color=steblue]The Maid[/color]**
+&gt;**[color=steblue]Blue Dragon Investigative[/color]**
+&gt;**Change Sheets (Day)**  - Target two corpses. At the end of the night, learn if they were killed by the same player. - 2 uses :crown:
+**Rumor (Day)**  - Target player will be “last checked” in regards to Matchmake. Cannot be used day 1. - 2 uses
+&gt;**Matchmake (Night)** - Test if target is compatible with the player you last checked. - Infinite uses
+_Your objective is to defeat the Corax and Mithras Cults._
+
+&gt;**Compatibility:**
+&gt;* Members of opposing Factions are not compatible
+&gt;* Royals are not compatible with each other
+&gt;* Members of Neutral Factions are compatible with everyone that they can win with
+&gt;* The Scorned is incompatible with whoever they mark this night
+
+&gt;**Converts into [color=orangered]The Mithras Seeker [/color] or [color=crimson]The Corax Seeker[/color]**
+ 
+&gt;**[color=orangered]Cult points: 2 - Each ability costs: 1[/color]**
+&gt;[color=orangered]**Cult Alts:**[/color]
+**(Change Sheets): Mithras&#39; Wisdom (Day)** - At the end of the night, learn if a flip has been tampered with and by which class. - 2 uses
+**(Rumor): Warp Flesh (Day)** - Frame target player this night. - 2 uses
+**(Matchmake): Cult Compatibility (Night)** - Test if target has the same faction as the player you last checked. If not, learn their exact classes. - Infinite uses
+
+---
+&gt;# [color=steblue]The Mystic[/color] :shield:
+&gt;**[color=steblue]Blue Dragon Social[/color]**
+**Warp Reality (Day)** - Remove either majority or plurality from the execution system today. - 1 use
+**Link Minds (Day)** - Select two players that will have a private night chat for this night. Can select yourself. You will be privy to the chat at the end of the night. Can be used alongside Warp Reality. - Infinite uses 
+_Your objective is to defeat the Corax and Mithras Cults._
+ 
+&gt;**Converts into [color=orangered]The Mithras Apostle [/color]or [color=crimson]The Corax Apostle[/color]**
+ 
+&gt;[color=orangered]**Cult points: 2 - Each ability costs: 1**[/color]
+&gt;[color=orangered]**Cult Alt:**[/color]
+**(Link Minds): Mindbend (Day)** - The Cult Leader can use Brainwash tonight, despite that it is on cooldown. - 1 use, only usable when Brainwash is on cooldown
+
+---
+
+&gt;# [color=steblue]**The Noble**[/color]
+&gt;[color=steblue]**Blue Dragon Social**[/color]
+**Royal Blood (Passive)** - Votes to become king count as two for you.
+**Court Spies (Day)** - Select 2 players. Send a message saying “Noble&#39;s Spies close in on you!” to any targeted members of the Corax or Mithras Cult. Those targeted members will be removed from their respective Cult chat for the coming night and day. - 2 uses.
+&gt; **Gossip (Night)**  - Target a player and learn if any and which of these things happens to them tonight. - Infinite uses
+&gt;
+&gt; &gt; ***They were successfully Investigated.***
+&gt; &gt; ***They were successfully Occupied.***
+&gt; &gt; ***Their target was successfully swapped.***
+&gt;
+&gt;
+&gt;**Bounty (Night)** - If target player is executed tomorrow and is Blue Dragon then there will be an additional vote for execution. Only one Bounty may take effect per day. - 2 uses
+_Your objective is to defeat the Corax and Mithras Cults._
+ 
+&gt;**Converts into [color=orangered]The Mithras Apostle [/color] or [color=crimson]The Corax Apostle[/color]**
+
+&gt;**[color=orangered]Cult points: 3 - Each ability costs: 1[/color]**
+[color=orangered]**Cult Alt:**[/color]
+**(Court Spies): Cult Connections (Day) -** At the end of the day, you will learn who voted for whom during today’s king election. - 2 uses
+---
+
+&gt;# [color=steblue]The Observer[/color]
+&gt;**[color=steblue]Blue Dragon Investigative[/color]**
+**Little Bird (Day)**  - Send a bird to track if target player leaves their room that night or not. In addition, you will learn if any players visited target player or not. You will be told at the end of the night. - 2 uses
+**Follow (Night)** - Watch someone to see who visits them. - Infinite uses
+**Stalk (Night)** - Track a player to determine who they visit. - Infinite uses
+_Your objective is to defeat the Corax and Mithras Cults._
+
+&gt;**Converts into [color=orangered]The Mithras Seeker [/color] or [color=crimson]The Corax Seeker[/color]**
+
+&gt; [color=orangered]**Cult points: 2 - Each ability costs: 1**[/color]
+---
+
+&gt; # [color=steblue]The Paladin[/color] 
+&gt; **[color=steblue]Blue Dragon Investigative[/color]**
+**Cleanse (Day)** - The player you target with Test of Faith will also be immune to conversion tonight. - 2 uses
+**Test of Faith (Night)** - Learn if your target is a member of the Cult. - Infinite uses
+**Smite (Night)** - If anyone attacks you tonight, you will kill them. Bypasses night immunity. You will be immune to death and conversion while doing this.  - 1 use
+_Your objective is to defeat the Corax and Mithras Cults._
+
+&gt;**Converts into [color=orangered]The Mithras Seeker[/color] or [color=crimson]The Corax Seeker[/color]**
+
+ &gt;[color=orangered]**Cult points: 2 - Each ability costs: 1**[/color]
+&gt;[color=orangered]**Cult Alts**[/color]
+**(Cleanse Cult Alt) Blood&#39;s Purity (Day)** - Tonight, the Cult Leader&#39;s action will succeed. Bypasses visit prevention, occupation and the Court Wizard&#39;s Magical Barrier. - 1 use
+**(Test of Faith Alt) All-Seeing Eye (Night)** - Learn a player&#39;s class. - 2 uses
+---
+
+&gt;# [color=steblue]The Physician[/color]
+&gt;**[color=steblue]Blue Dragon Support[/color]**
+**Remedy Studies (Passive)** - You are immune to bleeding.
+**Inoculate (Day)** - Prevent a player from being poisoned or bled for the rest of the game. - 1 use :crown:
+**Exhume (Day)** - At the end of the night, learn what faction killed a player. - 2 uses :crown:
+**Heal (Night)** - Heal a player, preventing them from dying tonight, and curing any poison and bleeding they were suffering from.  - Infinite uses :crown:
+**Self-Care (Night)** - Heal yourself tonight. - 2 uses
+_Your objective is to defeat the Corax and Mithras Cults._
+
+&gt;**Converts into [color=orangered]The Mithras Ritualist[/color] or [color=crimson]The Corax Ritualist[/color]**
+
+ &gt;[color=orangered]**Cult points: 2 - Each ability costs: 1**[/color]
+&gt;[color=orangered]**Cult Alts**[/color]
+**(Remedy Studies): Bloodborne (Passive)** - You are immune to poison and bleeding. You will retain this effect through class change. 
+**(Exhume): Exsanguination (Day)** - At the end of the night, learn what classes killed a player, or if they commited suicide. - 2 uses :crown:
+**(Heal): Mithras’ Mercy (Night)** - Heal the Cult Leader and the Cult player they may target with Blood of Mithras this night, preventing them from dying tonight, and curing any bleeding they were suffering from.  - 2 uses
+------
+
+&gt;# [color=steblue]The Priest (Unofficial Class) [/color] :shield:
+&gt;**[color=steblue]Blue Dragon Social[/color]**
+**Call of The Dead (Passive)** - You can talk to the dead at night.
+**Last Rites (Night)** - Use target dead Blue Dragon Non-Killer’s infinite use ability on an alive player. You will only be seen visiting the alive one. You may not use the same corpse more than once - Infinite uses
+**Channel (Night)** - The target dead player&#39;s voice will be brought back to life until you die. They may speak and use your vote. Upon being converted, target dead player will also be converted, provided they can be. You are immune to occupation and redirection while using this ability. - 1 use
+_Your objective is to defeat the Corax and Mithras Cults._
+
+&gt;**Converts into [color=orangered]The Mithras Apostle [/color] or [color=crimson]The Corax Apostle[/color]**
+
+&gt;[color=orangered]**Cult points: 2 - Each ability costs: 1**[/color]
+&gt;[color=orangered]**Cult Alt:**[/color]
+&gt;**(Last Rites): Mithras&#39; Puppetry (Night)** - Use target dead Blue Dragon Non-Killer’s infinite use ability on an alive player. You will only be seen visiting the alive one. - Infinite uses
+&gt; **(Channel): Mithras’ Corruption (Night)** - The target dead player’s voice will be brought back to life until you die. They may speak and use your vote. Target dead player will also be converted, provided they can be. You are immune to occupation and redirect while using this ability. - 1 use
+---
+&gt;# [color=steblue]The Prince[/color] :crossed_swords:  :shield: :fire:
+&gt;**[color=steblue]Blue Dragon Killer[/color]**
+&gt; **Unstoppable (Passive)**  - You have the following benefits:
+&gt; 
+&gt; * Immunity to occupation and redirection at night, even by means that bypass immunity
+&gt; * You gain immunity to occupation and redirection during the day after being occupied or redirected during the day once
+&gt; 
+&gt; **Royal Blood (Passive)** - Votes to become king count as two for you.
+**Imprison (Day)**  - Choose a player to jail at night, preventing visits to them. A jailed target cannot take actions by any means. You both will be able to send each other a single 1000 character message through the host. - Infinite uses
+**Behead (Night)** - Kill the player you have jailed (bypasses night immunity and healing). If the executed is a member of the Blue Dragon, you will not be able to execute for the rest of the game. - 3 uses
+**Mercy (Night)** - Heal the player you have jailed. - 2 uses
+_Your objective is to defeat the Corax and Mithras Cults._
+
+&gt; **Convert Immune**
+---
+&gt;# [color=steblue]The Princess[/color]
+&gt;**[color=steblue]Blue Dragon Investigative[/color]**
+**Royal Blood (Passive)** - Votes to become king count as two for you.
+**Flirt (Night)** - Flirt with a player, you get a pairing of class types. Their class type will be one of the two. The pairings are Killer/Offensive, Support/Social and Special/Investigative. - Infinite uses
+**Will-o-Wisp (Night)** - Release a Will O’ Wisp, lighting your target’s room. You will learn their faction. - 2 uses
+_Your objective is to defeat the Corax and Mithras Cults._
+ 
+&gt;**Converts into [color=orangered]The Mithras Seeker[/color] or [color=crimson]The Corax Seeker [/color]**
+
+&gt;[color=orangered]**Cult points: 2 - Each ability costs: 1**[/color]
+&gt;[color=orangered]**2 point Cult Alt:**[/color]
+&gt; **(Will-o-wisp) Gaze of Mithras** - Mithras will gaze into the target, determining their exact class. - 2 uses
+
+---
+
+
+&gt; # [color=steblue]The Tavernkeeper (Unofficial Class)[/color]
+&gt;
+&gt;
+&gt;
+&gt; [color=steblue]**Blue Dragon Offensive**[/color]
+&gt; **Steadfast (Passive)**  - Immune to occupation and redirection.
+&gt; **Dose (Day)**  - Target player is occupied for this day. - 1 use
+&gt; **Mix Rooms (Night)**  - Target 2 other players. Redirect all players targeting either of your targets to the other. You will be seen visiting your first target only. This cannot target the same player twice in a row. - Infinite uses
+&gt; **Serve Ale (Night)**  - Redirect a player to themselves. - 1 use
+&gt; *Your objective is to defeat the Corax and Mithras Cults.*
+
+&gt; **Converts into [color=orangered]The Mithras Invoker[/color] or [color=crimson]The Corax Invoker[/color].**
+
+&gt;[color=orangered]**Cult points: 2 - Each ability costs: Varies**[/color]
+[color=orangered]**1 Point Alts:**[/color]
+**(Dose) Blood Daze (Day)** - If target player attempts to use a day ability today, they will be forced to target themself with it. - 1 use
+**(Mix Rooms) Blood Portal (Night)** - Target 2 players. Redirect all players targeting either of your targets to the other. You will be seen visiting your first target only. Can target self. - 2 uses
+[color=orangered]**2 Point Alt:**[/color]
+**(Serve Ale) Mithras’ Reflection (Night)** - Target a player. Redirect all non-Mithras Cult players targeting them back to themselves, bypassing redirection immunity. - 1 use
+[/details]
+
+
+[details=&quot;Corax Classes&quot;]
+
+&gt;# [color=crimson]The Corax Acolyte :crossed_swords:  [/color]
+&gt; [color=crimson]**Cult Killer**[/color]
+&gt; **Hemorrhage (Day)**  - Invoke Corax’s will to cause a target to start bleeding uncontrollably. They will bleed and die in two nights if not healed. - 1 use  :crown:
+**Blood Barrier (Day)**  - Create a wall of blood granting target player death immunity this night. Can target self. - 2 uses
+&gt;**Curse of Corax (Night)** - If the target is bled tomorrow, they will die in 1 night instead of 2 nights. - 1 use :crown:
+**Sacrilege (Night)**  - If the Cult Leader’s conversion fails or they use Eradicate, you will shoot their target(s) for them instead. Does not count as a visit. - 2 uses
+&gt;_Your objective is to defeat the Blue Dragon and the Mithras Cult._
+
+----
+
+&gt; # [color=crimson]The Corax Apostle[/color] :crossed_swords: 
+&gt;
+&gt;
+&gt; **[color=crimson]Cult Social[/color]**
+**Royal Blood (Passive)** - Votes to become king count as two for you.
+**Transcendence (Passive)**  - Dead members of the Corax Cult will be able to talk in the Corax Cult chat as long as you are alive.
+**Baleful Hush (Day)** - Remove either majority or plurality from the execution system today. - 1 use
+**Corrupt Minds (Day)**  - Select two players that will have a private night chat for this night. Can select yourself. You will be privy to the chat at the end of the night. Can be used alongside Baleful Hush. - 2 uses
+&gt;**Corax&#39;s Influence (Night)** - In the coming day, your target will silently require one less vote to be executed. - 1 use
+**Corax&#39;s Puppetry (Night)**  - Use target dead Blue Dragon Non-Killer’s infinite use ability on an alive player. You will only be seen visiting the alive one. - 2 uses
+&gt;_Your objective is to defeat the Blue Dragon and the Mithras Cult._
+
+---
+&gt; # [color=crimson]The Corax Cabalist :crossed_swords:[/color]
+&gt; [color=crimson]**Cult Special**[/color]
+&gt; 
+&gt; **Shape Flesh (Night)** - Choose your night action from one of the following. Each can only be done once.
+&gt; &gt; **Voodoo Doll** - If the Cult Leader uses Eradicate tonight, they may target an additional player at the cost of bleeding you if they do. 
+&gt; &gt; **Corrupt Intervention** - Occupy a player tonight and tomorrow.
+&gt; &gt; **Jinx** - Determine a player&#39;s class type.
+&gt; &gt; **Blood Moon** - Target any player. They will appear to be a member of the Blue Dragon if Cult, or a member of the Cult if anyone else.
+&gt;
+&gt; *Your objective is to defeat the Blue Dragon and the Mithras Cult.*
+
+
+---
+
+&gt;# [color=crimson]The Corax Cult Leader[/color] :crossed_swords: :shield: 
+&gt;[color=crimson]**Cult Special**[/color]
+**Rupture (Day)** - Cause a player to bleed. They will bleed and die in two nights if not healed. - 1 use :crown:
+**Seal of Corax (Day)** - Sacrifice yourself bypassing all protection this night and flip as class of your choice. Other Cult members gain 1 use of all their limited use abilities. This occurs before promotion. This ability only works if you do not die due to any other means. - 1 use
+**Transfer Essence (Day)** - Swap classes with another member at the cult at the start of the night, provided both of you are alive by that point. - 1 use (Shared)
+**Brainwash (Night)** - Change target player into the Cult version of their class. If you have failed to convert a target twice already and your next conversion would fail it will instead target a random convertible player. - Infinite uses, 1 night cooldown
+**Eradicate (Night)** - Unleash ancient power within Corax, attacking 2 target players at once. This ability will be seen visiting the first target only. - 2 uses :crown:
+&gt;_Your objective is to defeat the Blue Dragon and the Mithras Cult._
+
+---
+
+&gt;# [color=crimson]The Corax Invoker[/color] :crossed_swords:
+&gt;[color=crimson]**Cult Offensive**[/color]
+**Fanatic (Passive)** - Immune to occupation and redirection.
+**Bewilder (Day)**  - Target player is occupied for this day. - 1 use
+**Chains of Corax (Night)** - Redirect a player into a chosen player. If you choose to make them target themselves, occupy them instead. - 3 uses
+**Teleport (Night)** - Target 2 other players. Redirect all players targeting either of your targets to the other. You will be seen visiting your first target only. This cannot target the same player twice in a row. - 1 use
+&gt;_Your objective is to defeat the Blue Dragon and the Mithras Cult._
+
+-----------
+
+&gt;# [color=crimson]The Corax Ritualist[/color] :crossed_swords:
+&gt;[color=crimson]**Cult Support**[/color]
+&gt;**Brotherhood (Day)** - Make a Cult Member appear as selected BD class to investigations this night. Can target self. - 2 uses
+&gt;**Blood Ward (Day)** - Prevent visits to target player this night. - 1 use :crown:
+&gt;**Strength Of Corax (Night)** - The Cult Leader&#39;s Eradicate or Acolyte&#39;s Sacrilege will bypass night immunity and healing tonight. - 1 use
+&gt;**Corax&#39;s Mercy (Night)** - Heal a player, preventing them from dying tonight, and curing any poison and bleeding they were suffering from. Can target self. - 3 uses :crown:
+&gt;_Your objective is to defeat the Blue Dragon and the Mithras Cult._
+
+-------
+
+&gt;# [color=crimson]The Corax Seeker[/color] :crossed_swords:
+&gt;[color=crimson]**Cult Investigative**[/color]
+**Expose (Day)** - Reveal who the prince jailed at the start of the night. - 1 use
+**Corax&#39;s Murmurs (Day)** - Frame target player this night. - 2 uses.
+**Gaze (Night)** - Learn a player&#39;s class type. - 2 uses
+**Identify (Night)** - Discover who a player visits, and who visits them. - 2 uses
+&gt;_Your objective is to defeat the Blue Dragon and the Mithras Cult._
+
+-----
+
+[/details]
+
+[details=&quot;Mithras Base Classes&quot;]
+
+&gt;# [color=orangered]The Mithras Acolyte :crossed_swords:  [/color]
+&gt; [color=orangered]**Cult Killer**[/color]
+&gt;**Spirit of Mithras (Passive)** - Starting with the second use of the Cult Leader&amp;rsquo;s Blood of Mithras, if you would be sacrificed, the first time you will not die.
+&gt;**Curse of Mithras (Night)** - If the target is bled tomorrow, they will die in 1 night instead of 2 nights. - 1 use :crown:
+&gt;_Your objective is to defeat the Blue Dragon and the Corax Cult._
+
+----
+
+&gt; # [color=orangered]The Mithras Apostle[/color] :crossed_swords: 
+&gt; **[color=orangered]Cult Social[/color]**
+&gt; **Eminence of Mithras (Day)**  - During a king election, your vote counts as two. Stacks with Royal Blood to 3 votes maximum. - 2 uses
+&gt;**Mithras&#39; Influence (Night)** - In the coming day, your target will require one less vote to be executed. - 1 use
+&gt;_Your objective is to defeat the Blue Dragon and the Corax Cult._
+
+---
+
+&gt; # [color=orangered] The Mithras Cabalist [/color] :crossed_swords: 
+&gt;
+&gt; [color=orangered]**Cult Special**[/color]
+**Eldritch Concoction (Day)** - Brew a potion to use at night with Apply Concoction. You may only brew each potion once. - 4 uses
+**Apply Concoction (Night)** - Use the potion you have created with Eldritch Concoction. You may save it if you wish. - 4 uses
+&gt;* **Ceremonial Potion** - If you are chosen for Blood of Mithras tonight, the Cult Leader may select an additional non-Cult player to kill.
+&gt;* **Corrupt Potion** - Occupy a player tonight.
+&gt;* **Radiant Potion** - Discover who a player visits, and who visits them.
+&gt;* **Blood Potion** - Heal a member of the Cult, as well as making them appear as a member of the Blue Dragon to investigations.
+&gt;
+&gt;*Your objective is to defeat the Blue Dragon and the Mithras Cult.*
+
+---
+
+&gt;# [color=orangered]The Mithras Cult Leader[/color] :crossed_swords: :shield: 
+&gt;[color=orangered]**Cult Special**[/color]
+**Train (Passive)** - At any point before the start of the first night, you may message the host and choose the Cult alts that the Cult class that spawned with you will receive, based on a non-unique class they can be converted from. If you do not choose the Cult alts, they will receive a random valid set.
+**Fanaticism (Passive)**  - You are immune to death at night until you successfully convert a player, where upon this passive is disabled. (Starting Cult Leader only)
+**Disguise (Day)** - If the target player dies tonight, they will appear as a class of your choice. - 1 use (Shared) :crown:
+**Rupture (Day)** - Cause a player to bleed. They will bleed and die in two nights if not healed. - 3 uses (Shared) :crown:
+**Brainwash (Night)** - Change target player into the Cult version of their class. If you have failed to convert a target twice already and your next conversion would fail it will instead target a random convertible player. - Infinite uses, 1 night cooldown
+**Blood of Mithras (Night)** - Kill a Cult player and a non-Cult player. The first use of this will not kill the cult player. This ability does not visit the Cult player. - Infinite uses :crown:
+&gt;_Your objective is to defeat the Blue Dragon and the Corax Cult._
+
+---
+
+&gt;# [color=orangered]The Mithras Invoker[/color] :crossed_swords:
+&gt;[color=orangered]**Cult Offensive**[/color]
+**Fanatic (Passive)** - Immune to occupation and redirection.
+**Bewilder (Day)**  - Target player is occupied for this day. - 1 Use
+**Strings of Mithras (Night)** - Control a player into targeting another. You will only be seen visiting the controlled player. - 1 use
+&gt;_Your objective is to defeat the Blue Dragon and the Corax Cult._
+
+-----------
+
+&gt;# [color=orangered]The Mithras Ritualist[/color] :crossed_swords:
+&gt;[color=orangered]**Cult Support**[/color]
+**Will of Mithras (Day)** - Make a Cult Member appear as selected BD class to investigations this night. - 1 use
+**Strength Of Mithras (Night)** - The Cult Leader&#39;s Blood of Mithras will bypass night immunity tonight. - 1 use
+&gt;_Your objective is to defeat the Blue Dragon and the Corax Cult._
+
+-------
+
+&gt;# [color=orangered]The Mithras Seeker[/color] :crossed_swords:
+&gt;[color=orangered]**Cult Investigative**[/color]
+**Expose (Day)** - Reveal who the prince jailed at the start of the night. - 1 use
+**Gaze (Night)** - Learn a player&#39;s class type. - 2 uses
+&gt;_Your objective is to defeat the Blue Dragon and the Corax Cult._
+
+[/details]
+
+
+[details=&quot;Kings&quot;]
+&gt;# [color=steblue]The Good King :crossed_swords: :shield: :fire:[/color]
+&gt;
+&gt;[color=steblue]**Blue Dragon Special**[/color]
+**Pass the Torch (Passive)** - If you die, a vote to determine the next king will be held at start of the next day.
+**Head of State (Passive)** - Immune to occupation and redirection. Your abilities will not be seen by investigative abilities. You can use both day abilities in the same day.
+**Grand Trial (Day)** - Instantly put a player on trial for treason lasting up to 24 hours possibly extending day. They may provide a defense within 12 hours, and then the players alive may either vote to execute or pardon. If a majority of players vote to execute, the day will end and the player on trial will be executed. Otherwise, the day will continue as normal. - 1 use
+**Allies (Day)** - Choose up to two players. During this night, you will have a private chat with them. - 2 Uses
+**Guard! (Night)** - Choose a player. They will be immune to death tonight. - 3 uses :crown:
+**Swear Fealty (Night)** - Make a player permanently immune to conversion. - 1 use (Starting King Only.)
+*Your objective is to defeat the Unseen or Cult, and any neutrals that seek to do you harm.*
+
+&gt; Crowned from members of the [color=steblue]**Blue Dragon**[/color].
+
+-----
+
+&gt;# [color=crimson]The Corax Devout King[/color] :crossed_swords: :shield: 
+&gt;[color=crimson]**Cult Special**[/color]
+**Pass the Torch (Passive)** - If you die, a vote to determine the next king will be held at start of the next day.
+**Head of State (Passive)**  - Immune to occupation and redirection. Your abilities will not be seen by investigative abilities. You can use both day abilities in the same day.
+**Grand Trial (Day)** - Instantly put a player on trial for treason lasting up to 24 hours possibly extending day. They may provide a defense within 12 hours, and then the players alive may either vote to execute or pardon. If a majority of players vote to execute, the day will end and the player on trial will be executed. Otherwise, the day will continue as normal. - 1 use
+**Allies (Day)** - Choose up to two players. During this night, you will have a private chat with them. - 2 uses
+**Guard! (Night)** - Choose a player. They will be immune to death tonight. - 3 uses :crown:
+**Dark Gods Crown (Night)** - Select a dead Corax Cultist and a living player. Depending on the Cultist&#39;s class a different effect will occur. Each corpse can only be used once. :crown:
+&gt;_Your objective is to defeat the Blue Dragon and the Mithras Cult._
+
+&gt;**Dark Gods Crown Effects:**
+Corax Seeker - You learn of the players class type.
+Corax Cabalist - If the targeted player is not a member of the Corax Cult, they will lose all uses in their limited usage abilities
+Corax Ritualist - You will prevent visits to the player.
+Corax Invoker - The player will be occupied.
+Corax Apostle - The player will be given incorrect feedback for their ability tonight.
+Corax Acolyte - The player will be unable to be healed for the night.
+Corax Cult Leader - The player will be framed.
+Corax Devout King - The player will be bled sometime during the next day.
+
+&gt; Crowned from members of the [color=crimson]**Corax Cult**[/color].
+
+---
+
+&gt;# [color=orangered]The Mithras Devout King[/color] :crossed_swords: :shield: 
+&gt;[color=orangered]**Cult Special**[/color]
+**Pass the Torch (Passive)** - If you die, a vote to determine the next king will be held at start of the next day.
+**Head of State (Passive)**  - Immune to occupation and redirection. Your abilities will not be seen by investigative abilities. You can use both day abilities in the same day.
+**Grand Trial (Day)** - Instantly put a player on trial for treason lasting up to 24 hours possibly extending day. They may provide a defense within 12 hours, and then the players alive may either vote to execute or pardon. If a majority of players vote to execute, the day will end and the player on trial will be executed. Otherwise, the day will continue as normal. - 1 use
+**Allies (Day)** - Choose up to two players. During this night, you will have a private chat with them. - 2 uses
+**Guard! (Night)** - Choose a player. They will be immune to death tonight. - 3 uses :crown:
+**Dark Gods Crown (Night)** - Select a dead Mithras Cultist and a living player. Depending on the Cultist&#39;s class a different effect will occur. Each corpse can only be used once. :crown:
+&gt;_Your objective is to defeat the Blue Dragon and the Corax Cult._
+
+&gt;**Dark Gods Crown Effects:**
+Mithras Seeker - You learn of the players class type.
+Mithras Cabalist - If the targeted player is not a member of the Mithras Cult, they will lose all uses in their limited usage abilities
+Mithras Ritualist - You will prevent visits to the player.
+Mithras Invoker - The player will be occupied.
+Mithras Apostle - The player will be given incorrect feedback for their ability tonight.
+Mithras Acolyte - The player will be unable to be healed for the night.
+Mithras Cult Leader - The player will be framed.
+Mithras Devout King - The player will be bled sometime during the next day.
+
+
+&gt; Crowned from members of the [color=orangered]**Mithras Cult**[/color].
+---
+
+[/details]
+
+[details=&quot;Cult Points explanation (only applies to Mithras Cult)&quot;]
+&gt; # [color=orangered]Cult Points[/color]
+&gt; Cult Points are a system for deciding what abilities you gain when you are converted to the Mithras Cult. Each ability varies in cost (though they usually cost 1 point, and you usually have 2 points) and you are able to take any ability you once had from your former class, with some exceptions. **You are still limited to a maximum of two passives, two day abilities and two night abilities, including the ones from your new cult class.**
+&gt; 
+&gt; Cult Alts are abilities that have been altered to be balanced on a cult class. Most classes have at least one Cult Alt, and can buy it and/or normal abilities within Cult point maximum. You can not take the normal variant of an ability from your class if it has been modified to be a Cult Alt.
+&gt; 
+&gt; For example, if you were converted from The Archer you would have 2 Cult points, and could use them to pick a Day and Night ability from the possible Cult Alts. As you are limited to 2 day and 2 night abilities, your choices would be:
+&gt; 
+&gt; 
+&gt; [details=&quot;Archer Choice A&quot;]
+&gt; &gt;# [color=orangered]The Mithras Acolyte :crossed_swords:  [/color]
+&gt; &gt; [color=orangered]**Cult Killer**[/color]
+&gt; &gt;**Spirit of Mithras (Passive)** - Starting with the second use of the Cult Leader&amp;rsquo;s Blood of Mithras, if you would be sacrificed, the first time you will not die.
+&gt; &gt; **Flesh to Flesh (Day)** - Choose 2 players. If one of them is attacked tonight by a non-cult member then you will attack the other. - 2 uses
+&gt; **Sacrilege (Night)** - If the Cult Leader’s conversion fails or they use Blood of Mithras, you will shoot their target for them instead. Does not count as a visit. - 2 uses
+&gt; &gt;**Curse of Mithras (Night)** - If the target is bled tomorrow, they will die in 1 night instead of 2 nights. - 1 use :crown:
+&gt; &gt;_Your objective is to defeat the Blue Dragon and the Corax Cult._
+&gt; [/details]
+&gt; 
+&gt; [details=&quot;Archer Choice B&quot;]
+&gt; &gt;# [color=orangered]The Mithras Acolyte :crossed_swords:  [/color]
+&gt; &gt; [color=orangered]**Cult Killer**[/color]
+&gt; &gt;**Spirit of Mithras (Passive)** - Starting with the second use of the Cult Leader&amp;rsquo;s Blood of Mithras, if you would be sacrificed, the first time you will not die.
+&gt; &gt; **Flesh to Flesh (Day)** - Choose 2 players. If one of them is attacked tonight by a non-cult member then you will attack the other. - 2 uses
+&gt; **Ancient Curse (Night)** - Mark a player for death. If a player has two marks, you will learn their exact class. If a player has three marks, you will kill them bypassing everything. - Infinite uses**
+&gt; &gt;**Curse of Mithras (Night)** - If the target is bled tomorrow, they will die in 1 night instead of 2 nights. - 1 use :crown:
+&gt; &gt;_Your objective is to defeat the Blue Dragon and the Corax Cult._
+&gt; [/details]
+&gt; 
+&gt; However, if you were converted from a Knight -- your choices would be: 
+&gt; 
+&gt; 
+&gt; [details=&quot;Knight Choice A&quot;]
+&gt; &gt;# [color=orangered]The Mithras Acolyte :crossed_swords:  [/color]
+&gt; &gt; [color=orangered]**Cult Killer**[/color]
+&gt; &gt;**Spirit of Mithras (Passive)** - Starting with the second use of the Cult Leader&amp;rsquo;s Blood of Mithras, if you would be sacrificed, the first time you will not die.
+&gt; **Armored (Passive)** - Your first successful use of Defend will not kill you, if the attacker doesn’t die to Defend.
+&gt; **Defend (Night)** - You will guard the target player tonight, giving your life to kill their attacker(s). - Infinite uses :crown:
+&gt; &gt;**Curse of Mithras (Night)** - If the target is bled tomorrow, they will die in 1 night instead of 2 nights. - 1 use :crown:
+&gt; &gt;_Your objective is to defeat the Blue Dragon and the Corax Cult._
+&gt; [/details]
+&gt; 
+&gt; 
+&gt; 
+&gt; [details=&quot;Knight Choice B&quot;]
+&gt; &gt;# [color=orangered]The Mithras Acolyte :crossed_swords:  [/color]
+&gt; &gt; [color=orangered]**Cult Killer**[/color]
+&gt; &gt;**Spirit of Mithras (Passive)** - Starting with the second use of the Cult Leader&amp;rsquo;s Blood of Mithras, if you would be sacrificed, the first time you will not die.
+&gt; **Lone Cultist (Night)** - Kill a player. - 1 Use
+&gt; &gt;**Curse of Mithras (Night)** - If the target is bled tomorrow, they will die in 1 night instead of 2 nights. - 1 use :crown:
+&gt; &gt;_Your objective is to defeat the Blue Dragon and the Corax Cult._
+&gt; 
+&gt; [/details]
+
+
+
+
+
+
+
+[/details]
+
+
+
+
+#### Blue Dragon Win Condition:
+
+&gt;_Your objective is to defeat the Corax and Mithras Cults._
+
+---
+
+## Playerlist
+1. 
+2. 
+3. 
+4. 
+5. 
+6.
+7. 
+8. 
+9. 
+10.
+11. 
+12.
+13. 
+14. 
+15. 
+16. 
+17. 
+18. 
+19. 
+20. 
+21. 
+22. 
+
+### Backups:
+1. 
+2. 
+3.
+
+### Spectators:
+1. 
+2. 
+3.</description>
+    
+    <lastBuildDate>Mon, 29 Jun 2020 22:17:31 +0000</lastBuildDate>
+    <category>Discussion</category>
+    <atom:link href="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Solic" data-post="258" data-topic="82512">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/solic/40/12782_2.png" class="avatar"> Solic:</div>
+<blockquote>
+<p>1.5 executions, every even day has an extra execution</p>
+</blockquote>
+</aside>
+<p>im considering this as a option</p>
+<p>bounties would be weird with this in mind, depending on how it was implemented</p>
+<p>i suppose what could happen is on even days, if there is no majority vote, then the top two wagons will be yeeted by plurality</p>
+<p>but if a wagon hits majority then they get yeeted and if a bounty triggers then it could just act as normally, and allow a second execution in place of the first one</p>
+<p>or i could just only allow bounty to be used on even nights</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/262">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/262</link>
+        <pubDate>Mon, 29 Jun 2020 22:17:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82512-262</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512.rss">SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</source>
+      </item>
+      <item>
+        <title>SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <p>yeah i likely wasn’t gonna touch hunter</p>
+<p>i just know that since the CL does both converting and killing, they can get hit a bit harder with an early missed convert</p>
+<p><s>just hoping 3 hunters dont roll</s></p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/261">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/261</link>
+        <pubDate>Mon, 29 Jun 2020 18:36:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82512-261</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512.rss">SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</source>
+      </item>
+      <item>
+        <title>SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</title>
+        <dc:creator><![CDATA[Solic]]></dc:creator>
+        <description><![CDATA[
+            <p>Hunters are being overvalued in this thread as well I think. Blocking a conversion, in the event that it happens, isn’t the end of the world for a scumfaction. It doesn’t kill the converter. It’s bypassable. Most players are quite obvious with their class as well, so a block isn’t super likely in the first place. Here it would be funny, since the converter will likely think the hunter is the other scum faction.</p>
+<p>Hunters are very fakeclaimable. If “bleeding to prove” they open themselves up for conversion, so their confirmation lasts just that day. The game is arbitrarily lengthened and so far nothing seems to give them more limited uses as well. This was one of my gripes with the 18 player change, but I’ve been gone since then so. <img src="https://forum.throneoflies.com/images/emoji/twitter/man_shrugging.png?v=9" title=":man_shrugging:" class="emoji" alt=":man_shrugging:"></p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/260">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/260</link>
+        <pubDate>Mon, 29 Jun 2020 18:35:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82512-260</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512.rss">SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</source>
+      </item>
+      <item>
+        <title>SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Solic" data-post="258" data-topic="82512">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/solic/40/12782_2.png" class="avatar"> Solic:</div>
+<blockquote>
+<p>2 Princes</p>
+</blockquote>
+</aside>
+<p>Backup Prince</p>
+<p>Backup Prince</p>
+<p><s>I’ll see how this one goes in SFoL 63 at any rate</s></p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/259">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/259</link>
+        <pubDate>Mon, 29 Jun 2020 18:23:24 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82512-259</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512.rss">SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</source>
+      </item>
+      <item>
+        <title>SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</title>
+        <dc:creator><![CDATA[Solic]]></dc:creator>
+        <description><![CDATA[
+            <p><img src="https://forum.throneoflies.com/images/emoji/twitter/eyes.png?v=9" title=":eyes:" class="emoji only-emoji" alt=":eyes:"></p>
+<p>I’ll break my lurk for this, since it was my baby. This was more of a fun transitional game to fix up cult and have a game out of it too. From my perspective, the largest lesson I had was that in a larger game with multiball with things like conversion, you need more unconditional town power.</p>
+<p>This could easily be adjusted in having one of these for example:</p>
+<ol>
+<li>1.5 executions, every even day has an extra execution</li>
+<li>ITAs of some kind (quite similar)</li>
+<li>2 Princes</li>
+</ol>
+<p>I would most prefer option 1, since nothing interacts with ITAs, it is a bit random to add that. Having power be in everyone’s hands and socially swayable is more fun than multiple Princes. I am aware town won, but it was very close and not really that deserved in my opinion. Have to remember that one scum faction died early.</p>
+<p>Mithras was also badly outclassed in terms of balance in the original and that could use fixing if you’re actually going to run this (which I still think isn’t a great idea <img src="https://forum.throneoflies.com/images/emoji/twitter/upside_down_face.png?v=9" title=":upside_down_face:" class="emoji" alt=":upside_down_face:">), because old Cult was just… <em>problematic</em>. Having to kill one of their own to be able to attack, unless they have some conditional converts… Having less kill power on top of that. Only thing mildly in their favor is slightly more power in their other abilities.</p>
+<p>Disclaimer is that I have very little idea of how (Corax) Cult changed since then, so I’m not going in depth.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/258">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/258</link>
+        <pubDate>Mon, 29 Jun 2020 18:09:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82512-258</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512.rss">SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</source>
+      </item>
+      <item>
+        <title>SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group quote-modified" data-username="katze" data-post="1" data-topic="82512">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/katze/40/30997_2.png" class="avatar"> katze:</div>
+<blockquote>
+<h1>The Mithras Cult Leader <img src="https://forum.throneoflies.com/images/emoji/twitter/crossed_swords.png?v=9" title=":crossed_swords:" class="emoji" alt=":crossed_swords:"> <img src="https://forum.throneoflies.com/images/emoji/twitter/shield.png?v=9" title=":shield:" class="emoji" alt=":shield:">
+</h1>
+<p><strong>Cult Special</strong><br>
+<strong>Mithras’ Train (Passive)</strong> - At any point before the start of the first night, you may message the host and choose the Cult alts that the Cult class that spawned with you will receive, based on a non-unique class they can be converted from. If you do not choose the Cult alts, they will receive a random valid set.<br>
+<strong>Mithras’ Fanaticism (Passive)</strong> - You are immune to death at night until you successfully convert a player, where upon this passive is disabled. (Starting Cult Leader only)<br>
+<strong>Mithras’ epic gamer cloak (Day)</strong> - If the target player dies tonight, they will appear as a class of your choice. - 1 use (Shared) <img src="https://forum.throneoflies.com/images/emoji/twitter/crown.png?v=9" title=":crown:" class="emoji" alt=":crown:"><br>
+<strong>Mithras’ insert evil thing here (Day)</strong> - Cause a player to bleed. They will bleed and die in two nights if not healed. - 3 uses (Shared) <img src="https://forum.throneoflies.com/images/emoji/twitter/crown.png?v=9" title=":crown:" class="emoji" alt=":crown:"><br>
+<strong>Brainwash of Mithras (Night)</strong> - Change target player into the Cult version of their class. If you have failed to convert a target twice already and your next conversion would fail it will instead target a random convertible player. - Infinite uses, 1 night cooldown<br>
+<strong>Blood of Mithras [isn’t this just blood of blood? that’s fucking redundant] (Night)</strong> - Kill a Cult player and a non-Cult player. The first use of this will not kill the cult player. This ability does not visit the Cult player. - Infinite uses <img src="https://forum.throneoflies.com/images/emoji/twitter/crown.png?v=9" title=":crown:" class="emoji" alt=":crown:"><br>
+<em>Your objective is to defeat the Blue Dragon and the Corax Cult.</em></p>
+</blockquote>
+</aside>
+          <p><a href="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/257">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/257</link>
+        <pubDate>Mon, 29 Jun 2020 08:18:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82512-257</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512.rss">SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</source>
+      </item>
+      <item>
+        <title>SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</title>
+        <dc:creator><![CDATA[CRichard564]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group quote-modified" data-username="katze" data-post="1" data-topic="82512">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/katze/40/30997_2.png" class="avatar"> katze:</div>
+<blockquote>
+<p>(Serve Ale) Mithras’ Fuck (Night)</p>
+</blockquote>
+</aside>
+<p><img src="https://forum.throneoflies.com/images/emoji/twitter/eyes.png?v=9" title=":eyes:" class="emoji only-emoji" alt=":eyes:"></p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/256">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/256</link>
+        <pubDate>Mon, 29 Jun 2020 08:11:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82512-256</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512.rss">SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</source>
+      </item>
+      <item>
+        <title>SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p>I was thinking it be targeted vanillarize<br>
+but like<br>
+<em>okay</em></p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/255">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/255</link>
+        <pubDate>Mon, 29 Jun 2020 08:07:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82512-255</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512.rss">SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</source>
+      </item>
+      <item>
+        <title>SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group quote-modified" data-username="katze" data-post="1" data-topic="82512">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/katze/40/30997_2.png" class="avatar"> katze:</div>
+<blockquote>
+<p><strong>(Serve Ale) Mithras’ Fuck (Night)</strong> - Target a player. Vanillaize all non-Mithras Cult players targeting them - 1 use</p>
+</blockquote>
+</aside>
+<p>this is fine</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/254">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/254</link>
+        <pubDate>Mon, 29 Jun 2020 08:05:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82512-254</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512.rss">SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</source>
+      </item>
+      <item>
+        <title>SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p>or give it a gun</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/253">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/253</link>
+        <pubDate>Mon, 29 Jun 2020 07:45:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82512-253</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512.rss">SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</source>
+      </item>
+      <item>
+        <title>SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</title>
+        <dc:creator><![CDATA[Marshal]]></dc:creator>
+        <description><![CDATA[
+            <p>princess alt good in multiball</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/252">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/252</link>
+        <pubDate>Mon, 29 Jun 2020 07:45:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82512-252</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512.rss">SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</source>
+      </item>
+      <item>
+        <title>SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p>make it do something wacky like vanillarize</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/251">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/251</link>
+        <pubDate>Mon, 29 Jun 2020 07:45:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82512-251</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512.rss">SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</source>
+      </item>
+      <item>
+        <title>SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="katze" data-post="1" data-topic="82512">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/katze/40/30997_2.png" class="avatar"> katze:</div>
+<blockquote>
+<p><strong>2 point Cult Alt:</strong><br>
+<strong>(Cold Steel): Lone Cultist (Night)</strong> - Kill a player. - 1 use</p>
+</blockquote>
+</aside>
+<p>bonus KP good</p>
+<aside class="quote no-group" data-username="katze" data-post="1" data-topic="82512">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/katze/40/30997_2.png" class="avatar"> katze:</div>
+<blockquote>
+<p><strong>2 point Cult Alt:</strong><br>
+<strong>(Will-o-wisp) Gaze of Mithras</strong> - Mithras will gaze into the target, determining their exact class. - 2 uses</p>
+</blockquote>
+</aside>
+<p>eh</p>
+<p>this isn’t spectacular either</p>
+<p>like its certainly good</p>
+<p>and its 2 uses so it’s fairly solid actually</p>
+<aside class="quote no-group" data-username="katze" data-post="1" data-topic="82512">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/katze/40/30997_2.png" class="avatar"> katze:</div>
+<blockquote>
+<p><strong>2 Point Alt:</strong><br>
+<strong>(Serve Ale) Mithras’ Reflection (Night)</strong> - Target a player. Redirect all non-Mithras Cult players targeting them back to themselves, bypassing redirection immunity. - 1 use</p>
+</blockquote>
+</aside>
+<p>when compared to the princess 2 pointer i think this is stronger than that at least</p>
+<p>shrug</p>
+<p>it wouldnt be the strongest 1 point alt if it were 1 point</p>
+<p>but i don’t think its the weakest 2 point alt</p>
+<p>but i also think the other option is better most of the time</p>
+<p>heck</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/250">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/250</link>
+        <pubDate>Mon, 29 Jun 2020 07:11:33 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82512-250</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512.rss">SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</source>
+      </item>
+      <item>
+        <title>SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="katze" data-post="1" data-topic="82512">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/katze/40/30997_2.png" class="avatar"> katze:</div>
+<blockquote>
+<p><strong>Ceremonial Potion</strong> - If you are chosen for Blood of Mithras tonight, the Cult Leader may select an additional non-Cult player to kill.</p>
+</blockquote>
+</aside>
+<p>considering changing this to</p>
+<aside class="quote no-group quote-modified" data-username="katze" data-post="1" data-topic="82512">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/katze/40/30997_2.png" class="avatar"> katze:</div>
+<blockquote>
+<p><strong>Ceremonial Potion</strong> - If you are chosen for Blood of Mithras tonight, the Cult Leader may select an additional non-Cult player to kill. Can not be used on the Cult Leaders first use of Blood of Mithras.</p>
+</blockquote>
+</aside>
+<p>think i might keep it as is since in the long run its a +1 KP ability either way, though</p>
+<hr>
+<aside class="quote no-group" data-username="katze" data-post="1" data-topic="82512">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/katze/40/30997_2.png" class="avatar"> katze:</div>
+<blockquote>
+<p><strong>(Serve Ale) Mithras’ Reflection (Night)</strong> - Target a player. Redirect all non-Mithras Cult players targeting them back to themselves, bypassing redirection immunity. - 1 use</p>
+</blockquote>
+</aside>
+<p>the more i think about TK alts the more i think this shouldn’t be a 2 pointer</p>
+<p>bypassing redirection immunity in this case doesn’t actually change much so that being the metric for it being 2 points is kinda meh</p>
+<p>like, the only real cases the bypassing has is preventing offensives from targetting a cultist or something, or very situationally stopping an archer from multi-shotting a cultist</p>
+<p>this can be used to effectively strongman a kill but the bus driver ability can also do that nearly as well but with a 2nd use</p>
+<p>meh</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/249">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/249</link>
+        <pubDate>Mon, 29 Jun 2020 07:04:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82512-249</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512.rss">SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</source>
+      </item>
+      <item>
+        <title>SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="anon6348071" data-post="240" data-topic="82512">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/priest-icon-256.jpg" class="avatar"> anon6348071:</div>
+<blockquote>
+<p><strong>Allies (Day)</strong> - Infinite Uses</p>
+</blockquote>
+</aside>
+<p>oh yeah this should prob change to 2 uses anyway, like in official FoL</p>
+<p>and if it changes between now and when this game goes live i’ll probably accommodate for it</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/248">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/248</link>
+        <pubDate>Mon, 29 Jun 2020 06:51:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82512-248</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512.rss">SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</source>
+      </item>
+      <item>
+        <title>SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group quote-modified" data-username="katze" data-post="1" data-topic="82512">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/katze/40/30997_2.png" class="avatar"> katze:</div>
+<blockquote>
+<p>Remove either majority or plurality from the execution system today. - 1 Use</p>
+</blockquote>
+</aside>
+<p>speaking of mystic, have any of the “remove plurality/majority” abilities been used in a FoL yet</p>
+<aside class="quote no-group" data-username="Geyde" data-post="246" data-topic="82512">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/geyde/40/32764_2.png" class="avatar"> Geyde:</div>
+<blockquote>
+<p>(mystic one which is ridiculous)</p>
+</blockquote>
+</aside>
+<p>yeah, if the mystic hasn’t claimed yet the main drawback is mostly mitigated as well</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/247">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/247</link>
+        <pubDate>Mon, 29 Jun 2020 06:43:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82512-247</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512.rss">SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</source>
+      </item>
+      <item>
+        <title>SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="anon6348071" data-post="230" data-topic="82512">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://www.ThroneOfLies.com/images/class-icons/priest-icon-256.jpg" class="avatar"> anon6348071:</div>
+<blockquote>
+<p>Then again, Mithras Cult gets all the delicious benefits like alts so hell knows.</p>
+</blockquote>
+</aside>
+<p>all of one of them is actually strong (mystic one which is ridiculous)</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/246">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/246</link>
+        <pubDate>Mon, 29 Jun 2020 06:37:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82512-246</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512.rss">SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</source>
+      </item>
+      <item>
+        <title>SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p>having a famine for one class type usually results in a feast for another</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/245">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/245</link>
+        <pubDate>Mon, 29 Jun 2020 06:36:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82512-245</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512.rss">SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</source>
+      </item>
+      <item>
+        <title>SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</title>
+        <dc:creator><![CDATA[Jane]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="katze" data-post="158" data-topic="82512">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/katze/40/30997_2.png" class="avatar"> katze:</div>
+<blockquote>
+<p><a class="mention" href="/u/jane">@jane</a> if you still wanna cohost ill put you down as it</p>
+</blockquote>
+</aside>
+<p>Yos.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/244">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/244</link>
+        <pubDate>Mon, 29 Jun 2020 06:34:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82512-244</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512.rss">SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</source>
+      </item>
+      <item>
+        <title>SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</title>
+        <dc:creator><![CDATA[anon6348071]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="katze" data-post="242" data-topic="82512">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/katze/40/30997_2.png" class="avatar"> katze:</div>
+<blockquote>
+<p>you should forward those to a mod as well</p>
+</blockquote>
+</aside>
+<p><s>I feel like I was meant to do that before but forgot.</s><br>
+Time to go pester one of the mods.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/243">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/243</link>
+        <pubDate>Mon, 29 Jun 2020 02:42:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82512-243</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512.rss">SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</source>
+      </item>
+      <item>
+        <title>SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <p>you’re a nerd</p>
+<p>also 90% of the ones on the BD+Corax classcards exist in the official classcard thread so you should forward those to a mod as well</p>
+<p>ill fix em in a bit <img src="https://forum.throneoflies.com/images/emoji/twitter/eyes.png?v=9" title=":eyes:" class="emoji" alt=":eyes:"> ty</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/242">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/242</link>
+        <pubDate>Mon, 29 Jun 2020 02:42:17 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82512-242</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512.rss">SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</source>
+      </item>
+      <item>
+        <title>SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</title>
+        <dc:creator><![CDATA[anon6348071]]></dc:creator>
+        <description><![CDATA[
+            <p>Also I missed one.</p>
+<h2>Corax Seeker:</h2>
+<aside class="quote no-group" data-username="katze" data-post="1" data-topic="82512">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/katze/40/30997_2.png" class="avatar"> katze:</div>
+<blockquote>
+<p><strong>Identify (Night)</strong> - Discover who a player visits, and who visits them. - 2 uses</p>
+</blockquote>
+</aside>
+<h2>Mithras Cabalist:</h2>
+<aside class="quote no-group quote-modified" data-username="katze" data-post="1" data-topic="82512">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/katze/40/30997_2.png" class="avatar"> katze:</div>
+<blockquote>
+<p><strong>Radiant Potion</strong> - Learn who a player visits, and who they are visited by.</p>
+</blockquote>
+</aside>
+          <p><a href="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/241">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/241</link>
+        <pubDate>Mon, 29 Jun 2020 02:39:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82512-241</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512.rss">SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</source>
+      </item>
+      <item>
+        <title>SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</title>
+        <dc:creator><![CDATA[anon6348071]]></dc:creator>
+        <description><![CDATA[
+            <p>Inconsistencies™ as promised.</p>
+<details>
+<summary>
+Blue Dragon</summary>
+<blockquote>
+<h2>Court Wizard</h2>
+<p><strong>Arcane Empower (Day)</strong> - 2 uses.</p>
+</blockquote>
+<p>Inconsistent punctuation after charges, should be</p>
+<blockquote>
+<p>2 uses</p>
+</blockquote>
+<hr>
+<blockquote>
+<h2>Drunk</h2>
+<p><strong>Debauchery (Night)</strong> - Infinite use</p>
+</blockquote>
+<p>Should be:</p>
+<blockquote>
+<p>Infinite use<em>s</em></p>
+</blockquote>
+<hr>
+<blockquote>
+<h2>Hunter</h2>
+<p><strong>Hunter’s Mark (Night)</strong> - 2 Uses</p>
+</blockquote>
+<p>Capitalization, should be:</p>
+<blockquote>
+<p>2 uses</p>
+</blockquote>
+<hr>
+<blockquote>
+<h2>Knight</h2>
+<p><strong>2 point Cult Alt:<br>
+(Cold Steel): Lone Cultist (Night)</strong> - 1 Use</p>
+</blockquote>
+<hr>
+<blockquote>
+<h2>Maid</h2>
+<p><strong>Rumor (Day)</strong> - 2 Uses.<br>
+<strong>Matchmake (Night)</strong> - Infinite Uses</p>
+</blockquote>
+<blockquote>
+<p>Alts:<br>
+<strong>(Rumor): Warp Flesh (Day)</strong> - 2 Uses.<br>
+<strong>(Matchmake): Cult Compatibility (Night)</strong> - Test if target has the same faction as the player you last checked. If not, learn their exact classes.</p>
+</blockquote>
+<p>Should be:</p>
+<blockquote>
+<p>2 uses (no punctuation)<br>
+Infinite uses</p>
+</blockquote>
+<blockquote>
+<p>Alts:<br>
+2 uses (no punctuation)<br>
+Infinite uses (amount of charges currently missing)</p>
+</blockquote>
+<hr>
+<blockquote>
+<h2>Mystic</h2>
+<p><strong>Warp Reality (Day)</strong> - 1 Use<br>
+<strong>Link Minds (Day)</strong> - Infinite Uses.</p>
+</blockquote>
+<hr>
+<blockquote>
+<h2>Noble</h2>
+<p><strong>Gossip (Night)</strong> - Infinite Uses</p>
+</blockquote>
+<hr>
+<blockquote>
+<h2>Priest</h2>
+<p><strong>Last Rites (Night)</strong> - Infinite Uses</p>
+</blockquote>
+<blockquote>
+<p>Alts:<br>
+<strong>(Last Rites): Mithras’ Puppetry (Night)</strong> - Infinite Uses</p>
+</blockquote>
+<hr>
+<blockquote>
+<h2>Prince</h2>
+<p><strong>Behead (Night)</strong> - Kill the player you have jailed (Bypasses night immunity and healing). If the executed is a member of the Blue Dragon, you will not be able to execute for the rest of the game. - 3 uses</p>
+</blockquote>
+<p>Improper capitalization, should be:</p>
+<blockquote>
+<p>Kill the player you have jailed (bypasses night immunity and healing).</p>
+</blockquote>
+<hr>
+<blockquote>
+<h2>Tavernkeeper</h2>
+<p><strong>Dose (Day)</strong> - 1 Use<br>
+<strong>Serve Ale (Night)</strong> - 1 Use</p>
+</blockquote>
+</details>
+<details>
+<summary>
+Corax Cult</summary>
+<blockquote>
+<h2>Corax Apostle</h2>
+<p><strong>Baleful Hush (Day)</strong> - 1 Use</p>
+</blockquote>
+<hr>
+<blockquote>
+<h2>Corax Cult Leader</h2>
+<p><strong>Transfer Essence (Day)</strong> - 1 Use (shared)</p>
+</blockquote>
+<p>Improper + lacking capitalization, should be:</p>
+<blockquote>
+<p>1 use (Shared)</p>
+</blockquote>
+<p>Should also be two uses, hail Corax :^)</p>
+<hr>
+<blockquote>
+<h2>Corax Devout King</h2>
+<p><strong>Allies (Day)</strong> - Infinite Uses</p>
+</blockquote>
+<hr>
+<blockquote>
+<h2>Corax Invoker</h2>
+<p><strong>Bewilder (Day)</strong> - 1 Use</p>
+</blockquote>
+<hr>
+<blockquote>
+<h2>Corax Seeker</h2>
+<p><strong>Corax’s Murmurs (Day)</strong> - 2 Uses.</p>
+</blockquote>
+<p>Should be:</p>
+<blockquote>
+<p>2 uses (no punctuation)</p>
+</blockquote>
+</details>
+<details>
+<summary>
+Mithras Cult</summary>
+<blockquote>
+<h2>Mithras Invoker</h2>
+<p><strong>Fanatic (Passive)</strong> - Immune to occupation and target changing.<br>
+<strong>Bewilder (Day)</strong> - 1 Use</p>
+</blockquote>
+<p>Inconsistent with Corax Invoker/Drunk/Butler class cards, should instead be:</p>
+<blockquote>
+<p><strong>Fanatic (Passive)</strong> - Immune to occupation and redirection.</p>
+</blockquote>
+<hr>
+<blockquote>
+<h2>Mithras Cult Leader</h2>
+<p><strong>Disguise (Day)</strong> - 1 use (shared)<br>
+<strong>Rupture (Day)</strong> - 3 uses (shared)</p>
+</blockquote>
+<p>Capitalization on (Shared).</p>
+<hr>
+<blockquote>
+<h2>Mithras Devout King</h2>
+<p><strong>Allies (Day)</strong> - Infinite Uses</p>
+</blockquote>
+</details>
+          <p><a href="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/240">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/240</link>
+        <pubDate>Mon, 29 Jun 2020 02:32:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82512-240</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512.rss">SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</source>
+      </item>
+      <item>
+        <title>SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p>What<br>
+Lmao<br>
+Why does this have to happen</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/239">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/239</link>
+        <pubDate>Mon, 29 Jun 2020 02:15:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82512-239</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512.rss">SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</source>
+      </item>
+      <item>
+        <title>SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <p>somehow i rolled mystic 3 times and both of those rerolls were into noble</p>
+<p>which i rolled</p>
+<p>6 times</p>
+<p>why is random randumb</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/238">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512/238</link>
+        <pubDate>Mon, 29 Jun 2020 02:15:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82512-238</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-67-clash-of-cults-2-balance-discussion-thread/82512.rss">SFoL 67: Clash of Cults 2 -- Balance/Discussion Thread</source>
+      </item>
+  </channel>
+</rss>

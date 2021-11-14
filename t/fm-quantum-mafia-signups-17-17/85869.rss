@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[FM] Quantum Mafia - Signups (17/17)</title>
+    <link>https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869</link>
+    <description># [color=eevee]Quantum Mafia[/color] - [color=gold]Cause 2x5 wasn&#39;t enough.[/color]
+[color=gold](So now we have 6000x2x5 options)[/color]
+
+https://images.immediate.co.uk/production/volatile/sites/4/2020/08/GettyImages-154932300-crop-ab054fe.jpg?quality=90&amp;resize=940%2C400
+
+## **[color=gold]WARNING[/color]: PROPER UNDERSTANDING OF THE FOLLOWING GAME IS LINKED WITH AN UNDERSTANDING OF THE BASICS OF QUANTUM PHYSICS. PLEASE READ THE PRIMER BELOW BEFORE CONSIDERING SIGNING UP**
+
+
+----------------------
+
+**Icibalus&#39;s Primer On Qunatum Physics Insofar As It Relates To This Game Of Mafia**
+
+&lt;small&gt;Disclaimer: This explanation will be delivered in informal language due to the environemnt we&#39;re in, and will be excluding the exact proof of the Copenhagen Interpretation. If you&#39;re a nerd, look those up yourself, I promise that they are very interesting.&lt;/small&gt;
+
+
+----
+
+# Part 1: Superposition
+
+---------
+
+
+The most oft-misunderstood aspect of Quantum Physics is that of Quantum Superposition, which is often caused by a misunderstanding of Schrodinger&#39;s Cat. Nonetheless, as it is the most familliar example to a lot of people, I will be using it as an example to illustrate the nature of superposition.
+
+&gt; **Scenario 1** - A cat is placed into a soundproof,, invincible metal box, along with a bomb and a small piece of electronic circuitry linked to radioactive decay. The decay is set up such that within a day of being placed into the box, the cat has a **50% chance** of being blown up and dying.
+
+Now, obviously, in the real world the cat is only ever actually alive or dead. Applying quantum physics to the scale of large objects doesn&#39;t function. **However**, if we use the cat as a metaphor for a particle (or, as it would happen, mafia player) in quantum superposition, we would say that the cat is simultaneously alive *and* dead until the box is opened. In other words, whether the cat is alive or not is decided only when it is **observed**. We could also call this cat 50% alive, since in 50% of all possible timelines, they are alive.
+
+However, Schrodinger&#39;s Cat exists in a closed system in Scenario 1. Let&#39;s have a look at Scenario 2, which should illustrate how this affects the game of mafia:
+
+&gt; **Scenario 2** - Two cats are placed into two seperate soundproof invincible metal boxes with bombs in them. The behaviour of the bombs is thus:
+&gt; - Within 24 hours, the bomb in Box A will have a 50% chance of blowing up, killing Cat A.
+&gt; - After that bomb has either blown up or not blown up, the bomb in Box B will have a 50% chance of blowing up if Cat A did not blow up. If Cat A *did* blow up, however, the bomb in Box B has a 75% chance of blowing up.
+
+Once agian, we have a state in which two cats are simultaneously alive and dead. However, the odds interact in a different way this time, such that:
+- Cat A is 50% alive, like in scenario 1.
+- However, Cat B is only 37.5% alive.
+
+However, what would happen if we were to observe Box B, and found that Cat B was dead? Would this change the nature of Cat A&#39;s superposition? **Yes**.
+
+Let&#39;s look at our possible scenarios:
+
+**Cat A survives; Cat B dies** - 0.25
+**Cat A survives, Cat B survives** - 0.25
+**Cat A dies, Cat B dies** - 0.375
+**Cat A dies, Cat B survives** - 0.125
+
+If we observe Cat B to be dead, using some maths which I will spoiler below
+
+
+[details=&quot;&quot;]
+P(A|B) where A = Cat A blowing up and B = Cat B blowing up =
+
+P(AnB)/P(A) = 0.375/0.5 = 0.75
+
+=&gt; Cat A only has a 25% chance of surviving if B is observed to be dead.
+[/details]
+
+we will find that Cat A is now only alive in 25% of all possible timelines. This means that, since he is a quantum object in this instance, he now is only 25% alive.
+
+Using fairly simple maths, we can see how two objects in quantum superposition can interact- essentially, they change each other&#39;s odds by eliminating certain possibilities, and consequently change the nature of their superposition. Note once more that whether or not Cat A is alive or not is still not determined- the only way to find that out would be to take them out of the box, and look.
+
+
+-------------------
+
+# Part 2: Mafia
+
+------------------------
+
+When randing this game of mafia, what will occur instead of the creation of a *single* rand, will be the creation of **N** rands. Then, the odds of you being each role based on all N possibilities will be calculated, and you will be sent those odds.
+
+Let&#39;s use a simple example at first, to illustrate this. Let&#39;s take a simple Vanilla 5&#39;er (not a setup that&#39;d ever be run, but that&#39;s besides the point) with players A, B, C, D, and E, and the only role being a single wolf with the rest being VT. N is 10 in this instance.
+
+Our rands are:
+1. **[color=green]A, B, C, D[/color]** [color=red]**E**[/color]
+2. [color=green]**A, C, D, E**[/color] [color=red]**B**[/color]
+3. [color=green]**A, B, D, E**[/color] [color=red]**C**[/color]
+4. **[color=green]A, B, C, D[/color]** [color=red]**E**[/color]
+5. [color=green]**A, C, D, E**[/color] [color=red]**B**[/color]
+6. [color=green]**B, C, D E**[/color] [color=red]**A**[/color]
+7. [color=green]**A, B, D, E**[/color] [color=red]**C**[/color]
+8. **[color=green]A, B, C, D[/color]** [color=red]**E**[/color]
+9. [color=green]**A, B, C, E**[/color] [color=red]**D**[/color]
+8. **[color=green]A, B, C, D[/color]** [color=red]**E**[/color]
+
+As a consequence, given that all of these setups begin the game in quantum superposition, each player would begin the game with the following information:
+- A: [color=green]**You have a 90% chance of being a member of the Town**[/color] and a [color=red]**10% chance of being Mafia**[/color]
+- B: [color=green]**You have a 90% chance of being a member of the Town**[/color] and a [color=red]**10% chance of being Mafia**[/color]
+- C: [color=green]**You have a 80% chance of being a member of the Town**[/color] and a [color=red]**20% chance of being Mafia**[/color]
+- D: [color=green]**You have a 90% chance of being a member of the Town**[/color] and a [color=red]**10% chance of being Mafia**[/color]
+- E: [color=green]**You have a 60% chance of being a member of the Town**[/color] and a [color=red]**40% chance of being Mafia**[/color]
+
+Now, since this would be rather pointless if there wasn&#39;t some way of observing the boxes (in this case, the players) and finding out what&#39;s in them. For this, we have executions. 
+
+Let&#39;s say that Player E lets it slip that he has a 40% chance of being wolf, which is higher than average, and is YEETED for it. What happens then? In that instance, we need to observe his flip, so his true role is determined. He is a [color=green]**Town**[/color] member. Now, because his flip has now been determined and he is no longer in superposition, the possibilities are as follows:
+
+1. [color=green]**A, C, D, E**[/color] [color=red]**B**[/color]
+3. [color=green]**A, B, D, E**[/color] [color=red]**C**[/color]
+5. [color=green]**A, C, D, E**[/color] [color=red]**B**[/color]
+6. [color=green]**B, C, D E**[/color] [color=red]**A**[/color]
+7. [color=green]**A, B, D, E**[/color] [color=red]**C**[/color]
+9. [color=green]**A, B, C, E**[/color] [color=red]**D**[/color]
+
+As a consequence, all our remaining players would receive updated odds:
+
+- A: [color=green]**You have a  83.3333....% chance of being a member of the Town**[/color] and a [color=red]**16.6666...% chance of being Mafia**[/color]
+- B: [color=green]**You have a 66.6666....% chance of being a member of the Town**[/color] and a [color=red]**33.3333....% chance of being Mafia**[/color]
+- C: [color=green]**You have a 66.6666..% chance of being a member of the Town**[/color] and a [color=red]**33.3333...% chance of being Mafia**[/color]
+- D: [color=green]**You have a 83.3333....% chance of being a member of the Town**[/color] and a [color=red]**16.6666...% chance of being Mafia**[/color]
+
+As such, going into Night 1, each player now has a different chance of being a particular role if observed. Our questio nnow becomes- who does our lone wolf kill?
+
+Since all players *could* be a wolf, ***all players submit a nightkill***. For simplicity&#39;s sake, we&#39;ll say that A targeted B, B targeted C, C targeted D, and D targeted A. When day begins, this completely ordinary announcement is posted:
+
+&gt; **Day 2 Begins**
+&gt; @PlayerA is now 16.6666...% dead.
+&gt; @PlayerB is now 16.6666...% dead.
+&gt; @PlayerC is now 33.3333...% dead.
+&gt; @PlayerD is now 33.3333...% dead.
+&gt; *Discuss amongst yourselves who next to execute.*
+
+As you see, no player has died in all possible setups, and as a consequence, all players remain functionally able to interact as if alive. In our simple setup, the odds are fairly simple- the players are dead according to the odds of them being mafia.  However, in the actual game, the mathematics will end up being far more complicated.
+
+Let&#39;s say that the players decide to execute nobody. However, A and B decide that they think D&#39;s memes are cringe, and C decides that B is too strong of a player to live. On Day 3, the following announcement is posted:
+
+&gt; **Day 3 Begins**
+&gt; @PlayerA is still 16.6666...% dead.
+&gt; @PlayerB is now 50% dead.
+&gt; @PlayerC is still 33.3333...% dead.
+&gt; @PlayerD is now 66.6666....% dead.
+&gt; *Discuss amongst yourselves who next to execute.*
+
+The odds have changed. However, things will remain fairly boring and pointless. For once, we will, in fact, need PRs in order to greater collapse the field of odds.
+
+-----
+
+# Part 3: Power Roles
+
+--------------
+
+**Investigatives**
+
+In a game where there is the possibility of investigatives existing, all players will submit investigation actions, and will even receive results! Let&#39;s take the example of a [color=green]**Cop**[/color], since that&#39;s a fairly easy role to understand.
+
+Suppose that Player A has [color=green]**60% villager, 20% Cop**[/color] [color=red]**20% Mafia**[/color] as their role, and they investigate Player C. If C was likewise [color=green]**60% villager, 20% Cop**[/color] [color=red]**20% Mafia**[/color], it would seem that he should receive 80% innocent, 20% guilty. **This is not the case**.
+
+Instead, what would happen is we would look at **all possible games in which A is Cop**, and then randomise the result amongst those games. So if C has a **[color=green]70% chance[/color]** of being town in all games where A is Cop, and a [color=red]**30% chance**[/color] of being Mafia in all games where A is cop, A has an 70% chance of getting the result **If you are a [color=green]Cop[/color], Player C is *not* a member of the Mafia**, and a 30% chance of getting the result **If you are a [color=green]Cop[/color], Player C is a member of the Mafia**. This, obviously, eliminates all timelines in which A is Cop and their result is wrong. Even though it&#39;s less likely, let&#39;s say that Player A learns that if he is a Cop, Player C is definitely a wolf.
+
+However, let&#39;s say the following day that Player B gets Player A executed, and he is revealed to really be a [color=green]**Cop**[/color]. This means that all of his peeks were accurate, and a drastic change occurs- ***C learns they are 100% a member of the [color=red]**Mafia**[/color]***, and any player who he peeked as green, such as, (tragically) Player B, ***learn they are 100% [u]not[/u] a member of the [color=red]**Mafia**[/color]***.  This also would cause a cascade effect on the game, since C&#39;s factional kills become far more likely, thereby instantly shifting how dead a player is- it&#39;s possible that killing a [color=green]**Cop**[/color] in this way might cause a seemingly unrelated player to die, and drastic shifts in superposition to occur.
+
+This, naturally, will elminate a lot of timelines.
+
+**Wolf Chat**
+
+This one is fairly simple. If you mathematically cannot be [color=green]**Town**[/color], you will join the [color=red]**Mafia**[/color] chat. Moving on.
+
+**Factional Kill**
+
+In all possible timelines, each member of the hypothetical wolfteam will be given a priority number. In *that timeline*, the submitted kill that is treated as the factional kill is that of the living [color=red]**Mafia**[/color] with the lowest priority number- so if Players A, B, C and D are Priotiy 1, 2, 3 and 4 respectively in a given scenario, the factional kill submitted by player A will be considered the factional kill **for that scenario**.
+
+*However*, if, in another scenario, Players A, B, C and D are the wolves, but instead Player B is Priority 1, **Player B&#39;s factional kill** will be considered the factional kill for that night *in that scenario*.
+
+The other main rule to keep in mind for factional kills is thus- If a Priority 1 Mafia member submits a kill on another Mafia member, that timeline ceases to exist, and the odds are changed accordingly.
+
+In other words, as the game continues, possibilities will collapse rapidly, until *eventually* each player can only be a single role, which will cause this game to become a Normal(TM) game of mafia. We don&#39;t know scenario it&#39;ll be at the beginning, and in order to maximise your chances of *winning* Quantum Mafia, you will have to manipulate the odds such that you end up in the ideal timeline. Good luck. 
+
+--------------------------------------------</description>
+    
+    <lastBuildDate>Sat, 06 Feb 2021 14:22:00 +0000</lastBuildDate>
+    <category>Signups</category>
+    <atom:link href="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[FM] Quantum Mafia - Signups (17/17)</title>
+        <dc:creator><![CDATA[Zone_Q11]]></dc:creator>
+        <description><![CDATA[
+            <p>In other words, everyone only needs to post ~60 times and we’d reach 1k posts in no time.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/351">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/351</link>
+        <pubDate>Sat, 06 Feb 2021 14:22:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85869-351</guid>
+        <source url="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869.rss">[FM] Quantum Mafia - Signups (17/17)</source>
+      </item>
+      <item>
+        <title>[FM] Quantum Mafia - Signups (17/17)</title>
+        <dc:creator><![CDATA[Magnus]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Shurian" data-post="349" data-topic="85869">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shurian/40/36017_2.png" class="avatar"> Shurian:</div>
+<blockquote>
+<p>Let’s hope the game doesn’t break 1000 posts in the first hour</p>
+</blockquote>
+</aside>
+<p>It’s FM with 17 players.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/350">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/350</link>
+        <pubDate>Sat, 06 Feb 2021 12:10:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85869-350</guid>
+        <source url="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869.rss">[FM] Quantum Mafia - Signups (17/17)</source>
+      </item>
+      <item>
+        <title>[FM] Quantum Mafia - Signups (17/17)</title>
+        <dc:creator><![CDATA[Shurian]]></dc:creator>
+        <description><![CDATA[
+            <p>Ooh la la<br>
+Let’s hope the game doesn’t break 1000 posts in the first hour</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/349">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/349</link>
+        <pubDate>Sat, 06 Feb 2021 09:09:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85869-349</guid>
+        <source url="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869.rss">[FM] Quantum Mafia - Signups (17/17)</source>
+      </item>
+      <item>
+        <title>[FM] Quantum Mafia - Signups (17/17)</title>
+        <dc:creator><![CDATA[Zone_Q11]]></dc:creator>
+        <description><![CDATA[
+            <p>Ah, by the way I will be unavailable for the game until around <span data-date="2021-02-06" data-time="19:30:00" class="discourse-local-date" data-timezone="Europe/Amsterdam" data-email-preview="2021-02-06T18:30:00Z UTC">2021-02-06T18:30:00Z</span>.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/348">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/348</link>
+        <pubDate>Sat, 06 Feb 2021 05:13:15 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85869-348</guid>
+        <source url="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869.rss">[FM] Quantum Mafia - Signups (17/17)</source>
+      </item>
+      <item>
+        <title>[FM] Quantum Mafia - Signups (17/17)</title>
+        <dc:creator><![CDATA[Rome]]></dc:creator>
+        <description><![CDATA[
+            <p>:Cheer: The game’s finally starting.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/347">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/347</link>
+        <pubDate>Sat, 06 Feb 2021 04:29:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85869-347</guid>
+        <source url="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869.rss">[FM] Quantum Mafia - Signups (17/17)</source>
+      </item>
+      <item>
+        <title>[FM] Quantum Mafia - Signups (17/17)</title>
+        <dc:creator><![CDATA[Zone_Q11]]></dc:creator>
+        <description><![CDATA[
+            <p>Whenever it is not around 5 in the morning, i.e. <span data-date="2021-02-06" data-time="05:00:00" class="discourse-local-date" data-timezone="Europe/Amsterdam" data-email-preview="2021-02-06T04:00:00Z UTC">2021-02-06T04:00:00Z</span>.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/346">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/346</link>
+        <pubDate>Sat, 06 Feb 2021 04:09:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85869-346</guid>
+        <source url="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869.rss">[FM] Quantum Mafia - Signups (17/17)</source>
+      </item>
+      <item>
+        <title>[FM] Quantum Mafia - Signups (17/17)</title>
+        <dc:creator><![CDATA[EliThePsycho]]></dc:creator>
+        <description><![CDATA[
+            <p>ETA? </p>
+          <p><a href="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/345">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/345</link>
+        <pubDate>Sat, 06 Feb 2021 03:03:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85869-345</guid>
+        <source url="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869.rss">[FM] Quantum Mafia - Signups (17/17)</source>
+      </item>
+      <item>
+        <title>[FM] Quantum Mafia - Signups (17/17)</title>
+        <dc:creator><![CDATA[ChopChop]]></dc:creator>
+        <description><![CDATA[
+            <p>Dumb</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/344">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/344</link>
+        <pubDate>Sat, 06 Feb 2021 02:49:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85869-344</guid>
+        <source url="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869.rss">[FM] Quantum Mafia - Signups (17/17)</source>
+      </item>
+      <item>
+        <title>[FM] Quantum Mafia - Signups (17/17)</title>
+        <dc:creator><![CDATA[discobot]]></dc:creator>
+        <description><![CDATA[
+            <blockquote>
+<p><img src="https://forum.throneoflies.com/images/emoji/twitter/crystal_ball.png?v=9" title=":crystal_ball:" class="emoji" alt=":crystal_ball:"> Cannot predict now</p>
+</blockquote>
+          <p><a href="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/343">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/343</link>
+        <pubDate>Sat, 06 Feb 2021 02:49:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85869-343</guid>
+        <source url="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869.rss">[FM] Quantum Mafia - Signups (17/17)</source>
+      </item>
+      <item>
+        <title>[FM] Quantum Mafia - Signups (17/17)</title>
+        <dc:creator><![CDATA[ChopChop]]></dc:creator>
+        <description><![CDATA[
+            <p>Ok let’s try this.<br>
+<a class="mention" href="/u/discobot">@discobot</a> fortune</p>
+<p>Is Eevee Bot your role model?</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/342">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/342</link>
+        <pubDate>Sat, 06 Feb 2021 02:49:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85869-342</guid>
+        <source url="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869.rss">[FM] Quantum Mafia - Signups (17/17)</source>
+      </item>
+      <item>
+        <title>[FM] Quantum Mafia - Signups (17/17)</title>
+        <dc:creator><![CDATA[discobot]]></dc:creator>
+        <description><![CDATA[
+            <blockquote>
+<p><img src="https://forum.throneoflies.com/images/emoji/twitter/crystal_ball.png?v=9" title=":crystal_ball:" class="emoji" alt=":crystal_ball:"> Reply hazy, try again</p>
+</blockquote>
+          <p><a href="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/341">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/341</link>
+        <pubDate>Sat, 06 Feb 2021 02:48:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85869-341</guid>
+        <source url="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869.rss">[FM] Quantum Mafia - Signups (17/17)</source>
+      </item>
+      <item>
+        <title>[FM] Quantum Mafia - Signups (17/17)</title>
+        <dc:creator><![CDATA[ChopChop]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/discobot">@discobot</a> fortune</p>
+<p>Do you wish to become Eevee Bot yourself?</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/340">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/340</link>
+        <pubDate>Sat, 06 Feb 2021 02:48:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85869-340</guid>
+        <source url="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869.rss">[FM] Quantum Mafia - Signups (17/17)</source>
+      </item>
+      <item>
+        <title>[FM] Quantum Mafia - Signups (17/17)</title>
+        <dc:creator><![CDATA[Zone_Q11]]></dc:creator>
+        <description><![CDATA[
+            <p>Ah… I see? Thank you.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/339">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/339</link>
+        <pubDate>Fri, 05 Feb 2021 21:44:45 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85869-339</guid>
+        <source url="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869.rss">[FM] Quantum Mafia - Signups (17/17)</source>
+      </item>
+      <item>
+        <title>[FM] Quantum Mafia - Signups (17/17)</title>
+        <dc:creator><![CDATA[SirDerpsAlot]]></dc:creator>
+        <description><![CDATA[
+            <p>No you’re my hydra smh</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/338">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/338</link>
+        <pubDate>Fri, 05 Feb 2021 21:38:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85869-338</guid>
+        <source url="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869.rss">[FM] Quantum Mafia - Signups (17/17)</source>
+      </item>
+      <item>
+        <title>[FM] Quantum Mafia - Signups (17/17)</title>
+        <dc:creator><![CDATA[Jane]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote" data-post="2415" data-topic="78152">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="20" height="20" src="/user_avatar/forum.throneoflies.com/eevee_bot/40/9410_2.png" class="avatar">
+    <a href="https://forum.throneoflies.com/t/fm-lord-of-the-rings-forum-mafia-7-25-completed-mafia-wins/78152/2415">[FM] Lord of the Rings Forum Mafia - (7/25) - Completed - Mafia Wins!</a> <a class="badge-wrapper  bullet" href="/c/forum-matches/fol-completed/19"><span class="badge-category-parent-bg" style="background-color: #BF1E2E;"></span><span class="badge-category-bg" style="background-color: #BF1E2E;"></span><span style="" data-drop-close="true" class="badge-category clear-badge">Completed</span></a>
+  </div>
+  <blockquote>
+    Voted
+Voters
+Number
+
+
+
+
+The Shire
+Icibalus (#30), H_Hja (#81), Solic (#466), DatBird (#1066), Alice (#1570), Vulgard (#1598), MaximusPrime (#1720), Firekitten (#1759), astand (#1808), Andrej (#1845), Kai_5 (#2027), Magnus (#2287), Alice (#2288), Marshal (#2292), Hippolytus (#2299), Simon (#2366)
+16
+
+
+
+The Shire has been lynched.
+They were:
+  </blockquote>
+</aside>
+
+          <p><a href="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/337">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/337</link>
+        <pubDate>Fri, 05 Feb 2021 21:37:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85869-337</guid>
+        <source url="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869.rss">[FM] Quantum Mafia - Signups (17/17)</source>
+      </item>
+      <item>
+        <title>[FM] Quantum Mafia - Signups (17/17)</title>
+        <dc:creator><![CDATA[Zone_Q11]]></dc:creator>
+        <description><![CDATA[
+            <p>Who’s Shire? I don’t get the reference.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/336">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/336</link>
+        <pubDate>Fri, 05 Feb 2021 21:30:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85869-336</guid>
+        <source url="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869.rss">[FM] Quantum Mafia - Signups (17/17)</source>
+      </item>
+      <item>
+        <title>[FM] Quantum Mafia - Signups (17/17)</title>
+        <dc:creator><![CDATA[thepigeonnyc]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>/vote The Shire</strong></p>
+          <p><a href="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/335">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/335</link>
+        <pubDate>Fri, 05 Feb 2021 21:28:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85869-335</guid>
+        <source url="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869.rss">[FM] Quantum Mafia - Signups (17/17)</source>
+      </item>
+      <item>
+        <title>[FM] Quantum Mafia - Signups (17/17)</title>
+        <dc:creator><![CDATA[eevee]]></dc:creator>
+        <description><![CDATA[
+            <p>Seriously tho, setting stuff up.</p>
+<p>Also previous encrypted file was broken, so all 6000 setups were randed again.<br>
+I don’t think it matters, but like… be informed, in case you managed to break encryption.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/334">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/334</link>
+        <pubDate>Fri, 05 Feb 2021 21:27:28 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85869-334</guid>
+        <source url="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869.rss">[FM] Quantum Mafia - Signups (17/17)</source>
+      </item>
+      <item>
+        <title>[FM] Quantum Mafia - Signups (17/17)</title>
+        <dc:creator><![CDATA[eevee_bot]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="thepigeonnyc" data-post="328" data-topic="85869">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/thepigeonnyc/40/32596_2.png" class="avatar"> thepigeonnyc:</div>
+<blockquote>
+<p>/vote <a class="mention" href="/u/eevee_bot">@eevee_bot</a></p>
+</blockquote>
+</aside>
+<p><strong>/vote <a class="mention" href="/u/thepigeonnyc">@thepigeonnyc</a></strong></p>
+<p>OMGUS</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/333">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/333</link>
+        <pubDate>Fri, 05 Feb 2021 21:26:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85869-333</guid>
+        <source url="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869.rss">[FM] Quantum Mafia - Signups (17/17)</source>
+      </item>
+      <item>
+        <title>[FM] Quantum Mafia - Signups (17/17)</title>
+        <dc:creator><![CDATA[eevee]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>/backup</strong></p>
+          <p><a href="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/332">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/332</link>
+        <pubDate>Fri, 05 Feb 2021 21:24:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85869-332</guid>
+        <source url="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869.rss">[FM] Quantum Mafia - Signups (17/17)</source>
+      </item>
+      <item>
+        <title>[FM] Quantum Mafia - Signups (17/17)</title>
+        <dc:creator><![CDATA[Marluxion]]></dc:creator>
+        <description><![CDATA[
+            <p>I have so many bad timeline related one liners ready for this game</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/331">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/331</link>
+        <pubDate>Fri, 05 Feb 2021 21:13:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85869-331</guid>
+        <source url="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869.rss">[FM] Quantum Mafia - Signups (17/17)</source>
+      </item>
+      <item>
+        <title>[FM] Quantum Mafia - Signups (17/17)</title>
+        <dc:creator><![CDATA[discobot]]></dc:creator>
+        <description><![CDATA[
+            <blockquote>
+<p><img src="https://forum.throneoflies.com/images/emoji/twitter/crystal_ball.png?v=9" title=":crystal_ball:" class="emoji" alt=":crystal_ball:"> Cannot predict now</p>
+</blockquote>
+          <p><a href="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/330">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/330</link>
+        <pubDate>Fri, 05 Feb 2021 20:44:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85869-330</guid>
+        <source url="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869.rss">[FM] Quantum Mafia - Signups (17/17)</source>
+      </item>
+      <item>
+        <title>[FM] Quantum Mafia - Signups (17/17)</title>
+        <dc:creator><![CDATA[thepigeonnyc]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/discobot">@Discobot</a> fortune</p>
+<p>Is eevee bot your role model</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/329">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/329</link>
+        <pubDate>Fri, 05 Feb 2021 20:44:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85869-329</guid>
+        <source url="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869.rss">[FM] Quantum Mafia - Signups (17/17)</source>
+      </item>
+      <item>
+        <title>[FM] Quantum Mafia - Signups (17/17)</title>
+        <dc:creator><![CDATA[thepigeonnyc]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>/vote <a class="mention" href="/u/eevee_bot">@eevee_bot</a></strong></p>
+<p>I want to know if eevee bot is about to respond.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/328">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/328</link>
+        <pubDate>Fri, 05 Feb 2021 20:44:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85869-328</guid>
+        <source url="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869.rss">[FM] Quantum Mafia - Signups (17/17)</source>
+      </item>
+      <item>
+        <title>[FM] Quantum Mafia - Signups (17/17)</title>
+        <dc:creator><![CDATA[Chloe]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>/backup</strong></p>
+          <p><a href="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/327">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869/327</link>
+        <pubDate>Fri, 05 Feb 2021 20:37:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85869-327</guid>
+        <source url="https://forum.throneoflies.com/t/fm-quantum-mafia-signups-17-17/85869.rss">[FM] Quantum Mafia - Signups (17/17)</source>
+      </item>
+  </channel>
+</rss>

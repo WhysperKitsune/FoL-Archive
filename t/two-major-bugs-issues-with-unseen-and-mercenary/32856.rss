@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Two Major Bugs - Issues with Unseen and Mercenary</title>
+    <link>https://forum.throneoflies.com/t/two-major-bugs-issues-with-unseen-and-mercenary/32856</link>
+    <description>#### What happened?
+
+There were two major bugs in a game I just played (username: TinyDeer). I was unable to take screenshots but will describe them in detail.
+
+1. I was playing as Mercenary. Around night 5 I received a prompt at the end of the night that player 10 was converted to the Unseen. Discussing afterward, we had no answer to this major issue.
+
+2. After the game ended, when I asked Unseen players why I saw that, the Mastermind said that he had tried to convert me a previous night but it had &quot;bugged out&quot;. Also, Unseen said that I appeared to them as Unseen the entire game even though I was Mercenary. They said &quot;your name was purple&quot;.
+
+#### What was SUPPOSED to happen?
+
+1. I should under no circumstances have seen as a Mercenary (not Sheriff, not Unseen) that another player was converted.
+
+2. My role should not have appeared next to my name for Unseen players, and I should not have appeared to have been a part of their faction.
+
+#### Steps to reproduce:
+
+I don&#39;t know how we would reproduce this issue. Perhaps take a look at the coding regarding how Unseen see Mercenaries to see if there is some small loophole somewhere. If it helps, I was player number 1.
+
+#### Comments:
+
+I&#39;m sorry I can&#39;t provide screenshots. I could only see issue 1 - issue 2 was told to me by the Unseen after the game ended.</description>
+    
+    <lastBuildDate>Thu, 28 Dec 2017 23:04:28 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forum.throneoflies.com/t/two-major-bugs-issues-with-unseen-and-mercenary/32856.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Two Major Bugs - Issues with Unseen and Mercenary</title>
+        <dc:creator><![CDATA[TinyDeer]]></dc:creator>
+        <description><![CDATA[
+            <h4>What happened?</h4>
+<p>There were two major bugs in a game I just played (username: TinyDeer). I was unable to take screenshots but will describe them in detail.</p>
+<ol>
+<li>
+<p>I was playing as Mercenary. Around night 5 I received a prompt at the end of the night that player 10 was converted to the Unseen. Discussing afterward, we had no answer to this major issue.</p>
+</li>
+<li>
+<p>After the game ended, when I asked Unseen players why I saw that, the Mastermind said that he had tried to convert me a previous night but it had “bugged out”. Also, Unseen said that I appeared to them as Unseen the entire game even though I was Mercenary. They said “your name was purple”.</p>
+</li>
+</ol>
+<h4>What was SUPPOSED to happen?</h4>
+<ol>
+<li>
+<p>I should under no circumstances have seen as a Mercenary (not Sheriff, not Unseen) that another player was converted.</p>
+</li>
+<li>
+<p>My role should not have appeared next to my name for Unseen players, and I should not have appeared to have been a part of their faction.</p>
+</li>
+</ol>
+<h4>Steps to reproduce:</h4>
+<p>I don’t know how we would reproduce this issue. Perhaps take a look at the coding regarding how Unseen see Mercenaries to see if there is some small loophole somewhere. If it helps, I was player number 1.</p>
+<h4>Comments:</h4>
+<p>I’m sorry I can’t provide screenshots. I could only see issue 1 - issue 2 was told to me by the Unseen after the game ended.</p>
+          <p><a href="https://forum.throneoflies.com/t/two-major-bugs-issues-with-unseen-and-mercenary/32856/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/two-major-bugs-issues-with-unseen-and-mercenary/32856/1</link>
+        <pubDate>Thu, 28 Dec 2017 23:04:28 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-32856-1</guid>
+        <source url="https://forum.throneoflies.com/t/two-major-bugs-issues-with-unseen-and-mercenary/32856.rss">Two Major Bugs - Issues with Unseen and Mercenary</source>
+      </item>
+  </channel>
+</rss>

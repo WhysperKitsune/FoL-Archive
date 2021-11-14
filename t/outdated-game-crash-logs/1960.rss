@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[Outdated] Game crash + logs</title>
+    <link>https://forum.throneoflies.com/t/outdated-game-crash-logs/1960</link>
+    <description>####What happened?
+Running the game on fastest settings in windowed mode, having the resolution at the setting below 1080p and trying to full screen results in an instant game crash
+####Comments:
+Logs:
+Version=1
+EventType=APPCRASH
+EventTime=131416045072242177
+ReportType=2
+Consent=1
+UploadTime=131416045076905621
+ReportIdentifier=996d4345-4e25-11e7-83da-342387f37d6f
+IntegratorReportIdentifier=24ed8273-68e6-439a-8647-63856bf4139a
+NsAppName=ThroneOfLies.exe
+AppSessionGuid=00003d08-0006-0037-c935-616327e2d201
+TargetAppId=W:0006d750f38a5a7c08a4a27375cd698d6efa00000904!0000e4c01aa019fbfc2157908331e2608806c94eea35!ThroneOfLies.exe
+TargetAppVer=2017//05//14:22:09:46!0!ThroneOfLies.exe
+BootId=4294967295
+Response.BucketId=0d533d215af674bd337bb540e42fe234
+Response.BucketTable=4
+Response.LegacyBucketId=120764552613
+Response.type=4
+Sig[0].Name=Application Name
+Sig[0].Value=ThroneOfLies.exe
+Sig[1].Name=Application Version
+Sig[1].Value=5.6.1.49652
+Sig[2].Name=Application Timestamp
+Sig[2].Value=5918d5aa
+Sig[3].Name=Fault Module Name
+Sig[3].Value=ThroneOfLies.exe
+Sig[4].Name=Fault Module Version
+Sig[4].Value=5.6.1.49652
+Sig[5].Name=Fault Module Timestamp
+Sig[5].Value=5918d5aa
+Sig[6].Name=Exception Code
+Sig[6].Value=c0000005
+Sig[7].Name=Exception Offset
+Sig[7].Value=00000000010af164
+DynamicSig[1].Name=OS Version
+DynamicSig[1].Value=10.0.14393.2.0.0.768.101
+DynamicSig[2].Name=Locale ID
+DynamicSig[2].Value=2057
+DynamicSig[22].Name=Additional Information 1
+DynamicSig[22].Value=1f40
+DynamicSig[23].Name=Additional Information 2
+DynamicSig[23].Value=1f40a910485188d4ca49c57e45357cbe
+DynamicSig[24].Name=Additional Information 3
+DynamicSig[24].Value=a111
+DynamicSig[25].Name=Additional Information 4
+DynamicSig[25].Value=a1112d87f7bf071807d429045f3f9a74
+UI[2]=C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies.exe
+UI[3]=ThroneOfLies.exe has stopped working
+UI[4]=Windows can check online for a solution to the problem.
+UI[5]=Check online for a solution and close the program
+UI[6]=Check online for a solution later and close the program
+UI[7]=Close the program
+LoadedModule[0]=C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies.exe
+LoadedModule[1]=C:\WINDOWS\SYSTEM32\ntdll.dll
+LoadedModule[2]=C:\WINDOWS\System32\KERNEL32.DLL
+LoadedModule[3]=C:\WINDOWS\System32\KERNELBASE.dll
+LoadedModule[4]=C:\WINDOWS\System32\USER32.dll
+LoadedModule[5]=C:\WINDOWS\SYSTEM32\HID.DLL
+LoadedModule[6]=C:\WINDOWS\System32\win32u.dll
+LoadedModule[7]=C:\WINDOWS\System32\GDI32.dll
+LoadedModule[8]=C:\WINDOWS\System32\gdi32full.dll
+LoadedModule[9]=C:\WINDOWS\System32\msvcrt.dll
+LoadedModule[10]=C:\WINDOWS\System32\ole32.dll
+LoadedModule[11]=C:\WINDOWS\System32\combase.dll
+LoadedModule[12]=C:\WINDOWS\System32\ucrtbase.dll
+LoadedModule[13]=C:\WINDOWS\System32\RPCRT4.dll
+LoadedModule[14]=C:\WINDOWS\SYSTEM32\VERSION.dll
+LoadedModule[15]=C:\WINDOWS\System32\bcryptPrimitives.dll
+LoadedModule[16]=C:\WINDOWS\System32\sechost.dll
+LoadedModule[17]=C:\WINDOWS\System32\SHLWAPI.dll
+LoadedModule[18]=C:\WINDOWS\System32\ADVAPI32.dll
+LoadedModule[19]=C:\WINDOWS\System32\SHELL32.dll
+LoadedModule[20]=C:\WINDOWS\System32\cfgmgr32.dll
+LoadedModule[21]=C:\WINDOWS\System32\windows.storage.dll
+LoadedModule[22]=C:\WINDOWS\System32\powrprof.dll
+LoadedModule[23]=C:\WINDOWS\System32\kernel.appcore.dll
+LoadedModule[24]=C:\WINDOWS\System32\shcore.dll
+LoadedModule[25]=C:\WINDOWS\System32\profapi.dll
+LoadedModule[26]=C:\WINDOWS\System32\WS2_32.dll
+LoadedModule[27]=C:\WINDOWS\SYSTEM32\OPENGL32.dll
+LoadedModule[28]=C:\WINDOWS\System32\OLEAUT32.dll
+LoadedModule[29]=C:\WINDOWS\System32\msvcp_win.dll
+LoadedModule[30]=C:\WINDOWS\SYSTEM32\WINMM.dll
+LoadedModule[31]=C:\WINDOWS\System32\IMM32.dll
+LoadedModule[32]=C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+LoadedModule[33]=C:\WINDOWS\SYSTEM32\DNSAPI.dll
+LoadedModule[34]=C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+LoadedModule[35]=C:\WINDOWS\SYSTEM32\WINHTTP.dll
+LoadedModule[36]=C:\WINDOWS\System32\NSI.dll
+LoadedModule[37]=C:\WINDOWS\SYSTEM32\GLU32.dll
+LoadedModule[38]=C:\WINDOWS\SYSTEM32\DDRAW.dll
+LoadedModule[39]=C:\WINDOWS\SYSTEM32\DCIMAN32.dll
+LoadedModule[40]=C:\Program Files (x86)\Steam\gameoverlayrenderer64.dll
+LoadedModule[41]=C:\WINDOWS\System32\PSAPI.DLL
+LoadedModule[42]=C:\WINDOWS\system32\uxtheme.dll
+LoadedModule[43]=C:\WINDOWS\SYSTEM32\MSWSOCK.dll
+LoadedModule[44]=C:\WINDOWS\System32\MSCTF.dll
+LoadedModule[45]=C:\WINDOWS\system32\dwmapi.dll
+LoadedModule[46]=C:\WINDOWS\SYSTEM32\dxgi.dll
+LoadedModule[47]=C:\WINDOWS\System32\DriverStore\FileRepository\nvlti.inf_amd64_ed616d55e0bead92\nvldumdx.dll
+LoadedModule[48]=C:\WINDOWS\System32\crypt32.dll
+LoadedModule[49]=C:\WINDOWS\System32\MSASN1.dll
+LoadedModule[50]=C:\WINDOWS\SYSTEM32\CRYPTSP.dll
+LoadedModule[51]=C:\WINDOWS\system32\rsaenh.dll
+LoadedModule[52]=C:\WINDOWS\SYSTEM32\bcrypt.dll
+LoadedModule[53]=C:\WINDOWS\SYSTEM32\CRYPTBASE.dll
+LoadedModule[54]=C:\WINDOWS\System32\DriverStore\FileRepository\nvlti.inf_amd64_ed616d55e0bead92\nvwgf2umx.dll
+LoadedModule[55]=C:\WINDOWS\system32\nvspcap64.dll
+LoadedModule[56]=C:\WINDOWS\System32\SETUPAPI.dll
+LoadedModule[57]=C:\WINDOWS\SYSTEM32\WTSAPI32.dll
+LoadedModule[58]=C:\WINDOWS\system32\nvapi64.dll
+LoadedModule[59]=C:\WINDOWS\System32\clbcatq.dll
+LoadedModule[60]=C:\WINDOWS\system32\wbem\wbemprox.dll
+LoadedModule[61]=C:\WINDOWS\SYSTEM32\wbemcomn.dll
+LoadedModule[62]=C:\WINDOWS\system32\wbem\wbemsvc.dll
+LoadedModule[63]=C:\WINDOWS\system32\wbem\fastprox.dll
+LoadedModule[64]=C:\WINDOWS\System32\MMDevApi.dll
+LoadedModule[65]=C:\WINDOWS\System32\DEVOBJ.dll
+LoadedModule[66]=C:\WINDOWS\System32\PROPSYS.dll
+LoadedModule[67]=C:\WINDOWS\SYSTEM32\wdmaud.drv
+LoadedModule[68]=C:\WINDOWS\SYSTEM32\AVRT.dll
+LoadedModule[69]=C:\WINDOWS\SYSTEM32\ksuser.dll
+LoadedModule[70]=C:\WINDOWS\SYSTEM32\AUDIOSES.DLL
+LoadedModule[71]=C:\WINDOWS\SYSTEM32\wintypes.dll
+LoadedModule[72]=C:\WINDOWS\SYSTEM32\msacm32.drv
+LoadedModule[73]=C:\WINDOWS\SYSTEM32\MSACM32.dll
+LoadedModule[74]=C:\WINDOWS\SYSTEM32\midimap.dll
+LoadedModule[75]=C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.14393.953_none_42151e83c686086b\comctl32.dll
+LoadedModule[76]=C:\WINDOWS\SYSTEM32\dcomp.dll
+LoadedModule[77]=C:\WINDOWS\SYSTEM32\dhcpcsvc6.DLL
+LoadedModule[78]=C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL
+LoadedModule[79]=C:\Windows\System32\rasadhlp.dll
+LoadedModule[80]=C:\WINDOWS\System32\fwpuclnt.dll
+LoadedModule[81]=C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Plugins\CSteamworks.dll
+LoadedModule[82]=C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\steam_api64.dll
+LoadedModule[83]=C:\WINDOWS\SYSTEM32\d3d11.dll
+State[0].Key=Transport.DoneStage1
+State[0].Value=1
+FriendlyEventName=Stopped working
+ConsentKey=APPCRASH
+AppName=ThroneOfLies.exe
+AppPath=C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies.exe
+NsPartner=windows
+NsGroup=windows8
+ApplicationIdentity=D40385C963026FEE71FA2CCBD1EEF819
+MetadataHash=1721769378</description>
+    
+    <lastBuildDate>Mon, 12 Jun 2017 20:49:35 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forum.throneoflies.com/t/outdated-game-crash-logs/1960.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[Outdated] Game crash + logs</title>
+        <dc:creator><![CDATA[ThePlex]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href="https://forum.throneoflies.com/t/outdated-game-crash-logs/1960/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-game-crash-logs/1960/5</link>
+        <pubDate>Thu, 31 Aug 2017 02:32:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-1960-5</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-game-crash-logs/1960.rss">[Outdated] Game crash + logs</source>
+      </item>
+      <item>
+        <title>[Outdated] Game crash + logs</title>
+        <dc:creator><![CDATA[Ami]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh lol.</p>
+          <p><a href="https://forum.throneoflies.com/t/outdated-game-crash-logs/1960/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-game-crash-logs/1960/4</link>
+        <pubDate>Mon, 12 Jun 2017 20:49:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-1960-4</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-game-crash-logs/1960.rss">[Outdated] Game crash + logs</source>
+      </item>
+      <item>
+        <title>[Outdated] Game crash + logs</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>No need <a class="mention" href="/u/ami">@Ami</a> , our bot will automatically do it. posting here is actually preferred</p>
+<p><img src="/uploads/default/original/2X/0/0a7c15a20ecbc1e4048ade5fbeb43bc7da38a3fc.png" width="609" height="261"></p>
+          <p><a href="https://forum.throneoflies.com/t/outdated-game-crash-logs/1960/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-game-crash-logs/1960/3</link>
+        <pubDate>Mon, 12 Jun 2017 01:51:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-1960-3</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-game-crash-logs/1960.rss">[Outdated] Game crash + logs</source>
+      </item>
+      <item>
+        <title>[Outdated] Game crash + logs</title>
+        <dc:creator><![CDATA[Ami]]></dc:creator>
+        <description><![CDATA[
+            <p>Post the logs in <span class="hashtag">#Bugs_Don</span>’t_Ping in discord</p>
+          <p><a href="https://forum.throneoflies.com/t/outdated-game-crash-logs/1960/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-game-crash-logs/1960/2</link>
+        <pubDate>Sun, 11 Jun 2017 22:51:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-1960-2</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-game-crash-logs/1960.rss">[Outdated] Game crash + logs</source>
+      </item>
+      <item>
+        <title>[Outdated] Game crash + logs</title>
+        <dc:creator><![CDATA[Neclord]]></dc:creator>
+        <description><![CDATA[
+            <p>###<span class="hashtag">#What</span> happened?<br>
+Running the game on fastest settings in windowed mode, having the resolution at the setting below 1080p and trying to full screen results in an instant game crash<br>
+###<span class="hashtag">#Comments:</span><br>
+Logs:<br>
+Version=1<br>
+EventType=APPCRASH<br>
+EventTime=131416045072242177<br>
+ReportType=2<br>
+Consent=1<br>
+UploadTime=131416045076905621<br>
+ReportIdentifier=996d4345-4e25-11e7-83da-342387f37d6f<br>
+IntegratorReportIdentifier=24ed8273-68e6-439a-8647-63856bf4139a<br>
+NsAppName=ThroneOfLies.exe<br>
+AppSessionGuid=00003d08-0006-0037-c935-616327e2d201<br>
+TargetAppId=W:0006d750f38a5a7c08a4a27375cd698d6efa00000904!0000e4c01aa019fbfc2157908331e2608806c94eea35!ThroneOfLies.exe<br>
+TargetAppVer=2017//05//14:22:09:46!0!ThroneOfLies.exe<br>
+BootId=4294967295<br>
+Response.BucketId=0d533d215af674bd337bb540e42fe234<br>
+Response.BucketTable=4<br>
+Response.LegacyBucketId=120764552613<br>
+Response.type=4<br>
+Sig[0].Name=Application Name<br>
+Sig[0].Value=ThroneOfLies.exe<br>
+Sig[1].Name=Application Version<br>
+Sig[1].Value=5.6.1.49652<br>
+Sig[2].Name=Application Timestamp<br>
+Sig[2].Value=5918d5aa<br>
+Sig[3].Name=Fault Module Name<br>
+Sig[3].Value=ThroneOfLies.exe<br>
+Sig[4].Name=Fault Module Version<br>
+Sig[4].Value=5.6.1.49652<br>
+Sig[5].Name=Fault Module Timestamp<br>
+Sig[5].Value=5918d5aa<br>
+Sig[6].Name=Exception Code<br>
+Sig[6].Value=c0000005<br>
+Sig[7].Name=Exception Offset<br>
+Sig[7].Value=00000000010af164<br>
+DynamicSig[1].Name=OS Version<br>
+DynamicSig[1].Value=10.0.14393.2.0.0.768.101<br>
+DynamicSig[2].Name=Locale ID<br>
+DynamicSig[2].Value=2057<br>
+DynamicSig[22].Name=Additional Information 1<br>
+DynamicSig[22].Value=1f40<br>
+DynamicSig[23].Name=Additional Information 2<br>
+DynamicSig[23].Value=1f40a910485188d4ca49c57e45357cbe<br>
+DynamicSig[24].Name=Additional Information 3<br>
+DynamicSig[24].Value=a111<br>
+DynamicSig[25].Name=Additional Information 4<br>
+DynamicSig[25].Value=a1112d87f7bf071807d429045f3f9a74<br>
+UI[2]=C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies.exe<br>
+UI[3]=ThroneOfLies.exe has stopped working<br>
+UI[4]=Windows can check online for a solution to the problem.<br>
+UI[5]=Check online for a solution and close the program<br>
+UI[6]=Check online for a solution later and close the program<br>
+UI[7]=Close the program<br>
+LoadedModule[0]=C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies.exe<br>
+LoadedModule[1]=C:\WINDOWS\SYSTEM32\ntdll.dll<br>
+LoadedModule[2]=C:\WINDOWS\System32\KERNEL32.DLL<br>
+LoadedModule[3]=C:\WINDOWS\System32\KERNELBASE.dll<br>
+LoadedModule[4]=C:\WINDOWS\System32\USER32.dll<br>
+LoadedModule[5]=C:\WINDOWS\SYSTEM32\HID.DLL<br>
+LoadedModule[6]=C:\WINDOWS\System32\win32u.dll<br>
+LoadedModule[7]=C:\WINDOWS\System32\GDI32.dll<br>
+LoadedModule[8]=C:\WINDOWS\System32\gdi32full.dll<br>
+LoadedModule[9]=C:\WINDOWS\System32\msvcrt.dll<br>
+LoadedModule[10]=C:\WINDOWS\System32\ole32.dll<br>
+LoadedModule[11]=C:\WINDOWS\System32\combase.dll<br>
+LoadedModule[12]=C:\WINDOWS\System32\ucrtbase.dll<br>
+LoadedModule[13]=C:\WINDOWS\System32\RPCRT4.dll<br>
+LoadedModule[14]=C:\WINDOWS\SYSTEM32\VERSION.dll<br>
+LoadedModule[15]=C:\WINDOWS\System32\bcryptPrimitives.dll<br>
+LoadedModule[16]=C:\WINDOWS\System32\sechost.dll<br>
+LoadedModule[17]=C:\WINDOWS\System32\SHLWAPI.dll<br>
+LoadedModule[18]=C:\WINDOWS\System32\ADVAPI32.dll<br>
+LoadedModule[19]=C:\WINDOWS\System32\SHELL32.dll<br>
+LoadedModule[20]=C:\WINDOWS\System32\cfgmgr32.dll<br>
+LoadedModule[21]=C:\WINDOWS\System32\windows.storage.dll<br>
+LoadedModule[22]=C:\WINDOWS\System32\powrprof.dll<br>
+LoadedModule[23]=C:\WINDOWS\System32\kernel.appcore.dll<br>
+LoadedModule[24]=C:\WINDOWS\System32\shcore.dll<br>
+LoadedModule[25]=C:\WINDOWS\System32\profapi.dll<br>
+LoadedModule[26]=C:\WINDOWS\System32\WS2_32.dll<br>
+LoadedModule[27]=C:\WINDOWS\SYSTEM32\OPENGL32.dll<br>
+LoadedModule[28]=C:\WINDOWS\System32\OLEAUT32.dll<br>
+LoadedModule[29]=C:\WINDOWS\System32\msvcp_win.dll<br>
+LoadedModule[30]=C:\WINDOWS\SYSTEM32\WINMM.dll<br>
+LoadedModule[31]=C:\WINDOWS\System32\IMM32.dll<br>
+LoadedModule[32]=C:\WINDOWS\SYSTEM32\WINMMBASE.dll<br>
+LoadedModule[33]=C:\WINDOWS\SYSTEM32\DNSAPI.dll<br>
+LoadedModule[34]=C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL<br>
+LoadedModule[35]=C:\WINDOWS\SYSTEM32\WINHTTP.dll<br>
+LoadedModule[36]=C:\WINDOWS\System32\NSI.dll<br>
+LoadedModule[37]=C:\WINDOWS\SYSTEM32\GLU32.dll<br>
+LoadedModule[38]=C:\WINDOWS\SYSTEM32\DDRAW.dll<br>
+LoadedModule[39]=C:\WINDOWS\SYSTEM32\DCIMAN32.dll<br>
+LoadedModule[40]=C:\Program Files (x86)\Steam\gameoverlayrenderer64.dll<br>
+LoadedModule[41]=C:\WINDOWS\System32\PSAPI.DLL<br>
+LoadedModule[42]=C:\WINDOWS\system32\uxtheme.dll<br>
+LoadedModule[43]=C:\WINDOWS\SYSTEM32\MSWSOCK.dll<br>
+LoadedModule[44]=C:\WINDOWS\System32\MSCTF.dll<br>
+LoadedModule[45]=C:\WINDOWS\system32\dwmapi.dll<br>
+LoadedModule[46]=C:\WINDOWS\SYSTEM32\dxgi.dll<br>
+LoadedModule[47]=C:\WINDOWS\System32\DriverStore\FileRepository\nvlti.inf_amd64_ed616d55e0bead92\nvldumdx.dll<br>
+LoadedModule[48]=C:\WINDOWS\System32\crypt32.dll<br>
+LoadedModule[49]=C:\WINDOWS\System32\MSASN1.dll<br>
+LoadedModule[50]=C:\WINDOWS\SYSTEM32\CRYPTSP.dll<br>
+LoadedModule[51]=C:\WINDOWS\system32\rsaenh.dll<br>
+LoadedModule[52]=C:\WINDOWS\SYSTEM32\bcrypt.dll<br>
+LoadedModule[53]=C:\WINDOWS\SYSTEM32\CRYPTBASE.dll<br>
+LoadedModule[54]=C:\WINDOWS\System32\DriverStore\FileRepository\nvlti.inf_amd64_ed616d55e0bead92\nvwgf2umx.dll<br>
+LoadedModule[55]=C:\WINDOWS\system32\nvspcap64.dll<br>
+LoadedModule[56]=C:\WINDOWS\System32\SETUPAPI.dll<br>
+LoadedModule[57]=C:\WINDOWS\SYSTEM32\WTSAPI32.dll<br>
+LoadedModule[58]=C:\WINDOWS\system32\nvapi64.dll<br>
+LoadedModule[59]=C:\WINDOWS\System32\clbcatq.dll<br>
+LoadedModule[60]=C:\WINDOWS\system32\wbem\wbemprox.dll<br>
+LoadedModule[61]=C:\WINDOWS\SYSTEM32\wbemcomn.dll<br>
+LoadedModule[62]=C:\WINDOWS\system32\wbem\wbemsvc.dll<br>
+LoadedModule[63]=C:\WINDOWS\system32\wbem\fastprox.dll<br>
+LoadedModule[64]=C:\WINDOWS\System32\MMDevApi.dll<br>
+LoadedModule[65]=C:\WINDOWS\System32\DEVOBJ.dll<br>
+LoadedModule[66]=C:\WINDOWS\System32\PROPSYS.dll<br>
+LoadedModule[67]=C:\WINDOWS\SYSTEM32\wdmaud.drv<br>
+LoadedModule[68]=C:\WINDOWS\SYSTEM32\AVRT.dll<br>
+LoadedModule[69]=C:\WINDOWS\SYSTEM32\ksuser.dll<br>
+LoadedModule[70]=C:\WINDOWS\SYSTEM32\AUDIOSES.DLL<br>
+LoadedModule[71]=C:\WINDOWS\SYSTEM32\wintypes.dll<br>
+LoadedModule[72]=C:\WINDOWS\SYSTEM32\msacm32.drv<br>
+LoadedModule[73]=C:\WINDOWS\SYSTEM32\MSACM32.dll<br>
+LoadedModule[74]=C:\WINDOWS\SYSTEM32\midimap.dll<br>
+LoadedModule[75]=C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.14393.953_none_42151e83c686086b\comctl32.dll<br>
+LoadedModule[76]=C:\WINDOWS\SYSTEM32\dcomp.dll<br>
+LoadedModule[77]=C:\WINDOWS\SYSTEM32\dhcpcsvc6.DLL<br>
+LoadedModule[78]=C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL<br>
+LoadedModule[79]=C:\Windows\System32\rasadhlp.dll<br>
+LoadedModule[80]=C:\WINDOWS\System32\fwpuclnt.dll<br>
+LoadedModule[81]=C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Plugins\CSteamworks.dll<br>
+LoadedModule[82]=C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\steam_api64.dll<br>
+LoadedModule[83]=C:\WINDOWS\SYSTEM32\d3d11.dll<br>
+State[0].Key=Transport.DoneStage1<br>
+State[0].Value=1<br>
+FriendlyEventName=Stopped working<br>
+ConsentKey=APPCRASH<br>
+AppName=ThroneOfLies.exe<br>
+AppPath=C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies.exe<br>
+NsPartner=windows<br>
+NsGroup=windows8<br>
+ApplicationIdentity=D40385C963026FEE71FA2CCBD1EEF819<br>
+MetadataHash=1721769378</p>
+          <p><a href="https://forum.throneoflies.com/t/outdated-game-crash-logs/1960/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-game-crash-logs/1960/1</link>
+        <pubDate>Sun, 11 Jun 2017 22:29:20 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-1960-1</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-game-crash-logs/1960.rss">[Outdated] Game crash + logs</source>
+      </item>
+  </channel>
+</rss>

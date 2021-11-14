@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[BUG] Occupation + Swap bug</title>
+    <link>https://forum.throneoflies.com/t/bug-occupation-swap-bug/64375</link>
+    <description>#### Was playing alchemist. I visited the target with heal and was swapped to myself. At the same time I was prevented from using ability. At the same time I was immune to occupation. All this was all at once night one.
+#### I had to be just occupied. I think?
+
+#### Steps to reproduce: We need a CW, Alch, Butler (and Merc/sellsword I think)? Alch visits CW that swaped himself with an alch. Butler occupies Alch and Merc/Sellsword guards an Alch.
+
+#### Comments: ![what|690x387](upload://ukXtAIQGCLY9HtSKAQvttBTQguD.jpg)</description>
+    
+    <lastBuildDate>Fri, 01 Jun 2018 09:44:11 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forum.throneoflies.com/t/bug-occupation-swap-bug/64375.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[BUG] Occupation + Swap bug</title>
+        <dc:creator><![CDATA[mathmods]]></dc:creator>
+        <description><![CDATA[
+            <p>This seems like the Butler and Drunk interaction, though I think this is more likely to be Sellsword considering the order.</p>
+<p>Upon being occupied, you cannot be Debbed.</p>
+<p>First thing that happened: CW swapped your target to yourself<br>
+Second: Sellsword occupied you.<br>
+Third: Drunk tried to deb you</p>
+<p>This should not be a bug I think.<br>
+(Unless ofc; the game did not have any invokers/drunks)</p>
+          <p><a href="https://forum.throneoflies.com/t/bug-occupation-swap-bug/64375/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/bug-occupation-swap-bug/64375/5</link>
+        <pubDate>Fri, 01 Jun 2018 09:44:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-64375-5</guid>
+        <source url="https://forum.throneoflies.com/t/bug-occupation-swap-bug/64375.rss">[BUG] Occupation + Swap bug</source>
+      </item>
+      <item>
+        <title>[BUG] Occupation + Swap bug</title>
+        <dc:creator><![CDATA[Htm]]></dc:creator>
+        <description><![CDATA[
+            <p>Maybe you were redirected to yourself then occupied but then somehow CW barriered? Idk tbh</p>
+          <p><a href="https://forum.throneoflies.com/t/bug-occupation-swap-bug/64375/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/bug-occupation-swap-bug/64375/4</link>
+        <pubDate>Fri, 25 May 2018 17:16:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-64375-4</guid>
+        <source url="https://forum.throneoflies.com/t/bug-occupation-swap-bug/64375.rss">[BUG] Occupation + Swap bug</source>
+      </item>
+      <item>
+        <title>[BUG] Occupation + Swap bug</title>
+        <dc:creator><![CDATA[Rikatto]]></dc:creator>
+        <description><![CDATA[
+            <p>I have thought about this as well but that was night one. Next night I was debbed and it was successfull. Finaly, night 3 I was immune as well, but a message about immunity has appeared AFTER someone tried to occupy me.</p>
+          <p><a href="https://forum.throneoflies.com/t/bug-occupation-swap-bug/64375/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/bug-occupation-swap-bug/64375/3</link>
+        <pubDate>Fri, 25 May 2018 17:14:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-64375-3</guid>
+        <source url="https://forum.throneoflies.com/t/bug-occupation-swap-bug/64375.rss">[BUG] Occupation + Swap bug</source>
+      </item>
+      <item>
+        <title>[BUG] Occupation + Swap bug</title>
+        <dc:creator><![CDATA[Htm]]></dc:creator>
+        <description><![CDATA[
+            <p>I think you were redirected to yourself then occupied then redirected one last time giving you immunity to occupation/target change/jail</p>
+          <p><a href="https://forum.throneoflies.com/t/bug-occupation-swap-bug/64375/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/bug-occupation-swap-bug/64375/2</link>
+        <pubDate>Fri, 25 May 2018 16:02:32 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-64375-2</guid>
+        <source url="https://forum.throneoflies.com/t/bug-occupation-swap-bug/64375.rss">[BUG] Occupation + Swap bug</source>
+      </item>
+      <item>
+        <title>[BUG] Occupation + Swap bug</title>
+        <dc:creator><![CDATA[Rikatto]]></dc:creator>
+        <description><![CDATA[
+            <h4>Was playing alchemist. I visited the target with heal and was swapped to myself. At the same time I was prevented from using ability. At the same time I was immune to occupation. All this was all at once night one.</h4>
+<h4>I had to be just occupied. I think?</h4>
+<h4>Steps to reproduce: We need a CW, Alch, Butler (and Merc/sellsword I think)? Alch visits CW that swaped himself with an alch. Butler occupies Alch and Merc/Sellsword guards an Alch.</h4>
+<h4>Comments: <img src="/uploads/default/original/2X/d/d49fbee578f3a9fa205c1630204b0c57851bcc9b.jpg" alt="what" data-base62-sha1="ukXtAIQGCLY9HtSKAQvttBTQguD" width="690" height="387">
+</h4>
+          <p><a href="https://forum.throneoflies.com/t/bug-occupation-swap-bug/64375/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/bug-occupation-swap-bug/64375/1</link>
+        <pubDate>Fri, 25 May 2018 14:50:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-64375-1</guid>
+        <source url="https://forum.throneoflies.com/t/bug-occupation-swap-bug/64375.rss">[BUG] Occupation + Swap bug</source>
+      </item>
+  </channel>
+</rss>

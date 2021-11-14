@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</title>
+    <link>https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619</link>
+    <description>&lt;div align=&quot;center&quot;&gt;
+
+---
+
+&lt;big&gt; :crossed_swords::crossed_swords:   **[color=purple]Ninjas[/color] and [color=red]Guns[/color]** :gun: :gun:  &lt;/big&gt;
+
+---
+&lt;/div&gt;
+
+&lt;big&gt;:crossed_swords: Rules :gun: &lt;/big&gt;
+
+ 1. All standard forum rules apply, as usual.
+2. Do not communicate about the game outside the game, and don’t angleshoot.
+3. Please be respectful to your fellow players. Keep your salt in until post-game.
+4. Don’t post in big text or otherwise pretend to be a host of this game.
+5. Have fun.
+
+&lt;big&gt; :crossed_swords: Mechanics :gun: &lt;/big&gt;
+
+  * Day Phases will last for 48 hours unless shortned by majority lynch.
+* Night phases will last for 24 hours.
+* The lynch is decided by Majority AND plurality.
+
+&lt;big&gt; :crossed_swords: Roleset :gun: &lt;/big&gt;
+
+The setup is Ninjas and Guns 17p from MafiaUniverse. Credit to Apoc for this setup.
+The game will feature [color=green]**13 Villagers**[/color] VS **[color=brown]4 Wolves[/color]**. The Wolf kill is factional and assigned.
+
+To decide the power roles, take a random row OR column from the below table to decide the power roles. In a case of OR, do a coinfip to decide which role to use. The same Wolf role cannot spawn twice (with the exception of Vanilla Wolf, obviously.)
+
+
+[details=&quot;The Matrix (Read Thoroughly)&quot;]
+
+----
+|---|A|B|C|D|E|
+|---|---|---|---|--|--|
+|**1**|[color=green]**Village Seer**[/color]|[color=brown]**Wolf Jailkeeper [u]OR[/u] Wolf Ninja JOAT**[/color]|[color=green]**Village Jailkeeper**[/color]| [color=green]**Vanilla Villager**[/color]|[color=brown]**Wolf 1-shot Vigilante**[/color]|
+|**2**|[color=green]**Vanilla Vilager**[/color]|[color=green]**Village Angel**[/color]|[color=brown]**Wolf Role Seer**[/color]|[color=brown]**Wolf 1-shot Vigilante**[/color]|  [color=green]**Village Mason (x2)**[/color]
+|**3**|[color=brown]**Wolf Ninja JOAT**[/color]|[color=green]**Village Tracker**[/color]|[color=brown]**Wolf 1-shot Vigilante**[/color]|[color=green]**Village Innocent Child**[/color]|[color=green]**Village Bodygaurd**[/color]
+|**4**|[color=green]**1-shot Bulletproof Villager**[/color]|[color=brown]**Wolf Role Seer [u]OR[/u] Wolf Jailkeeper**[/color]|[color=green]**Village Vigilante**[/color]|[color=brown]**Wolf Jailkeeper [u]OR[/u] Wolf Ninja JOAT**[/color]| [color=green]**Vanilla Villager**[/color]
+|**5**|[color=brown]**1-shot Wolf Vigilante [u]OR[/u] Wolf Role Seer**[/color]|[color=green]**Vanilla Villager**[/color]|[color=green]**Vanilla Villager**[/color]|[color=green]**Villager JOAT**[/color]|[color=brown]**Wolf Jailkeeper**[/color]
+
+Village Seer starts the game with an N0 peek on a random Villager, and learns the allignment of whoever they peek every night. (excluding Wolf JOAT)
+Wolf Role Seer starts the game with an N0 peek on a random Vanilla Villager, and learns the entire role of whoever they peek every night.
+
+Village JOAT has 2 uses of Seer, 2 uses of Vigilante and 2 uses of Jailkeeper, but must cycle through all the abilities before being able to use one again (EG: JOAT peeks someone with Seer, they must then Jailkeep and Shoot a player before they can use their second use of the Seer ability).
+
+Wolf Ninja JOAT chooses one of these three passive abilities every night.  This cannot be blocked by anyone or anything.
+- **Ninja** - Your visits will not show to anyone who Tracks you tonight.
+- **Godfather** - You will appear as a [color=green]**Villager**[/color] to any Seers who target you tonight.
+- **Bulletproof** - You cannot die tonight. After this ability has blocked a kill you will be informed and may never use this ability again.
+
+Jailkeepers and Angels cannot target the same player two nights in a row, everyone else can.
+Nobody can target themselves except for the Ninja JOAT
+
+----
+[/details]
+
+Fill the rest of the setup up with [color=green]**Vanilla Villagers**[/color] and [color=brown]**Vanilla Wolves**[/color] to reach 13v4.
+
+&lt;big&gt; :crossed_swords: Rolecards :gun: &lt;/big&gt;
+
+----
+
+[details=&quot;Village&quot;]
+&gt; # [color=green]Seer[/color]
+&gt; [color=#00BF00]**A bumbling idiot whose only redeeming quality is his ability to catch Wolves**[/color]
+&gt; 
+&gt; Right guys! What did I miss.... OH! There&#39;s my crystal ball! Oh, what a muggins I am! Wait, what&#39;s that? The wolves again? Right-y oh! Let&#39;s go then I guess, once I can find my garlic.... 
+&gt; 
+&gt; what do you mean that dosen&#39;t work on them? Oh, whatever.
+&gt; 
+&gt; You begin the game knowing that [player] is definitely a [color=green]**Villager**[/color].
+&gt; Each night you may peek a player&#39;s allingment learning if that player is a [color=brown]**Wolf**[/color] or not. This check can be made innacurate by certain [color=brown]**Wolves**[/color]
+&gt; 
+&gt; You win when all threats to the [color=green]**Village**[/color] have been eliminated.
+
+&gt; # [color=green]**Jailkeeper**[/color]
+&gt; **[color=#00BF00]A very suspicious man who is probably still human[/color]**
+&gt; 
+&gt; Okay, I need to do my bit to protect the village.... *looks at specially prepared dungeon you&#39;ve had for a while*
+&gt; This oughta stop them from being eaten.... even if they don&#39;t want it.
+&gt; 
+&gt; Each night you may jail a player. You may not jail a player two nights in a row.
+&gt; Jailed players will be occupied but will be protected from a single kill that night.
+&gt; 
+&gt; You win when all threats to the [color=green]**Village**[/color] have been eliminated.
+
+&gt; # [color=green]Angel[/color]
+&gt; [color=#00BF00]**A Busybody who loves paperwork**[/color]
+&gt; 
+&gt; Ohhhh yeah! Another round of paperwork! New guys to send to the afterlife, arranging tours around the minibar...! Wait. Ohhhh no. Not another village infested with horrifying monsters.
+&gt; 
+&gt; I hate those. Well, better stop people from dying I guess.
+&gt; 
+&gt; Each night you may protect a player, stopping a single kill on them that night.  You may not target the same player two nights in a  row.
+&gt; 
+&gt; You win when all threats to the [color=green]**Village**[/color] have been eliminated.
+
+&gt; # [color=green]Mason[/color]
+&gt; [color=#00BF00]**A pair of melodramatic accountants.**[/color]
+&gt; 
+&gt; Oh great brethren, are the wheels of fate duly spun! Have our robes of fate been doused in the sacred flame.... Then let the Elucidated Brethren Of Lupus Destructica convene.
+&gt; 
+&gt; You know from the start of the game that [player] is the other [color=green]**Mason**[/color]. You will be given a secret chat that you can talk in at all times.
+&gt; 
+&gt; You win when all threats to the [color=green]**Village**[/color] have been eliminated.
+
+&gt; # [color=green]**Tracker**[/color]
+&gt; **[color=#00BF00]An overenthusiastic hunter[/color]**
+&gt; 
+&gt; WhoooOOO-whoo! Wolves! Danger! We&#39;re in danger guys! And i&#39;m going to save you by getting circumstanial evidence! YAAAAAY!
+&gt; 
+&gt; Each night you may target a player. You will learn who they target with their abilities, if anyone.
+&gt; 
+&gt; You win when all threats to the [color=green]**Village**[/color] have been eliminated.
+
+&gt; # [color=green]Innocent Child[/color]
+&gt; [color=#00BF00]**Don&#39;t think too hard about the connotations of this**[/color]
+&gt; 
+&gt; Mommy.... I don&#39;t want to be brutally lynched by my friends... oh wait I can just reveal myself and I won&#39;t be lynched never mind!
+&gt; 
+&gt; At any time during the day you may say [color=green]**I am town**[/color] while @ing the mods. 
+&gt; I will reveal that you are an [color=green]**Innocent Child**[/color] as soon as possible.
+&gt; Note that anyone else trying to do this will be immediately modkilled. Fake IC reveals are NOT allowed.
+&gt; 
+&gt; You win when all threats to the [color=green]**Village**[/color] have been eliminated.
+
+&gt; # [color=green]Bodygaurd[/color]
+&gt; [color=#00BF00]**A very macho old man**[/color]
+&gt; 
+&gt; Well. whippersnapper wolves? Think you can take me? I thought not! Hyaaaaaaaaaa!
+&gt; oh. 
+&gt; 
+&gt; Each night you may target a player. You will sacrifice your life to save them from all kills that night.
+&gt; 
+&gt; You win when all threats to the [color=green]**Village**[/color] have been eliminated.
+
+&gt; # [color=green]1-shot Bulletproof[/color]
+&gt; [color=#00BF00]**The most badass man in existence**[/color].
+&gt; 
+&gt; ....You need your fingernails cutting.  *pushes wolf away*
+&gt; 
+&gt; You will survive the first attempt on your life at night.
+&gt; 
+&gt; You win when all threats to the [color=green]**Village**[/color] have been eliminated.
+
+&gt; # [color=green]Vigilante[/color]
+&gt; [color=#00BF00]**A very pissed off man with a shotgun and a lot of silver bullets**[/color]
+&gt; 
+&gt; RIGHT! WHO WANTS SOME? SAY HELLO TO MY LITTLE FRIEND! AHAHAHAHHAHAHAH- oh sorry dave, you&#39;re a DIRTY WOLF! *bang bang bang*
+&gt; 
+&gt; Each night you may kill a player. You will feel no remorse or guilt no matter who you shoot, but you might want to avoid shooting Villagers all willy nilly.
+&gt; 
+&gt; You win when all threats to the [color=green]**Village**[/color] have been eliminated.
+
+&gt; # [color=green]**Jack of All Trades**[/color]
+&gt; [color=#00BF00]**I lied, this guy&#39;s even more badass. He&#39;s basically a Gary Stu**[/color]
+&gt; 
+&gt; Let&#39;s go, wolves.  You killed my father. Prepare to die. I will stop at NOTHING to destroy you, no matter what I have to do.
+&gt; 
+&gt; You can use 3 different abilities at night. You have two uses of each:
+&gt; - **Peek** - Choose a player. You will learn whether they are a [color=brown]**Wolf**[/color]  at the end of the night.
+&gt; - **Shoot** - Kill a player.
+&gt; - **Jail** - Occupy and protect a player from a single kill.
+&gt; You cannot use the second shot of an ability until you have used the other two abilities.
+&gt; You may only use one ability per night.
+&gt; 
+&gt; You win when all threats to the [color=green]**Village**[/color] have been eliminated.
+
+&gt; # [color=green]Vanilla Villager[/color]
+&gt; [color=#00BF00]**the extremely boring man**[/color]
+&gt; 
+&gt; hello, i&#39;m a very boring role. this is a commentary on something but I&#39;m not sure what
+&gt; oh well, time to catch some wolves I guess
+&gt; 
+&gt; You have no abilities except your voice and your vote. Good luck out there.
+&gt; 
+&gt; You win when all threats to the [color=green]**Village**[/color] have been eliminated.
+[/details]
+ ----
+
+
+[details=&quot;Wolves&quot;]
+&gt; # [color=brown]Jailkeeper[/color]
+&gt; [color=red]**An evil man who is actually a monster as well as being evil**[/color]
+&gt; 
+&gt; Hum dee dum.... how are you enjoyiing my accomodation? Oohhh don&#39;t mind the sautee....
+&gt; It&#39;s just a bit of preparation. Now sleeep....
+&gt; 
+&gt; 
+&gt; Each night you may jail a player. You may not jail a player two nights in a row.
+&gt; Jailed players will be occupied but will be protected from a single kill that night.
+&gt; 
+&gt;You win when the [color=brown]**Wolves**[/color] have equal numbers to the [color=green]**Village**[/color] or if nothing can prevent this from happening.
+
+&gt; # [color=brown]Ninja JOAT[/color]
+&gt; [color=red]**One sneaky boi**[/color]
+&gt; 
+&gt; *scuttle scuttle* it appears you want to know where I am and want to kill me
+&gt; don&#39;t do that.
+&gt; 
+&gt; Each night you may choose to have one of these three passive effects:
+&gt; * **Ninja**  - Your visits will not show to anyone who Tracks you tonight.
+&gt; * **Godfather**  - You will appear as a  **[color=green]Villager[/color]**  to any Seers who target you tonight.
+&gt; * **Bulletproof**  - You cannot die tonight. After this ability has blocked a kill you will be informed and may never use this ability again.
+&gt; Activating one of these passives is unblockable and untracable, and you may do any other action in addition to activating one.
+&gt; 
+&gt; You win when the [color=brown]**Wolves**[/color] have equal numbers to the [color=green]**Village**[/color] or if nothing can prevent this from happening.
+
+&gt; # [color=brown]1-shot Vigilante[/color]
+&gt; [color=red]**basically gluttony from Fullmetal Alchemist**[/color]
+&gt; 
+&gt; Ooohh... can I eat it? Not with you guys, obviously, but can I? Can I? CAN i?
+&gt; 
+&gt; Once per game you may kill a player separate to the factional kill.
+&gt; 
+&gt; You win when the [color=brown]**Wolves**[/color] have equal numbers to the [color=green]**Village**[/color] or if nothing can prevent this from happening.
+
+&gt; # [color=brown]Role Seer[/color]
+&gt; [color=red]**A pervert as well as a monster**[/color]
+&gt; 
+&gt; Now let&#39;s see what HE does when we aren&#39;t looking.... oh, he only searches for wolves. How boring. MOVING ON!
+&gt; 
+&gt; You start the game knowing that [player] is a [color=green]**Vanilla Villager**[/color]
+&gt; Each night you may peek a player, learning their full role.
+&gt; 
+&gt; You win when the [color=brown]**Wolves**[/color] have equal numbers to the [color=green]**Village**[/color] or if nothing can prevent this from happening.
+
+&gt; # [color=brown]Vanilla Wolf[/color]
+&gt; [color=red]**Basically just a dog (and thus my worst nightmare)**[/color]
+&gt; 
+&gt; GRAH GRUPH GRAWWW ARGH RAAAAAAAGH! *cough* Sorry, what was that? What was that?
+&gt; 
+&gt; You have no abilities except your voice, your vote, your allies and your claws. Good luck out there.
+&gt; 
+&gt;  You win when the [color=brown]**Wolves**[/color] have equal numbers to the [color=green]**Village**[/color] or if nothing can prevent this from happening.
+[/details]
+
+----
+
+&lt;big&gt; :crossed_swords: Signups :gun: &lt;/big&gt;
+
+1. PokemonKidRyan - Lynched D3 - [color=green]**Vanilla Villager**[/color]
+2. ~~htm~~ MathBlade - Killed N3 - [color=green]**Vanilla Villager**[/color]
+3. Alice
+4. Livicus - Lynched D2 - [color=green]**Vanilla Villager**[/color]
+5. SweetyCake
+6. Marluxion - Killed N1 - [color=green]**Vanilla Villager**[/color]
+7. WazzaAzza
+8. Sam17z
+9. Margaret
+10. Firekitten
+11. NozBugz
+12. MaximusPrime - Lynched D1 - [color=green]**Vanilla Villager**[/color]
+13. hjasik
+14. BlueSt0rm22
+15. Luxy - Killed N1 - [color=green]**Village Jack of All Trades**[/color]
+16. Wolfy -  killed N2-  [color=green]**Vanilla Villager**[/color]
+17. Insanity 
+
+&lt;small&gt; PS: the water pistols were NOT deliberate.
+fucking emoji censorship</description>
+    
+    <lastBuildDate>Mon, 29 Oct 2018 09:12:16 +0000</lastBuildDate>
+    <category>Forum of Lies</category>
+    <atom:link href="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</title>
+        <dc:creator><![CDATA[BlueStorm]]></dc:creator>
+        <description><![CDATA[
+            <p>ANGERY</p>
+<p>I don’t wanna be reminded of our sorry performance in this game</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2889">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2889</link>
+        <pubDate>Mon, 29 Oct 2018 09:12:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72619-2889</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619.rss">Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</source>
+      </item>
+      <item>
+        <title>Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</title>
+        <dc:creator><![CDATA[Marcus_Doodalee]]></dc:creator>
+        <description><![CDATA[
+            <p>Aussies in leagues with the council of Necromancers eh?</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2888">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2888</link>
+        <pubDate>Mon, 29 Oct 2018 09:06:45 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72619-2888</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619.rss">Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</source>
+      </item>
+      <item>
+        <title>Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</title>
+        <dc:creator><![CDATA[Luxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Wolves and water pistols<br>
+Wth why did I post here</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2887">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2887</link>
+        <pubDate>Mon, 29 Oct 2018 08:55:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72619-2887</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619.rss">Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</source>
+      </item>
+      <item>
+        <title>Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</title>
+        <dc:creator><![CDATA[Twil1ight]]></dc:creator>
+        <description><![CDATA[
+            <p>Ahhhh, but townslips are nice… <img src="/images/emoji/twitter/frowning.png?v=9" title=":frowning:" class="emoji" alt=":frowning:"></p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2886">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2886</link>
+        <pubDate>Mon, 08 Oct 2018 17:55:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72619-2886</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619.rss">Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</source>
+      </item>
+      <item>
+        <title>Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>/Vote Hjasik</strong></p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2885">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2885</link>
+        <pubDate>Mon, 08 Oct 2018 17:52:28 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72619-2885</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619.rss">Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</source>
+      </item>
+      <item>
+        <title>Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</title>
+        <dc:creator><![CDATA[Emilia]]></dc:creator>
+        <description><![CDATA[
+            <p>Also next time don’t up me for “slip”</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2884">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2884</link>
+        <pubDate>Mon, 08 Oct 2018 17:52:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72619-2884</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619.rss">Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</source>
+      </item>
+      <item>
+        <title>Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</title>
+        <dc:creator><![CDATA[Twil1ight]]></dc:creator>
+        <description><![CDATA[
+            <p><s> Because Wolves with water gun are now a Meme</s></p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2883">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2883</link>
+        <pubDate>Mon, 08 Oct 2018 17:52:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72619-2883</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619.rss">Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</source>
+      </item>
+      <item>
+        <title>Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>When did the meme police suspiciously look like a wolf <img src="/images/emoji/twitter/thinking.png?v=9" title=":thinking:" class="emoji" alt=":thinking:"></p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2882">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2882</link>
+        <pubDate>Mon, 08 Oct 2018 17:51:20 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72619-2882</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619.rss">Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</source>
+      </item>
+      <item>
+        <title>Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</title>
+        <dc:creator><![CDATA[Twil1ight]]></dc:creator>
+        <description><![CDATA[
+            <p>HANDS DOWN! YOU ARE ARRESTED BY MEME POLICE! YOURE COMING WITH US!</p>
+<p><img src="/images/emoji/twitter/worried.png?v=9" title=":worried:" class="emoji only-emoji" alt=":worried:"> <img src="/images/emoji/twitter/gun.png?v=9" title=":gun:" class="emoji only-emoji" alt=":gun:"> <img src="/images/emoji/twitter/wolf.png?v=9" title=":wolf:" class="emoji only-emoji" alt=":wolf:"></p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2881">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2881</link>
+        <pubDate>Mon, 08 Oct 2018 17:50:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72619-2881</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619.rss">Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</source>
+      </item>
+      <item>
+        <title>Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</title>
+        <dc:creator><![CDATA[MathBlade]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh <img src="/images/emoji/twitter/frowning.png?v=9" title=":frowning:" class="emoji" alt=":frowning:"> <img src="/images/emoji/twitter/frowning.png?v=9" title=":frowning:" class="emoji" alt=":frowning:"></p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2880">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2880</link>
+        <pubDate>Mon, 08 Oct 2018 17:48:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72619-2880</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619.rss">Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</source>
+      </item>
+      <item>
+        <title>Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Math he was doing a joke and I don’t think he got taught anything.</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2879">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2879</link>
+        <pubDate>Mon, 08 Oct 2018 17:41:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72619-2879</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619.rss">Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</source>
+      </item>
+      <item>
+        <title>Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</title>
+        <dc:creator><![CDATA[MathBlade]]></dc:creator>
+        <description><![CDATA[
+            <p>Yes I did. Do you see the point?</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2878">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2878</link>
+        <pubDate>Mon, 08 Oct 2018 17:40:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72619-2878</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619.rss">Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</source>
+      </item>
+      <item>
+        <title>Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</title>
+        <dc:creator><![CDATA[Emilia]]></dc:creator>
+        <description><![CDATA[
+            <p>did you just call me a dude with H avatar?!?</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2877">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2877</link>
+        <pubDate>Mon, 08 Oct 2018 17:25:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72619-2877</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619.rss">Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</source>
+      </item>
+      <item>
+        <title>Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</title>
+        <dc:creator><![CDATA[MathBlade]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Ami" data-post="131" data-topic="72619" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/ami/40/31302_2.png" class="avatar"> Ami:</div>
+<blockquote>
+<p><strong>vote Marl</strong> commit die fucker</p>
+</blockquote>
+</aside>
+<p>For you I would say as scum watch your voting habits and contribute more so switches seem more authentic.</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2876">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2876</link>
+        <pubDate>Mon, 08 Oct 2018 17:23:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72619-2876</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619.rss">Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</source>
+      </item>
+      <item>
+        <title>Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</title>
+        <dc:creator><![CDATA[MathBlade]]></dc:creator>
+        <description><![CDATA[
+            <p><a href="https://youtu.be/sWS0GVOQPs0" class="onebox" target="_blank" rel="noopener nofollow ugc">https://youtu.be/sWS0GVOQPs0</a></p>
+<p>This does it better than me. You’re doing the same when you say stupid and autistic. If you think stupid isn’t strong enough a word find one better.</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2875">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2875</link>
+        <pubDate>Mon, 08 Oct 2018 17:20:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72619-2875</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619.rss">Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</source>
+      </item>
+      <item>
+        <title>Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</title>
+        <dc:creator><![CDATA[MathBlade]]></dc:creator>
+        <description><![CDATA[
+            <p>One other side note. This here being an Aspie myself is a huge pet peeve.</p>
+<p>You wouldn’t find it acceptable for me to go “oh he’s so stupid and dude with an H avatar” then don’t use autistic or gay in the same way. It only makes you sound like you have a limited vocabulary.</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2874">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2874</link>
+        <pubDate>Mon, 08 Oct 2018 17:18:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72619-2874</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619.rss">Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</source>
+      </item>
+      <item>
+        <title>Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</title>
+        <dc:creator><![CDATA[MathBlade]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Ami" data-post="152" data-topic="72619" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/ami/40/31302_2.png" class="avatar"> Ami:</div>
+<blockquote>
+<p>tinfoil:HJ is IC. Change my mind</p>
+</blockquote>
+</aside>
+<p>Try to avoid speculation in a matrix setup first unless it has been started by a townie and you’re following that up. If you for some reason had flipped here you’d have tipped your hand scum were IC hunting which meant that may be possible and you narrow down what doesn’t exist.</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2873">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2873</link>
+        <pubDate>Mon, 08 Oct 2018 17:15:28 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72619-2873</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619.rss">Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</source>
+      </item>
+      <item>
+        <title>Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Alice" data-post="2699" data-topic="72619">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/alice/40/32176_2.png" class="avatar"> Alice:</div>
+<blockquote>
+<p>uninformed majority than being uninformed you’re even in the game.</p>
+</blockquote>
+</aside>
+<p>Fair</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2872">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2872</link>
+        <pubDate>Mon, 08 Oct 2018 02:48:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72619-2872</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619.rss">Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</source>
+      </item>
+      <item>
+        <title>Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</title>
+        <dc:creator><![CDATA[Luxy]]></dc:creator>
+        <description><![CDATA[
+            <p>That fake jailkeep slip was so real, I literally thought maximus was wolf jailkeep</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2871">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2871</link>
+        <pubDate>Mon, 08 Oct 2018 01:08:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72619-2871</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619.rss">Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</source>
+      </item>
+      <item>
+        <title>Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</title>
+        <dc:creator><![CDATA[Marcus_Doodalee]]></dc:creator>
+        <description><![CDATA[
+            <p>If Luxy shot you at night and you were indeed Wolf JK then he’d never be able to shoot anyways</p>
+<p>Him dying n1 basically meant that this was mountainous.</p>
+<p>Can we stick to the usual seer fakeclaims next time thanks?</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2870">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2870</link>
+        <pubDate>Mon, 08 Oct 2018 00:55:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72619-2870</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619.rss">Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</source>
+      </item>
+      <item>
+        <title>Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</title>
+        <dc:creator><![CDATA[MathBlade]]></dc:creator>
+        <description><![CDATA[
+            <p>Yes Luxy could shoot you but then that’s a shot that will never hit scum. It’s negative utility.</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2869">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2869</link>
+        <pubDate>Mon, 08 Oct 2018 00:51:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72619-2869</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619.rss">Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</source>
+      </item>
+      <item>
+        <title>Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</title>
+        <dc:creator><![CDATA[MathBlade]]></dc:creator>
+        <description><![CDATA[
+            <p>When a PR is outed it’s very difficult in an open setup to put it back in.</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2868">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2868</link>
+        <pubDate>Mon, 08 Oct 2018 00:50:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72619-2868</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619.rss">Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</source>
+      </item>
+      <item>
+        <title>Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <p>tl;dr - if you’re doing a strategy to cover for another PR like a Hunter covering for a Prince, if it goes bad you should fess up immediately and chainsawing them is the absolute worst thing you can do.</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2867">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2867</link>
+        <pubDate>Mon, 08 Oct 2018 00:39:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72619-2867</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619.rss">Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</source>
+      </item>
+      <item>
+        <title>Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/alice">@Alice</a> help explain to max why it’s not luxy fault plz</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2866">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2866</link>
+        <pubDate>Mon, 08 Oct 2018 00:38:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72619-2866</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619.rss">Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</source>
+      </item>
+      <item>
+        <title>Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</title>
+        <dc:creator><![CDATA[MaximusPrime]]></dc:creator>
+        <description><![CDATA[
+            <p>he could’ve just shot me at night so no he didn’t</p>
+          <p><a href="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2865">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619/2865</link>
+        <pubDate>Mon, 08 Oct 2018 00:37:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72619-2865</guid>
+        <source url="https://forum.throneoflies.com/t/ninjas-and-guns-game-over-you-guys-got-defeated-by-wolves-with-water-pistols/72619.rss">Ninjas And Guns - Game Over - You guys got defeated by wolves with water pistols</source>
+      </item>
+  </channel>
+</rss>

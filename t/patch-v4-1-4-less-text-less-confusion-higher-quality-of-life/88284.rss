@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Patch v4.1.4: Less text, less confusion, higher-quality of life</title>
+    <link>https://forum.throneoflies.com/t/patch-v4-1-4-less-text-less-confusion-higher-quality-of-life/88284</link>
+    <description>:mega: We believe a solid foundation is important to build upon. This patch offers: 
+
+1. Lower learning curve for new and returning players
+2. Less bloaty text for everyone, when hopping through class cards, glossary, or guide texts trying to find &quot;that one thing&quot;.
+3. Significantly-more accurate and less-confusing class cards, tips, glossary, guide, etc.
+4. Legibility of text (since it&#39;s a text game!) with less &quot;weight&quot; and less homework to learn things.
+5. Quality of life: Things can get overwhelming fast -- now, less so.
+
+## Class Fixes
+
+- Fixed nearly every reported inaccuracy within class cards (too many to list).
+- Chronomancer&#39;s *Distort Reality* abil feedback text to the victim no longer shows the incorrect text in green, as if it was a good thing happening you.
+
+## Bug Fixes
+
+- Fixed specific win conditions for quests.
+- Suspended players will no longer get stuck at the login screen (and stuck &quot;Loading...&quot; from news): They should now properly see the popup and an explanation in the news area.
+
+## QoL
+
+- Clicking on an &lt;u&gt;underlined&lt;/u&gt; link now has an animated arrow guide you to the exact term you are looking for:
+
+https://cdn.discordapp.com/attachments/580380189079502868/860036095005425674/lerp-cc-glossary.gif
+- Streamlined numerous class cards, abilities and tips to get the point across with shorter, to-the-point descriptions. In addition, wording should now feel more-similar and streamlined. There may be some new &quot;info passives&quot; that simply explain deeper mechanics better.
+- Changed all class card tips to be short bullet points.
+- Fixed class card glossary/class links - they should all be clickable and accuracy, now.
+- Tutorial now initially hides most the UI, then slowly introduces elements.
+- Some UI elements are now draggable, where you shouldn&#39;t be able to &quot;lose&quot; them off the screen:
+
+https://thumbs.gfycat.com/RingedExhaustedCuscus-mobile.mp4
+- Glossary links now work (to other parts of the glossary, or class cards).
+- Glossary/class card links are now clickable from the rotating tips.
+- Updated and streamlined glossary to have less text and be more-legible.
+    - Also added new clickable terms (that interact via clicks from other places, such as class cards), such as Poison, Intensify and several player-meta terms.
+- Updated the Guide, similarly to above.
+- Clickable neutral class links are sometimes **bolded** when seen with other white text. If you see other areas that have a good fit for this, treat it like a bug and toss it into Discord #bug-report (thanks!).
+- Faction colors are now more-legible, dynamically changing based on the background: They are now brighter or darker, depending on what is more-legible to read. This should take effect throughout the game: Please report inconsistencies.
+- All in-game class card links should now work — and added a few more acronyms for classes.
+- Fixed in-game, automated mute system to be less confusing and more-informative; additionally, it now alerts you *how long* you&#39;ll be [temporarily] muted for and *when* the mute lifts (almost ported to lobby, too, but delayed due to hackers):
+
+![image|690x310](upload://rjvLB60bC0OvjmbOWOTwdryArBt.jpeg)
+
+- Deathnote colors in the store no longer show a tier color, to prevent confusion:
+
+![image|690x360](upload://mMiTdODFDxdNFbeUCNgPC6YSKN2.jpeg)
+
+___
+
+We thought we may as well toss you what we were working on before moving to anti-hack (next patch) :+1: 
+
+--Xblade @ https://discord.gg/tol</description>
+    
+    <lastBuildDate>Mon, 05 Jul 2021 05:06:42 +0000</lastBuildDate>
+    <category>Official Announcements</category>
+    <atom:link href="https://forum.throneoflies.com/t/patch-v4-1-4-less-text-less-confusion-higher-quality-of-life/88284.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Patch v4.1.4: Less text, less confusion, higher-quality of life</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p><img src="https://forum.throneoflies.com/images/emoji/twitter/mega.png?v=9" title=":mega:" class="emoji" alt=":mega:"> We believe a solid foundation is important to build upon. This patch offers:</p>
+<ol>
+<li>Lower learning curve for new and returning players</li>
+<li>Less bloaty text for everyone, when hopping through class cards, glossary, or guide texts trying to find “that one thing”.</li>
+<li>Significantly-more accurate and less-confusing class cards, tips, glossary, guide, etc.</li>
+<li>Legibility of text (since it’s a text game!) with less “weight” and less homework to learn things.</li>
+<li>Quality of life: Things can get overwhelming fast – now, less so.</li>
+</ol>
+<h2>
+<a name="class-fixes-1" class="anchor" href="#class-fixes-1"></a>Class Fixes</h2>
+<ul>
+<li>Fixed nearly every reported inaccuracy within class cards (too many to list).</li>
+<li>Chronomancer’s <em>Distort Reality</em> abil feedback text to the victim no longer shows the incorrect text in green, as if it was a good thing happening you.</li>
+</ul>
+<h2>
+<a name="bug-fixes-2" class="anchor" href="#bug-fixes-2"></a>Bug Fixes</h2>
+<ul>
+<li>Fixed specific win conditions for quests.</li>
+<li>Suspended players will no longer get stuck at the login screen (and stuck “Loading…” from news): They should now properly see the popup and an explanation in the news area.</li>
+</ul>
+<h2>
+<a name="qol-3" class="anchor" href="#qol-3"></a>QoL</h2>
+<ul>
+<li>Clicking on an underlined link now has an animated arrow guide you to the exact term you are looking for:</li>
+</ul>
+<p>                    <a href="https://cdn.discordapp.com/attachments/580380189079502868/860036095005425674/lerp-cc-glossary.gif" target="_blank" rel="noopener" class="onebox">
+            <img src="https://cdn.discordapp.com/attachments/580380189079502868/860036095005425674/lerp-cc-glossary.gif" width="690" height="363">
+          </a>
+
+</p>
+<ul>
+<li>Streamlined numerous class cards, abilities and tips to get the point across with shorter, to-the-point descriptions. In addition, wording should now feel more-similar and streamlined. There may be some new “info passives” that simply explain deeper mechanics better.</li>
+<li>Changed all class card tips to be short bullet points.</li>
+<li>Fixed class card glossary/class links - they should all be clickable and accuracy, now.</li>
+<li>Tutorial now initially hides most the UI, then slowly introduces elements.</li>
+<li>Some UI elements are now draggable, where you shouldn’t be able to “lose” them off the screen:</li>
+</ul>
+          <div class="onebox video-onebox">
+            <video width="100%" height="100%" controls="">
+              <source src="https://thumbs.gfycat.com/RingedExhaustedCuscus-mobile.mp4">
+              <a href="https://thumbs.gfycat.com/RingedExhaustedCuscus-mobile.mp4" rel="noopener">https://thumbs.gfycat.com/RingedExhaustedCuscus-mobile.mp4</a>
+            </source></video>
+          </div>
+
+<ul>
+<li>Glossary links now work (to other parts of the glossary, or class cards).</li>
+<li>Glossary/class card links are now clickable from the rotating tips.</li>
+<li>Updated and streamlined glossary to have less text and be more-legible.
+<ul>
+<li>Also added new clickable terms (that interact via clicks from other places, such as class cards), such as Poison, Intensify and several player-meta terms.</li>
+</ul>
+</li>
+<li>Updated the Guide, similarly to above.</li>
+<li>Clickable neutral class links are sometimes <strong>bolded</strong> when seen with other white text. If you see other areas that have a good fit for this, treat it like a bug and toss it into Discord <span class="hashtag">#bug-report</span> (thanks!).</li>
+<li>Faction colors are now more-legible, dynamically changing based on the background: They are now brighter or darker, depending on what is more-legible to read. This should take effect throughout the game: Please report inconsistencies.</li>
+<li>All in-game class card links should now work — and added a few more acronyms for classes.</li>
+<li>Fixed in-game, automated mute system to be less confusing and more-informative; additionally, it now alerts you <em>how long</em> you’ll be [temporarily] muted for and <em>when</em> the mute lifts (almost ported to lobby, too, but delayed due to hackers):</li>
+</ul>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/b/f/bf6f5a25d61e9e5d2b32c1084f8de4168461f25f.jpeg" data-download-href="https://forum.throneoflies.com/uploads/default/bf6f5a25d61e9e5d2b32c1084f8de4168461f25f" title="image"><img src="https://forum.throneoflies.com/uploads/default/original/3X/b/f/bf6f5a25d61e9e5d2b32c1084f8de4168461f25f.jpeg" alt="image" data-base62-sha1="rjvLB60bC0OvjmbOWOTwdryArBt" width="690" height="310" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/b/f/bf6f5a25d61e9e5d2b32c1084f8de4168461f25f_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">724×326 49.8 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<ul>
+<li>Deathnote colors in the store no longer show a tier color, to prevent confusion:</li>
+</ul>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/9/f/9fa5aeb14dafe5985e6ffff7c475172d095fdfe8.jpeg" data-download-href="https://forum.throneoflies.com/uploads/default/9fa5aeb14dafe5985e6ffff7c475172d095fdfe8" title="image"><img src="https://forum.throneoflies.com/uploads/default/optimized/3X/9/f/9fa5aeb14dafe5985e6ffff7c475172d095fdfe8_2_690x360.jpeg" alt="image" data-base62-sha1="mMiTdODFDxdNFbeUCNgPC6YSKN2" width="690" height="360" srcset="https://forum.throneoflies.com/uploads/default/optimized/3X/9/f/9fa5aeb14dafe5985e6ffff7c475172d095fdfe8_2_690x360.jpeg, https://forum.throneoflies.com/uploads/default/original/3X/9/f/9fa5aeb14dafe5985e6ffff7c475172d095fdfe8.jpeg 1.5x, https://forum.throneoflies.com/uploads/default/original/3X/9/f/9fa5aeb14dafe5985e6ffff7c475172d095fdfe8.jpeg 2x" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/9/f/9fa5aeb14dafe5985e6ffff7c475172d095fdfe8_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">885×463 118 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<hr>
+<p>We thought we may as well toss you what we were working on before moving to anti-hack (next patch) <img src="https://forum.throneoflies.com/images/emoji/twitter/+1.png?v=9" title=":+1:" class="emoji" alt=":+1:"></p>
+<p>–Xblade @ <a href="https://discord.gg/tol">https://discord.gg/tol</a></p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-1-4-less-text-less-confusion-higher-quality-of-life/88284/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-1-4-less-text-less-confusion-higher-quality-of-life/88284/1</link>
+        <pubDate>Mon, 05 Jul 2021 04:52:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88284-1</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-1-4-less-text-less-confusion-higher-quality-of-life/88284.rss">Patch v4.1.4: Less text, less confusion, higher-quality of life</source>
+      </item>
+  </channel>
+</rss>

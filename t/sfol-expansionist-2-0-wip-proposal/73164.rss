@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>SFoL Expansionist 2.0 WIP Proposal</title>
+    <link>https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164</link>
+    <description>### Gameplay
+Days will be 4 IRL days long, or shorter if someone dies
+Nights will be 1 IRL days long
+Actions are done by messaging me
+Revolution members will talk through DMs. They can talk there during both the day and night
+When you receive a card you will have 24 hours to reply, confirming you have received it
+
+### Executions
+To accuse someone say &quot;**/accuse [player]**&quot; or &quot;**/vote [player]**&quot;
+When someone is on Trial they will be able to make a single post defense, during this time no-one should post, everyone will then vote Guilty or innocent in the thread until hammer is reached or until EoD
+Executions end the Day
+
+### Projects
+
+There are now projects that are funded with resources. New projects are selected by the Chancellor and provide passive effects once completed. Funding is private and it is only revealed when a project is completed. The Chancellor may start up to 2 Projects per day but each person may only contribute to 1 of them. 
+
+Resources are committed to a project during the day or night privately in your class card. Your decision is locked in at the end of each night. It is never revealed who or how meany resources are contributed towards a project. If at the end of the day a project has enough resources to be completed then it will come into play at the start of the next day and it&#39;s effects will last for the rest of the game.
+
+Your resource does not change when your class does. 
+
+The Resources you can have are: Wood, Stone and Gold depending on your starting class
+
+[details=&quot;Projects&quot;]
+* Lumber mill - Everyone who has Wood may provide another Wood to a project (4 Wood, 2 Stone, 1 Gold)
+* Shipyard - If the Lumber Mill is built, then can be built. Anyone who visits this room will be able to move themself to a player of their choice the next night, and be affected by all actions that affect their target the night after. Doesn&#39;t affect investigative abilities (6 Wood, 2 Stone, 1 Gold)
+* Quarry - Everyone who has Stone may provide another Stone to a project (4 Stone, 2 Wood, 1 Gold)
+* Treasury - Everyone who has Gold may provide another Gold to a project (3 Stone, 3 Wood, 3 Gold)
+* Alchemy Campus - If a player who has Wood or Stone visits this room, they may use either resource the following day. (3 Wood, 3 Stone, 1 Gold)
+* Transmutation Facility - If the Alchemy Campus is built, then this can be built. Once built all projects are now completed when the correct total number of resources are committed regardless of resource type. EX: The Common room could be built with 8 wood. (1 Wood, 1 Stone, 4 Gold)
+* Grainery - Civilians no longer starve (3 Wood, 3 Stone, 3 Gold)
+* Common Room - Can be visited. Anyone who visits this room will do their action on everyone else who visits this room. You will not know who. (3 Wood, 4 Stone, 1 Gold)
+* Public Security - Citizens are death immune. Doesn&amp;rsquo;t stop starvation deaths (4 Wood, 6 Stone, 4 Gold)
+* Armory - Can be visited. Anyone who visits this room will have their abilities bypass death and occupy immunity&amp;rsquo;s the next night. (5 Wood, 3 Stone, 1 Gold)
+* Sleeping Quarters - Players become occupy immune after being occupied twice. (4 Wood, 4 Stone, 2 Gold)
+* Panic Room - Visitors will be death immune so long as there are less than 3. Otherwise this does nothing. Each player can only visit the panic room once per game. (3 Wood, 4 Stone, 5 Gold)
+* Investigation Headquarters - The night after this is built all investigative abilities may select an additional target. (widened search selects an additional class instead) (4 Wood, 8 Stone, 3 Gold)
+* Secret Pathways - Each player may visit a room as a bonus action in addition to their night action once per game per player after this is built (5 Wood, 2 Stone, 1 Gold)
+[/details]
+
+
+### Civilians
+There are NPC civilians. The game starts with 10. If there are ever 0 then the NK wins. They have other effects on the game as well. 1 will die every night of starvation starting night 3 and they can be collectively targeted by some abilities.
+
+### Chancellor
+&gt;# Chancellor
+&gt; **Unknown Special**
+&gt; Resource: Any + Starting Resource 
+&gt;
+&gt;Passive 1: Diplomatic immunity - You cannot be investigated or converted and your resources cannot be tampered with by any abilities. If you are a member of the Revolution you do not count towards their faction cap. You also cannot be jailed or attacked by a Dominion member.
+Passive 2: Political Leader - You may put forward up to 2 different projects per day. Everyone including you will vote yes or no on each of them throughout the day until an option is hammered.
+&gt;
+&gt; Day Ability: Public Support - Each living Civilian will add a vote to your next vote. This can affect any vote. (3 uses)
+&gt;
+&gt;Night Ability: Guards! - Give target player death immunity tonight. Can target self or the civilians. (3 uses)
+&gt;
+&gt;Goal is the same as your original class
+
+The Chancellor does not spawn. Instead a player is anonymously elected as Chancellor at the start of Day 3. The vote is over 24 hours and is anonymous. If the Chancellor is killed there will be another one elected the next day unless there are 4 or less players. 
+
+The Chancellor keeps their old ability&#39;s and passives but they can still only do 1 day action and 1 night action. 
+
+### After The Night
+You will be told what happened to you
+&gt;**Night:**
+You slept peacefully
+You were unfortunately killed
+You were converted to the Rebellion!
+**Day:**
+You were exposed to deadly poison!
+
+### Journals
+Message me your entire journal, the last draft I receive before you die shall be the one displayed
+
+# Classes
+Dominion = Uninformed Majority
+Revolution = Informed Minority
+
+[details=&quot;Dominion classes&quot;]
+&gt; # [color = &quot;green&quot;] The Lord [/color] :shield: :crossed_swords:  
+&gt; **[color = &quot;green&quot;]Dominion Special[/color]**
+&gt; **[color = &quot;gold&quot;]Gold[/color]**
+&gt;
+&gt;Passive: Royalty - Every 2 citizens count as an extra vote on you for chancellor
+&gt;
+&gt;Day Ability: Jail - Choose a player to jail at night occupying the target (Bypasses occupy immunity) and preventing visits to them. You both will be able to send each other a single 1000 character message through the host. Can be used D1 (6 Uses)
+&gt;
+&gt;Night Ability 1: Execute - Kill the Jailed player. Bypasses everything. Disabled if you kill a Dominion member. (3 Uses)
+&gt;
+&gt; Night Ability 2: Compensate - Target players Resource counts for one more (Unlimited)
+
+&gt; # [color = &quot;green&quot;] Inspector [/color] :crossed_swords: 
+&gt; **[color = &quot;green&quot;] Dominion Investigative [/color]**
+&gt; **[color = &quot;lightgray&quot;]Stone[/color]**
+&gt;
+&gt;Day Ability: Overtime - Your Night abilities will be stronger tonight. Can be used D1(2 uses)
+&gt;
+&gt;Night Ability 1: Inspection - Learn if target player is a member of the Revolution. If you use Overtime you may choose 2 players and learn if at least one of them is a Revolution member (Unlimited)
+&gt;Night Ability 2: Widened Search - Chose a class and any number of players. You will learn if any of the players are the selected class but not which one. If you used overtime you may choose an additional class. Does not count as a visit. Will only return if you found a match or not (3 uses)
+
+&gt; Converts to the **[color = &quot;steblue&quot;] Sleuth [/color]**
+
+&gt; # [color = &quot;green&quot;] Watchman [/color]
+&gt; **[color = &quot;green&quot;] Dominion Investigative [/color]**
+&gt; **[color = &quot;brown&quot;] Wood [/color]**
+&gt;
+&gt;Night Ability 1: Keep watch - Learn who visits target player or room and who target player visits if you targeted a player. Can target the civilians (Unlimited)
+&gt;Night Ability 2: Background Check - Learn target player&#39;s class type (2 uses)
+
+&gt; Converts to the **[color = &quot;steblue&quot;] Overseer [/color]**
+
+&gt; # [color = &quot;green&quot;] Earl [/color]
+&gt; **[color = &quot;green&quot;] Dominion Investigative [/color]**
+&gt; **[color = &quot;gold&quot;] Gold [/color]**
+&gt;
+&gt;Passive: Royalty - Every 2 citizens count as an extra vote on you for chancellor
+&gt;
+&gt;Day Ability: Progress report - Learn how many resources have been contributed to target project at the end of the night (3 uses)
+&gt;
+&gt;Night Ability 1: Take Stock - Learn which resource target player has (Unlimited)
+&gt;Night Ability 2: Project Record - Learn who contributed to target completed project (1 use)
+
+&gt; Converts to the **[color = &quot;steblue&quot;] Viscount [/color]**
+
+&gt; # [color = &quot;green&quot;] Clinician [/color]
+&gt; **[color = &quot;green&quot;]Dominion Support[/color]**
+&gt; **[color = &quot;lightgray&quot;] Stone [/color]**
+&gt; Passive 1: Sterilization - Immune to poison
+&gt;
+&gt; Night Ability 1: Care take - Heal target player or the civilians(Unlimited)
+&gt; Night Ability 2: Quarantine - Prevent visits to target player (2 uses)
+
+&gt; Converts to the **[color = &quot;steblue&quot;] Quack [/color]**
+
+&gt; # [color = &quot;green&quot;]Duke[/color]
+&gt; **[color = &quot;green&quot;]Dominion Support[/color]**
+&gt; **[color = &quot;gold&quot;]Gold[/color]**
+&gt;
+&gt;Passive: Royalty - Every 2 citizens count as an extra vote on you for chancellor
+&gt;
+&gt;Day Ability: Invest - Target player is immune to conversion until you select another player. Can only prevent conversion twice. Can be used D1 (Unlimited)
+&gt;
+&gt;Night Ability: Fund - Ensure target player&#39;s night action is successful and accurate (Unlimited)
+
+&gt; Converts to the **[color = &quot;steblue&quot;] Barron [/color]**
+
+&gt; # [color = &quot;green&quot;] Vanguard [/color]
+&gt; **[color = &quot;green&quot;] Dominion Killer [/color]**
+&gt; **[color = &quot;lightgray&quot;] Stone [/color]**
+&gt;
+&gt;Night Ability 1: Swordplay - Kill target player. If you kill a Dominion member you will kill yourself as well. (Unlimited)
+&gt;Night Ability 2: Redirect any visitors attacking target player to you bypassing immunity. You will attack anyone redirected this way and they cannot be healed. Can target the Civilians. (Unlimited)
+
+&gt; Converts to the **[color = &quot;steblue&quot;] Sellsword [/color]**
+
+&gt; # [color = &quot;green&quot;]Champion[/color]
+&gt; **[color = &quot;green&quot;] Dominion Killer [/color]**
+&gt; **[color = &quot;brown&quot;] Wood [/color]**
+&gt; Passive 1: Occupy and Redirect immune
+&gt; Passive 2: Last Stand - If you are the last Dominion member alive then you can use both night abilities in the same night
+&gt;
+&gt;Night Ability 1: Parry - If target player tries to use an ability on you tonight then remove their immunity&amp;rsquo;s and redirect them to themselves. (Unlimited)
+&gt;Night Ability 2: Strike - Kill and occupy target player. If you kill a Dominion member then this gets disabled until Last Stand triggers (2 uses)
+
+&gt; Converts to the **[color = &quot;steblue&quot;] Gladiator [/color]**
+
+&gt; # [color = &quot;green&quot;]Captain[/color]
+&gt; **[color = &quot;green&quot;]Dominion Offensive[/color]**
+&gt; **[color = &quot;lightgray&quot;]Stone[/color]**
+&gt;
+&gt;Passive: Occupy and Redirect immune
+&gt;
+&gt;Night Ability 1: Command - Redirect your first target to your second. You only visit your first target. Cannot make someone self target. (Unlimited)
+&gt;
+&gt; Night Ability 2: Discipline - Disable target player&#39;s passives tonight. (2 uses)
+
+&gt; Converts to the **[color = &quot;steblue&quot;] Director [/color]**
+
+&gt; # [color = &quot;green&quot;]Engineer[/color]
+&gt; **[color = &quot;green&quot;]Dominion Offensive[/color]**
+&gt; **[color = &quot;brown&quot;]Wood[/color]**
+&gt;
+&gt;Passive: Occupy and redirect immune
+&gt;
+&gt;Day Ability 1: Redistribute - Target player will instead contribute to the same project you did (Unknowingly) (2 uses)
+&gt;
+&gt;Night Ability 1: Seal - Occupy target player (Unlimited)
+&gt;Night Ability 2: Barricade - Prevent Visits to target room or the civilians (3 uses)
+
+&gt; Converts to the **[color = &quot;steblue&quot;] Tinkerer [/color]**
+
+&gt; # [color = &quot;green&quot;]Mediator[/color] :shield: 
+&gt; **[color = &quot;green&quot;]Dominion Social[/color]**
+&gt; **[color = &quot;brown&quot;]Wood[/color]**
+&gt;
+&gt;Passive: Calm and Collected - You can use both Mediator abilities in the same night
+&gt;
+&gt;Night Ability 1: Negotiate - Link 2 players together. They may each send each other 2 1000 character messages. You will get each message too. (Unlimited)
+&gt;Night Ability 2: Notice - Send an anonymous message to target player immediately (3 uses)
+
+&gt; Converts to the **[color = &quot;steblue&quot;] Ambassador [/color]**
+
+&gt; # [color = &quot;green&quot;]Scribe[/color]
+&gt; **[color = &quot;green&quot;]Dominion Social[/color]**
+&gt; **[color = &quot;brown&quot;]Wood[/color]**
+&gt;
+&gt;Night Ability 1: Record - Get the feedback of anyone visiting target player or room. May target the civilians. Doesn&#39;t see conversions (Unlimited)
+&gt;Night Ability 2: Document - Get target player&#39;s feedback (2 uses)
+
+&gt; Converts to the **[color = &quot;steblue&quot;] Messenger [/color]**
+[/details]
+
+
+[details=&quot;Revolution&quot;]
+If the Missionary dies then the oldest non-Revolutionary Revolution member becomes the Missionary
+
+&gt; # [color = &quot;steblue&quot;] Revolutionary [/color] :shield: :crossed_swords:  
+&gt; **[color = &quot;steblue&quot;]Revolution Special[/color]**
+&gt; **[color = &quot;gold&quot;]Gold[/color]**
+&gt;Passive: Leadership - Immune to occupy and redirect and death. If you die then the Missionary will become death immune
+&gt;
+&gt;Night Ability 1: Inspire - Convert target player to the Revolution. 4 Max revolution members(Unlimited. 1 day cooldown)
+&gt;Night Ability 2: Scout - Learn what immunity&#39;s target player has (including conversion) (4 uses)
+
+&gt; # [color = &quot;steblue&quot;]Missionary[/color] :shield::crossed_swords:  
+&gt; **[color = &quot;steblue&quot;]Revolution Killer[/color]**
+&gt; **[color = &quot;lightgray&quot;]Stone[/color]**
+&gt;
+&gt;Day Ability 1: Overdose - Poison target player (4 uses)
+&gt;
+&gt;Night Ability 1: Crusade - Kill target player. You may attack the civilians (Unlimited)
+&gt;Night Ability 2: Old tricks - Use the primary or secondary ability of your original Revolutionary class. Starting Missionary can convert with this if the Revolutionary is dead on a 1 day cooldown. (3 uses)
+
+&gt; # [color = &quot;steblue&quot;]Sleuth[/color]
+&gt; **[color = &quot;steblue&quot;]Revolution Investigative[/color]**
+&gt;
+&gt; Night Ability: Expedited Search - Choose any number of classes and any number of players. You will learn if any of the players are any of the classes. Does not count as visiting. Only returns if you found a match or not. (Unlimited)
+
+&gt; # [color = &quot;steblue&quot;]Overseer[/color]
+&gt; **[color = &quot;steblue&quot;]Revolution Investigative[/color]**
+&gt;
+&gt;Day Ability: Track - You will know who target player visits tonight. (Unlimited)
+&gt;
+&gt;Night Ability 1: Overwatch - Learn who visits target player or room. You can target the civilians. (Unlimited)
+&gt;Night Ability 2: Stalk - Learn target player&#39;s class (2 uses)
+
+&gt; # [color = &quot;steblue&quot;]Viscount[/color]
+&gt; **[color = &quot;steblue&quot;]Revolution Investigative[/color]**
+&gt;
+&gt;Passive: Royalty
+&gt;
+&gt;Day Ability: Record Check - Learn what resources have been contributed to all active projects at the end of the night (3 uses)
+&gt;
+&gt;Night Ability 1: Track Goods - Learn which resource target player has and which project they are contributing to. (Unlimited)
+&gt;Night Ability 2: Project Record - Learn who contributed to target completed project (1 use)
+
+&gt; # [color = &quot;steblue&quot;]Quack[/color]
+&gt; **[color = &quot;steblue&quot;]Revolution Support[/color]**
+&gt;
+&gt;Night Ability 1: Isolate - Prevent non-revolution members from visiting target player (2 uses)
+&gt;Night Ability 2: Emergency Repairs - Heal the entire Revolution. (3 uses)
+
+&gt; # [color = &quot;steblue&quot;]Barron[/color]
+&gt; **[color = &quot;steblue&quot;]Revolution Support[/color]**
+&gt;
+&gt;Passive: Royalty
+&gt;
+&gt;Night Ability 1: Bribe - Can&#39;t be prevented. Revolution members cannot be prevented, occupied or redirected when trying to visit target player. (Unlimited)
+&gt;Night Ability 2: Equip - Target player&#39;s abilities bypass immunity&#39;s tonight. (3 uses)
+
+&gt; # [color = &quot;steblue&quot;]Sellsword[/color]
+&gt; **[color = &quot;steblue&quot;]Revolution Killer[/color]**
+&gt;
+&gt;Night Ability 1: Blood for Blood - if a Revolution member dies tonight then attack their killer (2 uses)
+&gt;Night Ability 2: Cold Blood - If the Revolutionary fails to convert or the missionary fails to kill then attack target player (unlimited)
+
+&gt; # [color = &quot;steblue&quot;]Gladiator[/color]
+&gt; **[color = &quot;steblue&quot;]Revolution Offensive[/color]**
+&gt;
+&gt;Passive: Occupy and redirect immune
+&gt;
+&gt;Night Ability 1: Swipe - If target player visits the Revolution then remove their immunities and redirect them to themselves (Unlimited)
+&gt;Night Ability 2: Pummel - Occupy target player for 2 nights (2 uses)
+
+&gt; # [color = &quot;steblue&quot;]Director[/color]
+&gt; **[color = &quot;steblue&quot;]Revolution Offensive[/color]**
+&gt;
+&gt;Passive: Occupy and redirect immune
+&gt;
+&gt;Night Ability 1: Direct - Redirect your first target to your second. You only visit your first target. Cannot make someone self target. (Unlimited)
+&gt;Night Ability 2: Discipline - Disable target player&#39;s passives tonight. (2 uses)
+
+&gt; # [color = &quot;steblue&quot;]Tinkerer[/color]
+&gt; **[color = &quot;steblue&quot;]Revolution Offensive[/color]**
+&gt;
+&gt;Passive: Occupy and redirect immune
+&gt;
+&gt;Day Ability 1: Redistribute - Target player will instead contribute to the same project you did (Unknowingly). Their contribution will be worth one more (2 uses)
+&gt;
+&gt;Night Ability 1: Seal - Occupy target player (Unlimited)
+&gt;Night Ability 2: Barricade - Prevent visits to target room or the civilians (3 uses)
+
+&gt; # [color = &quot;steblue&quot;]Ambassador[/color] :shield: 
+&gt; **[color = &quot;steblue&quot;]Revolutionary Social[/color]**
+&gt;
+&gt; Passive: Calm and Collected - You can use up to 2 night abilities per night. You keep this if your class changes
+&gt;
+&gt;Night Ability 1: Negotiate - Link 2 players together. They may each send each other 2 1000 character messages. You will get each message too. (Unlimited)
+&gt;Night Ability 2: Notice - Send an anonymous message to target player immediately (3 uses)
+
+&gt; # [color = &quot;steblue&quot;]Messenger[/color]
+&gt; **[color = &quot;steblue&quot;]Revolution Social[/color]**
+&gt;
+&gt;Night Ability 1: Tamper - Target player will appear to be a member of the Revolution. You will receive the feedback of people visiting your target. (Unlimited)
+&gt;Night Ability 2: Intercept - Target player will receive information feedback. You will see the correct feedback. (Unlimited)
+[/details]
+
+
+[details=&quot;Neutrals&quot;]
+&gt; # Spy
+&gt; **Neutral Killer**
+&gt; **Any**
+&gt;
+&gt;Passive 1: Field Medic - Occupy and redirect immune. If you would die you will heal yourself
+&gt;Passive 2: Thief - Any excess resources put to a project will go to you. You keep them until they are put towards a project. You investigate as having whichever resource you used towards a project with the **Any** You may instead DM a resource without any associated project to change your Investigative result without contributing to a project.
+&gt;
+&gt;Day Ability 1: Bug - Learn who target player visited last night and who visited them as well as their night result (Unlimited)
+&gt;Day Ability 2: Demolition - Destroy target building at the end of the night. You cannot use abilities tonight. (1 use)
+&gt;
+&gt;Night Ability 1: Sabotage - Kill target player. Does not count as a visit. Can target civilians. (Unlimited)
+&gt;Night Ability 2: All in - Kill target player. Bypasses night immunity, healing and visit prevention. Will Kill 2 civilians instead of 1 if you target them. (2 uses)
+&gt;
+&gt; *Goal: Eliminate the Dominion and the Revolution or Eliminate the Civilians*
+
+&gt; # Builder
+&gt; **Neutral Support**
+&gt; **[color = &quot;lightgray&quot;] Stone [/color]**
+&gt; Passive: Reinforced Lock - Death immune once
+&gt;
+&gt; Night Ability 1: Hasten - Target player&#39;s resource contribution counts double tonight. Cannot target Chancellor (Unlimited)
+&gt; Night Ability 2: Resume - Learn if target player contributed more than one resource tonight. (4 uses)
+&gt;
+&gt; *Goal: See 5 projects completed. You do not have to survive*
+
+&gt; # Beggar
+&gt; **Neutral Offensive**
+&gt; **None**
+&gt;
+&gt;Passive 1: Stockpile - You keep any resources you have taken until used or contributed to a project. You start with 2 Wood, 1 Stone and 1 Gold. When stepping up to be chancellor you may expend your resources for an extra vote per resource
+&gt;Passive 2: Poor - If you become chancellor you will not have guards
+&gt;
+&gt;Day Ability 1: Shelter - Consume Wood to give yourself death immunity. Can be used D1 (X Uses)
+&gt;Day Ability 2: Wall - Consume Stone to occupy target player tonight. Can be used D1 (X Uses)
+&gt;
+&gt;Night Ability 1: Beg - Steal target player&#39;s resource. It will not be contributed tonight. You can use it for yourself. (Unlimited)
+&gt;Night Ability 2: Hired Sword - Consume Gold to kill target player. Can target Civilians (X Uses)
+&gt;
+&gt; *Goal: End the game alive as the Chancellor*
+
+&gt; # Merchant
+&gt; **Neutral Offensive**
+&gt; **[color = &quot;lightgray&quot;]Stone[/color]**
+&gt;
+&gt;Passive: Hired Guards - Death immune once. Immune to occupy
+&gt;
+&gt;Day Ability: Barter - Swap your resource for target players at the start of the night. They will (Unknowingly) contribute your current resource instead of their normal one tonight. You will get their resource until you use this ability again. You do not know what you get. Can be used D1(Unlimited)
+&gt;
+&gt;Night Ability: Purchase - Do an action depending on the resource you have. Wood: Occupy target player, Stone: Prevent visits to target player, Gold: Redirect anyone visiting you to your target bypassing redirect immunity, Any: Occupy target player bypassing night immunity and Prevent visits to your target. (Unlimited)
+&gt;
+&gt; *Goal: Be alive on Day 7*
+
+&gt; # Bounty Hunter
+&gt; **Neutral Social**
+&gt; **[color = &quot;brown&quot;]Wood[/color]**
+&gt;
+&gt;Passive: Trained - Immune to death, occupy and redirect
+&gt;
+&gt;Day Ability: Take contract - Set a bounty on target player at the start of the night. Can be used D1(5 uses)
+&gt;
+&gt;Night Ability 1: Frame - Target player will appear as a revolution member tonight (Unlimited)
+&gt;Night Ability 2: Mistrial - Target player will flip as a class of your choice if executed tomorrow (1 use)
+&gt;
+&gt; *Goal: Get 3 Bounties executed during the day*
+
+&gt; # Insider :shield: 
+&gt; **Neutral Investigative**
+&gt; **[color = &quot;brown&quot;]Wood[/color]**
+&gt;
+&gt;Passive: Allegiance - Immune to death from non-Dominion classes
+&gt;
+&gt;Day Ability: Snitch - Send an anonymous 1000 character message to target player (Unlimited)
+&gt;
+&gt;Night Ability 1: Snoop - Learn target players class (Unlimited)
+&gt;Night Ability 2: Interrogate - Learn who target player has visited and when (Including tonight) throughout the entire game (3 uses)
+&gt;
+&gt; *Live to see the Dominion lose*
+[/details]
+
+
+### Rolelist:
+**[color=steblue]Revolutionary[/color]**
+**[color=steblue]Missionary[/color]**
+**[color=green]The Lord[/color]**
+**[color=green]The Inspector[/color]**
+**[color=Green]Random Dominion[/color]**
+**[color=Green]Random Dominion[/color]**
+**[color=Green]Random Dominion[/color]**
+**[color=Green]Random Dominion[/color]**
+**[color=Green]Random Dominion[/color]**
+**[color=Green]Random Dominion[/color]**
+**[color=Green]Random Dominion[/color]**
+**[color=Green]Random Dominion[/color]**/**[color=grey]Neutral Non-Killer[/color]**
+**[color=Green]Random Dominion[/color]**/**[color=grey]Neutral Non-Killer[/color]**
+**[color=grey]Neutral Non-Killer[/color]**
+**[color=grey]Spy[/color]**
+
+D1, N1, D2, N2, D3, N3
+There is no D1 lynch and D1 will only be during the confirmation stage</description>
+    
+    <lastBuildDate>Fri, 19 Oct 2018 07:26:24 +0000</lastBuildDate>
+    <category>Forum Matches</category>
+    <atom:link href="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>SFoL Expansionist 2.0 WIP Proposal</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>reminder that I hiatused</strong></p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/86">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/86</link>
+        <pubDate>Fri, 19 Oct 2018 07:26:24 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73164-86</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164.rss">SFoL Expansionist 2.0 WIP Proposal</source>
+      </item>
+      <item>
+        <title>SFoL Expansionist 2.0 WIP Proposal</title>
+        <dc:creator><![CDATA[Luxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Can you actually play a game for once smh</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/85">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/85</link>
+        <pubDate>Fri, 19 Oct 2018 07:25:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73164-85</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164.rss">SFoL Expansionist 2.0 WIP Proposal</source>
+      </item>
+      <item>
+        <title>SFoL Expansionist 2.0 WIP Proposal</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>/pre-spectate</strong></p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/84">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/84</link>
+        <pubDate>Fri, 19 Oct 2018 07:21:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73164-84</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164.rss">SFoL Expansionist 2.0 WIP Proposal</source>
+      </item>
+      <item>
+        <title>SFoL Expansionist 2.0 WIP Proposal</title>
+        <dc:creator><![CDATA[Insanity]]></dc:creator>
+        <description><![CDATA[
+            <p>I swear to god I won’t be as useless as last time.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/83">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/83</link>
+        <pubDate>Fri, 19 Oct 2018 01:52:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73164-83</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164.rss">SFoL Expansionist 2.0 WIP Proposal</source>
+      </item>
+      <item>
+        <title>SFoL Expansionist 2.0 WIP Proposal</title>
+        <dc:creator><![CDATA[Insanity]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>/pre co-host</strong></p>
+<p><img src="/images/emoji/twitter/smiley.png?v=9" title=":smiley:" class="emoji only-emoji" alt=":smiley:"></p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/82">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/82</link>
+        <pubDate>Fri, 19 Oct 2018 01:49:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73164-82</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164.rss">SFoL Expansionist 2.0 WIP Proposal</source>
+      </item>
+      <item>
+        <title>SFoL Expansionist 2.0 WIP Proposal</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Eh. FM has always been hit or miss compared to turbo. I can have a short attention span when I’m doing something besides math and algorithms (and sometimes even when I am)</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/81">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/81</link>
+        <pubDate>Fri, 19 Oct 2018 01:25:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73164-81</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164.rss">SFoL Expansionist 2.0 WIP Proposal</source>
+      </item>
+      <item>
+        <title>SFoL Expansionist 2.0 WIP Proposal</title>
+        <dc:creator><![CDATA[Livicus]]></dc:creator>
+        <description><![CDATA[
+            <p>That’s also my question</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/80">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/80</link>
+        <pubDate>Thu, 18 Oct 2018 23:41:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73164-80</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164.rss">SFoL Expansionist 2.0 WIP Proposal</source>
+      </item>
+      <item>
+        <title>SFoL Expansionist 2.0 WIP Proposal</title>
+        <dc:creator><![CDATA[Luxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Nuke why do you never play forum mafia?</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/79">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/79</link>
+        <pubDate>Thu, 18 Oct 2018 23:40:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73164-79</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164.rss">SFoL Expansionist 2.0 WIP Proposal</source>
+      </item>
+      <item>
+        <title>SFoL Expansionist 2.0 WIP Proposal</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Anyways this isn’t actually on the que yet. It will be soon I’m just trying to make sure it’s balanced before I do that</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/78">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/78</link>
+        <pubDate>Thu, 18 Oct 2018 23:38:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73164-78</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164.rss">SFoL Expansionist 2.0 WIP Proposal</source>
+      </item>
+      <item>
+        <title>SFoL Expansionist 2.0 WIP Proposal</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Totally possible</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/77">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/77</link>
+        <pubDate>Thu, 18 Oct 2018 23:37:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73164-77</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164.rss">SFoL Expansionist 2.0 WIP Proposal</source>
+      </item>
+      <item>
+        <title>SFoL Expansionist 2.0 WIP Proposal</title>
+        <dc:creator><![CDATA[Htm]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>/pre co host?</strong></p>
+<p>if not possible then <strong>/pre in</strong></p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/76">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/76</link>
+        <pubDate>Thu, 18 Oct 2018 23:21:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73164-76</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164.rss">SFoL Expansionist 2.0 WIP Proposal</source>
+      </item>
+      <item>
+        <title>SFoL Expansionist 2.0 WIP Proposal</title>
+        <dc:creator><![CDATA[Livicus]]></dc:creator>
+        <description><![CDATA[
+            <p><img src="/images/emoji/twitter/crossed_swords.png?v=9" title=":crossed_swords:" class="emoji only-emoji" alt=":crossed_swords:"></p>
+<p><em>RIOT</em></p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/75">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/75</link>
+        <pubDate>Thu, 18 Oct 2018 22:12:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73164-75</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164.rss">SFoL Expansionist 2.0 WIP Proposal</source>
+      </item>
+      <item>
+        <title>SFoL Expansionist 2.0 WIP Proposal</title>
+        <dc:creator><![CDATA[Luxy]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>/pre-in</strong></p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/74">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/74</link>
+        <pubDate>Thu, 18 Oct 2018 22:12:28 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73164-74</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164.rss">SFoL Expansionist 2.0 WIP Proposal</source>
+      </item>
+      <item>
+        <title>SFoL Expansionist 2.0 WIP Proposal</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Come at me Bro <img src="/images/emoji/twitter/crossed_swords.png?v=9" title=":crossed_swords:" class="emoji" alt=":crossed_swords:"></p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/73">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/73</link>
+        <pubDate>Thu, 18 Oct 2018 22:07:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73164-73</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164.rss">SFoL Expansionist 2.0 WIP Proposal</source>
+      </item>
+      <item>
+        <title>SFoL Expansionist 2.0 WIP Proposal</title>
+        <dc:creator><![CDATA[Luxy]]></dc:creator>
+        <description><![CDATA[
+            <p><span class="mention">@Kirefitten</span> <a class="mention" href="/u/livicus">@Livicus</a> we got a riot on our hands</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/72">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/72</link>
+        <pubDate>Thu, 18 Oct 2018 22:06:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73164-72</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164.rss">SFoL Expansionist 2.0 WIP Proposal</source>
+      </item>
+      <item>
+        <title>SFoL Expansionist 2.0 WIP Proposal</title>
+        <dc:creator><![CDATA[Luxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Farms or riot.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/71">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/71</link>
+        <pubDate>Thu, 18 Oct 2018 22:06:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73164-71</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164.rss">SFoL Expansionist 2.0 WIP Proposal</source>
+      </item>
+      <item>
+        <title>SFoL Expansionist 2.0 WIP Proposal</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>this isn’t 10 civ’s either</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/70">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/70</link>
+        <pubDate>Thu, 18 Oct 2018 22:06:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73164-70</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164.rss">SFoL Expansionist 2.0 WIP Proposal</source>
+      </item>
+      <item>
+        <title>SFoL Expansionist 2.0 WIP Proposal</title>
+        <dc:creator><![CDATA[Luxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Excuse me, civ granarys give a straight 5% food bonus not 50% percent!</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/69">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/69</link>
+        <pubDate>Thu, 18 Oct 2018 22:05:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73164-69</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164.rss">SFoL Expansionist 2.0 WIP Proposal</source>
+      </item>
+      <item>
+        <title>SFoL Expansionist 2.0 WIP Proposal</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>This isn’t civ</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/68">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/68</link>
+        <pubDate>Thu, 18 Oct 2018 22:05:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73164-68</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164.rss">SFoL Expansionist 2.0 WIP Proposal</source>
+      </item>
+      <item>
+        <title>SFoL Expansionist 2.0 WIP Proposal</title>
+        <dc:creator><![CDATA[Luxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Nah add farms, and make granary give like a 50% bonus to food output or something</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/67">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/67</link>
+        <pubDate>Thu, 18 Oct 2018 22:04:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73164-67</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164.rss">SFoL Expansionist 2.0 WIP Proposal</source>
+      </item>
+      <item>
+        <title>SFoL Expansionist 2.0 WIP Proposal</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Ugg. Who cares</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/66">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/66</link>
+        <pubDate>Thu, 18 Oct 2018 22:03:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73164-66</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164.rss">SFoL Expansionist 2.0 WIP Proposal</source>
+      </item>
+      <item>
+        <title>SFoL Expansionist 2.0 WIP Proposal</title>
+        <dc:creator><![CDATA[Luxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Add farms or riot</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/65">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/65</link>
+        <pubDate>Thu, 18 Oct 2018 22:02:54 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73164-65</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164.rss">SFoL Expansionist 2.0 WIP Proposal</source>
+      </item>
+      <item>
+        <title>SFoL Expansionist 2.0 WIP Proposal</title>
+        <dc:creator><![CDATA[Livicus]]></dc:creator>
+        <description><![CDATA[
+            <p>I think there should be a wheat field</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/64">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/64</link>
+        <pubDate>Thu, 18 Oct 2018 22:02:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73164-64</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164.rss">SFoL Expansionist 2.0 WIP Proposal</source>
+      </item>
+      <item>
+        <title>SFoL Expansionist 2.0 WIP Proposal</title>
+        <dc:creator><![CDATA[Luxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Grainerys store food, not create it?</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/63">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/63</link>
+        <pubDate>Thu, 18 Oct 2018 22:02:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73164-63</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164.rss">SFoL Expansionist 2.0 WIP Proposal</source>
+      </item>
+      <item>
+        <title>SFoL Expansionist 2.0 WIP Proposal</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>They had food. But they ran out and need a grainery to get more</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/62">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164/62</link>
+        <pubDate>Thu, 18 Oct 2018 21:59:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73164-62</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-expansionist-2-0-wip-proposal/73164.rss">SFoL Expansionist 2.0 WIP Proposal</source>
+      </item>
+  </channel>
+</rss>

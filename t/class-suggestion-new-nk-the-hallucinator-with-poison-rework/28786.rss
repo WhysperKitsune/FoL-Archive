@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Class Suggestion - new NK - The Hallucinator (with Poison rework)</title>
+    <link>https://forum.throneoflies.com/t/class-suggestion-new-nk-the-hallucinator-with-poison-rework/28786</link>
+    <description>I&#39;d like to suggest a new Neutral Killer class to add some variety.  The **Hallucinator**.
+
+The Hallucinator is a simple peasant of the realm cursed from birth in both status and with a partial psychic talent he can neither control nor ignore.  He has been driven mad by the incessant chatter of the dead and has come to believe he can be a vessel for a divine reincarnation to bridge this world and the next, burning everything around him to ashes.
+
+In game the Hallucinator cannot win the game until he can reincarnate into another player&#39;s class and faction.  Once he does, he can only win if he fulfills the win condition(s) of his reincarnated class.  Reincarnation can only target non-king dead players and once reincarnated, the player loses all abilities and faction of the Hallucinator class.  The Hallucinator gains the abilities of the reincarnated class but does not gain more charges for charge-type abilities than the target player had when he died.
+
+Reincarnation is disabled while there is another alive player who has the ability to talk to or hear the dead.  The Hallucinator must completely own the domain of the dead before he can perform the ritual.  Reincarnation can also be negated by occupation.
+
+Note: Rework the Talk to the Dead passive so that whenever a dead player types a message in chat, only one alive player with the Talk to the Dead ability may hear it, and cycle through each player as each dead message comes through.  Furthermore, when the Hallucinator is sent a message from the dead, the message is credited to &#39;Voice&#39; instead of the player&#39;s name and number.
+
+The main attack the Hallucinator has is &#39;Spike Sanity&#39;.  This is available both Night and Day.  The Night form has 2 charges.  The Day form has infinite charges but can only be used once per cycle.  This is a single target attack, and if successful the target is afflicted with &#39;Hallucinated Poison&#39;.
+
+**Poison Rework**
+
+To support the &#39;Hallucinated Poison&#39; idea, I&#39;d suggest reworking poison effects in a certain way.  First, define three types of poisons:
+
+&#39;Nightshade Poison&#39; - kills a player in 2 nights unless cured.
+&#39;Emerald Poison&#39; - kills a player in 1 night unless cured.
+&#39;Hallucinated Poison&#39; -  does not kill a player by itself, remains until cleansed by another class (not Physician, probably Psychic or Sage or even Priest)
+
+Any player afflicted with any poison type will also be given a hidden &#39;Sense of Poison&#39; tag.  Messages about the poison sent to players with the &#39;Sense of Poison&#39; tag will be only a vague &#39;You sense a poison coursing through your veins.&#39; message.  Physician will be given an additional message if afflicted with Nightshade.  Alchemists will be given an additional message if afflicted with either Nightshade or Emerald poison.  Change the Alchemist Emerald Potion to instead afflict Emerald Poison on the target to give the target 1 day to react instead of being a yolo bomb kill.
+
+In this way players have to do some work to piece together what type of poison is at play, or otherwise make a guess as to which poisoned player is most important to send a heal to.
+
+**Hallucinated Poison**
+
+Any player afflicted with &#39;Hallucinated Poison&#39; also is in danger of falling into a deadly trap.  At the beginning of each phase, the game will select at random two other alive players as &#39;hallucinated targets&#39;.  If the player uses an ability that targets one of those targets, that target will be swapped with the other hallucinated target instead.  Much like a Court WIzard target swap.  Additionally, as soon as the player clicks on the number in the targeting box of one of those targets, whether day or night, the trap is triggered, and the player is afflicted with &#39;Sense of Madness&#39; and be given the messaging &#39;A sense of madness grips you.&#39;
+
+A player afflicted with &#39;Sense of Madness&#39; will suicide at the soonest end of night phase, unless that player was occupied that night.  A Drunk or a Butler can be a great help to keep a victim alive.  &#39;Sense of Madness&#39; cannot be cured or cleansed.
+
+The game will provide a clue for people who are afflicted with &#39;Hallucinated Poison&#39;.  Whenever an afflicted player types a player number in chat or in his log, if that number is one of the current hallucinated targets, the game will automatically swap that number in that message or log when shown to other players.  The player himself still sees the number as he typed it, but others will see the swapped numbers instead.  If players are paying attention, they may be able to work together to understand exactly which numbers are the hallucinated targets.
+
+
+So to sum up, the Hallucinator plays like a trapper class.  Every day you set up a trap around another player, and that player has to deal with a personal Tornado trap every phase.  If that player walks into the trap by triggering the Tornado swap, that player is doomed to die, but a friendly Drunk can postpone his death every night.
+
+Once all the other Psychics are dead, the Hallucinator can reincarnate into the class of a dead player, and dead players can lobby the Hallucinator for their faction.  Evil factions can even try to influence the Hallucinator by relaying information on Psychics who are alive.  Psychics should be careful how much information they share with the dead in this case.
+
+
+**Bonus suggestion - Butlers and Poison**
+
+As a bonus suggestion, I&#39;d suggest the Butler&#39;s current day ability &#39;Poison King&#39; be changed into &#39;Spike Wine&#39; instead.  At the beginning of the game, this power carries 0 charges.  If the Butler is poisoned with Nightshade or Emerald poison, he gains 1 charge of &#39;Spike Wine&#39;.  If the Butler is visited by or occupies a player poisoned with Nightshade or Emerald poison, the Butler gains 1 charge of &#39;Spike Wine&#39;.  The Butler recognizes when the drink is tainted (after the fact), and can procure a sample for himself to reuse later.
+
+When the Butler uses the &#39;Spike Wine&#39; ability during the day, his night ability to serve wine will include a poison effect.  Anyone he occupies or who visits him will be afflicted with Nightshade poison.  The Butler&#39;s wine will return to normal at the end of the night.  
+
+Also, the Butler may serve wine to the King at night (to compensate for losing the direct &#39;Poison King&#39; day ability).  This means the Butler is less able to prove his Butler claim by immediately poisoning the King, but can instead prove it by letting someone occupy him at night and causing poison to that player.  This would also give the Butler a means of self defense by ensuring attackers take a poison effect in exchange.</description>
+    
+    <lastBuildDate>Sun, 17 Dec 2017 00:48:01 +0000</lastBuildDate>
+    <category>Feedback/Suggestions</category>
+    <atom:link href="https://forum.throneoflies.com/t/class-suggestion-new-nk-the-hallucinator-with-poison-rework/28786.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Class Suggestion - new NK - The Hallucinator (with Poison rework)</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>For the class suggestion please clean it up like this</p>
+<blockquote>
+<p>Class name - Class type<br>
+Passive 1: Name - Effect<br>
+Passive 2: Name - Effect<br>
+.<br>
+Day ability 1: Name - Effect<br>
+Day ability 2: Name - Effect<br>
+.<br>
+Night ability 1: Name - Effect<br>
+Night ability 2: Name - Effect<br>
+.<br>
+Goal: [Insert win condition here]</p>
+</blockquote>
+<p>Right now I cannot  understand what exactly it is beyond the fact that there is poison I guess.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-new-nk-the-hallucinator-with-poison-rework/28786/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-new-nk-the-hallucinator-with-poison-rework/28786/2</link>
+        <pubDate>Sun, 17 Dec 2017 00:48:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-28786-2</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-new-nk-the-hallucinator-with-poison-rework/28786.rss">Class Suggestion - new NK - The Hallucinator (with Poison rework)</source>
+      </item>
+      <item>
+        <title>Class Suggestion - new NK - The Hallucinator (with Poison rework)</title>
+        <dc:creator><![CDATA[jaded]]></dc:creator>
+        <description><![CDATA[
+            <p>I’d like to suggest a new Neutral Killer class to add some variety.  The <strong>Hallucinator</strong>.</p>
+<p>The Hallucinator is a simple peasant of the realm cursed from birth in both status and with a partial psychic talent he can neither control nor ignore.  He has been driven mad by the incessant chatter of the dead and has come to believe he can be a vessel for a divine reincarnation to bridge this world and the next, burning everything around him to ashes.</p>
+<p>In game the Hallucinator cannot win the game until he can reincarnate into another player’s class and faction.  Once he does, he can only win if he fulfills the win condition(s) of his reincarnated class.  Reincarnation can only target non-king dead players and once reincarnated, the player loses all abilities and faction of the Hallucinator class.  The Hallucinator gains the abilities of the reincarnated class but does not gain more charges for charge-type abilities than the target player had when he died.</p>
+<p>Reincarnation is disabled while there is another alive player who has the ability to talk to or hear the dead.  The Hallucinator must completely own the domain of the dead before he can perform the ritual.  Reincarnation can also be negated by occupation.</p>
+<p>Note: Rework the Talk to the Dead passive so that whenever a dead player types a message in chat, only one alive player with the Talk to the Dead ability may hear it, and cycle through each player as each dead message comes through.  Furthermore, when the Hallucinator is sent a message from the dead, the message is credited to ‘Voice’ instead of the player’s name and number.</p>
+<p>The main attack the Hallucinator has is ‘Spike Sanity’.  This is available both Night and Day.  The Night form has 2 charges.  The Day form has infinite charges but can only be used once per cycle.  This is a single target attack, and if successful the target is afflicted with ‘Hallucinated Poison’.</p>
+<p><strong>Poison Rework</strong></p>
+<p>To support the ‘Hallucinated Poison’ idea, I’d suggest reworking poison effects in a certain way.  First, define three types of poisons:</p>
+<p>‘Nightshade Poison’ - kills a player in 2 nights unless cured.<br>
+‘Emerald Poison’ - kills a player in 1 night unless cured.<br>
+‘Hallucinated Poison’ -  does not kill a player by itself, remains until cleansed by another class (not Physician, probably Psychic or Sage or even Priest)</p>
+<p>Any player afflicted with any poison type will also be given a hidden ‘Sense of Poison’ tag.  Messages about the poison sent to players with the ‘Sense of Poison’ tag will be only a vague ‘You sense a poison coursing through your veins.’ message.  Physician will be given an additional message if afflicted with Nightshade.  Alchemists will be given an additional message if afflicted with either Nightshade or Emerald poison.  Change the Alchemist Emerald Potion to instead afflict Emerald Poison on the target to give the target 1 day to react instead of being a yolo bomb kill.</p>
+<p>In this way players have to do some work to piece together what type of poison is at play, or otherwise make a guess as to which poisoned player is most important to send a heal to.</p>
+<p><strong>Hallucinated Poison</strong></p>
+<p>Any player afflicted with ‘Hallucinated Poison’ also is in danger of falling into a deadly trap.  At the beginning of each phase, the game will select at random two other alive players as ‘hallucinated targets’.  If the player uses an ability that targets one of those targets, that target will be swapped with the other hallucinated target instead.  Much like a Court WIzard target swap.  Additionally, as soon as the player clicks on the number in the targeting box of one of those targets, whether day or night, the trap is triggered, and the player is afflicted with ‘Sense of Madness’ and be given the messaging ‘A sense of madness grips you.’</p>
+<p>A player afflicted with ‘Sense of Madness’ will suicide at the soonest end of night phase, unless that player was occupied that night.  A Drunk or a Butler can be a great help to keep a victim alive.  ‘Sense of Madness’ cannot be cured or cleansed.</p>
+<p>The game will provide a clue for people who are afflicted with ‘Hallucinated Poison’.  Whenever an afflicted player types a player number in chat or in his log, if that number is one of the current hallucinated targets, the game will automatically swap that number in that message or log when shown to other players.  The player himself still sees the number as he typed it, but others will see the swapped numbers instead.  If players are paying attention, they may be able to work together to understand exactly which numbers are the hallucinated targets.</p>
+<p>So to sum up, the Hallucinator plays like a trapper class.  Every day you set up a trap around another player, and that player has to deal with a personal Tornado trap every phase.  If that player walks into the trap by triggering the Tornado swap, that player is doomed to die, but a friendly Drunk can postpone his death every night.</p>
+<p>Once all the other Psychics are dead, the Hallucinator can reincarnate into the class of a dead player, and dead players can lobby the Hallucinator for their faction.  Evil factions can even try to influence the Hallucinator by relaying information on Psychics who are alive.  Psychics should be careful how much information they share with the dead in this case.</p>
+<p><strong>Bonus suggestion - Butlers and Poison</strong></p>
+<p>As a bonus suggestion, I’d suggest the Butler’s current day ability ‘Poison King’ be changed into ‘Spike Wine’ instead.  At the beginning of the game, this power carries 0 charges.  If the Butler is poisoned with Nightshade or Emerald poison, he gains 1 charge of ‘Spike Wine’.  If the Butler is visited by or occupies a player poisoned with Nightshade or Emerald poison, the Butler gains 1 charge of ‘Spike Wine’.  The Butler recognizes when the drink is tainted (after the fact), and can procure a sample for himself to reuse later.</p>
+<p>When the Butler uses the ‘Spike Wine’ ability during the day, his night ability to serve wine will include a poison effect.  Anyone he occupies or who visits him will be afflicted with Nightshade poison.  The Butler’s wine will return to normal at the end of the night.</p>
+<p>Also, the Butler may serve wine to the King at night (to compensate for losing the direct ‘Poison King’ day ability).  This means the Butler is less able to prove his Butler claim by immediately poisoning the King, but can instead prove it by letting someone occupy him at night and causing poison to that player.  This would also give the Butler a means of self defense by ensuring attackers take a poison effect in exchange.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-new-nk-the-hallucinator-with-poison-rework/28786/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-new-nk-the-hallucinator-with-poison-rework/28786/1</link>
+        <pubDate>Sun, 17 Dec 2017 00:33:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-28786-1</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-new-nk-the-hallucinator-with-poison-rework/28786.rss">Class Suggestion - new NK - The Hallucinator (with Poison rework)</source>
+      </item>
+  </channel>
+</rss>

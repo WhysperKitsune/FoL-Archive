@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Are Replacements on FoL Alignment-Indicative? An Analysis</title>
+    <link>https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279</link>
+    <description># Are Replacements on FoL Alignment-Indicative? An Analysis.
+
+**Introduction**
+
+A common belief among forum mafia players is that replacements are alignment-indicative, and in particular indicative that that player is more likely to be Mafia. Terms such as &quot;RWSTFO&quot; (&quot;rand wolf, sub the fuck out&quot;) are often applied to argue that there is a pattern of Mafia replacing out for solely alignment related reasons. While there are certainly some replacements that are alignment-indicative, I was curious if the trend was true overall, so I decided to investigate. I don&#39;t know if anyone else actually cares, but if you don&#39;t care, you can just skip the post.
+
+**Methodology**
+
+I analyzed completed forum mafia games from 2021, going based off of the [list of completed games](https://forum.throneoflies.com/t/list-of-completed-fm-games-2021/87188) in 2021. (As the 2020 list is not fully updated, I didn&#39;t want to risk missing some games from 2020 if I included 2020 games in the sample). I excluded Quantum Mafia due to the fact that most players did not know their alignment until roughly day 4, and the fact that player actions could very directly influence alignment; this left me with 22 completed games. I counted the number of scum, town, and third party replacements, and calculated the proportion of each faction that replaced out over the course of all games in the sample.
+
+One complicating factor was the presence of conversion in many FoL and SFoL setups. For the purposes of this analysis, I counted converted players as scum. (No one in the sample replaced out in a converted slot, either before or after conversion, so the only thing this affects is the total number of scum and town).
+
+In cases where multiple players replaced out of a slot, I counted each rotation separately. Pre-game subs were excluded from the analysis entirely (including one potentially-alignment-indicative case in which a player subbed out due to having outed in the signup thread, but possibly after receiving a rolecard).
+
+**Results**
+
+
+[details=&quot;Summary&quot;]
+FoL Annual Mash - 4 subs (3 wolf, 1 town) [overall playercomposition was 33/12/2]
+Ninjas and Guns - 3 subs (0 wolf, 3 town) [player composition was 13/4]
+RWBY FM - 6 subs (0 wolf, 6 town) [13/4]
+Catgirl Bomb Nightless 0 subs (0 wolf, 0 town) [9/3]
+NFoL 5 - 1 sub (0 wolf, 1 town) [9/4/3]
+DitF FM - 6 subs (1 wolf, 5 town) [15/6]
+Sonic the Hedgehog FM - 4 subs (0 wolf, 3 town) [10/3]
+SFoL 66 - 3 subs (0 wolf, 2 town, 1 3p) [11/3/2]
+Return of the Darkness UPick - 6 subs (3 wolf, 3 town) [13/4]
+NUF FM 2 - 0 subs afaict (0 wolf, 0 town) [11/3/1]
+Golden Wind Smalltown - 1 sub (0 wolf, 1 town) [10/3]
+Catgrill Night Jesterless - 0 subs (0 wolf, 0 town) [5/2]
+Modified Thing Game - 2 subs (0 wolf, 2 town) [13/4]
+Vig10 - 0 subs (0 wolf, 0 town) [8/2]
+Umineko FM 2 - 0 subs (0 wolf, 0 town) [14/4]
+Quantum Mafia: I am explicitly discounting this one because most players didn’t know their alignment until D3-D4. all the subs were town though.
+SFoL 65 - 3 subs (1 wolf, 2 town) [10/5/2]
+Shortnite 2 - 4 subs (0 wolf, 2 town) [12/3]
+EFoL 4 - 3 subs (1 wolf, 2 town) [11/2/3]
+Clown Fiesta 2 - 1 sub (0 wolf, 1 town) [16/5/1]
+Morphogenetic Mafia - 2 subs (0 wolf, 2 town) [14/4]
+Gay Mafia - 1 sub (0 wolf, 1 town) [6/2]
+JoaTJoaTJoaT13 - 0 subs (0 wolf, 0 town) [10/3]
+[/details]
+
+*Disclaimer: It is possible that I erred in some way while counting subs, as many OPs were only partially updated. I welcome any corrections to this data.*
+
+Overall, there were 9 wolf subs, 37 town subs, 1 3p sub. There were 85 total wolf slots in the sample, 248 village slots, and 14 3p slots, for a 10.6% wolf sub rate, a 14.9% village sub rate, and a 7.1% 3p sub rate.
+
+Additionally, I performed a 2-proportion z-test with a two-tailed hypothesis (basically, a [statistical test](https://www.statisticshowto.com/probability-and-statistics/hypothesis-testing/z-test/) used to compare the proportion of something in two populations), and got a p-value of .31732, which is not generally considered statistically significant. (In plain English, that means that if wolves and town are equally likely to sub out, the odds of a difference this extreme in either direction happening by pure random chance are roughly 31.7 percent). I didn&#39;t do any statistical tests with third party sub rates due to the very low sample size.
+
+**Caveats**
+
+There are a few factors that may make this result less reliable.
+- I was specifically looking at games from FoL. Other sites may have more alignment-indicative sub rates. 
+- While this result fails to support the conclusion that substitutions are alignment-indicative in the aggregate, they are still sometimes AI in individual circumstances -- there are a few subs in this sample that I know to have been influenced by the player&#39;s alignment. Similarly, it doesn&#39;t account for the possibility that *individual* subs are consistently alignment indicative, but *collectively* happen in proportion to the ratio of scum and town.
+- Some of these were force-replacements. I didn&#39;t have data on which subs were force-replacements and which weren&#39;t, so I couldn&#39;t exclude forced subs from the sample, and forced subs are more likely to happen to villagers for game integrity reasons. 
+- In a couple of cases, a player attempted to sub out, but was killed or executed before they could actually be replaced. I didn&#39;t count those because I couldn&#39;t confidently be aware of all cases when it had happened.
+
+**Conclusions**
+
+Overall, the data does not support the conclusion that substitutions on FoL  are alignment-indicative, and especially does not support the conclusion that substitutions are Mafia-indicative. Although attempting to use substitutions to argue that a player is a particular alignment is considered angleshooting anyway, the evidence does not support the conclusion that it would even be accurate angleshooting.</description>
+    
+    <lastBuildDate>Sun, 04 Jul 2021 16:09:26 +0000</lastBuildDate>
+    <category>Discussion</category>
+    <atom:link href="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Are Replacements on FoL Alignment-Indicative? An Analysis</title>
+        <dc:creator><![CDATA[lol]]></dc:creator>
+        <description><![CDATA[
+            <p>good</p>
+          <p><a href="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/19</link>
+        <pubDate>Sun, 04 Jul 2021 16:09:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88279-19</guid>
+        <source url="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279.rss">Are Replacements on FoL Alignment-Indicative? An Analysis</source>
+      </item>
+      <item>
+        <title>Are Replacements on FoL Alignment-Indicative? An Analysis</title>
+        <dc:creator><![CDATA[Icibalus]]></dc:creator>
+        <description><![CDATA[
+            <p>i used to be allergic to wolfing but then i got cured by the Wolfing Mister</p>
+          <p><a href="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/18</link>
+        <pubDate>Sat, 03 Jul 2021 21:45:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88279-18</guid>
+        <source url="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279.rss">Are Replacements on FoL Alignment-Indicative? An Analysis</source>
+      </item>
+      <item>
+        <title>Are Replacements on FoL Alignment-Indicative? An Analysis</title>
+        <dc:creator><![CDATA[Marshal]]></dc:creator>
+        <description><![CDATA[
+            <p>some ppl are allergic to wolfing lol</p>
+          <p><a href="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/17</link>
+        <pubDate>Sat, 03 Jul 2021 20:16:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88279-17</guid>
+        <source url="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279.rss">Are Replacements on FoL Alignment-Indicative? An Analysis</source>
+      </item>
+      <item>
+        <title>Are Replacements on FoL Alignment-Indicative? An Analysis</title>
+        <dc:creator><![CDATA[GGhana]]></dc:creator>
+        <description><![CDATA[
+            <p>wait hang on</p>
+<p>why would wolves sub out more than villagers?</p>
+<p>I dont want to reveal too much about my playstyle but i dont get that at all</p>
+          <p><a href="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/16</link>
+        <pubDate>Sat, 03 Jul 2021 19:28:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88279-16</guid>
+        <source url="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279.rss">Are Replacements on FoL Alignment-Indicative? An Analysis</source>
+      </item>
+      <item>
+        <title>Are Replacements on FoL Alignment-Indicative? An Analysis</title>
+        <dc:creator><![CDATA[Arctic]]></dc:creator>
+        <description><![CDATA[
+            <p>the way i leant it was “there’s an x% likelihood that the result you have found is due to chance”</p>
+<p>when x exceeds a certain theshold (normally 5% although for two-tailed it’s more like 10%) you can no longer be sure that your results are significant because they can be explained by randomly occurring differences in the population</p>
+          <p><a href="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/15</link>
+        <pubDate>Sat, 03 Jul 2021 00:31:54 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88279-15</guid>
+        <source url="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279.rss">Are Replacements on FoL Alignment-Indicative? An Analysis</source>
+      </item>
+      <item>
+        <title>Are Replacements on FoL Alignment-Indicative? An Analysis</title>
+        <dc:creator><![CDATA[Arctic]]></dc:creator>
+        <description><![CDATA[
+            <p>this was pretty interesting</p>
+<p>i am glad that statistical testing i learnt in psychology class was somewhat relevant</p>
+          <p><a href="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/14</link>
+        <pubDate>Sat, 03 Jul 2021 00:26:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88279-14</guid>
+        <source url="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279.rss">Are Replacements on FoL Alignment-Indicative? An Analysis</source>
+      </item>
+      <item>
+        <title>Are Replacements on FoL Alignment-Indicative? An Analysis</title>
+        <dc:creator><![CDATA[Intensify]]></dc:creator>
+        <description><![CDATA[
+            <p><s>Clearly, more scum need to sub out to balance the scale</s></p>
+          <p><a href="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/13</link>
+        <pubDate>Sat, 03 Jul 2021 00:24:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88279-13</guid>
+        <source url="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279.rss">Are Replacements on FoL Alignment-Indicative? An Analysis</source>
+      </item>
+      <item>
+        <title>Are Replacements on FoL Alignment-Indicative? An Analysis</title>
+        <dc:creator><![CDATA[sulit]]></dc:creator>
+        <description><![CDATA[
+            <p>rand town sub out</p>
+          <p><a href="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/12</link>
+        <pubDate>Fri, 02 Jul 2021 23:49:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88279-12</guid>
+        <source url="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279.rss">Are Replacements on FoL Alignment-Indicative? An Analysis</source>
+      </item>
+      <item>
+        <title>Are Replacements on FoL Alignment-Indicative? An Analysis</title>
+        <dc:creator><![CDATA[Atlas]]></dc:creator>
+        <description><![CDATA[
+            <p>Don’t worry, i didn’t understand a single word!</p>
+          <p><a href="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/11</link>
+        <pubDate>Fri, 02 Jul 2021 23:47:17 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88279-11</guid>
+        <source url="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279.rss">Are Replacements on FoL Alignment-Indicative? An Analysis</source>
+      </item>
+      <item>
+        <title>Are Replacements on FoL Alignment-Indicative? An Analysis</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            <p>That’s why I tested for statistical significance</p>
+<p>Basically, to put it in normal person language, even if it’s not AI, there might be a slight skew one way or the other by random chance. In this case, there’s roughly a 31 percent chance of getting this much of a difference in proportion, in either direction, if subs are genuinely not AI overall, which is reasonably likely (the most commonly used cutoff is 5 percent).</p>
+<p>(I don’t know if that explanation made sense at all + I’m eliding some complexity)</p>
+          <p><a href="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/10</link>
+        <pubDate>Fri, 02 Jul 2021 23:46:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88279-10</guid>
+        <source url="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279.rss">Are Replacements on FoL Alignment-Indicative? An Analysis</source>
+      </item>
+      <item>
+        <title>Are Replacements on FoL Alignment-Indicative? An Analysis</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            <p>Replacing in is &gt;rand V for me, out of 6 FM games that I’ve replaced into only 1 has been scum</p>
+<p>or 1/7 if you count BotF</p>
+          <p><a href="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/9</link>
+        <pubDate>Fri, 02 Jul 2021 23:42:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88279-9</guid>
+        <source url="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279.rss">Are Replacements on FoL Alignment-Indicative? An Analysis</source>
+      </item>
+      <item>
+        <title>Are Replacements on FoL Alignment-Indicative? An Analysis</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>like if somebody is posting a ton and then gets subbed out it’s obvious it wasn’t an engagement thing</p>
+<p>if they barely post, disappear, and then get replaced?</p>
+          <p><a href="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/8</link>
+        <pubDate>Fri, 02 Jul 2021 23:41:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88279-8</guid>
+        <source url="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279.rss">Are Replacements on FoL Alignment-Indicative? An Analysis</source>
+      </item>
+      <item>
+        <title>Are Replacements on FoL Alignment-Indicative? An Analysis</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>That being said I do think it’s generally not a massive surprise when I think about it</p>
+<p>However I’d imagine it’s probably true that most subs players <em>suspect</em> might be RWSTFO are</p>
+<p>but that’d be harder to prove</p>
+          <p><a href="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/7</link>
+        <pubDate>Fri, 02 Jul 2021 23:41:28 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88279-7</guid>
+        <source url="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279.rss">Are Replacements on FoL Alignment-Indicative? An Analysis</source>
+      </item>
+      <item>
+        <title>Are Replacements on FoL Alignment-Indicative? An Analysis</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>Not really, not statistically significant</p>
+          <p><a href="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/6</link>
+        <pubDate>Fri, 02 Jul 2021 23:39:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88279-6</guid>
+        <source url="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279.rss">Are Replacements on FoL Alignment-Indicative? An Analysis</source>
+      </item>
+      <item>
+        <title>Are Replacements on FoL Alignment-Indicative? An Analysis</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <p>arete did you write this so you can stop being policied for randing into W slots</p>
+          <p><a href="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/5</link>
+        <pubDate>Fri, 02 Jul 2021 23:38:54 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88279-5</guid>
+        <source url="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279.rss">Are Replacements on FoL Alignment-Indicative? An Analysis</source>
+      </item>
+      <item>
+        <title>Are Replacements on FoL Alignment-Indicative? An Analysis</title>
+        <dc:creator><![CDATA[Atlas]]></dc:creator>
+        <description><![CDATA[
+            <p>Doesn’t that mean that people that sub in are more likely to be villager, making it ai, just in the other way?</p>
+          <p><a href="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/4</link>
+        <pubDate>Fri, 02 Jul 2021 23:38:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88279-4</guid>
+        <source url="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279.rss">Are Replacements on FoL Alignment-Indicative? An Analysis</source>
+      </item>
+      <item>
+        <title>Are Replacements on FoL Alignment-Indicative? An Analysis</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>Interesting</p>
+<p>Definitely would have expected scum to sub out more often</p>
+          <p><a href="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/3</link>
+        <pubDate>Fri, 02 Jul 2021 23:37:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88279-3</guid>
+        <source url="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279.rss">Are Replacements on FoL Alignment-Indicative? An Analysis</source>
+      </item>
+      <item>
+        <title>Are Replacements on FoL Alignment-Indicative? An Analysis</title>
+        <dc:creator><![CDATA[EliThePsycho]]></dc:creator>
+        <description><![CDATA[
+            <p>thanks arete for the essay<br>
+time to read it</p>
+          <p><a href="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/2</link>
+        <pubDate>Fri, 02 Jul 2021 23:36:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88279-2</guid>
+        <source url="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279.rss">Are Replacements on FoL Alignment-Indicative? An Analysis</source>
+      </item>
+      <item>
+        <title>Are Replacements on FoL Alignment-Indicative? An Analysis</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            <h1>
+<a name="are-replacements-on-fol-alignment-indicative-an-analysis-1" class="anchor" href="#are-replacements-on-fol-alignment-indicative-an-analysis-1"></a>Are Replacements on FoL Alignment-Indicative? An Analysis.</h1>
+<p><strong>Introduction</strong></p>
+<p>A common belief among forum mafia players is that replacements are alignment-indicative, and in particular indicative that that player is more likely to be Mafia. Terms such as “RWSTFO” (“rand wolf, sub the fuck out”) are often applied to argue that there is a pattern of Mafia replacing out for solely alignment related reasons. While there are certainly some replacements that are alignment-indicative, I was curious if the trend was true overall, so I decided to investigate. I don’t know if anyone else actually cares, but if you don’t care, you can just skip the post.</p>
+<p><strong>Methodology</strong></p>
+<p>I analyzed completed forum mafia games from 2021, going based off of the <a href="https://forum.throneoflies.com/t/list-of-completed-fm-games-2021/87188">list of completed games</a> in 2021. (As the 2020 list is not fully updated, I didn’t want to risk missing some games from 2020 if I included 2020 games in the sample). I excluded Quantum Mafia due to the fact that most players did not know their alignment until roughly day 4, and the fact that player actions could very directly influence alignment; this left me with 22 completed games. I counted the number of scum, town, and third party replacements, and calculated the proportion of each faction that replaced out over the course of all games in the sample.</p>
+<p>One complicating factor was the presence of conversion in many FoL and SFoL setups. For the purposes of this analysis, I counted converted players as scum. (No one in the sample replaced out in a converted slot, either before or after conversion, so the only thing this affects is the total number of scum and town).</p>
+<p>In cases where multiple players replaced out of a slot, I counted each rotation separately. Pre-game subs were excluded from the analysis entirely (including one potentially-alignment-indicative case in which a player subbed out due to having outed in the signup thread, but possibly after receiving a rolecard).</p>
+<p><strong>Results</strong></p>
+<details>
+<summary>
+Summary</summary>
+<p>FoL Annual Mash - 4 subs (3 wolf, 1 town) [overall playercomposition was 33/12/2]<br>
+Ninjas and Guns - 3 subs (0 wolf, 3 town) [player composition was 13/4]<br>
+RWBY FM - 6 subs (0 wolf, 6 town) [13/4]<br>
+Catgirl Bomb Nightless 0 subs (0 wolf, 0 town) [9/3]<br>
+NFoL 5 - 1 sub (0 wolf, 1 town) [9/4/3]<br>
+DitF FM - 6 subs (1 wolf, 5 town) [15/6]<br>
+Sonic the Hedgehog FM - 4 subs (0 wolf, 3 town) [10/3]<br>
+SFoL 66 - 3 subs (0 wolf, 2 town, 1 3p) [11/3/2]<br>
+Return of the Darkness UPick - 6 subs (3 wolf, 3 town) [13/4]<br>
+NUF FM 2 - 0 subs afaict (0 wolf, 0 town) [11/3/1]<br>
+Golden Wind Smalltown - 1 sub (0 wolf, 1 town) [10/3]<br>
+Catgrill Night Jesterless - 0 subs (0 wolf, 0 town) [5/2]<br>
+Modified Thing Game - 2 subs (0 wolf, 2 town) [13/4]<br>
+Vig10 - 0 subs (0 wolf, 0 town) [8/2]<br>
+Umineko FM 2 - 0 subs (0 wolf, 0 town) [14/4]<br>
+Quantum Mafia: I am explicitly discounting this one because most players didn’t know their alignment until D3-D4. all the subs were town though.<br>
+SFoL 65 - 3 subs (1 wolf, 2 town) [10/5/2]<br>
+Shortnite 2 - 4 subs (0 wolf, 2 town) [12/3]<br>
+EFoL 4 - 3 subs (1 wolf, 2 town) [11/2/3]<br>
+Clown Fiesta 2 - 1 sub (0 wolf, 1 town) [16/5/1]<br>
+Morphogenetic Mafia - 2 subs (0 wolf, 2 town) [14/4]<br>
+Gay Mafia - 1 sub (0 wolf, 1 town) [6/2]<br>
+JoaTJoaTJoaT13 - 0 subs (0 wolf, 0 town) [10/3]</p>
+</details>
+<p><em>Disclaimer: It is possible that I erred in some way while counting subs, as many OPs were only partially updated. I welcome any corrections to this data.</em></p>
+<p>Overall, there were 9 wolf subs, 37 town subs, 1 3p sub. There were 85 total wolf slots in the sample, 248 village slots, and 14 3p slots, for a 10.6% wolf sub rate, a 14.9% village sub rate, and a 7.1% 3p sub rate.</p>
+<p>Additionally, I performed a 2-proportion z-test with a two-tailed hypothesis (basically, a <a href="https://www.statisticshowto.com/probability-and-statistics/hypothesis-testing/z-test/">statistical test</a> used to compare the proportion of something in two populations), and got a p-value of .31732, which is not generally considered statistically significant. (In plain English, that means that if wolves and town are equally likely to sub out, the odds of a difference this extreme in either direction happening by pure random chance are roughly 31.7 percent). I didn’t do any statistical tests with third party sub rates due to the very low sample size.</p>
+<p><strong>Caveats</strong></p>
+<p>There are a few factors that may make this result less reliable.</p>
+<ul>
+<li>I was specifically looking at games from FoL. Other sites may have more alignment-indicative sub rates.</li>
+<li>While this result fails to support the conclusion that substitutions are alignment-indicative in the aggregate, they are still sometimes AI in individual circumstances – there are a few subs in this sample that I know to have been influenced by the player’s alignment. Similarly, it doesn’t account for the possibility that <em>individual</em> subs are consistently alignment indicative, but <em>collectively</em> happen in proportion to the ratio of scum and town.</li>
+<li>Some of these were force-replacements. I didn’t have data on which subs were force-replacements and which weren’t, so I couldn’t exclude forced subs from the sample, and forced subs are more likely to happen to villagers for game integrity reasons.</li>
+<li>In a couple of cases, a player attempted to sub out, but was killed or executed before they could actually be replaced. I didn’t count those because I couldn’t confidently be aware of all cases when it had happened.</li>
+</ul>
+<p><strong>Conclusions</strong></p>
+<p>Overall, the data does not support the conclusion that substitutions on FoL  are alignment-indicative, and especially does not support the conclusion that substitutions are Mafia-indicative. Although attempting to use substitutions to argue that a player is a particular alignment is considered angleshooting anyway, the evidence does not support the conclusion that it would even be accurate angleshooting.</p>
+          <p><a href="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279/1</link>
+        <pubDate>Fri, 02 Jul 2021 23:36:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-88279-1</guid>
+        <source url="https://forum.throneoflies.com/t/are-replacements-on-fol-alignment-indicative-an-analysis/88279.rss">Are Replacements on FoL Alignment-Indicative? An Analysis</source>
+      </item>
+  </channel>
+</rss>

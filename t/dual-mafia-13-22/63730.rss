@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Dual Mafia 13/22</title>
+    <link>https://forum.throneoflies.com/t/dual-mafia-13-22/63730</link>
+    <description>## Welcome
+
+### Rules
+Normal Forum rules apply
+
+### Gameplay
+Days will be 5 IRL days long, or shorter if someone dies
+Nights will be 2 IRL days long
+Actions are done by messaging me
+Mafia/Werewolves will talk through DMs
+When you receive a card you will have 24 hours to reply, confirming you have received it
+
+### Executions
+To accuse someone say &quot;**/accuse [player]**&quot; or &quot;**/vote [player]**&quot;
+Voting is majority based
+Executions end the Day
+
+### Journals
+Message me your entire journal, the last draft I receive before you die shall be the one displayed
+
+### To Join
+To join, simply express interest in joining by saying something like &quot;I want to join&quot; or &quot;/join&quot; or &quot;/in&quot; or &quot;sign me up, coach&quot; or whatever you want
+
+### Roles
+
+[details=&quot;Town Roles&quot;]
+&gt; # [color = &quot;green&quot;] Cop [/color]
+&gt; **[color = &quot;green&#39;] Town Investigative [/color]**
+&gt;
+&gt; Night Ability - Learn target player&#39;s alignment
+&gt; *Goal: Eliminate the Mafia and Serial Killer and have at least one town member survive*
+
+
+&gt; # [color = &quot;green&quot;] Vigilante [/color]
+&gt; **[color = &quot;green&#39;] Town Killer [/color]**
+&gt;
+&gt; Night Ability - Kill target player
+&gt; *Goal: Eliminate the Mafia and Serial Killer and have at least one town member survive*
+
+
+&gt; # [color = &quot;green&quot;] Doctor [/color]
+&gt; **[color = &quot;green&#39;] Town Support[/color]**
+&gt;
+&gt; Night Ability: - Target player will survive any attacks on them tonight
+&gt; *Goal: Eliminate the Mafia and Serial Killer and have at least one Hunter survive*
+
+&gt; # [color = &quot;green&quot;] Citizen[/color]
+&gt; **[color = &quot;green&#39;] Town Generic[/color]**
+&gt;
+&gt; You have no ability&#39;s
+&gt;
+&gt; *Goal: Eliminate the Mafia and Serial Killer and have at least one town member survive*
+[/details]
+
+[details=&quot;Hunter Roles&quot;]
+&gt; # [color = &quot;lightblue&quot;] Seer [/color]
+&gt; **[color = &quot;lightblue&#39;] Hunter Investigative [/color]**
+&gt;
+&gt; Night Ability - Learn target player&#39;s alignment
+&gt; *Goal: Eliminate the Werewolves and Serial Killer and have at least one Hunter survive*
+
+
+&gt; # [color = &quot;lightblue&quot;] Slayer [/color]
+&gt; **[color = &quot;lightblue&#39;] Hunter Killer [/color]**
+&gt;
+&gt; Night Ability - Kill target player
+&gt; *Goal: Eliminate the Werewolves and Serial Killer and have at least one Hunter survive*
+
+
+&gt; # [color = &quot;lightblue&quot;] Angel [/color]
+&gt; **[color = &quot;lightblue&#39;] Hunter Support[/color]**
+&gt;
+&gt; Night Ability: - Target player will survive any attacks on them tonight
+&gt; *Goal: Eliminate the Werewolves and Serial Killer and have at least one Hunter survive*
+
+&gt; # [color = &quot;lightblue&quot;] Recruit [/color]
+&gt; **[color = &quot;lightblue&#39;] Hunter Generic [/color]**
+&gt; 
+&gt; You have no ability&#39;s
+&gt;
+&gt; *Goal: Eliminate the Werewolves and Serial Killer and have at least one Hunter survive*
+[/details]
+
+[details=&quot;Mafia Roles&quot;]
+&gt; # [color = &quot;red&quot;] Godfather [/color]
+&gt; **[color = &quot;red&quot;] Mafia Support [/color]**
+&gt;
+&gt; Passive - You are night immune. You appear to be town to investigations
+&gt;
+&gt; *Goal: Eliminate the town and have at least 1 surviving mafia member*
+
+&gt; # [color = &quot;red&quot;] Consiglire [/color]
+&gt; **[color = &quot;red&quot;] Mafia Investigative [/color]**
+&gt;
+&gt; Night Ability - Learn target player&#39;s subtype (investigative, killer, support, generic)
+&gt;
+&gt; *Goal: Eliminate the town and have at least 1 surviving mafia member*
+
+&gt; # [color = &quot;red&quot;] Mafioso [/color]
+&gt; **[color = &quot;red&quot;] Mafia Killer [/color]**
+&gt;
+&gt; Passive: You cannot be roleblocked if you preform the kill
+&gt;
+&gt; *Goal: Eliminate the town and have at least 1 surviving mafia member*
+[/details]
+
+[details=&quot;Werewolf Roles&quot;]
+&gt; # [color = &quot;tan&quot;] Alpha Wolf[/color]
+&gt; **[color = &quot;tan&quot;] Werewolf Support [/color]**
+&gt;
+&gt; Passive - You are night immune. You appear to be a Hunter to investigations
+&gt;
+&gt; *Goal: Eliminate the Hunters and have at least 1 surviving Werewolf*
+
+&gt; # [color = &quot;tan&quot;] Mystic Wolf [/color]
+&gt; **[color = &quot;tan&quot;] Werewolf Investigative [/color]**
+&gt;
+&gt; Night Ability - Learn target player&#39;s subtype (investigative, killer, support, generic)
+&gt;
+&gt; *Goal: Eliminate the Hunters and have at least 1 surviving Werewolf*
+
+&gt; # [color = &quot;tan&quot;] Wolf Cub [/color]
+&gt; **[color = &quot;tan&quot;] Werewolf Killer [/color]**
+&gt;
+&gt; Passive: You cannot be roleblocked if you preform the kill
+&gt;
+&gt; *Goal: Eliminate the Hunters and have at least 1 surviving Werewolf*
+[/details]
+
+[details=&quot;Neutral Roles&quot;]
+&gt; # [color = &quot;gray&quot;] Serial Killer [/color]
+&gt; **[color = &quot;gray&quot;] Neutral Killer [/color]**
+&gt;
+&gt; Passive: You are night immune. 
+&gt;
+&gt; Night Ability: Kill target player. Bypasses healing. 
+&gt;
+&gt; *goal: Eliminate the town and hunters*
+
+&gt; # [color = &quot;gray&quot;] Mastermind [/color]
+&gt; **[color = &quot;gray&quot;] Neutral Support [/color]**
+&gt;
+&gt; Night Ability: Roleblock target player. They will lose investigation and night immunity if they have it.
+&gt;
+&gt; *goal: Survive*
+[/details]
+
+### Rolelist:
+The role list will consist of:
+7 Town Members
+7 Hunters
+3 Mafia
+3 Werewolves
+1 Serial Killer
+1 Mastermind
+
+Players:
+1. CaptainNerbins - Alive
+2. Firekitten - Alive
+3. Memesky - Alive
+4. @MaximusPrime - Alive
+5. @Htm - Alive
+6. @Sam17z - Alive
+7. @Margaret - Alive
+8. @Marluxion - Alive
+9. @Shurian - Alive
+10. @Whammerist - Alive
+11. @Hippolytus - Alive
+12. @Ashe - Alive
+13. @MtheJoker - Alive
+14. player14 - Alive
+15. player15 - Alive
+16. player16 - Alive
+17. player17 - Alive
+18. player18 - Alive
+19. player19 - Alive
+20. player20 - Alive
+21. player21 - Alive
+22. player22 - Alive</description>
+    
+    <lastBuildDate>Fri, 10 Aug 2018 22:39:27 +0000</lastBuildDate>
+    <category>Forum Matches</category>
+    <atom:link href="https://forum.throneoflies.com/t/dual-mafia-13-22/63730.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Dual Mafia 13/22</title>
+        <dc:creator><![CDATA[Marluxion]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href="https://forum.throneoflies.com/t/dual-mafia-13-22/63730/140">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dual-mafia-13-22/63730/140</link>
+        <pubDate>Sat, 11 Aug 2018 01:27:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-63730-140</guid>
+        <source url="https://forum.throneoflies.com/t/dual-mafia-13-22/63730.rss">Dual Mafia 13/22</source>
+      </item>
+      <item>
+        <title>Dual Mafia 13/22</title>
+        <dc:creator><![CDATA[Htm]]></dc:creator>
+        <description><![CDATA[
+            <p>Why tho…</p>
+<p>We are being good rezzers</p>
+          <p><a href="https://forum.throneoflies.com/t/dual-mafia-13-22/63730/139">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dual-mafia-13-22/63730/139</link>
+        <pubDate>Fri, 10 Aug 2018 22:39:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-63730-139</guid>
+        <source url="https://forum.throneoflies.com/t/dual-mafia-13-22/63730.rss">Dual Mafia 13/22</source>
+      </item>
+      <item>
+        <title>Dual Mafia 13/22</title>
+        <dc:creator><![CDATA[Nerbins]]></dc:creator>
+        <description><![CDATA[
+            <p><a href="https://i.kym-cdn.com/entries/icons/original/000/015/266/Z7HeRxU.png" class="onebox" target="_blank" rel="noopener nofollow ugc">https://i.kym-cdn.com/entries/icons/original/000/015/266/Z7HeRxU.png</a></p>
+          <p><a href="https://forum.throneoflies.com/t/dual-mafia-13-22/63730/138">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dual-mafia-13-22/63730/138</link>
+        <pubDate>Fri, 10 Aug 2018 22:39:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-63730-138</guid>
+        <source url="https://forum.throneoflies.com/t/dual-mafia-13-22/63730.rss">Dual Mafia 13/22</source>
+      </item>
+      <item>
+        <title>Dual Mafia 13/22</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>We will vote you!</p>
+          <p><a href="https://forum.throneoflies.com/t/dual-mafia-13-22/63730/137">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dual-mafia-13-22/63730/137</link>
+        <pubDate>Fri, 10 Aug 2018 22:39:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-63730-137</guid>
+        <source url="https://forum.throneoflies.com/t/dual-mafia-13-22/63730.rss">Dual Mafia 13/22</source>
+      </item>
+      <item>
+        <title>Dual Mafia 13/22</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Don’t do it plz nerb I beg you</p>
+          <p><a href="https://forum.throneoflies.com/t/dual-mafia-13-22/63730/136">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dual-mafia-13-22/63730/136</link>
+        <pubDate>Fri, 10 Aug 2018 22:38:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-63730-136</guid>
+        <source url="https://forum.throneoflies.com/t/dual-mafia-13-22/63730.rss">Dual Mafia 13/22</source>
+      </item>
+      <item>
+        <title>Dual Mafia 13/22</title>
+        <dc:creator><![CDATA[Nerbins]]></dc:creator>
+        <description><![CDATA[
+            <p>Do I need to call another mod?</p>
+          <p><a href="https://forum.throneoflies.com/t/dual-mafia-13-22/63730/135">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dual-mafia-13-22/63730/135</link>
+        <pubDate>Fri, 10 Aug 2018 22:38:28 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-63730-135</guid>
+        <source url="https://forum.throneoflies.com/t/dual-mafia-13-22/63730.rss">Dual Mafia 13/22</source>
+      </item>
+      <item>
+        <title>Dual Mafia 13/22</title>
+        <dc:creator><![CDATA[Htm]]></dc:creator>
+        <description><![CDATA[
+            <p>night 1 begins everyone was rezzed and this game was rerolled!</p>
+          <p><a href="https://forum.throneoflies.com/t/dual-mafia-13-22/63730/134">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dual-mafia-13-22/63730/134</link>
+        <pubDate>Fri, 10 Aug 2018 21:47:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-63730-134</guid>
+        <source url="https://forum.throneoflies.com/t/dual-mafia-13-22/63730.rss">Dual Mafia 13/22</source>
+      </item>
+      <item>
+        <title>Dual Mafia 13/22</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh</p>
+<p>Every one was lynched</p>
+<p>He was also a citizen</p>
+          <p><a href="https://forum.throneoflies.com/t/dual-mafia-13-22/63730/133">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dual-mafia-13-22/63730/133</link>
+        <pubDate>Fri, 10 Aug 2018 21:46:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-63730-133</guid>
+        <source url="https://forum.throneoflies.com/t/dual-mafia-13-22/63730.rss">Dual Mafia 13/22</source>
+      </item>
+      <item>
+        <title>Dual Mafia 13/22</title>
+        <dc:creator><![CDATA[Htm]]></dc:creator>
+        <description><![CDATA[
+            <p>NK Mayor wins!</p>
+          <p><a href="https://forum.throneoflies.com/t/dual-mafia-13-22/63730/132">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dual-mafia-13-22/63730/132</link>
+        <pubDate>Fri, 10 Aug 2018 21:45:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-63730-132</guid>
+        <source url="https://forum.throneoflies.com/t/dual-mafia-13-22/63730.rss">Dual Mafia 13/22</source>
+      </item>
+      <item>
+        <title>Dual Mafia 13/22</title>
+        <dc:creator><![CDATA[Htm]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Htm" data-post="125" data-topic="63730">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/htm/40/20871_2.png" class="avatar"> Htm:</div>
+<blockquote>
+<p>/vote every person</p>
+</blockquote>
+</aside>
+<p>see…</p>
+<p><span class="mention">@every</span> person</p>
+<p>not a person</p>
+          <p><a href="https://forum.throneoflies.com/t/dual-mafia-13-22/63730/131">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dual-mafia-13-22/63730/131</link>
+        <pubDate>Fri, 10 Aug 2018 21:45:20 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-63730-131</guid>
+        <source url="https://forum.throneoflies.com/t/dual-mafia-13-22/63730.rss">Dual Mafia 13/22</source>
+      </item>
+      <item>
+        <title>Dual Mafia 13/22</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah he is <a class="mention-group" href="/groups/everyone">@everyone</a></p>
+          <p><a href="https://forum.throneoflies.com/t/dual-mafia-13-22/63730/130">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dual-mafia-13-22/63730/130</link>
+        <pubDate>Fri, 10 Aug 2018 21:44:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-63730-130</guid>
+        <source url="https://forum.throneoflies.com/t/dual-mafia-13-22/63730.rss">Dual Mafia 13/22</source>
+      </item>
+      <item>
+        <title>Dual Mafia 13/22</title>
+        <dc:creator><![CDATA[Htm]]></dc:creator>
+        <description><![CDATA[
+            <p>He isn’t tho…</p>
+          <p><a href="https://forum.throneoflies.com/t/dual-mafia-13-22/63730/129">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dual-mafia-13-22/63730/129</link>
+        <pubDate>Fri, 10 Aug 2018 21:44:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-63730-129</guid>
+        <source url="https://forum.throneoflies.com/t/dual-mafia-13-22/63730.rss">Dual Mafia 13/22</source>
+      </item>
+      <item>
+        <title>Dual Mafia 13/22</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>get it because he’s a person</p>
+          <p><a href="https://forum.throneoflies.com/t/dual-mafia-13-22/63730/128">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dual-mafia-13-22/63730/128</link>
+        <pubDate>Fri, 10 Aug 2018 21:44:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-63730-128</guid>
+        <source url="https://forum.throneoflies.com/t/dual-mafia-13-22/63730.rss">Dual Mafia 13/22</source>
+      </item>
+      <item>
+        <title>Dual Mafia 13/22</title>
+        <dc:creator><![CDATA[Htm]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/nuclearburrito">@NuclearBurrito</a> hammer on everyone!</p>
+<p>gg ez quick win</p>
+          <p><a href="https://forum.throneoflies.com/t/dual-mafia-13-22/63730/127">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dual-mafia-13-22/63730/127</link>
+        <pubDate>Fri, 10 Aug 2018 21:44:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-63730-127</guid>
+        <source url="https://forum.throneoflies.com/t/dual-mafia-13-22/63730.rss">Dual Mafia 13/22</source>
+      </item>
+      <item>
+        <title>Dual Mafia 13/22</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Everyone was lynched</p>
+<p>He was a citizen</p>
+<p>Night begins</p>
+          <p><a href="https://forum.throneoflies.com/t/dual-mafia-13-22/63730/126">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dual-mafia-13-22/63730/126</link>
+        <pubDate>Fri, 10 Aug 2018 21:43:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-63730-126</guid>
+        <source url="https://forum.throneoflies.com/t/dual-mafia-13-22/63730.rss">Dual Mafia 13/22</source>
+      </item>
+      <item>
+        <title>Dual Mafia 13/22</title>
+        <dc:creator><![CDATA[Htm]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>/vote every person</strong></p>
+<p>ez nk mayor win</p>
+          <p><a href="https://forum.throneoflies.com/t/dual-mafia-13-22/63730/125">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dual-mafia-13-22/63730/125</link>
+        <pubDate>Fri, 10 Aug 2018 21:43:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-63730-125</guid>
+        <source url="https://forum.throneoflies.com/t/dual-mafia-13-22/63730.rss">Dual Mafia 13/22</source>
+      </item>
+      <item>
+        <title>Dual Mafia 13/22</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh wait? He is. I thought marl was… musta got the names mixed up</p>
+<p><strong>/Vote Marl</strong></p>
+          <p><a href="https://forum.throneoflies.com/t/dual-mafia-13-22/63730/124">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dual-mafia-13-22/63730/124</link>
+        <pubDate>Fri, 10 Aug 2018 21:43:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-63730-124</guid>
+        <source url="https://forum.throneoflies.com/t/dual-mafia-13-22/63730.rss">Dual Mafia 13/22</source>
+      </item>
+      <item>
+        <title>Dual Mafia 13/22</title>
+        <dc:creator><![CDATA[Htm]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>/reveal as mayor</strong></p>
+          <p><a href="https://forum.throneoflies.com/t/dual-mafia-13-22/63730/123">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dual-mafia-13-22/63730/123</link>
+        <pubDate>Fri, 10 Aug 2018 21:43:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-63730-123</guid>
+        <source url="https://forum.throneoflies.com/t/dual-mafia-13-22/63730.rss">Dual Mafia 13/22</source>
+      </item>
+      <item>
+        <title>Dual Mafia 13/22</title>
+        <dc:creator><![CDATA[Htm]]></dc:creator>
+        <description><![CDATA[
+            <p>Nerb’s town confirmed</p>
+          <p><a href="https://forum.throneoflies.com/t/dual-mafia-13-22/63730/122">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dual-mafia-13-22/63730/122</link>
+        <pubDate>Fri, 10 Aug 2018 21:42:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-63730-122</guid>
+        <source url="https://forum.throneoflies.com/t/dual-mafia-13-22/63730.rss">Dual Mafia 13/22</source>
+      </item>
+      <item>
+        <title>Dual Mafia 13/22</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Vote nerb he’s mafia btw.</p>
+          <p><a href="https://forum.throneoflies.com/t/dual-mafia-13-22/63730/121">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dual-mafia-13-22/63730/121</link>
+        <pubDate>Fri, 10 Aug 2018 21:42:24 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-63730-121</guid>
+        <source url="https://forum.throneoflies.com/t/dual-mafia-13-22/63730.rss">Dual Mafia 13/22</source>
+      </item>
+      <item>
+        <title>Dual Mafia 13/22</title>
+        <dc:creator><![CDATA[Luxy]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>/in</strong></p>
+          <p><a href="https://forum.throneoflies.com/t/dual-mafia-13-22/63730/120">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dual-mafia-13-22/63730/120</link>
+        <pubDate>Fri, 10 Aug 2018 21:40:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-63730-120</guid>
+        <source url="https://forum.throneoflies.com/t/dual-mafia-13-22/63730.rss">Dual Mafia 13/22</source>
+      </item>
+      <item>
+        <title>Dual Mafia 13/22</title>
+        <dc:creator><![CDATA[PoisonedSquid]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m a secret spectator :3</p>
+          <p><a href="https://forum.throneoflies.com/t/dual-mafia-13-22/63730/119">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dual-mafia-13-22/63730/119</link>
+        <pubDate>Fri, 10 Aug 2018 20:52:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-63730-119</guid>
+        <source url="https://forum.throneoflies.com/t/dual-mafia-13-22/63730.rss">Dual Mafia 13/22</source>
+      </item>
+      <item>
+        <title>Dual Mafia 13/22</title>
+        <dc:creator><![CDATA[Memesky]]></dc:creator>
+        <description><![CDATA[
+            <p>Why not</p>
+          <p><a href="https://forum.throneoflies.com/t/dual-mafia-13-22/63730/118">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dual-mafia-13-22/63730/118</link>
+        <pubDate>Fri, 10 Aug 2018 20:40:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-63730-118</guid>
+        <source url="https://forum.throneoflies.com/t/dual-mafia-13-22/63730.rss">Dual Mafia 13/22</source>
+      </item>
+      <item>
+        <title>Dual Mafia 13/22</title>
+        <dc:creator><![CDATA[Captain]]></dc:creator>
+        <description><![CDATA[
+            <p>Tbh even if game wasn’t canned why game is 5 irl day long tho ?</p>
+          <p><a href="https://forum.throneoflies.com/t/dual-mafia-13-22/63730/117">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dual-mafia-13-22/63730/117</link>
+        <pubDate>Fri, 10 Aug 2018 20:33:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-63730-117</guid>
+        <source url="https://forum.throneoflies.com/t/dual-mafia-13-22/63730.rss">Dual Mafia 13/22</source>
+      </item>
+      <item>
+        <title>Dual Mafia 13/22</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>You aren’t. No one is</p>
+          <p><a href="https://forum.throneoflies.com/t/dual-mafia-13-22/63730/116">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dual-mafia-13-22/63730/116</link>
+        <pubDate>Fri, 10 Aug 2018 20:31:28 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-63730-116</guid>
+        <source url="https://forum.throneoflies.com/t/dual-mafia-13-22/63730.rss">Dual Mafia 13/22</source>
+      </item>
+  </channel>
+</rss>

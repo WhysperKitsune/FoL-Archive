@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Blood on the Forums VIII: Brew-Over - Signups (7/15)</title>
+    <link>https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842</link>
+    <description>In the sleepy town of Ravenswood Bluff, the legends are as thick as the mist. Tales of demons coming in the night to steal away the souls of the townsfolk, as the brave citizens employed the limits of their strengths and wits to save themselves from annihilation. They make for great song at the local tavern, or stories to scare the children into obeying their parents. But as time went by, the tales became more… outlandish. The old clocktower where it all began became a great infernal clockwork ensnaring the whole town like some feverish opium dream… the demon became a bawling infant, hardly inspiring fear… and with it all, the people grew further from the truth. But those who cannot remember the past… must repeat it.
+
+It&#39;s about time we went back to our roots, folks. A nice, solid game of Trouble Brewing, to ground us once again and maybe even bring in some new blood. Speaking of which, I&#39;d be remiss if I didn&#39;t provide my breakdown of just how this game works, given that it&#39;s... a bit different from your run of the mill forum mafia.
+
+[details=&quot;Character List&quot;]
+
+This game will be running the Trouble Brewing script; it&#39;s a solid build which should provide a fair balance.
+
+Townsfolk:
+[color=29b6f6]**Washerwoman**[/color]: You start knowing that one of two players is a particular Townsfolk.
+[color=29b6f6]**Librarian**[/color]: You start knowing that one of two players is a particular Outsider (or that no Outsiders are in play).
+[color=29b6f6]**Investigator**[/color]: You start knowing that one of two players is a particular Minion.
+[color=29b6f6]**Chef**[/color]: You start the game knowing how many instances of adjacent evil players exist.
+[color=29b6f6]**Empath**[/color]: Each night, you learn how many of your living neighbors are evil.
+[color=29b6f6]**Fortune Teller**[/color]: Each night, select two people; you will learn if one of them is the Demon. One good player is the “Red Herring” and will register as Demon to you.
+[color=29b6f6]**Undertaker**[/color]: If a player was executed that day, you learn their class.
+[color=29b6f6]**Monk**[/color]: Each night (not the first), select a player (not yourself); that player is safe from effects of the Demon&#39;s ability.
+[color=29b6f6]**Ravenkeeper**[/color]: If you are killed by the Demon, wake to select a player; you learn their character.
+[color=29b6f6]**Virgin**[/color]: The first time you are nominated, your accuser will instead be executed if they are a Townsfolk character.
+[color=29b6f6]**Slayer**[/color]: Once per game during the day, publicly select a target. If they are the Demon, they die.
+[color=29b6f6]**Soldier**[/color]: You are safe from effects of the Demon&#39;s ability.
+[color=29b6f6]**Mayor**[/color]: If you would die at night, another player might die instead. If there is no execution when only three players remain, good wins.
+
+Outsiders:
+[color=29b6f6]**Butler**[/color]: Each night, select a player to be Master. You may not vote and Master’s vote is doubled.
+[color=29b6f6]**Drunk**[/color]: You think you are a Townsfolk character, but the ability that you think you have instead malfunctions.
+[color=29b6f6]**Recluse**[/color]: You might register as a Minion or Demon, even if dead.
+[color=29b6f6]**Saint**[/color]: If you are executed, evil wins.
+
+Minions:
+[color=red]**Poisoner**[/color]: Each night, choose a player; their ability malfunctions that night and the next day.
+[color=red]**Spy**[/color]:You might register as a Townsfolk or Outsider, even if dead, and you may view the Grimoire each night.
+[color=red]**Baron**[/color]: Two Townsfolk are replaced by Outsiders.
+[color=red]**Scarlet Woman**[/color]: If more than five players are alive and the Demon dies, you will become the Demon.
+
+Demons:
+[color=red]**Imp**[/color]: Each night (not the first), select a player; they die. If you select yourself, you die and a Minion becomes the Imp.
+
+Townsfolk and Outsiders are good-aligned, Minions and the Demon are evil-aligned. There are no neutral parties in Ravenswood Bluff.
+
+[/details]
+[details=&quot;Town Composition&quot;]
+
+This game is designed for a variable number of players, and thus the composition of the game is able to change depending on how many players join. The following list denotes the standard composition of the game at each possible player count.
+
+Total Players: Townsfolk/Outsiders/Minions/Demons
+
+5: 3/0/1/1
+6: 3/1/1/1
+7: 5/0/1/1
+8: 5/1/1/1
+9: 5/2/1/1
+10: 7/0/2/1
+11: 7/1/2/1
+12: 7/2/2/1
+13: 9/0/3/1
+14: 9/1/3/1
+15: 9/2/3/1
+
+Every character in-game is unique in that more than one of the same character will never appear at the start of the game (there can never be two Chefs at the start, for example).
+
+Certain characters may contain parts of their ability which modify the game setup; some add character types (and subtract others to compensate). Be sure to take notice of these. You’ll find them in [square brackets], like those ones.
+
+[/details]
+
+[details=&quot;Phase Length&quot;]
+
+Each day phase will last for no longer than 48 hours.
+
+12 hours: Discussion phase. Nominations may not be cast at this time.
+12 hours: Nomination phase. Players who wish to nominate may do so at this time, and votes may begun to be cast during this time as well.
+24 hours: Vote finalization. During this time, votes may be cast freely on any existing nomination, but no new nominations may be made. Once this time ends or all votes have been locked in, the day will resolve.
+
+The night phase will last for no more than 24 hours. If all relevant actions have been submitted and processed, Storytellers reserve the right to begin the next day early. 
+[/details]
+
+[details=&quot;Storyteller&quot;]
+
+The Storyteller is the key moderator for the game; All ability uses at night must be sent to the Storyteller via private message, and Storyteller will have the final say on any open-ended ability behaviors. Storyteller’s goal is to keep the game both fun and balanced, and they’ll often be trying to make it last as long as possible; however, the Storyteller may not alter any existing rules to accomplish this.
+
+[/details]
+
+[details=&quot;The Fabled&quot;]
+
+The Fabled aren&#39;t really characters so much as special modifiers that the Storyteller can put in play to tweak the game. For example, the Angel can be put into play to help keep newer players from being targeted, or the Buddhist can be put into play to keep the more experienced players from dominating the discussion. Fabled will always be announced when they are in play, along with their effect upon gamestate. A breakdown of Fabled characters can be found below.
+
+[color=yellow]**Angel**[/color]: Something bad might happen to whomever is most responsible for the death of a new player.
+[color=yellow]**Buddhist**[/color]: Veteran players may not speak for the first six hours of the day phase.
+[color=yellow]**Doomsayer**[/color]: If more than four players live, each living player may publicly invoke the Doomsayer once per game to cause a player of their own alignment to die.
+[color=yellow]**Fiddler**[/color]: Once per game, at night, the Demon secretly chooses a player of an opposing alignment; All players then choose which of these two wins the game.
+[color=yellow]**Hell’s Librarian**[/color]: Something bad might happen to whomever speaks when the Storyteller calls for silence.
+
+The following Fabled character must be added before the game begins; please speak to the Storyteller if you wish to see it added.
+[color=yellow]**Revolutionary**[/color]: Two neighboring players are known to be the same alignment. Once per game, one of them may register falsely.
+
+[/details]
+
+[details=&quot;Scum Info&quot;]
+
+On the first night of the game, when relatively few characters act, the evil characters will all be woken to learn who one another are. Evil players will not be allowed to communicate at night. The Demon will be told who all of their Minions are, and the Minions will know who the Demon is and who all of the other Minions are. However, the Minions and the Demon will not learn which specific characters any of their fellow evils are. The Demon will additionally be told three characters that are not in play, to serve as safe claims. They may claim any of these, none of these, or simply hand the claims off to Minions; however they think they will be best served.
+
+[/details]
+[details=&quot;Malfunctions&quot;]
+
+The primary source of interference with abilities in this game is the malfunction. A class that is malfunctioning is not told that they are malfunctioning; if the character is one that gathers information, then the information they receive that night is arbitrary (open-ended, Storyteller may resolve at their discretion), otherwise, the malfunctioning character’s ability simply does not have any effect.
+
+[/details]
+
+[details=&quot;Nominations and Voting&quot;]
+Once the discussion phase has ended, the Storyteller will formally announce the opening of the nomination phase. Players must be nominated before they may be voted on that day. Each player may only be nominated once per day, and each player may only nominate once per day.
+When a nomination is opened, the storyteller begins to track votes for that nomination. The players may precast votes, but the votes will lock in a clockhand format. Starting with the player below the nominee on the list, and working downwards, the votes will be locked if they are cast. As an example, take the following five players;
+&gt; Alex
+Brianna
+Cameron
+Derek
+Ellen
+
+Brianna is nominated. Cameron’s vote will be locked as soon as he places it, because he is the first person below Brianna on the list. Derek may cast his vote before Cameron, and may alter his vote if Cameron has not yet voted, but once Cameron has voted and had his vote locked, Derek’s vote will be the next to lock, and if it is placed when Cameron’s vote locks, then Derek’s vote will lock as the vote cast by Derek at that time.
+Any votes that are not cast by EoD will be considered votes to pardon. If the count of votes to execute is more than half of the number of living players, and is the highest count of votes against any player that day, the accused will be considered “about to die”. At the end of the day or when all votes on all nominations have been cast, the player who is “about to die” will be executed. If there is a tie between two or more players for the highest count of votes, the day will end with no execution. The Storyteller may only declare an early end to voting if it is no longer possible to tie or exceed the highest nomination.
+
+[/details]
+
+[details=&quot;Whispers&quot;]
+
+Players may whisper each other in-game through private messages. Whispers must, however, be publicly announced, typically by requesting permission to whisper (a standard format is /whisper [Player]). Whispers to your neighbors (those seated next to you) do not have to be announced, but any whisper, to a neighbor or otherwise, must include the Storyteller in the message. Once a whisper has been declared and accepted, the two players may whisper via private message until one of them speaks publicly in the game chat, at which point the whisper is considered broken and the players must declare whispers again if they wish to whisper.
+
+[/details]
+
+[details=&quot;Death&quot;]
+
+When a player dies, nothing is revealed about their character or alignment and they are allowed to stay in the game and speak. They may not nominate and they will have only one vote token (this will allow them to cast a vote to execute) for the entire game. Evil players who die may thus continue to help their allies by keeping up their claim and spreading misinformation, and good players may similarly help their allies by retaining relevant info that others may have forgotten in the heat of the game. Once a player dies, their ability stops working, which means that a player killed before they would perform their ability will not perform their ability, and any ability with a persistent effect will end upon the player’s death.
+
+[/details]
+
+[details=&quot;Victory&quot;]
+
+Good wins by eliminating all Demons (Minions do not necessarily need to die for Good to win, but eliminating Minions can be helpful). Evil wins by reducing the game to two living players (irrespective of either player’s alignment). The Storyteller may also declare a victory for Evil if Good may no longer possibly win (for example, if only evil players are left alive and thus no one would nominate the Demon). Certain class abilities may present alternate routes to victory; these classes, if able to appear, will be made known on the class list. In the event of a tie (both teams would win simultaneously), Good wins.
+[/details]
+
+The player list can be found below; just ping me with /in and the seat you want (yes, I let you choose).
+
+1.
+2.
+3. EliThePsycho
+4. Wazza
+5.
+6. SirDerpsAlot
+7.
+8. PokemonKidRyan
+9.
+10.
+11. Amelia
+12.
+13. Marluxion
+14. Blizer
+15.
+
+Backups:
+1. Arete
+2. Kat
+3. CRichard
+
+Spectators:
+1. Pigeon
+2. :corn:</description>
+    
+    <lastBuildDate>Sat, 29 May 2021 14:20:59 +0000</lastBuildDate>
+    <category>Signups</category>
+    <atom:link href="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Blood on the Forums VIII: Brew-Over - Signups (7/15)</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/54">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/54</link>
+        <pubDate>Sat, 29 May 2021 14:35:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87842-54</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842.rss">Blood on the Forums VIII: Brew-Over - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VIII: Brew-Over - Signups (7/15)</title>
+        <dc:creator><![CDATA[Tangeld]]></dc:creator>
+        <description><![CDATA[
+            <h1>
+<a name="sad-that-we-didnt-get-ourselves-over-seven-but-you-folks-have-been-waiting-long-enough-1" class="anchor" href="#sad-that-we-didnt-get-ourselves-over-seven-but-you-folks-have-been-waiting-long-enough-1"></a>Sad that we didn’t get ourselves over seven… But you folks have been waiting long enough.</h1>
+<p>(Plus having fewer than ten means that I can ping all the players in one post when the game starts, based)</p>
+<h1>
+<a name="anyway-gamecomp-is-built-and-character-dms-will-be-sent-out-in-a-bit-once-theyre-all-out-night-1-will-begin-and-the-game-thread-will-be-created-mods-go-ahead-and-lock-the-thread-2" class="anchor" href="#anyway-gamecomp-is-built-and-character-dms-will-be-sent-out-in-a-bit-once-theyre-all-out-night-1-will-begin-and-the-game-thread-will-be-created-mods-go-ahead-and-lock-the-thread-2"></a>Anyway, gamecomp is built and character DMs will be sent out in a bit. Once they’re all out, Night 1 will begin and the game thread will be created. Mods, go ahead and lock the thread.</h1>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/53">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/53</link>
+        <pubDate>Sat, 29 May 2021 14:20:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87842-53</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842.rss">Blood on the Forums VIII: Brew-Over - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VIII: Brew-Over - Signups (7/15)</title>
+        <dc:creator><![CDATA[EliThePsycho]]></dc:creator>
+        <description><![CDATA[
+            <p>so<br>
+how bout that</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/52">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/52</link>
+        <pubDate>Fri, 28 May 2021 20:08:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87842-52</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842.rss">Blood on the Forums VIII: Brew-Over - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VIII: Brew-Over - Signups (7/15)</title>
+        <dc:creator><![CDATA[Tangeld]]></dc:creator>
+        <description><![CDATA[
+            <h1>
+<a name="we-can-do-up-to-fifteen-sixteen-if-i-can-be-talked-into-including-a-traveler-which-becomes-more-likely-the-higher-the-resident-count-is-when-you-ask-1" class="anchor" href="#we-can-do-up-to-fifteen-sixteen-if-i-can-be-talked-into-including-a-traveler-which-becomes-more-likely-the-higher-the-resident-count-is-when-you-ask-1"></a>We can do up to fifteen. Sixteen if I can be talked into including a Traveler (which becomes more likely the higher the resident count is when you ask).</h1>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/51">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/51</link>
+        <pubDate>Wed, 26 May 2021 02:33:33 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87842-51</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842.rss">Blood on the Forums VIII: Brew-Over - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VIII: Brew-Over - Signups (7/15)</title>
+        <dc:creator><![CDATA[CRichard564]]></dc:creator>
+        <description><![CDATA[
+            <p>Imagine if we could have more players.<br>
+We can have 10+ no?</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/50">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/50</link>
+        <pubDate>Wed, 26 May 2021 02:31:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87842-50</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842.rss">Blood on the Forums VIII: Brew-Over - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VIII: Brew-Over - Signups (7/15)</title>
+        <dc:creator><![CDATA[Tangeld]]></dc:creator>
+        <description><![CDATA[
+            <h1>
+<a name="grumbles-at-forums-not-emailing-me-to-let-me-know-that-someone-posted-on-this-thread-1" class="anchor" href="#grumbles-at-forums-not-emailing-me-to-let-me-know-that-someone-posted-on-this-thread-1"></a><em>grumbles at forums not emailing me to let me know that someone posted on this thread</em>
+</h1>
+<h1>
+<a name="got-you-added-in-thats-enough-to-start-but-im-thinking-i-start-this-on-the-weekend-so-that-we-can-have-folks-most-likely-to-be-able-to-be-active-d1-this-is-your-chance-to-bribe-dupe-and-cajole-your-friends-into-signing-on-to-this-wonderful-time-2" class="anchor" href="#got-you-added-in-thats-enough-to-start-but-im-thinking-i-start-this-on-the-weekend-so-that-we-can-have-folks-most-likely-to-be-able-to-be-active-d1-this-is-your-chance-to-bribe-dupe-and-cajole-your-friends-into-signing-on-to-this-wonderful-time-2"></a>Got you added in. That’s enough to start, but I’m thinking I start this on the weekend, so that we can have folks most likely to be able to be active D1. This is your chance to bribe, dupe and cajole your friends into signing on to this wonderful time.</h1>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/49">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/49</link>
+        <pubDate>Wed, 26 May 2021 01:31:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87842-49</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842.rss">Blood on the Forums VIII: Brew-Over - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VIII: Brew-Over - Signups (7/15)</title>
+        <dc:creator><![CDATA[EliThePsycho]]></dc:creator>
+        <description><![CDATA[
+            <p>based</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/48">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/48</link>
+        <pubDate>Tue, 25 May 2021 21:41:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87842-48</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842.rss">Blood on the Forums VIII: Brew-Over - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VIII: Brew-Over - Signups (7/15)</title>
+        <dc:creator><![CDATA[Wazza]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>/in as seat 4</strong></p>
+<p>The Moderators have given me another chance and I’m going to make it everyone’s problem :^).</p>
+<p>I’m back! Unfortunately for the rest of y’all.</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/47">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/47</link>
+        <pubDate>Tue, 25 May 2021 21:40:42 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87842-47</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842.rss">Blood on the Forums VIII: Brew-Over - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VIII: Brew-Over - Signups (7/15)</title>
+        <dc:creator><![CDATA[Blizer]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>/in at slot 14</strong></p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/46">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/46</link>
+        <pubDate>Sat, 22 May 2021 21:46:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87842-46</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842.rss">Blood on the Forums VIII: Brew-Over - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VIII: Brew-Over - Signups (7/15)</title>
+        <dc:creator><![CDATA[Intensify]]></dc:creator>
+        <description><![CDATA[
+            <p>Athiest game pog?</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/45">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/45</link>
+        <pubDate>Sat, 22 May 2021 21:45:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87842-45</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842.rss">Blood on the Forums VIII: Brew-Over - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VIII: Brew-Over - Signups (7/15)</title>
+        <dc:creator><![CDATA[Tangeld]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="EliThePsycho" data-post="42" data-topic="87842">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/elithepsycho/40/38885_2.png" class="avatar"> EliThePsycho:</div>
+<blockquote>
+<p><span class="mention">@tangled</span> you missed silviu</p>
+</blockquote>
+</aside>
+<aside class="quote no-group" data-username="Tangeld" data-post="2" data-topic="87842">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/tangeld/40/36654_2.png" class="avatar"> Tangeld:</div>
+<blockquote>
+<p>As of this time, Silviu is tentatively selected as co-host.</p>
+</blockquote>
+</aside>
+<h1>
+<a name="trying-to-get-the-host-to-play-in-the-game-smh-my-head-1" class="anchor" href="#trying-to-get-the-host-to-play-in-the-game-smh-my-head-1"></a>Trying to get the host to play in the game SMH my head</h1>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/44">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/44</link>
+        <pubDate>Sat, 22 May 2021 21:23:15 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87842-44</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842.rss">Blood on the Forums VIII: Brew-Over - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VIII: Brew-Over - Signups (7/15)</title>
+        <dc:creator><![CDATA[thepigeonnyc]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="EliThePsycho" data-post="42" data-topic="87842">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/elithepsycho/40/38885_2.png" class="avatar"> EliThePsycho:</div>
+<blockquote>
+<p><span class="mention">@tangled</span></p>
+</blockquote>
+</aside>
+<p>Good job</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/43">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/43</link>
+        <pubDate>Sat, 22 May 2021 19:38:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87842-43</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842.rss">Blood on the Forums VIII: Brew-Over - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VIII: Brew-Over - Signups (7/15)</title>
+        <dc:creator><![CDATA[EliThePsycho]]></dc:creator>
+        <description><![CDATA[
+            <p><span class="mention">@tangled</span> you missed silviu<br>
+<small>unless mods told you to miss him</small></p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/42">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/42</link>
+        <pubDate>Sat, 22 May 2021 19:12:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87842-42</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842.rss">Blood on the Forums VIII: Brew-Over - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VIII: Brew-Over - Signups (7/15)</title>
+        <dc:creator><![CDATA[Tangeld]]></dc:creator>
+        <description><![CDATA[
+            <h1>
+<a name="forum-moderators-bribing-people-to-join-games-smh-my-head-1" class="anchor" href="#forum-moderators-bribing-people-to-join-games-smh-my-head-1"></a>Forum moderators bribing people to join games SMH my head</h1>
+<h1>
+<a name="tanhug-2" class="anchor" href="#tanhug-2"></a>:tanhug:</h1>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/41">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/41</link>
+        <pubDate>Sat, 22 May 2021 18:43:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87842-41</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842.rss">Blood on the Forums VIII: Brew-Over - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VIII: Brew-Over - Signups (7/15)</title>
+        <dc:creator><![CDATA[EliThePsycho]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Amelia" data-post="4212" data-topic="86388">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/amelia/40/38850_2.png" class="avatar"><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vi-monsta-jam-evil-wins/86388/4212">Blood on the Forums VI: Monsta Jam (Evil wins)</a>
+</div>
+<blockquote>
+<p><a href="https://cdn.discordapp.com/attachments/719899144201961585/801051837662756894/unknown.png" rel="noopener nofollow ugc"><img src="https://cdn.discordapp.com/attachments/719899144201961585/801051837662756894/unknown.png" alt="" width="690" height="461"> </a></p>
+<h1>Someone said botc triple threat?</h1>
+</blockquote>
+</aside>
+<p>well i found this<br>
+and also this</p>
+<aside class="quote no-group quote-modified" data-username="Tangeld" data-post="429" data-topic="86323">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/tangeld/40/36654_2.png" class="avatar"><a href="https://forum.throneoflies.com/t/botf-vi-specpotato-chat/86323/429">BotF VI - Specpotato chat</a>
+</div>
+<blockquote>
+<blockquote>
+<p>When people see that the second game of Monsta Jam ended with good losing to a Saint execution</p>
+</blockquote>
+<p><img src="https://forum.throneoflies.com/uploads/default/original/3X/9/c/9c2cdb5cc2a6b164e6e9f257508483dd31d0f5f9.jpeg" alt="image" data-base62-sha1="mhAAD7dzQeGeHs7ajOUHD5WKaNz" width="675" height="370"></p>
+</blockquote>
+</aside>
+<p>anyways<br>
+either PKR or <em>maybe</em> Nightingale has priority<br>
+joycat</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/40">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/40</link>
+        <pubDate>Sat, 22 May 2021 15:29:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87842-40</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842.rss">Blood on the Forums VIII: Brew-Over - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VIII: Brew-Over - Signups (7/15)</title>
+        <dc:creator><![CDATA[EliThePsycho]]></dc:creator>
+        <description><![CDATA[
+            <p>alright let’s see who would be the MVP for the previous game</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/39">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/39</link>
+        <pubDate>Sat, 22 May 2021 15:23:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87842-39</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842.rss">Blood on the Forums VIII: Brew-Over - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VIII: Brew-Over - Signups (7/15)</title>
+        <dc:creator><![CDATA[EliThePsycho]]></dc:creator>
+        <description><![CDATA[
+            <p>(you missed your spanish lesson, you know what happens now)</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/38">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/38</link>
+        <pubDate>Sat, 22 May 2021 15:20:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87842-38</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842.rss">Blood on the Forums VIII: Brew-Over - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VIII: Brew-Over - Signups (7/15)</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>/in on seat 11</strong></p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/37">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/37</link>
+        <pubDate>Sat, 22 May 2021 14:48:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87842-37</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842.rss">Blood on the Forums VIII: Brew-Over - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VIII: Brew-Over - Signups (7/15)</title>
+        <dc:creator><![CDATA[Marluxion]]></dc:creator>
+        <description><![CDATA[
+            <p>(signups flagged by host, will be automatically force inned in 24 hours unless you /in)</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/36">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/36</link>
+        <pubDate>Sat, 22 May 2021 13:31:45 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87842-36</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842.rss">Blood on the Forums VIII: Brew-Over - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VIII: Brew-Over - Signups (7/15)</title>
+        <dc:creator><![CDATA[Nightingale]]></dc:creator>
+        <description><![CDATA[
+            <p>(author flagged by post, will be automatically deleted in 24 hours unless withdrawn)</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/35">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/35</link>
+        <pubDate>Sat, 22 May 2021 13:23:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87842-35</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842.rss">Blood on the Forums VIII: Brew-Over - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VIII: Brew-Over - Signups (7/15)</title>
+        <dc:creator><![CDATA[Silviu200530]]></dc:creator>
+        <description><![CDATA[
+            <p>(this post withdrawn by author, will be automatically deleted in 24 hours unless flagged)</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/34">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/34</link>
+        <pubDate>Sat, 22 May 2021 12:40:17 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87842-34</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842.rss">Blood on the Forums VIII: Brew-Over - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VIII: Brew-Over - Signups (7/15)</title>
+        <dc:creator><![CDATA[Marluxion]]></dc:creator>
+        <description><![CDATA[
+            <p>uh ignore those</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/33">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/33</link>
+        <pubDate>Sat, 22 May 2021 11:53:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87842-33</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842.rss">Blood on the Forums VIII: Brew-Over - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VIII: Brew-Over - Signups (7/15)</title>
+        <dc:creator><![CDATA[Marluxion]]></dc:creator>
+        <description><![CDATA[
+            <p>seat 13</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/30">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/30</link>
+        <pubDate>Sat, 22 May 2021 11:49:42 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87842-30</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842.rss">Blood on the Forums VIII: Brew-Over - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VIII: Brew-Over - Signups (7/15)</title>
+        <dc:creator><![CDATA[CRichard564]]></dc:creator>
+        <description><![CDATA[
+            <p>You have to choose a seat 4Head.</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/29">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/29</link>
+        <pubDate>Sat, 22 May 2021 11:23:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87842-29</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842.rss">Blood on the Forums VIII: Brew-Over - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VIII: Brew-Over - Signups (7/15)</title>
+        <dc:creator><![CDATA[Marluxion]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>/join</strong></p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/28">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842/28</link>
+        <pubDate>Sat, 22 May 2021 09:51:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87842-28</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-viii-brew-over-signups-7-15/87842.rss">Blood on the Forums VIII: Brew-Over - Signups (7/15)</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Saru&#39;s Classes - BD Investigative and Converts</title>
+    <link>https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387</link>
+    <description>So since I&#39;ve been asked to post my own classes here, here they are. As I&#39;ve made quite a handful, I decided to split them up into threads by their faction and alignment and will be periodically posting them here in order not to clog up the forum.
+
+Aside from creating new classes, I&#39;ve decided to focus on two things while creating them. The first one would be to make them as difficult to confirm as possible when BD, while the second one would be giving them abilities to add more ambiguity to already established game mechanics, such as Unseen-aligned classes that can remove Royal Blood or classes that have day abilities to give them occupation immunity for the night as a means of toning down the Butler and Drunk&#39;s investigative abilities.
+
+
+&gt; # [color = &quot;steblue&quot;] The Fortuneteller [/color] 
+&gt; **[color = &quot;steblue&quot;] Blue Dragon Investigative [/color]** 
+**Numerology (Day)** - Tells the Fortuneteller how many Blue Dragon-aligned players are still alive by the beginning of the coming night. Does not take the King’s alignment into account. - 2 uses 
+**Shuffle Deck (Night)** - Grants an additional charge of Tarot Card. - Infinite uses 
+**Tarot Card (Night)** - Select three players. By the end of the night the Fortuneteller will receive from one to three cards. Each card will tell the role of one of the selected player. Special-type classes will return the same result for Investigative-type classes and Killer-type classes will return the same result for Offensive-type classes. Tarot Card bypasses anything that would prevent visits but the Fortuneteller can still be occupied. - 0 uses 
+*Defeat the Unseen or Cult and any neutrals that seek to do you harm.*
+*Magic User*
+
+Converts into:
+&gt; # [color = &quot;purple&quot;] The Sibyl [/color] 
+&gt; **[color = &quot;purple&quot;] Unseen Investigative [/color]** 
+**Arithmancy (Day)** - Tells the Sibyl the precise number of Neutrals, Unseen, and Blue Dragon-aligned players are still alive by the beginning of the coming night. Does not take the King’s alignment into account. - 2 uses 
+**Fated Deck (Night)** - Grants an additional charge of Major Arcana. - Infinite uses 
+**Major Arcana (Night)** - Select three players. By the end of the night the Sibyl will learn all of their class types. - 0 uses 
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*
+*Magic User*
+------
+&gt; # [color = &quot;steblue&quot;] The Governor [/color] 
+&gt; **[color = &quot;steblue&quot;] Blue Dragon Investigative [/color]** 
+**Kingmaker (Passive)** - The Governor’s vote during King elections stealth counts as three votes.
+**Certify (Day)** - The Governor grants his target conversion immunity for the coming night. - 4 uses 
+**Trace Lineage (Night)** - Informs the Governor whether his target has Royal Blood or not. - Infinite uses 
+**Background Check (Night)** - If a King’s election was held during the previous day, then the Governor will be informed of which factions had their members step up. - 1 use 
+*Defeat the Unseen or Cult and any neutrals that seek to do you harm.*
+
+Converts into:
+&gt; # [color = &quot;purple&quot;] The Chancellor [/color] 
+&gt; **[color = &quot;purple&quot;] Unseen Investigative [/color]** 
+**Kingmaker (Passive)** - The Chancellor’s vote during King elections stealth counts as three votes.
+**Forged Documents (Day)** - The Chancellor grants the Royal Blood passive to a member of the Unseen. - 1 use 
+**Usurp (Day)** - If the King is put on trial, then the Chancellor can force the court to execution them. - 1 use 
+**Trace Bloodline (Night)** - Informs the Chancellor whether his target has Royal Blood or not and their precise class if they do. - Infinite uses 
+**Stigmatize (Night)** - Removes Royal Blood from your target for two nights. Unlimited uses. - Infinite uses 
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*
+------
+&gt; # [color = &quot;steblue&quot;] The Overseer [/color] 
+&gt; **[color = &quot;steblue&quot;] Blue Dragon Investigative [/color]** 
+**Transparency (Day)** - For trials today, the Overseer nullifies any ability that forces the court to either pardon or execute their target. Can be used during trials. - 1 use
+**Record Examination (Night)** - Providing a player was executed, informs the Overseer of how many Blue Dragon-aligned players voted for a pardon for the trial in the previous day. - Infinite uses 
+**Evidence Examination (Night)** - Providing a player was executed, informs the Overseer of how many Blue Dragon-aligned players voted for an execution for the trial in the previous day. - Infinite uses 
+*Defeat the Unseen or Cult and any neutrals that seek to do you harm.*
+
+Converts into:
+&gt; # [color = &quot;purple&quot;] The Bureaucrat [/color] 
+&gt; **[color = &quot;purple&quot;] Unseen Investigative [/color]** 
+**Red Tape (Day)** - Selects a player and prevents the ability for them to be put up on trial. - 1 use 
+**Precise Examination (Night)** - Providing a player was executed, informs the Bureaucrat of which Blue Dragon classes voted for a pardon for the last trial in the previous day. - Infinite uses 
+**Jury Tampering (Night)** - If a player is put to trial the next day then the votes of the Bureaucrat&#39;s target will be reversed if they do not abstain. - Infinite uses 
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*
+----
+&gt; # [color = &quot;steblue&quot;] The Actuary [/color] 
+&gt; **[color = &quot;steblue&quot;] Blue Dragon Investigative [/color]** 
+**Sharp Eyes (Day)** - Selects a player during the day. In the following night the Actuary will be notified if they have used any Day abilities. - 2 uses 
+**Notice to Detail (Day)** - At the beginning of the night, the Actuary will be told how many day abilities were used the previous day. - 2 uses 
+**Inventory (Night)** - Selects a player and the Actuary will be informed of the total number of uses they have for both their night abilities combined. Abilities with unlimited usage will count as zero. - Infinite uses 
+*Defeat the Unseen or Cult and any neutrals that seek to do you harm.*
+
+Converts into:
+
+&gt; # [color = &quot;purple&quot;] The Taxman [/color] 
+&gt; **[color = &quot;purple&quot;] Unseen Investigative [/color]** 
+**Precise Details (Passive)** - At the beginning of the night, the Taxman will be told how many day abilities and which abilities were used.
+**Avarice (Day)** - Selects a player during the day. Will notify the Taxman if they have used any Day abilities this day and which abilities were used. - 3 uses 
+**Inventory (Night)** - Selects a player and the Taxman will be informed of the total number of uses they have for both their night abilities combined. Abilities with unlimited usage count as zero. - Infinite uses 
+**Confiscate (Night)** - If the target has any abilities with finite usage, then the Taxman will remove one usage from each of their abilities. - 3 uses 
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*
+-----
+&gt; # [color = &quot;steblue&quot;] The Socialite [/color] 
+&gt; **[color = &quot;steblue&quot;] Blue Dragon Investigative [/color]** 
+**Royal Blood (Passive)** - As a Royal, you can put your name forward for nominations to become the next King.
+**Guest List (Day)** - By the end of the coming night, you will know how many players of each faction visited you. - 2 uses 
+**Social Links (Night)** - The Socialite selects two players and will return a positive result providing both targets’ class types match. Special classes count as Investigative. - Infinite uses 
+**Faction Links (Night)** - The Socialite selects two players and will return a positive result providing both targets’ alignments match. Will always return a negative result if used on the Prince. - 2 uses 
+*Defeat the Unseen or Cult and any neutrals that seek to do you harm.*
+
+Converts into:
+&gt; # [color = &quot;purple&quot;] The Marchioness [/color] 
+&gt; **[color = &quot;purple&quot;] Unseen Investigative [/color]** 
+**Royal Blood (Passive)** - As a Royal, you can put your name forward for nominations to become the next King.
+**The Woman Behind the Man (Passive)** - The Marchioness will appear as Blue Dragon for faction checks and will be promoted straight to Mastermind if the Mastermind dies, regardless of when they die or if the Assassin is still alive. This passive is not lost when the Marchioness is promoted to an Assassin, only when they become the Mastermind.
+**VIP List (Day)** - By the end of the next night you will know which players visited the Mastermind that night. - 3 uses 
+**Social Links (Night)** - The Marchioness selects two players and will return a positive result providing both targets’ class types match. Special classes count as Investigative. - Infinite uses 
+**Faction Links (Night)** - The Marchioness selects two players and will return a positive result providing both targets’ alignments match. - 2 uses 
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*</description>
+    
+    <lastBuildDate>Tue, 19 Jun 2018 19:31:32 +0000</lastBuildDate>
+    <category>Class/Lore/Fanfic</category>
+    <atom:link href="https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Saru&#39;s Classes - BD Investigative and Converts</title>
+        <dc:creator><![CDATA[Shrimpy]]></dc:creator>
+        <description><![CDATA[
+            <p>Can I decide fate to execute an Overseer? <img src="/images/emoji/twitter/yum.png?v=9" title=":yum:" class="emoji" alt=":yum:"></p>
+          <p><a href="https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387/17</link>
+        <pubDate>Tue, 19 Jun 2018 19:31:32 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67387-17</guid>
+        <source url="https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387.rss">Saru&#39;s Classes - BD Investigative and Converts</source>
+      </item>
+      <item>
+        <title>Saru&#39;s Classes - BD Investigative and Converts</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Shrimpy" data-post="15" data-topic="67387">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shrimpy/40/15828_2.png" class="avatar"> Shrimpy:</div>
+<blockquote>
+<p>As EK my favorite strategy is get someone who is known only to me as Prince (or suspected by me as being Prince) getting voted up rapidly with a bogus accusation. And then deciding fate. This is already a risky enough move, since if I don’t get him voted up fast enough, I will accomplish nothing but getting myself executed.</p>
+<p>The ability you propose would make this even riskier, that’s why I don’t like it.</p>
+</blockquote>
+</aside>
+<p>Ultimately, I envisioned that using Transparency would silently nullify any ability that can mess with the trial. If you tried to DF when the Overseer used Transparency it would just tell the King that the ability failed and nobody would be the wiser.</p>
+<p>Essentially my classes go for a least confirmation as possible.</p>
+          <p><a href="https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387/16</link>
+        <pubDate>Tue, 19 Jun 2018 19:24:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67387-16</guid>
+        <source url="https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387.rss">Saru&#39;s Classes - BD Investigative and Converts</source>
+      </item>
+      <item>
+        <title>Saru&#39;s Classes - BD Investigative and Converts</title>
+        <dc:creator><![CDATA[Shrimpy]]></dc:creator>
+        <description><![CDATA[
+            <p>I want to second what Sketch said about these class ideas being very well thought-out.</p>
+<blockquote>
+<p>This is technically x1.5 Bat Eyelashes at once though. The Sibyl requires to use Fated Deck to gain a charge in order to use that ability.</p>
+</blockquote>
+<p>Oh yeah, you’re right.  I’m fine with it then, since that extra .5 Bat Eyelashes comes at the price of doing practically nothing for a night.</p>
+<blockquote>
+<p>It can be used on trials even before the EK can hit execute, so reflexes shouldn’t matter here too much.</p>
+</blockquote>
+<p>As EK my favorite strategy is get someone who is known only to me as Prince (or suspected by me as being Prince) getting voted up rapidly with a bogus accusation.  And then deciding fate.  This is already a risky enough move, since if I don’t get him voted up fast enough, I will accomplish nothing but getting myself executed.</p>
+<p>The ability you propose would make this even riskier, that’s why I don’t like it.</p>
+<blockquote>
+<p>Hmm, Certify can possibly be used as a limited-usage Clear Mind. It could potentially work well, especially fitting with the Governor’s theme of vetting King candidates.</p>
+</blockquote>
+<p>Okay, I guess.</p>
+<blockquote>
+<p>Tbh, the Super Sheriff was broken mainly because he also couldn’t be converted and also had a 3-use night immunity with that old Surveillance. Plus, this doesn’t give the exact players who visited. Guest List shouldn’t be that strong as the Socialite is still vulnerable and does not who visited her, only their factions.</p>
+</blockquote>
+<p>Okay, maybe that ability on its own isn’t too bad.</p>
+          <p><a href="https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387/15</link>
+        <pubDate>Tue, 19 Jun 2018 19:21:24 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67387-15</guid>
+        <source url="https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387.rss">Saru&#39;s Classes - BD Investigative and Converts</source>
+      </item>
+      <item>
+        <title>Saru&#39;s Classes - BD Investigative and Converts</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <blockquote>
+<p>Remove the revealing King’s alignment part and I like this.</p>
+</blockquote>
+<p>Did it with the Judge and now I’ll do it here too. I didn’t gouge the strength of knowing the King’s alignment too well here, I admit.</p>
+<blockquote>
+<p>This is basically three night’s worth of Duchess Bat Eyelashes all at once. Overpowered, in my opinion. I would consider changing it so that it it’s exactly like Tarot Card except revealing factions and not classes.</p>
+</blockquote>
+<p>This is technically x1.5 Bat Eyelashes at once though. The Sibyl requires to use Fated Deck to gain a charge in order to use that ability.</p>
+<blockquote>
+<p>I don’t like this because now everytime Evil King puts Prince up, whether he can get force-executed or not depends on whether Overseer or Evil King smashes their button first.</p>
+</blockquote>
+<p>It can be used on trials even before the EK can hit execute, so reflexes shouldn’t matter here too much.</p>
+<blockquote>
+<p>I don’t support this because it will be too effective against any ability that removes Royal Blood. As soon as someone is confirmed Royal Blood, a Governor will instantly Certify them, making anyone trying to delete it fail.</p>
+</blockquote>
+<p>Hmm, Certify can possibly be used as a limited-usage Clear Mind. It could potentially work well, especially fitting with the Governor’s theme of vetting King candidates.</p>
+<blockquote>
+<p>I don’t like this for partly the same reason I didn’t like that superhero Sheriff patch. It’s very unfun to say, drug someone, but get outed because you’re the only visitor and their ability informed them that only Unseen visited.</p>
+</blockquote>
+<p>Tbh, the Super Sheriff was broken mainly because he also couldn’t be converted and also had a 3-use night immunity with that old Surveillance. Plus, this doesn’t give the exact players who visited. Guest List shouldn’t be that strong as the Socialite is still vulnerable and does not who visited her, only their factions.</p>
+          <p><a href="https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387/14</link>
+        <pubDate>Tue, 19 Jun 2018 19:13:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67387-14</guid>
+        <source url="https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387.rss">Saru&#39;s Classes - BD Investigative and Converts</source>
+      </item>
+      <item>
+        <title>Saru&#39;s Classes - BD Investigative and Converts</title>
+        <dc:creator><![CDATA[Sketch]]></dc:creator>
+        <description><![CDATA[
+            <p>These are all incredibly well thought out, flavorful classes. Well done.</p>
+<p>I particularly like the Actuary.</p>
+          <p><a href="https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387/13</link>
+        <pubDate>Tue, 19 Jun 2018 18:57:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67387-13</guid>
+        <source url="https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387.rss">Saru&#39;s Classes - BD Investigative and Converts</source>
+      </item>
+      <item>
+        <title>Saru&#39;s Classes - BD Investigative and Converts</title>
+        <dc:creator><![CDATA[Shrimpy]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>The Fortuneteller</strong></p>
+<blockquote>
+<p>Numerology (Day) - Tells the Fortuneteller how many Blue Dragon-aligned players are still alive by the beginning of the coming night. Does not take the King’s alignment into account. - 2 uses</p>
+</blockquote>
+<p>I like.</p>
+<p>Tarot Card seems cool too.</p>
+<p><strong>The Sibyl</strong></p>
+<blockquote>
+<p>Tells the Sibyl the precise number of Neutrals, Unseen, and Blue Dragon-aligned players are still alive by the beginning of the coming night and reveals the King’s alignment.</p>
+</blockquote>
+<p>Remove the revealing King’s alignment part and I like this.</p>
+<blockquote>
+<p>Select three players. By the end of the night the Sibyl will learn all of their class types.</p>
+</blockquote>
+<p>This is basically three night’s worth of Duchess Bat Eyelashes all at once.  Overpowered, in my opinion.  I would consider changing it so that it it’s exactly like Tarot Card except revealing factions and not classes.</p>
+<p><strong>The Governor</strong></p>
+<blockquote>
+<p>Kingmaker (Passive) - The Governor’s vote during King elections stealth counts as three votes.</p>
+</blockquote>
+<p>This is too strong (almost the same as letting Governor choose the King all by himself).  At least make it only count as two votes, or change it so that Governor forces a person to vote for a certain candidate.</p>
+<blockquote>
+<p>Certify (Day) - The Governor grants his target immunity to Royal Blood removing effects for the rest of the match provided that they started with Royal Blood.</p>
+</blockquote>
+<p>I don’t support this because it will be too effective against any ability that removes Royal Blood.  As soon as someone is confirmed Royal Blood, a Governor will instantly Certify them, making anyone trying to delete it fail.</p>
+<blockquote>
+<p>Trace Lineage (Night) - Informs the Governor whether his target has Royal Blood or not. - Infinite uses</p>
+</blockquote>
+<p>I don’t like this because it makes Royal Blood an even more significant factor in class confirmation, which we need less of, not more.</p>
+<blockquote>
+<p>Background Check (Night) - If a King’s election was held during the previous day, then the Governor will be informed of which factions had their members step up. - 1 use</p>
+</blockquote>
+<p>Okay.</p>
+<p><strong>The Chancellor</strong></p>
+<blockquote>
+<p>Forged Documents (Day) - The Chancellor grants the Royal Blood passive to a member of the Unseen. - 1 use</p>
+</blockquote>
+<p>I like.</p>
+<blockquote>
+<p>Trace Bloodline (Night) - Informs the Chancellor whether his target has Royal Blood or not and their precise class if they do. - Infinite uses</p>
+</blockquote>
+<p>I like.</p>
+<blockquote>
+<p>Stigmatize (Night) - Removes Royal Blood from your target for two nights.</p>
+</blockquote>
+<p>I would make it so that the “remove royal blood” and “give royal blood” are both night abilities, or both day abilities, to prevent both being used at the same time which would be overpowered.  I would also make both abilities only work for one night, so more skill is required to use them effectively.</p>
+<p>*<em>The Overseer</em></p>
+<blockquote>
+<p>Transparency (Day) - For trials today, the Overseer nullifies any ability that forces the court to either pardon or execute their target. Can be used during trials. - 1 use</p>
+</blockquote>
+<p>I don’t like this because now everytime Evil King puts Prince up, whether he can get force-executed or not depends on whether Overseer or Evil King smashes their button first.</p>
+<blockquote>
+<p>Record Examination (Night) - Providing a player was executed, informs the Overseer of how many Blue Dragon-aligned players voted for a pardon for the trial in the previous day.</p>
+</blockquote>
+<blockquote>
+<p>Evidence Examination (Night) - Providing a player was executed, informs the Overseer of how many Blue Dragon-aligned players voted for an execution for the trial in the previous day.</p>
+</blockquote>
+<p>To be honest I’m not happy with how much this reduces the importance of socially-deducing voting behavior instead of deducing it via investigative abilities.</p>
+<blockquote>
+<p>Red Tape (Day) - Selects a player and prevents the ability for them to be put up on trial. - 1 use</p>
+</blockquote>
+<p>This is basically a Decide Fate Pardon.  Too overpowered for someone that isn’t King.</p>
+<blockquote>
+<p>Jury Tampering (Night) - If a player is put to trial the next day then the votes of the Bureaucrat’s target will be reversed if they do not abstain. - Infinite uses</p>
+</blockquote>
+<p>I think this ability is really cool!  I would rather it be on a social class though.</p>
+<p><strong>The Actuary</strong> and <strong>The Taxman</strong></p>
+<p>Seems cool, I have no complaints.</p>
+<p><strong>The Socialite</strong></p>
+<blockquote>
+<p>Guest List (Day) - By the end of the coming night, you will know how many players of each faction visited you. - 2 uses</p>
+</blockquote>
+<p>I don’t like this for partly the same reason I didn’t like that superhero Sheriff patch.  It’s very unfun to say, drug someone, but get outed because you’re the only visitor and their ability informed them that only Unseen visited.</p>
+<blockquote>
+<p>Social Links (Night) - The Socialite selects two players and will return a positive result providing both targets’ class types match. Special classes count as Investigative. - Infinite uses</p>
+</blockquote>
+<blockquote>
+<p>Faction Links (Night) - The Socialite selects two players and will return a positive result providing both targets’ alignments match. Will always return a negative result if used on the Prince. - 2 uses</p>
+</blockquote>
+<p>I think these are great abilities but I want one of them given to Princess in place wisp.</p>
+<p><strong>The Marchioness</strong></p>
+<p>Would be interesting to see how this works out in practice.</p>
+          <p><a href="https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387/12</link>
+        <pubDate>Tue, 19 Jun 2018 18:50:24 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67387-12</guid>
+        <source url="https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387.rss">Saru&#39;s Classes - BD Investigative and Converts</source>
+      </item>
+      <item>
+        <title>Saru&#39;s Classes - BD Investigative and Converts</title>
+        <dc:creator><![CDATA[CheesyKnives]]></dc:creator>
+        <description><![CDATA[
+            <p>I see, ok <img src="/images/emoji/twitter/smiley.png?v=9" title=":smiley:" class="emoji" alt=":smiley:"></p>
+          <p><a href="https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387/11</link>
+        <pubDate>Mon, 18 Jun 2018 21:16:45 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67387-11</guid>
+        <source url="https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387.rss">Saru&#39;s Classes - BD Investigative and Converts</source>
+      </item>
+      <item>
+        <title>Saru&#39;s Classes - BD Investigative and Converts</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <p>Err, no but I should probably make one. I also have a few other reworks, most notably a revamp of the King and the Sorcerer+Inquisitor in mind and still have yet to make a thread with my killer, offensive, and support roles.</p>
+          <p><a href="https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387/10</link>
+        <pubDate>Mon, 18 Jun 2018 21:16:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67387-10</guid>
+        <source url="https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387.rss">Saru&#39;s Classes - BD Investigative and Converts</source>
+      </item>
+      <item>
+        <title>Saru&#39;s Classes - BD Investigative and Converts</title>
+        <dc:creator><![CDATA[CheesyKnives]]></dc:creator>
+        <description><![CDATA[
+            <p>Do you have some sort of Megathread where all your ideas are kept?</p>
+          <p><a href="https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387/9</link>
+        <pubDate>Mon, 18 Jun 2018 21:12:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67387-9</guid>
+        <source url="https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387.rss">Saru&#39;s Classes - BD Investigative and Converts</source>
+      </item>
+      <item>
+        <title>Saru&#39;s Classes - BD Investigative and Converts</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <blockquote>
+<p>Imagine that three people voted pardon and none are BD.<br>
+That’s extremely op</p>
+</blockquote>
+<p>That’s basically a fringe case like a Sheriff finding both the Assassin n1 along with a convert via scout, and it’s easy to avoid this if the scum player tries to check the mood of the court to vote with the majority or resort to abstaining. And there’s also the fact that in most ToL games executions don’t happen every day or are very one-sided, so having an Overseer out several evils at once shouldn’t happen that often unless the evils are being obvious.</p>
+<p>In executions the entire court typically all vote execute together with a few abstains thrown around in there. In either way being one of the few pardons is typically going to raise suspicion on you. The Overseer’s there just to seal the deal, or clear your name if you’re BD.</p>
+<p>Though I could swap around and replace the faction check with a class type check if it’s too strong. Plus, I’d imagine that there should be enough counterplay to the Overseer by either voting with the flow and abstaining in ambiguous cases.</p>
+          <p><a href="https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387/8</link>
+        <pubDate>Mon, 18 Jun 2018 21:05:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67387-8</guid>
+        <source url="https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387.rss">Saru&#39;s Classes - BD Investigative and Converts</source>
+      </item>
+      <item>
+        <title>Saru&#39;s Classes - BD Investigative and Converts</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Alice" data-post="1" data-topic="67387">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/alice/40/32176_2.png" class="avatar"> Alice:</div>
+<blockquote>
+<p><strong>Record Examination (Night)</strong> - Providing a player was executed, informs the Overseer of how many Blue Dragon-aligned players voted for a pardon for the trial in the previous day. - Infinite us<br>
+es</p>
+</blockquote>
+</aside>
+<p>Imagine that three people voted pardon and none are BD.</p>
+<p>That’s extremely op</p>
+          <p><a href="https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387/7</link>
+        <pubDate>Mon, 18 Jun 2018 20:17:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67387-7</guid>
+        <source url="https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387.rss">Saru&#39;s Classes - BD Investigative and Converts</source>
+      </item>
+      <item>
+        <title>Saru&#39;s Classes - BD Investigative and Converts</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>nvm I found it</p>
+          <p><a href="https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387/6</link>
+        <pubDate>Mon, 18 Jun 2018 19:35:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67387-6</guid>
+        <source url="https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387.rss">Saru&#39;s Classes - BD Investigative and Converts</source>
+      </item>
+      <item>
+        <title>Saru&#39;s Classes - BD Investigative and Converts</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <p>If you really want them, I’ll post now.</p>
+          <p><a href="https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387/5</link>
+        <pubDate>Sun, 17 Jun 2018 18:45:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67387-5</guid>
+        <source url="https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387.rss">Saru&#39;s Classes - BD Investigative and Converts</source>
+      </item>
+      <item>
+        <title>Saru&#39;s Classes - BD Investigative and Converts</title>
+        <dc:creator><![CDATA[Memesky]]></dc:creator>
+        <description><![CDATA[
+            <p>There are only 2 BD socials. When you can would you post the social classes?</p>
+          <p><a href="https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387/4</link>
+        <pubDate>Sun, 17 Jun 2018 18:43:42 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67387-4</guid>
+        <source url="https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387.rss">Saru&#39;s Classes - BD Investigative and Converts</source>
+      </item>
+      <item>
+        <title>Saru&#39;s Classes - BD Investigative and Converts</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <p>Yep. Currently I have three socials, four killers, five supports, and two offensives to go with the five investigative classes. Right now I’m basically only throttling them in order not to spam.</p>
+          <p><a href="https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387/3</link>
+        <pubDate>Sun, 17 Jun 2018 18:41:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67387-3</guid>
+        <source url="https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387.rss">Saru&#39;s Classes - BD Investigative and Converts</source>
+      </item>
+      <item>
+        <title>Saru&#39;s Classes - BD Investigative and Converts</title>
+        <dc:creator><![CDATA[Memesky]]></dc:creator>
+        <description><![CDATA[
+            <p>This is interesting. But do you have any BD socials is my question?</p>
+          <p><a href="https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387/2</link>
+        <pubDate>Sun, 17 Jun 2018 18:34:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67387-2</guid>
+        <source url="https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387.rss">Saru&#39;s Classes - BD Investigative and Converts</source>
+      </item>
+      <item>
+        <title>Saru&#39;s Classes - BD Investigative and Converts</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <p>So since I’ve been asked to post my own classes here, here they are. As I’ve made quite a handful, I decided to split them up into threads by their faction and alignment and will be periodically posting them here in order not to clog up the forum.</p>
+<p>Aside from creating new classes, I’ve decided to focus on two things while creating them. The first one would be to make them as difficult to confirm as possible when BD, while the second one would be giving them abilities to add more ambiguity to already established game mechanics, such as Unseen-aligned classes that can remove Royal Blood or classes that have day abilities to give them occupation immunity for the night as a means of toning down the Butler and Drunk’s investigative abilities.</p>
+<blockquote>
+<h1><font color="steblue"> The Fortuneteller </font></h1>
+<p><strong><font color="steblue"> Blue Dragon Investigative </font></strong><br>
+<strong>Numerology (Day)</strong> - Tells the Fortuneteller how many Blue Dragon-aligned players are still alive by the beginning of the coming night. Does not take the King’s alignment into account. - 2 uses<br>
+<strong>Shuffle Deck (Night)</strong> - Grants an additional charge of Tarot Card. - Infinite uses<br>
+<strong>Tarot Card (Night)</strong> - Select three players. By the end of the night the Fortuneteller will receive from one to three cards. Each card will tell the role of one of the selected player. Special-type classes will return the same result for Investigative-type classes and Killer-type classes will return the same result for Offensive-type classes. Tarot Card bypasses anything that would prevent visits but the Fortuneteller can still be occupied. - 0 uses<br>
+<em>Defeat the Unseen or Cult and any neutrals that seek to do you harm.</em><br>
+<em>Magic User</em></p>
+</blockquote>
+<p>Converts into:</p>
+<blockquote>
+<h1><font color="purple"> The Sibyl </font></h1>
+<p><strong><font color="purple"> Unseen Investigative </font></strong><br>
+<strong>Arithmancy (Day)</strong> - Tells the Sibyl the precise number of Neutrals, Unseen, and Blue Dragon-aligned players are still alive by the beginning of the coming night. Does not take the King’s alignment into account. - 2 uses<br>
+<strong>Fated Deck (Night)</strong> - Grants an additional charge of Major Arcana. - Infinite uses<br>
+<strong>Major Arcana (Night)</strong> - Select three players. By the end of the night the Sibyl will learn all of their class types. - 0 uses<br>
+<em>Defeat the Blue Dragon and any neutrals that seek to do you harm.</em><br>
+<em>Magic User</em></p>
+</blockquote>
+<hr>
+<blockquote>
+<h1><font color="steblue"> The Governor </font></h1>
+<p><strong><font color="steblue"> Blue Dragon Investigative </font></strong><br>
+<strong>Kingmaker (Passive)</strong> - The Governor’s vote during King elections stealth counts as three votes.<br>
+<strong>Certify (Day)</strong> - The Governor grants his target conversion immunity for the coming night. - 4 uses<br>
+<strong>Trace Lineage (Night)</strong> - Informs the Governor whether his target has Royal Blood or not. - Infinite uses<br>
+<strong>Background Check (Night)</strong> - If a King’s election was held during the previous day, then the Governor will be informed of which factions had their members step up. - 1 use<br>
+<em>Defeat the Unseen or Cult and any neutrals that seek to do you harm.</em></p>
+</blockquote>
+<p>Converts into:</p>
+<blockquote>
+<h1><font color="purple"> The Chancellor </font></h1>
+<p><strong><font color="purple"> Unseen Investigative </font></strong><br>
+<strong>Kingmaker (Passive)</strong> - The Chancellor’s vote during King elections stealth counts as three votes.<br>
+<strong>Forged Documents (Day)</strong> - The Chancellor grants the Royal Blood passive to a member of the Unseen. - 1 use<br>
+<strong>Usurp (Day)</strong> - If the King is put on trial, then the Chancellor can force the court to execution them. - 1 use<br>
+<strong>Trace Bloodline (Night)</strong> - Informs the Chancellor whether his target has Royal Blood or not and their precise class if they do. - Infinite uses<br>
+<strong>Stigmatize (Night)</strong> - Removes Royal Blood from your target for two nights. Unlimited uses. - Infinite uses<br>
+<em>Defeat the Blue Dragon and any neutrals that seek to do you harm.</em></p>
+</blockquote>
+<hr>
+<blockquote>
+<h1><font color="steblue"> The Overseer </font></h1>
+<p><strong><font color="steblue"> Blue Dragon Investigative </font></strong><br>
+<strong>Transparency (Day)</strong> - For trials today, the Overseer nullifies any ability that forces the court to either pardon or execute their target. Can be used during trials. - 1 use<br>
+<strong>Record Examination (Night)</strong> - Providing a player was executed, informs the Overseer of how many Blue Dragon-aligned players voted for a pardon for the trial in the previous day. - Infinite uses<br>
+<strong>Evidence Examination (Night)</strong> - Providing a player was executed, informs the Overseer of how many Blue Dragon-aligned players voted for an execution for the trial in the previous day. - Infinite uses<br>
+<em>Defeat the Unseen or Cult and any neutrals that seek to do you harm.</em></p>
+</blockquote>
+<p>Converts into:</p>
+<blockquote>
+<h1><font color="purple"> The Bureaucrat </font></h1>
+<p><strong><font color="purple"> Unseen Investigative </font></strong><br>
+<strong>Red Tape (Day)</strong> - Selects a player and prevents the ability for them to be put up on trial. - 1 use<br>
+<strong>Precise Examination (Night)</strong> - Providing a player was executed, informs the Bureaucrat of which Blue Dragon classes voted for a pardon for the last trial in the previous day. - Infinite uses<br>
+<strong>Jury Tampering (Night)</strong> - If a player is put to trial the next day then the votes of the Bureaucrat’s target will be reversed if they do not abstain. - Infinite uses<br>
+<em>Defeat the Blue Dragon and any neutrals that seek to do you harm.</em></p>
+</blockquote>
+<hr>
+<blockquote>
+<h1><font color="steblue"> The Actuary </font></h1>
+<p><strong><font color="steblue"> Blue Dragon Investigative </font></strong><br>
+<strong>Sharp Eyes (Day)</strong> - Selects a player during the day. In the following night the Actuary will be notified if they have used any Day abilities. - 2 uses<br>
+<strong>Notice to Detail (Day)</strong> - At the beginning of the night, the Actuary will be told how many day abilities were used the previous day. - 2 uses<br>
+<strong>Inventory (Night)</strong> - Selects a player and the Actuary will be informed of the total number of uses they have for both their night abilities combined. Abilities with unlimited usage will count as zero. - Infinite uses<br>
+<em>Defeat the Unseen or Cult and any neutrals that seek to do you harm.</em></p>
+</blockquote>
+<p>Converts into:</p>
+<blockquote>
+<h1><font color="purple"> The Taxman </font></h1>
+<p><strong><font color="purple"> Unseen Investigative </font></strong><br>
+<strong>Precise Details (Passive)</strong> - At the beginning of the night, the Taxman will be told how many day abilities and which abilities were used.<br>
+<strong>Avarice (Day)</strong> - Selects a player during the day. Will notify the Taxman if they have used any Day abilities this day and which abilities were used. - 3 uses<br>
+<strong>Inventory (Night)</strong> - Selects a player and the Taxman will be informed of the total number of uses they have for both their night abilities combined. Abilities with unlimited usage count as zero. - Infinite uses<br>
+<strong>Confiscate (Night)</strong> - If the target has any abilities with finite usage, then the Taxman will remove one usage from each of their abilities. - 3 uses<br>
+<em>Defeat the Blue Dragon and any neutrals that seek to do you harm.</em></p>
+</blockquote>
+<hr>
+<blockquote>
+<h1><font color="steblue"> The Socialite </font></h1>
+<p><strong><font color="steblue"> Blue Dragon Investigative </font></strong><br>
+<strong>Royal Blood (Passive)</strong> - As a Royal, you can put your name forward for nominations to become the next King.<br>
+<strong>Guest List (Day)</strong> - By the end of the coming night, you will know how many players of each faction visited you. - 2 uses<br>
+<strong>Social Links (Night)</strong> - The Socialite selects two players and will return a positive result providing both targets’ class types match. Special classes count as Investigative. - Infinite uses<br>
+<strong>Faction Links (Night)</strong> - The Socialite selects two players and will return a positive result providing both targets’ alignments match. Will always return a negative result if used on the Prince. - 2 uses<br>
+<em>Defeat the Unseen or Cult and any neutrals that seek to do you harm.</em></p>
+</blockquote>
+<p>Converts into:</p>
+<blockquote>
+<h1><font color="purple"> The Marchioness </font></h1>
+<p><strong><font color="purple"> Unseen Investigative </font></strong><br>
+<strong>Royal Blood (Passive)</strong> - As a Royal, you can put your name forward for nominations to become the next King.<br>
+<strong>The Woman Behind the Man (Passive)</strong> - The Marchioness will appear as Blue Dragon for faction checks and will be promoted straight to Mastermind if the Mastermind dies, regardless of when they die or if the Assassin is still alive. This passive is not lost when the Marchioness is promoted to an Assassin, only when they become the Mastermind.<br>
+<strong>VIP List (Day)</strong> - By the end of the next night you will know which players visited the Mastermind that night. - 3 uses<br>
+<strong>Social Links (Night)</strong> - The Marchioness selects two players and will return a positive result providing both targets’ class types match. Special classes count as Investigative. - Infinite uses<br>
+<strong>Faction Links (Night)</strong> - The Marchioness selects two players and will return a positive result providing both targets’ alignments match. - 2 uses<br>
+<em>Defeat the Blue Dragon and any neutrals that seek to do you harm.</em></p>
+</blockquote>
+          <p><a href="https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387/1</link>
+        <pubDate>Sun, 17 Jun 2018 18:01:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-67387-1</guid>
+        <source url="https://forum.throneoflies.com/t/sarus-classes-bd-investigative-and-converts/67387.rss">Saru&#39;s Classes - BD Investigative and Converts</source>
+      </item>
+  </channel>
+</rss>

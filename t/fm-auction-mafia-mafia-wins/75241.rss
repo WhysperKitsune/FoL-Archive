@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[FM] Auction Mafia - Mafia wins!</title>
+    <link>https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241</link>
+    <description>:game_die: &lt;big&gt;[color=gold] What is Auction mafia?[/color] &lt;/big&gt;
+
+Auction mafia (previously known as poker mafia) works like a standard mafia game, with a town faction and a mafia faction. However, in Auction mafia all players start without any abilities and instead must get their abilities by placing a bid on the **Ability Pool**. 
+
+(If you have played Poker Mafia before, you can skip to the &quot;What&#39;s new?&quot; section. If you are interested in reading the previous games you can find them [here](https://forum.imperium42.com/t/fm-poker-mafia-the-mafia-leprechaun-and-gambler-win/60564) and [here](https://forum.imperium42.com/t/fm-poker-mafia-2-the-elite-and-the-entertainer-won/66245)).
+
+The classcards are the following:
+
+[details=&quot;Class cards&quot;]
+
+&gt; &lt;big&gt;[color=green]**Townie**[/color]&lt;/big&gt;
+&gt; **Town**
+&gt; At the beginning of each day, you get 5 tokens.
+&gt; Choose one of the following gifts at the start of the game:
+&gt; * **Wallet**: Start with 3 extra tokens.
+&gt; * **Lottery Ticket**: Start with 5 free raffle tickets.
+&gt; * **Golden Ticket**: At the beginning of the game, one of the players that picked a Golden ticket will get a random Golden ability.
+&gt; * **Credit Card**: You will gain 7 tokens at the beginning of day 3.
+&gt; * **PhD:** Start with a random common Support/Social/Investigative ability.
+&gt; * **Underworld Connections:** Start with a random common Killer/Offensive/Gambling ability
+&gt; * **VIP Pass**: Start with a random passive ability. 
+&gt;
+&gt; **Goal: Defeat the Mafia** 
+
+----
+
+&gt; &lt;big&gt;[color=red]**Mafioso**[/color]&lt;/big&gt;
+&gt; **Mafia**
+&gt; Mafia tokens are shared between all members, including Special tokens. At the beginning of each day, Mafia gets 5 tokens for every living mafioso.
+&gt; Choose one of the following gifts at the start of the game:
+&gt; * **Wallet**: Mafia will start with 3 extra tokens.
+&gt; * **Lottery Ticket**: Start with 5 free raffle tickets.
+&gt; * **Golden Ticket**: At the beginning of the game, one of the players that picked a Golden ticket will get a random Golden ability.
+&gt; * **Fake ID**: Start with a random common Scum ability.
+&gt; * **PhD:** Start with a random common Support/Social/Investigative ability.
+&gt; * **Underworld Connections:** Start with a random common Killer/Offensive/Gambling ability
+&gt; * **VIP Pass**: Start with a random passive ability. 
+&gt;
+&gt; Every night one member of the mafia can perform the factional kill. This counts as a night action, and will be seen as a &quot;Killing&quot; ability to investigators.
+&gt;
+&gt; **Goal: Defeat the Town** 
+
+[/details]
+
+--------------
+
+:game_die: &lt;big&gt;[color=gold] Tokens[/color] &lt;/big&gt;
+
+**Tokens** are the main currency of the game, and they are used to place bids on the **Ability pool** or to buy tickets for the **Raffle**.
+All players get 5 tokens at the beginning of each day, and any unspent tokens will carry over to the next day. You can also get more tokens from **Events** or by **Selling back** your abilities.
+Besides normal tokens, there are also &quot;Special tokens&quot;.
+* **Special tokens:** These can only be used to place a bid on the ability pool. A special token will always get the highest bid on an ability against any amount of normal tokens.
+
+----
+
+:game_die: &lt;big&gt;[color=gold] Ability Pool[/color] &lt;/big&gt;
+
+Every day there will be an **Ability Pool** with a certain number of abilities. The ability pool works similar to an auction: every player can place any number of tokens on one or more abilities in the pool, and at the end of the day the player that placed the highest bid on each ability will get said ability. Please note that unlike most auctions, **players who lose a bid will NOT get their tokens back.** Also, every bid you place will be private and won&#39;t be revealed to anyone.
+
+The abilities on the pool will change every day, and the number of abilities in the pool will be equal to the number of living players minus 1, with a minimum of 3 abilities. Two of those will always be [color=gold]**Golden**[/color] abilities. Golden abilities are really powerful abilities that only have 1 use.
+
+To place a bid on the pool, send a message to the host saying which ability and the number of tokens you want to place, for example: &quot;I want to place 5 tokens on ability #4&quot; or &quot;/bet 3 tokens on 4&quot;.
+
+The abilities that can appear in the pool are the following (note, there is no need to read every single ability in order to play the game):
+
+[details=&quot;List of abilities&quot;]
+
+This is the list of abilities that can spawn in the pool. There are currently around 150 different abilities.
+
+:first_quarter_moon_with_face: = Night ability
+:sun_with_face: = Day ability  
+:shield: = Passive ability
+:star: = Golden ability (Rare and powerful 1-shot abilities)  
+
+
+Support :hearts:
+- :first_quarter_moon_with_face: :hearts: Select two players. Anyone that visits one of them will instead visit the other. Can target yourself. 3 uses. 
+- :first_quarter_moon_with_face: :hearts: Heal a player from attacks, doesn&#39;t heal bleeding. 4 uses. 
+- :first_quarter_moon_with_face: :hearts: Heal a player from bleeding. Doesn&#39;t heal attacks. 4 uses. 
+- :first_quarter_moon_with_face: :hearts: Heal a player from attacks and bleeding. 3 uses. 
+- :first_quarter_moon_with_face: :hearts: Heal everyone visiting you tonight from attacks and bleeding. 2 uses. 
+- :first_quarter_moon_with_face: :hearts: Protect a player from all negative night abilities except bleeding and death. 4 uses.
+- :first_quarter_moon_with_face: :hearts: Heal yourself and another player from attacks and bleeding. 1 use.
+- :sun_with_face: :hearts: Make a player immune to all targeted day abilities today. 3 uses.
+- :sun_with_face: :hearts: Give all of your current tokens to a player of your choice. 1 use.
+- :first_quarter_moon_with_face: :hearts: Heal yourself from attacks and bleeding. 2 uses.
+- :sun_with_face: :hearts: Instantly remove any bleeding effects from a target. Can target yourself. 2 uses.
+- :sun_with_face: :hearts: Swap two players for the day. Any day abilities used on them will instead affect the other. Can target yourself. - 3 uses
+- :first_quarter_moon_with_face: :hearts: Prevent everyone from visiting a player. 2 uses.
+- :first_quarter_moon_with_face: :hearts: Prevent everyone from visiting you. 1 use. 
+- :sun_with_face: :hearts: Protect a player from all negative day abilities except bleeding and death. 3 uses.
+- :sun_with_face: :hearts: Copy one of your common abilities except this one and give it to another player. It will have the same remaining uses as the copied ability. 1 use.
+- :sun_with_face: :hearts: Give a player a random common ability. 3 uses. 
+- :sun_with_face: :hearts: Give a player a random Golden ability. 1 use. 
+- :sun_with_face: :hearts: Select a player and an ability from the pool. If said player bids on said ability, they will increase their bid by 3 tokens. 3 uses
+- :sun_with_face: :hearts: You will become immune to day abilities today and heal yourself tonight. 1 use.
+- :sun_with_face: :hearts: Select a player. They will be able to use multiple abilities for free for the rest of the day and the following night. 2 uses.
+- :sun_with_face: :hearts: Select a player and give them 5 free tokens. 2 uses.
+- :sun_with_face: :hearts: Give a player a random common ability. 2 uses.
+- :sun_with_face: :hearts: Give a player other than yourself 7 raffle tickets. 2 uses.
+- :sun_with_face:  :hearts: Make a player immune to bleeding. Can&#39;t target yourself. (Doesn&#39;t heal them if they were already bleeding before). 1 use. 
+- :first_quarter_moon_with_face: :hearts: :star: Heal up to 3 players from attacks and bleeding. Can target yourself. 1 use.
+- :sun_with_face: :hearts: :star: Select a player other than yourself. Make them immune to death at night once. 1 use. 
+- :sun_with_face: :hearts: :star: Give a Special token to a player other than yourself. 1 use.
+- :sun_with_face: :hearts: :star: Select a player. Double their current tokens and the current uses of all their abilities (if used on a mafioso it will give mafia tokens equal to the total mafia tokens divided between the number of mafiosos, rounded down). 1 use.
+- :first_quarter_moon_with_face: :hearts: :star: Revive a dead player. They won&#39;t keep any tokens or abilities they had before dying. 1 use.
+
+
+
+Passives :shield:
+- :shield: You are immune to bleeding. (Doesn&#39;t heal you if you were already bleeding before)
+- :shield: You will be immune to the next negative ability used on you, except death or bleeding.
+- :shield: You will be immune to the next 2 abilities that would affect you either directly or indirectly (whether good or bad).
+- :shield: At the end of each night, a random player will be able to send you an anonymous message.
+- :shield: Your golden abilities will have unlimited uses but a 1-night cooldown.
+- :shield: At the end of each night, you will be told who visited you.
+- :shield: At the beginning of each day, you will get 1 random common ability.
+- :shield: If you die, you may continue speaking in the main chat/mafia chat.
+- :shield: If you keep this passive for three days, you will lose it and gain 20 tokens.
+- :shield: You are immune to death at night once. 
+- :shield: Your votes count as two.
+- :shield: You will get a random passive ability. At the beginning of each day, said passive will change into a new one.
+- :shield: If you die at night, your attacker will start bleeding and die in one day unless healed.
+- :shield: You are immune to occupation and redirection. 
+- :shield: Every time you get an ability from the pool, you will get another random common ability of the same type.
+- :shield: If you don&#39;t win the raffle, half of your raffle tickets (rounded down) will be refunded.
+- :shield: If you are lynched, you can select a player in your wagon and kill them immediately.
+- :shield: Half of your non-winning bids will be refunded at the end of the day (rounded down).
+- :shield: If you only bid on one ability in the pool, your bid will be increased by 3 tokens.
+- :shield: At the end of each day, you will gain 2 tokens for every ability you get from the ability pool.
+- :shield: For every two raffle tickets you buy you will get an extra ticket. (This only affects tickets you buy with tokens and not tickets given to you by any other means)
+- :shield: If you die at night, the results of your night abilities will be made public.
+- :shield: You will be able to keep using your abilities for 1 day after you die. You cannot pay tokens to use multiple abilities this way. (If you are mafia, you cannot perform the factional kill this way)
+- :shield: At the end of each day, if you have 0 tokens you will gain 5 free tokens.
+- :shield: When you die, select a player. Said player will gain 1 Special Token.
+- :shield: Gain 2 more tokens every day.
+- :shield: Gain 3 free raffle tickets every day. 
+- :shield: You are immune to all negative abilities that would affect your tokens, bids or raffle tickets.
+- :shield: Reduces the cost of using extra abilities to 1 token.
+- :shield: Every common ability you get from the pool will have 1 extra use.
+- :shield: If any ability from the pool doesn&#39;t get any bids, you will get that ability.
+- :shield: Whenever you bid at least 1 token on an ability, you will place an extra free token on said ability. 
+- :shield: You will always appear not suspicious to investigative abilities. You will also appear to have half your current amount of tokens, and any abilities they use will appear as &quot;support&quot;. You will also be immune to framing abilities.
+- :shield: Whenever you bid at least 1 token on a support ability on the pool, place an extra free token. Every support ability you get from the pool will have 1 extra use.
+- :shield: Whenever you bid at least 1 token on a social ability on the pool, place an extra free token. Every social ability you get from the pool will have 1 extra use.
+- :shield: Whenever you bid at least 1 token on an offensive ability on the pool, place an extra free token. Every offensive ability you get from the pool will have 1 extra use.
+- :shield: Whenever you bid at least 1 token on a killer ability on the pool, place an extra free token. Every killer ability you get from the pool will have 1 extra use.
+- :shield: Whenever you bid at least 1 token on an investigative ability on the pool, place an extra free token. Every investigative ability you get from the pool will have 1 extra use.
+- :shield: Whenever you bid at least 1 token on a gambling ability on the pool, place an extra free token. Every gambling ability you get from the pool will have 1 extra use.
+- :shield: Whenever you bid at least 1 token on a scum ability on the pool, place an extra free token. Every scum ability you get from the pool will have 1 extra use.
+- :shield: Whenever you bid at least 1 token on a golden ability on the pool, place an extra free token. Every golden ability you get from the pool will have 1 extra use.
+
+
+Scum :imp: 
+- :first_quarter_moon_with_face: :imp: Make yourself or another player appear not suspicious to investigators tonight. You will also hide their visits. 3 uses.
+- :first_quarter_moon_with_face: :imp: Make a player appear suspicious to investigators tonight. 3 uses.
+- :first_quarter_moon_with_face: :imp: Select a player. They will get fake feedback from their abilities tonight. 3 uses.
+- :first_quarter_moon_with_face: :imp: Prevent a player from being healed tonight. 2 uses.
+- :first_quarter_moon_with_face: :imp: Make a player believe they were attacked and healed. 2 uses.
+- :sun_with_face: :imp: Make a player believe they are bleeding. 2 uses.
+- :first_quarter_moon_with_face: :imp: Tonight&#39;s factional kill will bypass healing, death immunity, occupation and redirection. 1 use.
+- :first_quarter_moon_with_face: :imp: All mafiosos will appear not suspicious tonight. 1 use.
+- :first_quarter_moon_with_face: :imp: Select a player. They will get any feedback of your choice, except death feedback. 1 use.
+- :first_quarter_moon_with_face: :imp: Select a player. If they die tonight they will appear as a class of your choice and you will be able to write fake logs. 1 use.
+- :first_quarter_moon_with_face: :imp: :star: Every investigative ability will get false results tonight. 1 use.
+- :sun_with_face: :imp: :star: Rig today&#39;s raffle. Whoever wins will die. 1 use. 
+- :first_quarter_moon_with_face: :imp: :star: Select two players. If the first one would be lynched tomorrow, the second one will die instead. Can target yourself. 1 use
+
+Offensive :wine_glass: 
+- :first_quarter_moon_with_face: :wine_glass: Occupy a player. 4 uses. 
+- :first_quarter_moon_with_face: :wine_glass: Force a player to target you. You will be immune to attacks redirected this way. 3 uses. 
+- :first_quarter_moon_with_face: :wine_glass: Force a player to target you. You will NOT be immune to attacks redirected this way. 4 uses. 
+- :first_quarter_moon_with_face: :wine_glass: Force a player to target another. Cannot force them to target you or themselves. 3 uses.
+- :first_quarter_moon_with_face: :wine_glass: Redirect anyone that visits you to themselves. 1 use
+- :first_quarter_moon_with_face: :wine_glass: Select a player. If you would die tonight by any means, said player will die in your place. 1 use
+- :sun_with_face: :wine_glass: Select an ability from the pool. Halve all bids on said ability except yours (rounded up). 1 use.
+- :sun_with_face: :wine_glass: Select a player and an ability from the pool. If they bid on said ability, their bid will be halved (rounded up). 3 uses.
+- :sun_with_face: :wine_glass: Prevent a player from using day abilities for the rest of the day. 3 uses.
+- :sun_with_face: :wine_glass: Select a player. They will be unable to buy tickets for the raffle today (includes tickets given by abilities, events or other means). All tickets they already bought will be refunded. 2 uses.
+- :sun_with_face: :wine_glass: Select a player. They won&#39;t be able to bid any tokens in the ability pool today. 1 use.
+- :first_quarter_moon_with_face: :wine_glass: Force a player to target themselves. 2 uses.
+- :sun_with_face: :wine_glass: Redirect the next targeted day ability to you. 2 uses.
+- :sun_with_face: :wine_glass: Select two players. Any targeted day abilities used on the first one will be redirected to the second one. Bypasses redirection immunity. Can target yourself. 2 uses.
+- :sun_with_face: :wine_glass: Select a player. If they use a day ability, they will target themselves. 2 uses.
+- :first_quarter_moon_with_face: :wine_glass: Occupy everyone visiting you tonight. 2 uses.
+- :first_quarter_moon_with_face: :wine_glass: Select a player except yourself. Occupy everyone visiting them tonight. 1 use.
+- :first_quarter_moon_with_face: :wine_glass: Select a player. Redirect all players visiting them to yourself. You will NOT be immune to attacks redirected this way. 2 uses.
+- :first_quarter_moon_with_face: :wine_glass: Select a player. Redirect everyone visiting you to said player.  1 use.
+- :sun_with_face: :wine_glass: Make a player instantly lose half of their tokens, rounded down (you won&#39;t know how many they lost. If used on mafia, mafia will lose 1/(2*number of living mafia players) of their tokens.). 2 uses.
+- :first_quarter_moon_with_face: :wine_glass: :star: Select a player. They will lose all their passive abilities and they will permanently get 2 less tokens each day. 1 use. 
+- :sun_with_face: :star: Select a player and an ability from the pool. Force them to bid all their tokens on said ability (doesn&#39;t work on special tokens). 1 use. 
+- :sun_with_face: :star: Make a player lose all their tokens (doesn&#39;t include special tokens). If used on a mafioso, mafia will lose 1/(number of mafiosos) of their tokens. 1 use.
+- :first_quarter_moon_with_face: :wine_glass: :star: Occupy up to 3 players. 1 use.
+- :first_quarter_moon_with_face: :wine_glass: :star: Occupy a player through immunity and make them lose all their active abilities.
+
+Social :speech_balloon: 
+- :sun_with_face: :speech_balloon:  Send an anonymous message to the court through the host. 2 uses.
+- :sun_with_face: :speech_balloon:  Send an anonymous message to another player through the host. 3 uses.
+- :sun_with_face: :speech_balloon: Select a player. They cannot vote to lynch anyone today. They will not count towards majority. 3 uses. 
+- :first_quarter_moon_with_face: :speech_balloon: Place a bounty on a player. If they are lynched tomorrow, everyone that voted to lynch them will gain 5 tokens. The court will be notified when this ability is used. 2 uses.
+- :first_quarter_moon_with_face: :speech_balloon: Select a dead player. You will both be able to send each other two 1000 character messages over the course of the night. 3 uses.
+- :sun_with_face: :speech_balloon: Decreases the number of votes required to lynch anyone by 1 today. 2 uses.
+- :sun_with_face: :speech_balloon:  Increases the number of votes required to lynch anyone by 1 today. 2 uses.
+- :first_quarter_moon_with_face: :speech_balloon: Select a player. You will both be able to send each other two 1000 character messages through the host over the course of the night. 3 uses.
+- :first_quarter_moon_with_face: :speech_balloon: Select two players. They will be allowed to send each other two 1000 character messages through the host. The conversation will be later given to you. 2 uses.
+- :sun_with_face: :speech_balloon: Force a player to lynch another. They cannot change or rescind their votes. 2 uses.
+- :sun_with_face: :speech_balloon: Select a player. They cannot be lynched today. 1 use.
+- :first_quarter_moon_with_face: :speech_balloon: Select a player. You will get all feedback that player gets tonight. 3 uses.
+- :first_quarter_moon_with_face: :speech_balloon: Select a player. They will receive any feedback you get tonight. 3 uses.
+- :first_quarter_moon_with_face: :speech_balloon: Select a dead player. You will get all feedback that player got on the night of their death. 2 uses.
+- :sun_with_face: :speech_balloon: Select a dead player. They will be able to talk and vote in court for the rest of the day. 1 use.
+- :sun_with_face: :speech_balloon: :star: Select a player. While you both are alive, you will have a private day and night chat. 1 use.
+- :sun_with_face: :speech_balloon: :star: Today, your votes for lynching count as four. 1 use.
+- :sun_with_face: :speech_balloon: :star: Select a player. Today, only you or your target player can be lynched. 1 use.
+- :first_quarter_moon_with_face: :speech_balloon:  :star: Select a player. If they are lynched tomorrow the day will not end and there will be a second lynch. 1 use.
+- :sun_with_face: :speech_balloon: :star: Reveal your class to the court. 1 use.
+
+Killer
+- :first_quarter_moon_with_face: :skull_and_crossbones: Kill everyone visiting you tonight. You will be immune to attacks. 1 use.
+- :sun_with_face: :skull_and_crossbones: Select two players. If one of them dies during the next night, the other will commit suicide (suicide can be healed and wont kill death immune players. This ability doesn’t count as a visit). 2 uses
+- :sun_with_face: :skull_and_crossbones: Select a player. If they are not a member of your faction, they will start bleeding and die in 2 days unless healed. (This is unaffected by framing abilities) 1 use. 
+-  :first_quarter_moon_with_face: :skull_and_crossbones: Select a player. If they would be healed tonight, they will die instead. 2 uses.
+- :sun_with_face: :skull_and_crossbones: Lose 1 special token in order to attack a player. If you don&#39;t have special tokens this ability will have no effect. 3 uses. 
+-  :first_quarter_moon_with_face: :skull_and_crossbones: Select a player. If they have more tokens than you, you will kill them. If they have less, you will die. 2 uses.
+-  :first_quarter_moon_with_face: :skull_and_crossbones: Select a player other than yourself. Make them death immune and kill everyone visiting them tonight. 1 use.
+- :sun_with_face: :skull_and_crossbones: Attack a player. You have a 20% chance for the attack to be successful. 3 uses
+- :first_quarter_moon_with_face: :skull_and_crossbones:  Make yourself and a target player start bleeding. You will die in a day unless healed. 2 uses.
+- :first_quarter_moon_with_face: :skull_and_crossbones:  Bleed everyone visiting you tonight. You will be immune to attacks. 2 uses.  
+- :first_quarter_moon_with_face: :skull_and_crossbones: Kill a player. 1 use.
+- :first_quarter_moon_with_face: :skull_and_crossbones:  If you are attacked tonight prevent the attack and both you and your attackers will start bleeding and die in one day unless healed. 2 uses.
+- :sun_with_face: :skull_and_crossbones: Select a player. The next person that votes them will start to bleed and die in 2 days unless healed. Everyone in court will be notified when this ability is used (they won&#39;t know who did it). 2 uses.
+- :first_quarter_moon_with_face: :skull_and_crossbones: Protect a player, making them immune to death and killing their attackers. 2 uses. 
+- :first_quarter_moon_with_face: :skull_and_crossbones: Kill a player, if they are Town you will kill yourself as well. 2 uses.
+- :first_quarter_moon_with_face: :skull_and_crossbones: Bleed a player. They will die in 1 day unless healed. 1 use.
+- :sun_with_face: :skull_and_crossbones: Sacrifice your life in order to kill a player in plain daylight. 1 use.
+- :sun_with_face: :skull_and_crossbones: Bleed a player. They will die in 2 days unless healed. 2 uses.
+- :sun_with_face: :skull_and_crossbones: The next player to use a day ability will start to bleed and die in 2 days unless healed. 2 uses.
+- :sun_with_face: :skull_and_crossbones: Select an ability from the pool. At the end of the day, whoever placed the highest bid will start to bleed and die in 2 days unless healed. 2 uses.
+- :first_quarter_moon_with_face: :skull_and_crossbones: Select a player. If they vote to lynch you tomorrow they will be instantly killed. 1 use.
+- :first_quarter_moon_with_face: :skull_and_crossbones: :star: Kill a player. Bypasses healing and death immunity. 1 use.
+- :first_quarter_moon_with_face: :skull_and_crossbones: :star: Kill 2 players. 1 use.
+- :sun_with_face: :skull_and_crossbones: :star: Kill a player in plain daylight. Everyone will know you did it. 1 use.
+- :sun_with_face: :skull_and_crossbones: :star: Select a player. They will be afflicted with a deadly poison and die in 2 days. Cannot be healed and bypasses death immunity. 1 use.
+- :first_quarter_moon_with_face: :skull_and_crossbones: :star: Kill a player and everyone that visits them. 1 use.
+
+
+Investigative :mag:
+- :first_quarter_moon_with_face: :mag: Check if a player is a member of the mafia. 2 uses.
+- :first_quarter_moon_with_face: :mag: Check if two players have the same faction. 3 uses.
+- :first_quarter_moon_with_face: :mag: Follow a player to see who they visit. 4 uses.
+- :first_quarter_moon_with_face: :mag: Follow a player to see who visits them. 3 uses.
+- :first_quarter_moon_with_face: :mag: Follow a player to see who visits them and who they visit. 2 uses.
+- :first_quarter_moon_with_face: :mag: You will be told who the mafia visits tonight. 1 use.
+- :first_quarter_moon_with_face: :mag: Find out how many tokens a player has (doesn&#39;t detect special tokens). 3 uses.
+- :first_quarter_moon_with_face: :mag: Select two players. You will be told which of them has more tokens. 4 uses.
+- :sun_with_face: :mag: You will know which is the next day ability used and its target (you won&#39;t know who used it). 3 uses.
+- :sun_with_face: :mag: Select a player. When the raffle ends, you will be told how many raffle tickets they bought. 3 uses
+- :sun_with_face: :mag: You will know who wins today&#39;s raffle and which prize they won. 2 uses.
+- :sun_with_face: :mag: Select a player. You will be alerted if they use a day ability, and the type of the ability. 3 uses.
+- :sun_with_face: :mag: You will know who the next person to bid in the pool is, how many tokens they bid and on which ability. 2 uses. 
+- :first_quarter_moon_with_face: :mag: Find how many golden abilities a player has. 3 uses.  
+- :first_quarter_moon_with_face: :mag: You will be told the name of all golden abilities used tonight. You won&#39;t know who used them or the target. 2 uses.
+- :sun_with_face: :mag: You will be told the name of all golden abilities used today. You won&#39;t know who used them or the target. 2 uses.
+- :first_quarter_moon_with_face: :mag: Select a player. You will know which abilities they got from the pool yesterday. 2 uses.
+- :sun_with_face: :mag: Select a player and an ability. At the end of the day, if they placed a bid on said ability, you will know how many tokens they bid. 3 uses.
+- :sun_with_face: :mag: Select a player. You will know which abilities they are bidding on, but not how many tokens. 2 uses.
+- :first_quarter_moon_with_face: :mag: Read a player&#39;s logs. 1 use.
+- :first_quarter_moon_with_face: :mag: Reveal one of a player&#39;s random abilities. 2 uses.
+- :first_quarter_moon_with_face: :mag: Reveal the type and number of abilities a player uses tonight. 3 uses.
+- :first_quarter_moon_with_face: :mag: Find out how many abilities a player has currently. 3 uses.
+- :first_quarter_moon_with_face: :mag: Select a player. You will be alerted if they have any Scum or Killer type abilities. (Cannot detect mafia&#39;s factional kill). 3 uses.
+- :sun_with_face: :mag: Check the faction of a player. 1 use. 
+- :first_quarter_moon_with_face: :mag: Check if a player attacks someone tonight. 3 uses.
+- :first_quarter_moon_with_face: :mag: :star: Reveal a player&#39;s class to the whole court. Can be affected by framing/hiding abilities. 1 use.
+- :sun_with_face: :mag: :star: Select an ability from the pool. At the end of the day, you will know who placed a bid there and how many tokens. 1 use.
+- :sun_with_face: :mag: :star: Reveal the current highest bids on today&#39;s ability pool. (You won&#39;t know who placed them). 1 use.
+- :first_quarter_moon_with_face: :mag: :star: Select up to three players. You will be notified if at least one of them is a member of the mafia. 1 use.
+- :sun_with_face: :mag: :star: Check how many tokens mafia has currently including special tokens (cannot be affected by framing abilities). 1 use.
+
+
+Gambling :game_die: 
+- :sun_with_face: :game_die: Force the host to start a second random event. 1 use. 
+- :first_quarter_moon_with_face: :game_die: You can choose tomorrow&#39;s event. 1 use. 
+-:first_quarter_moon_with_face: :game_die: You will gain 5 tokens for every player that visits you tonight. 2 uses. 
+- :sun_with_face: :game_die: Swap all your tokens with another player. When used on or by a mafioso, the number of swapped tokens depends on the number of living mafiosos. 1 use.
+- :sun_with_face: :game_die: The winner of today&#39;s raffle will gain 1 extra special token. 1 use. 
+- :sun_with_face: :game_die: All raffle tickets you buy today will be doubled. 1 use. 
+- :sun_with_face: :game_die: At the end of the day, all of your bids will be doubled. 1 use. 
+- :sun_with_face: :game_die: Bet any number of tokens. You have a 50% chance to double them and a 50% chance to lose them. 1 use
+- :sun_with_face: :game_die: Instantly gain 20 tokens. You will permanently gain 5 less tokens every day. 1 use. 
+- :sun_with_face: :game_die: You will poison yourself and die in 1 day if not healed. This poison cannot be healed by self-healing abilities. If you are healed, both you and your healer will gain a random golden ability. (If multiple people heal you, one will be picked at random). 1 use. 
+- :sun_with_face: :game_die: Select an ability from the pool. If said ability has the lowest bid at the end of the day you will get 5 tokens. 3 uses.
+- :first_quarter_moon_with_face: :game_die: Steal a random ability from a chosen player. It will keep the same number of remaining uses. 1 use.
+- :first_quarter_moon_with_face: :game_die: Select a player. You will get a copy of one of their abilities chosen at random (doesn&#39;t copy passives or golden abilities). The copied ability will always have 1 use. 3 uses.
+- :first_quarter_moon_with_face: :game_die: Select any common ability from the list and add it to tomorrow&#39;s ability pool. 2 uses.
+- :first_quarter_moon_with_face: :game_die: Select any golden ability from the list and add it to tomorrow&#39;s ability pool. 1 use
+- :sun_with_face: :game_die: Give a present to a player. They can open it or force someone else to open it. The present has a 30% chance of having a random ability, a 30% chance of having 5 tokens, a 20% chance of having a golden ability and a 20% chance of instantly killing the player. 3 uses. 
+- :sun_with_face: :game_die: Select a player. You will steal all their current tickets and any tickets they buy. They won&#39;t be notified until the roulette ends. (includes tickets gained by abilities or other means). 2 uses.
+- :sun_with_face: :game_die: Select a dead player. You will randomly steal one of their abilities. It will keep the same number of uses it had before they died.
+- :sun_with_face: :game_die: Remove an ability from today&#39;s ability pool. 2 uses.
+- :sun_with_face: :game_die: At the end of the day, you will get a copy of the ability that got the lowest bid. (If there is a tie you will get one at random) 2 uses
+- :sun_with_face: :game_die: At the end of the day, you will get a copy of the ability that got the highest bid. (if there is a tie you will get one at random) 1 use.
+- :sun_with_face: :game_die: Steal 5 tokens from a player and keep them for yourself. 2 uses.
+- :sun_with_face: :game_die: Steal all tokens from a dead player, including special tokens. (Cannot be used on dead mafiosos). 1 use.
+- :sun_with_face: Prevent people from using special tokens in today&#39;s pool. This will be announced to everyone. 1 use. 
+- :sun_with_face: :game_die: :star: Remove all of your tokens and you will be unable to get tokens for the rest of the game. Gain 3 special tokens. 1 use.
+- :sun_with_face: :game_die: :star: Remove all of your abilities. Gain 1 random common ability of each type, for a total of 8 abilities. (Passive, Support, Social, Offensive, Killer, Scum, Investigative and Gambling)
+- :sun_with_face: :game_die:  :star: Curse an ability from the pool. No one will be able to get said ability and you will steal the tokens from everyone that placed a bid there (including special tokens). People will be notified when this ability is used, but they won&#39;t know which ability is cursed. 1 use.
+- :sun_with_face: :game_die: :star: Instantly steal any ability from the pool and keep it for yourself. 1 use.
+- :sun_with_face: :game_die: :star: Gain two random Golden abilities. 1 use.
+[/details]
+
+----
+:game_die: &lt;big&gt;[color=gold] Raffle[/color] &lt;/big&gt;
+
+During the first 24 hours of each day, the **Raffle** will be available. During this time players will be able to buy raffle tickets for 1 token each (you can buy as many tickets as you want). Every ticket you buy increases your chances of winning. The player that wins the raffle will get a special token. Raffle tickets are only valid the same day you buy them.
+
+----
+:game_die: &lt;big&gt;[color=gold] Daily Events[/color] &lt;/big&gt;
+
+Every day there will be a random event. Events give players new ways to get tokens or abilities. 
+The possible events are the following:
+
+[details=&quot;List of events&quot;]
+
+:sparkles: : &lt;big&gt;[color=gold]Shopping Spree[/color] &lt;/big&gt;
+
+Event details:
+* The second highest bid on each ability from today&#39;s pool will also get a copy of said ability.
+* There will be two winners in today&#39;s raffle.
+* At the end of the day, players with 0 tokens will get 5 free tokens. (Mafia will get 5 tokens for every living mafioso if they have 0 tokens total in the mafia pool)
+
+----
+
+:sparkles: : &lt;big&gt;[color=gold]Greed[/color] &lt;/big&gt;
+
+Event details:
+* Today, there will be several prize boxes. Each player can choose one of the boxes and at the end of the day they will get the prize. If multiple players pick the same box, no one will get its prize.
+* If you only bid on a single ability from the ability pool, your bid will be doubled.
+* You will gain 50% more tokens from selling back abilities (rounded down) and all sold back abilities will have twice as many uses.
+----
+
+:sparkles: : &lt;big&gt;[color=gold]Charity[/color] &lt;/big&gt;
+
+Event details:
+* Players are able to sponsor other players by publicly writing **/sponsor [player&#39;s name]**. You may only sponsor once and cannot change your target. Players will get 2 free tokens every time they get sponsored.
+* At random times during the day, up to five gifts will appear. Gifts have a 40% chance of having a random common ability, a 40% chance of having 5 tokens and a 20% chance of having a random Golden ability. The first person to write **/claim** in public will get the gift! That person can choose to open the gift or give it to someone else. Any abilities you get from gifts will be given to you immediately.
+* At the end of the day, players that didn&#39;t get any highest bids in the pool will get a random common ability. 
+
+----
+:sparkles: : &lt;big&gt;[color=gold]Black Market[/color] &lt;/big&gt;
+
+Event details:
+* You may sell abilities to the Black Market during this event instead of selling them normally. Abilities sold to the black market will instantly give you 4 tokens and won&#39;t go into the pool. Golden abilities sold this way will give you 8 tokens. You can still sell abilities normally.
+* You can pay 5 tokens to instantly gain a random common ability. You can pay 10 tokens for a random Golden ability. You can do this as many times as you want. 
+* You can pay 15 tokens to hire a mercenary that will kill a player of your choice at the end of the day, you can do this as many times you want. You can also pay 4 tokens to hire a bodyguard that protects you from all mercenaries today. 
+
+---- 
+
+:sparkles: : &lt;big&gt;[color=gold]Thieves&#39; Guild[/color] &lt;/big&gt;
+
+Event details:
+* Once during this event, each player can publicly write &quot;**/steal tokens from [player]**&quot; in order to steal 3 tokens from them.
+* All the abilities of whoever is lynched today will be split randomly between the people that voted to lynch them.
+* You can buy as many of the following gadgets as you want today by writing it in your classcard and selecting a target, they don&#39;t count as abilities:
+   * Snare Trap: A player of your choice will be occupied tonight. - Cost 4 tokens.
+   * Med-kit: A player of your choice will be healed tonight. (Cannot be used on yourself) - Cost 4 tokens.
+   * Knife: A player of your choice will start bleeding, and will die in 2 days unless healed. - Cost 6 tokens
+   * Motion Sensor: You will know who visits a player of your choice tonight. - Cost 5 tokens.
+   * EMP Grenade: You will be immune to other player&#39;s gadgets (you cannot be occupied by Snare trap, your attacks bypass Med-kit healing, you will be healed from knife&#39;s bleed and your visits won&#39;t trigger the motion sensor). - Cost 3 tokens.
+
+---- 
+
+:sparkles: : &lt;big&gt;[color=gold]Pawn Shop[/color] &lt;/big&gt;
+
+Event details:
+* Players can ask for a loan of up to 10 tokens today. Starting tonight, every token you would get will instead go towards your debt, until you&#39;ve paid 150% of what you borrowed (rounded up).
+* Once during this event, you can re-roll one of your abilities. You will exchange said ability with another random one of the same type.
+*  Today&#39;s ability pool will have 5 extra common abilities and 2 extra golden abilities. 
+
+---- 
+
+:sparkles: : &lt;big&gt;[color=gold]Genie&#39;s Blessing[/color] &lt;/big&gt;
+
+Event details:
+* The winner of today&#39;s raffle will get a random Golden ability in addition to the Special token.
+* Once during this event, each player can choose a number between 1 and 20 tokens on their class cards. Players have a chance to get that number of tokens, with 1 token having a 100% chance and every token after that lowering the chance by 5%.
+* At a random time during the day a shooting star will appear. The first player to make a wish in public when it appears will get something. The possible wishes are the following, and they must be written exactly like below or they won&#39;t count:
+   * **I wish for health** - You cannot be lynched today. You will be healed from any bleeding effects and you cannot be targeted by abilities until tomorrow.
+   * **I wish for power** - You will be able to use all your abilities today and tonight for no additional cost. Guarantees that your abilities will be successful until tomorrow and give you correct results, bypassing everything that might prevent or affect them.
+   * **I wish for wealth** - You will gain 1 special token.
+   * **I wish for fame** - You will gain a random Social/Investigative Golden ability.
+   * **I wish for peace** - You will gain a random Support/Offensive Golden ability.
+   * **I wish for chaos** - You will gain a random Killer/Gambling/Scum Golden ability. (Town players cannot get scum abilities this way).
+[/details]
+
+----
+:game_die: &lt;big&gt;[color=gold] Selling back[/color] &lt;/big&gt;
+
+If you don&#39;t like one of your abilities you can sell it and it will go back into the ability pool. People will be able to bid for said ability like normal, but the tokens from all bids will go towards the seller. Sold abilities will keep the same amount of remaining uses. You can only sell abilities during the day.
+
+To sell an ability send a message to the host telling him which ability you want to sell. 
+
+----
+:game_die: &lt;big&gt;[color=gold] Using multiple abilities [/color] &lt;/big&gt;
+
+There is no cap to the number of abilities a player can have at the same time, but they can only use one day ability each day and one night ability each night, however every player can pay 2 tokens to use an extra ability. You can do this multiple times but it will cost you 2 tokens each time. You can&#39;t use the same ability multiple times per day/night.
+
+
+----
+
+:game_die: &lt;big&gt;[color=gold] What&#39;s new? [/color] &lt;/big&gt;
+If you played the previous poker mafia game, here you can find what changed. Basically, the game is a lot simpler now than it was before. The exact changes are as follows:
+* All neutrals were removed
+
+* Mafia now has a factional kill.
+* Day is faster now, lasting 48 hours instead of 72.
+* Mafia has a shared token pool and they don&#39;t lose tokens on death.
+* Simplified the roulette. Renamed to &quot;Raffle&quot;.
+* The number of events was lowered, but events are more impactful now.
+* New abilities were added
+
+
+----
+
+:game_die: &lt;big&gt;[color=gold] Gameplay and special interactions[/color] &lt;/big&gt; 
+
+[details=&quot;List of special rules and interactions&quot;]
+* Days will last 48 hours, nights will last 24 hours.
+* Lynching a player will instantly end the day.
+* Lynching a player ends the raffle immediately.
+* Bids are private and will not be revealed to anyone, except for some specific abilities or events. 
+* You can place or change your bets at any point during the daytime.
+* Each night, a player will get **ALL** the abilities in which they had the most tokens.
+* If there is a tie for the highest bid, it will be solved by RNG.
+* There are 8 different ability types: Support, Offensive, Social, Investigative, Killing, Gambling, Passive and Scum. 
+* The abilities from the pool are given to the player at the beginning of the night, which means they can use them that same night.
+* You can have more than 2 day and night abilities. There is no limit.
+* You cannot target yourself with an ability unless specified otherwise.
+* If you buy the same ability multiple times, you will get extra uses instead.
+* If you use all uses on an ability, you will lose said ability. This means investigators won&#39;t be able to see that ability and you won&#39;t be able to sell it. This also applies to &quot;limited&quot; passive abilities such as one-time death immunity.
+* You will know whether you got an ability or not at the beginning of the night. If you lose a bid, you will not know who got the ability.
+* You cannot place a bid on abilities you sell back.
+* The only way for town to get a scum ability is by bidding on it. You cannot get scum abilities randomly.
+* There are certain abilities that scum cannot get randomly, these are abilities that don&#39;t benefit mafia in any way. The only way for them to get these abilities is to bid for them.
+* For the purpose of abilities, each mafioso is considered to have tokens equal to the total amount of mafia tokens divided between the number of living mafiosos, rounded up.
+* Framing abilities will make a player appear as mafia, abilities they use will appear as Killer and their current amount of tokens will appear doubled. They will also appear to visit whoever died that night. Abilities that &quot;hide&quot; a player do the opposite, they will appear as town, all abilities they use appear as support and their tokens will appear halved (rounded up).
+* To prevent angle-shooting, every player is able to delay their actions or bids by asking the host.
+* To help with fakeclaiming and prevent angle-shooting, players can ask the host for any flavor text such as &quot;You were occupied last night&quot; etc.
+* Every player is able to ask the host any questions regarding mechanics or interactions, but asking for info about the game that can be considered cheating or angleshooting might result in a modkill
+[/details]
+
+
+----
+
+:game_die: &lt;big&gt;[color=gold] Rolelist [/color] &lt;/big&gt;
+[color=green]**12 Townies**[/color]
+[color=red]**4 Mafiosos**[/color]
+
+----
+:game_die: &lt;big&gt;[color=gold] Today&#39;s ability pool[/color] &lt;/big&gt; 
+| | | | 
+|---|---|---|
+|:first_quarter_moon_with_face: = Night ability | |:sun_with_face: = Day ability|
+|:shield: = Passive ability| |:star: = Golden ability|
+|:hearts: = Support ability | |:wine_glass: = Offensive ability|
+|:imp: = Scum ability| |:skull_and_crossbones: = Killer ability|
+|:speech_balloon: = Social ability | |:mag:: = Investigative ability|
+|:game_die: = Gambling ability| ||
+1. :sun_with_face: :wine_glass: Redirect the next targeted day ability to you. 2 uses.
+2. :sun_with_face: :wine_glass: Select a player. If they use a day ability, they will target themselves. 2 uses.
+3. :first_quarter_moon_with_face: :wine_glass: Force a player to target another. Cannot force them to target you or themselves. 3 uses.
+4. :first_quarter_moon_with_face: :speech_balloon: Select a player. They will receive any feedback you get tonight. 3 uses.
+5. :first_quarter_moon_with_face: :mag: :star: Reveal a player&#39;s class to the whole court. Can be affected by framing/hiding abilities. 1 use.
+6. :sun_with_face: :hearts: :star: Select a player. Double their current tokens and the current uses of all their abilities (if used on a mafioso it will give mafia tokens equal to the total mafia tokens divided between the number of mafiosos, rounded down). 1 use.
+
+-----
+
+
+:game_die: &lt;big&gt;[color=gold] Today&#39;s event[/color] &lt;/big&gt; 
+:sparkles: : &lt;big&gt;[color=gold]Greed[/color] &lt;/big&gt;
+
+Event details:
+* Today, there will be several prize boxes. Each player can choose one of the boxes and at the end of the day they will get the prize. If multiple players pick the same box, no one will get its prize.
+* If you only bid on a single ability from the ability pool, your bid will be doubled.
+* You will gain 50% more tokens from selling back abilities (rounded down) and all sold back abilities will have twice as many uses.
+
+----
+
+:game_die: &lt;big&gt;[color=gold] Playerlist [/color] &lt;/big&gt;
+1. Margaret - Lynched D1, Townie
+2. Hippolytus - Lynched D2, Townie
+3. Meteoro
+4. BlueStorm
+5. Solic
+6. Mercenary - Lynched D2, Mafioso
+7. H_Hjasik
+8. Sam17z - Dead D2, Townie
+9. Maxwell
+10. TennierTub - Dead N2, Townie
+11. WazzaAzza 
+12. Nerbins - Dead N1, Townie
+13. Isaac_Gonzalez - Dead N3, Mafioso
+14. Simon
+15. MaximusPrime - Dead N1, Townie
+16. GamerPoke - Dead D3, Townie</description>
+    
+    <lastBuildDate>Mon, 11 Feb 2019 14:23:34 +0000</lastBuildDate>
+    <category>Forum Matches</category>
+    <atom:link href="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[FM] Auction Mafia - Mafia wins!</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>I didnt know about that cuz i never read the thread lol</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2652">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2652</link>
+        <pubDate>Mon, 11 Feb 2019 14:23:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75241-2652</guid>
+        <source url="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241.rss">[FM] Auction Mafia - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[FM] Auction Mafia - Mafia wins!</title>
+        <dc:creator><![CDATA[Solic]]></dc:creator>
+        <description><![CDATA[
+            <p>If you had done something sooner, I would have totally turned that on Blue though. /shrug</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2651">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2651</link>
+        <pubDate>Mon, 11 Feb 2019 14:21:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75241-2651</guid>
+        <source url="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241.rss">[FM] Auction Mafia - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[FM] Auction Mafia - Mafia wins!</title>
+        <dc:creator><![CDATA[Solic]]></dc:creator>
+        <description><![CDATA[
+            <p>Don’t forget dayvigging Sam.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2650">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2650</link>
+        <pubDate>Mon, 11 Feb 2019 14:21:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75241-2650</guid>
+        <source url="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241.rss">[FM] Auction Mafia - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[FM] Auction Mafia - Mafia wins!</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah he reminds me of you when you started too.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2649">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2649</link>
+        <pubDate>Mon, 11 Feb 2019 14:13:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75241-2649</guid>
+        <source url="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241.rss">[FM] Auction Mafia - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[FM] Auction Mafia - Mafia wins!</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>Mafia played a great game, especially Solic getting away causing 2 (and nearly a 3rd) mislynches and having no sus on him.</p>
+<p>Hes definately mafia MVP.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2648">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2648</link>
+        <pubDate>Mon, 11 Feb 2019 14:05:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75241-2648</guid>
+        <source url="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241.rss">[FM] Auction Mafia - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[FM] Auction Mafia - Mafia wins!</title>
+        <dc:creator><![CDATA[Solic]]></dc:creator>
+        <description><![CDATA[
+            <p>Also thought the power level of passives was higher.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2647">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2647</link>
+        <pubDate>Mon, 11 Feb 2019 09:08:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75241-2647</guid>
+        <source url="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241.rss">[FM] Auction Mafia - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[FM] Auction Mafia - Mafia wins!</title>
+        <dc:creator><![CDATA[Simon]]></dc:creator>
+        <description><![CDATA[
+            <p>also, passives tend to be more generally useful, regardless of your scenario, whereas the other abilties, while perhaps being powerful, can easily be not useful if you arent in the right scenario to use them</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2646">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2646</link>
+        <pubDate>Mon, 11 Feb 2019 07:55:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75241-2646</guid>
+        <source url="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241.rss">[FM] Auction Mafia - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[FM] Auction Mafia - Mafia wins!</title>
+        <dc:creator><![CDATA[BlueStorm]]></dc:creator>
+        <description><![CDATA[
+            <p>Passives are overall more useful the longer the game goes, save for the one-shot abilities, and there aren’t as many of those.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2645">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2645</link>
+        <pubDate>Mon, 11 Feb 2019 07:48:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75241-2645</guid>
+        <source url="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241.rss">[FM] Auction Mafia - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[FM] Auction Mafia - Mafia wins!</title>
+        <dc:creator><![CDATA[MathBlade]]></dc:creator>
+        <description><![CDATA[
+            <p>I have found flies with honey works better <img src="/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> See short fuse or any of my scum games on Mafiascum.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2644">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2644</link>
+        <pubDate>Mon, 11 Feb 2019 07:29:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75241-2644</guid>
+        <source url="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241.rss">[FM] Auction Mafia - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[FM] Auction Mafia - Mafia wins!</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p>That’s uber unfortunate, and I think is more related to activity than anything else.</p>
+<p>v_v</p>
+<p>Overall your reads were pretty on point here.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2643">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2643</link>
+        <pubDate>Mon, 11 Feb 2019 02:47:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75241-2643</guid>
+        <source url="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241.rss">[FM] Auction Mafia - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[FM] Auction Mafia - Mafia wins!</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Geyde" data-post="2615" data-topic="75241" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/geyde/40/32764_2.png" class="avatar"> Geyde:</div>
+<blockquote>
+<p>But nobody followed through on it</p>
+</blockquote>
+</aside>
+<p>Same shit happened in Short Fuse II. I repeatedly said that Maxi and Hja were scum and nobody listened to me.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2642">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2642</link>
+        <pubDate>Mon, 11 Feb 2019 02:45:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75241-2642</guid>
+        <source url="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241.rss">[FM] Auction Mafia - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[FM] Auction Mafia - Mafia wins!</title>
+        <dc:creator><![CDATA[Nerbins]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/sam17z">@Sam17z</a><br>
+God dammit.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2641">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2641</link>
+        <pubDate>Mon, 11 Feb 2019 02:14:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75241-2641</guid>
+        <source url="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241.rss">[FM] Auction Mafia - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[FM] Auction Mafia - Mafia wins!</title>
+        <dc:creator><![CDATA[Maxwell]]></dc:creator>
+        <description><![CDATA[
+            <p>Lol most everyone went for a passive? I think the title “VIP Pass” is just attracting and there are some great ones although some stinkers as well; I ended up with the latter.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2640">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2640</link>
+        <pubDate>Mon, 11 Feb 2019 02:01:45 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75241-2640</guid>
+        <source url="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241.rss">[FM] Auction Mafia - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[FM] Auction Mafia - Mafia wins!</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>I had to put both posts next to each other and see which timestamp changed first to see what was used first</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2639">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2639</link>
+        <pubDate>Mon, 11 Feb 2019 00:53:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75241-2639</guid>
+        <source url="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241.rss">[FM] Auction Mafia - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[FM] Auction Mafia - Mafia wins!</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>Also, mafia hammer and solics gladiate came at the same exact minute with only a few seconds in between</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2638">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2638</link>
+        <pubDate>Mon, 11 Feb 2019 00:52:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75241-2638</guid>
+        <source url="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241.rss">[FM] Auction Mafia - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[FM] Auction Mafia - Mafia wins!</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>Btw Id like to know why everyone went for passive as starting gift? I thought people would value active abilities more early game</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2637">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2637</link>
+        <pubDate>Mon, 11 Feb 2019 00:51:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75241-2637</guid>
+        <source url="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241.rss">[FM] Auction Mafia - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[FM] Auction Mafia - Mafia wins!</title>
+        <dc:creator><![CDATA[BlueStorm]]></dc:creator>
+        <description><![CDATA[
+            <p><em>Insert pointed reference towards capitalism here</em></p>
+          <p><a href="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2636">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2636</link>
+        <pubDate>Mon, 11 Feb 2019 00:24:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75241-2636</guid>
+        <source url="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241.rss">[FM] Auction Mafia - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[FM] Auction Mafia - Mafia wins!</title>
+        <dc:creator><![CDATA[BlueStorm]]></dc:creator>
+        <description><![CDATA[
+            <p>Damnit. <img src="/images/emoji/twitter/triumph.png?v=9" title=":triumph:" class="emoji" alt=":triumph:"></p>
+          <p><a href="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2635">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2635</link>
+        <pubDate>Mon, 11 Feb 2019 00:23:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75241-2635</guid>
+        <source url="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241.rss">[FM] Auction Mafia - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[FM] Auction Mafia - Mafia wins!</title>
+        <dc:creator><![CDATA[Solic]]></dc:creator>
+        <description><![CDATA[
+            <p>I think the tokens mechanic here snowball whoever gets ahead early. Not a critique, just an observation.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2634">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2634</link>
+        <pubDate>Mon, 11 Feb 2019 00:11:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75241-2634</guid>
+        <source url="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241.rss">[FM] Auction Mafia - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[FM] Auction Mafia - Mafia wins!</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p>No.</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2633">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2633</link>
+        <pubDate>Mon, 11 Feb 2019 00:11:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75241-2633</guid>
+        <source url="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241.rss">[FM] Auction Mafia - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[FM] Auction Mafia - Mafia wins!</title>
+        <dc:creator><![CDATA[BlueStorm]]></dc:creator>
+        <description><![CDATA[
+            <p>Can I just retire from FM as a mafia scumteam champion?</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2632">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2632</link>
+        <pubDate>Mon, 11 Feb 2019 00:06:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75241-2632</guid>
+        <source url="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241.rss">[FM] Auction Mafia - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[FM] Auction Mafia - Mafia wins!</title>
+        <dc:creator><![CDATA[Mercenary]]></dc:creator>
+        <description><![CDATA[
+            <p>I need to stop offending people</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2631">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2631</link>
+        <pubDate>Mon, 11 Feb 2019 00:04:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75241-2631</guid>
+        <source url="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241.rss">[FM] Auction Mafia - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[FM] Auction Mafia - Mafia wins!</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Geyde" data-post="2629" data-topic="75241" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/geyde/40/32764_2.png" class="avatar"> Geyde:</div>
+<blockquote>
+<aside class="quote no-group" data-username="back-to-firekitten" data-post="2627" data-topic="75241" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+ back-to-firekitten:</div>
+<blockquote>
+<p>being a nice guy in mafia is near impossible<br>
+change my mind</p>
+</blockquote>
+</aside>
+<p>Math</p>
+</blockquote>
+</aside>
+<p>Nice guy except to the people who he is tunneling</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2630">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2630</link>
+        <pubDate>Sun, 10 Feb 2019 23:55:17 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75241-2630</guid>
+        <source url="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241.rss">[FM] Auction Mafia - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[FM] Auction Mafia - Mafia wins!</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="back-to-firekitten" data-post="2627" data-topic="75241" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+ back-to-firekitten:</div>
+<blockquote>
+<p>being a nice guy in mafia is near impossible<br>
+change my mind</p>
+</blockquote>
+</aside>
+<p>Math</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2629">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2629</link>
+        <pubDate>Sun, 10 Feb 2019 23:54:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75241-2629</guid>
+        <source url="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241.rss">[FM] Auction Mafia - Mafia wins!</source>
+      </item>
+      <item>
+        <title>[FM] Auction Mafia - Mafia wins!</title>
+        <dc:creator><![CDATA[Isaac_Gonzalez]]></dc:creator>
+        <description><![CDATA[
+            <p>nic name</p>
+          <p><a href="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2628">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241/2628</link>
+        <pubDate>Sun, 10 Feb 2019 23:53:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-75241-2628</guid>
+        <source url="https://forum.throneoflies.com/t/fm-auction-mafia-mafia-wins/75241.rss">[FM] Auction Mafia - Mafia wins!</source>
+      </item>
+  </channel>
+</rss>

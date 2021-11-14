@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</title>
+    <link>https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903</link>
+    <description>![](https://cdn.discordapp.com/attachments/496047997050683412/496496411811250196/Bez_nazwy.jpg)
+
+# Ladies and gentlemen, it is now time for the debut season of Forum Wrestling Federation!
+
+**Lead Commentator (Host): BlueStorm**
+**Colour Commentators (Co-hosts):** @eevee @Reinforced_Concrete1
+
+# Rules
+
+https://forum.imperium42.com/t/forum-of-lies-official-hub/1515?u=bluestorm
+
+# Gameplay/Mechanics
+
+* Face=Town, Heel=Mafia, Tweener=Neutral
+* :shield: = Unique
+* Each Face/Heel/Tweener Killing class has a &quot;Signature&quot; ability or passive that is unavailable at the start, but can be accessed by being voted to receive said ability during the Signature phase.
+* Each day will have a **Lynch Phase**, and on even days (D2, D4, D6 etc) there will be a **Signature Phase before the Lynch Phase** to decide which person gets their Signature unlocked, this is done by typing **/sig NameHere** into your class card (or Heel chat if applicable). The person with the highest votes gets access to their Signature ability.
+* Signature Phases last **24 hours, or until everyone has submitted their votes.**
+* You can vote for yourself to receive a Signature.
+* **You cannot vote someone up that has already been voted to receive a Signature.** This means that if on D2 Johnny was majority voted to receive a Signature, he could **not** be voted up to receive another one on D4.
+* In the event that a person is chosen to receive a Signature, and that person&#39;s class does not have one to be unlocked, **you will not be told this.** You will only ever be given confirmation that someone has been given votes by majority to receive a Signature, regardless of whether or not that person actually has one to use.
+* Someone will always receive a Signature, and if there are no votes or if the vote is a tie then it will be decided by RNG.
+* Lynch Phases last **48 hours, or until a majority is reached.**
+* During the Lynch Phase, everyone may vote for a person to be lynched. Once the majority has voted said person, they will be lynched.
+* If your class has a Day Ability, you may activate it **during this phase only,** by submitting your action through your class card (or Heel chat if applicable). Any Day Abilities that are submitted during the Signature Phase will take effect immediately at the start of that day&#39;s Lynch Phase.
+* Night Phases last **24 hours, or until everyone has submitted their action(s).**
+* During the Night Phases, you may submit your actions through your class card (or Heel chat if applicable).
+* You may not target yourself with abilities, or force other people to target themselves, unless your ability states that you can.
+* You may use no more than one Day Ability each day and one Night Ability each night, unless your class card states that you can.
+* As previously stated, the Heels will have a private Day/Night chat.
+* The most recent version of your logs will be shown when you die.
+* You may submit Deathnotes in text or picture-based form alongside your killing Ability. This includes any Day Ability that may result in a death.
+* There can be a maximum of 3 of each non-unique class.
+* If two abilities would conflict with each other, their effects are cancelled.
+* There will be limited feedback. Most classes will only receive a message saying, &quot;Your sleep went undisturbed&quot; or &quot;You have died&quot;. If you receive an Injury during the Day or Night, you will be notified with the message, &quot;You have been injured! You will die in 1/2 night(s) if not Alleviated!&quot; The following list details possible exceptions:
+
+[details=&quot;Feedback Exceptions&quot;]
+If an Investigative Ability is redirected - Your target was changed.
+If an Investigative Ability is occupied - You were unable to collect results.
+The Aerialist (Pinpoint/Play The Tape - Face/Tweener) - Your target is Not Suspicious.
+The Aerialist (Pinpoint/Play The Tape - Heel/Smark) - Your target is a Heel!
+The Aerialist (Bird&#39;s Eye - No Attack/Indirect Attack) - Your target did not attack anyone.
+The Aerialist (Bird&#39;s Eye - Direct Attack/Controlled to Attack by Traitor) - Your target attacked someone!
+The Hybrid (Background Check - Redirect a Heel) - You changed a Heel&#39;s target!
+[details=&quot;The Luchador/The Showboat (Interpret/Instigate)&quot;]
+(Target was blocked/attempted) - Someone tried blocking your target.
+(Target was redirected/attempted) - Someone tried redirecting your target.
+(Target was Alleviated, no Injury) - Your target didn&#39;t have an Injury to remove.
+(Target was Alleviated, with Injury) - Your target&#39;s Injury was removed.
+(Target was Injured and died that night) - Your target died to their injuries!
+(Target was framed) - Your target was framed!
+(Target was Obsessed by a Rival, not a Nemesis) - Your target is NOT the Rival&#39;s Nemesis.
+(Target was Obsessed by a Rival, is a Nemesis) - Your target is the Rival&#39;s Nemesis!
+(Target was Covered-Up by a Smark) - Your target was hidden from investigative abilities.
+[/details]
+The Technician/The Smark (Scout/Browse Forums - Visited) - Your target visited NameHere!
+The Technician/The Smark (Scout/Browse Forums - Target Self/No Action) - Your target didn&#39;t visit anyone.
+The Technician/The Schemer (Scout - Expert Analysis/Stalk, Was Visited) - Name(s)Here visited your target!
+The Technician/The Schemer (Scout - Expert Analysis/Stalk, Was Not Visited) - Nobody visited your target.
+The Technician/The Schemer/The Rival (Pressure/Manipulate/Obsess) - Your target&#39;s class type is (ClassType).
+The Technician (Pressure - Expert Analysis) - Your target could be (PossibleClass1), (PossibleClass2), or (PossibleClass3).
+The Workhorse/The Giant/The Supernatural/The Traitor (Attempted to be Injured) - Someone attempted to Injure you, but you are immune.
+The Schemer (Wiretap) - (NameHere1) is (ClassOfNameHere1). (NameHere2) is (ClassOfNameHere2).
+The Jobber/The Supernatural (Know Your Role/Fires of Kane: Douse) - (NameHere) is (ClassOfNameHere).
+The Rival (Obsess, Not Your Nemesis) - (NameHere) is NOT a Nemesis.
+The Rival (Obsess, a Nemesis) - (NameHere) is a Nemesis!
+[/details]
+
+# Direct Attacks vs Indirect Attacks
+
+**Direct Attacks:** 
+
+* Can be seen by classes that would allow you to see who a person visits
+* Can be seen by classes that would detect if someone attacks
+* Do not bypass death immunity
+
+**Indirect Attacks:** 
+
+* Cannot be seen by classes that would allow you to see who a person visits
+* Cannot be seen by classes that would detect if someone attacks
+* Bypasses death immunity
+
+# Other Interactions
+
+* If the Luchador is prevented from performing their ability, the dead person affected by Enthrall Dead will be prevented as well.
+* Players gain occupy and redirection immunity after being occupied, redirected, or otherwise prevented three times.
+* Reversal will always redirect the visitor back to themselves, regardless of swaps.
+* The Rival will be informed if one of their Nemeses dies.
+* If The Tag Teamer uses Double Duty on a target that visits them, the Tag Teamer will **not** be protected from direct attacks.
+* Self-targeting abilities cannot be redirected.
+* The Luchador/Showboat will not be given feedback for a separate Luchador/Showboat using Interpret/Instigate on their target.
+* The Traitor&#39;s Paranoia will not reverse the effect of frames or mindwarps.
+* If the Rival or Jobber complete their goals before the game is over, if the Chaotic Stooge is alive but the Tweener Killing dies, or if the Manager&#39;s target dies and they are still alive, they will &quot;leave&quot; the corresponding night to prevent kingmaker scenarios.
+
+# Factions and Class Cards
+
+
+[details=&quot;Faces&quot;]
+![Aerialist|374x500](upload://7voJCNoiDwRjp5SYJPln1bbKvJp.png) 
+![FanFavourite|374x500](upload://zmFzPOVEoOJLwg3qdmP1sGZvZFS.png) 
+![Hybrid|374x500](upload://2NpNZ959glth61UUx4NHcBXkILG.png) 
+![Luchador|374x500](upload://uteyMaPKGwNJy3v2I8QphU0pqiY.png) 
+![Powerhouse|374x500](upload://rVQUxFByxkdbQLXDqlQ9smOKRBC.png) 
+![Striker|374x500](upload://shZRsFCv5gx4j7RuolYMsWF8SEh.png) 
+![Submissionist|374x500](upload://esDzMDAOAeQeebMAJzvLBmn2kex.png) 
+![TagTeamer|374x500](upload://2upGCY853qyOdnde76k5j9EnmV0.png) 
+![Technician|374x500](upload://gTLAbSYYbJBcZ874sPy106NqDBN.png) 
+![Workhorse|374x500](upload://f7RIWGBvLINqIjyGTN6mazG8Cx3.png) 
+[/details]
+
+[details=&quot;Heels&quot;]
+![Brawler|374x500](upload://lMhmB59gDo7KHLWdSBJuQKntTmE.png) 
+![Cheater|374x500](upload://tBPcjPlbECVRLm21KPfQziPZo0P.png) 
+![Schemer|374x500](upload://7tbi5LztuelWWGi7hpS8boqG0DU.png) 
+![Shooter|374x500](upload://sd9gvR6M5TQaWO8RgPAoesezNDg.png) 
+![Showboat|374x500](upload://rTHJnpAVEzV9IWXSA8u49Rid9kf.png)
+[/details]
+
+[details=&quot;Tweeners&quot;]
+![Jobber|374x500](upload://yz0wVwHdjpf2nAfinN5LqgKBbke.jpeg)
+![Manager|374x500](upload://7IQ6eTjzkhgnt4sXiMYOpY6QMoX.jpeg) 
+![Rival|374x500](upload://t7RusA9J6CQcO5dZeF4w74KQ1x8.jpeg) 
+![Smark|374x500](upload://AsLNFrnC6GQTcVRV3w95IPv2KBd.jpeg) 
+
+[details=&quot;The Stooge&quot;]
+![FaceStooge|374x500](upload://iUkDDy7LFnTsGAiy6VsCMRMURmd.jpeg) 
+![HeelStooge|374x500](upload://sg3gAj51gvUfRag9fParnKXBrkq.jpeg) 
+![TweenerStooge|374x500](upload://iYeM3DVo63QJk69jzfoef3vKoAM.jpeg) 
+[/details]
+[/details]
+
+[details=&quot;Tweener Killings&quot;]
+![Giant|374x500](upload://kbORpLtg13oThweEy8OsizOIfPV.jpeg) 
+![Supernatural|374x500](upload://7UTWuDkf1MGMJvzESnvZjNdp3lo.jpeg) 
+![Traitor|374x500](upload://fVUvqwdqywVQQVNFyaQRyDLxdR9.jpeg) 
+[/details]
+
+# Rolelist
+
+**[color=green]Random Face
+Random Face
+Random Face
+Random Face
+Random Face
+Random Face
+Random Face
+Random Face
+Random Face
+Random Face
+Random Face
+Random Face
+Random Face
+Random Face
+Random Face[/color]/[color=grey]Random Tweener Non-Killing
+Random Tweener Non-Killing
+Tweener Killing[/color]
+[color=red]Shooter
+Random Heel
+Random Heel
+Random Heel[/color]**
+
+# Players
+
+1. Luxy
+2. ~~Noz_Bugz~~ [color=grey]**Giant**[/color] N1
+3. ~~Alice~~ [color=green]**Aerialist**[/color] N1
+4. ~~Sam17z~~ [color=green]**Aerialist**[/color] D3
+5. ~~GamerPoke~~ [color=green] **Powerhouse**[/color] N5
+6. Margaret
+7. ~~hjasik~~ [color=red]**Cheater**[/color] D6
+8. ~~Marluxion~~ [color=green]**Hybrid**[/color] N6
+9. ~~PokemonKidRyan~~ [color=green]**Submissionist**[/color] N3
+10. ~~WazzaAzza~~ [color=green]**Workhorse**[/color] Modkilled N3
+11. eevee 
+12. ~~MaximusPrime~~ [color=red]**Shooter**[/color] D5
+13. ~~PoisonedSquid~~ [color=grey]**Chaotic Stooge**[/color] N1
+14. Nerbins
+15. ~~MathBlade~~ [color=green]**Powerhouse**[/color] N1
+16. Geyde
+17. ~~bazingaboy~~ [color=green]**Tag Teamer**[/color] D1
+18. ~~Livicus~~ [color=red]**Brawler**[/color] D4
+19. ~~htm~~ [color=green]**Technician**[/color] D7
+20. Frostwolf103
+21. ~~midonik16~~ [color=green]**Technician**[/color] N1
+
+# Backups
+
+* Insanity
+
+# Spectators
+
+* Pug
+* Marcus_Doodalee</description>
+    
+    <lastBuildDate>Fri, 02 Nov 2018 12:20:36 +0000</lastBuildDate>
+    <category>Forum Matches</category>
+    <atom:link href="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</title>
+        <dc:creator><![CDATA[GamerPoke]]></dc:creator>
+        <description><![CDATA[
+            <p>Gee gee no reeee</p>
+          <p><a href="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3402">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3402</link>
+        <pubDate>Fri, 02 Nov 2018 12:20:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72903-3402</guid>
+        <source url="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903.rss">Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</source>
+      </item>
+      <item>
+        <title>Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</title>
+        <dc:creator><![CDATA[Margaret]]></dc:creator>
+        <description><![CDATA[
+            <p><em>Yes but I’m apart of everyone else</em></p>
+          <p><a href="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3401">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3401</link>
+        <pubDate>Wed, 31 Oct 2018 09:41:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72903-3401</guid>
+        <source url="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903.rss">Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</source>
+      </item>
+      <item>
+        <title>Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</title>
+        <dc:creator><![CDATA[Luxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Well I was correct no?</p>
+          <p><a href="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3400">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3400</link>
+        <pubDate>Wed, 31 Oct 2018 09:40:54 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72903-3400</guid>
+        <source url="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903.rss">Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</source>
+      </item>
+      <item>
+        <title>Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</title>
+        <dc:creator><![CDATA[Margaret]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Luxy" data-post="3353" data-topic="72903">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/luxy/40/18622_2.png" class="avatar"> Luxy:</div>
+<blockquote>
+<p>Me this game: I staunchly believe Frostwolf is town</p>
+</blockquote>
+</aside>
+<p><em>Says that Frost is town, believes in the marl and tries to get eevee lynched 3 days in a row</em></p>
+          <p><a href="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3399">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3399</link>
+        <pubDate>Wed, 31 Oct 2018 09:40:24 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72903-3399</guid>
+        <source url="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903.rss">Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</source>
+      </item>
+      <item>
+        <title>Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</title>
+        <dc:creator><![CDATA[Emilia]]></dc:creator>
+        <description><![CDATA[
+            <p>6 faction game when?</p>
+          <p><a href="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3398">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3398</link>
+        <pubDate>Wed, 31 Oct 2018 09:22:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72903-3398</guid>
+        <source url="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903.rss">Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</source>
+      </item>
+      <item>
+        <title>Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</title>
+        <dc:creator><![CDATA[eevee]]></dc:creator>
+        <description><![CDATA[
+            <p>Marl, I still blame you for forbidding me from rebalancing the game.</p>
+          <p><a href="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3397">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3397</link>
+        <pubDate>Wed, 31 Oct 2018 09:12:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72903-3397</guid>
+        <source url="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903.rss">Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</source>
+      </item>
+      <item>
+        <title>Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</title>
+        <dc:creator><![CDATA[eevee]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Marluxion" data-post="3385" data-topic="72903" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/marluxion/40/10921_2.png" class="avatar"> Marluxion:</div>
+<blockquote>
+<p><a class="mention" href="/u/eevee">@eevee</a> consider yourself deduced</p>
+</blockquote>
+</aside>
+<p>Rather found mechanicly.</p>
+<p>Same as 4/5th scum wich died this game.</p>
+<p>Scum died cause of roles, not cause of logic.<br>
+That’s when game becomes too townsided.</p>
+          <p><a href="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3396">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3396</link>
+        <pubDate>Wed, 31 Oct 2018 09:10:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72903-3396</guid>
+        <source url="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903.rss">Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</source>
+      </item>
+      <item>
+        <title>Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</title>
+        <dc:creator><![CDATA[Frostwolf103]]></dc:creator>
+        <description><![CDATA[
+            <p><a href="https://forum.imperium42.com/uploads/default/optimized/2X/1/139a5e7df01e346cb6463f6f2e9a37bacf57b12c_1_374x500.png" class="onebox" target="_blank" rel="noopener">https://forum.imperium42.com/uploads/default/optimized/2X/1/139a5e7df01e346cb6463f6f2e9a37bacf57b12c_1_374x500.png</a></p>
+<p>That’s me the whole game <strong>/shrug</strong></p>
+          <p><a href="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3395">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3395</link>
+        <pubDate>Wed, 31 Oct 2018 08:51:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72903-3395</guid>
+        <source url="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903.rss">Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</source>
+      </item>
+      <item>
+        <title>Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</title>
+        <dc:creator><![CDATA[Frostwolf103]]></dc:creator>
+        <description><![CDATA[
+            <p>I made interpret pun</p>
+          <p><a href="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3394">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3394</link>
+        <pubDate>Wed, 31 Oct 2018 06:52:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72903-3394</guid>
+        <source url="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903.rss">Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</source>
+      </item>
+      <item>
+        <title>Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</title>
+        <dc:creator><![CDATA[MaximusPrime]]></dc:creator>
+        <description><![CDATA[
+            <p>I have 0 motivation playing a boring class in a town sided game when I’m not town : /</p>
+<p>Playing as the shooter with only 3 other maf and there’s a nk? Yeah, no thanks</p>
+          <p><a href="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3393">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3393</link>
+        <pubDate>Wed, 31 Oct 2018 03:53:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72903-3393</guid>
+        <source url="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903.rss">Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</source>
+      </item>
+      <item>
+        <title>Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</title>
+        <dc:creator><![CDATA[midonik16]]></dc:creator>
+        <description><![CDATA[
+            <p>Wow we won cool.</p>
+<p>I died n1 idek what happened later but good job townies!!1!11!one!</p>
+          <p><a href="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3392">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3392</link>
+        <pubDate>Wed, 31 Oct 2018 01:11:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72903-3392</guid>
+        <source url="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903.rss">Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</source>
+      </item>
+      <item>
+        <title>Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</title>
+        <dc:creator><![CDATA[MathBlade]]></dc:creator>
+        <description><![CDATA[
+            <p>Sorry I tried <img src="/images/emoji/twitter/frowning.png?v=9" title=":frowning:" class="emoji" alt=":frowning:"></p>
+          <p><a href="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3391">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3391</link>
+        <pubDate>Wed, 31 Oct 2018 01:09:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72903-3391</guid>
+        <source url="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903.rss">Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</source>
+      </item>
+      <item>
+        <title>Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</title>
+        <dc:creator><![CDATA[Marluxion]]></dc:creator>
+        <description><![CDATA[
+            <p>if you didn’t lynch eevee after my journal i would have had some harsh words to say</p>
+          <p><a href="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3390">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3390</link>
+        <pubDate>Wed, 31 Oct 2018 01:03:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72903-3390</guid>
+        <source url="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903.rss">Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</source>
+      </item>
+      <item>
+        <title>Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</title>
+        <dc:creator><![CDATA[Nerbins]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh.<br>
+I thought you would rant at us about not killing Eevee sooner instead of just addressing him.<br>
+I’m not complaining btw.</p>
+          <p><a href="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3389">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3389</link>
+        <pubDate>Wed, 31 Oct 2018 00:59:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72903-3389</guid>
+        <source url="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903.rss">Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</source>
+      </item>
+      <item>
+        <title>Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</title>
+        <dc:creator><![CDATA[Marluxion]]></dc:creator>
+        <description><![CDATA[
+            <p>I forgot this game was in night phase though so i didn’t act the night i died</p>
+          <p><a href="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3388">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3388</link>
+        <pubDate>Wed, 31 Oct 2018 00:50:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72903-3388</guid>
+        <source url="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903.rss">Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</source>
+      </item>
+      <item>
+        <title>Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p><span class="mention">@Noz_Bugz</span> you may now rant</p>
+          <p><a href="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3387">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3387</link>
+        <pubDate>Wed, 31 Oct 2018 00:50:33 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72903-3387</guid>
+        <source url="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903.rss">Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</source>
+      </item>
+      <item>
+        <title>Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</title>
+        <dc:creator><![CDATA[Marluxion]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="eevee-sama" data-post="3383" data-topic="72903">
+<div class="title">
+<div class="quote-controls"></div>
+ eevee-sama:</div>
+<blockquote>
+<p>I just wonder why Marl didn’t claim his own swap. Weird.</p>
+</blockquote>
+</aside>
+<p>So scum thought i had less charges of reversal than i actually did<br>
+I still had every use of it left</p>
+          <p><a href="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3386">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3386</link>
+        <pubDate>Wed, 31 Oct 2018 00:50:28 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72903-3386</guid>
+        <source url="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903.rss">Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</source>
+      </item>
+      <item>
+        <title>Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</title>
+        <dc:creator><![CDATA[Marluxion]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/eevee">@eevee</a> consider yourself deduced <img src="/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"></p>
+          <p><a href="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3385">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3385</link>
+        <pubDate>Wed, 31 Oct 2018 00:50:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72903-3385</guid>
+        <source url="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903.rss">Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</source>
+      </item>
+      <item>
+        <title>Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p>You completely diffused me when I thought I had you. You’re really freaking good</p>
+          <p><a href="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3384">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3384</link>
+        <pubDate>Wed, 31 Oct 2018 00:32:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72903-3384</guid>
+        <source url="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903.rss">Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</source>
+      </item>
+      <item>
+        <title>Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</title>
+        <dc:creator><![CDATA[eevee]]></dc:creator>
+        <description><![CDATA[
+            <p>On track enough.</p>
+<p>I just wonder why Marl didn’t claim his own swap. Weird.</p>
+          <p><a href="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3383">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3383</link>
+        <pubDate>Wed, 31 Oct 2018 00:18:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72903-3383</guid>
+        <source url="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903.rss">Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</source>
+      </item>
+      <item>
+        <title>Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/eevee">@eevee</a></p>
+<p>How’d I do?</p>
+          <p><a href="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3382">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3382</link>
+        <pubDate>Wed, 31 Oct 2018 00:14:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72903-3382</guid>
+        <source url="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903.rss">Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</source>
+      </item>
+      <item>
+        <title>Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</title>
+        <dc:creator><![CDATA[eevee]]></dc:creator>
+        <description><![CDATA[
+            <p>I mean, we couldn’t fix the balance AFTER the game was approved or it would need another aproval.</p>
+<p>Other thing is council quickhammering imba stuff :’)</p>
+<p>All in all, I blame Marl for game being imba.</p>
+          <p><a href="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3381">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3381</link>
+        <pubDate>Wed, 31 Oct 2018 00:14:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72903-3381</guid>
+        <source url="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903.rss">Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</source>
+      </item>
+      <item>
+        <title>Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</title>
+        <dc:creator><![CDATA[eevee]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Firelitten" data-post="3344" data-topic="72903" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+ Firelitten:</div>
+<blockquote>
+<p>Eevees advice “you don’t turn music up to balance it you turn other music down”</p>
+<p>Something like that</p>
+</blockquote>
+</aside>
+<p>… close one, but not really.</p>
+          <p><a href="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3380">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3380</link>
+        <pubDate>Wed, 31 Oct 2018 00:11:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72903-3380</guid>
+        <source url="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903.rss">Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</source>
+      </item>
+      <item>
+        <title>Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</title>
+        <dc:creator><![CDATA[Nerbins]]></dc:creator>
+        <description><![CDATA[
+            <p>That can never go wrong.</p>
+          <p><a href="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3379">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3379</link>
+        <pubDate>Wed, 31 Oct 2018 00:05:45 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72903-3379</guid>
+        <source url="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903.rss">Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</source>
+      </item>
+      <item>
+        <title>Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p>We had double cw spawn</p>
+          <p><a href="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3378">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903/3378</link>
+        <pubDate>Wed, 31 Oct 2018 00:05:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72903-3378</guid>
+        <source url="https://forum.throneoflies.com/t/forum-wrestling-federation-fm-5-21-faces-and-the-manager-win/72903.rss">Forum Wrestling Federation (FM) (5/21) - Faces and The Manager win!</source>
+      </item>
+  </channel>
+</rss>

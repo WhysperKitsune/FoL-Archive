@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Possessor converts to BD Bug</title>
+    <link>https://forum.throneoflies.com/t/possessor-converts-to-bd-bug/51209</link>
+    <description>#### What happened?
+Possessor tried to possess 3, the physician, however due to a death knight guarding them they died instead. Even though they died to dk, they somehow still possessed 3, and suddenly became physician. 14 died as possessor due to dk but contained the player that was phys instead of the poss player.
+
+#### What was SUPPOSED to happen?
+The game should have ended with the physician never changing bodies, not to even mention changing their class to Possessor.
+
+#### Steps to reproduce:
+1. Be a possessor game (Unseen game as well?)
+2. No evils were alive when possessor jumps. (Is this necessary?)
+2. Not sure, but get possessor to target phys as possess target (that ressurected DK?)
+3. Have DK guard the physician
+4. Have an alch throw a bomb at someone? (Not sure if this is necessary or not)
+
+#### Comments:
+Step 2 and 5 might not be needed. Step 3 is bendable (The target must not be a phys?)
+This bug caused the original Possessor (Arthur2 [14-&gt;3]) to become a real phys and win with BD. The physician (Onsberg677 [3-&gt;14]) became the possessor and lost despite originally being BD.
+Picture of endscreen: https://imgur.com/a/88LNb</description>
+    
+    <lastBuildDate>Thu, 08 Mar 2018 22:08:32 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forum.throneoflies.com/t/possessor-converts-to-bd-bug/51209.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Possessor converts to BD Bug</title>
+        <dc:creator><![CDATA[mathmods]]></dc:creator>
+        <description><![CDATA[
+            <h4>What happened?</h4>
+<p>Possessor tried to possess 3, the physician, however due to a death knight guarding them they died instead. Even though they died to dk, they somehow still possessed 3, and suddenly became physician. 14 died as possessor due to dk but contained the player that was phys instead of the poss player.</p>
+<h4>What was SUPPOSED to happen?</h4>
+<p>The game should have ended with the physician never changing bodies, not to even mention changing their class to Possessor.</p>
+<h4>Steps to reproduce:</h4>
+<ol>
+<li>Be a possessor game (Unseen game as well?)</li>
+<li>No evils were alive when possessor jumps. (Is this necessary?)</li>
+<li>Not sure, but get possessor to target phys as possess target (that ressurected DK?)</li>
+<li>Have DK guard the physician</li>
+<li>Have an alch throw a bomb at someone? (Not sure if this is necessary or not)</li>
+</ol>
+<h4>Comments:</h4>
+<p>Step 2 and 5 might not be needed. Step 3 is bendable (The target must not be a phys?)<br>
+This bug caused the original Possessor (Arthur2 [14-&gt;3]) to become a real phys and win with BD. The physician (Onsberg677 [3-&gt;14]) became the possessor and lost despite originally being BD.<br>
+Picture of endscreen: <a href="https://imgur.com/a/88LNb" class="inline-onebox-loading" rel="noopener nofollow ugc">https://imgur.com/a/88LNb</a></p>
+          <p><a href="https://forum.throneoflies.com/t/possessor-converts-to-bd-bug/51209/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/possessor-converts-to-bd-bug/51209/1</link>
+        <pubDate>Thu, 08 Mar 2018 22:08:32 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-51209-1</guid>
+        <source url="https://forum.throneoflies.com/t/possessor-converts-to-bd-bug/51209.rss">Possessor converts to BD Bug</source>
+      </item>
+  </channel>
+</rss>

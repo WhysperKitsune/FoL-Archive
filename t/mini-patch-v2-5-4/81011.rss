@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Mini Patch v2.5.4</title>
+    <link>https://forum.throneoflies.com/t/mini-patch-v2-5-4/81011</link>
+    <description>Mini patch with more bug fixes :)
+
+## Class Fixes
+* *Tornado* abil can no longer target *King* in 2nd target slot.
+* Cult Leader&#39;s day ability enable&lt;&gt;disable weirdness was fixed.
+* Fool will no longer win while dead without finishing their objective.
+* *Heal* abil feedback for *Did Not Require* and *Could Not Heal* was inadvertently swapped and is now fixed.
+
+## Suicide Abil
+* Scorned may no longer *Disguise* a suiciding player (they will receive the &quot;already dead&quot; feedback).
+* Toggling *Suicide* abil will now inform evil allies.
+* *Suicide* is now shown on **Night 2** (from Night 3).
+
+## General
+* Swapped lighting to CPU-based instead of GPU-based to prevent FPS drops (GPU was Unity&#39;s *experimental* feat, anyway). Let me know if improved.
+* Added a `{me}` variable to custom logbook templater in settings.
+___
+
+## Test Realm
+* Name selection timer is reduced to 10s (from ~30s) since names are now auto-selected in PTR.
+
+## Dev Notes
+This mini patch was a follow-up to v2.5.3 with more class bug fixes. Next patch will likely also be focusing on class bug fixes.
+__________
+## v2.5.4b 
+* The new *Suicide* abil toggle &quot;evil allies&quot; feedback will no longer announce it... to *everyone* D:
+* Players that change classes (Dirty Work, Convert, etc) *should* no longer see their abilities when jailed the same night. This isn&#39;t tested, but *should* do the trick. This was like a 2-year old bug :P
+* Fixed an awkward Psycho King description at the top.
+__________
+## v2.5.4a
+
+* *April Fools* spam @ end fixed.
+* Added missing Inquisitor *April Fools* portrait.
+__________
+## v2.5.3
+
+https://forum.imperium42.com/t/patch-v2-5-3-live/80918/5
+
+--Xblade
+&lt;https://discord.gg/tol&gt;</description>
+    
+    <lastBuildDate>Wed, 01 Apr 2020 14:18:35 +0000</lastBuildDate>
+    <category>Official Announcements</category>
+    <atom:link href="https://forum.throneoflies.com/t/mini-patch-v2-5-4/81011.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Mini Patch v2.5.4</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <h2>v2.5.4b</h2>
+<ul>
+<li>The new <em>Suicide</em> abil toggle “evil allies” feedback will no longer announce it… to <em>everyone</em> D:</li>
+<li>Players that change classes (Dirty Work, Convert, etc) <em>should</em> no longer see their abilities when jailed the same night. This isn’t tested, but <em>should</em> do the trick. This was like a 2-year old bug <img src="/images/emoji/twitter/stuck_out_tongue.png?v=9" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:">
+</li>
+<li>Fixed an awkward Psycho King description at the top.</li>
+</ul>
+          <p><a href="https://forum.throneoflies.com/t/mini-patch-v2-5-4/81011/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/mini-patch-v2-5-4/81011/6</link>
+        <pubDate>Wed, 01 Apr 2020 14:18:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81011-6</guid>
+        <source url="https://forum.throneoflies.com/t/mini-patch-v2-5-4/81011.rss">Mini Patch v2.5.4</source>
+      </item>
+      <item>
+        <title>Mini Patch v2.5.4</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>April Fools fixes, including +Inquisitor portrait and game over gag tweaks. Should hopefully just be like a 5mb patch.</p>
+          <p><a href="https://forum.throneoflies.com/t/mini-patch-v2-5-4/81011/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/mini-patch-v2-5-4/81011/5</link>
+        <pubDate>Wed, 01 Apr 2020 10:43:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81011-5</guid>
+        <source url="https://forum.throneoflies.com/t/mini-patch-v2-5-4/81011.rss">Mini Patch v2.5.4</source>
+      </item>
+      <item>
+        <title>Mini Patch v2.5.4</title>
+        <dc:creator><![CDATA[DatBird]]></dc:creator>
+        <description><![CDATA[
+            <p>what are they?</p>
+          <p><a href="https://forum.throneoflies.com/t/mini-patch-v2-5-4/81011/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/mini-patch-v2-5-4/81011/4</link>
+        <pubDate>Wed, 01 Apr 2020 10:41:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81011-4</guid>
+        <source url="https://forum.throneoflies.com/t/mini-patch-v2-5-4/81011.rss">Mini Patch v2.5.4</source>
+      </item>
+      <item>
+        <title>Mini Patch v2.5.4</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <h2>v2.5.4a</h2>
+<ul>
+<li>April Fools hotfixes</li>
+</ul>
+          <p><a href="https://forum.throneoflies.com/t/mini-patch-v2-5-4/81011/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/mini-patch-v2-5-4/81011/3</link>
+        <pubDate>Wed, 01 Apr 2020 10:40:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81011-3</guid>
+        <source url="https://forum.throneoflies.com/t/mini-patch-v2-5-4/81011.rss">Mini Patch v2.5.4</source>
+      </item>
+      <item>
+        <title>Mini Patch v2.5.4</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <h2>Added</h2>
+<ul>
+<li>
+<em>Heal</em>  abil feedback for  <em>Did Not Require</em>  and  <em>Could Not Heal</em>  was inadvertently swapped and is now fixed.</li>
+</ul>
+          <p><a href="https://forum.throneoflies.com/t/mini-patch-v2-5-4/81011/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/mini-patch-v2-5-4/81011/2</link>
+        <pubDate>Tue, 31 Mar 2020 09:32:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81011-2</guid>
+        <source url="https://forum.throneoflies.com/t/mini-patch-v2-5-4/81011.rss">Mini Patch v2.5.4</source>
+      </item>
+      <item>
+        <title>Mini Patch v2.5.4</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>Mini patch with more bug fixes <img src="/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<h2>Class Fixes</h2>
+<ul>
+<li>
+<em>Tornado</em> abil can no longer target <em>King</em> in 2nd target slot.</li>
+<li>Cult Leader’s day ability enable&lt;&gt;disable weirdness was fixed.</li>
+<li>Fool will no longer win while dead without finishing their objective.</li>
+<li>
+<em>Heal</em> abil feedback for <em>Did Not Require</em> and <em>Could Not Heal</em> was inadvertently swapped and is now fixed.</li>
+</ul>
+<h2>Suicide Abil</h2>
+<ul>
+<li>Scorned may no longer <em>Disguise</em> a suiciding player (they will receive the “already dead” feedback).</li>
+<li>Toggling <em>Suicide</em> abil will now inform evil allies.</li>
+<li>
+<em>Suicide</em> is now shown on <strong>Night 2</strong> (from Night 3).</li>
+</ul>
+<h2>General</h2>
+<ul>
+<li>Swapped lighting to CPU-based instead of GPU-based to prevent FPS drops (GPU was Unity’s <em>experimental</em> feat, anyway). Let me know if improved.</li>
+<li>Added a <code>{me}</code> variable to custom logbook templater in settings.</li>
+</ul>
+<hr>
+<h2>Test Realm</h2>
+<ul>
+<li>Name selection timer is reduced to 10s (from ~30s) since names are now auto-selected in PTR.</li>
+</ul>
+<h2>Dev Notes</h2>
+<p>This mini patch was a follow-up to v2.5.3 with more class bug fixes. Next patch will likely also be focusing on class bug fixes.</p>
+<hr>
+<h2>v2.5.4b</h2>
+<ul>
+<li>The new <em>Suicide</em> abil toggle “evil allies” feedback will no longer announce it… to <em>everyone</em> D:</li>
+<li>Players that change classes (Dirty Work, Convert, etc) <em>should</em> no longer see their abilities when jailed the same night. This isn’t tested, but <em>should</em> do the trick. This was like a 2-year old bug <img src="/images/emoji/twitter/stuck_out_tongue.png?v=9" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:">
+</li>
+<li>Fixed an awkward Psycho King description at the top.</li>
+</ul>
+<hr>
+<h2>v2.5.4a</h2>
+<ul>
+<li>
+<em>April Fools</em> spam @ end fixed.</li>
+<li>Added missing Inquisitor <em>April Fools</em> portrait.</li>
+</ul>
+<hr>
+<h2>v2.5.3</h2>
+<p><a href="https://forum.imperium42.com/t/patch-v2-5-3-live/80918/5" class="onebox" target="_blank" rel="noopener">https://forum.imperium42.com/t/patch-v2-5-3-live/80918/5</a></p>
+<p>–Xblade<br>
+<a href="https://discord.gg/tol">https://discord.gg/tol</a></p>
+          <p><a href="https://forum.throneoflies.com/t/mini-patch-v2-5-4/81011/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/mini-patch-v2-5-4/81011/1</link>
+        <pubDate>Tue, 31 Mar 2020 08:25:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81011-1</guid>
+        <source url="https://forum.throneoflies.com/t/mini-patch-v2-5-4/81011.rss">Mini Patch v2.5.4</source>
+      </item>
+  </channel>
+</rss>

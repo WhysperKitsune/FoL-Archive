@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Ritual Mafia - (Game has been rerolled in a new thread)</title>
+    <link>https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258</link>
+    <description>## :skull: [color=darkred]Welcome to Ritual Mafia[/color] :skull: 
+In Ritual mafia The Congregation (town faction) must fight against The Heretics (mafia faction) in order to gain the favor of their gods. How do you gain their favor? By sacrificing your own teammates on a ritual, of course!
+
+Also every class has a high-risk/high-reward ability that can give your team an advantage if used correctly. However you must be careful, use it without thinking and you will face the wrath of the gods.
+
+**Hosted by:** Psychoneirik
+**Cohosted by:** Twil1ight
+
+### :skull: [color=darkred]Rules[/color] :skull: 
+1. Follow the Global Forum Rules
+2. If you haven&#39;t posted in the thread or in your classcard for a while you will be prodded for inactivity. If you don’t respond to that prod in 24 hours, you will be force replaced.
+3. No private messaging others in the game about the game.
+4. Do not screenshot or quote private host messages
+5. While the nature of the game can make it easy to accidentally screw up your own faction, intentionally throwing the game is against the rules.
+6. Players are not allowed to use big letters. These are reserved for the host.
+7. Do not post in the main thread or like posts if you are dead.
+8. Remember: its a game so lets have fun.
+
+
+### :skull: [color=darkred]Gameplay[/color] :skull: 
+* Day is divided in two phases: Ritual Phase and Lynch Phase
+* Ritual Phase lasts 24 hours
+* During the Ritual phase people are able to vote for a person to sacrifice. The person with the highest amount of votes at the end of the phase will be sacrificed and their Ritual abilities will trigger.
+* Someone will always be sacrificed during this phase, and if there is a draw or no one gets any votes then it will be decided by RNG.  
+* &quot;The Ritual was interrupted&quot; message means that the player&#39;s ritual abilities were prevented from triggering because of an ability.
+* People can vote for themselves during Ritual phase, but not during Lynch phase.
+* Lynch Phase lasts 48 hours or until majority is reached.
+* You can submit the target(s) of your ritual effects at any point in time before you are sacrificed so the ritual effects take place immediately.
+* If a lynch happens within the first 12 hours of the lynch phase and ritual targets&#39; haven&#39;t been chosen a grace period will be given to pick the targets.
+* During the Lynch phase people are able to vote for a person to lynch. Once the majority has voted said person, they will be lynched. 
+* Nights will be 24 hours long
+* During the night you can submit your actions through your class card.
+* Players can only use one day ability each day and one night ability each night, unless stated otherwise.
+* The Heretics will have a day/night chat.
+* The most recent version of your logs will be shown when you die.
+* You can submit deathnotes on kills. These can be text or pictures.
+* There will be limited feedback. Most classes will only get &quot;You slept peacefully.&quot; or &quot;You died&quot; as feedback. The exceptions are the following:
+
+[details=&quot;List of night results&quot;]
+If you use an investigative ability are you are redirected (you will not know who you are redirected to): You were forced to target someone else.
+_If an investigative ability fails because of occupation/prevention: You were unable to perform your action._
+_If a Martyr uses Penitence for the second time on a target: Your target&#39;s class type is [class type]._
+_If you receive a private message because of the Confession day ability: Someone sent you an anonymous message [message]._
+_If a Blood Mage successfully kills a member of the Congregation with Collect Blood: You gained 2 extra uses of Barrier of Blood._
+_If a Medium uses Seance on a dead player: You got the following message from your Seance: [message]._
+_If a Diviner uses Divination and the player is not suspicious: Your target is not suspicious._
+_If a Diviner uses Divination and the player is suspicious: Your target is a member of the Heretics!_
+_If one or more of your targets are Heretics when using Diviner&#39;s Change of Faith: &quot;At least one of your targets is a member of the Heretics!&quot;_
+_If none of your targets are Heretics when using Diviner&#39;s Change of Faith: &quot;None of your targets are members of the Heretics&quot;_
+_If you successfully predict a death with Oracle&#39;s Prediction: You gained 1 extra use of All-seeing Eye._
+_If you use Clairvoyance on a player that didn&#39;t visit anyone: Your target didn&#39;t visit anyone last night._
+_If you use Clairvoyance on a player that visited someone: Your target visited [Player(s)] last night._
+_If an Oracle uses Vision on a player that wasn&#39;t visited by anyone: No one visited your target last night._
+_If an Oracle uses Vision on a player that was visited by someone: Your target was visited by [Player(s)] last night._
+_If an Oracle uses All-seeing Eye on a player: Your target is the [Class]._
+_If you get a new ability from a Ritual: You have gained a new ability: [ability description]_
+[/details]
+
+
+### :skull: [color=darkred]Other mechanics and interactions[/color] :skull: 
+* You cannot target yourself with abilities unless stated otherwise.
+* Conflicting abilities will be cancelled. For example, two Enchanters trying to redirect the same player to different targets would cause said player to not be redirected at all.
+* Enchanter can only redirect targeted abilities (for example, you cannot force a blood mage to use barrier of blood on someone else).
+* Self-killing or suicide abilities cannot be healed or prevented in any way except being occupied or by Voodoo Link.
+* Dying because of Voodoo Link counts as a suicide.
+* If your limited use ability fails for any reason you will still spend an use.
+* If a medium&#39;s target is changed their abilities will fail instead.
+* A target of Channel Spirit will not get notified when the effect ends due to conversion.
+* The medium will visit the targets of the channeled spirit.
+* Starting warlock appears not suspicious only to Diviner&#39;s &quot;Divination&quot; ability. Any other class or faction revealing effect will check him as a Heretic.
+* If the last Heretic is sacrificed, Town will NOT win, since the conversion triggers immediately (unless their Ritual abilities are disabled somehow).
+
+### :skull: [color=darkred]Class Cards[/color] :skull: 
+
+[details=&quot;The Congregation&quot;]
+&gt;# [color=darkgreen]The Witch Doctor[/color]
+&gt;**[color=darkgreen]Congregation Support[/color]**
+&gt;**Ritual of Leadership (Ritual)** - If you are sacrificed, a player of your choice will have two votes for the rest of the day.
+&gt;**Ritual of Eternal Youth (Ritual)** - If you are sacrificed, select up to a third of the currently alive players (rounded up). They will be healed tonight.
+&gt;**Healing Spell (Night)** - Heal a player from attacks. Unlimited uses.
+&gt;**Voodoo Link (Night)** - Permanently link yourself to another player. If they would die by any means except being sacrificed you will die in their place. (Includes being lynched, suicide and other deaths that cannot normally be healed or prevented) - 1 use.
+&gt;
+&gt;_**Goal:** Defeat the Heretics._
+----
+
+&gt;# [color=darkgreen]The Exorcist[/color]
+&gt;**[color=darkgreen]Congregation Support[/color]**
+&gt;**Ritual of Leadership (Ritual)** - If you are sacrificed, a player of your choice will have two votes for the rest of the day.
+&gt; **Ritual of Purification (Ritual)** - If you are sacrificed, select up to a third of the currently alive players (rounded up). They will be immune to negative effects tonight except death. 
+&gt;**Purify (Night)** - Select a player. They will be immune to all negative effects tonight except death. Unlimited uses.
+&gt;**Exorcise (Night)** - Select a player. They will permanently lose their Ritual abilities. 1 use.
+&gt;
+&gt;_**Goal:** Defeat the Heretics._
+
+&gt; **Note:** 
+&gt; Players affected by Purify or Ritual of Purification are immune to occupation and redirection from any sources except Witch Doctor&#39;s Voodoo Link (including Rituals), and be guaranteed to get correct results with investigative abilities. In addition, people trying to target them with one of the following abilities or their &quot;Lure&quot; versions will fail:
+&gt;
+&gt; Exorcise
+&gt; Spirit Chains
+&gt; Lure 
+&gt; Body Swap 
+&gt; Soul Exchange
+&gt; Cleanse
+&gt; Cloak of Darkness
+&gt; Demonic Voice
+&gt; Bad Omen
+----
+
+&gt;# [color=darkgreen]The Conjurer[/color]
+&gt;**[color=darkgreen]Congregation Offensive[/color]**
+&gt;**Ritual of Leadership (Ritual)** - If you are sacrificed, a player of your choice will have two votes for the rest of the day.
+&gt; **Ritual of Lockdown (Ritual)** - If you are sacrificed, select up to a third of the currently alive players (rounded up). Occupy them tonight.
+&gt; **Dazing Spell (Night)** - Prevent a player from performing their night action. Unlimited uses.
+&gt; **Spirit Chains (Night)** - Permanently chain a player. The next time they would use a limited use ability, they will be occupied. (Also works on day abilities) 1 use.
+&gt;
+&gt;_**Goal:** Defeat the Heretics._
+----
+
+&gt;# [color=darkgreen]The Enchanter[/color]
+&gt;**[color=darkgreen]Congregation Offensive[/color]**
+&gt;**Ritual of Leadership (Ritual)** - If you are sacrificed, a player of your choice will have two votes for the rest of the day.
+&gt;**Ritual of Chaos (Ritual)** - If you are sacrificed, double the potential number of targets of the next Ritual effect except Ritual of Leadership or Ritual of Initiation. 
+&gt; **Mind Control (Night)** - Force a player to target another. Can force them to target you, but can&#39;t force them to target themselves. Unlimited uses.
+&gt; **Lure (Night)** - Force a player to use one of their special ability on a target of your choice (Cannot force them to target themselves). Doesn&#39;t work on Investigative classes. This will not consume an use of their ability and they will not be notified. (This will prevent them from using any night action they were planning to use. This ability will fail if either you or your target is occupied). 1 use.
+&gt;
+&gt;_**Goal:** Defeat the Heretics._
+
+&gt; **_Effects of Lure depending on the class_:**
+&gt; * Witch Doctor: Force them to use Voodoo Link your target. A witch doctor can have multiple Voodoo links this way.
+&gt; * Exorcist: Your target will lose their ritual abilities.
+&gt; * Conjurer: Your target will be chained. They will be occupied the next time they try to use their limited use abilities.
+&gt; * Enchanter: No effect
+&gt; * Martyr: Martyr will die and occupy the warlock.
+&gt; * Blood Mage: Blood mage will become immune to death and kill all their attackers.
+&gt; * Medium: If your target dies tonight, they will be able to keep using their unlimited use abilities through the Medium. The effect ends if the medium dies or is converted.
+&gt; * Inquisitor: The first person they vote will be sacrificed/lynched. The Inquisitor will reveal themselves as soon as this happens, preventing Congregation members from targeting them.
+&gt; * Diviner: No effect
+&gt; * Oracle: No effect
+&gt; * Warlock: Warlock will cause your target to commit suicide at the end of the night, bypassing everything.
+&gt; * Shaman: If either The Shaman or your target would be sacrificed in tomorrow&#39;s ritual the other will be sacrificed instead.
+&gt; * Sorcerer: Everyone&#39;s Ritual abilities will be disabled tomorrow.
+&gt; * Occultist: The first person your target votes will be lynched.
+&gt; * Seer: No effect
+
+----
+
+&gt;# [color=darkgreen]The Martyr[/color]
+&gt;**[color=darkgreen]Congregation Killing[/color]**
+&gt;**Ritual of Leadership (Ritual)** - If you are sacrificed, a player of your choice will have two votes for the rest of the day.
+&gt; **Ritual of Penitence (Ritual)** - If you are sacrificed, select a player and give them the following abilities:
+&gt;&gt; **Contrition (Day)** - Select a player, they will be healed tonight. 1 use.
+&gt;&gt; **Confession (Day)** - Send an anonymous message to a player. 1 use.
+&gt;&gt; **Penance (Day)** - Select a player, they will be occupied tonight. 1 use.
+&gt;
+&gt; **Penitence (Night)** -  Select a player. The effects of this ability are different depending on how many times you have used it on the same player. Unlimited uses.
+&gt; * First time: Contrition - Prevent all visits on your target.
+&gt; * Second time: Confession - Check your target&#39;s class type.
+&gt; * Three or more times: Penance - Attack the player. 
+&gt;
+&gt; **Absolution (Night)** - Kill yourself in order to occupy The Warlock. This ability doesn&#39;t count as a visit. 1 use.
+&gt;
+&gt;_**Goal:** Defeat the Heretics._
+----
+
+&gt;# [color=darkgreen]The Blood Mage[/color]
+&gt;**[color=darkgreen]Congregation Killing[/color]**
+&gt;**Ritual of Leadership (Ritual)** - If you are sacrificed, a player of your choice will have two votes for the rest of the day.
+&gt; **Ritual of Death (Ritual)** - If you are sacrificed, select a player and kill them immediately. 
+&gt; **Barrier of Blood (Night)** -  You will become immune to death and kill your attackers. 1 use. 
+&gt; **Collect Blood (Night)** - Select a player. If their blood is pure (they are a member of the congregation) you will attack them bypassing healing and you will gain 2 extra uses of barrier of blood. If their blood is corrupted (they are a member of the heretics) you will commit suicide. 1 use.
+&gt;_**Goal:** Defeat the Heretics._
+----
+
+&gt;# [color=darkgreen]The Medium[/color]
+&gt;**[color=darkgreen]Congregation Social[/color]**
+&gt;**Ritual of Leadership (Ritual)** - If you are sacrificed, a player of your choice will have two votes for the rest of the day.
+&gt; **Ritual of Souls (Ritual)** - If you are sacrificed all dead Congregation members will be able to use their unlimited use night abilities tonight. 
+&gt; **Seance (Night)** - Select a dead player. They will be able to send you a message, this message can only have a maximum of 25 characters. Unlimited uses.
+&gt; **Channel Spirit (Night)** - Select a dead player. They will be able to use their unlimited use night abilities through you, however you will be unable to use your Seance ability for the rest of the game. The effect ends if you die or are converted. 1 use. 
+&gt;
+&gt;_**Goal:** Defeat the Heretics._
+----
+
+&gt; # [color=darkgreen]The Inquisitor[/color]
+&gt; **[color=darkgreen]Unique Congregation Social[/color]**
+&gt;**Ritual of True Leadership (Ritual)** - If you are sacrificed, a player of your choice will have three votes for the rest of the day.
+&gt; **Burn the Heretics (Day)** - Your next vote will cause you to reveal yourself as the Inquisitor and the person you voted will be instantly lynched or sacrificed, depending on the current phase. After revealing, all Congregate abilities that target you will fail (includes day abilities). You cannot be converted into the Heretics after revealing. 1 use.
+&gt; **Clergy (Night)** - Mark a player as a Cleric. After you reveal, you and all Clerics will get a private day and night chat for as long as you live. Targeting the same player twice will remove them from the Clergy. Unlimited uses.
+&gt;
+&gt;_**Goal:** Defeat the Heretics._
+----
+
+&gt;# [color=darkgreen]The Diviner[/color]
+&gt;**[color=darkgreen]Congregation Investigative[/color]**
+&gt;**Ritual of Leadership (Ritual)** - If you are sacrificed, a player of your choice will have two votes for the rest of the day.
+&gt; **Ritual of Truth (Ritual)** - If you are sacrificed, select a player and reveal their faction to the court.
+&gt; **Divination (Night)** - Check if a player is part of the Heretics. The starting Warlock appears not suspicious. Unlimited uses
+&gt; **Change of Faith (Night)** - Select up to three players and check if at least one of them is a Heretic. You will permanently appear as a Warlock to investigators for the rest of the game. 1 use.
+&gt;
+&gt;_**Goal:** Defeat the Heretics._
+----
+
+&gt;# [color=darkgreen]The Oracle[/color]
+&gt;**[color=darkgreen]Congregation Investigative[/color]**
+&gt;**Ritual of Leadership (Ritual)** - If you are sacrificed, a player of your choice will have two votes for the rest of the day.
+&gt; **Ritual of Clairvoyance (Ritual)** - If you are sacrificed, select a player. They will gain the following day ability:
+&gt;&gt;**Clairvoyance (Day)** - Select a player. At the end of the night, you will know who they visited. Unlimited uses. 
+&gt;
+&gt; **Prediction (Day)** - Select a player. If they die during the next night by any means, you will gain one use of &quot;All-seeing eye&quot;. If you make 2 wrong predictions you will die (cannot be healed or prevented by death immunity). Unlimited uses.
+&gt; **Vision (Night)** - Check a player to see who visits them. Unlimited uses
+&gt; **All-seeing eye (Night)** - Check the exact class of a player. 0 uses.
+&gt;
+&gt;_**Goal:** Defeat the Heretics._
+----
+
+[/details]
+
+
+[details=&quot;The Heretics&quot;]
+&gt;# [color=red]The Warlock[/color]
+&gt;**[color=red]Heretic Killing[/color]**
+&gt;**Ascension (Passive)** - If you die, another member of the Heretics will turn into the Warlock.
+&gt; **Ritual of Initiation (Ritual)** - If you are sacrificed, convert a player into the Heretics. They will become the Heretic class of the same type as their old class (killing classes turn into &quot;The Sorcerer&quot; instead).
+&gt; **Ritual of Revenge (Ritual)** - If you are sacrificed, select and kill a player. 
+&gt; **Kill (Night)** - Kill a player. Unlimited uses
+&gt; **Blood for blood (Night)** - Both an Heretic of your choice (can target yourself) and another player will suicide at the end of the night, bypassing everything except Voodoo Link. Warlock cannot be occupied or redirected while using this ability and it doesn&#39;t count as a visit. Unlimited uses, cannot be used if you are the only Heretic alive.
+&gt;
+&gt;_**Goal:** Defeat the Congregation._
+----
+
+&gt;# [color=red]The Shaman[/color]
+&gt;**[color=red]Heretics Support[/color]**
+&gt; **Ritual of Initiation (Ritual)** - If you are sacrificed, convert a player into the Heretics. They will become the Heretic class of the same type as their old class (killing classes turn into &quot;The Sorcerer&quot; instead).
+&gt; **Ritual of Power (Ritual)** - If you are sacrificed, the Warlock will be able to use &quot;Blood for blood&quot; tonight without killing an Heretic. (This also allows warlock to use Blood for blood even if he is the last Heretic alive).
+&gt; **Body Swap (Night)** - Select two players, anyone targeting one of them will instead target the other. Can target yourself. Unlimited uses
+&gt; **Soul Exchange (Night)** - Select a player. If they would be sacrificed during the Ritual phase tomorrow you will be sacrificed instead, and if you would be sacrificed they will be sacrificed instead. 1 use.
+&gt;
+&gt;_**Goal:** Defeat the Congregation._
+----
+
+&gt;# [color=red]The Sorcerer[/color]
+&gt;**[color=red]Heretic Offensive[/color]**
+&gt; **Ritual of Initiation (Ritual)** - If you are sacrificed, convert a player into the Heretics. They will become the Heretic class of the same type as their old class (killing classes turn into &quot;The Sorcerer&quot; instead).
+&gt; **Ritual of Sleep (Ritual)** - If you are sacrificed, select a class type (Support/Killer/Offensive/Social/Investigative). All Congregation players of said class type will be occupied tonight.
+&gt; **Binding Spell (Night)** - Prevent a player from performing their night action. Unlimited uses
+&gt; **Cleanse (Night)** - Disable everyone&#39;s Ritual abilities tomorrow, including The Heretics. 1 use.
+&gt;
+&gt;_**Goal:** Defeat the Congregation._
+----
+
+&gt;# [color=red]The Occultist[/color]
+&gt;**[color=red]Heretic Social[/color]**
+&gt; **Ritual of Initiation (Ritual)** - If you are sacrificed, convert a player into the Heretics. They will become the Heretic class of the same type as their old class (killing classes turn into &quot;The Sorcerer&quot; instead).
+&gt; **Ritual of Silence (Ritual)** - If you are sacrificed, the next lynch phase will require 1 extra vote in order to lynch someone.
+&gt; **Cloak of Darkness (Night)** - Select a player. They will appear as a class of your choice to investigators. Can target yourself. Unlimited uses.
+&gt; **Demonic Voice (Night)** - Select a non-heretic player. The first person they vote during the Lynch phase tomorrow will be instantly lynched. This will not end the lynch phase, and a normal lynch can still happen. Your target will not know if they are under the effects of this ability. 1 use.
+&gt;
+&gt;_**Goal:** Defeat the Congregation._
+----
+
+&gt;# [color=red]The Seer[/color]
+&gt;**[color=red]Heretic Investigative[/color]**
+&gt; **Ritual of Initiation (Ritual)** - If you are sacrificed, convert a player into the Heretics. They will become the Heretic class of the same type as their old class (killing classes turn into &quot;The Sorcerer&quot; instead).
+&gt; **Ritual of Omniscience (Ritual)** - If you are sacrificed, select up to two players. Their classes will be revealed to the Heretics.
+&gt; **Crystal Ball (Night)** - Check the class type of a player. Unlimited uses
+&gt; **Bad Omen (Night)** - Select a player and guess their exact class. If you get it right you will permanently disable their Ritual abilities. If you get it wrong, your own Ritual abilities will be permanently disabled. (You are not notified whether you got it right or wrong). 1 use.
+[/details]
+
+
+
+### :skull: [color=darkred]Rolelist[/color] :skull: 
+[color=darkgreen] **12 Random Congregation (Max 3 of each non-unique class)**[/color]
+[color=red]**1 Warlock**
+**3 Random Heretic**[/color]
+
+### :skull: [color=darkred]Players[/color] :skull: 
+:latin_cross: = Inquisitor 
+
+1. Memesky
+2. htm
+3. Solic
+4. Firekitten
+5. Marluxion
+6. &lt;strike&gt;Sam17z&lt;/strike&gt; - [color=green]The Enchanter[/color], sacrificed D1
+7. PoisonedSquid
+8. Margaret
+9. Captain
+10. Lightsin
+11. Maximus Prime
+12. Icibalus
+13. Hippolytus :latin_cross: 
+14. Vulgard
+15. &lt;strike&gt;PokemonKidRyan&lt;/strike&gt; [color=green]Medium[/color], Lynched D1
+16. Wolfy
+
+Spectators:
+1. Sarun
+2. Boss110
+3. Luxy
+4. Pug
+
+### Notable events
+[Start of Day 1](https://forum.imperium42.com/t/ritual-mafia-day-1-ritual-phase-16-16/71258/63)
+[Sam17z is sacrificed and start of lynch phase](https://forum.imperium42.com/t/ritual-mafia-day-1-ritual-phase-16-16/71258/964)
+[Hippolytus reveals as Inquisitor, PKR is lynched](https://forum.imperium42.com/t/ritual-mafia-night-1-14-16/71258/1067)</description>
+    
+    <lastBuildDate>Mon, 06 Aug 2018 18:46:57 +0000</lastBuildDate>
+    <category>Forum Matches</category>
+    <atom:link href="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Ritual Mafia - (Game has been rerolled in a new thread)</title>
+        <dc:creator><![CDATA[Marluxion]]></dc:creator>
+        <description><![CDATA[
+            <h1>Locking this as the reroll will be happening soon</h1>
+<p>(to prevent conversations here that may relate to the new thread)</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2113">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2113</link>
+        <pubDate>Mon, 06 Aug 2018 18:46:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71258-2113</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258.rss">Ritual Mafia - (Game has been rerolled in a new thread)</source>
+      </item>
+      <item>
+        <title>Ritual Mafia - (Game has been rerolled in a new thread)</title>
+        <dc:creator><![CDATA[Marluxion]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2112">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2112</link>
+        <pubDate>Mon, 06 Aug 2018 18:46:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71258-2112</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258.rss">Ritual Mafia - (Game has been rerolled in a new thread)</source>
+      </item>
+      <item>
+        <title>Ritual Mafia - (Game has been rerolled in a new thread)</title>
+        <dc:creator><![CDATA[Solic]]></dc:creator>
+        <description><![CDATA[
+            <p>For you he might have been confirmed townie as you knew it, but softing inquis when you are not inquis is also terrible. Inquis is not even that powerful in this mode.</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2111">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2111</link>
+        <pubDate>Mon, 06 Aug 2018 18:35:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71258-2111</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258.rss">Ritual Mafia - (Game has been rerolled in a new thread)</source>
+      </item>
+      <item>
+        <title>Ritual Mafia - (Game has been rerolled in a new thread)</title>
+        <dc:creator><![CDATA[Wolfy]]></dc:creator>
+        <description><![CDATA[
+            <p>Agreed, it was somewhat daft. But the stupid thing was that Hip still made the stupid move of killing someone confirmed townie. Lesson learnt. Don’t, do, it</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2110">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2110</link>
+        <pubDate>Mon, 06 Aug 2018 18:33:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71258-2110</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258.rss">Ritual Mafia - (Game has been rerolled in a new thread)</source>
+      </item>
+      <item>
+        <title>Ritual Mafia - (Game has been rerolled in a new thread)</title>
+        <dc:creator><![CDATA[Solic]]></dc:creator>
+        <description><![CDATA[
+            <p>Outing as inquis like that was stupid regardless in my opinion.</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2109">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2109</link>
+        <pubDate>Mon, 06 Aug 2018 18:32:54 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71258-2109</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258.rss">Ritual Mafia - (Game has been rerolled in a new thread)</source>
+      </item>
+      <item>
+        <title>Ritual Mafia - (Game has been rerolled in a new thread)</title>
+        <dc:creator><![CDATA[Blizer]]></dc:creator>
+        <description><![CDATA[
+            <p>Not gonna lie, that pissed me off to witness.</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2108">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2108</link>
+        <pubDate>Mon, 06 Aug 2018 18:32:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71258-2108</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258.rss">Ritual Mafia - (Game has been rerolled in a new thread)</source>
+      </item>
+      <item>
+        <title>Ritual Mafia - (Game has been rerolled in a new thread)</title>
+        <dc:creator><![CDATA[Wolfy]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh, while we have the opportunity, can we stop with the Ryan is always scum meme now and take him as a serious player. The chart is now redundant after what Hip had done, especially when Ryan was pretty much locked town by everyone else</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2107">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2107</link>
+        <pubDate>Mon, 06 Aug 2018 18:32:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71258-2107</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258.rss">Ritual Mafia - (Game has been rerolled in a new thread)</source>
+      </item>
+      <item>
+        <title>Ritual Mafia - (Game has been rerolled in a new thread)</title>
+        <dc:creator><![CDATA[Blizer]]></dc:creator>
+        <description><![CDATA[
+            <p>I was fine with it still, because i had a town read from you, but i was a little hesitant, Which is kinda why i was going to switch it to Vul.</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2106">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2106</link>
+        <pubDate>Mon, 06 Aug 2018 18:29:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71258-2106</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258.rss">Ritual Mafia - (Game has been rerolled in a new thread)</source>
+      </item>
+      <item>
+        <title>Ritual Mafia - (Game has been rerolled in a new thread)</title>
+        <dc:creator><![CDATA[Wolfy]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/psychoneirik">@psychoneirik</a>, could you give us the list of actions that have happened as well please just to know what actually happened</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2105">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2105</link>
+        <pubDate>Mon, 06 Aug 2018 18:28:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71258-2105</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258.rss">Ritual Mafia - (Game has been rerolled in a new thread)</source>
+      </item>
+      <item>
+        <title>Ritual Mafia - (Game has been rerolled in a new thread)</title>
+        <dc:creator><![CDATA[Solic]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah, that made me a lot more reluctant to out myself, since I could maybe even heal myself and sent a message to Hippo with my diviner results.</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2104">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2104</link>
+        <pubDate>Mon, 06 Aug 2018 18:28:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71258-2104</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258.rss">Ritual Mafia - (Game has been rerolled in a new thread)</source>
+      </item>
+      <item>
+        <title>Ritual Mafia - (Game has been rerolled in a new thread)</title>
+        <dc:creator><![CDATA[Blizer]]></dc:creator>
+        <description><![CDATA[
+            <p>I was going to switch it to Vul, because i had Vul as 100% town.</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2103">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2103</link>
+        <pubDate>Mon, 06 Aug 2018 18:28:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71258-2103</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258.rss">Ritual Mafia - (Game has been rerolled in a new thread)</source>
+      </item>
+      <item>
+        <title>Ritual Mafia - (Game has been rerolled in a new thread)</title>
+        <dc:creator><![CDATA[Marluxion]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Margaret" data-post="695" data-topic="71258" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/margaret/40/13025_2.png" class="avatar"> Margaret:</div>
+<blockquote>
+<p><strong>Marl messed up, I’m suicidal from his failure, why does this exist anymore?</strong></p>
+</blockquote>
+</aside>
+<aside class="quote no-group" data-username="Marluxion" data-post="696" data-topic="71258" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/marluxion/40/10921_2.png" class="avatar"> Marluxion:</div>
+<blockquote>
+<p><strong>Can this game</strong><br>
+<strong>Redo, redo.</strong></p>
+</blockquote>
+</aside>
+<p>also still a prophet</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2102">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2102</link>
+        <pubDate>Mon, 06 Aug 2018 18:28:17 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71258-2102</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258.rss">Ritual Mafia - (Game has been rerolled in a new thread)</source>
+      </item>
+      <item>
+        <title>Ritual Mafia - (Game has been rerolled in a new thread)</title>
+        <dc:creator><![CDATA[Blizer]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh yea, meme tried to give you his Ritual ability.</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2101">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2101</link>
+        <pubDate>Mon, 06 Aug 2018 18:27:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71258-2101</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258.rss">Ritual Mafia - (Game has been rerolled in a new thread)</source>
+      </item>
+      <item>
+        <title>Ritual Mafia - (Game has been rerolled in a new thread)</title>
+        <dc:creator><![CDATA[Solic]]></dc:creator>
+        <description><![CDATA[
+            <p>I tried to signal that I was Diviner by putting my scum leans in forms of 3 occassionally, but noone caught on. I was very unsure if I should have outed and taken the sacrifice or not. 2 faction checks is pretty powerful, but I could do that every night honestly, so instead I only softed sometimes.</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2100">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2100</link>
+        <pubDate>Mon, 06 Aug 2018 18:26:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71258-2100</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258.rss">Ritual Mafia - (Game has been rerolled in a new thread)</source>
+      </item>
+      <item>
+        <title>Ritual Mafia - (Game has been rerolled in a new thread)</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Also this was my fav quote when I poked at Sarun accidentally liking my post</p>
+<aside class="quote no-group" data-username="psychoneirik" data-post="11" data-topic="71294" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/psychoneirik/40/12950_2.png" class="avatar"><a href="https://forum.throneoflies.com/t/71294/11">On another topic</a>
+</div>
+<blockquote>
+<p>Plz don’t talk to, ping or feed the spectators k thx</p>
+</blockquote>
+</aside>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2099">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2099</link>
+        <pubDate>Mon, 06 Aug 2018 18:26:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71258-2099</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258.rss">Ritual Mafia - (Game has been rerolled in a new thread)</source>
+      </item>
+      <item>
+        <title>Ritual Mafia - (Game has been rerolled in a new thread)</title>
+        <dc:creator><![CDATA[Marluxion]]></dc:creator>
+        <description><![CDATA[
+            <p>Yes, leave it to neirik tho</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2098">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2098</link>
+        <pubDate>Mon, 06 Aug 2018 18:26:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71258-2098</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258.rss">Ritual Mafia - (Game has been rerolled in a new thread)</source>
+      </item>
+      <item>
+        <title>Ritual Mafia - (Game has been rerolled in a new thread)</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>We need a new thread right?</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2097">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2097</link>
+        <pubDate>Mon, 06 Aug 2018 18:25:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71258-2097</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258.rss">Ritual Mafia - (Game has been rerolled in a new thread)</source>
+      </item>
+      <item>
+        <title>Ritual Mafia - (Game has been rerolled in a new thread)</title>
+        <dc:creator><![CDATA[Blizer]]></dc:creator>
+        <description><![CDATA[
+            <p>This is amazing.</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2096">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2096</link>
+        <pubDate>Mon, 06 Aug 2018 18:24:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71258-2096</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258.rss">Ritual Mafia - (Game has been rerolled in a new thread)</source>
+      </item>
+      <item>
+        <title>Ritual Mafia - (Game has been rerolled in a new thread)</title>
+        <dc:creator><![CDATA[Wolfy]]></dc:creator>
+        <description><![CDATA[
+            <p>I actually copied this, and took it to the heretic chat to appreciate such an amazing post XD</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2095">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2095</link>
+        <pubDate>Mon, 06 Aug 2018 18:23:42 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71258-2095</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258.rss">Ritual Mafia - (Game has been rerolled in a new thread)</source>
+      </item>
+      <item>
+        <title>Ritual Mafia - (Game has been rerolled in a new thread)</title>
+        <dc:creator><![CDATA[Solic]]></dc:creator>
+        <description><![CDATA[
+            <p>I just had to keep pushing my agenda of going for maximus/Lightsin/margaret, because I guessed that maybe even multiple scum were in there and you weren’t on board with it at all.</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2094">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2094</link>
+        <pubDate>Mon, 06 Aug 2018 18:23:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71258-2094</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258.rss">Ritual Mafia - (Game has been rerolled in a new thread)</source>
+      </item>
+      <item>
+        <title>Ritual Mafia - (Game has been rerolled in a new thread)</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Ik but I am the type of person to know someone murdered someone and I would feel bad when they went to jail.</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2093">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2093</link>
+        <pubDate>Mon, 06 Aug 2018 18:23:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71258-2093</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258.rss">Ritual Mafia - (Game has been rerolled in a new thread)</source>
+      </item>
+      <item>
+        <title>Ritual Mafia - (Game has been rerolled in a new thread)</title>
+        <dc:creator><![CDATA[Solic]]></dc:creator>
+        <description><![CDATA[
+            <p>Actually, you might not believe me, but before I left the office I finally ISO’ed you and I did think you were a town lean of mine.</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2092">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2092</link>
+        <pubDate>Mon, 06 Aug 2018 18:22:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71258-2092</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258.rss">Ritual Mafia - (Game has been rerolled in a new thread)</source>
+      </item>
+      <item>
+        <title>Ritual Mafia - (Game has been rerolled in a new thread)</title>
+        <dc:creator><![CDATA[Marluxion]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Marluxion" data-post="680" data-topic="71258" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/marluxion/40/10921_2.png" class="avatar"> Marluxion:</div>
+<blockquote>
+<p><em>Welcome to the Inner Macinations of Marluxion’s Mind</em></p>
+<p><em>Immediately upon entering the game and receiving my class card, I was hoping to draw as much aggression and pressure towards myself as possible - as I wasn’t planning to life past this first phase. Little did I know…</em></p>
+<p><em>Memesky townslipped by starting the wagon - his reasoning was good. I called him town, when he was trying to get scumread. Slayer’s Gambit, as Icibalus calls it.</em></p>
+<p><em>However, things stopped going according to plan when Ici called out Marl’s reaction, creating an entirely new layer of WIFOM to this borderline gamethrow-ey play.</em></p>
+<p><em>Was this going to stop Marl? No, only a reasonable man would have stopped this play there. Marl’s goal wasn’t just to catch one mere scum - It was to catch an entire basket of scum. A murder of scum.</em></p>
+<p><em>Through Marl’s ritual ability, he was going to enable the town to kill TWO scum in one day. A Buy One Get One scum, if you will.</em></p>
+<p><em>Marl made his move - he claimed his class in an attempt to become the day’s sacrifice…</em></p>
+<p><em>But his hubris was his undoing. He was too focused on reading people as scum that he missed reading the most elementary thing… his own classcard.</em></p>
+</blockquote>
+</aside>
+<p>everyone thinking that i faked this has too much faith in me</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2091">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2091</link>
+        <pubDate>Mon, 06 Aug 2018 18:22:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71258-2091</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258.rss">Ritual Mafia - (Game has been rerolled in a new thread)</source>
+      </item>
+      <item>
+        <title>Ritual Mafia - (Game has been rerolled in a new thread)</title>
+        <dc:creator><![CDATA[Blizer]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Firelitten" data-post="2085" data-topic="71258" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+ Firelitten:</div>
+<blockquote>
+<p>I feel bad for meme but at the same time he kinda deserved it</p>
+</blockquote>
+</aside>
+<p>He has no sympathy from me. He knew what he was doing, and he was pushing Puggo heavily for it.</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2090">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2090</link>
+        <pubDate>Mon, 06 Aug 2018 18:22:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71258-2090</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258.rss">Ritual Mafia - (Game has been rerolled in a new thread)</source>
+      </item>
+      <item>
+        <title>Ritual Mafia - (Game has been rerolled in a new thread)</title>
+        <dc:creator><![CDATA[Marluxion]]></dc:creator>
+        <description><![CDATA[
+            <p>also hi solic i was town :^)</p>
+          <p><a href="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2089">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258/2089</link>
+        <pubDate>Mon, 06 Aug 2018 18:22:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71258-2089</guid>
+        <source url="https://forum.throneoflies.com/t/ritual-mafia-game-has-been-rerolled-in-a-new-thread/71258.rss">Ritual Mafia - (Game has been rerolled in a new thread)</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>V2.3b: Mini Security Patch</title>
+    <link>https://forum.throneoflies.com/t/v2-3b-mini-security-patch/78724</link>
+    <description>*Taking a step back from v2.4 --* 
+
+Now that Mac/Linux has been sunset (Apologies folks 😢 but it allowed this hotfix to happen):
+
+We had some annoying hacker games, lately: This was introduced by a vulnerability caused by our 3rd-party server. Luckily, they worked hard to deliver us a quick patch :smiley: while we can&#39;t stop all hacks, we&#39;ll try our best to secure them where we can. 
+
+&gt; v2.3.0b (LIVE)
+
+1. Vulnerability fixes.
+2. More vulnerability fixes.
+3. Removed Streamer Mode (this was broken for so long).
+4. Support for Halloween (Moon Festival) **part 1** event - new Halloween/Anniversary (II) items can come next patch for pt2.
+5. Now using Unity 2019 (from 2018)
+6. Support for the new experimental Garbage Collection system with Unity 2019: Fast+Efficient.
+
+&gt; Requirements
+
+Windows (64-bit) Only
+
+&gt; New Runtime Requirement
+
+[Visual C++ Redist 2012](https://www.microsoft.com/en-us/download/details.aspx?id=30679#)
+
+^ Most should already have this. I also asked Steam to include this now. If you get stuck @ login, try this link manually. And no, I don&#39;t use VS2012 :P 3rd-party lib.
+
+&gt; Possible Bugs
+* We&#39;re testing a downgraded version of our text engine to avoid the Unity 2019 bug we saw on the v2.4 test realm: Hopefully this goes away. The Unity dev for this is working on a fix as we speak, but I&#39;m impatient :)
+
+_________
+
+That&#39;s it!
+
+Coming soon to #test-realm [in Discord!](https://discord.gg/tol)
+
+**We&#39;ll get [back to v2.4](https://forum.imperium42.com/t/v2-4-beta-patch-notes/78603) shortly after.**</description>
+    
+    <lastBuildDate>Tue, 15 Oct 2019 10:48:48 +0000</lastBuildDate>
+    <category>Official Announcements</category>
+    <atom:link href="https://forum.throneoflies.com/t/v2-3b-mini-security-patch/78724.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>V2.3b: Mini Security Patch</title>
+        <dc:creator><![CDATA[Soulshade55r]]></dc:creator>
+        <description><![CDATA[
+            <p>yay I was getting tired of having every item in the game (even both gold armours).<br>
+I have too much money saved up</p>
+          <p><a href="https://forum.throneoflies.com/t/v2-3b-mini-security-patch/78724/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/v2-3b-mini-security-patch/78724/7</link>
+        <pubDate>Tue, 15 Oct 2019 10:48:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78724-7</guid>
+        <source url="https://forum.throneoflies.com/t/v2-3b-mini-security-patch/78724.rss">V2.3b: Mini Security Patch</source>
+      </item>
+      <item>
+        <title>V2.3b: Mini Security Patch</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Soulshade55r" data-post="4" data-topic="78724" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/soulshade55r/40/29692_2.png" class="avatar"> Soulshade55r:</div>
+<blockquote>
+<p>I’m just hoping 2.4 is out by Halloween of course major code changes can lead to bugs so I understad take your time xblade keep up the great work</p>
+</blockquote>
+</aside>
+<p>We enabled Halloween ~ but last year’s Halloween. We’re calling it part 1. Part 2 will arrive in 2.4 with a few extra titles/avatars. There’s 1 avatar in particular I think will be popular <img src="/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> Adiart’s really good. The titles were community-submitted and chose the best ones.</p>
+          <p><a href="https://forum.throneoflies.com/t/v2-3b-mini-security-patch/78724/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/v2-3b-mini-security-patch/78724/6</link>
+        <pubDate>Tue, 15 Oct 2019 10:43:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78724-6</guid>
+        <source url="https://forum.throneoflies.com/t/v2-3b-mini-security-patch/78724.rss">V2.3b: Mini Security Patch</source>
+      </item>
+      <item>
+        <title>V2.3b: Mini Security Patch</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>Now live!</strong></p>
+          <p><a href="https://forum.throneoflies.com/t/v2-3b-mini-security-patch/78724/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/v2-3b-mini-security-patch/78724/5</link>
+        <pubDate>Tue, 15 Oct 2019 10:42:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78724-5</guid>
+        <source url="https://forum.throneoflies.com/t/v2-3b-mini-security-patch/78724.rss">V2.3b: Mini Security Patch</source>
+      </item>
+      <item>
+        <title>V2.3b: Mini Security Patch</title>
+        <dc:creator><![CDATA[Soulshade55r]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m just hoping 2.4 is out by Halloween of course major code changes can lead to bugs so I understad take your time xblade keep up the great work</p>
+          <p><a href="https://forum.throneoflies.com/t/v2-3b-mini-security-patch/78724/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/v2-3b-mini-security-patch/78724/4</link>
+        <pubDate>Tue, 15 Oct 2019 06:50:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78724-4</guid>
+        <source url="https://forum.throneoflies.com/t/v2-3b-mini-security-patch/78724.rss">V2.3b: Mini Security Patch</source>
+      </item>
+      <item>
+        <title>V2.3b: Mini Security Patch</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>Oops typo: Yes, 2.3b. Updated the posts.</p>
+          <p><a href="https://forum.throneoflies.com/t/v2-3b-mini-security-patch/78724/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/v2-3b-mini-security-patch/78724/3</link>
+        <pubDate>Tue, 15 Oct 2019 06:34:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78724-3</guid>
+        <source url="https://forum.throneoflies.com/t/v2-3b-mini-security-patch/78724.rss">V2.3b: Mini Security Patch</source>
+      </item>
+      <item>
+        <title>V2.3b: Mini Security Patch</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>isn’t this 2.3b or something?</p>
+<p>Cuz 2.3 is just the live patch and calling this patch 2.3 is confusing.</p>
+          <p><a href="https://forum.throneoflies.com/t/v2-3b-mini-security-patch/78724/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/v2-3b-mini-security-patch/78724/2</link>
+        <pubDate>Mon, 14 Oct 2019 16:42:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78724-2</guid>
+        <source url="https://forum.throneoflies.com/t/v2-3b-mini-security-patch/78724.rss">V2.3b: Mini Security Patch</source>
+      </item>
+      <item>
+        <title>V2.3b: Mini Security Patch</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p><em>Taking a step back from v2.4 –</em></p>
+<p>Now that Mac/Linux has been sunset (Apologies folks <img src="/images/emoji/twitter/cry.png?v=9" title=":cry:" class="emoji" alt=":cry:"> but it allowed this hotfix to happen):</p>
+<p>We had some annoying hacker games, lately: This was introduced by a vulnerability caused by our 3rd-party server. Luckily, they worked hard to deliver us a quick patch <img src="/images/emoji/twitter/smiley.png?v=9" title=":smiley:" class="emoji" alt=":smiley:"> while we can’t stop all hacks, we’ll try our best to secure them where we can.</p>
+<blockquote>
+<p>v2.3.0b (LIVE)</p>
+</blockquote>
+<ol>
+<li>Vulnerability fixes.</li>
+<li>More vulnerability fixes.</li>
+<li>Removed Streamer Mode (this was broken for so long).</li>
+<li>Support for Halloween (Moon Festival) <strong>part 1</strong> event - new Halloween/Anniversary (II) items can come next patch for pt2.</li>
+<li>Now using Unity 2019 (from 2018)</li>
+<li>Support for the new experimental Garbage Collection system with Unity 2019: Fast+Efficient.</li>
+</ol>
+<blockquote>
+<p>Requirements</p>
+</blockquote>
+<p>Windows (64-bit) Only</p>
+<blockquote>
+<p>New Runtime Requirement</p>
+</blockquote>
+<p><a href="https://www.microsoft.com/en-us/download/details.aspx?id=30679#">Visual C++ Redist 2012</a></p>
+<p>^ Most should already have this. I also asked Steam to include this now. If you get stuck @ login, try this link manually. And no, I don’t use VS2012 <img src="/images/emoji/twitter/stuck_out_tongue.png?v=9" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"> 3rd-party lib.</p>
+<blockquote>
+<p>Possible Bugs</p>
+</blockquote>
+<ul>
+<li>We’re testing a downgraded version of our text engine to avoid the Unity 2019 bug we saw on the v2.4 test realm: Hopefully this goes away. The Unity dev for this is working on a fix as we speak, but I’m impatient <img src="/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:">
+</li>
+</ul>
+<hr>
+<p>That’s it!</p>
+<p>Coming soon to <span class="hashtag">#test-realm</span> <a href="https://discord.gg/tol">in Discord!</a></p>
+<p><strong>We’ll get <a href="https://forum.imperium42.com/t/v2-4-beta-patch-notes/78603">back to v2.4</a> shortly after.</strong></p>
+          <p><a href="https://forum.throneoflies.com/t/v2-3b-mini-security-patch/78724/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/v2-3b-mini-security-patch/78724/1</link>
+        <pubDate>Mon, 14 Oct 2019 16:17:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-78724-1</guid>
+        <source url="https://forum.throneoflies.com/t/v2-3b-mini-security-patch/78724.rss">V2.3b: Mini Security Patch</source>
+      </item>
+  </channel>
+</rss>

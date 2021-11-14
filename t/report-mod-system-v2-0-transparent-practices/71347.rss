@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Report/Mod System v2.0 - Transparent Practices</title>
+    <link>https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347</link>
+    <description>![image|292x78](upload://gZBBYatoMrmx0BqLxJ3EMLPWLfs.png)  
+
+( Short URL = https://toli.es/mod )
+
+___
+
+## Introduction
+
+Whenever you report a player at the end of a game, it goes straight into our report queue for moderation. We can automatically detect how high of a priority the report based on numerous aspects, one especially being report history and patterns of behavior that we can now detect automatically to bump/adjust these priority levels. This information we have access to can be found within our [privacy policy](https://www.ThroneOfLies.com/legal).
+
+___
+## 2020 Update
+
+See our 2-years of moderation stats/analysis:
+https://medium.com/imperium42-game-studio/gamedev-player-moderation-charts-2020-9c243c2566d0
+___
+
+## Player History
+We can easily judge the &quot;chances&quot; that the player is a troll before we even see the report:
+
+![image|685x262](upload://8gAxb9fhk1YW5BboFmMYz120h1h.png)  
+
+Although we don&#39;t use this information, alone, to issue disciplinary action -- it definitely helps display likelyhood.
+
+We also note your reported-to-games-played ratio. Even after salt reports, the average % is between 1~2%.
+
+___
+
+## Hierarchy
+All reports are **100% human reviewed** before a disciplinary action is issued. We use a laddered escalation  system of **volunteers** to help aid the human reviews of reports, all hand-chosen by í42 staff:
+
+* ![image|50x50](upload://ryQcTBzY8C3e5ShA4LB1nB1o1Ps.jpg)  **Guide**
+The best community member volunteers were curated to help others. They may often be found hanging out in [Discord&#39;s](https://discord.gg/tol) **#ask-a-guide** to answer questions to new players, helps with community activities, and also helps review reports to make *suggestions*. They submit these suggestions and pass them along to a Judge+
+
+* ![image|50x50](upload://vBZcbsj3Ox68MrefsAdB3eIIgg3.jpg)  **Judge**
+Promoted Guide volunteers that have been with us for a long time and have done exceptionally well with reports, generally 18+ years of age, and a moderator candidate. These volunteer Judges have the ability to **FYI, warn, &amp; suspend (lower-tier)**. For anything beyond this, the report is further escalated to a Mod+.
+
+* ![image|50x50](upload://cV1GWbA9x4CVdxgpBuH1Q7xX7Wa.jpg) **í42-Moderator**
+The right-hand of Imperium42 staff members, these volunteers are the best of the best Judges, hand-chosen, and generally only selected after months of service as a Judge. These moderators are extremely active, deeply participates in the community, and can handle higher-tier suspensions, unbans (appeals), and can even investigate live games for emergencies.
+
+* ![image|50x50](upload://qNEvZR3Paiu0Yquv82QWKqqrEcd.jpg)  **í42-Staff**
+For higher-tier suspensions, paid staff members (non-volunteer devs) must approve *or* have the favor of *multiple* mods for approval. This includes permanent bans.
+
+___
+
+## Types of Disciplinary Actions
+By escalating order:
+
+1. **Warning** - This is official and recorded. Repeating this action may result in a suspension! These only show in the lobby.
+
+![image|477x317](upload://wJWHxi1bHHMRatSIK7FZ3hPzHSN.jpg) 
+
+2. **Suspension** - Closes the game and prevents further access beyond the login screen until the suspension is lifted. These can even show in-game. Generally, the options are:
+
+* 3d
+* 7d
+* 15d
+* 30d
+* Permanent (10y)
+
+Although is the general scale, repeated offenses from the same category and severity can skip tiers, especially if done intentionally.
+
+![image|385x269](upload://y6U1qvpCHeLFxUcCxA2AjsK9eaq.png) 
+
+___
+
+## Evidence + The Report Handling Flow
+
+When a Guide+ reviews reports to make a verdict, this is what it looks like:
+
+https://i.imgur.com/DamHvhI.png
+
+We have a huge array of logs, filters, report/action history, match info (including the real trollbox authors, whispers, logs), and more. 
+
+![image|256x124](upload://wjnV1JjeYAqa2dzOp5eY4cPITi9.png) 
+
+If the user received a **suggestion** from a Guide, we post progress and summary in a secret [Discord](https://discord.gg/tol) channel with restricted access so that other volunteers may see progress + so that we can quickly act on those, manually, if need. Reports by Judges+ prioritize already-suggested actions to swiftly assist in serving out a verdict. Guides+ see this:
+
+![image|408x117](upload://lByVE5nP07tt3rQnRVLeNEncW8V.png) 
+
+If the user receives a **suspension** by a Judge+, we also provide proof of action within the Discord **#justice** channel so players know their reports are meaningful [color=red](Warning: This channel sometimes contains NSFW evidence)[/color]:
+
+![image|640x500](upload://1NxgNOznKc9DT6oJ8atfnAiWnDF.jpg) 
+Judges+ see this:
+![image|690x99](upload://mU805gD71wDsrunb80EvnuWp9fF.png) 
+
+### Justice Channel Improvements(+5/1/2019)
+
+* You will now see a users warn/ban history. If you&#39;re wondering why someone got suspended for something seemingly small, it may be because they were previously warned/suspended before.
+* Spoilers are now detected and masked with a *spoiler* warning.
+* Obscene deathnotes are now detected and masked with a *censored* warning.
+
+## Incentives (+1/15/2019)
+As of patch `v2.1.1`, there is now a higher-tier of _Guide_ called **Report Squad**, a Discord-exclusive role. Discord roles now sync in-game and may offer +gp incentives to *Report Squad* members and *Judges*. 
+
+[color=green]**\*Note that innocent cases reward just as much gold as guilty cases: If corruption were to occur, these folks would more likely &quot;inno&quot; cases rather than guilty due to the sheer amount of time saved.**[/color]
+
+![image|217x61](upload://zaBozME2fhjaO2UtTqnTeFJSPyo.png) 
+
+In order to obtain Report Squad, a Guide must continuously prove worthy of the promotion after numerous report resolutions that were both accurate and just (as deemed by the Mod+ team).
+
+* Report Squad members automatically earn **50gp** per report
+* Judges automatically earn **75gp** per report.
+
+# Ban Evasions
+
+We have alt detection: If a suspended player tries to bypass this, they will receive a 30d ban on the evasion account (which will extend to the main account) and be flagged for having a banned alt.
+
+## Emergencies
+
+We have 24/7 support on our [Discord](https://discord.gg/tol) for really bad &quot;fix it now&quot; cases. For this, players may ping a @moderator or @Judge to deal with the action. While reports at the end of the game give us the whole story, sometimes a screenshot will suffice. 
+
+Judges+ have access to quick, Discord actions of in-game moderation.
+
+![image|193x74](upload://mvv8MT9UxT2VroSEtxakX0HX6K6.png) 
+
+___
+
+## What happens to fake/salt reports?
+
+They backfire. Disciplinary action will take a hit on the _reporter_, instead, if intentional. We&#39;ll know~
+
+___
+
+## Want to become a Guide+?
+Simply participate in our community, _help_ others instead of troll, and be active in our Discord (especially in **#ask-a-guide**). There is no formal application -- we&#39;ll come to _you_ with an invite :slight_smile: 
+
+___
+
+## Misc
+* **Terms of Service + Privacy Policy + GDPR Info** can be viewed @ 
+https://toli.es/legal
+
+* **Suspension/Ban FAQ** can be found @ 
+http://throneofli.es/banfaq
+
+* **Old report/mod system** can be found @
+https://forum.throneoflies.com/t/heres-what-happens-after-you-report-a-player-your-reports-matter/49294</description>
+    
+    <lastBuildDate>Thu, 02 May 2019 06:50:05 +0000</lastBuildDate>
+    <category>Official Announcements</category>
+    <atom:link href="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Report/Mod System v2.0 - Transparent Practices</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <h3>Justice Channel Improvements(+5/1/2019)</h3>
+<ul>
+<li>You will now see a users warn/ban history. If you’re wondering why someone got suspended for something seemingly small, it may be because they were previously warned/suspended before.</li>
+<li>Spoilers are now detected and masked with a <em>spoiler</em> warning (for both image previews and text).</li>
+</ul>
+          <p><a href="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/23</link>
+        <pubDate>Wed, 01 May 2019 08:07:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71347-23</guid>
+        <source url="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347.rss">Report/Mod System v2.0 - Transparent Practices</source>
+      </item>
+      <item>
+        <title>Report/Mod System v2.0 - Transparent Practices</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Simple.</p>
+<p>2018+10=3018</p>
+<p>Duh</p>
+          <p><a href="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/22</link>
+        <pubDate>Sat, 16 Feb 2019 17:25:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71347-22</guid>
+        <source url="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347.rss">Report/Mod System v2.0 - Transparent Practices</source>
+      </item>
+      <item>
+        <title>Report/Mod System v2.0 - Transparent Practices</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>Ah</p>
+<p>Hence why I had no game ban</p>
+<p>Makes perfect sense!</p>
+          <p><a href="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/21</link>
+        <pubDate>Sat, 16 Feb 2019 14:02:15 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71347-21</guid>
+        <source url="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347.rss">Report/Mod System v2.0 - Transparent Practices</source>
+      </item>
+      <item>
+        <title>Report/Mod System v2.0 - Transparent Practices</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>Forum and community bans are PERMANENT perma. This semi-private community is a privilege, but in game is purchased with money (usually), and so we are more lenient there (since it becomes a bit awkward to ban someone from our service if they paid for the game).</p>
+          <p><a href="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/20</link>
+        <pubDate>Sat, 16 Feb 2019 10:32:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71347-20</guid>
+        <source url="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347.rss">Report/Mod System v2.0 - Transparent Practices</source>
+      </item>
+      <item>
+        <title>Report/Mod System v2.0 - Transparent Practices</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>Wait wait wait</p>
+<p>If one year bans were the old “permaban”</p>
+<p>And ten-year bans are the new permaban</p>
+<p>why was I banned until 3018 <img src="/images/emoji/twitter/thinking.png?v=9" title=":thinking:" class="emoji" alt=":thinking:"></p>
+<p><small><img src="/images/emoji/twitter/stuck_out_tongue.png?v=9" title=":stuck_out_tongue:" class="emoji only-emoji" alt=":stuck_out_tongue:"></small></p>
+          <p><a href="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/19</link>
+        <pubDate>Sat, 16 Feb 2019 05:12:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71347-19</guid>
+        <source url="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347.rss">Report/Mod System v2.0 - Transparent Practices</source>
+      </item>
+      <item>
+        <title>Report/Mod System v2.0 - Transparent Practices</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>Update:</strong> Starting next patch, 1-year bans will now become “permabans” (10 years) after studying the recent 1-year ban folks returning, to only find the greater majority get banned again on the same day of returning.</p>
+          <p><a href="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/18</link>
+        <pubDate>Sat, 16 Feb 2019 04:36:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71347-18</guid>
+        <source url="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347.rss">Report/Mod System v2.0 - Transparent Practices</source>
+      </item>
+      <item>
+        <title>Report/Mod System v2.0 - Transparent Practices</title>
+        <dc:creator><![CDATA[TryphonX]]></dc:creator>
+        <description><![CDATA[
+            <p>This one is even less right though <img src="/images/emoji/twitter/thinking.png?v=9" title=":thinking:" class="emoji" alt=":thinking:">We don’t review players, we review the reports.</p>
+<p>Something like “Someone just received an in-game suspension after a report was reviewed” would kinda make more sense, even though the current one is fine imo</p>
+          <p><a href="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/17</link>
+        <pubDate>Sat, 18 Aug 2018 11:01:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71347-17</guid>
+        <source url="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347.rss">Report/Mod System v2.0 - Transparent Practices</source>
+      </item>
+      <item>
+        <title>Report/Mod System v2.0 - Transparent Practices</title>
+        <dc:creator><![CDATA[scaremenow]]></dc:creator>
+        <description><![CDATA[
+            <p>In the Discord, The Banhammer should say</p>
+<p>“Someone just received an in-game suspension after <strong>being reviewed</strong>, following a player report” or something.</p>
+<p>The current sentence feels like the player who did the reviewing got the suspension…</p>
+          <p><a href="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/16</link>
+        <pubDate>Fri, 17 Aug 2018 22:48:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71347-16</guid>
+        <source url="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347.rss">Report/Mod System v2.0 - Transparent Practices</source>
+      </item>
+      <item>
+        <title>Report/Mod System v2.0 - Transparent Practices</title>
+        <dc:creator><![CDATA[Insanity]]></dc:creator>
+        <description><![CDATA[
+            <p>So I decided to search up the image of Suspension and Warning… and I got this:</p>
+<p><img src="/uploads/default/original/2X/3/36971ef1e8c476e01244e25caa0d188869089d25.jpeg" alt="yOm0ELz" data-base62-sha1="7MVyCsRdQUmPklEyef2xPs1CKQR" width="690" height="319"><br>
+<img src="/uploads/default/original/2X/e/e8a939856b158f599160d4187dc497e292c444a9.jpeg" alt="kt8RbRW" data-base62-sha1="xcdkNbcsI6KovKnSgFu6yXMGj6p" width="281" height="500"></p>
+          <p><a href="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/15</link>
+        <pubDate>Fri, 17 Aug 2018 08:17:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71347-15</guid>
+        <source url="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347.rss">Report/Mod System v2.0 - Transparent Practices</source>
+      </item>
+      <item>
+        <title>Report/Mod System v2.0 - Transparent Practices</title>
+        <dc:creator><![CDATA[CheesyKnives]]></dc:creator>
+        <description><![CDATA[
+            <p>mhmm</p>
+          <p><a href="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/14</link>
+        <pubDate>Mon, 06 Aug 2018 19:35:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71347-14</guid>
+        <source url="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347.rss">Report/Mod System v2.0 - Transparent Practices</source>
+      </item>
+      <item>
+        <title>Report/Mod System v2.0 - Transparent Practices</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <p>Thank you Kanye, very cool</p>
+          <p><a href="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/13</link>
+        <pubDate>Mon, 06 Aug 2018 06:17:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71347-13</guid>
+        <source url="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347.rss">Report/Mod System v2.0 - Transparent Practices</source>
+      </item>
+      <item>
+        <title>Report/Mod System v2.0 - Transparent Practices</title>
+        <dc:creator><![CDATA[Shrimpy]]></dc:creator>
+        <description><![CDATA[
+            <p>Awesome, very interesting!</p>
+          <p><a href="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/12</link>
+        <pubDate>Sun, 05 Aug 2018 23:53:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71347-12</guid>
+        <source url="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347.rss">Report/Mod System v2.0 - Transparent Practices</source>
+      </item>
+      <item>
+        <title>Report/Mod System v2.0 - Transparent Practices</title>
+        <dc:creator><![CDATA[Shurian]]></dc:creator>
+        <description><![CDATA[
+            <p>Whoa! They are going really transparent with all these. I don’t see a single thing I can’t remember.(ex-Guide) The developers are going all out, so do give them a thumbs up!</p>
+<p>Just to let the devs know: This transparency won’t go unnoticed. This is a good practice in my opinion and I think you guys will be able to weed out toxicism with this. Keep it up!</p>
+          <p><a href="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/11</link>
+        <pubDate>Sun, 05 Aug 2018 23:41:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71347-11</guid>
+        <source url="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347.rss">Report/Mod System v2.0 - Transparent Practices</source>
+      </item>
+      <item>
+        <title>Report/Mod System v2.0 - Transparent Practices</title>
+        <dc:creator><![CDATA[Sam17z]]></dc:creator>
+        <description><![CDATA[
+            <p>no u</p>
+          <p><a href="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/10</link>
+        <pubDate>Sun, 05 Aug 2018 18:18:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71347-10</guid>
+        <source url="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347.rss">Report/Mod System v2.0 - Transparent Practices</source>
+      </item>
+      <item>
+        <title>Report/Mod System v2.0 - Transparent Practices</title>
+        <dc:creator><![CDATA[Captain]]></dc:creator>
+        <description><![CDATA[
+            <p>Don’t let me use my mirror reflection.</p>
+          <p><a href="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/9</link>
+        <pubDate>Sun, 05 Aug 2018 18:10:33 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71347-9</guid>
+        <source url="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347.rss">Report/Mod System v2.0 - Transparent Practices</source>
+      </item>
+      <item>
+        <title>Report/Mod System v2.0 - Transparent Practices</title>
+        <dc:creator><![CDATA[Memesky]]></dc:creator>
+        <description><![CDATA[
+            <p><img src="/uploads/default/original/2X/f/f36fe5ee45c81b21c94a120c8b4c549ecc56458b.png" alt="Missile_AAI_2-1" data-base62-sha1="yJxLuDSYK4s0y4guVrxJULi1LcL" width="100" height="100"></p>
+          <p><a href="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/8</link>
+        <pubDate>Sun, 05 Aug 2018 18:06:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71347-8</guid>
+        <source url="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347.rss">Report/Mod System v2.0 - Transparent Practices</source>
+      </item>
+      <item>
+        <title>Report/Mod System v2.0 - Transparent Practices</title>
+        <dc:creator><![CDATA[Polarthief]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Memesky" data-post="6" data-topic="71347" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/memesky/40/6386_2.png" class="avatar"> Memesky:</div>
+<blockquote>
+<p>By the way,is it possible to reveal something like unseen members in logs when dead,then change em while dead and “fool” the report system’s abillity to view old logs?</p>
+</blockquote>
+</aside>
+<p>I’m sure they have a way to check the history of logs. If not, willing to bet your “logs when dead” are logged.</p>
+<p>PS: Your avatar of Missile is too cute <img src="/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"></p>
+          <p><a href="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/7</link>
+        <pubDate>Sun, 05 Aug 2018 17:54:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71347-7</guid>
+        <source url="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347.rss">Report/Mod System v2.0 - Transparent Practices</source>
+      </item>
+      <item>
+        <title>Report/Mod System v2.0 - Transparent Practices</title>
+        <dc:creator><![CDATA[Memesky]]></dc:creator>
+        <description><![CDATA[
+            <p>By the way,is it possible to reveal something like unseen members in logs when dead,then change em while dead and “fool” the report system’s abillity to view old logs?</p>
+          <p><a href="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/6</link>
+        <pubDate>Sun, 05 Aug 2018 17:50:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71347-6</guid>
+        <source url="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347.rss">Report/Mod System v2.0 - Transparent Practices</source>
+      </item>
+      <item>
+        <title>Report/Mod System v2.0 - Transparent Practices</title>
+        <dc:creator><![CDATA[Memesky]]></dc:creator>
+        <description><![CDATA[
+            <p>Ur better than last report system <img src="/images/emoji/twitter/ok_hand.png?v=9" title=":ok_hand:" class="emoji" alt=":ok_hand:"> <img src="/images/emoji/twitter/joy.png?v=9" title=":joy:" class="emoji" alt=":joy:"> <img src="/images/emoji/twitter/ok_hand.png?v=9" title=":ok_hand:" class="emoji" alt=":ok_hand:"></p>
+          <p><a href="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/5</link>
+        <pubDate>Sun, 05 Aug 2018 17:44:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71347-5</guid>
+        <source url="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347.rss">Report/Mod System v2.0 - Transparent Practices</source>
+      </item>
+      <item>
+        <title>Report/Mod System v2.0 - Transparent Practices</title>
+        <dc:creator><![CDATA[Captain]]></dc:creator>
+        <description><![CDATA[
+            <p>It seems better than last report system.Keep up the good job.</p>
+          <p><a href="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/4</link>
+        <pubDate>Sun, 05 Aug 2018 17:42:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71347-4</guid>
+        <source url="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347.rss">Report/Mod System v2.0 - Transparent Practices</source>
+      </item>
+      <item>
+        <title>Report/Mod System v2.0 - Transparent Practices</title>
+        <dc:creator><![CDATA[Memesky]]></dc:creator>
+        <description><![CDATA[
+            <p>This is very interesting to look at. It also seems pretty good. Good job!</p>
+          <p><a href="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/3</link>
+        <pubDate>Sun, 05 Aug 2018 17:39:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71347-3</guid>
+        <source url="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347.rss">Report/Mod System v2.0 - Transparent Practices</source>
+      </item>
+      <item>
+        <title>Report/Mod System v2.0 - Transparent Practices</title>
+        <dc:creator><![CDATA[Polarthief]]></dc:creator>
+        <description><![CDATA[
+            <p>Someone sure loves cheese. (check the Imgur links if confused)</p>
+          <p><a href="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/2</link>
+        <pubDate>Sun, 05 Aug 2018 17:21:54 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71347-2</guid>
+        <source url="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347.rss">Report/Mod System v2.0 - Transparent Practices</source>
+      </item>
+      <item>
+        <title>Report/Mod System v2.0 - Transparent Practices</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p><img src="https://forum.throneoflies.com/uploads/default/original/3X/7/7/7719931c85ef2b4c5ec902522fe77d1cbf432ffa.png" alt="image" data-base62-sha1="gZBBYatoMrmx0BqLxJ3EMLPWLfs" width="292" height="78"></p>
+<p>( Short URL = <a href="https://toli.es/mod">https://toli.es/mod</a> )</p>
+<hr>
+<h2>Introduction</h2>
+<p>Whenever you report a player at the end of a game, it goes straight into our report queue for moderation. We can automatically detect how high of a priority the report based on numerous aspects, one especially being report history and patterns of behavior that we can now detect automatically to bump/adjust these priority levels. This information we have access to can be found within our <a href="https://www.ThroneOfLies.com/legal">privacy policy</a>.</p>
+<hr>
+<h2>2020 Update</h2>
+<p>See our 2-years of moderation stats/analysis:<br>
+</p><aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png" class="site-icon" width="32" height="32">
+      <a href="https://medium.com/imperium42-game-studio/gamedev-player-moderation-charts-2020-9c243c2566d0" target="_blank" rel="noopener" title="08:30AM - 05 March 2020">Medium – 5 Mar 20</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:603/500;"><img src="https://miro.medium.com/max/750/1*1-egHN7xCRZ7Ejm_pEdIkw.png" class="thumbnail" width="603" height="500"></div>
+
+<h3><a href="https://medium.com/imperium42-game-studio/gamedev-player-moderation-charts-2020-9c243c2566d0" target="_blank" rel="noopener">Gamedev Player Moderation Charts (2020)</a></h3>
+
+<p>Throne of Lies shares online moderation stats from game players over a 2-year timeframe.</p>
+
+  <p><span class="label1">Reading time: 4 min read</span>
+    </p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<hr>
+<h2>Player History</h2>
+<p>We can easily judge the “chances” that the player is a troll before we even see the report:</p>
+<p><img src="https://forum.throneoflies.com/uploads/default/original/3X/3/9/39f17501337b174d6b4aa43dd0f092d03a525653.png" alt="image" data-base62-sha1="8gAxb9fhk1YW5BboFmMYz120h1h" width="685" height="262"></p>
+<p>Although we don’t use this information, alone, to issue disciplinary action – it definitely helps display likelyhood.</p>
+<p>We also note your reported-to-games-played ratio. Even after salt reports, the average % is between 1~2%.</p>
+<hr>
+<h2>Hierarchy</h2>
+<p>All reports are <strong>100% human reviewed</strong> before a disciplinary action is issued. We use a laddered escalation  system of <strong>volunteers</strong> to help aid the human reviews of reports, all hand-chosen by í42 staff:</p>
+<ul>
+<li>
+<p><img src="https://forum.throneoflies.com/uploads/default/original/2X/c/c12af7888dfef286487bfed25e9396180364e66a.jpg" alt="image" data-base62-sha1="ryQcTBzY8C3e5ShA4LB1nB1o1Ps" width="50" height="50">  <strong>Guide</strong><br>
+The best community member volunteers were curated to help others. They may often be found hanging out in <a href="https://discord.gg/tol">Discord’s</a> <strong><span class="hashtag">#ask-a-guide</span></strong> to answer questions to new players, helps with community activities, and also helps review reports to make <em>suggestions</em>. They submit these suggestions and pass them along to a Judge+</p>
+</li>
+<li>
+<p><img src="https://forum.throneoflies.com/uploads/default/original/2X/d/dd8eac4bc5562145ebd1169459d57f04b5497b03.jpg" alt="image" data-base62-sha1="vBZcbsj3Ox68MrefsAdB3eIIgg3" width="50" height="50">  <strong>Judge</strong><br>
+Promoted Guide volunteers that have been with us for a long time and have done exceptionally well with reports, generally 18+ years of age, and a moderator candidate. These volunteer Judges have the ability to <strong>FYI, warn, &amp; suspend (lower-tier)</strong>. For anything beyond this, the report is further escalated to a Mod+.</p>
+</li>
+<li>
+<p><img src="https://forum.throneoflies.com/uploads/default/original/2X/5/5a8c5c3239a7a713453137354d8ebeaa5301a30a.jpg" alt="image" data-base62-sha1="cV1GWbA9x4CVdxgpBuH1Q7xX7Wa" width="50" height="50"> <strong>í42-Moderator</strong><br>
+The right-hand of Imperium42 staff members, these volunteers are the best of the best Judges, hand-chosen, and generally only selected after months of service as a Judge. These moderators are extremely active, deeply participates in the community, and can handle higher-tier suspensions, unbans (appeals), and can even investigate live games for emergencies.</p>
+</li>
+<li>
+<p><img src="https://forum.throneoflies.com/uploads/default/original/2X/b/bbd568fef9bb648bd86570e995a5ae171e45e89d.jpg" alt="image" data-base62-sha1="qNEvZR3Paiu0Yquv82QWKqqrEcd" width="50" height="50">  <strong>í42-Staff</strong><br>
+For higher-tier suspensions, paid staff members (non-volunteer devs) must approve <em>or</em> have the favor of <em>multiple</em> mods for approval. This includes permanent bans.</p>
+</li>
+</ul>
+<hr>
+<h2>Types of Disciplinary Actions</h2>
+<p>By escalating order:</p>
+<ol>
+<li>
+<strong>Warning</strong> - This is official and recorded. Repeating this action may result in a suspension! These only show in the lobby.</li>
+</ol>
+<p><img src="https://forum.throneoflies.com/uploads/default/original/2X/e/e577306911d51afbd40c050226c53961839c0d29.jpg" alt="image" data-base62-sha1="wJWHxi1bHHMRatSIK7FZ3hPzHSN" width="477" height="317"></p>
+<ol start="2">
+<li>
+<strong>Suspension</strong> - Closes the game and prevents further access beyond the login screen until the suspension is lifted. These can even show in-game. Generally, the options are:</li>
+</ol>
+<ul>
+<li>3d</li>
+<li>7d</li>
+<li>15d</li>
+<li>30d</li>
+<li>Permanent (10y)</li>
+</ul>
+<p>Although is the general scale, repeated offenses from the same category and severity can skip tiers, especially if done intentionally.</p>
+<p><img src="https://forum.throneoflies.com/uploads/default/original/3X/e/f/ef11b17809717fa9d616408d12ee2957ce83ff96.png" alt="image" data-base62-sha1="y6U1qvpCHeLFxUcCxA2AjsK9eaq" width="385" height="269"></p>
+<hr>
+<h2>Evidence + The Report Handling Flow</h2>
+<p>When a Guide+ reviews reports to make a verdict, this is what it looks like:</p>
+<p>                    <a href="https://i.imgur.com/DamHvhI.png" target="_blank" rel="noopener" class="onebox">
+            <img src="https://i.imgur.com/DamHvhI.png" width="690" height="365">
+          </a>
+
+</p>
+<p>We have a huge array of logs, filters, report/action history, match info (including the real trollbox authors, whispers, logs), and more.</p>
+<p><img src="https://forum.throneoflies.com/uploads/default/original/2X/e/e2768f1a8cfc31a5b0708ed3718a10e6caffa591.png" alt="image" data-base62-sha1="wjnV1JjeYAqa2dzOp5eY4cPITi9" width="256" height="124"></p>
+<p>If the user received a <strong>suggestion</strong> from a Guide, we post progress and summary in a secret <a href="https://discord.gg/tol">Discord</a> channel with restricted access so that other volunteers may see progress + so that we can quickly act on those, manually, if need. Reports by Judges+ prioritize already-suggested actions to swiftly assist in serving out a verdict. Guides+ see this:</p>
+<p><img src="https://forum.throneoflies.com/uploads/default/original/2X/9/976cac65c5357fed3f0ed3c7c2b55a9ca0d61f61.png" alt="image" data-base62-sha1="lByVE5nP07tt3rQnRVLeNEncW8V" width="408" height="117"></p>
+<p>If the user receives a <strong>suspension</strong> by a Judge+, we also provide proof of action within the Discord <strong><span class="hashtag">#justice</span></strong> channel so players know their reports are meaningful <font color="red">(Warning: This channel sometimes contains NSFW evidence)</font>:</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/2X/0/0c9bade71be43df555562c06cf344ec73f060b07.jpg" data-download-href="https://forum.throneoflies.com/uploads/default/0c9bade71be43df555562c06cf344ec73f060b07" title="image"><img src="https://forum.throneoflies.com/uploads/default/original/2X/0/0c9bade71be43df555562c06cf344ec73f060b07.jpg" alt="image" data-base62-sha1="1NxgNOznKc9DT6oJ8atfnAiWnDF" width="640" height="500" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/2X/0/0c9bade71be43df555562c06cf344ec73f060b07_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">744×581 156 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div><br>
+Judges+ see this:<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/a/0/a0881b2d2bd8c59c40b7edc01d409e896c6b9347.png" data-download-href="https://forum.throneoflies.com/uploads/default/a0881b2d2bd8c59c40b7edc01d409e896c6b9347" title="image"><img src="https://forum.throneoflies.com/uploads/default/optimized/3X/a/0/a0881b2d2bd8c59c40b7edc01d409e896c6b9347_2_690x99.png" alt="image" data-base62-sha1="mU805gD71wDsrunb80EvnuWp9fF" width="690" height="99" srcset="https://forum.throneoflies.com/uploads/default/optimized/3X/a/0/a0881b2d2bd8c59c40b7edc01d409e896c6b9347_2_690x99.png, https://forum.throneoflies.com/uploads/default/original/3X/a/0/a0881b2d2bd8c59c40b7edc01d409e896c6b9347.png 1.5x, https://forum.throneoflies.com/uploads/default/original/3X/a/0/a0881b2d2bd8c59c40b7edc01d409e896c6b9347.png 2x" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/a/0/a0881b2d2bd8c59c40b7edc01d409e896c6b9347_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">919×133 20.9 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div></p>
+<h3>Justice Channel Improvements(+5/1/2019)</h3>
+<ul>
+<li>You will now see a users warn/ban history. If you’re wondering why someone got suspended for something seemingly small, it may be because they were previously warned/suspended before.</li>
+<li>Spoilers are now detected and masked with a <em>spoiler</em> warning.</li>
+<li>Obscene deathnotes are now detected and masked with a <em>censored</em> warning.</li>
+</ul>
+<h2>Incentives (+1/15/2019)</h2>
+<p>As of patch <code>v2.1.1</code>, there is now a higher-tier of <em>Guide</em> called <strong>Report Squad</strong>, a Discord-exclusive role. Discord roles now sync in-game and may offer +gp incentives to <em>Report Squad</em> members and <em>Judges</em>.</p>
+<p><font color="green"><strong>*Note that innocent cases reward just as much gold as guilty cases: If corruption were to occur, these folks would more likely “inno” cases rather than guilty due to the sheer amount of time saved.</strong></font></p>
+<p><img src="https://forum.throneoflies.com/uploads/default/original/2X/f/f67eed2c267735ca784ebbb43ad531613c201f20.png" alt="image" data-base62-sha1="zaBozME2fhjaO2UtTqnTeFJSPyo" width="217" height="61"></p>
+<p>In order to obtain Report Squad, a Guide must continuously prove worthy of the promotion after numerous report resolutions that were both accurate and just (as deemed by the Mod+ team).</p>
+<ul>
+<li>Report Squad members automatically earn <strong>50gp</strong> per report</li>
+<li>Judges automatically earn <strong>75gp</strong> per report.</li>
+</ul>
+<h1>Ban Evasions</h1>
+<p>We have alt detection: If a suspended player tries to bypass this, they will receive a 30d ban on the evasion account (which will extend to the main account) and be flagged for having a banned alt.</p>
+<h2>Emergencies</h2>
+<p>We have 24/7 support on our <a href="https://discord.gg/tol">Discord</a> for really bad “fix it now” cases. For this, players may ping a <span class="mention">@moderator</span> or <span class="mention">@Judge</span> to deal with the action. While reports at the end of the game give us the whole story, sometimes a screenshot will suffice.</p>
+<p>Judges+ have access to quick, Discord actions of in-game moderation.</p>
+<p><img src="https://forum.throneoflies.com/uploads/default/original/2X/9/9dbf7319694fe15512acb719f02833f366b9afda.png" alt="image" data-base62-sha1="mvv8MT9UxT2VroSEtxakX0HX6K6" width="193" height="74"></p>
+<hr>
+<h2>What happens to fake/salt reports?</h2>
+<p>They backfire. Disciplinary action will take a hit on the <em>reporter</em>, instead, if intentional. We’ll know~</p>
+<hr>
+<h2>Want to become a Guide+?</h2>
+<p>Simply participate in our community, <em>help</em> others instead of troll, and be active in our Discord (especially in <strong><span class="hashtag">#ask-a-guide</span></strong>). There is no formal application – we’ll come to <em>you</em> with an invite <img src="https://forum.throneoflies.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<hr>
+<h2>Misc</h2>
+<ul>
+<li>
+<p><strong>Terms of Service + Privacy Policy + GDPR Info</strong> can be viewed @<br>
+<a href="https://toli.es/legal">https://toli.es/legal</a></p>
+</li>
+<li>
+<p><strong>Suspension/Ban FAQ</strong> can be found @<br>
+<a href="http://throneofli.es/banfaq">http://throneofli.es/banfaq</a></p>
+</li>
+<li>
+<p><strong>Old report/mod system</strong> can be found @<br>
+<a href="https://forum.throneoflies.com/t/heres-what-happens-after-you-report-a-player-your-reports-matter/49294" class="inline-onebox">Here's what happens after you report a player: Your reports MATTER!</a></p>
+</li>
+</ul>
+          <p><a href="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347/1</link>
+        <pubDate>Sun, 05 Aug 2018 17:13:15 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71347-1</guid>
+        <source url="https://forum.throneoflies.com/t/report-mod-system-v2-0-transparent-practices/71347.rss">Report/Mod System v2.0 - Transparent Practices</source>
+      </item>
+  </channel>
+</rss>

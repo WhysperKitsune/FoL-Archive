@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Few Complex Suggestions</title>
+    <link>https://forum.throneoflies.com/t/few-complex-suggestions/3642</link>
+    <description># Some Generic Ideas For ToL&#39;s Future
+
+* **Empire System:**
+
+A clan styled system, people being able to make groups that give them a clan tag type thing in lobbies. With this, people can put their Empire buddies on top of others on their friends list. The tag would show up in lobbies like:
+``[i42] Plex``
+ You have the potential to add an option to &quot;Quick Invite Empire&quot; to a private lobby, so they all get an instant invite button while on the main menu rather than waiting for a group invite code. 
+I hope most of this makes sense. In the Empire, you could also have it show people in that Empire the game statistics of each member, and compare things like &quot;Hours Played&quot; or &quot;Games Played&quot;
+
+----
+
+* **Achievements**
+
+The Achievements is another basic thing, and I just came up with an example list of the more basic achievements, which I&#39;m calling &quot;Bounties&quot;
+
+[details=Example list]
+Bounties:
+
+Class Specific Bounties:
+Win a game as *class*
+Win 5 games as *class*
+Win 10 games as *class*
+Win 25 games as *class*
+Win 50 games as *class*
+Win 100 games as *class*
+
+Faction Specific Bounties:
+Win a game as *faction*
+Win 5 games as *faction*
+Win 10 games as *faction*
+Win 25 games as *faction*
+Win 50 games as *faction*
+
+Secret Bounties:
+Be converted into Unseen
+Be brainwashed into Cult
+Be possessed by a Possessor
+Be reaped by a Reaper
+Be Occupied by a Butler or Fool
+Be cured of Poison
+Be cured of Bleeding
+Be guarded by a King
+Be saved by a King
+Be guarded by a Merc
+Be contracted by a Merc
+[/details]
+
+----
+
+* **I was thinking about that whole &quot;Ranked&quot; thing**
+
+I had a &quot;League&quot; mode in mind which didn&#39;t rank people on their wins or losses but instead it scored people on their actions against others
+
+I&#39;ve got a big chart that would determine points:
+
+[details=BD Points]
+**Prince:**
+Imprison:
+BD: 1
+Unseen/Cult: 3
+Neutral: 2
+
+Execute:
+BD: -1
+Unseen/Cult: 2
+Neutral: 1
+
+---------
+
+**Knight**
+Sacrifice:
+BD: 2
+Unseen/Cult: 0
+Neutral: 1
+
+Save someone from death:
+B: 3
+Unseen/Cult: 1
+Neutral: 2
+
+Cold Steel:
+BD: -1
+Unseen/Cult: 2
+Neutral: 1
+
+---------
+
+**Hunter**
+Wolf:
+BD: -1
+Unseen/Cult: 2
+Neutral: 1
+
+Traps:
+BD: 0
+Unseen/Cult: 2
+Neutral: 1
+
+Retribution:
+BD: 0
+Unseen/Cult: 3
+Neutral: 1
+
+---------
+
+**Sheriff:**
+Investigation:
+BD: 1
+Unseen: 3
+Neutral: 0
+
+Scout finds conversion: 3
+
+---------
+
+**Paladin:**
+Test Faith:
+BD: 1
+Cult: 3
+Neutral: 0
+
+Smite kills Cult Leader: 3
+
+---------
+
+**Observer:**
+Follow: 1 (for every visit/visitor)
+Peek:
+BD: 1
+Unseen/Cult: 3
+Neutral: 2
+
+---------
+
+**Princess:**
+Flirt: 2 (for every use)
+Wisp:
+Alive: 1 (for every visitor)
+Dead: 2 (for every visitor)
+
+---------
+
+**Psychic:**
+Misdirect:
+BD vote Non-BD: 2
+BD vote BD: 0
+Non-BD vote Non-BD: 4
+
+Telepathy: 1 (for use)
+Link Mind: 2 (for use)
+
+---------
+
+**Noble:**
+Crier: 1 (for use)
+Order:
+On BD: 0
+On Unseen/Cult: 2
+On neutral: 1
+
+Maid Spy: 1 (for every whisper)
+
+---------
+
+**Physician:**
+Heal:
+Heal BD: 2
+Heal BD (poison): 3
+Heal BD (bleed): 3
+
+Heal Unseen/Cult: 0
+Heal Unseen/Cult (bleed): -1
+
+Heal Neutral: 1
+Heal Neutral (poison): 2
+Heal Neutral (bleed): 2
+
+---------
+
+**Priest:**
+Revive: 
+Prince: 5
+Killer: 2
+Investigative: 3
+Social: 2
+Support: 2
+Offensive: 2
+
+---------
+
+**Drunk:**
+Debauch:
+Killer: 3
+Other: 2
+
+Party:
+BD: 1
+Unseen/Cult: 2
+Neutral: 2
+
+**Butler:**
+Wine:
+BD: 0
+Unseen/Cult: 2
+Neutral: 1
+
+Concentrated: 1 (for every visitor)
+Poison King: 
+Good: -1
+Neutral: 0
+Evil: 1
+[/details]
+
+[details=Unseen Points]
+**Mastermind**
+Convert: 2 (for successful conversion)
+Foresight: 2 (for finding convertible)
+Dirty Work: 1 (for using it)
+
+**Assassin**
+Assassinate/2for1:
+Killing BD: 2 
+Killing Neutral: 1
+Hitting Immune: 0
+
+Nightshade:
+Poison BD: 2
+Poison kills BD: 1
+Poison Neutral: 1
+Poison kills Neutral: 0
+
+Distract: 
+BD: 2
+Neutral: 1
+
+**Enforcer**
+Protection: 2 (for saving an Unseen)
+Frenzy: 1 (if Assassin Needed it)
+
+**Poacher**
+Bear: 
+BD: 2
+Neutral: 1
+
+Snare: 
+BD: 2
+Neutral: 1
+
+**Marshal**
+Expose: 1 (for use)
+Listen In: 2 (for use)
+Snoop: 1 (for use)
+
+**Nightwatch**
+Follow: 2 (for every visit/visitor)
+Watch Carefully:
+BD: 2
+Neutral: 1
+
+**Duchess**
+Stealth Slap: 
+BD: 2
+Neutral: 1
+
+Bat Eyelashes:
+BD: 3
+Neutral: 2
+
+Dark Wisp: 1 (if Unseen needed it)
+
+**Illusionist**
+Telepathy: 2 (for use)
+Misdirect:
+BD vote BD: 2
+BD vote Neutral: 1
+BD vote Unseen: 0
+Neutral vote BD: 2
+Neutral vote Unseen: 0
+Neutral vote Neutral: 1
+Unseen vote Unseen: -1
+Unseen vote BD: 2
+Unseen vote Neutral: 1
+
+Mind Warp:
+BDInvestigative: 3
+BDOther: 2
+Neutral: 1
+
+Mental Blur:
+BD: 2
+Neutral: 1
+
+**Aristocrat**
+Maid Spy: 1 (for every whisper)
+Crier: 1 (for use)
+Order:
+BD: 2
+Neutral: 1
+Unseen: 0
+
+**Herbalist**
+Drug: 
+BD: 2
+Neutral: 1
+
+Defile:
+Prince: 3
+BD: 2
+Neutral: 1
+
+**Soulcatcher**
+Bind Soul: 2 (for use)
+Collect Soul: 2 (for use)
+Unleash Souls: 1 (for each class)
+
+**Alchoholic**
+Debauchery:
+BD: 2
+Neutral: 1
+
+Hangover:
+BD: 2
+Neutral: 1
+
+**Servant**
+Wine:
+BD: 2
+Neutral: 1
+
+Concentrated: 1 (for every visitor)
+
+**Sellsword**
+Stonewall: 2 (if Unseen needed it)
+Revenge: 
+Kill BD: 3
+Kill Neutral: 1
+[/details]
+
+[details=Cult Points]
+**Cult Leader**
+Brainwash: 2 (for conversion)
+Eradicate:
+BD: 2
+Neutral: 1
+
+BloodOfMithras: 1 (for sacrifice)
+
+**Apostle**
+Eavesdrop: 1 (for every whisper)
+Faint Whispers: 2 (for use)
+Mind Warp:
+BD: 2
+Neutral: 1
+
+**Ritualist**
+Strength of Corax:
+BD: 2 (for every dead BD)
+Neutral: 1 (for every dead Neutral)
+
+Brotherhood: 2 (if Cult needed it)
+
+**Seeker**
+Expose: 1 (for use)
+Gaze:
+BD: 2
+Neutral: 1
+
+Identify:
+BD: 2
+Neutral: 1
+
+**Invoker**
+Bewilder:
+BD King: 2
+Neutral King: 1
+Cult King: 0
+
+Chains: 
+BD: 2
+Neutral: 1
+
+Strings:
+BD to BD: 2
+BD to Neutral: 1
+BD to Cult: 0
+Neutral to BD: 2
+Neutral to Neutral: 1
+Neutral to Cult: 0
+[/details]
+
+[details=Neutral Points]
+**Alchemist**
+Stoneskin: 2 (if needed)
+Emerald: 2 (if killed)
+Crimson: 2 (if healed)
+
+**Mercenary**
+1st Contract Survives: 3
+2nd Contract Survives: 2
+Guard: 2 (if needed)
+Rebound: 3 (if killed)
+
+**Fool**
+If Executed before Day 3: 4
+After Day 3: 2
+Trollbox: 1 (for use)
+Mojo: 2 (for use)
+Deceive: 3 (if investigated)
+
+**Scorned**
+If a target Executed before Day 3: 4
+After Day 3: 2
+Trollbox: 1 (for use)
+Frame: 2 (if they&#39;re investigated)
+
+**Possessor**
+Puppet Strings: 3 (if killed)
+Possess: 2 (if killed)
+
+**Reaper**
+Icy Touch: 1 (for use)
+Gather Darkness: 2 (if needed)
+Reap: 3 (if killed)
+[/details]
+[details=King Points]
+**Good King**
+Starter King Win: 4
+Guard: 
+BD: 2
+Neutral: 1
+Unseen/Cult: 0
+
+Allies:
+BD: 1
+NonBD: 2
+
+RoyalFinger:
+BD: 0
+Neutral: 1
+Unseen/Cult: 2
+
+DecideFate:
+Guilty-
+BD: -1
+Neutral: 1
+Unseen/Cult: 2
+
+Pardon:
+BD: 2
+Neutral: 0
+Unseen/Cult: -1
+
+**Evil King**
+Starter King Win: 4
+Guard: 
+BD: 0
+Neutral: 1
+Unseen/Cult: 2
+
+Allies:
+Unseen/Cult: 2
+NonUnseen/Cult: 1
+
+RoyalFinger:
+BD: 2
+Neutral: 1
+Unseen/Cult: 0
+
+DecideFate:
+Guilty-
+BD: 2
+Neutral: 1
+Unseen/Cult: -1
+
+Pardon:
+BD: -1
+Neutral: 0
+Unseen/Cult: 2
+
+
+**Neutral King**
+Starter King Win: 4
+Guard: 2 (for use)
+Allies: 2 (for use)
+RoyalFinger: 1 (for use)
+DecideFate: 1 (for use)
+[/details]
+[details=General Points]
+**Votes of Execution/Pardon**
+
+BD exe BD: -1
+BD exe Unseen/Cult: 1
+BD exe Neutral: 0
+
+BD pard BD: 2
+BD pard Unseen/Cult: -1
+BD pard Neutral: 0
+
+Unseen/Cult exe Unseen/Cult: 0
+Unseen/Cult exe Neutral: 1
+Unseen/Cult exe BD: 2
+
+Neutral: 1 point for every exe/pard
+
+**Any Abstains: 0 points**
+
+**Royal Blood**
+Stepping Up: 2 Points
+Become King: 2 Points
+
+**Non Royal Blood**
+Stepping Up: 1 Point
+Become King: 1 Point
+
+**Win: 2 Points
+Draw: 1 Point
+Loss: 0 Points**
+[/details]
+
+It&#39;s a lot of Information, but it&#39;s how I would write up the &quot;Ranked&quot; system. It promotes scum reading on a major level and it encourages players to think before they act.</description>
+    
+    <lastBuildDate>Sat, 14 Oct 2017 20:22:30 +0000</lastBuildDate>
+    <category>Feedback/Suggestions</category>
+    <atom:link href="https://forum.throneoflies.com/t/few-complex-suggestions/3642.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Few Complex Suggestions</title>
+        <dc:creator><![CDATA[RopeStringFace]]></dc:creator>
+        <description><![CDATA[
+            <p>agreed, let’s not discuss the statistics anymore, as it is clear neither of us are going to be convinced</p>
+          <p><a href="https://forum.throneoflies.com/t/few-complex-suggestions/3642/90">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/few-complex-suggestions/3642/90</link>
+        <pubDate>Sat, 14 Oct 2017 20:22:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3642-90</guid>
+        <source url="https://forum.throneoflies.com/t/few-complex-suggestions/3642.rss">Few Complex Suggestions</source>
+      </item>
+      <item>
+        <title>Few Complex Suggestions</title>
+        <dc:creator><![CDATA[newarkinvaders]]></dc:creator>
+        <description><![CDATA[
+            <p>I think really now we are just discussing statistics.<br>
+without an accurate description of game throwing or legitimate tracking of game throwing we can’t begin to analyse it</p>
+          <p><a href="https://forum.throneoflies.com/t/few-complex-suggestions/3642/89">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/few-complex-suggestions/3642/89</link>
+        <pubDate>Sat, 14 Oct 2017 15:45:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3642-89</guid>
+        <source url="https://forum.throneoflies.com/t/few-complex-suggestions/3642.rss">Few Complex Suggestions</source>
+      </item>
+      <item>
+        <title>Few Complex Suggestions</title>
+        <dc:creator><![CDATA[RopeStringFace]]></dc:creator>
+        <description><![CDATA[
+            <p>you guys keep using the 1 in a million thing, but it is not a 1 in a million chance of having a game thrower on your team</p>
+          <p><a href="https://forum.throneoflies.com/t/few-complex-suggestions/3642/88">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/few-complex-suggestions/3642/88</link>
+        <pubDate>Sat, 14 Oct 2017 14:45:25 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3642-88</guid>
+        <source url="https://forum.throneoflies.com/t/few-complex-suggestions/3642.rss">Few Complex Suggestions</source>
+      </item>
+      <item>
+        <title>Few Complex Suggestions</title>
+        <dc:creator><![CDATA[newarkinvaders]]></dc:creator>
+        <description><![CDATA[
+            <p>at what number does a number switch from being insignificant to significant then ?<br>
+given a 1 in x chance of an event occurring at what stage can you say that x is insignificant .</p>
+<p>I’m gonna use dice</p>
+<p>If I roll 4 d4  is the chance of rolling a 4 on one of them insignificant ?<br>
+If I roll 6 d6  is the chance of rolling a 6 on one of them insignificant ?<br>
+If I roll 8 d8  is the chance of rolling a 8 on one of them insignificant ?<br>
+If I roll 10 d10  is the chance of rolling a 10 on one of them insignificant ?<br>
+If I roll 20 d20 is the chance of rolling a 20 on one of them insignificant ?<br>
+If I roll 100 d100  is the chance of rolling a 100 on one of them insignificant ?</p>
+<p>the trouble is significance is set at an arbitrary level so is only valid if you state your level of significance.<br>
+Which means starting something is insignificant is only valid against a pre agreed level of significance.</p>
+<p>Also you are using base probability to define statistical insignificanace , where as you should be comparing it to sample size .</p>
+<p>1 – (999999 /1,000,000)1,000,000 (“to the power”  no superscript on forum)= probability that given a million goes , someone pushes the button = 0.6321 or 63%</p>
+<p>So unless you think a 63% chance of the event occurring is insignificant …<img src="/uploads/default/original/2X/5/5dbe498068e0fdb106b61d7ab96966f5c8e0b91a.PNG" alt="Capture" data-base62-sha1="dni5LyuNr3r5wvzLuWXuNnc5iVc" width="112" height="32"></p>
+          <p><a href="https://forum.throneoflies.com/t/few-complex-suggestions/3642/87">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/few-complex-suggestions/3642/87</link>
+        <pubDate>Sat, 14 Oct 2017 07:23:15 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3642-87</guid>
+        <source url="https://forum.throneoflies.com/t/few-complex-suggestions/3642.rss">Few Complex Suggestions</source>
+      </item>
+      <item>
+        <title>Few Complex Suggestions</title>
+        <dc:creator><![CDATA[Sketch]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="newarkinvaders" data-post="78" data-topic="3642">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/newarkinvaders/40/2154_2.png" class="avatar"> newarkinvaders:</div>
+<blockquote>
+<p>If it was statistically known that only 1 in 1000000 wanted to destroy the world  If you gave 1,000,000 a big red button that destroyed the world if they pushed it , would you be happy to say that because we know of these people that only 1 in  1000000 people are likely to press the button that the risk is insignificant ?</p>
+</blockquote>
+</aside>
+<p>Correct. As extreme as that example sounds, that risk is insignificant.</p>
+<p>If there was a 1 in a million chance something would happen and you provide a million instances of the function, then yes, you shouldn’t be surprised that it might happen. But remember - just because you test a million people doesn’t mean the button is automatically pressed – that is a common fallacy of probability. It works the other way around too – don’t expect the first person given the button to not to blow up the world.</p>
+<p>When n=1,000,000 you can expect intense accuracy of the stated probability.</p>
+<p>I’ll try to keep us on base here – I doubt anybody will reach 1 million games of ToL.</p>
+          <p><a href="https://forum.throneoflies.com/t/few-complex-suggestions/3642/86">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/few-complex-suggestions/3642/86</link>
+        <pubDate>Sat, 14 Oct 2017 02:16:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3642-86</guid>
+        <source url="https://forum.throneoflies.com/t/few-complex-suggestions/3642.rss">Few Complex Suggestions</source>
+      </item>
+      <item>
+        <title>Few Complex Suggestions</title>
+        <dc:creator><![CDATA[RopeStringFace]]></dc:creator>
+        <description><![CDATA[
+            <p>“It’s so true you can’t comprehend it”</p>
+          <p><a href="https://forum.throneoflies.com/t/few-complex-suggestions/3642/85">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/few-complex-suggestions/3642/85</link>
+        <pubDate>Fri, 13 Oct 2017 23:01:17 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3642-85</guid>
+        <source url="https://forum.throneoflies.com/t/few-complex-suggestions/3642.rss">Few Complex Suggestions</source>
+      </item>
+      <item>
+        <title>Few Complex Suggestions</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>Better than you mate. Then again that is not saying much.</p>
+<p>Sorry if I’m being harsh but you are just so hilariously ignorant about this. It is like arguing that gravity does not exist. There is no room for argument. You are arguing against long-established fact which you are too arrogant/not clever enough to understand, so therefore dismiss it.</p>
+<p>I’m not gonna reply again as you’re clearly never gonna admit how stupidly wrong you are as you are too proud.</p>
+          <p><a href="https://forum.throneoflies.com/t/few-complex-suggestions/3642/84">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/few-complex-suggestions/3642/84</link>
+        <pubDate>Fri, 13 Oct 2017 22:59:33 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3642-84</guid>
+        <source url="https://forum.throneoflies.com/t/few-complex-suggestions/3642.rss">Few Complex Suggestions</source>
+      </item>
+      <item>
+        <title>Few Complex Suggestions</title>
+        <dc:creator><![CDATA[RopeStringFace]]></dc:creator>
+        <description><![CDATA[
+            <p>yes, the review of a stranger on board game geek is the best source possible.</p>
+          <p><a href="https://forum.throneoflies.com/t/few-complex-suggestions/3642/83">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/few-complex-suggestions/3642/83</link>
+        <pubDate>Fri, 13 Oct 2017 22:55:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3642-83</guid>
+        <source url="https://forum.throneoflies.com/t/few-complex-suggestions/3642.rss">Few Complex Suggestions</source>
+      </item>
+      <item>
+        <title>Few Complex Suggestions</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>Get on my level scrub.</p>
+          <p><a href="https://forum.throneoflies.com/t/few-complex-suggestions/3642/82">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/few-complex-suggestions/3642/82</link>
+        <pubDate>Fri, 13 Oct 2017 22:26:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3642-82</guid>
+        <source url="https://forum.throneoflies.com/t/few-complex-suggestions/3642.rss">Few Complex Suggestions</source>
+      </item>
+      <item>
+        <title>Few Complex Suggestions</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p><a href="https://www.unorules.com/best-strategies-to-win-uno/" class="onebox" target="_blank" rel="noopener nofollow ugc">https://www.unorules.com/best-strategies-to-win-uno/</a></p>
+          <p><a href="https://forum.throneoflies.com/t/few-complex-suggestions/3642/81">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/few-complex-suggestions/3642/81</link>
+        <pubDate>Fri, 13 Oct 2017 22:26:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3642-81</guid>
+        <source url="https://forum.throneoflies.com/t/few-complex-suggestions/3642.rss">Few Complex Suggestions</source>
+      </item>
+      <item>
+        <title>Few Complex Suggestions</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p><a href="https://boardgamegeek.com/thread/150648/strategic-primer" class="onebox" target="_blank" rel="noopener nofollow ugc">https://boardgamegeek.com/thread/150648/strategic-primer</a></p>
+          <p><a href="https://forum.throneoflies.com/t/few-complex-suggestions/3642/80">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/few-complex-suggestions/3642/80</link>
+        <pubDate>Fri, 13 Oct 2017 22:25:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3642-80</guid>
+        <source url="https://forum.throneoflies.com/t/few-complex-suggestions/3642.rss">Few Complex Suggestions</source>
+      </item>
+      <item>
+        <title>Few Complex Suggestions</title>
+        <dc:creator><![CDATA[RopeStringFace]]></dc:creator>
+        <description><![CDATA[
+            <p>There is little to no skill in uno, at least not enough to constitute the entirety of a 20% change in win rate</p>
+          <p><a href="https://forum.throneoflies.com/t/few-complex-suggestions/3642/79">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/few-complex-suggestions/3642/79</link>
+        <pubDate>Fri, 13 Oct 2017 22:10:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3642-79</guid>
+        <source url="https://forum.throneoflies.com/t/few-complex-suggestions/3642.rss">Few Complex Suggestions</source>
+      </item>
+      <item>
+        <title>Few Complex Suggestions</title>
+        <dc:creator><![CDATA[newarkinvaders]]></dc:creator>
+        <description><![CDATA[
+            <p>but there is conversely a chance that within that 1,000,000 more than 1 person will do what you say .<br>
+That’s pretty awful statistical analyayze .<br>
+Claiming statistical insignifigance on an event that has a pre defined probability then arguing it wont be significant takes out the purpose of statistical accuracy .</p>
+<p>If it was statistically known that only 1 in 1000000 wanted to destroy the world  If you gave 1,000,000 a big red button that destroyed the world if they pushed it , would you be happy to say that because we know of these people that only 1 in  1000000 people are likely to press the button that the risk is insignificant ?</p>
+          <p><a href="https://forum.throneoflies.com/t/few-complex-suggestions/3642/78">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/few-complex-suggestions/3642/78</link>
+        <pubDate>Fri, 13 Oct 2017 11:19:17 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3642-78</guid>
+        <source url="https://forum.throneoflies.com/t/few-complex-suggestions/3642.rss">Few Complex Suggestions</source>
+      </item>
+      <item>
+        <title>Few Complex Suggestions</title>
+        <dc:creator><![CDATA[Simon]]></dc:creator>
+        <description><![CDATA[
+            <p>that depends<br>
+if everyone was playing randomly, there are 2 players in every game, and you played, say, 100 games, then it would be statistically improbable (or unlikely), yes<br>
+but theres a <em>big</em> difference between statistically insignificant and unlikely<br>
+if something is unlikely, and you use a big sample size, its reasonable to assume that it will happen<br>
+if something is statistically insignificant however, its just that, insignificant<br>
+even if 1000000 people did something statistically insignificant, there’s less than a 1/1000000 chance that at least <strong>1</strong> of them will do that thing</p>
+          <p><a href="https://forum.throneoflies.com/t/few-complex-suggestions/3642/77">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/few-complex-suggestions/3642/77</link>
+        <pubDate>Thu, 12 Oct 2017 22:51:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3642-77</guid>
+        <source url="https://forum.throneoflies.com/t/few-complex-suggestions/3642.rss">Few Complex Suggestions</source>
+      </item>
+      <item>
+        <title>Few Complex Suggestions</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>Rope fuck me you’re so wrong it hurts. You won 45% of games because YOU ARE BETTER AT UNO THAN THE OTHERS. That is not luck. That is skill. If that were converted into a rank you would be higher than your friends which is correct, as you are clearly better at uno than them.</p>
+<p>You literally just gave evidence to disprove your point but somehow thinks this helps you. It’s fine if you’re young or whatever but you need to learn to not argue about shit you have 0 understanding of.</p>
+          <p><a href="https://forum.throneoflies.com/t/few-complex-suggestions/3642/76">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/few-complex-suggestions/3642/76</link>
+        <pubDate>Thu, 12 Oct 2017 22:43:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3642-76</guid>
+        <source url="https://forum.throneoflies.com/t/few-complex-suggestions/3642.rss">Few Complex Suggestions</source>
+      </item>
+      <item>
+        <title>Few Complex Suggestions</title>
+        <dc:creator><![CDATA[Ami]]></dc:creator>
+        <description><![CDATA[
+            <p>I was saying he was wrong with a meme. Whats wrong with that?</p>
+          <p><a href="https://forum.throneoflies.com/t/few-complex-suggestions/3642/75">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/few-complex-suggestions/3642/75</link>
+        <pubDate>Thu, 12 Oct 2017 21:34:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3642-75</guid>
+        <source url="https://forum.throneoflies.com/t/few-complex-suggestions/3642.rss">Few Complex Suggestions</source>
+      </item>
+      <item>
+        <title>Few Complex Suggestions</title>
+        <dc:creator><![CDATA[RopeStringFace]]></dc:creator>
+        <description><![CDATA[
+            <p>stop trying to use memes to destroy someone else’s argument</p>
+          <p><a href="https://forum.throneoflies.com/t/few-complex-suggestions/3642/74">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/few-complex-suggestions/3642/74</link>
+        <pubDate>Thu, 12 Oct 2017 21:30:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3642-74</guid>
+        <source url="https://forum.throneoflies.com/t/few-complex-suggestions/3642.rss">Few Complex Suggestions</source>
+      </item>
+      <item>
+        <title>Few Complex Suggestions</title>
+        <dc:creator><![CDATA[RopeStringFace]]></dc:creator>
+        <description><![CDATA[
+            <p>Take a moment to think.</p>
+<p>I have played tens of games of uno, and have won about 45% percent of the games I played (about 4 people average)</p>
+<p>this is statistically improbable, no? BUT IT STILL HAPPENED.</p>
+          <p><a href="https://forum.throneoflies.com/t/few-complex-suggestions/3642/73">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/few-complex-suggestions/3642/73</link>
+        <pubDate>Thu, 12 Oct 2017 21:26:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3642-73</guid>
+        <source url="https://forum.throneoflies.com/t/few-complex-suggestions/3642.rss">Few Complex Suggestions</source>
+      </item>
+      <item>
+        <title>Few Complex Suggestions</title>
+        <dc:creator><![CDATA[Sketch]]></dc:creator>
+        <description><![CDATA[
+            <p>I linked you the wiki page for a reason. I’m not trying to sound smart, I’m trying to explain it in the most accurate way.</p>
+<p>If you don’t want to take the time to read and get up to speed, then that’s your choice.</p>
+          <p><a href="https://forum.throneoflies.com/t/few-complex-suggestions/3642/72">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/few-complex-suggestions/3642/72</link>
+        <pubDate>Thu, 12 Oct 2017 19:28:45 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3642-72</guid>
+        <source url="https://forum.throneoflies.com/t/few-complex-suggestions/3642.rss">Few Complex Suggestions</source>
+      </item>
+      <item>
+        <title>Few Complex Suggestions</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>Pretty sure he being sarcastic there Noz.</p>
+          <p><a href="https://forum.throneoflies.com/t/few-complex-suggestions/3642/71">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/few-complex-suggestions/3642/71</link>
+        <pubDate>Thu, 12 Oct 2017 17:10:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3642-71</guid>
+        <source url="https://forum.throneoflies.com/t/few-complex-suggestions/3642.rss">Few Complex Suggestions</source>
+      </item>
+      <item>
+        <title>Few Complex Suggestions</title>
+        <dc:creator><![CDATA[Ami]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>FACTS &gt; FEELINGS</strong></p>
+<aside class="quote no-group" data-username="newarkinvaders" data-post="69" data-topic="3642">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/newarkinvaders/40/2154_2.png" class="avatar"> newarkinvaders:</div>
+<blockquote>
+<p>guys I don’t know anything about maths but I think you are wrong . we don’t need experts . I have a feeling .</p>
+</blockquote>
+</aside>
+<p><img src="/uploads/default/original/2X/0/039d6af0acba543b758537c65a450e6ad2a0821d.gif" alt="200" data-base62-sha1="vYHit3uxlLmAdGLQ7UtpXGn6bj" width="334" height="200"></p>
+          <p><a href="https://forum.throneoflies.com/t/few-complex-suggestions/3642/70">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/few-complex-suggestions/3642/70</link>
+        <pubDate>Thu, 12 Oct 2017 17:06:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3642-70</guid>
+        <source url="https://forum.throneoflies.com/t/few-complex-suggestions/3642.rss">Few Complex Suggestions</source>
+      </item>
+      <item>
+        <title>Few Complex Suggestions</title>
+        <dc:creator><![CDATA[newarkinvaders]]></dc:creator>
+        <description><![CDATA[
+            <p>guys I don’t know anything about maths but I think you are wrong . we don’t need experts . I have a feeling .<br>
+<span class="hashtag">#alternativefacts</span></p>
+          <p><a href="https://forum.throneoflies.com/t/few-complex-suggestions/3642/69">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/few-complex-suggestions/3642/69</link>
+        <pubDate>Thu, 12 Oct 2017 16:18:33 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3642-69</guid>
+        <source url="https://forum.throneoflies.com/t/few-complex-suggestions/3642.rss">Few Complex Suggestions</source>
+      </item>
+      <item>
+        <title>Few Complex Suggestions</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>Rope just be quiet. It’s okay not knowing about maths but don’t try convince people who actually have a brain that your right when your literally talking complete bullshit.</p>
+          <p><a href="https://forum.throneoflies.com/t/few-complex-suggestions/3642/68">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/few-complex-suggestions/3642/68</link>
+        <pubDate>Thu, 12 Oct 2017 16:04:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3642-68</guid>
+        <source url="https://forum.throneoflies.com/t/few-complex-suggestions/3642.rss">Few Complex Suggestions</source>
+      </item>
+      <item>
+        <title>Few Complex Suggestions</title>
+        <dc:creator><![CDATA[Ami]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Sketch" data-post="60" data-topic="3642">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/sketch/40/856_2.png" class="avatar"> Sketch:</div>
+<blockquote>
+<p>I’m assuming that you have played more than 30 games of ToL and that most players have played more than 30 games. They’ve been subjected to a large sample size and therefore have the allowance to reduce those levels of significance much lower than 0.05, and eventually you can reach levels of 0.00001. Once you do, that number becomes zero.</p>
+</blockquote>
+</aside>
+<p>He did, HE FUCKING DID</p>
+          <p><a href="https://forum.throneoflies.com/t/few-complex-suggestions/3642/67">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/few-complex-suggestions/3642/67</link>
+        <pubDate>Thu, 12 Oct 2017 12:20:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3642-67</guid>
+        <source url="https://forum.throneoflies.com/t/few-complex-suggestions/3642.rss">Few Complex Suggestions</source>
+      </item>
+      <item>
+        <title>Few Complex Suggestions</title>
+        <dc:creator><![CDATA[RopeStringFace]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Sketch" data-post="60" data-topic="3642">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/sketch/40/856_2.png" class="avatar"> Sketch:</div>
+<blockquote>
+<p>you would realize that the significance level of that particular two-tailed test is 0.05.</p>
+</blockquote>
+</aside>
+<p>says to tailed test without explaining the word</p>
+<aside class="quote no-group" data-username="Sketch" data-post="60" data-topic="3642">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/sketch/40/856_2.png" class="avatar"> Sketch:</div>
+<blockquote>
+<p>iirc</p>
+</blockquote>
+</aside>
+<p>no idea what this means</p>
+<aside class="quote no-group" data-username="Sketch" data-post="60" data-topic="3642">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/sketch/40/856_2.png" class="avatar"> Sketch:</div>
+<blockquote>
+<p>therefore have the allowance to reduce those levels of significance much lower than 0.05, and eventually you can reach levels of 0.00001.</p>
+</blockquote>
+</aside>
+<p>no explanation of these numbers given</p>
+          <p><a href="https://forum.throneoflies.com/t/few-complex-suggestions/3642/66">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/few-complex-suggestions/3642/66</link>
+        <pubDate>Thu, 12 Oct 2017 02:16:15 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-3642-66</guid>
+        <source url="https://forum.throneoflies.com/t/few-complex-suggestions/3642.rss">Few Complex Suggestions</source>
+      </item>
+  </channel>
+</rss>

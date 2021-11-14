@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Player greyed out during the day</title>
+    <link>https://forum.throneoflies.com/t/player-greyed-out-during-the-day/51423</link>
+    <description>#### What happened?
+D1: Put a scout on 9, N1: Investigate 6
+N1: Scout got tripped, 9 was converted. Also, 6 (original assassin) came up unseen
+16, the possessor died that night, reasons unknown as the player left the game
+
+D2: 6 was no longer selectable from the right side player list, could not put him up. His bar was a light grey shade, no red number. No system message stating his death. Nobody knew if he if he was dead or alive (MM might)
+N2: 6 was no longer targetable from the number selector box. 
+D3: 6 showed up as alive in court for the rest of the game, but still not clickable. 
+We put up and executed 9 who at that point was an assassin, implying that 6 had died N1 or N2.
+
+#### What was SUPPOSED to happen?
+Player 6 should have been targetable if alive or show up as dead.
+
+#### Steps to reproduce:
+This is just speculation but some combination of actions could have resulted in this:
+1. Have an assassin attack a hunter that has a bear, or a target with a knight guarding
+2. Have a possessor jump into that assassin
+3. Have an investigative class check the assassin
+4. Watch the system go nuts trying to resolve all statuses
+
+It could also just have been a more general error as more things went wrong that game.
+
+#### Comments:
+Note: Result messages popped up 3 times for a lot of players, including me (inv only, scout showed once)
+More things went wrong that game: People seemed to be massively abstaining at faster than expected speed
+
+Did not make a screenshot, unfortunately. Did upload my log. Here is an excerpt:
+
+https://drive.google.com/open?id=1kQtyuv7FHdugtl_3KhgLDA8YMl-nAM8GnYU2dAxwbdA
+
+Full log is here: https://drive.google.com/open?id=1VrvKpfmpAxMv_CvaEjMt3pNUTgMNGKyE</description>
+    
+    <lastBuildDate>Sat, 10 Mar 2018 01:34:48 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forum.throneoflies.com/t/player-greyed-out-during-the-day/51423.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Player greyed out during the day</title>
+        <dc:creator><![CDATA[Infurael]]></dc:creator>
+        <description><![CDATA[
+            <h4>What happened?</h4>
+<p>D1: Put a scout on 9, N1: Investigate 6<br>
+N1: Scout got tripped, 9 was converted. Also, 6 (original assassin) came up unseen<br>
+16, the possessor died that night, reasons unknown as the player left the game</p>
+<p>D2: 6 was no longer selectable from the right side player list, could not put him up. His bar was a light grey shade, no red number. No system message stating his death. Nobody knew if he if he was dead or alive (MM might)<br>
+N2: 6 was no longer targetable from the number selector box.<br>
+D3: 6 showed up as alive in court for the rest of the game, but still not clickable.<br>
+We put up and executed 9 who at that point was an assassin, implying that 6 had died N1 or N2.</p>
+<h4>What was SUPPOSED to happen?</h4>
+<p>Player 6 should have been targetable if alive or show up as dead.</p>
+<h4>Steps to reproduce:</h4>
+<p>This is just speculation but some combination of actions could have resulted in this:</p>
+<ol>
+<li>Have an assassin attack a hunter that has a bear, or a target with a knight guarding</li>
+<li>Have a possessor jump into that assassin</li>
+<li>Have an investigative class check the assassin</li>
+<li>Watch the system go nuts trying to resolve all statuses</li>
+</ol>
+<p>It could also just have been a more general error as more things went wrong that game.</p>
+<h4>Comments:</h4>
+<p>Note: Result messages popped up 3 times for a lot of players, including me (inv only, scout showed once)<br>
+More things went wrong that game: People seemed to be massively abstaining at faster than expected speed</p>
+<p>Did not make a screenshot, unfortunately. Did upload my log. Here is an excerpt:</p>
+<p><a href="https://drive.google.com/open?id=1kQtyuv7FHdugtl_3KhgLDA8YMl-nAM8GnYU2dAxwbdA" class="onebox" target="_blank" rel="noopener nofollow ugc">https://drive.google.com/open?id=1kQtyuv7FHdugtl_3KhgLDA8YMl-nAM8GnYU2dAxwbdA</a></p>
+<p>Full log is here: <a href="https://drive.google.com/open?id=1VrvKpfmpAxMv_CvaEjMt3pNUTgMNGKyE" class="inline-onebox-loading" rel="noopener nofollow ugc">https://drive.google.com/open?id=1VrvKpfmpAxMv_CvaEjMt3pNUTgMNGKyE</a></p>
+          <p><a href="https://forum.throneoflies.com/t/player-greyed-out-during-the-day/51423/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/player-greyed-out-during-the-day/51423/1</link>
+        <pubDate>Sat, 10 Mar 2018 01:34:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-51423-1</guid>
+        <source url="https://forum.throneoflies.com/t/player-greyed-out-during-the-day/51423.rss">Player greyed out during the day</source>
+      </item>
+  </channel>
+</rss>

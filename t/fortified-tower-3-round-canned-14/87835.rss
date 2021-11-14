@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Fortified Tower 3 - Round Canned (?/14)</title>
+    <link>https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835</link>
+    <description>Credit to Jammysplodge for the original idea
+
+**Goal**
+
+The world has fallen into ruin. Disease, greed and a lack of good memes mean most struggle to survive - except those super rich few. At the heart of this cesspool of despair is a tower. This tower has 12 floors, the floors each have 3 rooms
+You are all there for reasons, most of you are there to kill the Tycoon - one of these Elite scumbags.
+The Tycoon sits in the middle room of the top floor. There is also a private jail… For his less pleasant visitors to spend some quality time in.
+
+**Roles**
+
+
+[details=&quot;Summary&quot;]
+**You are a [color=green]Guard[/color]**
+*Security*
+**Self preservation**
+
+You must protect the Tycoon
+Your allies are [x], [y] and [z]
+You can talk to them in a PM over your Walkie Talkies
+
+You start with:
+Master Key(Can Lock/Unlock any door, Tycoon doors start locked)
+Walkie Talkie
+Taser
+
+Your min sanity you can function at is 5. If you commit murder you will lose 2 sanity. If you kill another in revenge you will lose 1 sanity. Killing in self-defence does not cost you sanity.
+You will automatically know of all traps in any room you enter. You will not trigger traps by entering the room.
+You will get a 20% bonus on avoiding setting off traps.
+
+**You are the [color=red]Firestarter[/color]**
+*Criminal*
+**Ruthless**
+
+You must Kill the Tycoon
+
+You start with:
+Petrol Can
+Lighter
+
+Fires:
+The petrol can can soak a room in petrol
+If you light the petrol, everyone in the petrol soaked room will die, except you
+The fire will destroy the “Tarred Floor” obstacle
+
+Your min sanity you can function at is 3. If you commit murder you will lose 1 sanity. If you kill another in revenge or in self-defence it will not cost you sanity.
+
+**You are the [color=gray]Hitman[/color]**
+*Criminal*
+**Ruthless**
+
+You must Kill your Target
+Your target is [x]
+
+You start with:
+Pistol
+Bullet x 2
+
+Your min sanity you can function at is 3. If you commit murder you will lose 1 sanity. If you kill another in revenge or in self-defence it will not cost you sanity. Killing your target will not cost you sanity
+
+**You are the [color=blue]Psycho[/color]**
+*Criminal*
+**Psychotic**
+
+You must Kill Everyone
+
+You start with:
+Knife(Throwable)
+Garotte Wire
+
+Your min sanity you can function at is 1. No matter how you kill, you will not lose sanity
+
+**You are the [color=sky blue]Corrupt Cop[/color]**
+*Criminal*
+**Ruthless**
+
+You must kill the Tycoon
+
+The Cops are [x], [y] and [z]
+You can talk to them in a Pm over your Walkie Talkies
+
+You start with:
+Pistol
+Bullet x 2
+Taser
+Walkie Talkie
+
+Your min sanity you can function at is 3. If you commit murder you will lose 1 sanity. If you kill another in revenge or in self-defence it will not cost you sanity.
+Your physical fitness means you get a 10% bonus overcoming obstacles
+
+**You are a [color=sky blue]Cop[/color]**
+*Innocent*
+**Justified**
+
+You must Kill the Criminals
+Your allies are [x], [y] and [z]
+You can talk to them in a Pm over your Walkie Talkies
+If you kill an innocent you will resign out of shame.
+If this role is rolled, another cop will spawn. There is a 25% chance it will spawn as a Corrupt Cop.
+
+You start with:
+Pistol
+Bullet x 2
+Taser
+Walkie Talkie
+
+Your min sanity you can function at is 5. If you commit murder you will lose 2 sanity. If you kill another in revenge or in self-defence it will cost you 1 sanity.
+Your physical fitness means you get a 10% bonus overcoming obstacles
+You have a 10% bonus detecting traps
+
+**You are the [color=purple]Kidnapper[/color]**
+*Criminal*
+**Self-Preservation**
+
+You must Kidnap the Tycoon, making sure he does not die.  If the Tycoon is to die, you must kidnap their killer in their place.
+
+You start with:
+Burlap Sack x 2
+
+Your min sanity you can function at is 4. If you commit murder you will lose 2 sanity. If you kill another in revenge you will lose 1 sanity. If you kill another in self-defence you will not lose sanity
+
+Your physical fitness means you get a 20% bonus overcoming obstacles
+You have quick feet and have a 20% detecting and avoiding traps.
+You have a 1/3 chance to leave a room before anyone in the room can attack you.
+
+**You are the [color=lime]Temponaut[/color]**
+*Criminal*
+**Ruthless**
+
+You must Kill the Tycoon
+
+You start with:
+Stop Watch x 3(You have an extra action next turn)
+Age-O-Matic(Kills a person by ageing them to death)
+Time Paradox(Brings you back to life at your start location)
+
+Your min sanity you can function at is 6. If you commit murder you will lose 2 sanity. If you kill another in revenge or in self-defence it will cost you 1 sanity.
+You have a 10% avoiding setting off traps
+
+**You are the [color=pink]Seer[/color]**
+*Innocent*
+**Not a drop**
+
+You must Correctly Predict who will win
+
+You start with:
+Crystal Ball(Lets you see the rolecard of the the selected person)
+Prediction Scroll(Can be used on anyone, once used, you win if your target wins, 1 use only)
+
+Your min sanity you can function at is 5. If you commit murder you will lose 2 sanity. If you kill another in revenge or in self-defence it will cost you 1 sanity
+
+**You are the [color=orange]Alien Fugitive[/color]**
+*Criminal*
+**Psychotic**
+
+You must Assume Someone’s Identity and Fulfill their Win Condition
+
+You start with:
+Ray Gun(Kills, leaving no body, 1 use only, must be used for your first kill)
+Skin Changer(Makes you the first role you kill)
+
+**You are the [color=brown]Bomber[/color]**
+*Criminal*
+**Psychotic**
+
+You must Kill Everyone
+
+You start with:
+Bomb x 3(Can be placed for one action and detonated for another, one bomb can only be placed at a time, explosions kill everyone in the room it is placed. 25% of killing people in adjacent rooms, 50% of rendering them unconscious.)
+
+Your min sanity you can function at is 3. Killing will not cost you sanity
+You have a 30% bonus detecting traps
+
+**You are the [color=light green]Head of Surveillance[/color]**
+*Security*
+**Self Preservation**
+
+You must Protect the Tycoon
+
+You start with:
+Surveillance Tablet(You may choose to watch a room, if you do so you see everything that happens in that room that turn, camera can be disabled in multiple ways)
+Sentry remote: Can order the Sentry bot to patrol a particular floor next time they choose a new floor to patrol. The bot cannot pick the same floor consecutively
+
+Your min sanity you can function at is 5. If you commit murder you will lose 2 sanity. If you kill another in revenge or in self-defence it will cost you 1 sanity.
+You will know of all traps in each room you enter
+Where possible, you will never trigger a trap in a room
+
+**You are the [color=scarlet]Plague Doctor[/color]**
+*Criminal*
+**Psychotic**
+
+You must Kill Everyone
+
+You start with:
+Plague Vial x 2
+
+The Plague:
+Plague Vials infect everyone in the room besides you, infected will die after 3 turns and will pass the infection to anyone they encounter. They will informed they are infected after beimg infected for 2 turns.
+
+Your min sanity you can function at is 3. If you commit murder you will lose 2 sanity. If you kill another in revenge or in self-defence it will cost you 1 sanity. You will not lose sanity for killing people via your infection however
+
+**You are the [color=indigo]Vampire[/color]**
+*Criminal*
+**Psychotic**
+
+You must Kill the Tycoon
+You are immune to bleeding
+
+You start with:
+Blood vial x 1
+
+Blood:
+You can get blood from dead bodies, living players(This kills them), blood trails and your blood vial
+You can survive 3 turns without drinking blood
+At the beginning of the 4th turn, you have a -25% chance against any action that isn’t moving or drinking blood
+At the beginning of the 5th turn, this increases to -50%
+At the beginning of the 6th turn, this increases to -75%
+At the beginning of the 7th turn, you die
+
+Your min sanity you can function at is 3. You will not lose sanity for killing others
+
+**You are [color=gray]The Haunted[/color]**
+*Criminal*
+**Ruthless**
+
+You must Kill the Tycoon
+You may leave your body, if you do this, your spirit can wander around
+Your spirit can move through things you usually couldn’t
+Your spirit cannot be harmed
+Your spirit cannot search or use items
+When you are out of your body, it appears to be dead
+If your body is killed while your spirit isn’t in it, you become the vengeful spirit
+
+You start with:
+Nothing
+
+Your min sanity you can function at is 4. If you commit murder you will lose 2 sanity. If you kill another in revenge or in self-defence it will cost you 1 sanity.
+You will always see traps in your spirit form
+
+**You are the [color=gray]Vengeful Spirit[/color]**
+*Criminal*
+**Psychotic**
+
+You must Kill the Tycoon AND the one that killed your body
+You will know your body’s killer when you see them, not before
+You are now corporeal and can be harmed
+
+You start with:
+Nothing
+
+Your min sanity you can function at is 4. If you commit murder you will lose 2 sanity. If you kill another in revenge or in self-defence it will cost you 1 sanity. Killing your killer will count as killing in revenge
+You will always see traps
+
+**You are T̶ͫ̓ḫ̷̨ͥ̽ē̵̏ͦ ̠͇̗̎Da̹̠r͎͖ͥ̎̔k̹ ̣̥͓͉͊On͙̅͛͝e̳**
+
+*Criminal*
+**Psychotic**
+You must Kill Everyone
+If a player is in a room with you, you may mark them for death
+Once per game, you may kill everyone you have marked
+If 50% or more of the living players are marked, they will be informed that they carry the mark.
+
+You start with:
+Nothing
+
+Your min sanity you can function at is 1. You will not lose sanity from killing
+You have a 20% detecting and avoiding traps
+
+**You are the [color=yellow]Thief[/color]**
+*Criminal*
+**Self-Preservation**
+
+You must Steal an Item from the Tycoon’s Office
+You may steal a random item from a player in the same room as you.
+
+You start with:
+Knife
+
+Inspired by XerxesLeFan
+
+Your min sanity you can function at is 4. If you commit murder you will lose 2 sanity. If you kill another in revenge or in self-defence it will cost you 1 sanity.
+You have a 50% bonus avoiding traps
+You have a 30% bonus detecting traps
+you have a 50% bonus overcoming obstacles
+
+**You are the [color=orange]Hacker[/color]**
+*Criminal*
+**Ruthless**
+
+You must Kill the Tycoon
+Signal Jammer: While you are alive, anything that requires a signal(Walkie Talkies, Detonations, Security Cameras etc) will not work. You can also destroy the Sentry bot with a melee attack roll.
+
+You start with:
+Pistol
+Bullet x 1
+
+Your min sanity you can function at is 6. If you commit murder you will lose 2 sanity. If you kill another in revenge or in self-defence it will cost you 1 sanity.
+You have a 10% bonus avoiding traps
+You have a 10% bonus detecting traps
+
+**You are the [color=green]Soldier[/color]**
+*Security*
+**Ruthless**
+
+You must Protect the Tycoon
+Your allies are [x] the [role], [y] the [role] and [z] the [role]
+You can talk to them in a PM over your Walkie Talkies
+
+You start with:
+Shotgun (Ranged Attack - Target has 3 attacks on them when used)
+Shotgun Shell x 2(These are irreplaceable)
+Walkie Talkie
+
+Your min sanity you can function at is 5. You will suffer no sanity penalties through killing others
+You have a 10% bonus avoiding traps
+you have a 50% bonus overcoming obstacles
+
+**You are the [color=pink]Medic[/color]**
+*Innocent*
+**Not a drop**
+
+You must Help 5 People (must wait at least 5 turns to help the same person again)
+Hippocratic Oath: You cannot kill someone except through self defense
+Helping someone includes resuscitating them if they have died less than 3 turns prior, treating their wounds, or curing them of the Plague.  (treating wounds is limited in effect and you may only resuscitate once per game)
+
+You start with:
+Medical Supplies
+
+Your min sanity you can function at is 6. If you kill another in revenge or in self-defence it will cost you 1 sanity
+
+**You are the [color=teal]Specialist[/color]**
+*Security*
+**Justified**
+
+You must Protect the Tycoon
+Your allies are [x] the [role], [y] the [role] and [z] the [role]
+You can talk to them in a PM over your Walkie Talkies
+Jack Of all Trades: When searching a dead body, you can take and use their role-specific items
+
+You start with:
+Knife
+Walkie Talkie
+
+Your min sanity you can function at is 6. If you commit murder you will lose 2 sanity. If you kill another in revenge or in self-defence it will cost you 1 sanity.
+You have a 10% bonus avoiding traps
+You have a 10% bonus detecting traps
+you have a 10% bonus overcoming obstacles
+
+**You are the [color=maroon]Businessman[/color]**
+*Innocent
+**Self-Preservation**
+
+You must make a deal with the Tycoon and see him (the Tycoon) live to the end of the game. You must get to the Tycoon alive to make the deal, and you will win if the Tycoon survives until the end of the game.
+Expendable: You can still win the game while dead, as long as you have made the deal and the Tycoon is still alive. Your company doesn’t really care about your life.
+Expected: Those guarding the Tycoon will know your role.
+
+Starts with:
+Business Deal(deliver this to the Tycoon)
+
+Credit to Painkillerz
+Your min sanity you can function at is 4. If you commit murder you will lose 2 sanity. If you kill another in revenge or in self-defence it will cost you 1 sanity
+[/details]
+
+
+**So what will sanity mean?**
+
+Well. Certain traps will make you lose some. Being wounded might make you lose some
+Each player starts the game with 10 sanity.
+
+If you drop below your roles minimum sanity level there is a 20% of you failing your action per number below you are (IE: If your min level is 5 and you have 3 sanity you have a 40% chance of failing your action). Your score can never be less than 0. If you fail a turn due to insanity, you will have a 50% chance of doing something harmful to your role’s goal. If you have nothing else near you, you may kill yourself if you roll too much ‘bad’ insanity.
+
+**Mentality**
+
+Each role card has a individual aggression description. They mean the following
+
+*Psychotic* - You may attack other players without reason or warning
+
+*Ruthless* - You may attack other players without warning, providing you have good reason to suspect they oppose your victory condition or mean you harm
+
+*Justified* - You may attack any player you have reason to suspect of being Criminally aligned
+
+*Self-Preservation* - You may attack another player only if you think they mean you harm.
+
+*Not a Drop* - You must avoid violence unless you have no choice. Retreat from a fight if you can
+
+**Obstacles**
+
+
+[details=&quot;Summary&quot;]
+Tarred floor
+
+The room is covered in sticky tar. Any action other than turning back will take twice as long to achieve unless the player successfully passes an ‘Overcome an obstacle’ roll. Dousing/igniting the room as a Firestarter and all ranged attacks are excluded from this effect. Overcome roll needed = 75%
+
+Riddle Door
+
+The Door allowing you to go ‘Up’ is protected by a Riddle you must answer to proceed through it. This door will be indestructible and cannot be opened with a key. You can give only one answer each turn
+
+Wall
+
+The way up is blocked by a wall which you’ll have to climb to proceed. Walls will prevent traps triggering until you pass it. You will be unable to search a room unless you climbed the wall. Walls can be destroyed by a bomb in the same room. Overcome roll needed = 60%
+[/details]
+
+
+**Traps**
+Explanation of terms:
+
+Location in Room: This refers to where the trap is likely to be positioned in any room. This is usually just for reference as to who it will affect.
+Effect: Describes what the trap will do
+Active for: Describes how long the trap is active for
+Cooldown: Describes whether the trap can trigger multiple times or not and how often it can trigger
+Area of effect: Describes how widespread the affect of the trap is
+Sensitivity: Displays the risks of triggering the trap.
+Visibility: Displays how easily the trap is seen. A score of 100% means the trap is immediately spotted by anyone.
+Trap value: Indicates how much of a ‘Trap’ roll is required for the trap to be in any one room. Some rooms can contain multiple traps.
+
+
+[details=&quot;Summary&quot;]
+Sentry bot
+
+Location in Room: This robot patrols a floor, from left to right than back again. It moves one room a turn and attacks people it encounters that are consicious
+Effect: Stuns players for 1 - 2 turns. Reduces sanity to players it gets. Will automatically grab players that wake up whilst it is in the room. (If no one else is there)
+Active for: The whole game
+Cooldown: Immediate
+Area of effect: The player it grabs
+Sensitivity: This Robot detects everyone in the room and will attack non-guards.  Players have a chance to avoid this attack.
+Visibility: Obvious (100%)
+Trap value: Confirmed in tower, but will never patrol a floor the players are on turn 1. The robot can be destroyed by a Bomber’s bomb and the Hacker.
+
+Toxic Gas
+
+Location in Room: Exit up a level (Entry to Tycoon room counts as going up a level for this trap)
+Effect: Poisons players. 50% chance of instant killing. 25% of resulting in unconsciousness.
+Active for: 3 turns
+Cooldown: 3 turns
+Area of effect: Turn 1 (Players attempting to exit the room up a level) - Turn 2 (Players moving about room) - Turn 3 (Players entering the room)
+Sensitivity: Exit the room - Very High (90%)
+Searching the room - Above average (60%)
+Attacking others in room or perform other hostile action - Average (50%)
+Checking for traps - Below average (40%)
+Entering the room - Very Rare (10%)
+Visibility: Way below average (30%)
+Trap value: 70
+
+Insanity Gas
+
+Location in Room: Exit up a level (Entry to Tycoon room counts as going up a level for this trap)
+Effect: Temporarily reduces player sanity to 0. Effect passes after 2 turns of being driven mad. Sanity returns to it’s previous value afterwards
+Active for: 3 turns
+Cooldown: 3 turns
+Area of effect: Turn 1 (Players attempting to exit the room up a level) - Turn 2 (Players moving about room) - Turn 3 (Players entering the room)
+Sensitivity: Exit the room - Very High (90%)
+Searching the room - Above average (60%)
+Attacking others in room or perform other hostile action - Average (50%)
+Checking for traps - Below average (40%)
+Entering the room - Very Rare (10%)
+Visibility: Way below average (30%)
+Trap value: 60
+
+Flickering lights
+
+Location in Room: The whole room is affected
+Effect: Odd light patterns can suddenly present terrifying images. Being hit by this trap drains sanity by 1 point and auto-fails the player’s action for the turn
+Active for: 1 turn
+Cooldown: Immediate
+Area of effect: The player who triggers the trap is the only one affected. This trap can be triggered multiple times a turn
+Sensitivity: Exit the room - Average (50%)
+Searching the room - Average (50%)
+Attacking others in room or perform other hostile action - Average (50%)
+Checking for traps - Average (50%)
+Entering the room - Very Rare (10%)
+Visibility: Above Average (60%)
+Trap value: 30
+
+Gun Turret
+
+Location in Room: Exit up a level (Entry to Tycoon room counts as going up a level for this trap)
+Effect: A turret can lock on one player and fire a double ranged attack. The door from this room is always locked
+Active for: 2 turns
+Cooldown: Immediate
+Area of effect: Turn 1 (takes aim) - Turn 2 (fires)
+Sensitivity: Entering the room - A sure thing.(100%) {This trap will potentially track you the whole time)
+Visibility: In plain sight (100%)
+Trap value: 90
+NOTES: This trap can be destroyed by a detonated bomb and a Room incineration with a 1 turn delay on the latter
+
+Mine
+
+Location in Room: Anywhere
+Effect: Explodes: 75% of killing the person who triggers it, 25% of killing others in the room. Will always wound the person who triggers it on the legs. 50% chance of wounding others on the legs
+Active for: 1 turn
+Cooldown: N/A
+Area of effect: The whole room, especially the person who triggers it
+Sensitivity: Exit the room - High (80%)
+Searching the room - Above average (60%)
+Attacking others in room or perform other hostile action - Quite High (70%)
+Checking for traps - Rare (20%)
+Entering the room - Never (0%)
+Visibility: Way below average (30%)
+Trap value: 60
+
+Security Door
+
+Location in Room: Your entry point
+Effect: Blocks off your way back (Can not be opened or destroyed by axes)
+Active for: Your time in the room
+Cooldown: Immediate
+Area of effect: N/A
+Sensitivity: Entering the room - A sure thing (100%)
+Visibility: Pretty Obvious (80%)
+Trap value: 10
+
+Sleep dart
+
+Location in Room: Anywhere
+Effect: Lulls players to sleep (Incapacitates for 1 - 2 additional turns. Hits reduce sanity)
+Active for: 1 Turn
+Cooldown: Immediate
+Area of effect: The player who triggers it. This trap can be triggered only once each turn.
+Sensitivity: Exit the room - Fairly high (60%)
+Searching the room - High (70%)
+Attacking others in room or perform other hostile action - Very High (80%)
+Checking for traps - Average (40%)
+Entering the room - Rare (10%)
+Visibility: Below Average (40%)
+Trap value: 45
+
+Alarm
+
+Location in Room: Anywhere
+Effect: Immediate makes everyone fail their action. Subsequent turns being exposed erodes sanity by 1 point per turn
+Active for: 3 turns
+Cooldown: 3 turns
+Area of effect: Turn 1 (All players fail their action) Turn 2 - 3 (Each player in the room since the last turn loses 1 sanity)
+Sensitivity: Exit the room - Very High (90%)
+Searching the room - High (80%)
+Attacking others in room or perform other hostile action - Quite High (70%)
+Checking for traps - Rare (20%)
+Entering the room - Very Rare (10%)
+Visibility: Way below average (30%)
+Trap value: 20
+[/details]
+
+
+**Items findable by searching:**
+
+
+[details=&quot;Summary&quot;]
+Pistol
+Bullet
+Duct Tape (Can fix broken doors and stop bleeding)
+Fire Axe(Can kill or destroy a door, 1 use item)
+Key(can lock/unlock 1 door leading to the room it is found in)
+Knife
+Bandage (provides a small amount of healing)
+[/details]
+
+
+**Mechanics:**
+Actions are sent to me via PM, once all actions are sent in, they are resolved, if an action happens in a room that isn’t yours, you won’t be told.
+If detained in the Prison, you will be trapped unless another player kills the tycoon. You will be considered dead for any role that cares about that until then.
+All roles are unique, except Cop and Guard
+
+**Actions:**
+
+Move to [room]:
+You can move to an adjacent room, i.e. above, below, left or right, the exception is the tycoon’s room, which must be accessed from Left or Right 12
+
+Search:
+You can around the room you are in. You can search multiple times until you find something.
+
+[action] [name of what you’re interacting with]:
+You can interact with people and things
+
+Loot:
+You can loot a dead body in the room to take all of their non-role specific items
+
+Inspect:
+You can look at a body to identify their role. This will reduce sanity loss from killing them if you had to kill this player to win
+
+Brace:
+You can ready a counterattack, if you are attacked that turn, you have a chance to counterattack your attacker. If a ranged attack you will always take a hit first, but if melee you have a chance to land a blow first.
+
+Check for traps:
+Depending on your character, you may be more likely to find them than others. Always remember that even if you don’t find any, there could be one AND you still risk setting them off by looking for them. An Intruder player will never start in a room with a trap. The sensitivity of a trap is halved if you discover it during a check unless it’s sensitivity is 100% to begin with
+
+Calming:
+Usable only if your sanity has dropped below your acceptable level. 50% chance of restoring a sanity point.
+
+You may also perform any action that you would like.  These are the baseline actions, but as long as it is only one action you may do anything a human could do.
+
+Notes:
+The Tycoon is an NPC, not a role
+If you leave a room and are attacked in the same turn, the attack will always go through first (aside from a Kidnapper who has a 1/3 to avoid the attack upon leaving)
+Everyone must escape through Mid 1 to win, aside from roles that need to kill everyone (who will automatically win upon completion of this objective).
+A minimum of 4 security roles will spawn.  Wotm will be used a fair bit in the rand in order to make sure balance is reasonable so that everyone has a fun time.
+This game is not perfectly balanced by any means.  Some roles are easier to win with than others.
+Talking is not an action and can be done freely
+The only way to safely leave the tower is through Mid 1, you cannot leave until I say you can
+Once the game begins, you may hint at events in game that you are experiencing in the main thread, but must not leak specifics like if someone attacks you etc.
+A few changes have been made from Fortified Tower 2 if you have any questions about these just ask.
+
+Map update for trap value/obstacle chance
+
+[spoiler]Left 12 (50 - 155/0%) | Tycoon (20/0%) | Right 12 (50 - 155/0%)
+Left 11 (0 - 80/50%/) | Mid 11 (0 - 50/50%/) | Right 11 (0 - 80/50%/)
+Left 10 (0 - 75/50%) | Mid 10 (0 - 70/50%)| Right 10 (0 - 75/50%)
+Left 9 (20 - 60/40%)| Mid 9 (20 - 60/40%)| Right 9 (20 - 60/40%)
+Left 8 (20 - 55/30%)| Mid 8 (20 - 50/30%) | Right 8 (20 - 55/30%)
+Left 7 (0 /50%)| Mid 7 (0 - 70/10%)| Right 7 (0/50%)
+Left 6 (0 - 50/20%)| Mid 6 (0 - 50/20%)| Right 6 (0 - 50/20%)
+Left 5 (0 - 30/10%)| Mid 5 (0 - 30/10%)| Right 5 (0 - 30/10%)
+Left 4 (0/10%)| Mid 4 (0/10%)| Right 4 (0/10%)
+Left 3 (0/10%)| Mid 3 (0/10%)| Right 3 (0/10%)
+Left 2 (0/10%)| Mid 2 (0/10%)| Right 2 (0/10%)
+Left 1 (0/10%) | Mid 1 (0/20%)| Right 1 (0/10%)[/spoiler]
+
+**Signups (Max 16 players):**
+
+1. EliThePsycho
+2. Marshal
+3. Solic
+4. Chloe
+5. PokemonKidRyan
+6. Whysper
+7. WindwardAway
+8. Marluxion
+9. Silviu
+10. Amelia
+11. Gabethebabe
+12. Nerbins
+13. Intensify
+14. Aelin
+
+**Backups**
+
+1. Mistyx
+2. Geyde
+
+**Spectators**
+
+1. DatBird</description>
+    
+    <lastBuildDate>Sun, 27 Jun 2021 20:34:57 +0000</lastBuildDate>
+    <category>Completed</category>
+    <atom:link href="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Fortified Tower 3 - Round Canned (?/14)</title>
+        <dc:creator><![CDATA[EliThePsycho]]></dc:creator>
+        <description><![CDATA[
+            <p>“Recently I was tricked into playing a game on another forum (Forumoflies) by Whysper and it was an interesting concept, that I haven’t seen run on POG yet.”</p>
+          <p><a href="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/386">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/386</link>
+        <pubDate>Sun, 27 Jun 2021 20:34:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87835-386</guid>
+        <source url="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835.rss">Fortified Tower 3 - Round Canned (?/14)</source>
+      </item>
+      <item>
+        <title>Fortified Tower 3 - Round Canned (?/14)</title>
+        <dc:creator><![CDATA[EliThePsycho]]></dc:creator>
+        <description><![CDATA[
+            <p>nice<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/8/6/868863a68b8a4258904504dc83daa8c7bac11f4f.png" data-download-href="https://forum.throneoflies.com/uploads/default/868863a68b8a4258904504dc83daa8c7bac11f4f" title="image"><img src="https://forum.throneoflies.com/uploads/default/optimized/3X/8/6/868863a68b8a4258904504dc83daa8c7bac11f4f_2_690x56.png" alt="image" data-base62-sha1="jc8c0vRV2JRufpenqA6vSdnmgov" width="690" height="56" srcset="https://forum.throneoflies.com/uploads/default/optimized/3X/8/6/868863a68b8a4258904504dc83daa8c7bac11f4f_2_690x56.png, https://forum.throneoflies.com/uploads/default/optimized/3X/8/6/868863a68b8a4258904504dc83daa8c7bac11f4f_2_1035x84.png 1.5x, https://forum.throneoflies.com/uploads/default/original/3X/8/6/868863a68b8a4258904504dc83daa8c7bac11f4f.png 2x" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/8/6/868863a68b8a4258904504dc83daa8c7bac11f4f_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1046×85 13.1 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          <p><a href="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/385">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/385</link>
+        <pubDate>Sun, 27 Jun 2021 20:34:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87835-385</guid>
+        <source url="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835.rss">Fortified Tower 3 - Round Canned (?/14)</source>
+      </item>
+      <item>
+        <title>Fortified Tower 3 - Round Canned (?/14)</title>
+        <dc:creator><![CDATA[Gabethebabe]]></dc:creator>
+        <description><![CDATA[
+            <aside class="onebox allowlistedgeneric" data-onebox-src="https://forumserver.twoplustwo.com/59/puzzles-other-games/smaugs-lair-low-commitment-adventure-game-signup-interest-1791986/">
+  <header class="source">
+
+      <a href="https://forumserver.twoplustwo.com/59/puzzles-other-games/smaugs-lair-low-commitment-adventure-game-signup-interest-1791986/" target="_blank" rel="noopener nofollow ugc">forumserver.twoplustwo.com</a>
+  </header>
+
+  <article class="onebox-body">
+    <img src="https://www.twoplustwo.com/images/2p2onecardlogo.png" class="thumbnail onebox-avatar" width="72" height="72">
+
+<h3><a href="https://forumserver.twoplustwo.com/59/puzzles-other-games/smaugs-lair-low-commitment-adventure-game-signup-interest-1791986/" target="_blank" rel="noopener nofollow ugc">Smaug's Lair - a low commitment adventure game signup/interest - Puzzles and...</a></h3>
+
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p><img src="https://forum.throneoflies.com/images/emoji/twitter/smiley.png?v=9" title=":smiley:" class="emoji only-emoji" alt=":smiley:"></p>
+          <p><a href="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/384">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/384</link>
+        <pubDate>Sun, 27 Jun 2021 20:25:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87835-384</guid>
+        <source url="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835.rss">Fortified Tower 3 - Round Canned (?/14)</source>
+      </item>
+      <item>
+        <title>Fortified Tower 3 - Round Canned (?/14)</title>
+        <dc:creator><![CDATA[Aelin]]></dc:creator>
+        <description><![CDATA[
+            <p>you’re totally fine, just glad you’re alright</p>
+          <p><a href="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/383">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/383</link>
+        <pubDate>Thu, 24 Jun 2021 11:43:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87835-383</guid>
+        <source url="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835.rss">Fortified Tower 3 - Round Canned (?/14)</source>
+      </item>
+      <item>
+        <title>Fortified Tower 3 - Round Canned (?/14)</title>
+        <dc:creator><![CDATA[DatBird]]></dc:creator>
+        <description><![CDATA[
+            <p>its okay dude, hope things get better</p>
+          <p><a href="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/382">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/382</link>
+        <pubDate>Wed, 23 Jun 2021 23:25:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87835-382</guid>
+        <source url="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835.rss">Fortified Tower 3 - Round Canned (?/14)</source>
+      </item>
+      <item>
+        <title>Fortified Tower 3 - Round Canned (?/14)</title>
+        <dc:creator><![CDATA[PokemonKidRyan]]></dc:creator>
+        <description><![CDATA[
+            <p>Yep, what Alice said.<br>
+It was concerning not to have heard from you.<br>
+So I’m just glad that you’re here now and safe.<br>
+Sorry to hear lots happened at the same time, life sucks sometimes like that.<br>
+<em>Hugs</em></p>
+          <p><a href="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/381">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/381</link>
+        <pubDate>Wed, 23 Jun 2021 23:03:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87835-381</guid>
+        <source url="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835.rss">Fortified Tower 3 - Round Canned (?/14)</source>
+      </item>
+      <item>
+        <title>Fortified Tower 3 - Round Canned (?/14)</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <p>Frankly I’m just glad that you’re fine.</p>
+          <p><a href="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/380">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/380</link>
+        <pubDate>Wed, 23 Jun 2021 22:43:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87835-380</guid>
+        <source url="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835.rss">Fortified Tower 3 - Round Canned (?/14)</source>
+      </item>
+      <item>
+        <title>Fortified Tower 3 - Round Canned (?/14)</title>
+        <dc:creator><![CDATA[WindwardAway]]></dc:creator>
+        <description><![CDATA[
+            <p>thanks for checking in, and glad you’re ok!</p>
+          <p><a href="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/379">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/379</link>
+        <pubDate>Wed, 23 Jun 2021 22:18:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87835-379</guid>
+        <source url="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835.rss">Fortified Tower 3 - Round Canned (?/14)</source>
+      </item>
+      <item>
+        <title>Fortified Tower 3 - Round Canned (?/14)</title>
+        <dc:creator><![CDATA[Apprentice]]></dc:creator>
+        <description><![CDATA[
+            <p>Hey y’all just wanted to sincerely apologize to everyone for disappearing and especially to Gabe since he hasn’t played on this site, before and this was a really shitty job representing.  I threw this on queue initially just because nothing was on there, and I didn’t want people to not have a misc to play.  Regardless, I thought I’d have time, but a bunch of stuff happened irl all at once and I just wasn’t online for a whole week.   I should’ve had a cohost/someone take over as soon as I realized this, but I just kinda got derailed and then wasn’t around.  Again want to apologize to everyone involved.</p>
+          <p><a href="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/378">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/378</link>
+        <pubDate>Wed, 23 Jun 2021 22:09:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87835-378</guid>
+        <source url="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835.rss">Fortified Tower 3 - Round Canned (?/14)</source>
+      </item>
+      <item>
+        <title>Fortified Tower 3 - Round Canned (?/14)</title>
+        <dc:creator><![CDATA[Whysper]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks for joining us here, Gabe. And sorry for stealing your precious. <img src="https://forum.throneoflies.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          <p><a href="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/377">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/377</link>
+        <pubDate>Tue, 22 Jun 2021 14:44:28 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87835-377</guid>
+        <source url="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835.rss">Fortified Tower 3 - Round Canned (?/14)</source>
+      </item>
+      <item>
+        <title>Fortified Tower 3 - Round Canned (?/14)</title>
+        <dc:creator><![CDATA[Gabethebabe]]></dc:creator>
+        <description><![CDATA[
+            <p>It’s been fun while it lasted, thanks all and feel free to join a game on POG any time you please</p>
+          <p><a href="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/376">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/376</link>
+        <pubDate>Tue, 22 Jun 2021 14:30:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87835-376</guid>
+        <source url="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835.rss">Fortified Tower 3 - Round Canned (?/14)</source>
+      </item>
+      <item>
+        <title>Fortified Tower 3 - Round Canned (?/14)</title>
+        <dc:creator><![CDATA[Intensify]]></dc:creator>
+        <description><![CDATA[
+            <p>I stopped the nerd guards from talking with each other so I declare myself the winner.</p>
+          <p><a href="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/375">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/375</link>
+        <pubDate>Tue, 22 Jun 2021 14:14:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87835-375</guid>
+        <source url="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835.rss">Fortified Tower 3 - Round Canned (?/14)</source>
+      </item>
+      <item>
+        <title>Fortified Tower 3 - Round Canned (?/14)</title>
+        <dc:creator><![CDATA[Gabethebabe]]></dc:creator>
+        <description><![CDATA[
+            <p>I would have put duct tape in your barrel and your shotgun would have exploded in your face, gg</p>
+          <p><a href="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/374">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/374</link>
+        <pubDate>Tue, 22 Jun 2021 11:47:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87835-374</guid>
+        <source url="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835.rss">Fortified Tower 3 - Round Canned (?/14)</source>
+      </item>
+      <item>
+        <title>Fortified Tower 3 - Round Canned (?/14)</title>
+        <dc:creator><![CDATA[PokemonKidRyan]]></dc:creator>
+        <description><![CDATA[
+            <p>I was told to shoot ya in the head Gabe as soon as I saw ya, and I would’ve done so.<br>
+Unloading a shotgun should be enough to finish you off</p>
+          <p><a href="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/373">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/373</link>
+        <pubDate>Tue, 22 Jun 2021 11:43:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87835-373</guid>
+        <source url="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835.rss">Fortified Tower 3 - Round Canned (?/14)</source>
+      </item>
+      <item>
+        <title>Fortified Tower 3 - Round Canned (?/14)</title>
+        <dc:creator><![CDATA[Gabethebabe]]></dc:creator>
+        <description><![CDATA[
+            <p>Ah, so you were a straight cop after all</p>
+<p>That is what I guessed in the first place when I met you and you told me about your adventures</p>
+          <p><a href="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/372">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/372</link>
+        <pubDate>Tue, 22 Jun 2021 11:43:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87835-372</guid>
+        <source url="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835.rss">Fortified Tower 3 - Round Canned (?/14)</source>
+      </item>
+      <item>
+        <title>Fortified Tower 3 - Round Canned (?/14)</title>
+        <dc:creator><![CDATA[Solic]]></dc:creator>
+        <description><![CDATA[
+            <p>No, I had to kill all criminals.</p>
+          <p><a href="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/371">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/371</link>
+        <pubDate>Tue, 22 Jun 2021 11:40:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87835-371</guid>
+        <source url="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835.rss">Fortified Tower 3 - Round Canned (?/14)</source>
+      </item>
+      <item>
+        <title>Fortified Tower 3 - Round Canned (?/14)</title>
+        <dc:creator><![CDATA[Gabethebabe]]></dc:creator>
+        <description><![CDATA[
+            <p>So it appears that Marshal and Solic who finished eachother off both had the same wincon (kill the Tycoon). Right?</p>
+          <p><a href="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/370">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/370</link>
+        <pubDate>Tue, 22 Jun 2021 11:33:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87835-370</guid>
+        <source url="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835.rss">Fortified Tower 3 - Round Canned (?/14)</source>
+      </item>
+      <item>
+        <title>Fortified Tower 3 - Round Canned (?/14)</title>
+        <dc:creator><![CDATA[Nerbins]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah probably a good call there’s a decent chance I would’ve garroted you later if I felt I didn’t kill enough people</p>
+          <p><a href="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/369">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/369</link>
+        <pubDate>Tue, 22 Jun 2021 06:04:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87835-369</guid>
+        <source url="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835.rss">Fortified Tower 3 - Round Canned (?/14)</source>
+      </item>
+      <item>
+        <title>Fortified Tower 3 - Round Canned (?/14)</title>
+        <dc:creator><![CDATA[Marshal]]></dc:creator>
+        <description><![CDATA[
+            <p>i feel like if you planned on killing me you were gonna do it then but i didnt think our relationship was sustainable so i decided to cut it off entirely</p>
+          <p><a href="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/368">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/368</link>
+        <pubDate>Tue, 22 Jun 2021 05:35:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87835-368</guid>
+        <source url="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835.rss">Fortified Tower 3 - Round Canned (?/14)</source>
+      </item>
+      <item>
+        <title>Fortified Tower 3 - Round Canned (?/14)</title>
+        <dc:creator><![CDATA[Nerbins]]></dc:creator>
+        <description><![CDATA[
+            <p>Believe it or not I was serious in my attempt to align with you</p>
+          <p><a href="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/367">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/367</link>
+        <pubDate>Tue, 22 Jun 2021 05:33:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87835-367</guid>
+        <source url="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835.rss">Fortified Tower 3 - Round Canned (?/14)</source>
+      </item>
+      <item>
+        <title>Fortified Tower 3 - Round Canned (?/14)</title>
+        <dc:creator><![CDATA[Gabethebabe]]></dc:creator>
+        <description><![CDATA[
+            <p>Don’t worry! There is no shame in being bad at a game. I’m sure you have other useful talents like knitting or something</p>
+          <p><a href="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/366">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/366</link>
+        <pubDate>Tue, 22 Jun 2021 05:08:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87835-366</guid>
+        <source url="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835.rss">Fortified Tower 3 - Round Canned (?/14)</source>
+      </item>
+      <item>
+        <title>Fortified Tower 3 - Round Canned (?/14)</title>
+        <dc:creator><![CDATA[Marluxion]]></dc:creator>
+        <description><![CDATA[
+            <p>You killed me on ROUND TWO</p>
+          <p><a href="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/365">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/365</link>
+        <pubDate>Tue, 22 Jun 2021 04:24:24 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87835-365</guid>
+        <source url="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835.rss">Fortified Tower 3 - Round Canned (?/14)</source>
+      </item>
+      <item>
+        <title>Fortified Tower 3 - Round Canned (?/14)</title>
+        <dc:creator><![CDATA[Gabethebabe]]></dc:creator>
+        <description><![CDATA[
+            <p>I was simply planning after sweeping the entire 5th floor for items, move down, sweep the 4th floor etc. Searching every room and hopefully be loaded with weapons and having eliminated a bunch with the plague when I arrive at the bottom</p>
+<p>Them I just wait and kill everyone with my arsenal that tries to escape after having killed that stupid tycoon</p>
+          <p><a href="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/364">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/364</link>
+        <pubDate>Tue, 22 Jun 2021 04:22:15 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87835-364</guid>
+        <source url="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835.rss">Fortified Tower 3 - Round Canned (?/14)</source>
+      </item>
+      <item>
+        <title>Fortified Tower 3 - Round Canned (?/14)</title>
+        <dc:creator><![CDATA[Wazza]]></dc:creator>
+        <description><![CDATA[
+            <p>I feel bad for this game getting canned, sorry about that to the players who were in it. I was planning on hopping in as a co-host to help out but had no way to contact App, sorry about that.</p>
+<p>I hope App is doing alright though</p>
+          <p><a href="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/363">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/363</link>
+        <pubDate>Tue, 22 Jun 2021 04:18:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87835-363</guid>
+        <source url="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835.rss">Fortified Tower 3 - Round Canned (?/14)</source>
+      </item>
+      <item>
+        <title>Fortified Tower 3 - Round Canned (?/14)</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p>I found like three pistols lmao</p>
+          <p><a href="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/362">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835/362</link>
+        <pubDate>Tue, 22 Jun 2021 04:18:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87835-362</guid>
+        <source url="https://forum.throneoflies.com/t/fortified-tower-3-round-canned-14/87835.rss">Fortified Tower 3 - Round Canned (?/14)</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[Bug] Incorrect Observer feedback with no Apostle/Illusionist</title>
+    <link>https://forum.throneoflies.com/t/bug-incorrect-observer-feedback-with-no-apostle-illusionist/25180</link>
+    <description>#### What happened?
+
+Observer followed an outted Merc to check if he was lying about contract at night. Target received a messaged saying that a mercenary guarded but Observer&#39;s reports said that the Merc did not visit anyone that night. 
+
+Additional info: Merc&#39;s target (physician) and the Cult Leader both visited the Merc that night as well. Observer&#39;s logs reflected that accurately. The Merc was converted that night as well. 
+
+#### What was SUPPOSED to happen?
+
+The Observer should have received a messaged saying that Merc visited their target.
+
+#### Steps to reproduce:
+
+Not exactly sure, but it seems like the things that stood out were:
+
+1. Have Cult Leader convert mercenary same night as he guards target
+2. Have Observer watch
+
+#### Comments:
+
+It was confirmed by end game screen and Cult members that there was no Apostle at any time during the game.
+I don&#39;t know what else to add but as I was the target (phys) Ill post a screenshot of my logs below.
+
+![Capture|348x166](upload://wPM1fnlvMh5Er3bQoOJUwrMGi5M.PNG)
+
+Edit: for clarification, 7 was Merc and 8 was Obs telling Merc to guard his target in whispers.</description>
+    
+    <lastBuildDate>Fri, 08 Dec 2017 00:10:41 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forum.throneoflies.com/t/bug-incorrect-observer-feedback-with-no-apostle-illusionist/25180.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[Bug] Incorrect Observer feedback with no Apostle/Illusionist</title>
+        <dc:creator><![CDATA[qunnie]]></dc:creator>
+        <description><![CDATA[
+            <h4>What happened?</h4>
+<p>Observer followed an outted Merc to check if he was lying about contract at night. Target received a messaged saying that a mercenary guarded but Observer’s reports said that the Merc did not visit anyone that night.</p>
+<p>Additional info: Merc’s target (physician) and the Cult Leader both visited the Merc that night as well. Observer’s logs reflected that accurately. The Merc was converted that night as well.</p>
+<h4>What was SUPPOSED to happen?</h4>
+<p>The Observer should have received a messaged saying that Merc visited their target.</p>
+<h4>Steps to reproduce:</h4>
+<p>Not exactly sure, but it seems like the things that stood out were:</p>
+<ol>
+<li>Have Cult Leader convert mercenary same night as he guards target</li>
+<li>Have Observer watch</li>
+</ol>
+<h4>Comments:</h4>
+<p>It was confirmed by end game screen and Cult members that there was no Apostle at any time during the game.<br>
+I don’t know what else to add but as I was the target (phys) Ill post a screenshot of my logs below.</p>
+<p><img src="/uploads/default/original/2X/e/e61fd540a6079b576fb66b56abc408aad4c5ecfe.PNG" alt="Capture" data-base62-sha1="wPM1fnlvMh5Er3bQoOJUwrMGi5M" width="348" height="166"></p>
+<p>Edit: for clarification, 7 was Merc and 8 was Obs telling Merc to guard his target in whispers.</p>
+          <p><a href="https://forum.throneoflies.com/t/bug-incorrect-observer-feedback-with-no-apostle-illusionist/25180/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/bug-incorrect-observer-feedback-with-no-apostle-illusionist/25180/1</link>
+        <pubDate>Fri, 08 Dec 2017 00:10:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-25180-1</guid>
+        <source url="https://forum.throneoflies.com/t/bug-incorrect-observer-feedback-with-no-apostle-illusionist/25180.rss">[Bug] Incorrect Observer feedback with no Apostle/Illusionist</source>
+      </item>
+  </channel>
+</rss>

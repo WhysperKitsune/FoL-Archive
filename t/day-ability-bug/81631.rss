@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Day ability bug</title>
+    <link>https://forum.throneoflies.com/t/day-ability-bug/81631</link>
+    <description>Pre-face; I already believe this bug is reported through Discord, but just for safety and general information, I post it on the forums as well.
+
+#### What happened?
+
+Cancelling a day ability with a target/selection, causes all day abilities to be grayed out.
+Example Prince jails a target, deselects the target (to change targets), the Imprison ability grays out and you cannot use it again until next day.
+Has also happened with Poss using Facelift, and I&#39;ve heard the same for Sheriff using Scout.
+
+#### What was SUPPOSED to happen?
+
+You deselect your day ability target and your day abilities are still active.
+
+#### Steps to reproduce:
+
+Use a day ability with a target, then click the ability again to cancel and it should lock you out of your day abilities.
+
+#### Comments:
+
+A bonus: if you cancel a day ability like above but have charge abilities, then you may encounter that clicking charge abilities can spend a charge without actually using the charge ability.
+This seems to be able to happen with other abilities than just cancelable target abilities. If Assassin Silences a player, they supposedly cannot use Bleed. If you click the Lacerate ability it may still spend a charge. This may be in conjunction with trials, using Silence during the trial of another player, then clicking on Lacerate (still during or after the trial - I don&#39;t remember which).</description>
+    
+    <lastBuildDate>Wed, 13 May 2020 15:31:30 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forum.throneoflies.com/t/day-ability-bug/81631.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Day ability bug</title>
+        <dc:creator><![CDATA[CoconutGator]]></dc:creator>
+        <description><![CDATA[
+            <p>Had this happen to me in game as Prince, asked in the endgame lobby about it and people said it was from the latest patch.</p>
+          <p><a href="https://forum.throneoflies.com/t/day-ability-bug/81631/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/day-ability-bug/81631/2</link>
+        <pubDate>Wed, 13 May 2020 15:31:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81631-2</guid>
+        <source url="https://forum.throneoflies.com/t/day-ability-bug/81631.rss">Day ability bug</source>
+      </item>
+      <item>
+        <title>Day ability bug</title>
+        <dc:creator><![CDATA[Iteration]]></dc:creator>
+        <description><![CDATA[
+            <p>Pre-face; I already believe this bug is reported through Discord, but just for safety and general information, I post it on the forums as well.</p>
+<h4>What happened?</h4>
+<p>Cancelling a day ability with a target/selection, causes all day abilities to be grayed out.<br>
+Example Prince jails a target, deselects the target (to change targets), the Imprison ability grays out and you cannot use it again until next day.<br>
+Has also happened with Poss using Facelift, and I’ve heard the same for Sheriff using Scout.</p>
+<h4>What was SUPPOSED to happen?</h4>
+<p>You deselect your day ability target and your day abilities are still active.</p>
+<h4>Steps to reproduce:</h4>
+<p>Use a day ability with a target, then click the ability again to cancel and it should lock you out of your day abilities.</p>
+<h4>Comments:</h4>
+<p>A bonus: if you cancel a day ability like above but have charge abilities, then you may encounter that clicking charge abilities can spend a charge without actually using the charge ability.<br>
+This seems to be able to happen with other abilities than just cancelable target abilities. If Assassin Silences a player, they supposedly cannot use Bleed. If you click the Lacerate ability it may still spend a charge. This may be in conjunction with trials, using Silence during the trial of another player, then clicking on Lacerate (still during or after the trial - I don’t remember which).</p>
+          <p><a href="https://forum.throneoflies.com/t/day-ability-bug/81631/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/day-ability-bug/81631/1</link>
+        <pubDate>Wed, 06 May 2020 00:39:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81631-1</guid>
+        <source url="https://forum.throneoflies.com/t/day-ability-bug/81631.rss">Day ability bug</source>
+      </item>
+  </channel>
+</rss>

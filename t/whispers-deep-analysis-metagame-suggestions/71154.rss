@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Whispers. Deep analysis, metagame, suggestions</title>
+    <link>https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154</link>
+    <description>_Okay, whispers._ 
+A nice mechanic. I like the concept of whispers; **being able to create strategies during the day**. It means you can lie to someone specifically in a private way, tricking them into making an action you want. That you can coordinate your actions with someone else you trust to have more impact on your night abilities and that you have a way to know two people are planning something, but not sure of what it is. Except it does not work like that — if so it is so rare that we already forgot why whispers are a nice mechanic. In this thread I will try to dissect all the concept of a whisper, how it is affecting the metagame and possible sollutions to the biggest problems at my eyes — and the rest of the playerbase, of course. ~~Yes, I am talking about King Whisper Meta.~~ Yeah, not like [this](https://forum.imperium42.com/t/lets-talk-about-whispers/51870) [is](https://forum.imperium42.com/t/the-best-solution-to-the-whisper-meta/52504) [rarely](https://forum.imperium42.com/t/potential-way-to-stop-the-whisper-meta/52458) [talked](https://forum.imperium42.com/t/whisper-king-meta-thread/52623) [about](https://forum.imperium42.com/t/thoughts-on-whisper-me-roles-king-meta/51757?u=twil1ight). There are plenty of great ideas to avoid this, and if no heavy measures have been taken until now we can safely assume it is kinda of the point in the dev&#39;s mind. Does it mean they don&#39;t listen to us? Nah, they do, but balancing is hard and they have an objective in mind. Let&#39;s already go into the topic and I will try to explain myself better. 
+&gt;_Oh and that is gonna be a long read, hope you&#39;re ready._
+
+First of all: **how do whispers work?**
+Pretty simple. You choose someone, you write a message and then just this person has the ability to read that. Simple. And to not end up becoming a flat mechanic, we have additions to this: other people can see who is whispering who, but can&#39;t read the message. Oh, and some classes can take advantage of this mechanic. _Mystic_ and _Illusionist_ can use **Private Matter** to get completely hidden whispers, so no one can see what they got. _Noble_ and _Aristocrat_ have a powerful ability called **Maid Spy** while _Apostle_ has **Cult Spy** which can see the content of all whispers in the day after it is used. Finally, _Possessor_ can see the whispers to and from his target using **Puppet Strings**. How each of these abilities affect something so simple like whispers? How they _don&#39;t_ affect them? That&#39;s where I am getting into now. 
+
+**Possessor&#39;s Puppet Strings:**
+&gt;`Control a player and force them to kill another. You will also see whispers to and from the controlled player the next day. They will not be aware that they were controlled. Note that they still act normally that night; this does not replace their action.`
+
+This ability is Poss&#39; usual killing way, as the **Possess** should usually be used to remove your current suspicion and make a fuss in the court. What differentiates it from other killing tools is that is has the whisper mechanic working actively on who is his first target (the controlled attacker). Why that? So, this way, Possessor has a variety of options: he can carefully choose who is the attacker, so he will have access to all the day info this person gets. He can also counter the password meta, if lucky enough. More abrangent ways to use that could be so you jump to another body and use the logs of the previous one to deny someone&#39;s else claims in whisper (e.g. Obs says no one visited 5 to King, but your dead logs say you did it) or be brave enough to claim Noble in harsh situations, which I don&#39;t recommend at all but hey it is an option. 
+
+Poss&#39; PS has little to no impact in the whisper subject. If your target use a DeathNote and knows someone that died were not targeted by them, yet there is their drawing alongside the dead&#39;s logs they will know there is a Poss and that you can read their whispers. Also as it only targets one person that can&#39;t be the King you are not likely to get relevant information easily. It helps if the person you want to jump into whispers a lot and has a password, but other than that this ability hardly affects the whisper metagame and concept. I like how PS works, it is balanced for the class and useful in the right situations instead of all of them. It can benefit from King meta, but not enough to guarantee a win. 
+
+**Mystic and Illusionist&#39;s Private Matter:**
+&gt;`All whispers to and from you will be hidden from the public.`
+
+Mystic&#39;s touch in the whisper system. Hardly used, but useful if the Mystic player wants to be aggresive and ask for claims. No one else besides Mystic will be able to read the whispers and they won&#39;t even know someone messaged the Mystic. Has little to no use currently, but serves as a way to confirm in Cult Game, as Apostle has telepathy but not Private Matter. If brave ~~and lucky~~ enough, Illusionist can pretend to be Mystic the second day after being converted (better if it was 1st night conv) and ask for claims, then be upped by fellow Unseen members the next day as &quot;visited by Unseen last night&quot; to confirm themselves as the good guys and get the info Illu got in whispers _while_ also able to convert again. Real Sheriff scout fuck this up, tho. 
+
+Again, being as niche as it is, Private Matter hardly affect the game&#39;s current state with whispers. The strategies around it are pretty situational and can be easily avoided by an experienced player. I would say Mystic needs something else besides that ability, ~~just like Illusionist needs something else besides Mental Blur~~ but I also see no problem with the ability to be as it is. 
+
+**Noble and Aristocrat&#39;s Maid Spy, Apostle&#39;s Cult Spy:** 
+&gt;`See the contents of all whispers tomorrow.`
+
+Now that is a powerful ability. Not because the concept of whispers is busted, but because of the meta around it. King&#39;s meta is my next topic, but let&#39;s first talk about how this interacts with the meta. Spy will allow it&#39;s user to see everything that is not hidden with Private Matter, from everyone. It has 3 uses to Noble and Aristo and only 2 to Apostle, what means in usual Unseen games they can safely Spy the first two days and gossip until they feel like doing so again. This ability can gather information better than the King&#39;s meta, as it benefits from the meta _and_ additional whispers. I believe the initial intention of the buff to see _almost everything_ was to nullify King&#39;s and Prince&#39;s whisper meta, but it did not work. When people don&#39;t whisper their main reason is to simple dislike the meta or believe the king is evil, almost never because there can be converted Noble.  
+
+The ability gives Noble way too much power. They can easily spot lies comboing Spy with Gossip, pressure EK to actually go to work when he has 3 claims of the same class, give them easy logs to write and be read and most importantly: completely shutdown Evil&#39;s plans. No, I am not just saying evils talking with each other via whispers. This gives them no room to trick players individually, to indeed hide their classes while _lying_, which is the major concept of the game. Whispers are almost a &quot;tell me the truth&quot; mechanic because of Spy. Every claim via whispers put you at risk, no matter what. Neutral, evil, converted; all non-BD members are at disadvantage because Spy is a thing. Not to say the late use third Spies (remember when I said they can safely use 2 in the first two days?), as no one expects to be spied d6, d7 or d8. Spy puts evils at pressure. It would be a good thing if whispers itself weren&#39;t already doing that. How? _Well, I know you are waiting for this._ In the King Meta! 
+
+**The King Whisper Meta**
+Damn that&#39;s a hell of a name, I will call it KWM from now on. KWM consists of a concept simple as day: you whisper King your claim, now he has to do the Investigative work with this analyzing the claims of other people to see discrepancies. When he sees, he up. Usually, when people don&#39;t claim, they are also upped just so the court can have access to his logs. Not surprisingly enough, this strategy puts evils at a very low chance of success when faced against a Good King (both GK and a good player, so to speak). The KWM is happening for a while now and has been confirmed a pretty consistent strategy. The King, differently from the Prince, can guard himself to prevent attacks. That is the major downside of Prince Whisper Meta; he could be healed, sure, but there are a lot of abilities to bypass that while King&#39;s guard do not have that big of a downside. If King happens to be confirmed Good all BD members can gladly claim to him. 
+
+_And why it is that bad?_
+It has one of the biggest problems that any metagame in _any_ game usually has: F U N   &amp;   I N T E R A C T I V E    G A M E P L A Y. But, of course, the opposite. You see? Most part of the game is at the King&#39;s hands. It is too much power for a person. Other than that, as I said previously, it has a big impact on the lies. You lie, you get caught. When you have _all the info_ you could ask for in the game, you are just like a spectator that can check what everyone is doing, but instead you are actually there commanding the game&#39;s flow. This is not healthy, yet is consistent. KWM puts pressure on the evils, EVEN if you are Evil King; remembers Noble? They make it so EK has to up discrepancies and end up really executing Unseen. Not only that, but even if they play well both as GK or EK and end up dying with their notes showing all claims, BD still benefits from the info more than evils. This is not even meta plays that consist of using the best options available to win, this is _literally_ meta game. No one likes it cause it requires very little effort for BD in order to win.
+
+**And how to counter that?**
+There are two ways to counter a behaviour you don&#39;t want in a game. You can either passively/actively make the mechanic worthless or nonexistent or you can demote it&#39;s use or promote not using it. The more healthy way, of course, it rewarding people the less they use it instead of forcefully making it a bad option; you can whisper, but you have a risk in doing so. 
+
+I have a few suggestions to how avoid this meta and most whisper problems. No need to remove the mechanic or to make it useless, you just need to give space for evils to use it and punish its widespread use. 
+
+The first suggestion.
+**Unseen Spy**
+MasterMind&#39;s Day Ability, 1 use. 
+_See the contents of all whispers tomorrow._ (Can be used d1, of course).
+
+How does this affects the game?
+Yes, BD still benefits from whispers more than evils, but this put them at a disadvantage as well. It does not even work as a tool to give Unseen information, it is mostly a disruptive way to make BD hesitante to whisper. _&quot;Will MM use it to d2 or d3?&quot;_ Not everyone will want to claim, probably ending up not claiming at all. MM will have a meta information that can help them to claim, even with KWM in use. They will have more targets, more options and BD will find the need to lie! _Throne of Lies! The Online Game of Deceit!_ BD will look forward to lie in whispers if they want to trick MM, while evils will look forward lying as usual as well. When the mechanic that only benefits BD turns out to alongside benefit evils, it balances itself. The whisper meta won&#39;t be that frequent, so MM won&#39;t have the most powerful tool of information and AGAIN: BD benefits from info more than evils. 
+
+Suddenly, Mystic&#39;s Private Matter are a good thing. But just like Prince they can be easily shut down, not to say converted as well; it avoids the entire _meta claiming_ but still gives the ability it&#39;s use. 
+
+The second suggestion.
+**Maid Spy**
+Noble&#39;s Night Ability, 4 uses. | Aristocrat&#39;s Night Ability. 3 uses.
+_See the contents of whispers to and from 2 targets of your choice._ Noble&#39;s. 
+_See the contents of all whispers tomorrow._ Aristocrat&#39;s. 
+
+How does this affect the game?
+First of all, Noble has to strategically think about using the ability. Usually targeting the King and an additional person of his liking. This gives evils and neutrals room to breathe and use whispers at their side, while still being a threat cause, ya know, you can be one of the targets. This nerfs Noble&#39;s powerful ability to gather information while making it more strategic and interactive. Aristocrat can maintain the ability as it is currently, cause there is no problem in that for the same reasons in the MM suggestion above. Can even nerf it to 2 uses, being honest, but not necessary. The thing is this won&#39;t make whispers a &quot;must tell the truth&quot; mechanic, you can put your deceit abilities into use, what is awesome. 
+
+The third suggestion.
+**Private Matter**
+Mystic and Illusionist&#39;s Day Ability. 2 uses. 
+_All whispers to and from you will be hidden from the public. They will not know who are you neither you will know who they are._
+
+How does this affect the game?
+Yes, it may give room to a &quot;claim to Mystic&quot; meta, but you have no reason to believe it is not Illu and you can pretend to be another person. Any meta that goes around you claiming your number in whispers may be easily avoided. Thing is you don&#39;t know who Mystic is and if they are gathering a lot of info trying to force a whisper meta they have no way to know your claim is legit. This would make games more interesting in my view, again allowing breathe room to lies and deduction. This is gameplay!
+
+**And finally: why is this still a thing?**
+I don&#39;t think the devs aren&#39;t listening, I just think they are trying to issue a problem with King usefulness in the wrong way. Think about King with absolutely 0 claims. He will just guard himself and point when a Sheriff/Pala/Scorned/Fool/Stuff scream SOMEONE IS GUILTY! Even EK&#39;s Allies is worthless without any claims to help him select the targets. King needs claims, but not all of them like it is happening right now. Sadly I don&#39;t know any way to fix the problem with King, but I like the concept of the class being the leader in most decisions; after all he is the King. We need a leader, yeah, but not an omniscient entity that makes the game uniteractive and too reliant on a single person. 
+
+What we need is a way to make the mechanic usable for everyone and don&#39;t make it a way to get a lot of truths in a DECEIT game. We need more thought in the matches, not less. 
+
+Thanks for reading it all and sorry for any spelling mistakes, PM me anything and I can correct :b</description>
+    
+    <lastBuildDate>Wed, 02 Jan 2019 23:41:01 +0000</lastBuildDate>
+    <category>Feedback/Suggestions</category>
+    <atom:link href="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Whispers. Deep analysis, metagame, suggestions</title>
+        <dc:creator><![CDATA[Reaper]]></dc:creator>
+        <description><![CDATA[
+            <p>I was scrolling my past threads<br>
+Man, KWM is gone indeed<br>
+Almost called birds<br>
+Big oof</p>
+          <p><a href="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/177">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/177</link>
+        <pubDate>Wed, 02 Jan 2019 23:41:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71154-177</guid>
+        <source url="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154.rss">Whispers. Deep analysis, metagame, suggestions</source>
+      </item>
+      <item>
+        <title>Whispers. Deep analysis, metagame, suggestions</title>
+        <dc:creator><![CDATA[Reaper]]></dc:creator>
+        <description><![CDATA[
+            <p>Also for the guys discussing above this, I will read everything later… so many messages lul. Not on PC rn so yeah, but thanks for keeping the thread alive!</p>
+          <p><a href="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/176">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/176</link>
+        <pubDate>Sat, 28 Jul 2018 04:00:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71154-176</guid>
+        <source url="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154.rss">Whispers. Deep analysis, metagame, suggestions</source>
+      </item>
+      <item>
+        <title>Whispers. Deep analysis, metagame, suggestions</title>
+        <dc:creator><![CDATA[Reaper]]></dc:creator>
+        <description><![CDATA[
+            <p>Interesting idea, probably the most out of the ground here but this makes me like it.<br>
+We must not only see the impact we intend to do, though. This would change how people see steps as well. Anyone stepping would be more likely EK, specially if royals died early. Hmmm I will be honest, I like it, but keeping away the ability of Unseen to kill until they convert is a big downside, especially with so many things preventing converts. Probably not worth the trade, but interesting idea nonetheless.</p>
+          <p><a href="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/175">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/175</link>
+        <pubDate>Sat, 28 Jul 2018 03:54:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71154-175</guid>
+        <source url="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154.rss">Whispers. Deep analysis, metagame, suggestions</source>
+      </item>
+      <item>
+        <title>Whispers. Deep analysis, metagame, suggestions</title>
+        <dc:creator><![CDATA[Marcus_Doodalee]]></dc:creator>
+        <description><![CDATA[
+            <p>What about making unseen start with an aristocrat at some frequency rather than an assassin sometimes, with the convert changing into an assassin?</p>
+<p>Along the lines of having a confirmed sheriff/paladin and a confirmed healer. Make a confirmed noble/aristocrat/apostle spawn?</p>
+          <p><a href="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/174">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/174</link>
+        <pubDate>Sat, 28 Jul 2018 03:29:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71154-174</guid>
+        <source url="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154.rss">Whispers. Deep analysis, metagame, suggestions</source>
+      </item>
+      <item>
+        <title>Whispers. Deep analysis, metagame, suggestions</title>
+        <dc:creator><![CDATA[Shrimpy]]></dc:creator>
+        <description><![CDATA[
+            <blockquote>
+<p>So if you refuse to listen to the Hunter then you die.</p>
+</blockquote>
+<p>At night.</p>
+<blockquote>
+<p>While if you refuse to listen to the King then not much happens.</p>
+</blockquote>
+<p>If he gets enough votes to put you up, he can kill you with decide fate.  If he can’t get enough votes, in some niche situations his point finger is enough to guarantee your execution.  Even in general, the court is usually willing to put someone up who has had the royal finger pointed at them since it’s considered a sign of trust in the court’s judgement and the court is always more than happy to judge a case.</p>
+<p>The point being, King has more power over daytime trials than Hunter does which is the same a King being better equipped to lead.</p>
+<p>This is largely why the King whisper meta exists - to give the person best equipped to lead daytime trials the information to inform the way he uses those abilities.</p>
+<p>If King isn’t fed information, his abilities are fairly useless since he won’t know how to use them.  He would be either randomly pointing fingers or just sitting doing nothing at all.</p>
+          <p><a href="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/173">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/173</link>
+        <pubDate>Sat, 28 Jul 2018 01:40:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71154-173</guid>
+        <source url="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154.rss">Whispers. Deep analysis, metagame, suggestions</source>
+      </item>
+      <item>
+        <title>Whispers. Deep analysis, metagame, suggestions</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>No vote matter’s until it is the majority of votes. And no trial ability matter’s if you are not on trial. Since both of those conditions require other’s to already believe you that means that you can’t lead… unless you are already leading.</p>
+<p>The Hunter however does not need anyone to trust him in order for him to kill. So if you refuse to listen to the Hunter then you die. While if you refuse to listen to the King then not much happens.</p>
+          <p><a href="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/172">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/172</link>
+        <pubDate>Sat, 28 Jul 2018 01:33:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71154-172</guid>
+        <source url="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154.rss">Whispers. Deep analysis, metagame, suggestions</source>
+      </item>
+      <item>
+        <title>Whispers. Deep analysis, metagame, suggestions</title>
+        <dc:creator><![CDATA[Shrimpy]]></dc:creator>
+        <description><![CDATA[
+            <p>Well, once you get someone up, the King can decide the outcome of the trial even if all 14 other people disagree</p>
+<p>And if King has trouble getting enough votes to put someone up, he can point finger.</p>
+          <p><a href="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/171">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/171</link>
+        <pubDate>Sat, 28 Jul 2018 01:30:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71154-171</guid>
+        <source url="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154.rss">Whispers. Deep analysis, metagame, suggestions</source>
+      </item>
+      <item>
+        <title>Whispers. Deep analysis, metagame, suggestions</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Because it’s unintuitively irrelevant</p>
+          <p><a href="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/170">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/170</link>
+        <pubDate>Sat, 28 Jul 2018 01:28:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71154-170</guid>
+        <source url="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154.rss">Whispers. Deep analysis, metagame, suggestions</source>
+      </item>
+      <item>
+        <title>Whispers. Deep analysis, metagame, suggestions</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Yes</p>
+          <p><a href="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/169">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/169</link>
+        <pubDate>Sat, 28 Jul 2018 01:27:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71154-169</guid>
+        <source url="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154.rss">Whispers. Deep analysis, metagame, suggestions</source>
+      </item>
+      <item>
+        <title>Whispers. Deep analysis, metagame, suggestions</title>
+        <dc:creator><![CDATA[Shrimpy]]></dc:creator>
+        <description><![CDATA[
+            <p>Do I need to explain how having the most powerful trial ability makes King the best equipped for leading trials?</p>
+          <p><a href="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/168">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/168</link>
+        <pubDate>Sat, 28 Jul 2018 01:26:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71154-168</guid>
+        <source url="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154.rss">Whispers. Deep analysis, metagame, suggestions</source>
+      </item>
+      <item>
+        <title>Whispers. Deep analysis, metagame, suggestions</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>So? How does that make him a better leader</p>
+          <p><a href="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/167">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/167</link>
+        <pubDate>Sat, 28 Jul 2018 01:26:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71154-167</guid>
+        <source url="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154.rss">Whispers. Deep analysis, metagame, suggestions</source>
+      </item>
+      <item>
+        <title>Whispers. Deep analysis, metagame, suggestions</title>
+        <dc:creator><![CDATA[Shrimpy]]></dc:creator>
+        <description><![CDATA[
+            <p>King has the most powerful trial ability, decide fate</p>
+<p>Also point finger</p>
+          <p><a href="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/166">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/166</link>
+        <pubDate>Sat, 28 Jul 2018 01:26:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71154-166</guid>
+        <source url="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154.rss">Whispers. Deep analysis, metagame, suggestions</source>
+      </item>
+      <item>
+        <title>Whispers. Deep analysis, metagame, suggestions</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Then point out things that help him lead instead of saying how he can kill the prince or save the MM or whatever.</p>
+          <p><a href="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/165">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/165</link>
+        <pubDate>Sat, 28 Jul 2018 01:24:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71154-165</guid>
+        <source url="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154.rss">Whispers. Deep analysis, metagame, suggestions</source>
+      </item>
+      <item>
+        <title>Whispers. Deep analysis, metagame, suggestions</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Objection. Scorned is the best leading class. He leads all the sheep to execute his target.</p>
+          <p><a href="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/164">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/164</link>
+        <pubDate>Sat, 28 Jul 2018 01:24:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71154-164</guid>
+        <source url="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154.rss">Whispers. Deep analysis, metagame, suggestions</source>
+      </item>
+      <item>
+        <title>Whispers. Deep analysis, metagame, suggestions</title>
+        <dc:creator><![CDATA[Shrimpy]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m not trying to get you to “want” king to lead, I’m just pointing out King as a class is best equipped for leading the court during the day</p>
+          <p><a href="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/163">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/163</link>
+        <pubDate>Sat, 28 Jul 2018 01:24:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71154-163</guid>
+        <source url="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154.rss">Whispers. Deep analysis, metagame, suggestions</source>
+      </item>
+      <item>
+        <title>Whispers. Deep analysis, metagame, suggestions</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Who the fuck cares. NONE OF THAT IS RELEVANT</p>
+          <p><a href="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/162">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/162</link>
+        <pubDate>Sat, 28 Jul 2018 01:23:24 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71154-162</guid>
+        <source url="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154.rss">Whispers. Deep analysis, metagame, suggestions</source>
+      </item>
+      <item>
+        <title>Whispers. Deep analysis, metagame, suggestions</title>
+        <dc:creator><![CDATA[Shrimpy]]></dc:creator>
+        <description><![CDATA[
+            <p>Evil King also has the power to kill an outed Mastermind before D4 if he deems it opportune.  What is hunter going to do to stop that?</p>
+<p>Also in the scenario where EK force pardons MM without Prince alive, what is hunter going to do?  Wolf the MM and risk getting converted?</p>
+          <p><a href="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/161">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/161</link>
+        <pubDate>Sat, 28 Jul 2018 01:23:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71154-161</guid>
+        <source url="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154.rss">Whispers. Deep analysis, metagame, suggestions</source>
+      </item>
+      <item>
+        <title>Whispers. Deep analysis, metagame, suggestions</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>And again. Even if he somehow survived. So what? Why does that make me want to let the king lead me more?</p>
+          <p><a href="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/160">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/160</link>
+        <pubDate>Sat, 28 Jul 2018 01:22:20 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71154-160</guid>
+        <source url="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154.rss">Whispers. Deep analysis, metagame, suggestions</source>
+      </item>
+      <item>
+        <title>Whispers. Deep analysis, metagame, suggestions</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>No. Regardless of if Prince is alive and has exe’s they are both dead. People aren’t going to just forget that he’s MM just because a day has passed.</p>
+          <p><a href="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/159">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/159</link>
+        <pubDate>Sat, 28 Jul 2018 01:21:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71154-159</guid>
+        <source url="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154.rss">Whispers. Deep analysis, metagame, suggestions</source>
+      </item>
+      <item>
+        <title>Whispers. Deep analysis, metagame, suggestions</title>
+        <dc:creator><![CDATA[Shrimpy]]></dc:creator>
+        <description><![CDATA[
+            <p>Only if Prince is alive and has exes</p>
+          <p><a href="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/158">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/158</link>
+        <pubDate>Sat, 28 Jul 2018 01:21:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71154-158</guid>
+        <source url="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154.rss">Whispers. Deep analysis, metagame, suggestions</source>
+      </item>
+      <item>
+        <title>Whispers. Deep analysis, metagame, suggestions</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p><img src="/images/emoji/twitter/popcorn.png?v=9" title=":popcorn:" class="emoji" alt=":popcorn:"> I love this show.</p>
+          <p><a href="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/157">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/157</link>
+        <pubDate>Sat, 28 Jul 2018 01:21:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71154-157</guid>
+        <source url="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154.rss">Whispers. Deep analysis, metagame, suggestions</source>
+      </item>
+      <item>
+        <title>Whispers. Deep analysis, metagame, suggestions</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>And then they both die. Your point?</p>
+          <p><a href="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/156">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/156</link>
+        <pubDate>Sat, 28 Jul 2018 01:21:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71154-156</guid>
+        <source url="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154.rss">Whispers. Deep analysis, metagame, suggestions</source>
+      </item>
+      <item>
+        <title>Whispers. Deep analysis, metagame, suggestions</title>
+        <dc:creator><![CDATA[Shrimpy]]></dc:creator>
+        <description><![CDATA[
+            <p>Evil King will force pardon the Mastermind</p>
+          <p><a href="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/155">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/155</link>
+        <pubDate>Sat, 28 Jul 2018 01:20:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71154-155</guid>
+        <source url="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154.rss">Whispers. Deep analysis, metagame, suggestions</source>
+      </item>
+      <item>
+        <title>Whispers. Deep analysis, metagame, suggestions</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>No. I suppose I don’t need the king to tell me to vote up the Mastermind.</p>
+          <p><a href="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/154">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/154</link>
+        <pubDate>Sat, 28 Jul 2018 01:20:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71154-154</guid>
+        <source url="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154.rss">Whispers. Deep analysis, metagame, suggestions</source>
+      </item>
+      <item>
+        <title>Whispers. Deep analysis, metagame, suggestions</title>
+        <dc:creator><![CDATA[Shrimpy]]></dc:creator>
+        <description><![CDATA[
+            <p>Okay, I suppose you will never vote up the Mastermind?</p>
+          <p><a href="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/153">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154/153</link>
+        <pubDate>Sat, 28 Jul 2018 01:19:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71154-153</guid>
+        <source url="https://forum.throneoflies.com/t/whispers-deep-analysis-metagame-suggestions/71154.rss">Whispers. Deep analysis, metagame, suggestions</source>
+      </item>
+  </channel>
+</rss>

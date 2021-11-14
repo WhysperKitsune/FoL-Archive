@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>0.9.9 Patch Notes</title>
+    <link>https://forum.throneoflies.com/t/0-9-9-patch-notes/2806</link>
+    <description>## General:
+* Dead players now have ghost textures. Spooky!
+* Added a room for the Princess and Fool.
+* If a player is inactive for 2 days, they will be killed.
+* 6 new executions have been added.
+* 4 new armors have been added.
+* If the game freezes, it should return everyone to the main menu.
+* Updated some in-game UI elements.
+
+## Weapons:
+* Heaven&#39;s Sword (Holy Strike)
+* Abaddon Axe (Hell&#39;s Fury)
+* Warden&#39;s Bludgeon (Clobber)
+* Vortex Amulet (Energy Flux)
+* Frozen Rune (Conjure Ice)
+* Rune of Focus (Ahemak Blast)
+
+## Armor/Skins:
+* Drake-Hide Leather Tunic (Working Now)
+* Basalt Armament
+* Noble&#39;s Gown
+* Crimson Regalia
+
+## Alchemist:
+* Can no longer target king with Emerald Potion.
+
+## Court Wizard:
+
+* Magical Barrier still had the old description for the ability. Now correctly states, &quot;Protects a player from negative effects tonight. Does not block kills or converts.&quot;
+
+## Drunk:
+* Happy Hour now makes both the Drunk and his target immune to conversion for the night.
+* Debauchery will not force the Cult Leader or Mastermind to convert you.
+
+## Hunter:
+* Spike Traps makes the Hunter immune to conversion for the night.
+
+## Possessor:
+* Now appears as Possessor if they die.
+* Can no longer possess player if they were killed by someone else that night.
+* Poison and bleed from the Possessor&#39;s victim will affect the Possessor while they are in that body.
+
+## Scorned:
+* Can now only start with Blue Dragon targets.
+* Will commit suicide if all targets die, without winning.
+* Targets has been reduced to 2.
+
+## Sheriff:
+* Scout is now a day ability.
+
+## Improvements:
+* New users no longer need to activate emails. Yes!! This may change, but hopefully not :)
+* Text in the login screen and lobby has been upscaled.
+* Some gfx polish in the lobby.
+* Friends list now reflects your selected title, although there&#39;s only 1 right now except for staff.
+* Friends list now reflects your selected avatar, although... ^
+
+## Changes:
+* We ditched a crappy data system and swapped to a new one with TONS of potential new features. This means a few things have reset. Please keep an eye out for new bugs.
+* You will be asked again for your email. You DONT need to activate it! 
+* Your gp and inventory has reset -- but here&#39;s 300gp on us!
+* Friends list has had a complete revamp. You can&#39;t interact with people, yet, but soon you&#39;ll be able to to interact without Steam, approve/deny/request friends, and more!
+* We now track name change history: Watch out! Better not to troll at all.
+* Soon, you won&#39;t be able to play if you use a proxy to hide your IP to avoid IP bans. If this is an issue in your country, private message Xblade.
+
+
+## Bug Fixes:
+* Possessor bug fixes.
+* Scorned bug fixes.
+* Tons of bug fixes that froze you at &quot;verifying version&quot; due to our old friends list
+* Private matches should now HIDE the vote change host button
+* Public matches should now SHOW the vote change host button
+* Friends list is no longer buggy (although temporarily downgraded)
+* Drake-Hide Leather Tunic should now work in-game.
+* Others.</description>
+    
+    <lastBuildDate>Wed, 23 Aug 2017 12:35:14 +0000</lastBuildDate>
+    <category>Official Announcements</category>
+    <atom:link href="https://forum.throneoflies.com/t/0-9-9-patch-notes/2806.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>0.9.9 Patch Notes</title>
+        <dc:creator><![CDATA[ThePlex]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href="https://forum.throneoflies.com/t/0-9-9-patch-notes/2806/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/0-9-9-patch-notes/2806/9</link>
+        <pubDate>Fri, 24 Nov 2017 15:49:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-2806-9</guid>
+        <source url="https://forum.throneoflies.com/t/0-9-9-patch-notes/2806.rss">0.9.9 Patch Notes</source>
+      </item>
+      <item>
+        <title>0.9.9 Patch Notes</title>
+        <dc:creator><![CDATA[Ellie]]></dc:creator>
+        <description><![CDATA[
+            <p>They won’t switch targets atm.</p>
+          <p><a href="https://forum.throneoflies.com/t/0-9-9-patch-notes/2806/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/0-9-9-patch-notes/2806/8</link>
+        <pubDate>Wed, 23 Aug 2017 12:35:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-2806-8</guid>
+        <source url="https://forum.throneoflies.com/t/0-9-9-patch-notes/2806.rss">0.9.9 Patch Notes</source>
+      </item>
+      <item>
+        <title>0.9.9 Patch Notes</title>
+        <dc:creator><![CDATA[Grizzfang]]></dc:creator>
+        <description><![CDATA[
+            <p>So what happens now when a Drunk uses debauchery on a CL/MM trying to convert? Will they switch targets to the drunk and be told they can’t convert them or will they not switch targets at all?</p>
+          <p><a href="https://forum.throneoflies.com/t/0-9-9-patch-notes/2806/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/0-9-9-patch-notes/2806/7</link>
+        <pubDate>Wed, 23 Aug 2017 09:15:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-2806-7</guid>
+        <source url="https://forum.throneoflies.com/t/0-9-9-patch-notes/2806.rss">0.9.9 Patch Notes</source>
+      </item>
+      <item>
+        <title>0.9.9 Patch Notes</title>
+        <dc:creator><![CDATA[Ellie]]></dc:creator>
+        <description><![CDATA[
+            <p>See the Scorned changes in the last patch.</p>
+          <p><a href="https://forum.throneoflies.com/t/0-9-9-patch-notes/2806/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/0-9-9-patch-notes/2806/6</link>
+        <pubDate>Tue, 22 Aug 2017 21:42:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-2806-6</guid>
+        <source url="https://forum.throneoflies.com/t/0-9-9-patch-notes/2806.rss">0.9.9 Patch Notes</source>
+      </item>
+      <item>
+        <title>0.9.9 Patch Notes</title>
+        <dc:creator><![CDATA[TryphonX]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Ellie" data-post="1" data-topic="2806">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/ellie/40/8749_2.png" class="avatar"> Ellie:</div>
+<blockquote>
+<p>Targets has</p>
+</blockquote>
+</aside>
+<p>*have x)</p>
+          <p><a href="https://forum.throneoflies.com/t/0-9-9-patch-notes/2806/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/0-9-9-patch-notes/2806/5</link>
+        <pubDate>Tue, 22 Aug 2017 21:19:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-2806-5</guid>
+        <source url="https://forum.throneoflies.com/t/0-9-9-patch-notes/2806.rss">0.9.9 Patch Notes</source>
+      </item>
+      <item>
+        <title>0.9.9 Patch Notes</title>
+        <dc:creator><![CDATA[PandaPete]]></dc:creator>
+        <description><![CDATA[
+            <p>Scorned wants targets dead.<br>
+So  he would win if there dead<br>
+So why commit suicide if there dead if he didn’t win.<br>
+If there dead its auto win???</p>
+          <p><a href="https://forum.throneoflies.com/t/0-9-9-patch-notes/2806/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/0-9-9-patch-notes/2806/4</link>
+        <pubDate>Tue, 22 Aug 2017 21:17:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-2806-4</guid>
+        <source url="https://forum.throneoflies.com/t/0-9-9-patch-notes/2806.rss">0.9.9 Patch Notes</source>
+      </item>
+      <item>
+        <title>0.9.9 Patch Notes</title>
+        <dc:creator><![CDATA[Sketch]]></dc:creator>
+        <description><![CDATA[
+            <p>Another nerf to my regicidal Alchemist strategy :’(</p>
+          <p><a href="https://forum.throneoflies.com/t/0-9-9-patch-notes/2806/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/0-9-9-patch-notes/2806/3</link>
+        <pubDate>Tue, 22 Aug 2017 20:51:25 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-2806-3</guid>
+        <source url="https://forum.throneoflies.com/t/0-9-9-patch-notes/2806.rss">0.9.9 Patch Notes</source>
+      </item>
+      <item>
+        <title>0.9.9 Patch Notes</title>
+        <dc:creator><![CDATA[Flashu2]]></dc:creator>
+        <description><![CDATA[
+            <p>Can’t wait to see the fool room <img src="/images/emoji/twitter/stuck_out_tongue.png?v=9" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"></p>
+          <p><a href="https://forum.throneoflies.com/t/0-9-9-patch-notes/2806/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/0-9-9-patch-notes/2806/2</link>
+        <pubDate>Tue, 22 Aug 2017 19:45:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-2806-2</guid>
+        <source url="https://forum.throneoflies.com/t/0-9-9-patch-notes/2806.rss">0.9.9 Patch Notes</source>
+      </item>
+      <item>
+        <title>0.9.9 Patch Notes</title>
+        <dc:creator><![CDATA[Ellie]]></dc:creator>
+        <description><![CDATA[
+            <h2>General:</h2>
+<ul>
+<li>Dead players now have ghost textures. Spooky!</li>
+<li>Added a room for the Princess and Fool.</li>
+<li>If a player is inactive for 2 days, they will be killed.</li>
+<li>6 new executions have been added.</li>
+<li>4 new armors have been added.</li>
+<li>If the game freezes, it should return everyone to the main menu.</li>
+<li>Updated some in-game UI elements.</li>
+</ul>
+<h2>Weapons:</h2>
+<ul>
+<li>Heaven’s Sword (Holy Strike)</li>
+<li>Abaddon Axe (Hell’s Fury)</li>
+<li>Warden’s Bludgeon (Clobber)</li>
+<li>Vortex Amulet (Energy Flux)</li>
+<li>Frozen Rune (Conjure Ice)</li>
+<li>Rune of Focus (Ahemak Blast)</li>
+</ul>
+<h2>Armor/Skins:</h2>
+<ul>
+<li>Drake-Hide Leather Tunic (Working Now)</li>
+<li>Basalt Armament</li>
+<li>Noble’s Gown</li>
+<li>Crimson Regalia</li>
+</ul>
+<h2>Alchemist:</h2>
+<ul>
+<li>Can no longer target king with Emerald Potion.</li>
+</ul>
+<h2>Court Wizard:</h2>
+<ul>
+<li>Magical Barrier still had the old description for the ability. Now correctly states, “Protects a player from negative effects tonight. Does not block kills or converts.”</li>
+</ul>
+<h2>Drunk:</h2>
+<ul>
+<li>Happy Hour now makes both the Drunk and his target immune to conversion for the night.</li>
+<li>Debauchery will not force the Cult Leader or Mastermind to convert you.</li>
+</ul>
+<h2>Hunter:</h2>
+<ul>
+<li>Spike Traps makes the Hunter immune to conversion for the night.</li>
+</ul>
+<h2>Possessor:</h2>
+<ul>
+<li>Now appears as Possessor if they die.</li>
+<li>Can no longer possess player if they were killed by someone else that night.</li>
+<li>Poison and bleed from the Possessor’s victim will affect the Possessor while they are in that body.</li>
+</ul>
+<h2>Scorned:</h2>
+<ul>
+<li>Can now only start with Blue Dragon targets.</li>
+<li>Will commit suicide if all targets die, without winning.</li>
+<li>Targets has been reduced to 2.</li>
+</ul>
+<h2>Sheriff:</h2>
+<ul>
+<li>Scout is now a day ability.</li>
+</ul>
+<h2>Improvements:</h2>
+<ul>
+<li>New users no longer need to activate emails. Yes!! This may change, but hopefully not <img src="/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:">
+</li>
+<li>Text in the login screen and lobby has been upscaled.</li>
+<li>Some gfx polish in the lobby.</li>
+<li>Friends list now reflects your selected title, although there’s only 1 right now except for staff.</li>
+<li>Friends list now reflects your selected avatar, although… ^</li>
+</ul>
+<h2>Changes:</h2>
+<ul>
+<li>We ditched a crappy data system and swapped to a new one with TONS of potential new features. This means a few things have reset. Please keep an eye out for new bugs.</li>
+<li>You will be asked again for your email. You DONT need to activate it!</li>
+<li>Your gp and inventory has reset – but here’s 300gp on us!</li>
+<li>Friends list has had a complete revamp. You can’t interact with people, yet, but soon you’ll be able to to interact without Steam, approve/deny/request friends, and more!</li>
+<li>We now track name change history: Watch out! Better not to troll at all.</li>
+<li>Soon, you won’t be able to play if you use a proxy to hide your IP to avoid IP bans. If this is an issue in your country, private message Xblade.</li>
+</ul>
+<h2>Bug Fixes:</h2>
+<ul>
+<li>Possessor bug fixes.</li>
+<li>Scorned bug fixes.</li>
+<li>Tons of bug fixes that froze you at “verifying version” due to our old friends list</li>
+<li>Private matches should now HIDE the vote change host button</li>
+<li>Public matches should now SHOW the vote change host button</li>
+<li>Friends list is no longer buggy (although temporarily downgraded)</li>
+<li>Drake-Hide Leather Tunic should now work in-game.</li>
+<li>Others.</li>
+</ul>
+          <p><a href="https://forum.throneoflies.com/t/0-9-9-patch-notes/2806/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/0-9-9-patch-notes/2806/1</link>
+        <pubDate>Tue, 22 Aug 2017 19:17:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-2806-1</guid>
+        <source url="https://forum.throneoflies.com/t/0-9-9-patch-notes/2806.rss">0.9.9 Patch Notes</source>
+      </item>
+  </channel>
+</rss>

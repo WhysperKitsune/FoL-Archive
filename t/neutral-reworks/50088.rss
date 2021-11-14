@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Neutral Reworks</title>
+    <link>https://forum.throneoflies.com/t/neutral-reworks/50088</link>
+    <description>All Neutral Reworks from the Master Rework of DOOM
+
+NOTE: All Neutrals who complete their goals become convert immune. i.e. Scorned, Merchant, Thief, etc.
+
+Converted Neutrals are purposefully stronger than Blue Dragon converts because Neutrals do not have to fight against the Unseen, but can choose to for a certain duration.
+
+All Unseen share the same win-condition: to beat the Blue Dragon and any threatening Neutrals.
+
+[quote]
+**[color=gray]Mercenary[/color]**
+
+(Neutral Support)
+
+(Converts to [color=purple]Sellsword[/color])
+
+Goal: Keep your target alive until the end of the game.
+
+Passive: Contracted: If your target dies or you have no target by night 3, you will commit suicide. You can not accuse your target and must always vote to pardon them.
+
+Day Ability: Take Contract: Target player becomes your contract. Only usable if your previous target is dead. Unlimited uses.
+
+Night Ability: Stand Guard: Prevent all visitors to your target. Your target will not be notified. 4 uses.
+
+Night Ability: Rebound: Same as now. 1 use.
+
+[/quote]
+
+[quote]
+
+**[color=purple]Forsaken[/color]** :shield:
+
+(Unseen Social)
+
+(Converted from [color=gray]Scorned[/color]) 
+
+Passive: Vengeance: You keep your targets from when you were a Scorned. If one of your original targets is executed, you gain unlimited uses of Frame.
+
+Passive: Marginalized: You do not count towards the Unseen maximum limit and do not become the Assassin by default.
+
+Day Ability: Dirty Work: Identical to Mastermind&#39;s DW 
+
+Day Ability: Trollbox: Identical to Scorned&#39; Trollbox
+
+Night Ability: Frame: Make someone appear suspicious, and make them receive incorrect feedback from their abilities. 2 uses.
+
+[/quote]
+
+[quote]
+
+**[color=purple]Apothecary[/color]**
+
+(Unseen Killer)
+
+(Converted from [color=gray]Alchemist[/color])
+
+Passive: Coagulate: Immune to bleeding and poison. 
+
+Night Ability: Violet Potion: Choose a player and a class. The next night your target will start to bleed, and will die the following night, showing up as the class you selected. 2 uses.
+
+Night Ability: Scarlet Potion: Heal all members of the Unseen. Infinite uses.
+
+[/quote]
+
+[quote]
+
+**[color=purple]Jester[/color]**
+
+(Unseen Social)
+
+(Converted from [color=gray]Fool[/color])
+
+Passive: Marginalized: You do not count towards the Unseen limit. You do not become Assassin by default.
+
+Day Ability: Entertain: Choose two players. They will be unable to talk for the rest of the day. 3 Uses. 
+
+Day Ability: Trollbox: Identical to Fool&#39;s Trollbox
+
+Night Ability: Disguise: Choose a player. If you are killed that night or lynched tomorrow, you will appear as that target&#39;s class. Unlimited uses.
+
+
+
+[/quote]
+
+[quote]
+
+**[color=gray]Merchant[/color]**
+
+(Neutral Offensive)
+
+(Converts to [color=purple]Swindler[/color])
+
+Goal: Survive to see the game reach Day 9.
+
+Passive: Haggler: Occupy and Redirect immune.
+
+Day Ability: Pay Bail: Force pardon the person on trial. They cannot be put up again that day. 1 use.
+
+Day Ability: Targeted Marketing: Your abilities bypass occupation and redirection immunity tonight. 2 uses.
+
+Night Ability: Sell Wares: Occupy target player. Unlimited uses.
+
+Night Ability: Advertise: Anybody who targets you will be redirected to your target. Unlimited uses.
+
+[/quote]
+
+[quote]
+
+**[color=purple]Swindler[/color]**
+
+(Unseen Offensive)
+
+(Converted from [color=gray]Merchant[/color])
+
+Passive: Haggler: Immune to occupation and redirection.
+
+Day Ability: Bribery: King’s vote and Decide Fate will be reversed today. 1 use.
+
+Day Ability: Blackmail: Target can’t vote for the rest of the day. 3 uses.
+
+Night Ability: Sell Wares: Occupy target player. Unlimited uses.
+
+[/quote]
+
+[quote]
+
+**[color=gray]Thief[/color]** :shield:
+
+(Neutral Offensive)
+
+(Converts to [color=purple]Rogue[/color])
+
+Goal: Rob all living Royals
+
+Royals = People with Royal Blood, People with Royal Blood who become King, Not Starting King 
+
+Passive: Keen Sense: At the start of each morning, the number of remaining Royals that need to be robbed will show up to the Thief. When the number hits 0, the Thief will have “robbed” the Palace Treasury and wins. He will then be convert immune.
+- Keen Sense goes down by 1 if Thief uses Robbery on a Royal, or Royal that is not robbed dies.
+- Keen Sense goes up by 1 each time Baron or Duke gives Royal Blood to a player.
+
+Passive: Royal Hatred: You cannot become a candidate for a New King.
+
+Day Ability: Drugged Dagger: Prevent a player from seeing names before messages, accusals, and votes for the rest of today. 3 uses.
+
+Night Ability: Spying Eyes: Choose two players. You will be notified if at least one is a Royal and if at least one is a Royal, gain a use of Robbery. Unlimited uses.
+
+Night Ability: Robbery: Choose any player. (Including the King) If they are a Royal, you are guaranteed to remove their immunities and occupy them. 0 uses at start.
+
+[/quote]
+
+[quote]
+
+**[color=purple]Rogue[/color]** :shield:
+
+(Unseen Offensive)
+
+(Converted from [color=gray]Thief[/color])
+
+Passive: Shadowform: You do not count towards the Unseen maximum limit and do not become the Assassin by default.
+
+Passive: Royal Hatred: You cannot become a candidate for a New King.
+
+Day Ability: Dirty Work: Identical to Mastermind&#39;s DW
+
+Day Ability: Drugged Dagger: Prevent a player from seeing names before messages, accusals, and votes for the rest of today. 3 uses.
+
+Night Ability: Choose a player to occupy. If successfully occupied, deprive one use from all limited night abilities of target.
+
+[/quote]
+
+[quote]
+
+**[color=gray]Accomplice[/color]** :shield:
+
+(Neutral Investigative)
+
+(Convert Immune)
+
+Goal: Survive to see the Blue Dragon fall.
+
+Passive: Trickery: Immune to death at night once.
+
+Day ability: Snitch: Target player will receive your night results tonight in addition to you. Unlimited uses.
+
+Night ability 1: Stalk: Choose a player. You will know their exact class, who visited them, and who they visited that night. Unlimited uses.
+
+Night ability 2: Sabotage: Choose a player. They will not receive any feedback from their abilities tonight. 4 uses.
+
+[/quote]</description>
+    
+    <lastBuildDate>Sun, 04 Mar 2018 22:52:06 +0000</lastBuildDate>
+    <category>Class/Lore/Fanfic</category>
+    <atom:link href="https://forum.throneoflies.com/t/neutral-reworks/50088.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Neutral Reworks</title>
+        <dc:creator><![CDATA[Livicus]]></dc:creator>
+        <description><![CDATA[
+            <p>Well thought we were gonna make Jester a better convert because it’s true, a Fool is worse for BD than Unseen anyways, so there should be something to get from a player who has been spending all game trying to get themselves lynched and now has to try to not get lynched for the good of their new faction.</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-reworks/50088/35">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-reworks/50088/35</link>
+        <pubDate>Sun, 04 Mar 2018 22:52:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-50088-35</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-reworks/50088.rss">Neutral Reworks</source>
+      </item>
+      <item>
+        <title>Neutral Reworks</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>if it ain’t broke don’t fix it</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-reworks/50088/34">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-reworks/50088/34</link>
+        <pubDate>Sun, 04 Mar 2018 22:47:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-50088-34</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-reworks/50088.rss">Neutral Reworks</source>
+      </item>
+      <item>
+        <title>Neutral Reworks</title>
+        <dc:creator><![CDATA[Livicus]]></dc:creator>
+        <description><![CDATA[
+            <p>Then we could move the passive onto the Jester, the Poor Fellow one, except it’s only for one day</p>
+<p>OR</p>
+<p>Give him a passive like the one that’s on Forsaken and Rogue, the one that doesn’t count as the maximum Unseen limit</p>
+<p>Wait no nevermind, Poor Fellow should never be on Unseen or Cult classes</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-reworks/50088/33">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-reworks/50088/33</link>
+        <pubDate>Sun, 04 Mar 2018 22:33:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-50088-33</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-reworks/50088.rss">Neutral Reworks</source>
+      </item>
+      <item>
+        <title>Neutral Reworks</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>What is your thought process on having Fool convertible? Making fool convertable is probably a nerf for Unseen tbh. I’d way rather have a Fool who can waste 2 days of BD’s time AND a slot for a decent convert AND be able to convert a BD to get one step closer to having majority over them than have a Jester, an incredibly mediochre convert.</p>
+<p>Converting a fool is no fun for the fool who has been trying to get lynched all game, and is no fun for the Unseen who would way rather not have converted him and have a failed convert, so at least they can convert someone decent the next night and get rid of another BD via doing so.</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-reworks/50088/32">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-reworks/50088/32</link>
+        <pubDate>Sun, 04 Mar 2018 21:44:15 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-50088-32</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-reworks/50088.rss">Neutral Reworks</source>
+      </item>
+      <item>
+        <title>Neutral Reworks</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>This only effects 4 classes:</p>
+<p>King, Possessor, Hunter, Knight.</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-reworks/50088/31">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-reworks/50088/31</link>
+        <pubDate>Sun, 04 Mar 2018 21:35:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-50088-31</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-reworks/50088.rss">Neutral Reworks</source>
+      </item>
+      <item>
+        <title>Neutral Reworks</title>
+        <dc:creator><![CDATA[Htm]]></dc:creator>
+        <description><![CDATA[
+            <p>Well then it might not be as OP as I thought</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-reworks/50088/30">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-reworks/50088/30</link>
+        <pubDate>Sun, 04 Mar 2018 21:35:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-50088-30</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-reworks/50088.rss">Neutral Reworks</source>
+      </item>
+      <item>
+        <title>Neutral Reworks</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>It auto goes through heals</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-reworks/50088/29">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-reworks/50088/29</link>
+        <pubDate>Sun, 04 Mar 2018 21:34:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-50088-29</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-reworks/50088.rss">Neutral Reworks</source>
+      </item>
+      <item>
+        <title>Neutral Reworks</title>
+        <dc:creator><![CDATA[Htm]]></dc:creator>
+        <description><![CDATA[
+            <p>reaper can kill them if he used his souls right? Or does it auto go through heals?</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-reworks/50088/28">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-reworks/50088/28</link>
+        <pubDate>Sun, 04 Mar 2018 21:33:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-50088-28</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-reworks/50088.rss">Neutral Reworks</source>
+      </item>
+      <item>
+        <title>Neutral Reworks</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Actually. Reaper can kill them and sorc already couldn’t kill them. Poss is the only effected NK.</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-reworks/50088/27">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-reworks/50088/27</link>
+        <pubDate>Sun, 04 Mar 2018 21:29:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-50088-27</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-reworks/50088.rss">Neutral Reworks</source>
+      </item>
+      <item>
+        <title>Neutral Reworks</title>
+        <dc:creator><![CDATA[Htm]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah but it’s still kind of a problem</p>
+<p>NKs cant kill them</p>
+<p>DK cant kill them</p>
+<p>Knight cant kill them</p>
+<p>Hunter cant kill them</p>
+<p>Most importantly king cant kill them!</p>
+<p>This is super OP, maybe just make it target one of the unseen or just give it limited uses like I said before</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-reworks/50088/26">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-reworks/50088/26</link>
+        <pubDate>Sun, 04 Mar 2018 21:18:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-50088-26</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-reworks/50088.rss">Neutral Reworks</source>
+      </item>
+      <item>
+        <title>Neutral Reworks</title>
+        <dc:creator><![CDATA[Livicus]]></dc:creator>
+        <description><![CDATA[
+            <p>Most of the time though, Unseen get killed by lynching, not death at night.</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-reworks/50088/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-reworks/50088/25</link>
+        <pubDate>Sun, 04 Mar 2018 21:11:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-50088-25</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-reworks/50088.rss">Neutral Reworks</source>
+      </item>
+      <item>
+        <title>Neutral Reworks</title>
+        <dc:creator><![CDATA[NightX]]></dc:creator>
+        <description><![CDATA[
+            <p>It is a neutral convert, so it should be powerful. It still can’t stop investigations or lynches, so the ability is fine.</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-reworks/50088/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-reworks/50088/24</link>
+        <pubDate>Sun, 04 Mar 2018 21:06:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-50088-24</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-reworks/50088.rss">Neutral Reworks</source>
+      </item>
+      <item>
+        <title>Neutral Reworks</title>
+        <dc:creator><![CDATA[Htm]]></dc:creator>
+        <description><![CDATA[
+            <p>Very cool ideas! Only thing I see as a problem apothecary’s night ability which is scarlet potion, it makes unseen unkillable forever, maybe give it a 3 time use? Because unlimited uses seem a lil OP</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-reworks/50088/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-reworks/50088/23</link>
+        <pubDate>Sun, 04 Mar 2018 21:00:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-50088-23</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-reworks/50088.rss">Neutral Reworks</source>
+      </item>
+      <item>
+        <title>Neutral Reworks</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>You already pointed out the other part.</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-reworks/50088/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-reworks/50088/22</link>
+        <pubDate>Sun, 04 Mar 2018 19:21:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-50088-22</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-reworks/50088.rss">Neutral Reworks</source>
+      </item>
+      <item>
+        <title>Neutral Reworks</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Part of the idea is to make sure that every class type has a neut in it. And not just ones that are tied to another class like the current Inquis.</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-reworks/50088/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-reworks/50088/21</link>
+        <pubDate>Sun, 04 Mar 2018 19:21:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-50088-21</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-reworks/50088.rss">Neutral Reworks</source>
+      </item>
+      <item>
+        <title>Neutral Reworks</title>
+        <dc:creator><![CDATA[Lily]]></dc:creator>
+        <description><![CDATA[
+            <p>I agree.</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-reworks/50088/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-reworks/50088/20</link>
+        <pubDate>Sun, 04 Mar 2018 19:07:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-50088-20</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-reworks/50088.rss">Neutral Reworks</source>
+      </item>
+      <item>
+        <title>Neutral Reworks</title>
+        <dc:creator><![CDATA[nickstojanovic]]></dc:creator>
+        <description><![CDATA[
+            <p>love the idea of accomplice!</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-reworks/50088/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-reworks/50088/19</link>
+        <pubDate>Sun, 04 Mar 2018 19:02:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-50088-19</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-reworks/50088.rss">Neutral Reworks</source>
+      </item>
+      <item>
+        <title>Neutral Reworks</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>What is the point of the new neutrals you have added? This feels less of a re-work and more of a “hey whoa this would be cool let’s add this”. I don’t really see how the merchant or thief would change the meta in any useful way.</p>
+<p>Maybe give your thought process behind the new classes because I am not seeing the point of them other than being kinda funny gimicks.</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-reworks/50088/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-reworks/50088/18</link>
+        <pubDate>Sun, 04 Mar 2018 18:56:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-50088-18</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-reworks/50088.rss">Neutral Reworks</source>
+      </item>
+      <item>
+        <title>Neutral Reworks</title>
+        <dc:creator><![CDATA[Chocolate]]></dc:creator>
+        <description><![CDATA[
+            <p>Neutrals should have to stick to their goals. Only reason Merc is convertable is because it’s technically an “unseen contract”</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-reworks/50088/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-reworks/50088/17</link>
+        <pubDate>Sun, 04 Mar 2018 18:54:20 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-50088-17</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-reworks/50088.rss">Neutral Reworks</source>
+      </item>
+      <item>
+        <title>Neutral Reworks</title>
+        <dc:creator><![CDATA[NightX]]></dc:creator>
+        <description><![CDATA[
+            <p>Why? Unconvertibles just restrict the number of targets, making it more likely for the Unseen/Cult just fail their conversion.</p>
+<p>The only people who need it are:</p>
+<ul>
+<li>Prince</li>
+<li>King</li>
+<li>Neutral Killers</li>
+<li>People who have won</li>
+</ul>
+          <p><a href="https://forum.throneoflies.com/t/neutral-reworks/50088/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-reworks/50088/16</link>
+        <pubDate>Sun, 04 Mar 2018 18:44:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-50088-16</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-reworks/50088.rss">Neutral Reworks</source>
+      </item>
+      <item>
+        <title>Neutral Reworks</title>
+        <dc:creator><![CDATA[Chocolate]]></dc:creator>
+        <description><![CDATA[
+            <p>Neutral conversions are bad.</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-reworks/50088/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-reworks/50088/15</link>
+        <pubDate>Sun, 04 Mar 2018 18:43:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-50088-15</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-reworks/50088.rss">Neutral Reworks</source>
+      </item>
+      <item>
+        <title>Neutral Reworks</title>
+        <dc:creator><![CDATA[Livicus]]></dc:creator>
+        <description><![CDATA[
+            <p>I personally wouldn’t prefer the Alchemist to be converted, but the thing is that I’m pretty sure Unseen and Cult win rates are quite low, due to not being able to convert Neutrals.</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-reworks/50088/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-reworks/50088/14</link>
+        <pubDate>Sun, 04 Mar 2018 00:04:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-50088-14</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-reworks/50088.rss">Neutral Reworks</source>
+      </item>
+      <item>
+        <title>Neutral Reworks</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>That help?</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-reworks/50088/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-reworks/50088/13</link>
+        <pubDate>Sun, 04 Mar 2018 00:04:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-50088-13</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-reworks/50088.rss">Neutral Reworks</source>
+      </item>
+      <item>
+        <title>Neutral Reworks</title>
+        <dc:creator><![CDATA[Livicus]]></dc:creator>
+        <description><![CDATA[
+            <p>Added the wincons</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-reworks/50088/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-reworks/50088/12</link>
+        <pubDate>Sun, 04 Mar 2018 00:02:42 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-50088-12</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-reworks/50088.rss">Neutral Reworks</source>
+      </item>
+      <item>
+        <title>Neutral Reworks</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Quote them then</p>
+          <p><a href="https://forum.throneoflies.com/t/neutral-reworks/50088/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/neutral-reworks/50088/11</link>
+        <pubDate>Sun, 04 Mar 2018 00:01:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-50088-11</guid>
+        <source url="https://forum.throneoflies.com/t/neutral-reworks/50088.rss">Neutral Reworks</source>
+      </item>
+  </channel>
+</rss>

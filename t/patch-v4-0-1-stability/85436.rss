@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Patch v4.0.1 - Stability</title>
+    <link>https://forum.throneoflies.com/t/patch-v4-0-1-stability/85436</link>
+    <description>## Status
+Live!
+
+## Desync/Stability Fixes
+* If someone leaves at the name selection screen, it&#39;ll no longer desync the party (freeze 1 minute &gt;&gt; then throw you back into the lobby). Apologies this took so long to fix! :slight_smile:   
+* Local gold cache should now be better sync&#39;d with the server (eg, buying items, getting bonus gold, etc).
+* Bonus gold now *always* factors in -- not just when you get MVP and other odd cases. This includes MVP voting others (5 gp per), among other bonuses.
+* Bonus gp is now properly separated from win/loss gold at the end screen.
+* Fixed the lobby memory leak when you&#39;re there for a long time.
+
+## Class Fixes
+
+* Scorned Incriminate abil now properly rewards marks as intended.
+* If a Sorc gets silenced, and silence expires when they could normally use &quot;Escape Fate&quot; (at pardon/exe selection), they can now properly use it again.
+* If a Sorc gets silenced, and silence expires *before* they can normally use &quot;Escape Fate&quot; in a trial, it will no longer allow it&#39;s use.
+* At a trial&#39;s pardon/exe select phase, Noble/Aristo force vote abils will no longer allow its use.
+* When Possessor&#39;s Puppet Strings abil forces a player into a player shielded by the Merc, there will be better feedback that you were **forced** to attack.
+* [4.0.1a] Sellsword can now self-target with *Stonewall* (thx `@Sellsword` + `@Amelia`)
+
+## Class Cards / Feedback
+* Seeker&#39;s &quot;Can&#39;t Target King&quot; feedback now adjusted to explain that it&#39;s more of a fallback (the feedback is sync&#39;d with feedback - I&#39;ll add some exceptions at a later date).
+* Fixed some class cards that target more than 1 player were showing &lt;Target&gt; in feedback section instead of &lt;Target List&gt; (eg, a list of players).
+* Wolf Companion&#39;s &quot;Not useable until D3&quot; text moved to memo for consistency and less bloat.
+* Added Inquisitor missing Heretic info about Prince+Hunter.
+
+## Fluff
+
+* If you&#39;re a guest of a private room, you&#39;ll now receive a toast saying {host name} treated you the court fee (free).
+  * ![image|335x100](upload://8ds29waOOoD4XYthcztv9Uy0YBs.png) 
+* Status icon text on the left no longer break to new lines when hovering over them.
+* Silence icon prettied up a bit.
+* Loading screen clipped text fixed that sometimes showed at tips.
+* Less generic colors for you win/loss @ end screen.
+* Player panel text now looks less pixelated in some resolutions.
+* &quot;You are now the private host&quot; popup prettified.
+
+___
+
+## Looking for the last major patch(es)?
+
+https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089
+
+___
+
+--Xblade @ https://discord.gg/tol</description>
+    
+    <lastBuildDate>Thu, 07 Jan 2021 09:00:51 +0000</lastBuildDate>
+    <category>Official Announcements</category>
+    <atom:link href="https://forum.throneoflies.com/t/patch-v4-0-1-stability/85436.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Patch v4.0.1 - Stability</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <h1>v4.0.1c</h1>
+<p><strong>Fixes:</strong></p>
+<ul>
+<li>Randomized or manually-input naming now works properly again (from release-candidate revert).</li>
+<li>Fixed whisper issue (from release-candidate revert).</li>
+<li>Sellsword can now self-target with <em>Stonewall</em> (thx <code>@Sellsword</code> + <code>@Amelia</code> )</li>
+<li>Enforcer can now self-target <em>Protect</em>.</li>
+<li>Start Early in a public queue removes the mention of 500 gp (was just a visual error).</li>
+<li>Reworded the “Merge into Public” so you don’t think the host pays an <em>extra</em> 50 gp just for merging (rather, revert back to public court fees by merging).</li>
+<li>Fixed an occasional text overlap in lobby at the classic mode banner text.</li>
+</ul>
+<p><strong>Quality of Life</strong></p>
+<ul>
+<li>MVP and King vote panels now have a highlight hover/click color.</li>
+</ul>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-0-1-stability/85436/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-0-1-stability/85436/4</link>
+        <pubDate>Thu, 07 Jan 2021 08:54:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85436-4</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-0-1-stability/85436.rss">Patch v4.0.1 - Stability</source>
+      </item>
+      <item>
+        <title>Patch v4.0.1 - Stability</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <h2>Status</h2>
+<p>Live!</p>
+<h2>Desync/Stability Fixes</h2>
+<ul>
+<li>If someone leaves at the name selection screen, it’ll no longer desync the party (freeze 1 minute &gt;&gt; then throw you back into the lobby). Apologies this took so long to fix! <img src="https://forum.throneoflies.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:">
+</li>
+<li>Local gold cache should now be better sync’d with the server (eg, buying items, getting bonus gold, etc).</li>
+<li>Bonus gold now <em>always</em> factors in – not just when you get MVP and other odd cases. This includes MVP voting others (5 gp per), among other bonuses.</li>
+<li>Bonus gp is now properly separated from win/loss gold at the end screen.</li>
+<li>Fixed the lobby memory leak when you’re there for a long time.</li>
+</ul>
+<h2>Class Fixes</h2>
+<ul>
+<li>Scorned Incriminate abil now properly rewards marks as intended.</li>
+<li>If a Sorc gets silenced, and silence expires when they could normally use “Escape Fate” (at pardon/exe selection), they can now properly use it again.</li>
+<li>If a Sorc gets silenced, and silence expires <em>before</em> they can normally use “Escape Fate” in a trial, it will no longer allow it’s use.</li>
+<li>At a trial’s pardon/exe select phase, Noble/Aristo force vote abils will no longer allow its use.</li>
+<li>When Possessor’s Puppet Strings abil forces a player into a player shielded by the Merc, there will be better feedback that you were <strong>forced</strong> to attack.</li>
+<li>[4.0.1a] Sellsword can now self-target with <em>Stonewall</em> (thx <code>@Sellsword</code> + <code>@Amelia</code>)</li>
+</ul>
+<h2>Class Cards / Feedback</h2>
+<ul>
+<li>Seeker’s “Can’t Target King” feedback now adjusted to explain that it’s more of a fallback (the feedback is sync’d with feedback - I’ll add some exceptions at a later date).</li>
+<li>Fixed some class cards that target more than 1 player were showing  in feedback section instead of  (eg, a list of players).</li>
+<li>Wolf Companion’s “Not useable until D3” text moved to memo for consistency and less bloat.</li>
+<li>Added Inquisitor missing Heretic info about Prince+Hunter.</li>
+</ul>
+<h2>Fluff</h2>
+<ul>
+<li>If you’re a guest of a private room, you’ll now receive a toast saying {host name} treated you the court fee (free).
+<ul>
+<li><img src="https://forum.throneoflies.com/uploads/default/original/3X/3/9/3996acb4f1b389db133e5aeb94014a12d8fcfae2.png" alt="image" data-base62-sha1="8ds29waOOoD4XYthcztv9Uy0YBs" width="335" height="100"></li>
+</ul>
+</li>
+<li>Status icon text on the left no longer break to new lines when hovering over them.</li>
+<li>Silence icon prettied up a bit.</li>
+<li>Loading screen clipped text fixed that sometimes showed at tips.</li>
+<li>Less generic colors for you win/loss @ end screen.</li>
+<li>Player panel text now looks less pixelated in some resolutions.</li>
+<li>“You are now the private host” popup prettified.</li>
+</ul>
+<hr>
+<h2>Looking for the last major patch(es)?</h2>
+<aside class="quote quote-modified" data-post="1" data-topic="85089">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="20" height="20" src="/user_avatar/forum.throneoflies.com/í42-xblade/40/2827_2.png" class="avatar">
+    <a href="https://forum.throneoflies.com/t/patch-v4-0-0a-throne-goes-free-f2p/85089">Patch v4.0.0a: Throne goes FREE (F2P)!</a> <a class="badge-wrapper  bullet" href="/c/announcements/8"><span class="badge-category-bg" style="background-color: #F7941D;"></span><span style="" data-drop-close="true" class="badge-category clear-badge" title="Official staff announcements. Although you can’t post, you can reply.
+Chat @ https://discord.gg/tol">Official Announcements</span></a>
+  </div>
+  <blockquote>
+    Throne Goes Free-to-Play Dec 18th @ 6pm EST! (LIVE)
+ <a class="lightbox" href="https://i.imgur.com/meEjmFD.png" title="">[image]</a> 
+
+  <a href="https://www.youtube.com/watch?v=KuyrkHj7Tjg" target="_blank" rel="noopener">
+    [Throne of Lies: Medieval Politics - Gameplay Trailer v4 (F2P Relaunch)]
+  </a>
+
+
+
+
+
+
+Patch Status? LIVE (Dec 21)!
+
+When is F2P (UPDATED)? LIVE (Dec 23 @ 6pm EST)!
+
+Veterans? Vets claim an exclusive, crystal-flaired “Veteran” title + Veteran avatar~
+
+Queue Times? Expected to be seriously low (even during offpeak hours)! <img width="20" height="20" src="https://forum.throneoflies.com/images/emoji/twitter/tada.png?v=9" title="tada" alt="tada" class="emoji">
+
+
+Gold (gp)
+To better fit the f2p model, we have adjusted goldflow to be more progressive: 
+
+MVP gold now…
+  </blockquote>
+</aside>
+
+<hr>
+<p>–Xblade @ <a href="https://discord.gg/tol">https://discord.gg/tol</a></p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v4-0-1-stability/85436/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v4-0-1-stability/85436/1</link>
+        <pubDate>Tue, 05 Jan 2021 08:58:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85436-1</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v4-0-1-stability/85436.rss">Patch v4.0.1 - Stability</source>
+      </item>
+  </channel>
+</rss>

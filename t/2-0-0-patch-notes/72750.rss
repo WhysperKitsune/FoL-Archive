@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>2.0.0 Patch Notes</title>
+    <link>https://forum.throneoflies.com/t/2-0-0-patch-notes/72750</link>
+    <description># The Anniversary Update With New Classes!
+![anniversary|690x345](upload://7hJgehBbQgkuQTli1hXGtl3ELPo.png) 
+## Store Content:
+&gt; * Added 2 new Deathnote colors - Brown &amp; Light Green.
+&gt; * Added 3 new Emotes - &quot;T&quot; Off, Air Lute, and Wild Flail.
+&gt; * Added 1 new Weapon - Throwing Axes
+&gt; * You can now equip up to 3 emotes at once.
+&gt; * Login during the 1st week of the v2.0 patch to claim your free event items.
+
+## Quality of Life:
+&gt; * Updated the look of all the armors.
+&gt; * Changed Probe Icon to its final form.
+&gt; * Added undo button for DN. Can only undo the last 5 changes. You can also use CTRL+Z.
+&gt; * Reaper, Possessor &amp; Sorcerer have new rooms.
+&gt; * The name for Telepathy messages is now pink.
+&gt; * The spawning system now looks at your last 20 games to reduce the odds of getting the same class repeatedly and increases the odds of getting a class you haven&#39;t played.
+&gt; * Unfriending warns it&#39;s permanent: Be careful who you thumb your nose at.
+&gt; * When a game ends after leaving a game while dead, you now get a notification that shows how much gold you were awarded.
+&gt; * Loading screen now has music.
+
+## General:
+&gt; * The King now has a crown floating above their character.
+&gt; * The logbook, private notes, and ability descriptions were converted over to the newer text renderer. (It had to be done)
+&gt; * If a player swaps an occupier into themselves, they will appear occupy immune.
+&gt; * Added a button to the logbook and private notes that allows you to send the currently selected text to chat with line breaks intact. Can only be used 2 times a day and can only send a max of 10 lines.
+&gt; * **Added 2 new BD Classes - The Maid and The Chronomancer**
+
+## Minor Class/Ability Changes
+
+&gt; #### Alchemist:
+&gt; * Reduced Stoneskin uses to 1.
+&gt; * Fixed potions not being used up when prevented.
+&gt; 
+&gt; #### Assassin:
+&gt; * Distract will now also disabled a player&#39;s abilities for the duration. Duration has been increased to 20 seconds.
+&gt; 
+&gt; #### Fool:
+&gt; * When the Fool is executed, instead of being unable to use abilities for a night, everyone who accused them will now lose a use from all limited use abilities. Reaper will lose a soul and Mercenary will lose a brilder.
+&gt; 
+&gt; #### Inquisitor:
+&gt; * Now learns the starting classes of the Heathens.
+&gt; 
+&gt; #### Mastermind:
+&gt; * Can now commit suicide during Day 3.
+&gt; 
+&gt; #### Mercenary:
+&gt; * Receives a notification at the start of the night if they are shielding someone.
+&gt; * Can now leave after getting 6 brilders.
+&gt; 
+&gt; #### Mystic:
+&gt; * Can no longer target King at night.
+&gt; 
+&gt; #### Physician:
+&gt; * When you heal someone, the message is now green.
+&gt; 
+&gt; #### Possessor:
+&gt; * Abilities that target fellow faction members will now also be able to target the Possessor. Abilities that cannot target fellow faction members will not be able to target Possessor.
+&gt; * Possess uses reduced to 2.
+&gt; 
+&gt; #### Pretender:
+&gt; * Fixed Ballot Mixing not being usable during trials.
+&gt; 
+&gt; #### Scorned:
+&gt; * Renamed Trickery to Disguise
+&gt; 
+&gt; #### Servant:
+&gt; * Added Day Ability Bewilder - Prevent the King from using their day abilities. 2 uses.
+
+## Major Class/Ability Changes:
+
+&gt; #### King:
+&gt; * Guards! can no longer target other players.
+&gt; * Reduced Guards! by 1.
+&gt; * Good King now starts with only 1 extra guard.
+&gt; * Good King now starts with Safeguard instead of Swear Fealty. Target player will be death immune for the night. 4 uses.
+&gt; * Allies will now also make target death immune for the night.
+
+![min|690x262](upload://ctA6t7q1n726dUuSbMxVAcCM1AU.png) 
+
+## New Classes:
+&gt; 
+&gt; ## [color=steblue]Maid[/color]
+&gt;![Maid|250x250](upload://eb8lher2QubVjQh1HtIpJ6aH4Dj.jpeg) 
+&gt;(Portrait by Luxx)
+&gt;
+&gt; Blue Dragon Investigative
+&gt; Inspiration taken from @Jazz  https://forum.imperium42.com/t/maid-blue-dragon-investigator-and-waitress-unseen-investigator/1065
+&gt; * **Matchmake (Night)** - Test if target is compatible with the player you last checked. You start with a random player to test against. (Cannot target King).
+&gt;  Players are compatible if they win together.
+&gt;  Fool and Scorned are incompatible with everyone.
+&gt;  Royals are incompatible with each other. (Infinite uses)
+&gt; * **Nosy Servants (Night)** - Target a living player and dead player. You will learn if the living player visited the dead player on the night they died. Does not count as visiting. Will not see non-visiting abilities. (3 uses)
+&gt; 
+&gt; ## [color=purple]Handmaiden[/color]
+&gt; (Portrait still being worked on)
+&gt; Unseen Investigative (Converted from [color=steblue]Maid[/color])
+&gt; * **Analyze (Night)** - Test if two players are the same class type. If they are you will learn their classes. (Cannot target King or Unseen). (Infinite uses)
+&gt; * **Prying Servants (Night)** - Target a dead player. You will learn all the players that visited them on the night they died. Does not count as visiting (2 uses)
+&gt; 
+&gt; ## [color=steblue]Chronomancer[/color]
+&gt;![Chronomancer|250x250](upload://sCXPrWN6oypD7yorWgfXRbYzui.jpeg) 
+&gt;(Portrait by Adiart)
+&gt;
+&gt; Blue Dragon Support
+&gt; Inspiration taken from @Icibalus https://forum.imperium42.com/t/the-chronomancer-and-the-timesnatcher-classes/58810 
+&gt; * **Pocket Dimension (Day)** - If you die tonight, delay it for 2 nights. This will delay bleeding and poison in addition to attacks. Deaths delayed this way cannot be redirected with Distort Reality. (2 uses)
+&gt; * **Time Warp (Night)** - Delays a player’s death for 2 days. This will delay bleeding and poison in addition to attacks. You can prevent a death multiple times. Cannot delay unhealable attacks or suicide. (Infinite uses)
+&gt; * **Distort Reality (Night)** - Redirect a player’s death you prevented with Time Warp to another player. Can be healed and does not bypass death immunity. (Infinite uses)
+&gt; 
+&gt; ## [color=purple]Timesnatcher[/color]
+&gt; (Portrait still being worked on)
+&gt; Unseen Support (Converted from [color=steblue]Chronomancer[/color])
+&gt; * **Rewind (Passive)** - If you become an Assassin and have no uses of Two-For-One left, you will regain a charge.
+&gt; * **Time Snatch (Night)** - Target a poisoned/bleeding player. Causes the poison/bleeding to speed up and kill them tonight. (2 uses)
+&gt; * **Dark Dimension (Night)** - Make the Unseen appear not suspicious to investigative abilities. (2 uses)
+
+## Bug Fixes:
+&gt; * Fixed bug when Alchemist switches potions while targeting the same player.
+&gt; * Possible fix to the Vortex Amulet execution crashing games in Vulkan.
+&gt; * Hitting enter after having voted during a trial will no longer cancel your vote.
+&gt; * Follow should now properly show the MM/CL&#39;s new target when they get a pity convert.
+&gt; * Fixed Inquisitor&#39;s Ruthless Efficiency preventing Reaper from reviving.</description>
+    
+    <lastBuildDate>Thu, 11 Oct 2018 05:25:29 +0000</lastBuildDate>
+    <category>Official Announcements</category>
+    <atom:link href="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>2.0.0 Patch Notes</title>
+        <dc:creator><![CDATA[Marluxion]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Firelitten" data-post="260" data-topic="72750">
+<div class="title">
+<div class="quote-controls"></div>
+ Firelitten:</div>
+<blockquote>
+<p>we aren’t bad. the council is.</p>
+</blockquote>
+</aside>
+<p>but all they do is review sfol and premium setups<br>
+Black Rose Team is the one who balances fol ya dingus</p>
+          <p><a href="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/273">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/273</link>
+        <pubDate>Thu, 11 Oct 2018 05:25:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72750-273</guid>
+        <source url="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750.rss">2.0.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>2.0.0 Patch Notes</title>
+        <dc:creator><![CDATA[bazingaboy]]></dc:creator>
+        <description><![CDATA[
+            <p>ToL is definitely RNG. Just look at unseen/cult winrate. Exactly the same as evil king or sellsword spawn rate. You almost require an extra body to win as unseen. Then you have the possibility of failing a convert night one… and nobody can say that’s due to a lack of skill. I’d say the majority of games come down to dumb luck and I don’t play it any more.</p>
+          <p><a href="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/272">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/272</link>
+        <pubDate>Wed, 10 Oct 2018 20:22:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72750-272</guid>
+        <source url="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750.rss">2.0.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>2.0.0 Patch Notes</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Yes it does.</p>
+          <p><a href="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/271">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/271</link>
+        <pubDate>Wed, 10 Oct 2018 20:21:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72750-271</guid>
+        <source url="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750.rss">2.0.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>2.0.0 Patch Notes</title>
+        <dc:creator><![CDATA[Soulshade55r]]></dc:creator>
+        <description><![CDATA[
+            <p>Notification still doesn’t make people unconformable. <img src="/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"></p>
+          <p><a href="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/270">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/270</link>
+        <pubDate>Wed, 10 Oct 2018 20:20:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72750-270</guid>
+        <source url="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750.rss">2.0.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>2.0.0 Patch Notes</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Soulshade55r" data-post="268" data-topic="72750" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/soulshade55r/40/29692_2.png" class="avatar"> Soulshade55r:</div>
+<blockquote>
+<p>More confirmable</p>
+<p>Sheriff not being convert able isn’t balanced</p>
+</blockquote>
+</aside>
+<p>We all agree on this except the council controls everything and we literally can’t do a thing about it till we riot about it. As well, WHAT DO YOU MEAN? FOL is less confirmable due to no notifactions.</p>
+          <p><a href="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/269">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/269</link>
+        <pubDate>Wed, 10 Oct 2018 20:17:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72750-269</guid>
+        <source url="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750.rss">2.0.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>2.0.0 Patch Notes</title>
+        <dc:creator><![CDATA[Soulshade55r]]></dc:creator>
+        <description><![CDATA[
+            <p>More confirmable</p>
+<p>Sheriff not being convert able isn’t balanced</p>
+          <p><a href="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/268">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/268</link>
+        <pubDate>Wed, 10 Oct 2018 20:16:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72750-268</guid>
+        <source url="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750.rss">2.0.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>2.0.0 Patch Notes</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>also already explained how easily the council can fall in the game ninja.</p>
+          <p><a href="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/267">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/267</link>
+        <pubDate>Wed, 10 Oct 2018 20:16:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72750-267</guid>
+        <source url="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750.rss">2.0.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>2.0.0 Patch Notes</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah, i’m destroying the council.</p>
+          <p><a href="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/266">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/266</link>
+        <pubDate>Wed, 10 Oct 2018 20:15:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72750-266</guid>
+        <source url="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750.rss">2.0.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>2.0.0 Patch Notes</title>
+        <dc:creator><![CDATA[Marcus_Doodalee]]></dc:creator>
+        <description><![CDATA[
+            <p>Because you’re calling the council bad?</p>
+          <p><a href="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/265">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/265</link>
+        <pubDate>Wed, 10 Oct 2018 20:15:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72750-265</guid>
+        <source url="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750.rss">2.0.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>2.0.0 Patch Notes</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>wdym.</p>
+          <p><a href="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/264">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/264</link>
+        <pubDate>Wed, 10 Oct 2018 20:14:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72750-264</guid>
+        <source url="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750.rss">2.0.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>2.0.0 Patch Notes</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Soulshade55r" data-post="261" data-topic="72750" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/soulshade55r/40/29692_2.png" class="avatar"> Soulshade55r:</div>
+<blockquote>
+<p>FOL classes aren’t even the same as TOL classes</p>
+</blockquote>
+</aside>
+<p>Exactly, more balanced.</p>
+          <p><a href="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/263">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/263</link>
+        <pubDate>Wed, 10 Oct 2018 20:14:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72750-263</guid>
+        <source url="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750.rss">2.0.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>2.0.0 Patch Notes</title>
+        <dc:creator><![CDATA[Marcus_Doodalee]]></dc:creator>
+        <description><![CDATA[
+            <p>“It’s said that you would destroy the Sith not join them!!”</p>
+          <p><a href="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/262">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/262</link>
+        <pubDate>Wed, 10 Oct 2018 20:13:45 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72750-262</guid>
+        <source url="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750.rss">2.0.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>2.0.0 Patch Notes</title>
+        <dc:creator><![CDATA[Soulshade55r]]></dc:creator>
+        <description><![CDATA[
+            <p>FOL classes aren’t even the same as TOL classes</p>
+          <p><a href="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/261">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/261</link>
+        <pubDate>Wed, 10 Oct 2018 20:13:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72750-261</guid>
+        <source url="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750.rss">2.0.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>2.0.0 Patch Notes</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>actually this brings up a better point, we aren’t bad. <s>the council</s> black rose team is.</p>
+          <p><a href="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/260">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/260</link>
+        <pubDate>Wed, 10 Oct 2018 20:12:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72750-260</guid>
+        <source url="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750.rss">2.0.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>2.0.0 Patch Notes</title>
+        <dc:creator><![CDATA[Marcus_Doodalee]]></dc:creator>
+        <description><![CDATA[
+            <p>The biggest factor in evils getting away with the stuff they do is timel</p>
+          <p><a href="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/259">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/259</link>
+        <pubDate>Wed, 10 Oct 2018 20:12:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72750-259</guid>
+        <source url="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750.rss">2.0.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>2.0.0 Patch Notes</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Marcus_Doodalee" data-post="257" data-topic="72750">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/marcus_doodalee/40/15452_2.png" class="avatar"> Marcus_Doodalee:</div>
+<blockquote>
+<p>as seen from FoL it’s very difficult for evils to get away without confirmation</p>
+</blockquote>
+</aside>
+<p>actually this is more proof that we are bad balancers.</p>
+          <p><a href="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/258">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/258</link>
+        <pubDate>Wed, 10 Oct 2018 20:11:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72750-258</guid>
+        <source url="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750.rss">2.0.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>2.0.0 Patch Notes</title>
+        <dc:creator><![CDATA[Marcus_Doodalee]]></dc:creator>
+        <description><![CDATA[
+            <p>Actually, if a competitive mode is ever added beyond what we already have, I’d predict BD winrate would increase because more classes would be in more capable hands, as seen from FoL it’s very difficult for evils to get away without confirmation</p>
+          <p><a href="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/257">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/257</link>
+        <pubDate>Wed, 10 Oct 2018 20:09:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72750-257</guid>
+        <source url="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750.rss">2.0.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>2.0.0 Patch Notes</title>
+        <dc:creator><![CDATA[Marluxion]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m not listening what do you mean</p>
+<p>…</p>
+<p>I mean…<br>
+uh…</p>
+<p>I was never here, you never saw me</p>
+          <p><a href="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/256">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/256</link>
+        <pubDate>Wed, 10 Oct 2018 14:06:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72750-256</guid>
+        <source url="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750.rss">2.0.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>2.0.0 Patch Notes</title>
+        <dc:creator><![CDATA[Soulshade55r]]></dc:creator>
+        <description><![CDATA[
+            <p>I mean yeah the devs make minor patches once I a blue moon if the community doesn’t like It well that’s too bad.</p>
+<p>TOL devs and Mods listen to us</p>
+          <p><a href="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/255">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/255</link>
+        <pubDate>Wed, 10 Oct 2018 14:04:15 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72750-255</guid>
+        <source url="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750.rss">2.0.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>2.0.0 Patch Notes</title>
+        <dc:creator><![CDATA[Soulshade55r]]></dc:creator>
+        <description><![CDATA[
+            <p>That’s my main point tos roles aren’t balanced.</p>
+<p>Also TOL ranked would be good, I think there conversions work really well</p>
+          <p><a href="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/254">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/254</link>
+        <pubDate>Wed, 10 Oct 2018 13:58:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72750-254</guid>
+        <source url="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750.rss">2.0.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>2.0.0 Patch Notes</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>ToS’s balance is very much mediocre at best tbh</p>
+          <p><a href="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/253">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/253</link>
+        <pubDate>Wed, 10 Oct 2018 13:57:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72750-253</guid>
+        <source url="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750.rss">2.0.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>2.0.0 Patch Notes</title>
+        <dc:creator><![CDATA[Twil1ight]]></dc:creator>
+        <description><![CDATA[
+            <p>Eh.<br>
+I would argue about Balance in ToS.<br>
+Almost all TI’s are broken in some way (Sheriff/Investigator/Psychic/Lookout etc)<br>
+Jailor is obvious, so it’s Crusader.<br>
+Bah, even TS like Mayor/Medium/Transporter can be confirmed without using TI’s.</p>
+<p>While Evils don’t have many tools to play against them. Especially Mafia.</p>
+<aside class="quote no-group" data-username="Insanity" data-post="250" data-topic="72750">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/insanity/40/32707_2.png" class="avatar"> Insanity:</div>
+<blockquote>
+<p>ToL did not have a ranked mode for now.</p>
+</blockquote>
+</aside>
+<p>Implying adding Ranked Mode in Social Deduction with conversions is a good idea. <img src="/images/emoji/twitter/eyes.png?v=9" title=":eyes:" class="emoji" alt=":eyes:"></p>
+          <p><a href="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/252">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/252</link>
+        <pubDate>Wed, 10 Oct 2018 13:35:54 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72750-252</guid>
+        <source url="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750.rss">2.0.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>2.0.0 Patch Notes</title>
+        <dc:creator><![CDATA[Soulshade55r]]></dc:creator>
+        <description><![CDATA[
+            <p>True, just TOL is more RNG on what in Game Classes there are.</p>
+<p>Still prefer it honestly because most of the classes feel more enjoyable</p>
+          <p><a href="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/251">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/251</link>
+        <pubDate>Wed, 10 Oct 2018 13:31:28 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72750-251</guid>
+        <source url="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750.rss">2.0.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>2.0.0 Patch Notes</title>
+        <dc:creator><![CDATA[Insanity]]></dc:creator>
+        <description><![CDATA[
+            <p>I mean ToS is more balanced due to the role only having 1-2 ability, meanwhile ToL is more chaotic 'cause every classes have 2-3 ability that can greatly effect the game.</p>
+<p>And ToL did not have a ranked mode for now.</p>
+          <p><a href="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/250">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/250</link>
+        <pubDate>Wed, 10 Oct 2018 13:29:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72750-250</guid>
+        <source url="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750.rss">2.0.0 Patch Notes</source>
+      </item>
+      <item>
+        <title>2.0.0 Patch Notes</title>
+        <dc:creator><![CDATA[Soulshade55r]]></dc:creator>
+        <description><![CDATA[
+            <p>I’d call Tos more balanced, not in nk standards but one side doesn’t get any major helps due to role RNG, that being said some of there roles are horrible and overpowered or underpowered</p>
+<p>But Tols role list is heavy RNG, most classes are Random so you won’t have a set amount of protectors ect. also Neutrals are all counted the same where you can have 3 Neutrals bad for bd or 3 Neutrals good for bd.</p>
+<p>It’s a luck of the draw right now when it comes to what classes are in Game.</p>
+          <p><a href="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/249">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-0-0-patch-notes/72750/249</link>
+        <pubDate>Wed, 10 Oct 2018 13:16:25 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-72750-249</guid>
+        <source url="https://forum.throneoflies.com/t/2-0-0-patch-notes/72750.rss">2.0.0 Patch Notes</source>
+      </item>
+  </channel>
+</rss>

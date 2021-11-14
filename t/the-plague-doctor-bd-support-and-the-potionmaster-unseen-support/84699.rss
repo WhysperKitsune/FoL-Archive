@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>The Plague Doctor [BD Support] and the Potionmaster [Unseen Support]</title>
+    <link>https://forum.throneoflies.com/t/the-plague-doctor-bd-support-and-the-potionmaster-unseen-support/84699</link>
+    <description># **Class Cards**
+&gt; # [color=stdblue]Plague Doctor (Blue Dragon Support)[/color]
+ &gt; **Naturalist (Passive)** - You bleed out in three nights instead of two. Keep this passive upon class change.
+**Leeches (Day)** - Tonight, your night ability will additionally delay your target&#39;s bleed for a night - 3 uses
+**Medicinal elixir (Day)** - Tonight, your night ability will be self-targeted - 2 uses
+**Healing potion (Night)** - Heal target player. This ability does not heal bleeding unless your target was previously delayed by leeches - Inf uses
+**Pungent Fumes (Night)** - Redirect everyone visiting your target to themselves. Does not count as visiting - 2 uses
+
+ &gt; # [color=purple]The Potionmaster (Unseen Support)[/color]
+&gt;(Converted from the Plague Doctor)
+ &gt; **Naturalist (Passive)** - You bleed out in three nights instead of two. Keep this passive upon class change.
+**Botched operations (Passive)** - When you are lynched, every player you healed with volatile potion starts bleeding. Keep this passive upon class change
+**Psychotic brew (Day)** - Make target player believe they are bleeding - 2 uses, cannot be canceled
+**Secret ingredient (Day)** - Grant temporary occ/redir immunity to the assassin tonight - 1 use
+**Volatile potion (Night)** - Heal target player. This ability does not heal bleeding - Inf uses
+**Etheric fumes (Night)** - Redirect everyone visiting your target to themselves. Does not count as visiting - 2 uses
+
+# **Why should this exist?**
+**What does the PD do?** Overall, you are a weaker physician, as you have difficulty dealing with bleeds. However, you have, unlike other healers, a way to deny converts on a certain person and on yourself, which is extremely good
+**What does it add to the game?** It is a physician that is more fun to play, as you have a second ability other than &quot;heal bleeds, save people&quot;. Aditionally, the existance of this class gives evils more claim space, as you cannot heal bleeds until the third night, and bleed immune targets can claim leeched easily.
+**What does the PM do?** You are an extremely versatile member of the unseen. You can heal your fellow unseen members, heal your targets to confirm youself, feed false information to the court, secure your assassin a kill, etc.
+
+ # **In-depth explaination**
+__Naturalist__ is your saving grace towards bleeding. Unlike other healers, you struggle with dealing with a lot of bleeding people, and you are unable to heal yourself from bleeding, which is why you bleed out in three nights
+__Leeches__ is 3 use, as it lets you heal the 3 assassin/CL bleeds predictively (Healing them after leeching them), or it lets you mix things up a bit by leeching the same person twice. Leeches does not provide feedback, so a mastermind can falsely claim leeched to noble gossiping him
+__Medicinal elixir__ is a kind of pocket dimension, which is why it&#39;s 2 use. You cannot heal yourself from bleeding alone, though, so you will require help from other healers to save you
+__Healing potion__ does not heal bleeding unless you have leeches on that person, giving you 2 nights if you want to fake claim a healer
+__Pungent Fumes__ is a way for you to prevent converts. It is overall stronger than your healing potion, but it may deny investigative roles information and does not give feedback to your target if the attacker attacked hum
+__Botched operations__ does not apply to people you healed before being converted. It still makes the court reluctant to execute you on stand, possibly buying you a night
+__Psychotic Brew__ is akin to the physician&#39;s drug ability, making your target believe they are bleeding for an infinite ammount of time. This allows you to claim using leeches, or claim that your target must be mastermind, because they didnt die from bleed
+__Secret ingredient__ is extremely powerful, allowing your assassin to becomme immune to occupation or redirection. This can allow him to bypass your fumes, or kill a butler partying, or kill prince trough merc, etc.
+__Volatile Potion__ is an interesting ability. It lets you either confirm yourself, at the cost of your faction kill, or lets you try and save your fellow unseen. It&#39;s a kind of calculated time bomb, as it can overwhelm the court with too many bleeds if you sucessfully get lynched
+__Etheric fumes__ was originally added to deny noble meta, but it can also allow you to guarentee a kill or disrupt investigative roles
+
+ # **Feedback**
+__Naturalist__ - You started bleeding due to a Hunter, Assassin or Cult leader. You will die in 3 nights unless healed
+__Leeches__ - You took out your leeches from your vial - You put the leeches back into their jar - Tonight, your leeches will delay your target&#39;s bleed by a night
+__Medicinal elixir__ You take a sip of elixir, envigorating you - You spit the concoction back into the flask - Your elixir is taking effect
+__Healing potion__ - You will cure [Player] tonight - You were healed last night - [Player] was attacked, so you healed them - You were healed of your bleeding - [Player]&#39;s leeches sucked up most of the blood, letting you cure them sucessfully - [Player] did not require healing - You could not heal [Player] last night
+__Pungent fumes__ - You will unleash your concoction on [Player] tonight
+__Botched operations__ - The wounds healed by the potionmaster opened back up, making you bleed profusely. You will die at the end of the night unless healed
+__Psychotic brew__ - You slipped hallucinogens to [Player], making them believe they are bleeding
+__Secret ingredient__ - Tonight, your assassin will gain immunity to bolth occupy and redirection - You cancel your ability - You were granted immunity to bolth occupation and redirection by a Potionmaster for the night
+__Volatile potion__ - You will cure [Player] tonight - You were healed last night - [Player] was attacked, so you healed them - [Player] did not require healing - You could not heal [Player] last night
+__Etheric fumes__ - You will unleash your concoction on [Player] tonight
+
+# **Changelog**
+
+V1.0 - Original
+V1.1 :
+- Fixed an oversight in the feedback section where I had an artifact from back when PD and PM didn&#39;t have the same healing ability name
+- Changed __Phychotics__ ability to not be a look-alike of physician&#39;s drug, and updated according feedback
+- Nerfed and renamed __Smoke bomb__ to __Etheric Fumes__ to better capture the essence of the potionmaster
+- Revamped __Leeches__
+    - Now, instead of directly applying leeches to your target, you apply them via a your night ability, allowing you to still be occupied
+    - Now extends the bleed timer by one, allowing for some very basic mixups
+    - Allows to unclunk the description from __Healing potion__
+    - Updated according feedback
+
+V1.2 : 
+- Renamed __Psychotics__ to __Phychotic brew__, and updated according feedback
+- Fixed __Etheric fumes__&#39;s feedback to now correctly talk about fumes and not a bomb
+- Added a difference between __Healing potion__ and __Volatile potion__. Removed a bunch of erronous feedback concerning a previous name for these abilities
+- Revamped and renamed __Empowering fumes__
+   - Now named __Pungent fumes__
+   - The ability now redirects everyone visiting your target to themselves, allowing you to do some sort of investigative work (Like with tornadoes) and prevent converts
+   - Number of uses reduced to 2
+   - Updated accoring feedback
+- Revamped __Etheric Fumes__ to act the same as __Pungent fumes__ and updated according feedback
+- Revamped __Medicinal elixir__
+- Added a new passive: __Naturalist__, so that you can deal with bleeding a little bit better now that __Medicinal elixir__ was reworked
+
+V1.2.1: Fixed minor oversights
+
+V1.3 :
+ - Edited the description of __Healing potion__ to better represent what it does
+ - Actually reduced __Pungent fumes__ and __Etheric fumes__ to 2 uses each
+ - Swapped __Psychotic Brew__ and __Secret ingredient__ in the day abilities order
+ - Revamped __Secret ingredient__
+    - Now makes your assassin temporarily immune to occupation and redirection for the night
+    - Ability is now cancelable
+ - Made __Etheric Fumes__ a copycat of __Pungent Fumes__ (Complete oversight on my part, you cant convert if you have a convert)
+ - Rewrote the __Why should this exist__ section to better represent the new classes
+ - Changed potionmaster&#39;s class to support
+- Typos
+
+V1.3.1: Made __Pungent fumes__ and __Etheric fumes__ to not be classified as visits, preventing the wierdness when 2 plague doctors/potionmasters use fumes on the same target</description>
+    
+    <lastBuildDate>Tue, 17 Nov 2020 05:10:06 +0000</lastBuildDate>
+    <category>Class/Lore/Fanfic</category>
+    <atom:link href="https://forum.throneoflies.com/t/the-plague-doctor-bd-support-and-the-potionmaster-unseen-support/84699.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>The Plague Doctor [BD Support] and the Potionmaster [Unseen Support]</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Zap527" data-post="6" data-topic="84699">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/zap527/40/33980_2.png" class="avatar"> Zap527:</div>
+<blockquote>
+<p>It does fill a role tho. It’s an easy-claim evil role. If you’re in a pinch, you can claim this to make BD not want to hang you, cause of the potential potionmaster, just like chronomancer didnt fill a role</p>
+</blockquote>
+</aside>
+<p>thats a thing it is, but that isn’t a hole in the current classes (and i’d honestly argue both phys/chrono are easier to claim because leeches exists)</p>
+<p>fwiw chronomancer kind of filled a role as an alternative take on a healer but it was initially going to <em>replace</em> physician before people polled to have both exist</p>
+          <p><a href="https://forum.throneoflies.com/t/the-plague-doctor-bd-support-and-the-potionmaster-unseen-support/84699/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/the-plague-doctor-bd-support-and-the-potionmaster-unseen-support/84699/7</link>
+        <pubDate>Tue, 17 Nov 2020 05:10:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84699-7</guid>
+        <source url="https://forum.throneoflies.com/t/the-plague-doctor-bd-support-and-the-potionmaster-unseen-support/84699.rss">The Plague Doctor [BD Support] and the Potionmaster [Unseen Support]</source>
+      </item>
+      <item>
+        <title>The Plague Doctor [BD Support] and the Potionmaster [Unseen Support]</title>
+        <dc:creator><![CDATA[Zap527]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="katze" data-post="3" data-topic="84699" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/katze/40/30997_2.png" class="avatar"> katze:</div>
+<blockquote>
+<p>i think my biggest criticism for this class isn’t even a problem with the class</p>
+<p>a third healer is, honestly, unnecessary</p>
+<p>a lot of people don’t enjoy playing as healers (subjective) but adding another will make randing them more common</p>
+</blockquote>
+</aside>
+<p>I like playing healer :*(</p>
+<p>Also i want to imagine that having another healer in the pool wont increace your chance of getting a healer, but will instead decrease the chance of getting other healers (Taking a phys’s spot for instance)</p>
+<aside class="quote no-group" data-username="katze" data-post="3" data-topic="84699" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/katze/40/30997_2.png" class="avatar"> katze:</div>
+<blockquote>
+<p>this one is, imo, kind of too good? the drawback of “healing bleeds is hard” doesn’t really matter, leeches is incredibly strong and also nullifies said downside, which turns this class into the most self sufficient healer in a game with two healers that are also self sufficient</p>
+<p>leeches being a day ability is why i think it’s too good though, it means theres no counterplay to it; you cant occupy the healer, can’t stonewall/guard/swap the bleeding person, <em>you just delay it</em></p>
+</blockquote>
+</aside>
+<p>This is extremely true. It’s an oversight in design IMO, no healer should be this reliable. The reason this isnt a day ability is because i already have another one</p>
+<p>What i could do to fix this is:<br>
+1 - Just move leeches to a night ability and move fumes to a day ability<br>
+2 - Ignore conventions and have as maby dang day abils as i want<br>
+3 - Rephrase abilities in a sneaky way making it possible to be occed while using this day abil</p>
+<p>All of them have their pros and cons, i’ll brainstorm about that</p>
+<aside class="quote no-group" data-username="katze" data-post="3" data-topic="84699" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/katze/40/30997_2.png" class="avatar"> katze:</div>
+<blockquote>
+<p>id say empowering fumes feels better as a day ability but then it’s too similar to CW so /shrug, but in practice i really doubt it’ll get used very often as frames are rare and bypassing DI is only really good for knights</p>
+</blockquote>
+</aside>
+<p>I originally wanted the ability to also make healers bypass unhealable attacks, but i realized the synergy possibilities with knight and the hard counter to reaper and posessor were something that was bad.</p>
+<p>Also as i mentionned in the explaination bit, this ability is in to counter obvious mindwarps, cause it’s not fun to be incapacitated for 3 nights because cult happened to have your hard counter. That’s pretty much it’s only use, but i wanted to make something a bit different to make it a little more fun to play</p>
+<aside class="quote no-group" data-username="katze" data-post="3" data-topic="84699" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/katze/40/30997_2.png" class="avatar"> katze:</div>
+<blockquote>
+<p>with that said i actually think this is one of the better/well thought out suggestions i just don’t think it fills a necessary hole in the game</p>
+</blockquote>
+</aside>
+<p>Thanks!</p>
+<p>It does fill a role tho. It’s an easy-claim evil role. If you’re in a pinch, you can claim this to make BD not want to hang you, cause of the potential potionmaster, just like chronomancer didnt fill a role</p>
+<aside class="quote no-group" data-username="katze" data-post="3" data-topic="84699" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/katze/40/30997_2.png" class="avatar"> katze:</div>
+<blockquote>
+<p>also your cat looks like <a class="mention" href="/u/chloe">@Chloe</a> s cat</p>
+</blockquote>
+</aside>
+<p>Cat gang</p>
+          <p><a href="https://forum.throneoflies.com/t/the-plague-doctor-bd-support-and-the-potionmaster-unseen-support/84699/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/the-plague-doctor-bd-support-and-the-potionmaster-unseen-support/84699/6</link>
+        <pubDate>Tue, 17 Nov 2020 04:52:42 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84699-6</guid>
+        <source url="https://forum.throneoflies.com/t/the-plague-doctor-bd-support-and-the-potionmaster-unseen-support/84699.rss">The Plague Doctor [BD Support] and the Potionmaster [Unseen Support]</source>
+      </item>
+      <item>
+        <title>The Plague Doctor [BD Support] and the Potionmaster [Unseen Support]</title>
+        <dc:creator><![CDATA[Zap527]]></dc:creator>
+        <description><![CDATA[
+            <p>Ayyy thanks for your feedback</p>
+<aside class="quote no-group quote-modified" data-username="TheBlueElixir" data-post="2" data-topic="84699">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/theblueelixir/40/29077_2.png" class="avatar"> TheBlueElixir:</div>
+<blockquote>
+<aside class="quote no-group" data-username="Zap527" data-post="1" data-topic="84699">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/zap527/40/33980_2.png" class="avatar"> Zap527:</div>
+<blockquote>
+<p>You were blinded by a potionmaster’s smoke bomb</p>
+</blockquote>
+</aside>
+<p>this would probably deter anybody from using it besides really late game</p>
+<p>then again the other night ability(used with passive) is really strong anyway so buffing smoke bomb is probably not the way to go</p>
+</blockquote>
+</aside>
+<p>So here’s the thing. Smoke bomb’s main purpose is denying access to information. Furthermore, having a known PM in game is not nececarely a bad thing, as it allows to clear up convert space<br>
+Aditionally, early smoke bombs may make BD scared of lynching healer claims, giving you a bit more time</p>
+<aside class="quote no-group" data-username="TheBlueElixir" data-post="2" data-topic="84699" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/theblueelixir/40/29077_2.png" class="avatar"> TheBlueElixir:</div>
+<blockquote>
+<p>I think pm is support btw; not that class type really matters</p>
+</blockquote>
+</aside>
+<p>Yes but no. It’s a class that can do support, but that can also do social. Basically it doesnt matter at all because princess sees either as S/S but i like the idea of class type changes on conversion</p>
+<aside class="quote no-group" data-username="TheBlueElixir" data-post="2" data-topic="84699" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/theblueelixir/40/29077_2.png" class="avatar"> TheBlueElixir:</div>
+<blockquote>
+<p>other newer tm thoughts<br>
+pd kinda really strong<br>
+Its like phys in a lot of ways only it has more options<br>
+making it having the chrono’s strength in healing two players at once, except its actual healing, and if it doesnt want to heal someone else it can instead provide utility</p>
+</blockquote>
+</aside>
+<p>That’s true, but here’s the thing you didnt notice: This class is hyper predictive. You have a lot of options, but they’re all relatively weak</p>
+<p>Let’s say for instance there is someone bleeding. You are unable to save them and yourself, cause of the whole 1 day abil shenanigans</p>
+<p>I do agree that having a self heal that can also be used with healing someone else is kinda strong. Might change that ability to make your night action target yourself tonight instead or something</p>
+<aside class="quote no-group" data-username="TheBlueElixir" data-post="2" data-topic="84699" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/theblueelixir/40/29077_2.png" class="avatar"> TheBlueElixir:</div>
+<blockquote>
+<p>the drawback is that it cant deal with bleeds as well as other healers but id argue it can the best, since it doesnt use a night ability to push it off a night or three(and making it a 5 day bleed is really strong by itself when you spend those nights healing others) and it cant heal the bleeds any night past the original death date</p>
+</blockquote>
+</aside>
+<p>Yes, but then you lose the ability to heal any further heals, making this class efectivly a lot weaker late game. This is good, because evils will tend to keep this arround a lot more, forcing BD to take the risk about executing a potionmaster. Also it makes for a good fake claim</p>
+<aside class="quote no-group" data-username="TheBlueElixir" data-post="2" data-topic="84699" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/theblueelixir/40/29077_2.png" class="avatar"> TheBlueElixir:</div>
+<blockquote>
+<p>taking another look at pm its also a bit strong but not as much<br>
+Secret Ingredient and Psychotics mock Timesnatcher’s and Herbalist’s strong abilities but now their unblockable by occupiers/redirectors and unseeable by observers/nobles which is probably too much since the passive gives this convert some strength anyway(though this convert should be one of the stronger ones since its an easy to fake class, but maybe not to this degree)</p>
+</blockquote>
+</aside>
+<p>Yeah, when i originally designed this class, my goal was to make the convert something to rival a knight or chrono in terms of usefulness. I do 100% agree that it’s a lot too strong with these very good day abilities.</p>
+<p>The only reason they’re still in is cause i didnt wanna have a class named potionmaster with only one potion to use</p>
+<p>Overall, I’m gonna tone down on the day abilities. Thanks again for the feedback</p>
+          <p><a href="https://forum.throneoflies.com/t/the-plague-doctor-bd-support-and-the-potionmaster-unseen-support/84699/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/the-plague-doctor-bd-support-and-the-potionmaster-unseen-support/84699/5</link>
+        <pubDate>Tue, 17 Nov 2020 04:38:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84699-5</guid>
+        <source url="https://forum.throneoflies.com/t/the-plague-doctor-bd-support-and-the-potionmaster-unseen-support/84699.rss">The Plague Doctor [BD Support] and the Potionmaster [Unseen Support]</source>
+      </item>
+      <item>
+        <title>The Plague Doctor [BD Support] and the Potionmaster [Unseen Support]</title>
+        <dc:creator><![CDATA[Chloe]]></dc:creator>
+        <description><![CDATA[
+            <p>How did you steal Piper without me noticing</p>
+          <p><a href="https://forum.throneoflies.com/t/the-plague-doctor-bd-support-and-the-potionmaster-unseen-support/84699/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/the-plague-doctor-bd-support-and-the-potionmaster-unseen-support/84699/4</link>
+        <pubDate>Tue, 17 Nov 2020 04:36:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84699-4</guid>
+        <source url="https://forum.throneoflies.com/t/the-plague-doctor-bd-support-and-the-potionmaster-unseen-support/84699.rss">The Plague Doctor [BD Support] and the Potionmaster [Unseen Support]</source>
+      </item>
+      <item>
+        <title>The Plague Doctor [BD Support] and the Potionmaster [Unseen Support]</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <p>i think my biggest criticism for this class isn’t even a problem with the class</p>
+<p>a third healer is, honestly, unnecessary</p>
+<p>a lot of people don’t enjoy playing as healers (subjective) but adding another will make randing them more common</p>
+<p>this one is, imo, kind of too good? the drawback of “healing bleeds is hard” doesn’t really matter, leeches is incredibly strong and also nullifies said downside, which turns this class into the most self sufficient healer in a game with two healers that are also self sufficient</p>
+<p>leeches being a day ability is why i think it’s too good though, it means theres no counterplay to it; you cant occupy the healer, can’t stonewall/guard/swap the bleeding person, <em>you just delay it</em></p>
+<p>id say empowering fumes feels better as a day ability but then it’s too similar to CW so /shrug, but in practice i really doubt it’ll get used very often as frames are rare and bypassing DI is only really good for knights</p>
+<p>with that said i actually think this is one of the better/well thought out suggestions i just don’t think it fills a necessary hole in the game</p>
+<p>also your cat looks like <a class="mention" href="/u/Chloe">@Chloe</a> s cat</p>
+          <p><a href="https://forum.throneoflies.com/t/the-plague-doctor-bd-support-and-the-potionmaster-unseen-support/84699/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/the-plague-doctor-bd-support-and-the-potionmaster-unseen-support/84699/3</link>
+        <pubDate>Tue, 17 Nov 2020 04:35:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84699-3</guid>
+        <source url="https://forum.throneoflies.com/t/the-plague-doctor-bd-support-and-the-potionmaster-unseen-support/84699.rss">The Plague Doctor [BD Support] and the Potionmaster [Unseen Support]</source>
+      </item>
+      <item>
+        <title>The Plague Doctor [BD Support] and the Potionmaster [Unseen Support]</title>
+        <dc:creator><![CDATA[TheBlueElixir]]></dc:creator>
+        <description><![CDATA[
+            <p>why did i think your pfp on discord was a polar bear not a cat</p>
+<p>anyway<br>
+like the class, yada yada said some stuff in the discord</p>
+<aside class="quote no-group" data-username="Zap527" data-post="1" data-topic="84699">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/zap527/40/33980_2.png" class="avatar"> Zap527:</div>
+<blockquote>
+<p>You were blinded by a potionmaster’s smoke bomb</p>
+</blockquote>
+</aside>
+<p>this would probably deter anybody from using it besides really late game</p>
+<p>then again the other night ability(used with passive) is really strong anyway so buffing smoke bomb is probably not the way to go</p>
+<p>I think pm is support btw; not that class type really matters</p>
+<p>other newer tm thoughts<br>
+pd kinda really strong<br>
+Its like phys in a lot of ways only it has more options<br>
+making it having the chrono’s strength in healing two players at once, except its actual healing, and if it doesnt want to heal someone else it can instead provide utility<br>
+the drawback is that it cant deal with bleeds as well as other healers but id argue it can the best, since it doesnt use a night ability to push it off a night or three(and making it a 5 day bleed is really strong by itself when you spend those nights healing others) and it cant heal the bleeds any night past the original death date</p>
+<p>Ive heard that the best form of recommendation/suggestions is just telling folks where the faults are and letting them build their own solutions to it so to put my subjective thoughts into a single sentence;<br>
+PD OP because it has a large amount of strong abilities</p>
+<p>i might be overdoing that so take it with a grain of salt</p>
+<p>taking another look at pm its also a bit strong but not as much<br>
+Secret Ingredient and Psychotics mock Timesnatcher’s and Herbalist’s strong abilities but now their unblockable by occupiers/redirectors and unseeable by observers/nobles which is probably too much since the passive gives this convert some strength anyway(though this convert should be one of the stronger ones since its an easy to fake class, but maybe not to this degree)<br>
+because of the passive hp is going to be used every night thats just the way of the world; I dont think smoke bomb should be buffed for it to be used more, just let it be its situational self</p>
+<p>I dont mean to bash on the class btw its well made and thanks for putting effort into it<br>
+im just nitpicking because thats what i do</p>
+<p>fingers crossed my english teacher accepts this</p>
+          <p><a href="https://forum.throneoflies.com/t/the-plague-doctor-bd-support-and-the-potionmaster-unseen-support/84699/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/the-plague-doctor-bd-support-and-the-potionmaster-unseen-support/84699/2</link>
+        <pubDate>Tue, 17 Nov 2020 03:30:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84699-2</guid>
+        <source url="https://forum.throneoflies.com/t/the-plague-doctor-bd-support-and-the-potionmaster-unseen-support/84699.rss">The Plague Doctor [BD Support] and the Potionmaster [Unseen Support]</source>
+      </item>
+      <item>
+        <title>The Plague Doctor [BD Support] and the Potionmaster [Unseen Support]</title>
+        <dc:creator><![CDATA[Zap527]]></dc:creator>
+        <description><![CDATA[
+            <h1><strong>Class Cards</strong></h1>
+<blockquote>
+<h1><font color="stdblue">Plague Doctor (Blue Dragon Support)</font></h1>
+<p><strong>Naturalist (Passive)</strong> - You bleed out in three nights instead of two. Keep this passive upon class change.<br>
+<strong>Leeches (Day)</strong> - Tonight, your night ability will additionally delay your target’s bleed for a night - 3 uses<br>
+<strong>Medicinal elixir (Day)</strong> - Tonight, your night ability will be self-targeted - 2 uses<br>
+<strong>Healing potion (Night)</strong> - Heal target player. This ability does not heal bleeding unless your target was previously delayed by leeches - Inf uses<br>
+<strong>Pungent Fumes (Night)</strong> - Redirect everyone visiting your target to themselves. Does not count as visiting - 2 uses</p>
+</blockquote>
+<blockquote>
+<h1><font color="purple">The Potionmaster (Unseen Support)</font></h1>
+<p>(Converted from the Plague Doctor)<br>
+<strong>Naturalist (Passive)</strong> - You bleed out in three nights instead of two. Keep this passive upon class change.<br>
+<strong>Botched operations (Passive)</strong> - When you are lynched, every player you healed with volatile potion starts bleeding. Keep this passive upon class change<br>
+<strong>Psychotic brew (Day)</strong> - Make target player believe they are bleeding - 2 uses, cannot be canceled<br>
+<strong>Secret ingredient (Day)</strong> - Grant temporary occ/redir immunity to the assassin tonight - 1 use<br>
+<strong>Volatile potion (Night)</strong> - Heal target player. This ability does not heal bleeding - Inf uses<br>
+<strong>Etheric fumes (Night)</strong> - Redirect everyone visiting your target to themselves. Does not count as visiting - 2 uses</p>
+</blockquote>
+<h1><strong>Why should this exist?</strong></h1>
+<p><strong>What does the PD do?</strong> Overall, you are a weaker physician, as you have difficulty dealing with bleeds. However, you have, unlike other healers, a way to deny converts on a certain person and on yourself, which is extremely good<br>
+<strong>What does it add to the game?</strong> It is a physician that is more fun to play, as you have a second ability other than “heal bleeds, save people”. Aditionally, the existance of this class gives evils more claim space, as you cannot heal bleeds until the third night, and bleed immune targets can claim leeched easily.<br>
+<strong>What does the PM do?</strong> You are an extremely versatile member of the unseen. You can heal your fellow unseen members, heal your targets to confirm youself, feed false information to the court, secure your assassin a kill, etc.</p>
+<h1><strong>In-depth explaination</strong></h1>
+<p><strong>Naturalist</strong> is your saving grace towards bleeding. Unlike other healers, you struggle with dealing with a lot of bleeding people, and you are unable to heal yourself from bleeding, which is why you bleed out in three nights<br>
+<strong>Leeches</strong> is 3 use, as it lets you heal the 3 assassin/CL bleeds predictively (Healing them after leeching them), or it lets you mix things up a bit by leeching the same person twice. Leeches does not provide feedback, so a mastermind can falsely claim leeched to noble gossiping him<br>
+<strong>Medicinal elixir</strong> is a kind of pocket dimension, which is why it’s 2 use. You cannot heal yourself from bleeding alone, though, so you will require help from other healers to save you<br>
+<strong>Healing potion</strong> does not heal bleeding unless you have leeches on that person, giving you 2 nights if you want to fake claim a healer<br>
+<strong>Pungent Fumes</strong> is a way for you to prevent converts. It is overall stronger than your healing potion, but it may deny investigative roles information and does not give feedback to your target if the attacker attacked hum<br>
+<strong>Botched operations</strong> does not apply to people you healed before being converted. It still makes the court reluctant to execute you on stand, possibly buying you a night<br>
+<strong>Psychotic Brew</strong> is akin to the physician’s drug ability, making your target believe they are bleeding for an infinite ammount of time. This allows you to claim using leeches, or claim that your target must be mastermind, because they didnt die from bleed<br>
+<strong>Secret ingredient</strong> is extremely powerful, allowing your assassin to becomme immune to occupation or redirection. This can allow him to bypass your fumes, or kill a butler partying, or kill prince trough merc, etc.<br>
+<strong>Volatile Potion</strong> is an interesting ability. It lets you either confirm yourself, at the cost of your faction kill, or lets you try and save your fellow unseen. It’s a kind of calculated time bomb, as it can overwhelm the court with too many bleeds if you sucessfully get lynched<br>
+<strong>Etheric fumes</strong> was originally added to deny noble meta, but it can also allow you to guarentee a kill or disrupt investigative roles</p>
+<h1><strong>Feedback</strong></h1>
+<p><strong>Naturalist</strong> - You started bleeding due to a Hunter, Assassin or Cult leader. You will die in 3 nights unless healed<br>
+<strong>Leeches</strong> - You took out your leeches from your vial - You put the leeches back into their jar - Tonight, your leeches will delay your target’s bleed by a night<br>
+<strong>Medicinal elixir</strong> You take a sip of elixir, envigorating you - You spit the concoction back into the flask - Your elixir is taking effect<br>
+<strong>Healing potion</strong> - You will cure [Player] tonight - You were healed last night - [Player] was attacked, so you healed them - You were healed of your bleeding - [Player]'s leeches sucked up most of the blood, letting you cure them sucessfully - [Player] did not require healing - You could not heal [Player] last night<br>
+<strong>Pungent fumes</strong> - You will unleash your concoction on [Player] tonight<br>
+<strong>Botched operations</strong> - The wounds healed by the potionmaster opened back up, making you bleed profusely. You will die at the end of the night unless healed<br>
+<strong>Psychotic brew</strong> - You slipped hallucinogens to [Player], making them believe they are bleeding<br>
+<strong>Secret ingredient</strong> - Tonight, your assassin will gain immunity to bolth occupy and redirection - You cancel your ability - You were granted immunity to bolth occupation and redirection by a Potionmaster for the night<br>
+<strong>Volatile potion</strong> - You will cure [Player] tonight - You were healed last night - [Player] was attacked, so you healed them - [Player] did not require healing - You could not heal [Player] last night<br>
+<strong>Etheric fumes</strong> - You will unleash your concoction on [Player] tonight</p>
+<h1><strong>Changelog</strong></h1>
+<p>V1.0 - Original<br>
+V1.1 :</p>
+<ul>
+<li>Fixed an oversight in the feedback section where I had an artifact from back when PD and PM didn’t have the same healing ability name</li>
+<li>Changed <strong>Phychotics</strong> ability to not be a look-alike of physician’s drug, and updated according feedback</li>
+<li>Nerfed and renamed <strong>Smoke bomb</strong> to <strong>Etheric Fumes</strong> to better capture the essence of the potionmaster</li>
+<li>Revamped <strong>Leeches</strong>
+<ul>
+<li>Now, instead of directly applying leeches to your target, you apply them via a your night ability, allowing you to still be occupied</li>
+<li>Now extends the bleed timer by one, allowing for some very basic mixups</li>
+<li>Allows to unclunk the description from <strong>Healing potion</strong>
+</li>
+<li>Updated according feedback</li>
+</ul>
+</li>
+</ul>
+<p>V1.2 :</p>
+<ul>
+<li>Renamed <strong>Psychotics</strong> to <strong>Phychotic brew</strong>, and updated according feedback</li>
+<li>Fixed <strong>Etheric fumes</strong>’s feedback to now correctly talk about fumes and not a bomb</li>
+<li>Added a difference between <strong>Healing potion</strong> and <strong>Volatile potion</strong>. Removed a bunch of erronous feedback concerning a previous name for these abilities</li>
+<li>Revamped and renamed <strong>Empowering fumes</strong>
+<ul>
+<li>Now named <strong>Pungent fumes</strong>
+</li>
+<li>The ability now redirects everyone visiting your target to themselves, allowing you to do some sort of investigative work (Like with tornadoes) and prevent converts</li>
+<li>Number of uses reduced to 2</li>
+<li>Updated accoring feedback</li>
+</ul>
+</li>
+<li>Revamped <strong>Etheric Fumes</strong> to act the same as <strong>Pungent fumes</strong> and updated according feedback</li>
+<li>Revamped <strong>Medicinal elixir</strong>
+</li>
+<li>Added a new passive: <strong>Naturalist</strong>, so that you can deal with bleeding a little bit better now that <strong>Medicinal elixir</strong> was reworked</li>
+</ul>
+<p>V1.2.1: Fixed minor oversights</p>
+<p>V1.3 :</p>
+<ul>
+<li>Edited the description of <strong>Healing potion</strong> to better represent what it does</li>
+<li>Actually reduced <strong>Pungent fumes</strong> and <strong>Etheric fumes</strong> to 2 uses each</li>
+<li>Swapped <strong>Psychotic Brew</strong> and <strong>Secret ingredient</strong> in the day abilities order</li>
+<li>Revamped <strong>Secret ingredient</strong>
+<ul>
+<li>Now makes your assassin temporarily immune to occupation and redirection for the night</li>
+<li>Ability is now cancelable</li>
+</ul>
+</li>
+<li>Made <strong>Etheric Fumes</strong> a copycat of <strong>Pungent Fumes</strong> (Complete oversight on my part, you cant convert if you have a convert)</li>
+<li>Rewrote the <strong>Why should this exist</strong> section to better represent the new classes</li>
+<li>Changed potionmaster’s class to support</li>
+<li>Typos</li>
+</ul>
+<p>V1.3.1: Made <strong>Pungent fumes</strong> and <strong>Etheric fumes</strong> to not be classified as visits, preventing the wierdness when 2 plague doctors/potionmasters use fumes on the same target</p>
+          <p><a href="https://forum.throneoflies.com/t/the-plague-doctor-bd-support-and-the-potionmaster-unseen-support/84699/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/the-plague-doctor-bd-support-and-the-potionmaster-unseen-support/84699/1</link>
+        <pubDate>Tue, 17 Nov 2020 02:52:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84699-1</guid>
+        <source url="https://forum.throneoflies.com/t/the-plague-doctor-bd-support-and-the-potionmaster-unseen-support/84699.rss">The Plague Doctor [BD Support] and the Potionmaster [Unseen Support]</source>
+      </item>
+  </channel>
+</rss>

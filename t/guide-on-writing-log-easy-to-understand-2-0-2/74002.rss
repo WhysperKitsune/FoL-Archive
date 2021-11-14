@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Guide on writing log easy to understand. [2.0.2]</title>
+    <link>https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002</link>
+    <description>Im too tired looking at these logs so im making this hopefully someone will learn it and improve their writing skills!
+1. How to write your logs:
+-As writing your log, you must write with full info you got that night/day and be as easy as possible to understand!
+2. Based Class Logs:
+
+[quote]
+&lt;big&gt;[color=DodgerBlue]**Butler**[/color]&lt;big&gt;
+
+N1: Wine 2 - Success |
+N2: Wine 3 - Immune |
+N3: Party |
+D4: Poisoned King |
+
+[/quote]
+
+[quote]
+&lt;big&gt;[color=DodgerBlue]**Chronomancer**[/color]&lt;big&gt;
+
+N1: TW 2 - DND |
+N2: TW 3 - Delayed |
+D3: PD |
+or
+N3: PD + TW 4 - DNR |
+
+[/quote]
+
+[quote]
+&lt;big&gt;[color=DodgerBlue]**Court Wizard**[/color]&lt;big&gt;
+
+N1: Emp 2 - Nothing |
+N2: Emp 3 - Aided |
+N3: Swap 4 &amp; 5 - Success |
+D4: CM 6 |
+or
+N4: CM 6 + Emp 7 - Nothing |
+
+[/quote]
+
+[quote]
+&lt;big&gt;[color=DodgerBlue]**Drunk**[/color]&lt;big&gt;
+
+N1: Force 2 &gt; King - Success |
+N2: Force 3 &gt; 2 - Unable |
+N3: HH 4 - Success |
+
+[/quote]
+
+[quote]
+&lt;big&gt;[color=DodgerBlue]**Hunter**[/color]&lt;big&gt;
+
+Does Hunter really need logs? Oh he does!
+
+N1: Bear |
+N2: No Bear |
+N3: Wolf 2 - Success |
+[/quote]
+
+[quote]
+&lt;big&gt;[color=DodgerBlue]**Knight**[/color]&lt;big&gt;
+
+N1: Defend 2 - Nothing |
+N2: Defend 3 - Killed Attacker |
+N3: CS 4 - Success |
+
+[/quote]
+
+[quote]
+&lt;big&gt;[color=DodgerBlue]**Maid**[/color]&lt;big&gt;
+
+Starting : [2] |
+
+N1: Match 2 &amp; 3 - Comp |
+N2: Match 3 &amp; 4 - Incomp |
+N3: Nosy 4 &gt; 5 - Visited |
+
+[/quote]
+
+[quote]
+&lt;big&gt;[color=DodgerBlue]**Mystic**[/color]&lt;big&gt;
+
+N1: Link 2 - Claim Knight |
+N2: Link 3 - Didnt claim |
+
+[/quote]
+
+[quote]
+&lt;big&gt;[color=DodgerBlue]**Noble**[/color]&lt;big&gt;
+
+N1: Spy |
+N2: Gossip 2 - No feedbacks |
+N3: Gossip 3 - DNR Heal, Framed |
+
+[/quote]
+
+[quote]
+&lt;big&gt;[color=DodgerBlue]**Observer**[/color]&lt;big&gt;
+
+N1: Follow 2 - 3 &gt; [2] &gt; 4 |
+N2: Peek 5 - BD |
+
+[/quote]
+
+[quote]
+&lt;big&gt;[color=DodgerBlue]**Paladin**[/color]&lt;big&gt;
+
+N1: Test 2 - NS |
+N2: Test 3 - Cult |
+N3: Smite 4 - Nothing |
+N4: Smite 5 - Killed CL |
+
+[/quote]
+
+[quote]
+&lt;big&gt;[color=DodgerBlue]**Physician**[/color]&lt;big&gt;
+
+N1: Heal 2 - DNR |
+D2: Exhume 3 - Assassin |
+N2: Self Care - Healed |
+N3: Inoculated 4 + Heal 5 - DNR |
+
+[/quote]
+
+[quote]
+&lt;big&gt;[color=DodgerBlue]**Prince**[/color]&lt;big&gt;
+
+N1: Jail 2 - Phys |
+N2: Jail 3 - No Claim |
+N3: Jail 4 - Maid, Exe |
+
+[/quote]
+
+[quote]
+&lt;big&gt;[color=DodgerBlue]**Princess**[/color]&lt;big&gt;
+
+N1: Flirt 2 - S/S |
+N2: Flirt 3 - K/O |
+N3: Flirt 4 - S/I |
+N4: WoW 5 - Didnt Attacked |
+N5: WoW 6 - Attacked |
+
+[/quote]
+
+[quote]
+&lt;big&gt;[color=DodgerBlue]**Sheriff**[/color]&lt;big&gt;
+
+Current Scout : [5] |
+
+D1: Scout 2 - Visited |
+N1: Invest 3 - NS.MM |
+N2: Scout 5 - Visited + Invest 4 - NS.MM |
+N3: Invest 6 - Unseen |
+N4: Surv 7 - MasterMind |
+
+[/quote]</description>
+    
+    <lastBuildDate>Sun, 25 Nov 2018 23:47:50 +0000</lastBuildDate>
+    <category>General</category>
+    <atom:link href="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Guide on writing log easy to understand. [2.0.2]</title>
+        <dc:creator><![CDATA[Mercenary]]></dc:creator>
+        <description><![CDATA[
+            <p>It’s a drunk log when I’m redirected<br>
+Not an obs log while redirected. They are x &gt; x &gt; x | x &gt; x &gt; x</p>
+          <p><a href="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/33">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/33</link>
+        <pubDate>Sun, 25 Nov 2018 23:47:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74002-33</guid>
+        <source url="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002.rss">Guide on writing log easy to understand. [2.0.2]</source>
+      </item>
+      <item>
+        <title>Guide on writing log easy to understand. [2.0.2]</title>
+        <dc:creator><![CDATA[Planterror]]></dc:creator>
+        <description><![CDATA[
+            <p>7 and 8 visited 9 but are on different sides of the log…</p>
+          <p><a href="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/32">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/32</link>
+        <pubDate>Sun, 25 Nov 2018 22:03:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74002-32</guid>
+        <source url="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002.rss">Guide on writing log easy to understand. [2.0.2]</source>
+      </item>
+      <item>
+        <title>Guide on writing log easy to understand. [2.0.2]</title>
+        <dc:creator><![CDATA[Mercenary]]></dc:creator>
+        <description><![CDATA[
+            <p>I go 7 &gt; 9 | 8 &gt; 9</p>
+          <p><a href="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/31">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/31</link>
+        <pubDate>Sun, 25 Nov 2018 21:53:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74002-31</guid>
+        <source url="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002.rss">Guide on writing log easy to understand. [2.0.2]</source>
+      </item>
+      <item>
+        <title>Guide on writing log easy to understand. [2.0.2]</title>
+        <dc:creator><![CDATA[MaximusPrime]]></dc:creator>
+        <description><![CDATA[
+            <p>Btw I find that the line at the end usually makes it harder to read if purely copy+pasted</p>
+          <p><a href="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/30">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/30</link>
+        <pubDate>Sun, 25 Nov 2018 20:17:15 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74002-30</guid>
+        <source url="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002.rss">Guide on writing log easy to understand. [2.0.2]</source>
+      </item>
+      <item>
+        <title>Guide on writing log easy to understand. [2.0.2]</title>
+        <dc:creator><![CDATA[MaximusPrime]]></dc:creator>
+        <description><![CDATA[
+            <p>Ohhh it’s supposed to be drunk logs but bad</p>
+<p>Uh just make it shorter like</p>
+<blockquote>
+<p>N1: Deb 5-&gt;3, redirected to 9(5-&gt;9) | Success</p>
+</blockquote>
+<p>Btw you can’t even be forced off of king unless a CW was debauched to king first</p>
+          <p><a href="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/29">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/29</link>
+        <pubDate>Sun, 25 Nov 2018 20:16:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74002-29</guid>
+        <source url="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002.rss">Guide on writing log easy to understand. [2.0.2]</source>
+      </item>
+      <item>
+        <title>Guide on writing log easy to understand. [2.0.2]</title>
+        <dc:creator><![CDATA[MaximusPrime]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="SweetyCake" data-post="27" data-topic="74002">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/sweetycake/40/12625_2.png" class="avatar"> SweetyCake:</div>
+<blockquote>
+<p>N2: Force 2 &gt; King =&gt; Redirected 4 &gt; King / Success</p>
+</blockquote>
+</aside>
+<p>The fuck???</p>
+<p>No we shouldn’t</p>
+<p>Also that’s so long and unnecessarily complicated</p>
+          <p><a href="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/28">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/28</link>
+        <pubDate>Sun, 25 Nov 2018 20:14:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74002-28</guid>
+        <source url="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002.rss">Guide on writing log easy to understand. [2.0.2]</source>
+      </item>
+      <item>
+        <title>Guide on writing log easy to understand. [2.0.2]</title>
+        <dc:creator><![CDATA[SweetyCake]]></dc:creator>
+        <description><![CDATA[
+            <p>We should handle Redirect like this :</p>
+<p>N1: Invest 2 =&gt; Redirected 4 / NS.MM |<br>
+N2: Force 2 &gt; King =&gt; Redirected 4 &gt; King / Success |<br>
+N3: Follow 3 =&gt; Redirected 10 / 2 &gt; [10] &gt; 4 |</p>
+<p><a class="mention" href="/u/nuclearburrito">@NuclearBurrito</a></p>
+          <p><a href="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/27">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/27</link>
+        <pubDate>Sun, 25 Nov 2018 09:55:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74002-27</guid>
+        <source url="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002.rss">Guide on writing log easy to understand. [2.0.2]</source>
+      </item>
+      <item>
+        <title>Guide on writing log easy to understand. [2.0.2]</title>
+        <dc:creator><![CDATA[MaximusPrime]]></dc:creator>
+        <description><![CDATA[
+            <p>The Mastermind of this new semester of killing or something</p>
+          <p><a href="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/26">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/26</link>
+        <pubDate>Sat, 24 Nov 2018 02:10:24 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74002-26</guid>
+        <source url="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002.rss">Guide on writing log easy to understand. [2.0.2]</source>
+      </item>
+      <item>
+        <title>Guide on writing log easy to understand. [2.0.2]</title>
+        <dc:creator><![CDATA[Soulshade55r]]></dc:creator>
+        <description><![CDATA[
+            <p>hoooooo</p>
+          <p><a href="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/25</link>
+        <pubDate>Sat, 24 Nov 2018 02:09:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74002-25</guid>
+        <source url="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002.rss">Guide on writing log easy to understand. [2.0.2]</source>
+      </item>
+      <item>
+        <title>Guide on writing log easy to understand. [2.0.2]</title>
+        <dc:creator><![CDATA[MaximusPrime]]></dc:creator>
+        <description><![CDATA[
+            <p>I just make logs without scout for public use</p>
+          <p><a href="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/24</link>
+        <pubDate>Sat, 24 Nov 2018 02:09:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74002-24</guid>
+        <source url="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002.rss">Guide on writing log easy to understand. [2.0.2]</source>
+      </item>
+      <item>
+        <title>Guide on writing log easy to understand. [2.0.2]</title>
+        <dc:creator><![CDATA[MaximusPrime]]></dc:creator>
+        <description><![CDATA[
+            <p>Your logs are gross get them away from me</p>
+<blockquote>
+<p>Kokishi Ouma | Paladin</p>
+<p>N1: TF 1 | Cult<br>
+N2: Smite 17 | Nothing<br>
+N3: Smite 1 | Gottem <img src="/images/emoji/twitter/ok_hand.png?v=9" title=":ok_hand:" class="emoji" alt=":ok_hand:"></p>
+</blockquote>
+          <p><a href="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/23</link>
+        <pubDate>Sat, 24 Nov 2018 02:09:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74002-23</guid>
+        <source url="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002.rss">Guide on writing log easy to understand. [2.0.2]</source>
+      </item>
+      <item>
+        <title>Guide on writing log easy to understand. [2.0.2]</title>
+        <dc:creator><![CDATA[Soulshade55r]]></dc:creator>
+        <description><![CDATA[
+            <p>Most likely mm is gonna visit them to trick you</p>
+          <p><a href="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/22</link>
+        <pubDate>Sat, 24 Nov 2018 02:02:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74002-22</guid>
+        <source url="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002.rss">Guide on writing log easy to understand. [2.0.2]</source>
+      </item>
+      <item>
+        <title>Guide on writing log easy to understand. [2.0.2]</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>cuz revealing what they are makes them useless. So you put them below the logs you post on the stand</p>
+          <p><a href="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/21</link>
+        <pubDate>Sat, 24 Nov 2018 02:01:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74002-21</guid>
+        <source url="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002.rss">Guide on writing log easy to understand. [2.0.2]</source>
+      </item>
+      <item>
+        <title>Guide on writing log easy to understand. [2.0.2]</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Also as sheriff I wouldn’t include your scouts with your main logs</p>
+          <p><a href="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/20</link>
+        <pubDate>Sat, 24 Nov 2018 02:00:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74002-20</guid>
+        <source url="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002.rss">Guide on writing log easy to understand. [2.0.2]</source>
+      </item>
+      <item>
+        <title>Guide on writing log easy to understand. [2.0.2]</title>
+        <dc:creator><![CDATA[Soulshade55r]]></dc:creator>
+        <description><![CDATA[
+            <p>Also noble you should say when you used day actions</p>
+          <p><a href="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/19</link>
+        <pubDate>Sat, 24 Nov 2018 02:00:17 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74002-19</guid>
+        <source url="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002.rss">Guide on writing log easy to understand. [2.0.2]</source>
+      </item>
+      <item>
+        <title>Guide on writing log easy to understand. [2.0.2]</title>
+        <dc:creator><![CDATA[Soulshade55r]]></dc:creator>
+        <description><![CDATA[
+            <p>Your logs are gross get them away from me</p>
+<p>Paladin<br>
+N1 - Test - 10 | Cult<br>
+N2 - Test - 12 | Not suspicous<br>
+N3 - Smite - 14 | WO</p>
+          <p><a href="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/18</link>
+        <pubDate>Sat, 24 Nov 2018 01:59:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74002-18</guid>
+        <source url="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002.rss">Guide on writing log easy to understand. [2.0.2]</source>
+      </item>
+      <item>
+        <title>Guide on writing log easy to understand. [2.0.2]</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>So lets say I’m drunk</p>
+<p>I try to send 4 to 5. I get redirected from 4 to 7.</p>
+<blockquote>
+<p>N1: (4-&gt;7) -&gt; 5 - Worked/Immune</p>
+</blockquote>
+          <p><a href="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/17</link>
+        <pubDate>Sat, 24 Nov 2018 01:59:24 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74002-17</guid>
+        <source url="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002.rss">Guide on writing log easy to understand. [2.0.2]</source>
+      </item>
+      <item>
+        <title>Guide on writing log easy to understand. [2.0.2]</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Also what is more important is how to handle redirections</p>
+          <p><a href="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/16</link>
+        <pubDate>Sat, 24 Nov 2018 01:56:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74002-16</guid>
+        <source url="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002.rss">Guide on writing log easy to understand. [2.0.2]</source>
+      </item>
+      <item>
+        <title>Guide on writing log easy to understand. [2.0.2]</title>
+        <dc:creator><![CDATA[SweetyCake]]></dc:creator>
+        <description><![CDATA[
+            <p>We are heading to as easy as possible to understand, so removing the “Wine” words is fine but someone might not understood that!</p>
+          <p><a href="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/15</link>
+        <pubDate>Sat, 24 Nov 2018 01:40:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74002-15</guid>
+        <source url="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002.rss">Guide on writing log easy to understand. [2.0.2]</source>
+      </item>
+      <item>
+        <title>Guide on writing log easy to understand. [2.0.2]</title>
+        <dc:creator><![CDATA[MaximusPrime]]></dc:creator>
+        <description><![CDATA[
+            <p>I prefer to abbreviate anything I can, or anything that will make my logs compact but still easy to read is good</p>
+<p>Your logs are good for beginners, but are a bit too long for my tastes</p>
+          <p><a href="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/14</link>
+        <pubDate>Sat, 24 Nov 2018 01:36:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74002-14</guid>
+        <source url="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002.rss">Guide on writing log easy to understand. [2.0.2]</source>
+      </item>
+      <item>
+        <title>Guide on writing log easy to understand. [2.0.2]</title>
+        <dc:creator><![CDATA[Mercenary]]></dc:creator>
+        <description><![CDATA[
+            <p>Reminds me of when I claimed Alch, never told anyone I was in reality Phys…<br>
+And got converted D6.<br>
+With other BD alive.</p>
+          <p><a href="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/13</link>
+        <pubDate>Sat, 24 Nov 2018 01:35:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74002-13</guid>
+        <source url="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002.rss">Guide on writing log easy to understand. [2.0.2]</source>
+      </item>
+      <item>
+        <title>Guide on writing log easy to understand. [2.0.2]</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>I was executed anyway despite having killed someone with a DN.</p>
+<p>Someone in the dead chat was like “what idiot bears all 3 nights in a row”. My response was of course “not me. I lied”</p>
+          <p><a href="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/12</link>
+        <pubDate>Sat, 24 Nov 2018 01:34:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74002-12</guid>
+        <source url="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002.rss">Guide on writing log easy to understand. [2.0.2]</source>
+      </item>
+      <item>
+        <title>Guide on writing log easy to understand. [2.0.2]</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Mind meld nuke confirmed BD</p>
+          <p><a href="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/11</link>
+        <pubDate>Sat, 24 Nov 2018 01:32:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74002-11</guid>
+        <source url="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002.rss">Guide on writing log easy to understand. [2.0.2]</source>
+      </item>
+      <item>
+        <title>Guide on writing log easy to understand. [2.0.2]</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Personally I just lie about my bear logs as Hunter. I tricked someone into thinking I was one of those idiots that spams bear N1-3 when I only used by first bear N3 after a successful bait</p>
+          <p><a href="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/10</link>
+        <pubDate>Sat, 24 Nov 2018 01:32:25 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74002-10</guid>
+        <source url="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002.rss">Guide on writing log easy to understand. [2.0.2]</source>
+      </item>
+      <item>
+        <title>Guide on writing log easy to understand. [2.0.2]</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Actually<br>
+Wouldn’t it be better to lie about you bearing or not bearing as evils usually trust you not to lie</p>
+          <p><a href="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002/9</link>
+        <pubDate>Sat, 24 Nov 2018 01:32:20 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74002-9</guid>
+        <source url="https://forum.throneoflies.com/t/guide-on-writing-log-easy-to-understand-2-0-2/74002.rss">Guide on writing log easy to understand. [2.0.2]</source>
+      </item>
+  </channel>
+</rss>

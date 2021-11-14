@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>The Monk [Blue Dragon Social]</title>
+    <link>https://forum.throneoflies.com/t/the-monk-blue-dragon-social/82754</link>
+    <description>Each night you are forced to use your ability (you die otherwise).
+
+You have to correctly identify the role of a living player.  It can&#39;t be a player you&#39;ve identified already.
+
+At any point in the game, day or night, you can wager your life on the role of every living player.  If you get one wrong you die.  If you get them all right, Blue Dragon immediately wins.</description>
+    
+    <lastBuildDate>Sun, 16 Aug 2020 14:13:42 +0000</lastBuildDate>
+    <category>Class/Lore/Fanfic</category>
+    <atom:link href="https://forum.throneoflies.com/t/the-monk-blue-dragon-social/82754.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>The Monk [Blue Dragon Social]</title>
+        <dc:creator><![CDATA[Iteration]]></dc:creator>
+        <description><![CDATA[
+            <p>Could you please post the abilities, or is this the correct assumption?</p>
+<p>Passive: Name / Uneasy Mind<br>
+Each night you have to use an ability. If you don’t, you commit suicide. (Being occupied or jailed doesn’t cause you to commit suicide.)</p>
+<p>Day ability 1: It all makes sense<br>
+For each living player, guess their class. If you guess all correct, Blue Dragon wins the game immediately. If you guess wrong, you’ll commit suicide at the end of the next night, and you cannot use your abilities.</p>
+<p>Night ability 1: And you are…<br>
+Select a player and guess their class. You cannot select a player you’ve already correctly identified the class for.</p>
+<p>Night ability 2: It all makes sense<br>
+Same as Day ability 1.</p>
+<hr>
+<p>First of all I’ll agree with <a class="mention" href="/u/katze">@katze</a> that this seems more like an investigative class than a social one.</p>
+<p>Second of all the guess class ability seems a little too effective to check claims. BD will always claim their true class and you’ll thus always find fake claims as incorrect guesses. This makes the Monk better than Maid to find evils. I don’t think that’s a good thing.<br>
+Since you cannot target the same player twice if you’ve correctly guessed their class already, how will it function with converted targets? If they appear as a possible target you would know they have been converted. If you cannot target them even after a conversion, it will introduce an even higher risk to the guess-all ability, since potentially everyone you’ve already guessed could be something else by then.</p>
+<p>Thirdly the guess-all ability seems kinda like a mechanical mess. I wouldn’t even know how it could be made. Additionally it’s an immediate win. This seems weird in terms of day and night cycles - if the game just abruptly stops with a BD win because a Monk figured it out. Additionally it feels kinda weird how this class can single handedly win the game by mere chance. If the BD is losing and a Monk is present, you’d just have to yolo-guess and potentially win, especially late game. I think many players will feel that is kinda cheap and not satisfying.</p>
+<p>I also have to ask; why is this a Monk? Seems more like a fortuneteller type of person.</p>
+<hr>
+<p>I get that making Social classes is actually fairly difficult because the Social classes we have (Noble, Mystic) are so closely related or rather supportive to invest classes, while not actually being able to invest much on their own.</p>
+<p>If I may suggest something that could be considered a Social class while having investigative tendencies and plays somewhat in tandem with the idea of a Monk:</p>
+<hr>
+<hr>
+<p>Monk (Blue Dragon - Social)</p>
+<p>Night ability 1: Sense composure (inf charges)<br>
+Select 3 other players. If any of these players have a disturbed night, you will sense the uneasy composure and mark them until the end of the next night.<br>
+(A disturbed night includes the target; attacking, being attacked, finding a target suspicious/incompatible, healing/delaying a target, being converted, being occupied, or being redirected.)<br>
+(Targets jailed by the Prince wont cause the ability to fail but will not trigger it either.)<br>
+(Cannot target the King.)</p>
+<p>Night ability 2: Confess (3 charges)<br>
+Select a marked player and make them confess if they attacked last night.</p>
+<hr>
+<p>This class is not very strong as an investigative class as if either of their targets gets attacked or occupied/redirected the ability triggers but wont necessarily reveal any “baddies”. And if it does reveal a potential baddie, there’s 3 targets to invest.</p>
+<p>Since there are so many targets for the first ability, I felt I had to make it go through even if you target imprisoned targets or it could fail all too easily. This could potentially be used as a means to focus the ability on only 2 individuals. Further down to only 1 individual if you also target Prince - and Prince will know if they are attacked/OCC’d/redirect attempted.</p>
+<p>If the game boils down to a Monk and only 2 other non-King players, you cannot activate your Sense Composure and is practically stuck doing nothing at night. But by this point you’re unlikely to deduce anything with it, even if given a chance to use Confess.</p>
+<p>I feel like there’s enough vagueness that the class wont be a better investigative class, while it has potential to hard confirm killers (like the pre-revamp CW could with Empower). It’s also a vague enough class that fake claiming is possible.</p>
+<hr>
+<hr>
+<p>As for the unseen variant:</p>
+<p>The Bishop (Unseen - Support)</p>
+<p>Day ability 1: Protection of the Church (1 charge)<br>
+Pardon the accused.<br>
+(It will appear that the King, the Sorcerer or the Bishop has pardoned the accused.)<br>
+(Can only be used while there are 7 or more living players.)</p>
+<p>Night ability 1: Plant Evidence (inf charges)<br>
+Frame target player.</p>
+<p>Night ability 2: Missionary (2 charges)<br>
+Target player becomes immune to occupation and redirection for this night. You will be notified if you aided the target.</p>
+<hr>
+<p>There may be packed a bit too much power into the Unseen variant. Adjustment may apply.</p>
+<p>The reason for the Force Pardon was actually to play more around the new Sorcerer ability Escape Fate (coming with patch 3.0), that basically Force Pardons the Sorcerer if they stand accused. By granting Bishop the same type of ability for any other player than themselves makes it less deductive when that type of ability is used.<br>
+It could be the Sorcerer, it could be EK or it could be Bishop trying to incriminate either - or just saving their MM/Assassin for one more night of shenanigans.<br>
+To avoid that this turns into a power move for late game I put in a restriction that it can only be used while there are 7 or more players alive - AKA not in a situation where Unseen can force majority. Additionally, for the Bishop to be active to do this, the Unseen needs a living MM and Assassin. Thus Unseen cannot increase their numbers during the coming night, but may replenish the Bishop, if they get executed - which could be a play. Ensuring Unseen majority must not be a guarantee with this ability.</p>
+<p>The frame ability is just to throw off investigations. I originally wanted it to be a Disguise type ability that made investigations and nightly death to appear as a chosen class (even bypassing imprisonment to throw off Prince), but it would just seem like a better Defile from the Herbalist (one that arguably could use a buff). So I scratched it, made it a standard frame ability and made the Day ability.</p>
+<p>The second night ability was mainly to go an tandem with the day ability if used on an Unseen. It would be problematic if the Bishop used their Force Pardon only for the target to be occupied or redirected during the night.<br>
+It can also function to incriminate players not usually occupy immune, or to help Assassin through Mercenaries, incriminating the Merc as a Sellsword.<br>
+The existence of this interaction could also make Sellswords argue for that occurrence if they claim Merc.<br>
+It can also just be a powerful play to force the Assassin through a redirect/HH/occupation, especially later in the game.<br>
+It wont have much use for the MM as they cannot convert while a Bishop lives.</p>
+<p>Overall, the Bishop feels a bit like a variant of the Enforcer while it has tools to frame others.</p>
+          <p><a href="https://forum.throneoflies.com/t/the-monk-blue-dragon-social/82754/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/the-monk-blue-dragon-social/82754/5</link>
+        <pubDate>Sun, 16 Aug 2020 14:13:42 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82754-5</guid>
+        <source url="https://forum.throneoflies.com/t/the-monk-blue-dragon-social/82754.rss">The Monk [Blue Dragon Social]</source>
+      </item>
+      <item>
+        <title>The Monk [Blue Dragon Social]</title>
+        <dc:creator><![CDATA[Shrimpy]]></dc:creator>
+        <description><![CDATA[
+            <p>You’re right, I forgot there has to be a converted counterpart with the same abilities.  Winning seems to swingy though so maybe he could just be immune to all forms of night death as long as his keeps his guesses correct.</p>
+          <p><a href="https://forum.throneoflies.com/t/the-monk-blue-dragon-social/82754/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/the-monk-blue-dragon-social/82754/4</link>
+        <pubDate>Fri, 10 Jul 2020 21:56:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82754-4</guid>
+        <source url="https://forum.throneoflies.com/t/the-monk-blue-dragon-social/82754.rss">The Monk [Blue Dragon Social]</source>
+      </item>
+      <item>
+        <title>The Monk [Blue Dragon Social]</title>
+        <dc:creator><![CDATA[Ami]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Shrimpy" data-post="1" data-topic="82754">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shrimpy/40/15828_2.png" class="avatar"> Shrimpy:</div>
+<blockquote>
+<p>If you get them all right, Blue Dragon immediately wins.</p>
+</blockquote>
+</aside>
+<p>yes reward massclaiming more than it already is</p>
+<p>i see no issue with this</p>
+          <p><a href="https://forum.throneoflies.com/t/the-monk-blue-dragon-social/82754/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/the-monk-blue-dragon-social/82754/3</link>
+        <pubDate>Fri, 10 Jul 2020 17:21:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82754-3</guid>
+        <source url="https://forum.throneoflies.com/t/the-monk-blue-dragon-social/82754.rss">The Monk [Blue Dragon Social]</source>
+      </item>
+      <item>
+        <title>The Monk [Blue Dragon Social]</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <p>does this bypass frames/tailors</p>
+<p>why is this a social as opposed to an investigative</p>
+<p>do you have to guess starting class or current class in the case of conversions/possessor jumps</p>
+<p>why are you suggesting a class that encourages massclaim, especially D1 claims as a N1 guess is largely random otherwise</p>
+<p>(to be clear im not saying whether or not this class is good or bad, im just trying to get you to sell me on it)</p>
+          <p><a href="https://forum.throneoflies.com/t/the-monk-blue-dragon-social/82754/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/the-monk-blue-dragon-social/82754/2</link>
+        <pubDate>Fri, 10 Jul 2020 16:56:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82754-2</guid>
+        <source url="https://forum.throneoflies.com/t/the-monk-blue-dragon-social/82754.rss">The Monk [Blue Dragon Social]</source>
+      </item>
+      <item>
+        <title>The Monk [Blue Dragon Social]</title>
+        <dc:creator><![CDATA[Shrimpy]]></dc:creator>
+        <description><![CDATA[
+            <p>Each night you are forced to use your ability (you die otherwise).</p>
+<p>You have to correctly identify the role of a living player.  It can’t be a player you’ve identified already.</p>
+<p>At any point in the game, day or night, you can wager your life on the role of every living player.  If you get one wrong you die.  If you get them all right, Blue Dragon immediately wins.</p>
+          <p><a href="https://forum.throneoflies.com/t/the-monk-blue-dragon-social/82754/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/the-monk-blue-dragon-social/82754/1</link>
+        <pubDate>Fri, 10 Jul 2020 16:45:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82754-1</guid>
+        <source url="https://forum.throneoflies.com/t/the-monk-blue-dragon-social/82754.rss">The Monk [Blue Dragon Social]</source>
+      </item>
+  </channel>
+</rss>

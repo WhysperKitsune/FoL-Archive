@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>6d6 Mafia - Game Over - Town Wins</title>
+    <link>https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820</link>
+    <description>&lt;div align=&quot;center&quot;&gt;
+
+*Want to roll the dice?*
+----
+----
+
+&gt; # :game_die: :game_die: :game_die:  6d6 - A Competetive Mafia game. :game_die:  :game_die:  :game_die:
+
+----
+&lt;/div&gt;
+
+# :game_die: Rules :game_die:
+
+1. Always respect your fellow players and me. It’s just common sense.
+2. Do not angleshoot or otherwise attempt to gain in-game advantages based on factors outside of the game.
+3.  Do not cheat by communicating about the game outside of the game. 
+4. Do not be inactive. I won’t be too strict with prods but if I see you clearly not posting enough I will replace you out.
+5. Always play to win. Gamethrowing is strictly prohibited.
+6. Have fun.
+  
+# :game_die: Mechanics :game_die:
+
+- Days will last for 48 hours, nights will last for 24 hours.
+- The lynch will be decided by plurality at deadline. Majority lynch is not in play.
+- Mafia have daychat, and must give up their action to kill a player. The factional kill is assigned.
+- You will not be informed if  you are role-blocked unless you are an investigative. 
+
+# :game_die: Rolelist :game_die:
+
+I will roll a 6 sided die, a d6, six times. This will determine the town&#39;s power roles. Here&#39;s how.
+If I roll a one, a two, or a three, I will mark down an **I**, for  **Investigative**.
+If I roll a four or a five, I will mark down a **P**, for **Protective**
+If I roll a six, I will mark down a **K**, for **Killing**.
+
+After i&#39;ve rolled it 6 times, I&#39;ll count up how many of each letter I got, and I&#39;ll use that to determine the power roles based on this table
+
+|Number of letters rolled|Investigative| Protective| Killing
+|----|----|---|---|----|---|
+|One |  [color=green]**Innocent Child**[/color] | [color=green]**Bodygaurd**[/color]|[color=green]**1-shot Vigilante**[/color]
+|Two| [color=green]**Role Oracle**[/color]| **[color=green]Doctor[/color]** | [color=green]**2-shot Vigilante**[/color]
+|Three| [color=green]**Role Cop**[/color]| [color=green]**Roleblocker**[/color]| [color=green]**Infinite shot Vigilante**[/color]
+|Four| [color=green]**Tracker**[/color] | [color=green]**Jailkeeper**[/color]| [color=green]**Infinite Shot Vgilante**[/color]
+|Five| [color=green]**Parity Cop**[/color]| [color=green]**Jailkeeper + Bodygaurd**[/color]| [color=green]**Infinite Shot Vigilante + 1-shot Vigilante**[/color]
+|Six| [color=green]**Cop**[/color] | [color=green]**Roleblocker + Doctor**[/color] | [color=green]**Infinite Shot Vigilante + 2-shot Vigilante**[/color]
+
+Then, I&#39;ll add as many **[color=green]Vanilla Townies[/color]** as neccecary to take the numbers of town up to 10.
+
+However, the Mafia need a bit of help too!
+I&#39;ll take the number of Power Roles randed from above, and I&#39;ll take one away from that number.
+I&#39;ll roll that many dice. Each number on the dice corresponds to a particular role, and I&#39;ll add the power roles that correspond to what is rolled on each die.
+
+|Number Rolled|Mafia Role|
+|----|---|
+|One| [color=red]**Roleblocker**[/color]
+|Two| [color=red]**Roleblocker**[/color]
+|Three| [color=red]**Jailkeeper**[/color]
+|Four| [color=red]**Role Cop**[/color]
+|Five| [color=red]**Tracker**[/color]
+|Six| [color=red]**Watcher**[/color]
+
+I&#39;ll finally add as many [color=red]**Mafia Goons**[/color] as needed to bring the total number of Mafia up to 3.
+Confused? Here&#39;s an example rand:
+
+
+[details=&quot;Example Rand&quot;]
+First, roll a die 6 times.
+
+Town (6d6): 6 (K), 6 (K), 3 (I), 4 ( P ), 5 ( P ), 2 (I)
+(x2 K) 2-Shot Town Vigilante
+(x2 I) Town Role Oracle
+(x2 P) Town Doctor
+
+With 3 Town Power Roles, Mafia get two Power Roles. Roll a die 2 times.
+
+Mafia (2d6): 2, 5
+(2) Mafia Roleblocker
+(5) Mafia Tracker
+
+Fill up the rest of the Town and Mafia with Vanillas and you get:
+
+x1 2-Shot Town Vigilante
+x1 Town Role Oracle
+x1 Town Doctor
+x7 Vanilla Town
+x1 Mafia Roleblocker
+x1 Mafia Tracker
+x1 Mafia Goon
+[/details]
+
+# :game_die: Rolecards :game_die:
+
+
+[details=&quot;Rolecards&quot;]
+&gt; # [color=green]Vanilla Townie[/color]
+&gt; **Town**
+&gt; 
+&gt; You have no abilities except your voice and your vote! Good luck!
+&gt; 
+&gt; *You win when the Mafia have been eliminated.*
+
+&gt; # [color=green]**Innocent Child**[/color]
+&gt; **Town**
+&gt; 
+&gt; At any time during the day, you may reveal to everyone that you are a **[color=green]Innocent Child[/color]** by messaging the mod.
+&gt; 
+&gt;  *You win when the Mafia have been eliminated.*
+
+&gt; # [color=green]Role Oracle[/color]
+&gt; **Town**
+&gt; 
+&gt; Each night, you may choose a player. If you die, the last player you visited will have their abilities publicly revealed to everyone. (Eg: If you targeted a Town Roleblocker and died, the town would get the message that they are a **Roleblocker**. Naturally, a Mafia Roleblocker would reveal as the same thing, so be careful!)
+&gt; 
+&gt; *You win when the Mafia have been eliminated.*
+
+&gt; # [color=green]Role Cop[/color]
+&gt; **Town**
+&gt; 
+&gt; Each night you may target a player, learning their role but not their allignment.( Eg: If you targeted a Town Roleblocker you would get the message that they are a **Roleblocker**. Naturally, a Mafia Roleblocker would appear to be a **Roleblocker** as well, so be careful!)
+&gt; 
+&gt; *You win when the Mafia have been eliminated.*
+
+&gt; # [color=green]Tracker[/color]
+&gt; **Town**
+&gt; 
+&gt; Each night you may target a player, learning who they target with an ability, if anyone.
+&gt; 
+&gt;  *You win when the Mafia have been eliminated.*
+
+&gt; # [color=green]Parity Cop[/color]
+&gt; **Town**
+&gt; 
+&gt; Each night you may target a player, learning if they are the same allignment as the person you targeted the previous night. Obviously, this means you won&#39;t get any results on Night 1, so be patient!
+&gt; 
+&gt;  *You win when the Mafia have been eliminated.*
+
+&gt; # [color=green]Cop[/color]
+&gt; **Town**
+&gt; 
+&gt; Each night you may target a player, learning if they are Mafia or not.
+&gt; **[player] is a member of the Town**
+&gt; 
+&gt;  *You win when the Mafia have been eliminated.*
+
+&gt; # [color=green]Bodygaurd[/color]
+&gt; **Town**
+&gt; 
+&gt; Each night you may target a player. If that player were to die that night, you will die instead and they will live.
+&gt; You do NOT kill whoever attacked them.
+&gt; 
+&gt;  *You win when the Mafia have been eliminated.*
+
+&gt; # [color=green]Doctor[/color]
+&gt; **Town**
+&gt; 
+&gt; Each night you may target a player. If that player would die they will instead survive.
+&gt; 
+&gt;  *You win when the Mafia have been eliminated.*
+
+&gt; # [color=green]Roleblocker[/color]
+&gt; **Town**
+&gt; 
+&gt; Each night you may target a player. That player&#39;s ability, if any, will fail.
+&gt; 
+&gt; *You win when the Mafia have been eliminated.*
+
+&gt; # [color=green]Jailkeeper[/color]
+&gt; **Town**
+&gt; 
+&gt; Each night you may target a player. That player&#39;s action, if any, will fail, and if they would die that night they will instead survive.
+&gt; 
+&gt;  *You win when the Mafia have been eliminated.*
+
+&gt; # [color=green]X-shot Vigilante[/color]
+&gt; **Town**
+&gt; 
+&gt; X times per game, at night, you may kill a player.
+&gt; 
+&gt;  *You win when the Mafia have been eliminated.*
+
+&gt; # [color=red]Mafia Goon[/color]
+&gt; **Mafia**
+&gt; 
+&gt; You have no special abilities, but can carry out the factional kill and communicate with your fellow Mafia.
+&gt; 
+&gt;  *You win when the Mafia control 50% of the votes in the game.*
+
+&gt; # [color=red]Roleblocker[/color]
+&gt; **Mafia**
+&gt; 
+&gt; Each night you may target a player. That player&#39;s action, if any, will fail.
+&gt; 
+&gt; *You win when the Mafia control 50% of the votes in the game.*
+
+&gt; # [color=red]Jailkeeper[/color]
+&gt; **Mafia**
+&gt; 
+&gt; Each night you may target a player. That player&#39;s action, if any, will fail, and if they would die that night they will instead survive.
+&gt; 
+&gt; *You win when the Mafia control 50% of the votes in the game.*
+
+&gt; # [color=red]Role Cop[/color]
+&gt; **Mafia**
+&gt; 
+&gt; Each night you may target a player, learning their role but not their alignment (but since Mafia know everyone&#39;s alignment in this game that last part can be safely ignored.)
+&gt; 
+&gt; *You win when the Mafia control 50% of the votes in the game.*
+
+&gt; # [color=red]Tracker[/color]
+&gt; **Mafia**
+&gt; 
+&gt; Each night you may target a player, learning who they target with an ability, if anyone.
+&gt; 
+&gt; *You win when the Mafia control 50% of the votes in the game.*
+
+&gt; # [color=red]Watcher[/color]
+&gt; **Mafia**
+&gt; 
+&gt; Each night you may target a player, learning who targets them with an ability that night.
+&gt; 
+&gt; *You win when the Mafia control 50% of the votes in the game.*
+[/details]
+  
+# :game_die: Signups :game_die:  
+1. Wolfy
+2. Hippolytus
+3. ~~Captain~~ Marluxion
+4. Solic
+5. htm
+6. Sam17z
+7. overthebin
+8. Margaret
+9. Firekitten
+10. Sarun
+11. PokemonKidRyan
+12. Queen_Alfa
+13.  Bazingaboy
+
+## :game_die: Backups :game_die:
+- Marcus_Doodalee
+- Shurian
+- Livicus
+
+## :game_die:Spectators :game_die:
+- Luxy</description>
+    
+    <lastBuildDate>Sat, 08 Sep 2018 01:13:40 +0000</lastBuildDate>
+    <category>Forum Matches</category>
+    <atom:link href="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>6d6 Mafia - Game Over - Town Wins</title>
+        <dc:creator><![CDATA[Marluxion]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Hippolytus" data-post="1695" data-topic="71820" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="/user_avatar/forum.throneoflies.com/hippolytus/40/34066_2.png" class="avatar"> Hippolytus:</div>
+<blockquote>
+<p>I like how PKR’s reaction to my meme at the beginning about Alfa outting PKR as mafia got him lynched later on lol</p>
+</blockquote>
+</aside>
+<p>also pkr’s play in general got him lynched<br>
+he only makes bad excuses like that as scum usually</p>
+          <p><a href="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1698">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1698</link>
+        <pubDate>Sat, 08 Sep 2018 01:13:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71820-1698</guid>
+        <source url="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820.rss">6d6 Mafia - Game Over - Town Wins</source>
+      </item>
+      <item>
+        <title>6d6 Mafia - Game Over - Town Wins</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <p>I told Marl that it wouldn’t make sense for PKR to soft-defend a weaker scumbuddy like Alfa, but he didn’t listen.</p>
+          <p><a href="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1697">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1697</link>
+        <pubDate>Fri, 07 Sep 2018 21:09:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71820-1697</guid>
+        <source url="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820.rss">6d6 Mafia - Game Over - Town Wins</source>
+      </item>
+      <item>
+        <title>6d6 Mafia - Game Over - Town Wins</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>Sorry I had to replace out I like this set-up.</p>
+          <p><a href="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1696">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1696</link>
+        <pubDate>Fri, 07 Sep 2018 21:07:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71820-1696</guid>
+        <source url="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820.rss">6d6 Mafia - Game Over - Town Wins</source>
+      </item>
+      <item>
+        <title>6d6 Mafia - Game Over - Town Wins</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>I like how PKR’s reaction to my meme at the beginning about Alfa outting PKR as mafia got him lynched later on lol</p>
+          <p><a href="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1695">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1695</link>
+        <pubDate>Fri, 07 Sep 2018 21:06:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71820-1695</guid>
+        <source url="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820.rss">6d6 Mafia - Game Over - Town Wins</source>
+      </item>
+      <item>
+        <title>6d6 Mafia - Game Over - Town Wins</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Causality of war.</p>
+          <p><a href="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1694">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1694</link>
+        <pubDate>Fri, 07 Sep 2018 20:10:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71820-1694</guid>
+        <source url="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820.rss">6d6 Mafia - Game Over - Town Wins</source>
+      </item>
+      <item>
+        <title>6d6 Mafia - Game Over - Town Wins</title>
+        <dc:creator><![CDATA[Solic]]></dc:creator>
+        <description><![CDATA[
+            <p>I haven’t participated in that though. <img src="/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"></p>
+          <p><a href="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1693">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1693</link>
+        <pubDate>Fri, 07 Sep 2018 20:10:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71820-1693</guid>
+        <source url="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820.rss">6d6 Mafia - Game Over - Town Wins</source>
+      </item>
+      <item>
+        <title>6d6 Mafia - Game Over - Town Wins</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>I mean it’s annoying as order Firekitten I see no problem</p>
+          <p><a href="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1692">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1692</link>
+        <pubDate>Fri, 07 Sep 2018 20:08:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71820-1692</guid>
+        <source url="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820.rss">6d6 Mafia - Game Over - Town Wins</source>
+      </item>
+      <item>
+        <title>6d6 Mafia - Game Over - Town Wins</title>
+        <dc:creator><![CDATA[Solic]]></dc:creator>
+        <description><![CDATA[
+            <p>This is legit annoying, but at the same time it has only happened when I’m scum, so I can’t really argue against it.</p>
+          <p><a href="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1691">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1691</link>
+        <pubDate>Fri, 07 Sep 2018 20:08:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71820-1691</guid>
+        <source url="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820.rss">6d6 Mafia - Game Over - Town Wins</source>
+      </item>
+      <item>
+        <title>6d6 Mafia - Game Over - Town Wins</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p><span class="hashtag">#quicklynchsolic</span></p>
+          <p><a href="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1690">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1690</link>
+        <pubDate>Fri, 07 Sep 2018 20:07:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71820-1690</guid>
+        <source url="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820.rss">6d6 Mafia - Game Over - Town Wins</source>
+      </item>
+      <item>
+        <title>6d6 Mafia - Game Over - Town Wins</title>
+        <dc:creator><![CDATA[Solic]]></dc:creator>
+        <description><![CDATA[
+            <p>But what if you’re scum? <img src="/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"></p>
+          <p><a href="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1689">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1689</link>
+        <pubDate>Fri, 07 Sep 2018 20:04:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71820-1689</guid>
+        <source url="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820.rss">6d6 Mafia - Game Over - Town Wins</source>
+      </item>
+      <item>
+        <title>6d6 Mafia - Game Over - Town Wins</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Alice" data-post="1521" data-topic="71820">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/alice/40/32176_2.png" class="avatar"> Alice:</div>
+<blockquote>
+<p>PKR’s an interesting case here. The night kill may tie in with his motivation to prove that Solic v. Wolf was a TvT, but why would he prioritize Solic over Marl? PKR has said himself that he reads Solic as either a VI/Scum and I don’t think PKR would prioritize Solic unless he’s intentionally doing this to mislead us.</p>
+</blockquote>
+</aside>
+<aside class="quote no-group" data-username="Alice" data-post="1528" data-topic="71820">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/alice/40/32176_2.png" class="avatar"> Alice:</div>
+<blockquote>
+<p>I’d go with Bin right now. I can see PKR being town but there’s no way that OTB here isn’t scum.</p>
+</blockquote>
+</aside>
+<p>You guys should sheep me more often, tbh.</p>
+          <p><a href="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1688">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1688</link>
+        <pubDate>Fri, 07 Sep 2018 20:02:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71820-1688</guid>
+        <source url="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820.rss">6d6 Mafia - Game Over - Town Wins</source>
+      </item>
+      <item>
+        <title>6d6 Mafia - Game Over - Town Wins</title>
+        <dc:creator><![CDATA[Marluxion]]></dc:creator>
+        <description><![CDATA[
+            <p>Yes but i said it more dramatically so if i was right I could cockily quote them <img src="/images/emoji/twitter/thinking.png?v=9" title=":thinking:" class="emoji" alt=":thinking:"></p>
+          <p><a href="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1687">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1687</link>
+        <pubDate>Fri, 07 Sep 2018 19:45:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71820-1687</guid>
+        <source url="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820.rss">6d6 Mafia - Game Over - Town Wins</source>
+      </item>
+      <item>
+        <title>6d6 Mafia - Game Over - Town Wins</title>
+        <dc:creator><![CDATA[PokemonKidRyan]]></dc:creator>
+        <description><![CDATA[
+            <p>I literally said the same thing!<br>
+<img src="/images/emoji/twitter/stuck_out_tongue.png?v=9" title=":stuck_out_tongue:" class="emoji only-emoji" alt=":stuck_out_tongue:"></p>
+          <p><a href="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1686">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1686</link>
+        <pubDate>Fri, 07 Sep 2018 19:44:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71820-1686</guid>
+        <source url="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820.rss">6d6 Mafia - Game Over - Town Wins</source>
+      </item>
+      <item>
+        <title>6d6 Mafia - Game Over - Town Wins</title>
+        <dc:creator><![CDATA[Margaret]]></dc:creator>
+        <description><![CDATA[
+            <p>Lol</p>
+          <p><a href="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1685">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1685</link>
+        <pubDate>Fri, 07 Sep 2018 19:23:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71820-1685</guid>
+        <source url="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820.rss">6d6 Mafia - Game Over - Town Wins</source>
+      </item>
+      <item>
+        <title>6d6 Mafia - Game Over - Town Wins</title>
+        <dc:creator><![CDATA[Marluxion]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/solic">@Solic</a><br>
+<a class="mention" href="/u/wolfy">@Wolfy</a></p>
+<aside class="quote no-group" data-username="Marluxion" data-post="847" data-topic="71820" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/marluxion/40/10921_2.png" class="avatar"> Marluxion:</div>
+<blockquote>
+<p>Solic<br>
+Having confidence in your read is fine<br>
+But you need to realize, if this is TVT … town is going to lose.</p>
+</blockquote>
+</aside>
+<aside class="quote no-group" data-username="Marluxion" data-post="1246" data-topic="71820">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/marluxion/40/10921_2.png" class="avatar"> Marluxion:</div>
+<blockquote>
+<p>Solic and Wolfy is TvT and scum are riding on it<br>
+I feel this deep within my heart of hearts</p>
+</blockquote>
+</aside>
+<p><img src="/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji only-emoji" alt=":wink:"></p>
+          <p><a href="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1684">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1684</link>
+        <pubDate>Fri, 07 Sep 2018 19:16:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71820-1684</guid>
+        <source url="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820.rss">6d6 Mafia - Game Over - Town Wins</source>
+      </item>
+      <item>
+        <title>6d6 Mafia - Game Over - Town Wins</title>
+        <dc:creator><![CDATA[Wolfy]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m so annoyed!!</p>
+<p>I was right about alfa being maf. Everytime now, I seem to guess one scum memvber correctly</p>
+          <p><a href="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1683">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1683</link>
+        <pubDate>Fri, 07 Sep 2018 17:13:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71820-1683</guid>
+        <source url="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820.rss">6d6 Mafia - Game Over - Town Wins</source>
+      </item>
+      <item>
+        <title>6d6 Mafia - Game Over - Town Wins</title>
+        <dc:creator><![CDATA[Livicus]]></dc:creator>
+        <description><![CDATA[
+            <p>pre-in me please</p>
+          <p><a href="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1682">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1682</link>
+        <pubDate>Fri, 07 Sep 2018 16:14:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71820-1682</guid>
+        <source url="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820.rss">6d6 Mafia - Game Over - Town Wins</source>
+      </item>
+      <item>
+        <title>6d6 Mafia - Game Over - Town Wins</title>
+        <dc:creator><![CDATA[Icibalus]]></dc:creator>
+        <description><![CDATA[
+            <p>also what are your thoughts on the setup, misto marlo, beyond the fact that it looks really fun?</p>
+          <p><a href="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1681">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1681</link>
+        <pubDate>Fri, 07 Sep 2018 16:12:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71820-1681</guid>
+        <source url="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820.rss">6d6 Mafia - Game Over - Town Wins</source>
+      </item>
+      <item>
+        <title>6d6 Mafia - Game Over - Town Wins</title>
+        <dc:creator><![CDATA[Livicus]]></dc:creator>
+        <description><![CDATA[
+            <p>Marl can you add a second Echoes game to the queue please</p>
+<p>so I can get it up and running after it’s balanced from the feedback of the first Echoes?</p>
+<p><img src="/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji only-emoji" alt=":wink:"></p>
+          <p><a href="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1680">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1680</link>
+        <pubDate>Fri, 07 Sep 2018 16:09:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71820-1680</guid>
+        <source url="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820.rss">6d6 Mafia - Game Over - Town Wins</source>
+      </item>
+      <item>
+        <title>6d6 Mafia - Game Over - Town Wins</title>
+        <dc:creator><![CDATA[Icibalus]]></dc:creator>
+        <description><![CDATA[
+            <p>yes, they can, although those wolves can’t do the kill that night naturally<br>
+the wolf JK can protect their fellow wolves from the village vig</p>
+          <p><a href="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1679">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1679</link>
+        <pubDate>Fri, 07 Sep 2018 16:08:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71820-1679</guid>
+        <source url="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820.rss">6d6 Mafia - Game Over - Town Wins</source>
+      </item>
+      <item>
+        <title>6d6 Mafia - Game Over - Town Wins</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Can jailkeeper target their mafia?<br>
+I’m assuming so</p>
+          <p><a href="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1678">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1678</link>
+        <pubDate>Fri, 07 Sep 2018 16:06:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71820-1678</guid>
+        <source url="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820.rss">6d6 Mafia - Game Over - Town Wins</source>
+      </item>
+      <item>
+        <title>6d6 Mafia - Game Over - Town Wins</title>
+        <dc:creator><![CDATA[Icibalus]]></dc:creator>
+        <description><![CDATA[
+            <p>it’s a 17er, add it to the Queue pl0x</p>
+          <p><a href="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1677">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1677</link>
+        <pubDate>Fri, 07 Sep 2018 16:06:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71820-1677</guid>
+        <source url="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820.rss">6d6 Mafia - Game Over - Town Wins</source>
+      </item>
+      <item>
+        <title>6d6 Mafia - Game Over - Town Wins</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>I mean fair</p>
+          <p><a href="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1676">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1676</link>
+        <pubDate>Fri, 07 Sep 2018 16:05:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71820-1676</guid>
+        <source url="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820.rss">6d6 Mafia - Game Over - Town Wins</source>
+      </item>
+      <item>
+        <title>6d6 Mafia - Game Over - Town Wins</title>
+        <dc:creator><![CDATA[Marluxion]]></dc:creator>
+        <description><![CDATA[
+            <p>also how many players is ninjas + guns, i’ll add it to the queue</p>
+          <p><a href="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1675">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1675</link>
+        <pubDate>Fri, 07 Sep 2018 16:05:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71820-1675</guid>
+        <source url="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820.rss">6d6 Mafia - Game Over - Town Wins</source>
+      </item>
+      <item>
+        <title>6d6 Mafia - Game Over - Town Wins</title>
+        <dc:creator><![CDATA[Icibalus]]></dc:creator>
+        <description><![CDATA[
+            <p>actually it’s protect from one attack, not prevent visitors. that’s a jk variant you’re thinking of there</p>
+          <p><a href="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1674">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820/1674</link>
+        <pubDate>Fri, 07 Sep 2018 16:05:15 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71820-1674</guid>
+        <source url="https://forum.throneoflies.com/t/6d6-mafia-game-over-town-wins/71820.rss">6d6 Mafia - Game Over - Town Wins</source>
+      </item>
+  </channel>
+</rss>

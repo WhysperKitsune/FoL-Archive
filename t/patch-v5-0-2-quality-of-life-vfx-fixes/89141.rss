@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Patch v5.0.2 - Quality of Life, Vfx, Fixes</title>
+    <link>https://forum.throneoflies.com/t/patch-v5-0-2-quality-of-life-vfx-fixes/89141</link>
+    <description>## Visual Improvements
+1. All weapons now have *some* kind of visual effect to it - even magic weapons that previously looked like you had no weapon equipped at all. 
+
+    * Eg, *Rune of Frost* now shows frost particles swirling around your wrist [all using efficient particles that won&#39;t affect your FPS].
+
+https://thumbs.gfycat.com/DismalHospitableAmurminnow-mobile.mp4
+    
+1. All executions that should trigger blood now trigger blood properly and more clearly each hit.
+
+1. All executions that previously had crusty looking particles have received a hefty upgrade.
+
+1. Improved idle animation variety (more later), and added 2 separate sitting animations for Chrono and Mystic rooms.
+
+1. Fixed numerous texture issues that were displaying dim, dark, or dull - including some blood, a few weapons, some particles, the King&#39;s scroll on the table, etc.
+
+## Other Improvements
+1. Disabling cam orbit in options will no longer cause visual bugs.
+
+1. **Delay Death fixes:**
+    * Revamped the backend for delay death from the ground-up, fixing numerous bugs including the &quot;stacking delay death&quot; countdown bug. Now if a delayed death is delayed again on the night they were supposed to die, it will correctly delay again for another 2 nights.
+    * Updated the delay death icons, now showing a countdown to remind you about pending death. On the night you are to die, the countdown within the circle is replaced with a skull.
+    * Delayed deaths now explicitly tell you what night you&#39;ll die after mentioning the # of nights.
+    * [Screencast summary](http://recordit.co/dSi3Af3VvN)
+
+1. Upgraded automod preventative system.
+
+1. **Unlocked** 2 previously locked weapons due to visual bugs:
+    * [color=yellow]**Trueshot Crossbow** has returned (with fixed vfx)![/color]
+    * [color=yellow]**Rune of Force** has returned (with fixed vfx + upgraded animations)![/color]
+
+1. Enabling/disabling &quot;cam orbit&quot; will now trigger immediately, instead of next session.
+
+1. Fixed a bug that would sometimes prematurely show popups at the login screen (that should only show in lobby+).
+
+1. We stopped showing the toast to remind Newcomers to take a survey.
+
+1. Status icons on the left now show the hover-text when they 1st appear for clarity that you can hover over it, and what exactly happened with minimal effort: Hovering over it once -&gt; then breaking the hover makes it disappear.
+
+1. Scaled how classes spawn and abilities work so we can change this easier in the future -- please report bugs/inconsistencies.
+
+## Upcoming Events
+* **Anniversary**
+  * From Sept 27 ~ Oct 30, you may login to receive a special `Kingslayer IV` title!
+  * Be inside [our Discord server](https://discord.gg/tol) by Sept 27th to receive a `Kingslayer IV` colored role sometime in between this event period!
+
+* **Moon Festival**
+  * From Oct 1 ~ Oct 31, you may login to experience our Halloween event with the return of Mr Skeltal, Fancy Jack and all the Halloween goodies we annually have ( [read more](https://tol.fandom.com/wiki/Moon_Festival) ).
+
+_________
+
+--Xblade @ [https://discord.gg/tol](https://discord.gg/tol)</description>
+    
+    <lastBuildDate>Tue, 14 Sep 2021 06:56:28 +0000</lastBuildDate>
+    <category>General</category>
+    <atom:link href="https://forum.throneoflies.com/t/patch-v5-0-2-quality-of-life-vfx-fixes/89141.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Patch v5.0.2 - Quality of Life, Vfx, Fixes</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <h2>
+<a name="visual-improvements-1" class="anchor" href="#visual-improvements-1"></a>Visual Improvements</h2>
+<ol>
+<li>
+<p>All weapons now have <em>some</em> kind of visual effect to it - even magic weapons that previously looked like you had no weapon equipped at all.</p>
+<ul>
+<li>Eg, <em>Rune of Frost</em> now shows frost particles swirling around your wrist [all using efficient particles that won’t affect your FPS].</li>
+</ul>
+</li>
+</ol>
+          <div class="onebox video-onebox">
+            <video width="100%" height="100%" controls="">
+              <source src="https://thumbs.gfycat.com/DismalHospitableAmurminnow-mobile.mp4">
+              <a href="https://thumbs.gfycat.com/DismalHospitableAmurminnow-mobile.mp4" rel="noopener">https://thumbs.gfycat.com/DismalHospitableAmurminnow-mobile.mp4</a>
+            </source></video>
+          </div>
+
+<ol>
+<li>
+<p>All executions that should trigger blood now trigger blood properly and more clearly each hit.</p>
+</li>
+<li>
+<p>All executions that previously had crusty looking particles have received a hefty upgrade.</p>
+</li>
+<li>
+<p>Improved idle animation variety (more later), and added 2 separate sitting animations for Chrono and Mystic rooms.</p>
+</li>
+<li>
+<p>Fixed numerous texture issues that were displaying dim, dark, or dull - including some blood, a few weapons, some particles, the King’s scroll on the table, etc.</p>
+</li>
+</ol>
+<h2>
+<a name="other-improvements-2" class="anchor" href="#other-improvements-2"></a>Other Improvements</h2>
+<ol>
+<li>
+<p>Disabling cam orbit in options will no longer cause visual bugs.</p>
+</li>
+<li>
+<p><strong>Delay Death fixes:</strong></p>
+<ul>
+<li>Revamped the backend for delay death from the ground-up, fixing numerous bugs including the “stacking delay death” countdown bug. Now if a delayed death is delayed again on the night they were supposed to die, it will correctly delay again for another 2 nights.</li>
+<li>Updated the delay death icons, now showing a countdown to remind you about pending death. On the night you are to die, the countdown within the circle is replaced with a skull.</li>
+<li>Delayed deaths now explicitly tell you what night you’ll die after mentioning the # of nights.</li>
+<li><a href="http://recordit.co/dSi3Af3VvN">Screencast summary</a></li>
+</ul>
+</li>
+<li>
+<p>Upgraded automod preventative system.</p>
+</li>
+<li>
+<p><strong>Unlocked</strong> 2 previously locked weapons due to visual bugs:</p>
+<ul>
+<li><font color="yellow"><strong>Trueshot Crossbow</strong> has returned (with fixed vfx)!</font></li>
+<li><font color="yellow"><strong>Rune of Force</strong> has returned (with fixed vfx + upgraded animations)!</font></li>
+</ul>
+</li>
+<li>
+<p>Enabling/disabling “cam orbit” will now trigger immediately, instead of next session.</p>
+</li>
+<li>
+<p>Fixed a bug that would sometimes prematurely show popups at the login screen (that should only show in lobby+).</p>
+</li>
+<li>
+<p>We stopped showing the toast to remind Newcomers to take a survey.</p>
+</li>
+<li>
+<p>Status icons on the left now show the hover-text when they 1st appear for clarity that you can hover over it, and what exactly happened with minimal effort: Hovering over it once → then breaking the hover makes it disappear.</p>
+</li>
+<li>
+<p>Scaled how classes spawn and abilities work so we can change this easier in the future – please report bugs/inconsistencies.</p>
+</li>
+</ol>
+<h2>
+<a name="upcoming-events-3" class="anchor" href="#upcoming-events-3"></a>Upcoming Events</h2>
+<ul>
+<li>
+<p><strong>Anniversary</strong></p>
+<ul>
+<li>From Sept 27 ~ Oct 30, you may login to receive a special <code>Kingslayer IV</code> title!</li>
+<li>Be inside <a href="https://discord.gg/tol">our Discord server</a> by Sept 27th to receive a <code>Kingslayer IV</code> colored role sometime in between this event period!</li>
+</ul>
+</li>
+<li>
+<p><strong>Moon Festival</strong></p>
+<ul>
+<li>From Oct 1 ~ Oct 31, you may login to experience our Halloween event with the return of Mr Skeltal, Fancy Jack and all the Halloween goodies we annually have ( <a href="https://tol.fandom.com/wiki/Moon_Festival">read more</a> ).</li>
+</ul>
+</li>
+</ul>
+<hr>
+<p>–Xblade @ <a href="https://discord.gg/tol">https://discord.gg/tol</a></p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v5-0-2-quality-of-life-vfx-fixes/89141/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v5-0-2-quality-of-life-vfx-fixes/89141/1</link>
+        <pubDate>Tue, 14 Sep 2021 06:56:28 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-89141-1</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v5-0-2-quality-of-life-vfx-fixes/89141.rss">Patch v5.0.2 - Quality of Life, Vfx, Fixes</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Church Vs. Coven 2, game over! Clergy wins!</title>
+    <link>https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550</link>
+    <description>Making only two changes to the game mechanics from last game:
+
+In addition to the bulb of garlic, the chief can also hand out a talisman, which protects a person from curses (has no effect on those already cursed), and the Archbishop will anoint somebody during the confirmation phase.
+
+In this game, players are divided into three factions, which they can change over the course of the game.
+
+**[color=blue]Clergy[/color]** must work together to wipe out the witches. Members of the clergy have several different individual roles, but they all are immune to witch curses. All generate at least 2 mana each day, and may only use abilities during the daytime.
+**[color=purple]Witches [/color]** must wipe out both the clergy and all other witches. Witches don&#39;t generate mana, and instead must resort to stealing it. They can only use their abilities at night.
+**[color=green]Common folks[/color]** tend to be a bit miffed about the holy war BS taking place on their turf. They&#39;re just trying to survive... or bide their time until the right opportunity to join one of the other factions. They all generate 1 mana per day, though they never use it as common folks. Common folk can become witches by either casting a bloodthirst curse (at will, **/bloodthirst (target)**) or siphoning mana (if they happen to be vampires, see vampire section).
+
+There are also three statuses.
+
+**[color=gray]Vampires[/color]**
+
+A Witch or commoner becomes a vampire when they are targeted by a Bloodthirst curse. They will not know they are vampires until the night after they are targeted. Every night (not including the night they are targeted by bloodthirst), a vampire loses 1 mana, and if they reach 0, they die. commoner vampires do NOT generate mana. The mana the vampire loses goes to the witch who made the vampire, if that witch is still alive. A vampire must siphon mana from other players in order to survive by sending the host **/siphon (target)**. ONLY vampires may siphon blood. Siphoning costs no mana, but drains the target of all of theirs and transfers it to the vampire, turning the vampire into a witch, if they aren&#39;t one already. If a vampire refuses to siphon mana and dies as a result, they are canonized as saints. (meaning they win with the clergy.)
+
+**[color=brown]Werewolves[/color]**
+
+A witch or a commoner becomes a werewolf when they are targeted by a witch&#39;s rage curse. They will not be told they are werewolves. Every other night a full moon comes out and the witches may control the players that they have turned into werewolves to attack other players. Werewolves will receive a message that they were roleblocked on full moon nights. if the witch that targeted you with a rage curse dies, the curse will be lifted and you will no longer be a werewolf. Players can be werewolves AND vampires AND witches, none of them, or any other combination.
+
+**[color=Orange]Chief[/color]**
+
+Every Day-night cycle, the common folk, and only the common folk, vote on who they want to be their next chief by sending the host **/vote (target)**. The new chief replaces the old when the day starts. ONLY common folk may become the chief; though others may get votes, they will not get the position. In case of a tie, RNG selects the chief from among the common folk who received the most votes. The chief chooses someone to execute in broad daylight, and nobody is immune. The chief himself is immune to night attacks, and may, during the night, grant someone a bulb of garlic, which protects them from the vampire&#39;s mana siphon. if the bulb is granted to a vampire, the vampire will not be able to siphon that night.The chief may also grant someone a talisman, which protects them from curses.
+
+
+
+**[color=purple]Witches[/color]** (detailed)
+
+Every witch has several options to choose from each night.
+
+bloodthirst curse: **/bloodthirst (target)** This turns the target into a vampire, which will be the source of your mana. You may cast this on yourself, if you wish, but the 1 mana you lose every night will not return to the witch who cast a spell on you (yourself). Commoners can also cast bloodthirst curse, but doing so turns them into a witch. Mana cost: 0.
+
+rage curse: **/rage (target)** This turns the target into a werewolf. Mana cost: 2
+
+thwart hex: **/thwart (target)** This prevents your target from performing his action that night; they will still generate mana. Mana cost: 1
+
+deception hex: **/deception (target)** This causes the target to appear as a witch to any inspector who happens to be visiting him. Mana cost: 1
+
+illusion of innocence: **/mask** inspectors who visit you will find that you are not a witch. Mana cost: 2
+
+commune with spirits: **/reveal (target)** shows non-clergy if your target is non-clergy, otherwise shows specific role of your target. Mana cost: 2
+
+dark ritual: **/chant** If at any point all witches alive in game have performed this ritual, the archbishop will die. Mana cost: 5
+
+Let the dogs out: **/unleash (target)(target)(target)…**(targets are the people the the witch wishes to attack, not the werewolves themselves). This allows the witch to command her werewolves to attack players during a full moon. Mana cost:1, regardless of number of werewolf attacks.
+
+If a witch is attacked by a werewolf or crusader, they lose 3 mana(from each attack), instead of simply dying like the clergy or the common folk. If a witch runs out of mana during an attack, they die.
+
+**[color=blue]Clergy roles:[/color]** 
+
+**[color=blue]Archbisiop[/color]**
+
+Anoint:The archbishop may anoint any non-clergy player by offering them a position in the clergy as a specific clergy role (except for archbishop). Invited player may accept or refuse the invitation. If the archbishop attempts to anoint a werewolf, vampire, witch, or a player uninterested in joining the clergy, he will receive a message of failure. **/anoint (target) (clergy role)** Mana cost: 2
+
+In addition, the Archbishop is immune to mana siphons and hexes as well as curses, and can&#39;t be killed except by complete dark rituals and chief excecution.
+
+**[color=blue]Monk[/color]**
+
+meditate (passive): Generates 3 mana instead of 2 each night; may give mana to other players. **/give (target) (quantity)** Mana cost: 0
+
+**[color=blue]Inspector[/color]**
+
+investigate: Target players to be told whether or not they are a witch. **/investigate (target)** Mana cost: 2
+
+**[color=blue]Excorcist[/color]**
+
+bless: target werewolves and vampires to remove their status as a werewolf or vampire. If a target is both, both statuses will be removed. **/ bless (target)** Mana cost: 2
+
+**[color=blue]Inquisitor[/color]**
+
+imprizon: target a player to prevent that player from taking any action this round; they will still generate mana. **/imprizon (target)** Mana cost:2
+
+**[color=blue]Confessor[/color]**
+
+Absolve: the confessor is the only role which can turn witches back into common folk, provided the witch is willing. If the witch does this, they forfeit all of their mana to the confessor, who, like the monk, can give it away. **/absolve (target)** Mana cost: 2
+
+**[color=blue]Martyr[/color]**
+
+protect: choose a target. If that target is attacked by a werewolf or crusader, you will be attacked instead. Once dead, you become a guardian angel, which can protect players from werewolf and crusader attacks. Guardian angels can only protect someone 3 times.
+**/protect (target)** Mana cost: 2
+
+**[color=blue]Crusader[/color]**
+
+smite: attack another player. if they are unprotected and not night immune, they will die or, in the case of the witch, lose 3 mana. If you kill a clergy member, you will be kicked from the clergy. **/smite (target)** Mana cost: 2
+
+All Clergy members may also learn a second clergy skill. **/learn (skill)**. Mana cost: 4
+
+Regardless of your alignment, you can use as many different abilities as you want (provided you can afford it), but you can never use the same ability twice in the same night.
+
+initial rolelist:
+
+**[color=blue]archbishop[/color]**
+**[color=green]commoner[/color]**
+**[color=green]commoner[/color]**
+**[color=green]commoner[/color]**
+**[color=green]commoner[/color]**
+**[color=green]commoner[/color]**
+**[color=green]commoner[/color]**
+**[color=green]commoner[/color]**
+**[color=green]commoner[/color]**
+... and so on.
+
+All day-night cycles last 48 hours, Starting a midnight Pacific time, with 24 hours for each, but in this game, talking (and whispering, provided the host is included) during either the day OR the night is encouraged.
+
+Let me know if you have any questions, and join by **/join**. The more the merrier!
+
+living players:
+
+
+1. NightX
+2. MaximusPrime
+3. eevee
+4. sam17z-chief
+5. PKR
+6. Marluxion
+
+dead players:
+1. simon
+2. hippolytus
+3. Nuclear Burrito
+4. Firekitten
+5. Mthe joker</description>
+    
+    <lastBuildDate>Fri, 10 Aug 2018 23:55:20 +0000</lastBuildDate>
+    <category>Forum Matches</category>
+    <atom:link href="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Church Vs. Coven 2, game over! Clergy wins!</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="PokemonKidRyan" data-post="168" data-topic="57550">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/pokemonkidryan/40/17866_2.png" class="avatar"> PokemonKidRyan:</div>
+<blockquote>
+<p>Pug, where’s my X to Doubt meme?</p>
+</blockquote>
+</aside>
+<p>Oops way too late<br>
+<img src="/uploads/default/original/2X/8/81cb3b2d3d85fe2ce297a54348d2162862872ab6.jpeg" alt="Screenshot_20180811-095457_Google" data-base62-sha1="iwd0TuZVxSRRTDWsAvxEuBwXHVQ" width="690" height="386"></p>
+          <p><a href="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/825">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/825</link>
+        <pubDate>Fri, 10 Aug 2018 23:55:20 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-57550-825</guid>
+        <source url="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550.rss">Church Vs. Coven 2, game over! Clergy wins!</source>
+      </item>
+      <item>
+        <title>Church Vs. Coven 2, game over! Clergy wins!</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>I was very anti clergy and very pro witch and this is where Firekitten for chief became a meme</p>
+          <p><a href="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/824">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/824</link>
+        <pubDate>Fri, 10 Aug 2018 22:51:32 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-57550-824</guid>
+        <source url="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550.rss">Church Vs. Coven 2, game over! Clergy wins!</source>
+      </item>
+      <item>
+        <title>Church Vs. Coven 2, game over! Clergy wins!</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Read it</p>
+          <p><a href="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/823">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/823</link>
+        <pubDate>Fri, 10 Aug 2018 22:50:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-57550-823</guid>
+        <source url="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550.rss">Church Vs. Coven 2, game over! Clergy wins!</source>
+      </item>
+      <item>
+        <title>Church Vs. Coven 2, game over! Clergy wins!</title>
+        <dc:creator><![CDATA[Htm]]></dc:creator>
+        <description><![CDATA[
+            <p>What even is this game?</p>
+          <p><a href="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/822">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/822</link>
+        <pubDate>Fri, 10 Aug 2018 22:45:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-57550-822</guid>
+        <source url="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550.rss">Church Vs. Coven 2, game over! Clergy wins!</source>
+      </item>
+      <item>
+        <title>Church Vs. Coven 2, game over! Clergy wins!</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>We will escape</p>
+          <p><a href="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/821">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/821</link>
+        <pubDate>Fri, 10 Aug 2018 22:41:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-57550-821</guid>
+        <source url="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550.rss">Church Vs. Coven 2, game over! Clergy wins!</source>
+      </item>
+      <item>
+        <title>Church Vs. Coven 2, game over! Clergy wins!</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>no</p>
+          <p><a href="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/820">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/820</link>
+        <pubDate>Fri, 10 Aug 2018 22:41:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-57550-820</guid>
+        <source url="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550.rss">Church Vs. Coven 2, game over! Clergy wins!</source>
+      </item>
+      <item>
+        <title>Church Vs. Coven 2, game over! Clergy wins!</title>
+        <dc:creator><![CDATA[Nerbins]]></dc:creator>
+        <description><![CDATA[
+            <p><a href="https://i.kym-cdn.com/entries/icons/original/000/015/266/Z7HeRxU.png" class="onebox" target="_blank" rel="noopener nofollow ugc">https://i.kym-cdn.com/entries/icons/original/000/015/266/Z7HeRxU.png</a></p>
+<p><a class="mention" href="/u/jazz">@Jazz</a></p>
+          <p><a href="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/819">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/819</link>
+        <pubDate>Fri, 10 Aug 2018 22:40:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-57550-819</guid>
+        <source url="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550.rss">Church Vs. Coven 2, game over! Clergy wins!</source>
+      </item>
+      <item>
+        <title>Church Vs. Coven 2, game over! Clergy wins!</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/htm">@Htm</a> we are being good rezzers</p>
+<p><strong>/Vote <a class="mention" href="/u/nerbins">@nerbins</a></strong></p>
+          <p><a href="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/818">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/818</link>
+        <pubDate>Fri, 10 Aug 2018 22:40:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-57550-818</guid>
+        <source url="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550.rss">Church Vs. Coven 2, game over! Clergy wins!</source>
+      </item>
+      <item>
+        <title>Church Vs. Coven 2, game over! Clergy wins!</title>
+        <dc:creator><![CDATA[MaximusPrime]]></dc:creator>
+        <description><![CDATA[
+            <p>xd sorry firekitten</p>
+          <p><a href="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/817">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/817</link>
+        <pubDate>Thu, 26 Apr 2018 18:37:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-57550-817</guid>
+        <source url="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550.rss">Church Vs. Coven 2, game over! Clergy wins!</source>
+      </item>
+      <item>
+        <title>Church Vs. Coven 2, game over! Clergy wins!</title>
+        <dc:creator><![CDATA[eevee]]></dc:creator>
+        <description><![CDATA[
+            <p>I didn’t like other witch cooperating with Clergy either. ;(</p>
+          <p><a href="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/816">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/816</link>
+        <pubDate>Thu, 26 Apr 2018 10:54:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-57550-816</guid>
+        <source url="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550.rss">Church Vs. Coven 2, game over! Clergy wins!</source>
+      </item>
+      <item>
+        <title>Church Vs. Coven 2, game over! Clergy wins!</title>
+        <dc:creator><![CDATA[eevee]]></dc:creator>
+        <description><![CDATA[
+            <p>I didn’t want to be a witch soooooo</p>
+          <p><a href="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/815">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/815</link>
+        <pubDate>Thu, 26 Apr 2018 10:53:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-57550-815</guid>
+        <source url="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550.rss">Church Vs. Coven 2, game over! Clergy wins!</source>
+      </item>
+      <item>
+        <title>Church Vs. Coven 2, game over! Clergy wins!</title>
+        <dc:creator><![CDATA[NightX]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="gingerbeardgentleman" data-post="805" data-topic="57550">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/gingerbeardgentleman/40/744_2.png" class="avatar"> gingerbeardgentleman:</div>
+<blockquote>
+<p>Personally, I thought it went well until the witches just up and started cooperating. &gt;:(</p>
+</blockquote>
+</aside>
+<p><img src="/images/emoji/twitter/stuck_out_tongue_winking_eye.png?v=9" title=":stuck_out_tongue_winking_eye:" class="emoji only-emoji" alt=":stuck_out_tongue_winking_eye:"></p>
+          <p><a href="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/814">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/814</link>
+        <pubDate>Thu, 26 Apr 2018 10:53:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-57550-814</guid>
+        <source url="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550.rss">Church Vs. Coven 2, game over! Clergy wins!</source>
+      </item>
+      <item>
+        <title>Church Vs. Coven 2, game over! Clergy wins!</title>
+        <dc:creator><![CDATA[Marluxion]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="gingerbeardgentleman" data-post="805" data-topic="57550">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/gingerbeardgentleman/40/744_2.png" class="avatar"> gingerbeardgentleman:</div>
+<blockquote>
+<p>This game will go down in my memory as the game in which Firekitten trusted maximus and gave him a talisman saving him from vampirehood, which maximus repaid by usurping Firekitten’s authority, getting firekitten killed in the process, and going on to betray firekitten’s trusted anti-clergy group to become the single most important factor in the clergy’s win, stomping on whatever legacy <a class="mention" href="/u/firekitten">@Firekitten</a> had left. Brovo sir. Have fun sleeping at night.</p>
+</blockquote>
+</aside>
+<p>OOF</p>
+          <p><a href="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/813">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/813</link>
+        <pubDate>Thu, 26 Apr 2018 10:52:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-57550-813</guid>
+        <source url="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550.rss">Church Vs. Coven 2, game over! Clergy wins!</source>
+      </item>
+      <item>
+        <title>Church Vs. Coven 2, game over! Clergy wins!</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Honor is worth death!</p>
+          <p><a href="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/812">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/812</link>
+        <pubDate>Thu, 26 Apr 2018 10:49:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-57550-812</guid>
+        <source url="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550.rss">Church Vs. Coven 2, game over! Clergy wins!</source>
+      </item>
+      <item>
+        <title>Church Vs. Coven 2, game over! Clergy wins!</title>
+        <dc:creator><![CDATA[NightX]]></dc:creator>
+        <description><![CDATA[
+            <p>It was that or lose</p>
+<p>Somethings aren’t worth dying for</p>
+          <p><a href="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/811">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/811</link>
+        <pubDate>Thu, 26 Apr 2018 10:49:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-57550-811</guid>
+        <source url="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550.rss">Church Vs. Coven 2, game over! Clergy wins!</source>
+      </item>
+      <item>
+        <title>Church Vs. Coven 2, game over! Clergy wins!</title>
+        <dc:creator><![CDATA[Marluxion]]></dc:creator>
+        <description><![CDATA[
+            <p>He didn’t until I killed you<br>
+which he had no way of stopping<br>
+<img src="/images/emoji/twitter/crossed_swords.png?v=9" title=":crossed_swords:" class="emoji only-emoji" alt=":crossed_swords:"></p>
+          <p><a href="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/810">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/810</link>
+        <pubDate>Thu, 26 Apr 2018 10:49:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-57550-810</guid>
+        <source url="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550.rss">Church Vs. Coven 2, game over! Clergy wins!</source>
+      </item>
+      <item>
+        <title>Church Vs. Coven 2, game over! Clergy wins!</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Night you betrayed me D:</p>
+          <p><a href="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/809">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/809</link>
+        <pubDate>Thu, 26 Apr 2018 10:46:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-57550-809</guid>
+        <source url="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550.rss">Church Vs. Coven 2, game over! Clergy wins!</source>
+      </item>
+      <item>
+        <title>Church Vs. Coven 2, game over! Clergy wins!</title>
+        <dc:creator><![CDATA[NightX]]></dc:creator>
+        <description><![CDATA[
+            <p>RIP Nuclear</p>
+          <p><a href="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/808">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/808</link>
+        <pubDate>Thu, 26 Apr 2018 10:45:45 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-57550-808</guid>
+        <source url="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550.rss">Church Vs. Coven 2, game over! Clergy wins!</source>
+      </item>
+      <item>
+        <title>Church Vs. Coven 2, game over! Clergy wins!</title>
+        <dc:creator><![CDATA[Marluxion]]></dc:creator>
+        <description><![CDATA[
+            <p>Second Highest = FK</p>
+          <p><a href="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/807">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/807</link>
+        <pubDate>Thu, 26 Apr 2018 07:22:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-57550-807</guid>
+        <source url="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550.rss">Church Vs. Coven 2, game over! Clergy wins!</source>
+      </item>
+      <item>
+        <title>Church Vs. Coven 2, game over! Clergy wins!</title>
+        <dc:creator><![CDATA[Marluxion]]></dc:creator>
+        <description><![CDATA[
+            <p>Highest Kill Count = Me :^)</p>
+          <p><a href="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/806">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/806</link>
+        <pubDate>Thu, 26 Apr 2018 07:22:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-57550-806</guid>
+        <source url="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550.rss">Church Vs. Coven 2, game over! Clergy wins!</source>
+      </item>
+      <item>
+        <title>Church Vs. Coven 2, game over! Clergy wins!</title>
+        <dc:creator><![CDATA[gingerbeardgentleman]]></dc:creator>
+        <description><![CDATA[
+            <p>All right folks, I’m gunna call it now, since Clergy basically has this in the bag, and it’d tak another 48 hours to finish it off</p>
+<p>(And yeah, NightX and Eevee get their saint Status.)</p>
+<h2><font color="blue"><strong>Clergy Wins!!!</strong></font></h2>
+<p>Fun facts:</p>
+<p>Mthejoker was the first witch, and the only witch on night 1. Eevee was his first vamp, and NightX was his second.</p>
+<p>PKR was the archbishop.</p>
+<p>On the first night, almost everyone voted for PKR or Marluxion, both of whom were disqualified when marl accepted his anointment. ONE person (nightX) voted for firekitten that night. <strong>Nobody</strong> voted for <em>the rest of the game</em>!!! firekitten and max got the chiefdom through luck of the draw.</p>
+<p><a class="mention" href="/u/nuclearburrito">@NuclearBurrito</a> gets the award for the worst luck. He became a witch on the same night that he was vamped, could not accept his anointment which occured one night later, and every single action he took was unsuccessful. XD</p>
+<p>This game will go down in my memory as the game in which Firekitten trusted maximus and gave him a talisman saving him from vampirehood, which maximus repaid by usurping Firekitten’s authority, getting firekitten killed in the process, and going on to betray firekitten’s trusted anti-clergy group to become the single most important factor in the clergy’s win, stomping on whatever legacy <span class="mention">@Firelitten</span> had left. Brovo sir. Have fun sleeping at night.</p>
+<p>Do you have any recommendations for how to improve the game?</p>
+<p>Personally, I thought it went well until the witches just up and started cooperating. &gt;:( now what’s the fun in that? in the future, If I host this again, I’ll probably get rid of the confessor role entirely.</p>
+          <p><a href="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/805">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/805</link>
+        <pubDate>Thu, 26 Apr 2018 07:06:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-57550-805</guid>
+        <source url="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550.rss">Church Vs. Coven 2, game over! Clergy wins!</source>
+      </item>
+      <item>
+        <title>Church Vs. Coven 2, game over! Clergy wins!</title>
+        <dc:creator><![CDATA[NightX]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/gingerbeardgentleman">@gingerbeardgentleman</a></p>
+<p>It’s unanimous</p>
+          <p><a href="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/804">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/804</link>
+        <pubDate>Wed, 25 Apr 2018 19:16:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-57550-804</guid>
+        <source url="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550.rss">Church Vs. Coven 2, game over! Clergy wins!</source>
+      </item>
+      <item>
+        <title>Church Vs. Coven 2, game over! Clergy wins!</title>
+        <dc:creator><![CDATA[NightX]]></dc:creator>
+        <description><![CDATA[
+            <p>If you confess me, I’ll die, but still win</p>
+<p>So it’s cool</p>
+          <p><a href="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/803">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/803</link>
+        <pubDate>Wed, 25 Apr 2018 10:59:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-57550-803</guid>
+        <source url="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550.rss">Church Vs. Coven 2, game over! Clergy wins!</source>
+      </item>
+      <item>
+        <title>Church Vs. Coven 2, game over! Clergy wins!</title>
+        <dc:creator><![CDATA[NightX]]></dc:creator>
+        <description><![CDATA[
+            <div class="poll" data-poll-status="open" data-poll-type="regular" data-poll-name="poll">
+<div>
+<div class="poll-container">
+<ul>
+<li data-poll-option-id="55d70a14cf2595345ab6ed5524b21285">Speed up game</li>
+<li data-poll-option-id="6da44cc20a8e87e19c82c38e931c22d7">Continue game</li>
+</ul>
+</div>
+<div class="poll-info">
+<p>
+<span class="info-number">0</span>
+<span class="info-label">voters</span>
+</p>
+</div>
+</div>
+</div>
+          <p><a href="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/802">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/802</link>
+        <pubDate>Wed, 25 Apr 2018 10:58:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-57550-802</guid>
+        <source url="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550.rss">Church Vs. Coven 2, game over! Clergy wins!</source>
+      </item>
+      <item>
+        <title>Church Vs. Coven 2, game over! Clergy wins!</title>
+        <dc:creator><![CDATA[eevee]]></dc:creator>
+        <description><![CDATA[
+            <p>Now he has 2 if I’m right so it doesn’t matter wich one goes first.</p>
+          <p><a href="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/801">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550/801</link>
+        <pubDate>Wed, 25 Apr 2018 10:44:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-57550-801</guid>
+        <source url="https://forum.throneoflies.com/t/church-vs-coven-2-game-over-clergy-wins/57550.rss">Church Vs. Coven 2, game over! Clergy wins!</source>
+      </item>
+  </channel>
+</rss>

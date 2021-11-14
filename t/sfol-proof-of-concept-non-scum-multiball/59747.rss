@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>SFoL Proof of concept. Non-scum Multiball</title>
+    <link>https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747</link>
+    <description>BD Wincon - See Unseen/Cult/NK die with at least 1 surviving BD
+GS Wincon - See Unseen/Cult/NK die with at least 1 surviving GS
+Unseen/Cult Wincon - See GS/BD/NK die with at least 1 surviving Unseen/Cultist
+NK Wincon - GS/BD/Unseen/Cult all Lose (if everyone dies NK wins)
+
+The idea is a multiball between BD, Unseen/cult and a 2nd uninformed majority. GS King has the same ability&#39;s as BD king. 
+
+# [color = &quot;gold&quot;] Gold Serpent [/color]
+[details = &quot;Classes&quot;]
+&gt; # [color = &quot;gold&quot;] The Bailiff [/color] :crossed_swords: :shield: (unconvertable)
+&gt; **[color = &quot;gold&quot;] Golden Serpent Investigator [/color]**
+&gt; Day Ability: Fact check - Learn if your results up to this point are still accurate. (1 use)
+&gt;
+&gt;  Night Ability 1: Test - Learn if target player is a member of the Golden Serpent (Unlimited)
+&gt; Night Ability 2: Surveillance - If any unseen or cult visit target player you will know which classes. (4 uses)
+
+&gt; # [color = &quot;gold&quot;] Lord [/color] 
+&gt; **[color = &quot;gold&quot;] Gold Serpent Investigator [/color]**
+&gt; Passive: Royal Blood
+&gt;
+&gt; Night Ability 1: Research - Narrow target player&#39;s class type down to 2. (Unlimited
+Invest/Killer
+Special/Support
+Social/Offencive
+&gt; Night Ability 2: Stare Down - Learn target players faction. If they are Unseen or Cult they will learn your identity. (4 uses)
+
+&gt; # [color = &quot;gold&quot;] Groundskeeper [/color]
+&gt; **[color = &quot;gold&quot;] Gold Serpent Investigative [/color]**
+&gt;
+&gt; Day Ability: At the end of the day learn how many members of the GS are alive. (1 use)
+&gt;
+&gt; Night Ability 1: Stake out - Learn who target player visits and who visits them. (Unlimited)
+&gt; Night Ability 2: Graverob - Get the full night results target dead player got the night they died. (2 uses)
+
+&gt; # [color = &quot;gold&quot;] Medic [/color]
+&gt; **[color = &quot;gold&quot;] Gold Serpent Support [/color]**
+&gt; Passive: Paranoia - Poison and Bleed immune
+&gt;
+&gt; Night Ability 1: Heal - Heal target player from attacks and cure poison and bleed
+&gt; Night Ability 2: Quarantine - Prevent visitors to target player. Can only target each player once. Can target self. (Unlimited)
+
+ &gt; # [color = &quot;gold&quot;] Mage [/color]
+&gt; **[color = &quot;gold&quot;] Gold Serpent Support[/color]**
+&gt;
+&gt; Day Ability: Mark of Trust - Target player will be unconvertable for the rest of the game. (1 use)
+&gt;
+&gt; Night Ability 1: Empower - Guarantee target player&#39;s action succeeds and returns correct results (Unlimited)
+&gt; Night Ability 2: Deflect - Redirect visits from your first target to your second.  (2 uses)
+
+&gt; # [color = &quot;gold&quot;] Chief [/color] :shield:
+&gt; **[color = &quot;gold&quot;] Gold Serpent social [/color]**
+&gt;  Passive: Royal Blood
+&gt;
+&gt; Day Ability: Pull Rank - Your vote secretly counts for 2 today. (3 uses)
+&gt;
+&gt; Night Ability 1: Acceptance - Votes on target player don&#39;t count the next day. (2 uses)
+&gt; Night Ability 2: Friendly Face - Target player learn&#39;s your class. (Unlimited)
+
+&gt; # [color = &quot;gold&quot;] Psychic [/color]
+&gt; **[color = &quot;gold&quot;] Gold Serpent Social [/color]**
+&gt;
+&gt; Day Ability: Announcement - Target player can send a 1000 character message through the host. Cannot self target. (2 uses)
+&gt;
+&gt; Night Ability: Conduit - 2 target players can send 2 1000 character messages to each other. You will get the full conversation at the end of the night. (Unlimited)
+
+&gt; # [color = &quot;gold&quot;] Innkeeper [/color]
+&gt; **[color = &quot;gold&quot;] Gold Serpent Offencive [/color]**
+&gt; Passive: Busy - Occupy and Redirect immune
+&gt;
+&gt; Day Ability: House special - Your ability&#39;s will bypass occupy immunity tonight. (2 uses)
+&gt;
+&gt; Night Ability 1: Serve Beer - Occupy target player. (Unlimited)
+&gt; Night Ability 2: House Party - Anyone visiting target player will be occupied. Cannot self target (3 uses)
+
+&gt; # [color = &quot;gold&quot;] Captain [/color]
+&gt; **[color = &quot;gold&quot;] Golden Serpent Offensive [/color]**
+&gt; Passive 1: Honor - Occupy and Redirect Immune
+&gt; Passive 2: Royal Blood
+&gt; Day Ability: Stun - Target player cannot use day ability&#39;s today. (2 uses)
+&gt;
+&gt; Night Ability 1: Command - Redirect your first target to your second. Cannot make him target you or himself. (Unlimited)
+&gt; Night Ability 2: Coup - Attack the king. Bypasses night immunity. You will kill yourself if he is Golden Serpent. (1 use)
+
+&gt; # [color = &quot;gold&quot;] Executioner [/color]
+&gt; **[color = &quot;gold&quot;] Gold Dragon Killer[/color]**
+&gt; Passive: Plate Armor - Night Immune once
+&gt;
+&gt; Night Ability 1: Judgement - If target player tried to kill someone then you will redirect it to yourself and counter attack them. (Unlimited)
+&gt; Night Ability 2: Execute - Kill target player. Bypasses everything. (1 use)
+
+&gt; # [color = &quot;gold&quot;] Duelist [/color]
+&gt; **[color = &quot;gold&quot;] Gold Dragon Killer[/color]**
+&gt; Passive 1: Finesse - Occupy and Redirect immune
+&gt; Passive 2: Last stand - You can use both night ability&#39;s in the same night if you are the last member of the Golden Serpent. 
+&gt;
+&gt; Night Ability 1: Parry - If target player also targets you then remove your targets night and occupy immunity&#39;s and redirect them to themselves. Will give you a use of Strike on success. (Unlimited)
+&gt; Night Ability 2: Strike - Kill target player. If they die you will also occupy them. You cannot use this ability again if you kill a Golden Serpent member with this. (0 uses)
+[/details]
+
+[details = &quot;Unseen Converts&quot;]
+&gt; # [color = &quot;purple&quot;] Duke [/color]
+&gt; **[color = &quot;purple&quot;] Unseen Investigative [/color]**
+&gt; Passive: Royal blood
+&gt;
+&gt; Night Ability 1: Study - Learn target player&#39;s class type
+&gt; Night Ability 2: Search Warrant - Choose any number of players and any number of classes. You will learn if any of the players are any of the classes (outputs yes or no). (4 uses)
+
+&gt; # [color = &quot;purple&quot;] Landlord [/color]
+&gt; [color = &quot;purple&quot;] Unseen Investigative [/color]
+&gt;
+&gt; Night Ability 1: Stake out - See visitors to and from target player. (Unlimited)
+&gt; Night Ability 2: Brake in - Get target player&#39;s full night results. (2 uses)
+
+&gt; # [color = &quot;purple&quot;] Surgeon [/color]
+&gt;  [color = &quot;purple&quot;] Unseen Support [/color]
+&gt; Passive: Paranoid - Immune to poison and Bleeding
+&gt;
+&gt; Night Ability 1: Transplant - If  your first target is poisoned or bleeding then cure it and kill your second target. (2 uses)
+&gt; Night Ability 2: Operate - Heal the entire Unseen. (3 uses)
+
+&gt; # [color = &quot;purple&quot;] Wizard [/color]
+&gt; **[color = &quot;purple&quot;] Unseen Support [/color]**
+&gt; 
+&gt; Night Ability 1: Empower - Guarente target player&#39;s action succeeds. (2 uses)
+&gt; Night Ability 2: Deflect - Anyone visiting your first target is redirected to your second. (Unlimited)
+
+&gt; # [color = &quot;purple&quot;] Hypnotist [/color]
+&gt; **[color = &quot;purple&quot;] Unseen Social [/color]**
+&gt;
+&gt; Day Ability: Announcement - Target player can send a 1000 character message through the host. Cannot self target. (2 uses)
+&gt;
+&gt; Night Ability 1: Conduit - 2 target players can send 2 1000 character messages to each other. You will get the full conversation at the end of the night. (3 uses)
+&gt; Night Ability 2: Hypnotize - Target player gets a feedback of your choice in addition to their regular night results. (Unlimited)
+
+&gt; # [color = &quot;purple&quot;] Elder [/color] :shield: 
+&gt; **[color = &quot;purple&quot;] Unseen Social [/color]**
+&gt;
+&gt; Day Ability: Pull Rank - Your vote secretly counts for 2 today. (3 uses)
+&gt;
+&gt; Night Ability 1: Banish - Target player cannot vote and doesn&#39;t count towards majority tommorow. (1 use)
+&gt; Night Ability 2: Lead Astray - Target player receives incorrect results from their night ability&#39;s and will appear to be unseen to investigative ability&#39;s.
+
+&gt; # [color = &quot;purple&quot;] Tavern Keeper [/color]
+&gt; **[color = &quot;purple&quot;] Unseen Offencive[/color]**
+&gt; Passive: Busy - Occupy and Redirect immune
+&gt;
+&gt; Day Ability: House special - Your ability&#39;s will bypass occupy immunity tonight. (2 uses)
+&gt;
+&gt; Night Ability 1: Serve Beer - Occupy target player. (Unlimited)
+&gt; Night Ability 2: House Party - Anyone visiting target player will be occupied. Cannot self target (3 uses)
+
+&gt; # [color = &quot;Purple&quot;] General [/color]
+&gt; **[color = &quot;Purple&quot;] Unseen Offensive [/color]**
+&gt; Passive 1: Golory- Occupy and Redirect Immune
+&gt; Passive 2: Royal Blood
+&gt; Day Ability: Stun - Target player cannot use day ability&#39;s today. (2 uses)
+&gt;
+&gt; Night Ability 1: Command - Redirect your first target to your second. Cannot make him target you or himself. (Unlimited)
+&gt; Night Ability 2: Detain - Occupy target player and prevent anyone else from visiting them (3 uses)
+
+&gt; # [color = &quot;Purple&quot;] Hangman [/color]
+&gt; **[color = &quot;Purple&quot;] Unseen Killer [/color]**
+&gt; Passive: Steel Plate - Night immune once
+&gt;
+&gt; Day Ability: Guillotine - Execute player who has at least 6 votes. This ends the day. Everyone will know it was you. (1 use)
+&gt;
+&gt; Night Ability: Lock - Prevent visits to target Unseen. Can self target. (2 uses)
+
+&gt; # [color = &quot;Purple&quot;] Gladiator [/color]
+&gt; **[color = &quot;Purple&quot;] Unseen Offencive [/color]**
+&gt; Passive 1: Finesse - Occupy and Redirect immune
+&gt; Passive 2: Crossed the Line - If the mastermind dies then stagger has unlimited uses and occupies the target. 
+&gt; 
+&gt; Day Ability: Low blow - If you redirect someone then the redirected player will not know they were redirected tonight. (Unlimited)
+&gt;
+&gt; Night Ability 1: Parry - If target player also targets you then remove your targets night and occupy immunity&#39;s and redirect them to themselves. Will give you a use of Strike on success. (Unlimited)
+&gt; Night Ability 2: Stagger - Remove target player&#39;s passives for 2 nights including this one. (2 uses)
+[/details]
+
+Other classes that need changing
+
+## Mastermind
+&gt; In the shadows - N1-3 investigative ability&#39;s show you as being the same faction as the user of the ability. 
+
+## Sheriff and Paladin
+&gt; Expert Investigation/Test Faith - Determine if your target is a member of the Blue Dragon (Unlimited)
+
+&gt; Not unique or unconvertable 
+
+# Role list 
+
+**King**
+**[color = &quot;steblue&quot;] Prince [/color]**
+**[color = &quot;steblue&quot;] Sheriff[/color]/[color = &quot;steblue&quot;]Paladin [/color]**
+**[color = &quot;steblue&quot;] Random Blue Dragon [/color]**
+**[color = &quot;steblue&quot;] Random Blue Dragon [/color]**
+**[color = &quot;steblue&quot;] Random Blue Dragon [/color]**
+**[color = &quot;steblue&quot;] Random Blue Dragon [/color]**
+**[color = &quot;steblue&quot;] Random Blue Dragon [/color]**
+**[color = &quot;gold&quot;]Bailiff[/color]**
+**[color = &quot;gold&quot;]Golden Serpent Killer[/color]**
+**[color = &quot;gold&quot;]Random Gold Serpent[/color]**
+**[color = &quot;gold&quot;]Random Gold Serpent[/color]**
+**[color = &quot;gold&quot;]Random Gold Serpent[/color]**
+**[color = &quot;gold&quot;]Random Gold Serpent[/color]**
+**[color = &quot;gold&quot;]Random Gold Serpent[/color]**
+**[color = &quot;purple&quot;] Mastermind[/color]/[color = &quot;darkred&quot;]Cult Leader [/color]**
+**[color = &quot;purple&quot;] Assassin[/color]/[color = &quot;darkred&quot;]Random Cultist [/color]**
+**[color = &quot;gray&quot;] Neutral Killer [/color]**
+**[color = &quot;gray&quot;]Non-Killer Neutral[/color]**
+**[color = &quot;gray&quot;]Non-Killer Neutral[/color]**
+
+Is this a viable concept? Could something like this work in a future SFoL?
+
+The faction was mostly lifted from @psychoneirik&#39;s Golden Dragon idea. Thanks for inspiring me. 
+ 
+https://forum.imperium42.com/t/faction-suggestion-the-golden-dragon/58163</description>
+    
+    <lastBuildDate>Sun, 17 Jun 2018 23:55:17 +0000</lastBuildDate>
+    <category>General</category>
+    <atom:link href="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>SFoL Proof of concept. Non-scum Multiball</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>bump</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/20</link>
+        <pubDate>Sun, 17 Jun 2018 23:55:17 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59747-20</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747.rss">SFoL Proof of concept. Non-scum Multiball</source>
+      </item>
+      <item>
+        <title>SFoL Proof of concept. Non-scum Multiball</title>
+        <dc:creator><![CDATA[Nerbins]]></dc:creator>
+        <description><![CDATA[
+            <p>You misspelled concept in the title.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/19</link>
+        <pubDate>Sat, 05 May 2018 01:10:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59747-19</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747.rss">SFoL Proof of concept. Non-scum Multiball</source>
+      </item>
+      <item>
+        <title>SFoL Proof of concept. Non-scum Multiball</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <p>if you want an idea of mine.</p>
+<p>Add in Green Kraken as a chance to appear.<br>
+So there are 3 main factions that can appear</p>
+<p>helps add in randomness because why not.</p>
+<p>and make Private Investigator/Stealthy unconvertable and unique</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/18</link>
+        <pubDate>Thu, 03 May 2018 06:40:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59747-18</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747.rss">SFoL Proof of concept. Non-scum Multiball</source>
+      </item>
+      <item>
+        <title>SFoL Proof of concept. Non-scum Multiball</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>I think its fine as is. With your changes to the investigators it means they would get a scum result if they check a member of a different faction. This gives scum the potential to claim they are from GS or BD, depending on which faction checked them.<br>
+If you make them not able to win with the other, then they will just execute every player they find that isn’t a member of their faction.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/17</link>
+        <pubDate>Sat, 28 Apr 2018 17:25:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59747-17</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747.rss">SFoL Proof of concept. Non-scum Multiball</source>
+      </item>
+      <item>
+        <title>SFoL Proof of concept. Non-scum Multiball</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>They can but don’t have to. That is subject to change.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/16</link>
+        <pubDate>Wed, 25 Apr 2018 16:46:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59747-16</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747.rss">SFoL Proof of concept. Non-scum Multiball</source>
+      </item>
+      <item>
+        <title>SFoL Proof of concept. Non-scum Multiball</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Cult can use the same conversion rules that they use for BD and BD doesn’t need changes either.</p>
+<p>I’m not actually hosting this yet. I haven’t even signed it up. I am just putting the idea in peoples heads and showing how you could go about it (while also having a faction suggestion).</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/15</link>
+        <pubDate>Wed, 25 Apr 2018 16:45:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59747-15</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747.rss">SFoL Proof of concept. Non-scum Multiball</source>
+      </item>
+      <item>
+        <title>SFoL Proof of concept. Non-scum Multiball</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Question</p>
+<p>The BD and the yellow win together?</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/14</link>
+        <pubDate>Wed, 25 Apr 2018 16:45:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59747-14</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747.rss">SFoL Proof of concept. Non-scum Multiball</source>
+      </item>
+      <item>
+        <title>SFoL Proof of concept. Non-scum Multiball</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>Add cult and unseen and BD and Gold Serpent and then I’m in</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/13</link>
+        <pubDate>Wed, 25 Apr 2018 16:43:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59747-13</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747.rss">SFoL Proof of concept. Non-scum Multiball</source>
+      </item>
+      <item>
+        <title>SFoL Proof of concept. Non-scum Multiball</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Unseen conversions added.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/12</link>
+        <pubDate>Wed, 25 Apr 2018 16:39:15 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59747-12</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747.rss">SFoL Proof of concept. Non-scum Multiball</source>
+      </item>
+      <item>
+        <title>SFoL Proof of concept. Non-scum Multiball</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <p>also tbh, we have way too many convert immunes.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/11</link>
+        <pubDate>Wed, 25 Apr 2018 09:09:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59747-11</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747.rss">SFoL Proof of concept. Non-scum Multiball</source>
+      </item>
+      <item>
+        <title>SFoL Proof of concept. Non-scum Multiball</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <p>we need a Non Scum Tripleball…</p>
+<p>BD, GK and GS</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/10</link>
+        <pubDate>Wed, 25 Apr 2018 09:08:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59747-10</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747.rss">SFoL Proof of concept. Non-scum Multiball</source>
+      </item>
+      <item>
+        <title>SFoL Proof of concept. Non-scum Multiball</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>This seems substatically more interesting than the standard 2 scum factions.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/9</link>
+        <pubDate>Wed, 25 Apr 2018 08:26:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59747-9</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747.rss">SFoL Proof of concept. Non-scum Multiball</source>
+      </item>
+      <item>
+        <title>SFoL Proof of concept. Non-scum Multiball</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <h1><strong>Green Kraken or riot</strong></h1>
+          <p><a href="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/8</link>
+        <pubDate>Wed, 25 Apr 2018 06:08:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59747-8</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747.rss">SFoL Proof of concept. Non-scum Multiball</source>
+      </item>
+      <item>
+        <title>SFoL Proof of concept. Non-scum Multiball</title>
+        <dc:creator><![CDATA[Twil1ight]]></dc:creator>
+        <description><![CDATA[
+            <p>It is interesting enough to try it out. <img src="/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"><br>
+The only thing we need is add some seperate converts and we’re good.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/7</link>
+        <pubDate>Wed, 25 Apr 2018 05:46:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59747-7</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747.rss">SFoL Proof of concept. Non-scum Multiball</source>
+      </item>
+      <item>
+        <title>SFoL Proof of concept. Non-scum Multiball</title>
+        <dc:creator><![CDATA[MaximusPrime]]></dc:creator>
+        <description><![CDATA[
+            <p>how many uses does fact check have?</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/6</link>
+        <pubDate>Wed, 25 Apr 2018 05:00:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59747-6</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747.rss">SFoL Proof of concept. Non-scum Multiball</source>
+      </item>
+      <item>
+        <title>SFoL Proof of concept. Non-scum Multiball</title>
+        <dc:creator><![CDATA[NightX]]></dc:creator>
+        <description><![CDATA[
+            <p>It has a meaningful difference</p>
+<p>It makes Sheriff/Paladin/Baliff very potent at finding allies, but terrible at finding enemies.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/5</link>
+        <pubDate>Wed, 25 Apr 2018 03:03:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59747-5</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747.rss">SFoL Proof of concept. Non-scum Multiball</source>
+      </item>
+      <item>
+        <title>SFoL Proof of concept. Non-scum Multiball</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Part of the reason why I posted this is actually to make sure other people agree that it would make a meaningful difference. If not then I might make BD and GS opposing factions.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/4</link>
+        <pubDate>Wed, 25 Apr 2018 02:55:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59747-4</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747.rss">SFoL Proof of concept. Non-scum Multiball</source>
+      </item>
+      <item>
+        <title>SFoL Proof of concept. Non-scum Multiball</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>They can win and lose on their own. It’s like Sorcerer as opposed to Unseen. GS and BD lose the second their last member dies or gets converted. This means that they need to prioritize their own members survival over the other factions. Much like with Unseen busing Sorcerer or Alch being ignored by other TP.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/3</link>
+        <pubDate>Wed, 25 Apr 2018 02:54:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59747-3</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747.rss">SFoL Proof of concept. Non-scum Multiball</source>
+      </item>
+      <item>
+        <title>SFoL Proof of concept. Non-scum Multiball</title>
+        <dc:creator><![CDATA[NightX]]></dc:creator>
+        <description><![CDATA[
+            <p>Aren’t GS and BD effectively the same faction? It’s just that all GS are millers to Sheriff/Paladin, and all BD are millers to Baliff.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/2</link>
+        <pubDate>Wed, 25 Apr 2018 02:50:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59747-2</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747.rss">SFoL Proof of concept. Non-scum Multiball</source>
+      </item>
+      <item>
+        <title>SFoL Proof of concept. Non-scum Multiball</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>BD Wincon - See Unseen/Cult/NK die with at least 1 surviving BD<br>
+GS Wincon - See Unseen/Cult/NK die with at least 1 surviving GS<br>
+Unseen/Cult Wincon - See GS/BD/NK die with at least 1 surviving Unseen/Cultist<br>
+NK Wincon - GS/BD/Unseen/Cult all Lose (if everyone dies NK wins)</p>
+<p>The idea is a multiball between BD, Unseen/cult and a 2nd uninformed majority. GS King has the same ability’s as BD king.</p>
+<h1><font color="gold"> Gold Serpent </font></h1>
+<details>
+<summary>
+Classes</summary>
+<blockquote>
+<h1>
+<font color="gold"> The Bailiff </font> <img src="/images/emoji/twitter/crossed_swords.png?v=9" title=":crossed_swords:" class="emoji" alt=":crossed_swords:"> <img src="/images/emoji/twitter/shield.png?v=9" title=":shield:" class="emoji" alt=":shield:"> (unconvertable)</h1>
+<p><strong><font color="gold"> Golden Serpent Investigator </font></strong><br>
+Day Ability: Fact check - Learn if your results up to this point are still accurate. (1 use)</p>
+<p>Night Ability 1: Test - Learn if target player is a member of the Golden Serpent (Unlimited)<br>
+Night Ability 2: Surveillance - If any unseen or cult visit target player you will know which classes. (4 uses)</p>
+</blockquote>
+<blockquote>
+<h1><font color="gold"> Lord </font></h1>
+<p><strong><font color="gold"> Gold Serpent Investigator </font></strong><br>
+Passive: Royal Blood</p>
+<p>Night Ability 1: Research - Narrow target player’s class type down to 2. (Unlimited<br>
+Invest/Killer<br>
+Special/Support<br>
+Social/Offencive<br>
+Night Ability 2: Stare Down - Learn target players faction. If they are Unseen or Cult they will learn your identity. (4 uses)</p>
+</blockquote>
+<blockquote>
+<h1><font color="gold"> Groundskeeper </font></h1>
+<p><strong><font color="gold"> Gold Serpent Investigative </font></strong></p>
+<p>Day Ability: At the end of the day learn how many members of the GS are alive. (1 use)</p>
+<p>Night Ability 1: Stake out - Learn who target player visits and who visits them. (Unlimited)<br>
+Night Ability 2: Graverob - Get the full night results target dead player got the night they died. (2 uses)</p>
+</blockquote>
+<blockquote>
+<h1><font color="gold"> Medic </font></h1>
+<p><strong><font color="gold"> Gold Serpent Support </font></strong><br>
+Passive: Paranoia - Poison and Bleed immune</p>
+<p>Night Ability 1: Heal - Heal target player from attacks and cure poison and bleed<br>
+Night Ability 2: Quarantine - Prevent visitors to target player. Can only target each player once. Can target self. (Unlimited)</p>
+</blockquote>
+<blockquote>
+<h1><font color="gold"> Mage </font></h1>
+<p><strong><font color="gold"> Gold Serpent Support</font></strong></p>
+<p>Day Ability: Mark of Trust - Target player will be unconvertable for the rest of the game. (1 use)</p>
+<p>Night Ability 1: Empower - Guarantee target player’s action succeeds and returns correct results (Unlimited)<br>
+Night Ability 2: Deflect - Redirect visits from your first target to your second.  (2 uses)</p>
+</blockquote>
+<blockquote>
+<h1>
+<font color="gold"> Chief </font> <img src="/images/emoji/twitter/shield.png?v=9" title=":shield:" class="emoji" alt=":shield:">
+</h1>
+<p><strong><font color="gold"> Gold Serpent social </font></strong><br>
+Passive: Royal Blood</p>
+<p>Day Ability: Pull Rank - Your vote secretly counts for 2 today. (3 uses)</p>
+<p>Night Ability 1: Acceptance - Votes on target player don’t count the next day. (2 uses)<br>
+Night Ability 2: Friendly Face - Target player learn’s your class. (Unlimited)</p>
+</blockquote>
+<blockquote>
+<h1><font color="gold"> Psychic </font></h1>
+<p><strong><font color="gold"> Gold Serpent Social </font></strong></p>
+<p>Day Ability: Announcement - Target player can send a 1000 character message through the host. Cannot self target. (2 uses)</p>
+<p>Night Ability: Conduit - 2 target players can send 2 1000 character messages to each other. You will get the full conversation at the end of the night. (Unlimited)</p>
+</blockquote>
+<blockquote>
+<h1><font color="gold"> Innkeeper </font></h1>
+<p><strong><font color="gold"> Gold Serpent Offencive </font></strong><br>
+Passive: Busy - Occupy and Redirect immune</p>
+<p>Day Ability: House special - Your ability’s will bypass occupy immunity tonight. (2 uses)</p>
+<p>Night Ability 1: Serve Beer - Occupy target player. (Unlimited)<br>
+Night Ability 2: House Party - Anyone visiting target player will be occupied. Cannot self target (3 uses)</p>
+</blockquote>
+<blockquote>
+<h1><font color="gold"> Captain </font></h1>
+<p><strong><font color="gold"> Golden Serpent Offensive </font></strong><br>
+Passive 1: Honor - Occupy and Redirect Immune<br>
+Passive 2: Royal Blood<br>
+Day Ability: Stun - Target player cannot use day ability’s today. (2 uses)</p>
+<p>Night Ability 1: Command - Redirect your first target to your second. Cannot make him target you or himself. (Unlimited)<br>
+Night Ability 2: Coup - Attack the king. Bypasses night immunity. You will kill yourself if he is Golden Serpent. (1 use)</p>
+</blockquote>
+<blockquote>
+<h1><font color="gold"> Executioner </font></h1>
+<p><strong><font color="gold"> Gold Dragon Killer</font></strong><br>
+Passive: Plate Armor - Night Immune once</p>
+<p>Night Ability 1: Judgement - If target player tried to kill someone then you will redirect it to yourself and counter attack them. (Unlimited)<br>
+Night Ability 2: Execute - Kill target player. Bypasses everything. (1 use)</p>
+</blockquote>
+<blockquote>
+<h1><font color="gold"> Duelist </font></h1>
+<p><strong><font color="gold"> Gold Dragon Killer</font></strong><br>
+Passive 1: Finesse - Occupy and Redirect immune<br>
+Passive 2: Last stand - You can use both night ability’s in the same night if you are the last member of the Golden Serpent.</p>
+<p>Night Ability 1: Parry - If target player also targets you then remove your targets night and occupy immunity’s and redirect them to themselves. Will give you a use of Strike on success. (Unlimited)<br>
+Night Ability 2: Strike - Kill target player. If they die you will also occupy them. You cannot use this ability again if you kill a Golden Serpent member with this. (0 uses)</p>
+</blockquote>
+</details>
+<details>
+<summary>
+Unseen Converts</summary>
+<blockquote>
+<h1><font color="purple"> Duke </font></h1>
+<p><strong><font color="purple"> Unseen Investigative </font></strong><br>
+Passive: Royal blood</p>
+<p>Night Ability 1: Study - Learn target player’s class type<br>
+Night Ability 2: Search Warrant - Choose any number of players and any number of classes. You will learn if any of the players are any of the classes (outputs yes or no). (4 uses)</p>
+</blockquote>
+<blockquote>
+<h1><font color="purple"> Landlord </font></h1>
+<p><font color="purple"> Unseen Investigative </font></p>
+<p>Night Ability 1: Stake out - See visitors to and from target player. (Unlimited)<br>
+Night Ability 2: Brake in - Get target player’s full night results. (2 uses)</p>
+</blockquote>
+<blockquote>
+<h1><font color="purple"> Surgeon </font></h1>
+<p><font color="purple"> Unseen Support </font><br>
+Passive: Paranoid - Immune to poison and Bleeding</p>
+<p>Night Ability 1: Transplant - If  your first target is poisoned or bleeding then cure it and kill your second target. (2 uses)<br>
+Night Ability 2: Operate - Heal the entire Unseen. (3 uses)</p>
+</blockquote>
+<blockquote>
+<h1><font color="purple"> Wizard </font></h1>
+<p><strong><font color="purple"> Unseen Support </font></strong></p>
+<p>Night Ability 1: Empower - Guarente target player’s action succeeds. (2 uses)<br>
+Night Ability 2: Deflect - Anyone visiting your first target is redirected to your second. (Unlimited)</p>
+</blockquote>
+<blockquote>
+<h1><font color="purple"> Hypnotist </font></h1>
+<p><strong><font color="purple"> Unseen Social </font></strong></p>
+<p>Day Ability: Announcement - Target player can send a 1000 character message through the host. Cannot self target. (2 uses)</p>
+<p>Night Ability 1: Conduit - 2 target players can send 2 1000 character messages to each other. You will get the full conversation at the end of the night. (3 uses)<br>
+Night Ability 2: Hypnotize - Target player gets a feedback of your choice in addition to their regular night results. (Unlimited)</p>
+</blockquote>
+<blockquote>
+<h1>
+<font color="purple"> Elder </font> <img src="/images/emoji/twitter/shield.png?v=9" title=":shield:" class="emoji" alt=":shield:">
+</h1>
+<p><strong><font color="purple"> Unseen Social </font></strong></p>
+<p>Day Ability: Pull Rank - Your vote secretly counts for 2 today. (3 uses)</p>
+<p>Night Ability 1: Banish - Target player cannot vote and doesn’t count towards majority tommorow. (1 use)<br>
+Night Ability 2: Lead Astray - Target player receives incorrect results from their night ability’s and will appear to be unseen to investigative ability’s.</p>
+</blockquote>
+<blockquote>
+<h1><font color="purple"> Tavern Keeper </font></h1>
+<p><strong><font color="purple"> Unseen Offencive</font></strong><br>
+Passive: Busy - Occupy and Redirect immune</p>
+<p>Day Ability: House special - Your ability’s will bypass occupy immunity tonight. (2 uses)</p>
+<p>Night Ability 1: Serve Beer - Occupy target player. (Unlimited)<br>
+Night Ability 2: House Party - Anyone visiting target player will be occupied. Cannot self target (3 uses)</p>
+</blockquote>
+<blockquote>
+<h1><font color="Purple"> General </font></h1>
+<p><strong><font color="Purple"> Unseen Offensive </font></strong><br>
+Passive 1: Golory- Occupy and Redirect Immune<br>
+Passive 2: Royal Blood<br>
+Day Ability: Stun - Target player cannot use day ability’s today. (2 uses)</p>
+<p>Night Ability 1: Command - Redirect your first target to your second. Cannot make him target you or himself. (Unlimited)<br>
+Night Ability 2: Detain - Occupy target player and prevent anyone else from visiting them (3 uses)</p>
+</blockquote>
+<blockquote>
+<h1><font color="Purple"> Hangman </font></h1>
+<p><strong><font color="Purple"> Unseen Killer </font></strong><br>
+Passive: Steel Plate - Night immune once</p>
+<p>Day Ability: Guillotine - Execute player who has at least 6 votes. This ends the day. Everyone will know it was you. (1 use)</p>
+<p>Night Ability: Lock - Prevent visits to target Unseen. Can self target. (2 uses)</p>
+</blockquote>
+<blockquote>
+<h1><font color="Purple"> Gladiator </font></h1>
+<p><strong><font color="Purple"> Unseen Offencive </font></strong><br>
+Passive 1: Finesse - Occupy and Redirect immune<br>
+Passive 2: Crossed the Line - If the mastermind dies then stagger has unlimited uses and occupies the target.</p>
+<p>Day Ability: Low blow - If you redirect someone then the redirected player will not know they were redirected tonight. (Unlimited)</p>
+<p>Night Ability 1: Parry - If target player also targets you then remove your targets night and occupy immunity’s and redirect them to themselves. Will give you a use of Strike on success. (Unlimited)<br>
+Night Ability 2: Stagger - Remove target player’s passives for 2 nights including this one. (2 uses)</p>
+</blockquote>
+</details>
+<p>Other classes that need changing</p>
+<h2>Mastermind</h2>
+<blockquote>
+<p>In the shadows - N1-3 investigative ability’s show you as being the same faction as the user of the ability.</p>
+</blockquote>
+<h2>Sheriff and Paladin</h2>
+<blockquote>
+<p>Expert Investigation/Test Faith - Determine if your target is a member of the Blue Dragon (Unlimited)</p>
+</blockquote>
+<blockquote>
+<p>Not unique or unconvertable</p>
+</blockquote>
+<h1>Role list</h1>
+<p><strong>King</strong><br>
+<strong><font color="steblue"> Prince </font></strong><br>
+<strong><font color="steblue"> Sheriff</font>/<font color="steblue">Paladin </font></strong><br>
+<strong><font color="steblue"> Random Blue Dragon </font></strong><br>
+<strong><font color="steblue"> Random Blue Dragon </font></strong><br>
+<strong><font color="steblue"> Random Blue Dragon </font></strong><br>
+<strong><font color="steblue"> Random Blue Dragon </font></strong><br>
+<strong><font color="steblue"> Random Blue Dragon </font></strong><br>
+<strong><font color="gold">Bailiff</font></strong><br>
+<strong><font color="gold">Golden Serpent Killer</font></strong><br>
+<strong><font color="gold">Random Gold Serpent</font></strong><br>
+<strong><font color="gold">Random Gold Serpent</font></strong><br>
+<strong><font color="gold">Random Gold Serpent</font></strong><br>
+<strong><font color="gold">Random Gold Serpent</font></strong><br>
+<strong><font color="gold">Random Gold Serpent</font></strong><br>
+<strong><font color="purple"> Mastermind</font>/<font color="darkred">Cult Leader </font></strong><br>
+<strong><font color="purple"> Assassin</font>/<font color="darkred">Random Cultist </font></strong><br>
+<strong><font color="gray"> Neutral Killer </font></strong><br>
+<strong><font color="gray">Non-Killer Neutral</font></strong><br>
+<strong><font color="gray">Non-Killer Neutral</font></strong></p>
+<p>Is this a viable concept? Could something like this work in a future SFoL?</p>
+<p>The faction was mostly lifted from <a class="mention" href="/u/psychoneirik">@psychoneirik</a>’s Golden Dragon idea. Thanks for inspiring me.</p>
+<p><a href="https://forum.imperium42.com/t/faction-suggestion-the-golden-dragon/58163" class="onebox" target="_blank" rel="noopener">https://forum.imperium42.com/t/faction-suggestion-the-golden-dragon/58163</a></p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747/1</link>
+        <pubDate>Wed, 25 Apr 2018 02:47:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59747-1</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-proof-of-concept-non-scum-multiball/59747.rss">SFoL Proof of concept. Non-scum Multiball</source>
+      </item>
+  </channel>
+</rss>

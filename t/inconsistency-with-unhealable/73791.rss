@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Inconsistency with &quot;Unhealable&quot;</title>
+    <link>https://forum.throneoflies.com/t/inconsistency-with-unhealable/73791</link>
+    <description>Stab = assassin kill with no modifiers unless specified otherwise
+
+N1: Sheriff is Stabbed, reaped and healed by a physician
+D2: Sheriff is dead
+
+Thus reap makes the target unhealable rather than just having an unhealable attack
+
+N3: MM is wolfed
+N4: MM is reaped and healed
+D5: ???
+
+People are saying the MM should survive even though reap should make him unhealable
+
+Hypothesis: Attack on immune considered unsuccessful?
+
+Experiment: Use Possess on MM. If attacks on immunes are considered unsuccessful then he will regain a use
+
+Result: Possessor does no regain a use on immune targets. Immune targets are not considered failures 
+
+Hypothesis 2: Unhealable attacks only make the target unhealable if the attack kills them
+
+Experiment:
+
+D2: Poison Reaper
+N2: RE and heal reaper
+
+If he still is poisoned D3 then the Hypothesis is correct
+
+ERROR: Reaper removes poison on consume regardless of heal
+
+Alternative Experiment:
+
+D2: Poison Reaper
+N2: RE and heal reaper
+
+The physician should revive a message about removing poison from the target 
+
+Result: ???
+
+
+IF YOU HAVE INFORMATION ON ANY OF THESE PLEASE POST IT HERE. IF YOU HAVEN&#39;T TESTED THIS THEN DON&#39;T ASSUME YOU KNOW THE RESULT</description>
+    
+    <lastBuildDate>Thu, 15 Nov 2018 19:52:27 +0000</lastBuildDate>
+    <category>General</category>
+    <atom:link href="https://forum.throneoflies.com/t/inconsistency-with-unhealable/73791.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Inconsistency with &quot;Unhealable&quot;</title>
+        <dc:creator><![CDATA[Shrimpy]]></dc:creator>
+        <description><![CDATA[
+            <p>poss failing because target was immune doesn’t get refunded? please fix</p>
+          <p><a href="https://forum.throneoflies.com/t/inconsistency-with-unhealable/73791/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/inconsistency-with-unhealable/73791/7</link>
+        <pubDate>Thu, 15 Nov 2018 19:52:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73791-7</guid>
+        <source url="https://forum.throneoflies.com/t/inconsistency-with-unhealable/73791.rss">Inconsistency with &quot;Unhealable&quot;</source>
+      </item>
+      <item>
+        <title>Inconsistency with &quot;Unhealable&quot;</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Hence example 2 which is the one I REALLY want to know about.</p>
+          <p><a href="https://forum.throneoflies.com/t/inconsistency-with-unhealable/73791/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/inconsistency-with-unhealable/73791/6</link>
+        <pubDate>Thu, 15 Nov 2018 04:26:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73791-6</guid>
+        <source url="https://forum.throneoflies.com/t/inconsistency-with-unhealable/73791.rss">Inconsistency with &quot;Unhealable&quot;</source>
+      </item>
+      <item>
+        <title>Inconsistency with &quot;Unhealable&quot;</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>I am trying to determine what actually happens. That sort of thing being a mistake means that other outcomes being emergent rather than hardcoded are more likely</p>
+          <p><a href="https://forum.throneoflies.com/t/inconsistency-with-unhealable/73791/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/inconsistency-with-unhealable/73791/5</link>
+        <pubDate>Thu, 15 Nov 2018 04:26:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73791-5</guid>
+        <source url="https://forum.throneoflies.com/t/inconsistency-with-unhealable/73791.rss">Inconsistency with &quot;Unhealable&quot;</source>
+      </item>
+      <item>
+        <title>Inconsistency with &quot;Unhealable&quot;</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh</p>
+<p>Uh</p>
+<p>Yeah that’s obviously a coding thing</p>
+<p>Probably not intentional</p>
+<p>And the rest makes more sense now lol</p>
+          <p><a href="https://forum.throneoflies.com/t/inconsistency-with-unhealable/73791/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/inconsistency-with-unhealable/73791/4</link>
+        <pubDate>Thu, 15 Nov 2018 04:25:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73791-4</guid>
+        <source url="https://forum.throneoflies.com/t/inconsistency-with-unhealable/73791.rss">Inconsistency with &quot;Unhealable&quot;</source>
+      </item>
+      <item>
+        <title>Inconsistency with &quot;Unhealable&quot;</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>no. The sheriff dies immediately when reap would normally only flip the NEXT day</p>
+          <p><a href="https://forum.throneoflies.com/t/inconsistency-with-unhealable/73791/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/inconsistency-with-unhealable/73791/3</link>
+        <pubDate>Thu, 15 Nov 2018 04:24:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73791-3</guid>
+        <source url="https://forum.throneoflies.com/t/inconsistency-with-unhealable/73791.rss">Inconsistency with &quot;Unhealable&quot;</source>
+      </item>
+      <item>
+        <title>Inconsistency with &quot;Unhealable&quot;</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>Uh</p>
+<p>For example 1</p>
+<p>Are you saying the Phys should get a heal notification but then the Sheriff dies anyways?</p>
+          <p><a href="https://forum.throneoflies.com/t/inconsistency-with-unhealable/73791/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/inconsistency-with-unhealable/73791/2</link>
+        <pubDate>Thu, 15 Nov 2018 04:23:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73791-2</guid>
+        <source url="https://forum.throneoflies.com/t/inconsistency-with-unhealable/73791.rss">Inconsistency with &quot;Unhealable&quot;</source>
+      </item>
+      <item>
+        <title>Inconsistency with &quot;Unhealable&quot;</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Stab = assassin kill with no modifiers unless specified otherwise</p>
+<p>N1: Sheriff is Stabbed, reaped and healed by a physician<br>
+D2: Sheriff is dead</p>
+<p>Thus reap makes the target unhealable rather than just having an unhealable attack</p>
+<p>N3: MM is wolfed<br>
+N4: MM is reaped and healed<br>
+D5: ???</p>
+<p>People are saying the MM should survive even though reap should make him unhealable</p>
+<p>Hypothesis: Attack on immune considered unsuccessful?</p>
+<p>Experiment: Use Possess on MM. If attacks on immunes are considered unsuccessful then he will regain a use</p>
+<p>Result: Possessor does no regain a use on immune targets. Immune targets are not considered failures</p>
+<p>Hypothesis 2: Unhealable attacks only make the target unhealable if the attack kills them</p>
+<p>Experiment:</p>
+<p>D2: Poison Reaper<br>
+N2: RE and heal reaper</p>
+<p>If he still is poisoned D3 then the Hypothesis is correct</p>
+<p>ERROR: Reaper removes poison on consume regardless of heal</p>
+<p>Alternative Experiment:</p>
+<p>D2: Poison Reaper<br>
+N2: RE and heal reaper</p>
+<p>The physician should revive a message about removing poison from the target</p>
+<p>Result: ???</p>
+<p>IF YOU HAVE INFORMATION ON ANY OF THESE PLEASE POST IT HERE. IF YOU HAVEN’T TESTED THIS THEN DON’T ASSUME YOU KNOW THE RESULT</p>
+          <p><a href="https://forum.throneoflies.com/t/inconsistency-with-unhealable/73791/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/inconsistency-with-unhealable/73791/1</link>
+        <pubDate>Thu, 15 Nov 2018 03:15:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73791-1</guid>
+        <source url="https://forum.throneoflies.com/t/inconsistency-with-unhealable/73791.rss">Inconsistency with &quot;Unhealable&quot;</source>
+      </item>
+  </channel>
+</rss>

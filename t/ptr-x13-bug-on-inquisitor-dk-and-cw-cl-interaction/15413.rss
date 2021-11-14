@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>PTR x13 bug on inquisitor, DK and CW/CL interaction</title>
+    <link>https://forum.throneoflies.com/t/ptr-x13-bug-on-inquisitor-dk-and-cw-cl-interaction/15413</link>
+    <description>#### What happened?
+
+[PTR x13]
+ #1 Night2: CW [12] used Tornado on 10 and 12. 10 is Inquisitor. Cult Leader [9] used Eradicate on 2 and 12. Visit on 2 got prevented. 2nd part of Eradicate on 12 did not get redirected to 10 and killed 12.
+#2 Death Knight can &quot;pretend&quot; to accuse players and spam the chat.
+#3 Inquisitor win is shown as Scorned win at the end of the game.
+
+#### What was SUPPOSED to happen?
+
+#1 2nd part of Eradicate should be redirected by Tornado to 10 and 12 will survive.
+#2 No chat msg, when Death Knight tries to accuse someone or DK should be blocked from accusing.
+#3 Inquisitor as a winner.</description>
+    
+    <lastBuildDate>Sat, 18 Nov 2017 20:26:53 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forum.throneoflies.com/t/ptr-x13-bug-on-inquisitor-dk-and-cw-cl-interaction/15413.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>PTR x13 bug on inquisitor, DK and CW/CL interaction</title>
+        <dc:creator><![CDATA[Kisamo]]></dc:creator>
+        <description><![CDATA[
+            <h4>What happened?</h4>
+<p>[PTR x13]<br>
+<span class="hashtag">#1</span> Night2: CW [12] used Tornado on 10 and 12. 10 is Inquisitor. Cult Leader [9] used Eradicate on 2 and 12. Visit on 2 got prevented. 2nd part of Eradicate on 12 did not get redirected to 10 and killed 12.<br>
+<span class="hashtag">#2</span> Death Knight can “pretend” to accuse players and spam the chat.<br>
+<span class="hashtag">#3</span> Inquisitor win is shown as Scorned win at the end of the game.</p>
+<h4>What was SUPPOSED to happen?</h4>
+<p><span class="hashtag">#1</span> 2nd part of Eradicate should be redirected by Tornado to 10 and 12 will survive.<br>
+<span class="hashtag">#2</span> No chat msg, when Death Knight tries to accuse someone or DK should be blocked from accusing.<br>
+<span class="hashtag">#3</span> Inquisitor as a winner.</p>
+          <p><a href="https://forum.throneoflies.com/t/ptr-x13-bug-on-inquisitor-dk-and-cw-cl-interaction/15413/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/ptr-x13-bug-on-inquisitor-dk-and-cw-cl-interaction/15413/1</link>
+        <pubDate>Sat, 18 Nov 2017 20:26:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-15413-1</guid>
+        <source url="https://forum.throneoflies.com/t/ptr-x13-bug-on-inquisitor-dk-and-cw-cl-interaction/15413.rss">PTR x13 bug on inquisitor, DK and CW/CL interaction</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[Outdated] BUG: Stalemate system - No victory awarded when Reaper and Mastermind are last two people alive</title>
+    <link>https://forum.throneoflies.com/t/outdated-bug-stalemate-system-no-victory-awarded-when-reaper-and-mastermind-are-last-two-people-alive/1147</link>
+    <description>**What Happened**
+
+Issue: A mastermind and a reaper with only 1 soul were left as the only 2 players remaining in a game.  Mastermind has nighttime death immunity.  Reaper has conversion immunity.  Neither side could claim victory.  Game kept progressing multiple days and would have gone on infinitely.  Eventually, both players left the game and the game ended in a draw.
+
+**What SHOULD have happened**
+
+Either the game would call for a stalemate draw after X days of no kills, OR, one of the two players would have been credited the victory in a stalemate scenario.  Personally, I would have given victory to the NK (Reaper), since it&#39;s harder to win with Reaper and by being immune to conversion, he counters all of a Mastermind&#39;s capabilities.
+
+**Steps to Reproduce**
+
+Just have a Reaper **WITH ONLY ONE SOUL** and a Mastermind as the last two players in a game.
+
+**Comments**
+
+See the screenshots: this scenario began at around night 6.  Game continued all the way to Day 11 until both players were so bored they just left.
+&lt;img src=&quot;/uploads/default/original/1X/3fa98bb9be58d0feea742f36b355828e805f0e86.jpg&quot; width=&quot;690&quot; height=&quot;388&quot;&gt;&lt;img src=&quot;/uploads/default/original/1X/5886dd43a9ba61237c0e6c9aed50f2a7e5be651a.jpg&quot; width=&quot;690&quot; height=&quot;388&quot;&gt;&lt;img src=&quot;/uploads/default/original/1X/7ed0a1c322be691646a70deefa62650f225271f7.jpg&quot; width=&quot;690&quot; height=&quot;388&quot;&gt;&lt;img src=&quot;/uploads/default/original/1X/3a5abd69a55ea6d9b130a949062c065384ad5f9a.jpg&quot; width=&quot;690&quot; height=&quot;388&quot;&gt;</description>
+    
+    <lastBuildDate>Thu, 31 Aug 2017 02:41:00 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forum.throneoflies.com/t/outdated-bug-stalemate-system-no-victory-awarded-when-reaper-and-mastermind-are-last-two-people-alive/1147.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[Outdated] BUG: Stalemate system - No victory awarded when Reaper and Mastermind are last two people alive</title>
+        <dc:creator><![CDATA[ThePlex]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href="https://forum.throneoflies.com/t/outdated-bug-stalemate-system-no-victory-awarded-when-reaper-and-mastermind-are-last-two-people-alive/1147/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-bug-stalemate-system-no-victory-awarded-when-reaper-and-mastermind-are-last-two-people-alive/1147/2</link>
+        <pubDate>Thu, 31 Aug 2017 02:41:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-1147-2</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-bug-stalemate-system-no-victory-awarded-when-reaper-and-mastermind-are-last-two-people-alive/1147.rss">[Outdated] BUG: Stalemate system - No victory awarded when Reaper and Mastermind are last two people alive</source>
+      </item>
+      <item>
+        <title>[Outdated] BUG: Stalemate system - No victory awarded when Reaper and Mastermind are last two people alive</title>
+        <dc:creator><![CDATA[Malchior]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>What Happened</strong></p>
+<p>Issue: A mastermind and a reaper with only 1 soul were left as the only 2 players remaining in a game.  Mastermind has nighttime death immunity.  Reaper has conversion immunity.  Neither side could claim victory.  Game kept progressing multiple days and would have gone on infinitely.  Eventually, both players left the game and the game ended in a draw.</p>
+<p><strong>What SHOULD have happened</strong></p>
+<p>Either the game would call for a stalemate draw after X days of no kills, OR, one of the two players would have been credited the victory in a stalemate scenario.  Personally, I would have given victory to the NK (Reaper), since it’s harder to win with Reaper and by being immune to conversion, he counters all of a Mastermind’s capabilities.</p>
+<p><strong>Steps to Reproduce</strong></p>
+<p>Just have a Reaper <strong>WITH ONLY ONE SOUL</strong> and a Mastermind as the last two players in a game.</p>
+<p><strong>Comments</strong></p>
+<p>See the screenshots: this scenario began at around night 6.  Game continued all the way to Day 11 until both players were so bored they just left.<br>
+<img src="/uploads/default/original/1X/3fa98bb9be58d0feea742f36b355828e805f0e86.jpg" width="690" height="388"><img src="/uploads/default/original/1X/5886dd43a9ba61237c0e6c9aed50f2a7e5be651a.jpg" width="690" height="388"><img src="/uploads/default/original/1X/7ed0a1c322be691646a70deefa62650f225271f7.jpg" width="690" height="388"><img src="/uploads/default/original/1X/3a5abd69a55ea6d9b130a949062c065384ad5f9a.jpg" width="690" height="388"></p>
+          <p><a href="https://forum.throneoflies.com/t/outdated-bug-stalemate-system-no-victory-awarded-when-reaper-and-mastermind-are-last-two-people-alive/1147/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-bug-stalemate-system-no-victory-awarded-when-reaper-and-mastermind-are-last-two-people-alive/1147/1</link>
+        <pubDate>Sun, 09 Apr 2017 23:55:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-1147-1</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-bug-stalemate-system-no-victory-awarded-when-reaper-and-mastermind-are-last-two-people-alive/1147.rss">[Outdated] BUG: Stalemate system - No victory awarded when Reaper and Mastermind are last two people alive</source>
+      </item>
+  </channel>
+</rss>

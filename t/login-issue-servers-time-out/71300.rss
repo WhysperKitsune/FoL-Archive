@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Login issue: Servers Time Out</title>
+    <link>https://forum.throneoflies.com/t/login-issue-servers-time-out/71300</link>
+    <description>Every time I try to login, I get a &quot;Login Servers Timed Out&quot; message. It had been the same for several months already, using various networks in various countries. Even the &quot;News&amp;Events&quot; won&#39;t load for me. Steam updates the game as intended.</description>
+    
+    <lastBuildDate>Sat, 04 Aug 2018 03:54:43 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forum.throneoflies.com/t/login-issue-servers-time-out/71300.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Login issue: Servers Time Out</title>
+        <dc:creator><![CDATA[Insanity]]></dc:creator>
+        <description><![CDATA[
+            <p>This is copied from discord, hope this could help you.</p>
+<blockquote>
+<p><strong>[Timed Out @ Login Servers? Can’t matchmake? No lobby stats?]</strong></p>
+</blockquote>
+<ol start="0">
+<li>
+<p><strong>Live in Russia?</strong> Your gov’t may have blocked our game servers: Type <code>?vpn</code> and stop following these instructions.</p>
+</li>
+<li>
+<p>Quit out of steam fully. Then run it as administrator.</p>
+</li>
+<li>
+<p>After launching steam, (assuming you’re using Windows), open CMD and type in the following commands:</p>
+</li>
+</ol>
+<pre><code class="lang-auto">ipconfig /release
+</code></pre>
+<p>&gt;&gt; This will release your IP from your router (internet will not work for now)</p>
+<ol start="3">
+<li>Type:</li>
+</ol>
+<pre><code class="lang-auto">ipconfig /renew
+</code></pre>
+<p>&gt;&gt; This will assign a new IP from your router (internet will work)</p>
+<ol start="4">
+<li>Type:</li>
+</ol>
+<pre><code class="lang-auto">ipconfig /flushdns
+</code></pre>
+<p>&gt;&gt; This will flush DNS; helps with an overflow of packets.</p>
+<p><strong>Still not working?</strong></p>
+<p>Can you connect here? <a href="http://portquiz.net:5058/" rel="noopener nofollow ugc">http://portquiz.net:5058/</a></p>
+<p>Can you connect here? <a href="https://api.throneoflies.com/">https://api.throneoflies.com/</a> *</p>
+<p>^ If you couldn’t connect to either of these, it’s 100% your firewall/network security issue.</p>
+<p>Try temporarily disabling your firewall (+other network security) and trying again.</p>
+<p>If it works, it means your firewall may be too strong and forgot to click the ‘Allow’ button when you first launched the game.</p>
+<p>Are you on campus? Maybe some ports are blocked.</p>
+<p><em>Common</em> (but not all) timeout issues seem to be an issue with your own firewall/network security settings set too high.</p>
+<p>Full list of ports here: <a href="https://doc.photonengine.com/en/realtime/current/reference/tcp-and-udp-port-numbers" class="inline-onebox-loading" rel="noopener nofollow ugc">https://doc.photonengine.com/en/realtime/current/reference/tcp-and-udp-port-numbers</a></p>
+<p><strong>LAST RESORT</strong><br>
+&gt; [Windows] download ‘psping’ from Microsoft site: <a href="https://docs.microsoft.com/en-us/sysinternals/downloads/psping" class="inline-onebox-loading" rel="noopener nofollow ugc">https://docs.microsoft.com/en-us/sysinternals/downloads/psping</a><br>
+&gt; Drag the files into /windows/system32<br>
+&gt; Start menu, Run, type <code>psping ns.exitgames.com:80</code> and send us your results.</p>
+          <p><a href="https://forum.throneoflies.com/t/login-issue-servers-time-out/71300/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/login-issue-servers-time-out/71300/11</link>
+        <pubDate>Sat, 04 Aug 2018 03:54:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71300-11</guid>
+        <source url="https://forum.throneoflies.com/t/login-issue-servers-time-out/71300.rss">Login issue: Servers Time Out</source>
+      </item>
+      <item>
+        <title>Login issue: Servers Time Out</title>
+        <dc:creator><![CDATA[aakurb]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah, Steam updates it regularly.</p>
+          <p><a href="https://forum.throneoflies.com/t/login-issue-servers-time-out/71300/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/login-issue-servers-time-out/71300/10</link>
+        <pubDate>Fri, 03 Aug 2018 23:15:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71300-10</guid>
+        <source url="https://forum.throneoflies.com/t/login-issue-servers-time-out/71300.rss">Login issue: Servers Time Out</source>
+      </item>
+      <item>
+        <title>Login issue: Servers Time Out</title>
+        <dc:creator><![CDATA[Moleland]]></dc:creator>
+        <description><![CDATA[
+            <p>Do you have the game up to date?</p>
+          <p><a href="https://forum.throneoflies.com/t/login-issue-servers-time-out/71300/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/login-issue-servers-time-out/71300/9</link>
+        <pubDate>Fri, 03 Aug 2018 22:40:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71300-9</guid>
+        <source url="https://forum.throneoflies.com/t/login-issue-servers-time-out/71300.rss">Login issue: Servers Time Out</source>
+      </item>
+      <item>
+        <title>Login issue: Servers Time Out</title>
+        <dc:creator><![CDATA[Captain]]></dc:creator>
+        <description><![CDATA[
+            <p>I think you should join discord and ask the devs.I don’t know answer but prob they do</p>
+          <p><a href="https://forum.throneoflies.com/t/login-issue-servers-time-out/71300/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/login-issue-servers-time-out/71300/8</link>
+        <pubDate>Fri, 03 Aug 2018 21:40:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71300-8</guid>
+        <source url="https://forum.throneoflies.com/t/login-issue-servers-time-out/71300.rss">Login issue: Servers Time Out</source>
+      </item>
+      <item>
+        <title>Login issue: Servers Time Out</title>
+        <dc:creator><![CDATA[aakurb]]></dc:creator>
+        <description><![CDATA[
+            <p>I live in France and it’s not working here either.</p>
+          <p><a href="https://forum.throneoflies.com/t/login-issue-servers-time-out/71300/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/login-issue-servers-time-out/71300/7</link>
+        <pubDate>Fri, 03 Aug 2018 21:20:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71300-7</guid>
+        <source url="https://forum.throneoflies.com/t/login-issue-servers-time-out/71300.rss">Login issue: Servers Time Out</source>
+      </item>
+      <item>
+        <title>Login issue: Servers Time Out</title>
+        <dc:creator><![CDATA[Captain]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah and I would like to say I heard Russia blocked most sites.That can be reason.It was adviced that Russians should use vpn.</p>
+          <p><a href="https://forum.throneoflies.com/t/login-issue-servers-time-out/71300/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/login-issue-servers-time-out/71300/6</link>
+        <pubDate>Fri, 03 Aug 2018 21:05:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71300-6</guid>
+        <source url="https://forum.throneoflies.com/t/login-issue-servers-time-out/71300.rss">Login issue: Servers Time Out</source>
+      </item>
+      <item>
+        <title>Login issue: Servers Time Out</title>
+        <dc:creator><![CDATA[Captain]]></dc:creator>
+        <description><![CDATA[
+            <p>Maybe he is Russian but he is traveling so he is not in Russia <img src="/images/emoji/twitter/rofl.png?v=9" title=":rofl:" class="emoji" alt=":rofl:"></p>
+          <p><a href="https://forum.throneoflies.com/t/login-issue-servers-time-out/71300/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/login-issue-servers-time-out/71300/5</link>
+        <pubDate>Fri, 03 Aug 2018 21:04:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71300-5</guid>
+        <source url="https://forum.throneoflies.com/t/login-issue-servers-time-out/71300.rss">Login issue: Servers Time Out</source>
+      </item>
+      <item>
+        <title>Login issue: Servers Time Out</title>
+        <dc:creator><![CDATA[Twil1ight]]></dc:creator>
+        <description><![CDATA[
+            <p>Anyone there were bunch off posts about this issue. Unfortunately I can’t find it but I swear there was something about it. <img src="/images/emoji/twitter/confused.png?v=9" title=":confused:" class="emoji" alt=":confused:"><br>
+You can try to report in Thrones Of Lies Discord.</p>
+          <p><a href="https://forum.throneoflies.com/t/login-issue-servers-time-out/71300/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/login-issue-servers-time-out/71300/4</link>
+        <pubDate>Fri, 03 Aug 2018 21:04:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71300-4</guid>
+        <source url="https://forum.throneoflies.com/t/login-issue-servers-time-out/71300.rss">Login issue: Servers Time Out</source>
+      </item>
+      <item>
+        <title>Login issue: Servers Time Out</title>
+        <dc:creator><![CDATA[Twil1ight]]></dc:creator>
+        <description><![CDATA[
+            <p>“Do you live in Russia?”</p>
+<p><em>sees Russian Flag</em></p>
+<p>Boi.</p>
+          <p><a href="https://forum.throneoflies.com/t/login-issue-servers-time-out/71300/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/login-issue-servers-time-out/71300/3</link>
+        <pubDate>Fri, 03 Aug 2018 20:59:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71300-3</guid>
+        <source url="https://forum.throneoflies.com/t/login-issue-servers-time-out/71300.rss">Login issue: Servers Time Out</source>
+      </item>
+      <item>
+        <title>Login issue: Servers Time Out</title>
+        <dc:creator><![CDATA[Captain]]></dc:creator>
+        <description><![CDATA[
+            <p>Do you live in Russia ? That is important question as i heard.</p>
+          <p><a href="https://forum.throneoflies.com/t/login-issue-servers-time-out/71300/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/login-issue-servers-time-out/71300/2</link>
+        <pubDate>Fri, 03 Aug 2018 20:40:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71300-2</guid>
+        <source url="https://forum.throneoflies.com/t/login-issue-servers-time-out/71300.rss">Login issue: Servers Time Out</source>
+      </item>
+      <item>
+        <title>Login issue: Servers Time Out</title>
+        <dc:creator><![CDATA[aakurb]]></dc:creator>
+        <description><![CDATA[
+            <p>Every time I try to login, I get a “Login Servers Timed Out” message. It had been the same for several months already, using various networks in various countries. Even the “News&amp;Events” won’t load for me. Steam updates the game as intended.</p>
+          <p><a href="https://forum.throneoflies.com/t/login-issue-servers-time-out/71300/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/login-issue-servers-time-out/71300/1</link>
+        <pubDate>Fri, 03 Aug 2018 18:31:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-71300-1</guid>
+        <source url="https://forum.throneoflies.com/t/login-issue-servers-time-out/71300.rss">Login issue: Servers Time Out</source>
+      </item>
+  </channel>
+</rss>

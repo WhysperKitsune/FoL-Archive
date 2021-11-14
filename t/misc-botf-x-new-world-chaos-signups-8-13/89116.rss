@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[Misc] BotF X - New World Chaos - Signups (8/13)</title>
+    <link>https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116</link>
+    <description>*Going to the police was a mistake. A shifty figure has been following you for blocks, and you swear people on the street are taking notes as you pass by. You hide around a corner waiting for an ambush, only to see that shifty figure speeding off in an Aston Martin. An old war buddy calls in a favor to look up the license, and... no. No no no no no, how high does this go? The Reds don&#39;t have this kind of influence, not yet, who&#39;s behind this? That&#39;s when you hear the knock.*
+&lt;small&gt;credit to besjbo for the above flavor&lt;/small&gt;
+
+# Welcome to New World Chaos! Hosted by @EliThePsycho and @CRichard564 
+# THIS SCRIPT IS NOT MY OWN (made by Besjbo). I DO NOT CLAIM TO HAVE MADE THIS SCRIPT.
+# THIS SCRIPT IS ALSO A HOMEBREW SCRIPT, MEANING IT IS NOT MADE USING OFFICIAL CLOCKTOWER CHARACTERS.
+# Please read the below spoilers for information on how to play the game!
+[details=&quot;Character List&quot;]
+Character just means role; the character types are Townsfolk, Outsider, Minion, and Demon.
+Townsfolk and Outsiders are good-aligned to start, Minions and the Demon are evil-aligned to start.  There are no neutral parties in Ravenswood Bluff.
+[Brackets] denote abilities upon setup; for example, if it says [+1 Outsider], then I replace 1 Townsfolk with 1 Outsider.
+
+# [color=steblue]Townsfolk[/color]
+[color=steblue]**Wiretap**[/color] - You are 1 of 2 wiretap characters, but do not know which.
+* **Domestic Wiretap** - You start knowing two allied players. When they both die, you learn their characters tonight.
+* **Foreign Wiretap** - You start knowing two opposing players. When you die, you learn the Evil character tonight.
+
+[color=steblue]**Double Agent**[/color] - The Demon sees you instead of a Minion. That Minion recieves no starting information.
+[color=steblue]**Sleeper**[/color] - You think you are an in-play Minion, and neither of you recieve starting information. If you are &quot;mad&quot; about being the Sleeper, you learn the in-play Demon tonight.
+[color=steblue]**Jurist**[/color] - Each night, choose a player and learn their character. Good living players register falsely to you.
+[color=steblue]**Freelancer**[/color] - Each night, choose a Good character. You learn that it is 1 of 2 players, if in play. If not in play, you recieve arbitrary info tonight.
+[color=steblue]**Blacklister**[/color] - Each night (but not the first), choose a character (not yours, not a Traveller). You learn its nearest Evil character, if in play. If not in play, you recieve arbitrary info tonight.
+[color=steblue]**Black Ops**[/color] - Each night (but not the first), you learn if you whispered the Demon today.
+[color=steblue]**Populist**[/color] - Each night (but not the first), you learn a character who was &quot;mad&quot; about being the Populist today.
+[color=steblue]**Diplomat**[/color] - Each day, you may whisper the storyteller with two other players (not Travellers, different from yesterday) &amp; broker a deal between them. If either player breaks the deal, they malfunction until dawn.
+[color=steblue]**Eavesdropper**[/color] - Each day, you may visit the Storyteller to learn something about each player you whispered today, in no particular order.
+[color=steblue]**Symbologist**[/color] - You have 3 Townsfolk abilities, but 1 malfunctions. You also register as the functioning Townsfolk.
+[color=steblue]**Truther**[/color] - If you die at night, choose a character and learn all players with that character.
+[color=steblue]**Ambassador**[/color] - You are immune to all abilities and do not count towards the number of living players. One Good player starts knowing the Ambassador is in play.
+# [color=steblue]Outsiders[/color]
+[color=steblue]**Libertine**[/color] - You start holding a Drunk character token. Each night (but not the first), it moves to a player the holder whispered today. You think you are a Townsfolk until the Drunk token moves.
+* The Drunk character is an Outsider with the ability “You do not know you are the Drunk. You
+think you are a Townsfolk, but your ability malfunctions.” It cannot start in play. Note that the Demon is still the Demon, even if they are holding this token.
+
+[color=steblue]**Activist**[/color] - Each night (but not the first), a player dies unless a living player was &quot;mad&quot; about being the Activist today (even if you are dead.)
+[color=steblue]**MAD-Man**[/color] - Each night, choose another living player (not a Traveler) to hold the football. If the holder is executed, you drop The Bomb and lose (even if dead).
+[color=steblue]**Sympathizer**[/color] - A Townsfolk is Evil and registers as a Defector, but does not know. You have their ability, and the Demon knows them.
+* &quot;Defector&quot; is a character. (Ex: Jurist can see somebody as a Defector). It doesn&#39;t actually have any ability, because you can only register as one, and it cannot be in-play.
+# [color=red]Minions[/color]
+[color=red]**Agitprop**[/color] - - Each night, choose a player and a statement. Tomorrow, if that player is “mad” about denying that statement, they might be executed. 
+[color=red]**Templar**[/color] - If you nominate a Good player you did not whisper today and they are executed, Evil wins.
+[color=red]**Chairman**[/color] - Once per game at night (but not the first), choose an Outsider player: they swap characters and alignments with the Demon. [+1 Outsider]
+[color=red]**Brainwasher**[/color] - Townsfolk might recieve the incorrect character in setup (their abilities work normally).
+# [color=red]Demons[/color]
+[color=red]**Comitern**[/color] -  Each Comintern knows one other Comintern. Each night (but not the first), a Comintern might die. Evil wins only when all Good players are dead. You register as a Minion too. [Most players are Comintern] 
+[color=red]**Draconis**[/color] - Each night (but not the first), choose a character: if in play, that player dies and an Evil player becomes their character. If not in play, a player dies.
+[color=red]**Seclorum**[/color] - Each night (but not the first), you learn the character of everyone you whispered today, then choose a player: they die.
+[color=red]**Kabal**[/color] - Each night (but not the first), choose a player: they die. If you win, if an Outsider was most responsible for their team losing, they switch teams and win with you. [+1 Outsider]
+[/details]
+[details=&quot;Travellers&quot;]
+Travelers are special and powerful characters with different rules than normal citizens.
+
+1. **Traveler characters are publicly known.** If a player joins the game as the United Nations, for example, everyone knows that they are the United Nations.
+2. **Traveler alignments are unknown.** Because Traveler characters are known, the question regarding them becomes which side they’re playing for. Travelers are more likely to be good than evil; general practice is that one in three Travelers is evil, but it is possible for there to be only one Traveler in a game and that Traveler to be evil. Evil Travelers will be told who the Demon is when they enter play; Good Travelers will be told nothing. The Demon and Minions will not be told if a Traveler is good or evil.
+Note that if the Comitern is in play, Evil Travellers will only be told so, and will not be told any Comitern.
+3. **Traveler players may join or leave the game at any time.** This game is designed for live play, and the Travelers are designed to accommodate players who arrive late or must leave early. If you would like to play, but cannot join at game start or do not think that you can stay around for the end of the game, then you may consider playing as a Traveler character instead of a normal citizen. However, I will not allow Traveler players to sub out (since the nature of their character is designed for them to simply leave if they cannot play), and if a Traveler player has left the game, they may not rejoin later. I will additionally ask that players who would consider joining as Travelers after the game has started notify me of this before the start of the game; I will compile a list of these potential Travelers and people not on this list by the start of the game will not be allowed to join as a Traveler. If a player wishes to join an in-progress game as a Traveler, I may bar them from choosing certain characters.
+4. **Travelers with a night ability act before any citizens.** Their abilities will be resolved absolutely first.
+5. **Travelers are not executed; they are exiled.** An exile is different from an execution in a few key ways.
+-An exile is not considered an execution, meaning that a game can see the exile of a Traveler and an execution in the same day.
+-An exile is not affected by any abilities affecting nomination, voting or execution.
+-An exile may be called for at any time, by anyone, even if that player is presently unable to nominate, and a player who calls for the exile of a Traveler may still nominate if they have not already.
+-Dead players may vote on the exile of a Traveler, and they do not spend their ghost vote to do so.
+-And finally, a simple majority vote is all that is required to exile a Traveler. However, I will houserule that no more than one exile may occur per day. 
+[/details]
+
+[details=&quot;Traveller Characters&quot;]
+**[color=steblue]Presi[/color][color=red]dent[/color]** - You may privately veto your exile unless the majority of 3 different character types voted for your exile.
+**[color=steblue]Celeb[/color][color=red]rity[/color]** - Each night (but not the first), until dusk, a player who was &quot;mad&quot; about everything you said today acts twice.
+**[color=steblue]Inter[/color][color=red]pol[/color]** - If the player you nominate is executed, everyone you whispered today may visit the Storyteller tommorow to learn something about that player.
+**[color=steblue]United[/color] [color=red]Nations[/color]** - If all living players vote to ratify you, you run nominations from now on, and you may change the nomination and voting rules, excepte on yourself.
+**[color=steblue]Spym[/color][color=red]aster[/color]** - Each day, choose a player: if they agree, you learn their character tonight, then their character changes.
+[/details]
+
+[details=&quot;Town Composition&quot;]
+This game is designed for a variable number of players, and thus the composition of the game is able to change depending on how many players join. The following list denotes the composition of the game at each possible player count.
+
+Total Players: Townsfolk/Outsiders/Minions/Demons
+
+5: 3/0/1/1
+6: 3/1/1/1
+7: 5/0/1/1
+8: 5/1/1/1
+9: 5/2/1/1
+10: 7/0/2/1
+11: 7/1/2/1
+12: 7/2/2/1
+
+Every character in-game is unique in that more than one of the same character will never appear at the start of the game (there can never be two Wiretaps at the start, for example).
+[/details]
+[details=&quot;Phase Length&quot;]
+Each day phase will last for no longer than 48 hours.
+
+12 hours: Discussion phase. Nominations may not be cast at this time.
+24 hours: Nomination phase. Players who wish to nominate may do so at this time, **and votes may begun to be cast during this time as well.**
+12 hours: Vote finalization. During this time, votes may be cast freely on any existing nomination, but no new nominations may be made. Once this time ends or all votes have been locked in, the day will resolve.
+
+The night phase will last for 24 hours, or until all abilities have been performed and resolved.
+[/details]
+
+
+
+[details=&quot;The Storyteller&quot;]
+Storyteller
+
+The Storyteller is the key moderator for the game; All ability uses at night must be sent to the Storyteller via private message, and Storyteller will have the final say on any open-ended ability behaviors. Storyteller’s goal is to keep the game both fun and balanced, and they’ll often be trying to make it last as long as possible; however, the Storyteller may not alter any existing rules to accomplish this.
+Also, the thing the Storyteller uses to keep track of things is called the Grimoire. It&#39;s basically the spreadsheet.
+[/details]
+[details=&quot;The Fabled&quot;]
+The Fabled aren’t really characters so much as special modifiers that the Storyteller can put in play to tweak the game. For example, the Angel can be put into play to help keep newer players from being targeted, or the Buddhist can be put into play to keep the more experienced players from dominating the discussion. Fabled will always be announced when they are in play, along with their effect upon gamestate. A breakdown of Fabled characters we may be using can be found below.
+
+[color=gold]**Angel**[/color] : Something bad might happen to whomever is most responsible for the death of a new player.
+[color=gold]**Buddhist**[/color] : Veteran players may not speak for the first six hours of the day phase.
+[color=gold]**Hell’s Librarian**[/color] : Something bad might happen to whomever speaks when the Storyteller calls for silence.
+[color=gold]**Fiddler**[/color]: Once per game, at night, the Demon secretly chooses a player of an opposing alignment; All players then choose which of these two wins the game.
+[color=gold]**Deus Ex Fiasco**[/color]: Once per game, the storyteller will make a mistake, correct it and publicly admit to it.
+
+If you want any of these added, ping me in signup thread (before game) or in classcard (during game).
+[/details]
+
+[details=&quot;The Bomb (IMPORTANT, PLEASE READ)&quot;]
+[color=maroon]**The Bomb**[/color] is a fabled character that is always in play this game. It reads:
+
+**If two players (dead or alive) agree to drop the bomb, and at least one is Good, Evil wins. If Comintern is in play, Good wins instead. If both are Evil, Good wins.**
+(Note that Kabal cannot make an outsider switch teams via dropping the Bomb.)
+
+The only reason to ever drop **[color=maroon]The Bomb[/color]** as Good is if you believe Comitern is in play. 
+**I will prevent any attempts to drop [color=maroon]The Bomb[/color] out of intent to gamethrow.**
+Also, if necessary, I will timegate **[color=maroon]The Bomb[/color]** to a certain day, depending on playercount.
+
+If you want to drop [color=maroon]**The Bomb**[/color], do it like this:
+
+**I would like to drop [color=maroon]**The Bomb**[/color] with @[name] @EliThePsycho @CRichard564**
+then both of you will either say
+**I turn the key @EliThePsycho @CRichard564** (if both players do this, [color=maroon]**The Bomb**[/color] will be dropped)
+or
+**I do not turn the key @EliThePsycho @CRichard564** (if at least one player does this, [color=maroon]**The Bomb**[/color] will not be dropped)
+[/details]
+
+[details=&quot;Scum Info&quot;]
+On the first night of the game, when relatively few characters act, the evil characters will all be woken to learn who one another are. Evil players will not be allowed to communicate at night. The Demon will be told who all of their Minions are, and the Minions will know who the Demon is and who all of the other Minions are. However, the Minions and the Demon will not learn which specific characters any of their fellow evils are. The Demon will additionally be told three characters that are not in play, to serve as safe claims. They may claim any of these, none of these, or simply hand the claims off to Minions; however they think they will be best served.
+[/details]
+[details=&quot;Malfunctioning &amp; Registration&quot;]
+
+The primary source of interference with abilities in this game is the malfunction. A class that is malfunctioning is not told that they are malfunctioning; if the class is one that gathers information, then the information they receive that night is arbitrary (open-ended, Storyteller may resolve at their discretion), otherwise, the malfunctioning class’ ability simply does not have any effect.
+
+You may also see experienced players refer to malfunctioning as &quot;drunkness&quot;, &quot;poisoning&quot;, or &quot;droison&quot;.
+
+Registration causes a player to &quot;appear&quot; a certain way (for most purposes). For example, if the Jurist picks a good living player, then they learn something they are not. If you pick a character that the Symbologist has a functioning ability of, then you can learn the Symbologist, etc etc etc.
+[/details]
+
+[details=&quot;Madness&quot;]
+Certain character abilities in this script reference a status known as “madness”. What madness means, in the simplest terms, is that when a player is “mad” about something, they are trying to convince the other players that it is true, even if it is not (especially if it is not). Ultimately, the Storyteller is the one who judges whether the “mad” player’s efforts are sufficient to avoid punishment (or to obtain a reward!), but this allows the Storyteller to be more lenient toward players who are unfamiliar with the concept, and by the same token, to expect more from an experienced player.
+[/details]
+
+[details=&quot;Nominations and Voting&quot;]
+Voting in this game works a little differently. After the formal discussion phase has ended, the Storyteller will declare that nominations are opened. A player must be nominated before they can be voted on. Each player may only be nominated once per day, and each player may only nominate once per day. When a nomination is opened, the storyteller will begin to count votes. Votes may be precast, and may be altered so long as they are considered not to be locked in. A vote is locked in when everyone between the accused and the voter (going down the list from the accused) has locked in their vote, or once the day ends, assuming that not all votes on the nomination have been cast. Any votes that are not counted at EoD will be considered votes to pardon. If the count of votes to execute is more than half of the number of living players, and is the highest count of votes against any player that day, the accused will be considered “about to die”. At the end of the day or when all votes on all nominations have been cast, the player who is “about to die” will be executed. There isn’t such a thing as a quickhammer around here; we’re a little more careful with what we do.
+[/details]
+[details=&quot;Whispers (DIFFERENT THAN NORMAL, PLEASE READ)&quot;]
+Players may whisper each other in-game through private messages. Whispers must, however, be publicly announced, typically by requesting permission to whisper (a standard format is /whisper [Player]). Once a whisper has been declared and accepted, the two players may whisper via private message until one of them speaks publicly in the game chat, at which point the whisper is considered over and the players must declare whispers again if they wish to whisper publicly. 
+
+Additionally, you may send up to 15 words to your neighbors without having to announce a whisper. **These do not count as a whisper for the purposes of abilities.**
+[/details]
+[details=&quot;Death&quot;]
+When a player dies, nothing is revealed about their character and they are allowed to stay in the game and speak. They may not nominate and they will have only one vote token (this will allow them to cast a vote to execute) for the entire game. Evil players who die may thus continue to help their allies by keeping up their claim and spreading misinformation, and good players may similarly help their allies by retaining relevant info that others may have forgotten in the heat of things. Once a player dies, their ability stops working, which means that a player killed before they would perform their ability will not perform their ability, and any ability with a persistent effect will end upon the player’s death.
+[/details]
+[details=&quot;Victory&quot;]
+Good wins by eliminating all Demons (you don’t need to kill Minions to win). Evil wins by reducing the game to two living players (even if both players are good). The Storyteller may also declare a victory for Evil if Good may no longer possibly win (for example, if only evil players are left alive and thus no one would nominate the Demon). Certain character abilities may present alternate routes to victory; these classes, if able to appear, will be made known on the character list. In the event of a tie (both teams would win at the same time), Good wins.
+[/details]
+
+# I am capping this game at 12 players, not including Travellers. Additionally, I will not be accepting travellers unless there is 9 residents.
+# Playerlist; just ping me and my cohost with /in and the seat you want (yes, we let you choose). 
+1. 
+1. Magnus
+1. Firekitten
+1. clonedcheese
+1. Icibalus (**[color=steblue]Celeb[/color][color=red]rity[/color]**)
+1. Nightingale
+1. Leafia
+1. PKR
+1.
+1.
+1.
+1. Atlas
+13.
+
+# Backups
+
+1. Blitz
+1. 
+# Spectators (informed)
+
+1. DatBird
+1.
+# If you have *any* questions, feel free to ask in your card. We are here to help.</description>
+    
+    <lastBuildDate>Tue, 14 Sep 2021 00:00:07 +0000</lastBuildDate>
+    <category>Signups</category>
+    <atom:link href="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[Misc] BotF X - New World Chaos - Signups (8/13)</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p>Imagine thinking I care about threadlock</p>
+<p><strong>/backup</strong> <a class="mention" href="/u/elithepsycho">@EliThePsycho</a></p>
+          <p><a href="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/522">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/522</link>
+        <pubDate>Tue, 14 Sep 2021 00:00:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-89116-522</guid>
+        <source url="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116.rss">[Misc] BotF X - New World Chaos - Signups (8/13)</source>
+      </item>
+      <item>
+        <title>[Misc] BotF X - New World Chaos - Signups (8/13)</title>
+        <dc:creator><![CDATA[Chloe]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/521">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/521</link>
+        <pubDate>Mon, 13 Sep 2021 22:35:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-89116-521</guid>
+        <source url="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116.rss">[Misc] BotF X - New World Chaos - Signups (8/13)</source>
+      </item>
+      <item>
+        <title>[Misc] BotF X - New World Chaos - Signups (8/13)</title>
+        <dc:creator><![CDATA[EliThePsycho]]></dc:creator>
+        <description><![CDATA[
+            <p><span class="mention">@mods</span> lock thread or lloser</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/520">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/520</link>
+        <pubDate>Mon, 13 Sep 2021 22:27:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-89116-520</guid>
+        <source url="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116.rss">[Misc] BotF X - New World Chaos - Signups (8/13)</source>
+      </item>
+      <item>
+        <title>[Misc] BotF X - New World Chaos - Signups (8/13)</title>
+        <dc:creator><![CDATA[EliThePsycho]]></dc:creator>
+        <description><![CDATA[
+            <h1>
+<a name="so-you-remember-when-i-said-1" class="anchor" href="#so-you-remember-when-i-said-1"></a>so you remember when i said</h1>
+<aside class="quote no-group" data-username="EliThePsycho" data-post="494" data-topic="89116">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/elithepsycho/40/40875_2.png" class="avatar"> EliThePsycho:</div>
+<blockquote>
+<p>or maybe monday</p>
+</blockquote>
+</aside>
+<h1>
+<a name="i-dont-think-anybody-is-on-the-fence-about-joining-so-2" class="anchor" href="#i-dont-think-anybody-is-on-the-fence-about-joining-so-2"></a>i don’t think anybody is on the fence about joining, so</h1>
+<h1>
+<a name="rand-rand-rand-3" class="anchor" href="#rand-rand-rand-3"></a>RAND! RAND! RAND!</h1>
+<p><small>if you have an objection you better object within the next 10 minutes</small></p>
+          <p><a href="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/519">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/519</link>
+        <pubDate>Mon, 13 Sep 2021 22:15:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-89116-519</guid>
+        <source url="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116.rss">[Misc] BotF X - New World Chaos - Signups (8/13)</source>
+      </item>
+      <item>
+        <title>[Misc] BotF X - New World Chaos - Signups (8/13)</title>
+        <dc:creator><![CDATA[Intensify]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Nightingale" data-post="506" data-topic="89116">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/nightingale/40/42157_2.png" class="avatar"> Nightingale:</div>
+<blockquote>
+<p>The Man Behind the Man</p>
+</blockquote>
+</aside>
+<p><font color="purple"><strong>THE MAN BEHIND THE SLAUGHTER</strong></font></p>
+          <p><a href="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/518">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/518</link>
+        <pubDate>Mon, 13 Sep 2021 21:56:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-89116-518</guid>
+        <source url="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116.rss">[Misc] BotF X - New World Chaos - Signups (8/13)</source>
+      </item>
+      <item>
+        <title>[Misc] BotF X - New World Chaos - Signups (8/13)</title>
+        <dc:creator><![CDATA[EliThePsycho]]></dc:creator>
+        <description><![CDATA[
+            <p>it doesn’t work<br>
+this game sucks<br>
+<img src="https://forum.throneoflies.com/uploads/default/original/3X/3/d/3d52630292ec78cee2ad54257b0509406896b927.png" alt="image" data-base62-sha1="8KtDArnEalx7E3oSyZJdXTDTijJ" width="195" height="142"></p>
+          <p><a href="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/517">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/517</link>
+        <pubDate>Mon, 13 Sep 2021 21:29:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-89116-517</guid>
+        <source url="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116.rss">[Misc] BotF X - New World Chaos - Signups (8/13)</source>
+      </item>
+      <item>
+        <title>[Misc] BotF X - New World Chaos - Signups (8/13)</title>
+        <dc:creator><![CDATA[EliThePsycho]]></dc:creator>
+        <description><![CDATA[
+            <p>I see<br>
+makes sense</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/516">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/516</link>
+        <pubDate>Mon, 13 Sep 2021 20:52:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-89116-516</guid>
+        <source url="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116.rss">[Misc] BotF X - New World Chaos - Signups (8/13)</source>
+      </item>
+      <item>
+        <title>[Misc] BotF X - New World Chaos - Signups (8/13)</title>
+        <dc:creator><![CDATA[Nightingale]]></dc:creator>
+        <description><![CDATA[
+            <p>its supposed to be the world<br>
+i didnt color it in because i was low-efforting</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/515">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/515</link>
+        <pubDate>Mon, 13 Sep 2021 20:52:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-89116-515</guid>
+        <source url="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116.rss">[Misc] BotF X - New World Chaos - Signups (8/13)</source>
+      </item>
+      <item>
+        <title>[Misc] BotF X - New World Chaos - Signups (8/13)</title>
+        <dc:creator><![CDATA[EliThePsycho]]></dc:creator>
+        <description><![CDATA[
+            <p>nvm I’m holding the Lil Monsta</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/514">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/514</link>
+        <pubDate>Mon, 13 Sep 2021 20:52:17 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-89116-514</guid>
+        <source url="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116.rss">[Misc] BotF X - New World Chaos - Signups (8/13)</source>
+      </item>
+      <item>
+        <title>[Misc] BotF X - New World Chaos - Signups (8/13)</title>
+        <dc:creator><![CDATA[EliThePsycho]]></dc:creator>
+        <description><![CDATA[
+            <p>I cannot tell what I’m holding<br>
+but it is very good and I am going to see if it’s centered as a pfp</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/513">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/513</link>
+        <pubDate>Mon, 13 Sep 2021 20:51:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-89116-513</guid>
+        <source url="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116.rss">[Misc] BotF X - New World Chaos - Signups (8/13)</source>
+      </item>
+      <item>
+        <title>[Misc] BotF X - New World Chaos - Signups (8/13)</title>
+        <dc:creator><![CDATA[Nightingale]]></dc:creator>
+        <description><![CDATA[
+            <p>maybe<br>
+time to draw myself as a populist and post it regardless of what i rand</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/512">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/512</link>
+        <pubDate>Mon, 13 Sep 2021 15:11:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-89116-512</guid>
+        <source url="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116.rss">[Misc] BotF X - New World Chaos - Signups (8/13)</source>
+      </item>
+      <item>
+        <title>[Misc] BotF X - New World Chaos - Signups (8/13)</title>
+        <dc:creator><![CDATA[Atlas]]></dc:creator>
+        <description><![CDATA[
+            <p>so you</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/511">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/511</link>
+        <pubDate>Mon, 13 Sep 2021 15:11:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-89116-511</guid>
+        <source url="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116.rss">[Misc] BotF X - New World Chaos - Signups (8/13)</source>
+      </item>
+      <item>
+        <title>[Misc] BotF X - New World Chaos - Signups (8/13)</title>
+        <dc:creator><![CDATA[Nightingale]]></dc:creator>
+        <description><![CDATA[
+            <p>eli is a demon but he’s hiding behind the person who gets a demon rolecard</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/510">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/510</link>
+        <pubDate>Mon, 13 Sep 2021 15:10:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-89116-510</guid>
+        <source url="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116.rss">[Misc] BotF X - New World Chaos - Signups (8/13)</source>
+      </item>
+      <item>
+        <title>[Misc] BotF X - New World Chaos - Signups (8/13)</title>
+        <dc:creator><![CDATA[Atlas]]></dc:creator>
+        <description><![CDATA[
+            <p>I thought we had to lynch st to win which means he’s the demon</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/509">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/509</link>
+        <pubDate>Mon, 13 Sep 2021 15:10:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-89116-509</guid>
+        <source url="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116.rss">[Misc] BotF X - New World Chaos - Signups (8/13)</source>
+      </item>
+      <item>
+        <title>[Misc] BotF X - New World Chaos - Signups (8/13)</title>
+        <dc:creator><![CDATA[Nightingale]]></dc:creator>
+        <description><![CDATA[
+            <p>the demon, probably<br>
+either that or you<br>
+or maybe both</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/508">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/508</link>
+        <pubDate>Mon, 13 Sep 2021 15:09:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-89116-508</guid>
+        <source url="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116.rss">[Misc] BotF X - New World Chaos - Signups (8/13)</source>
+      </item>
+      <item>
+        <title>[Misc] BotF X - New World Chaos - Signups (8/13)</title>
+        <dc:creator><![CDATA[Atlas]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Nightingale" data-post="506" data-topic="89116">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/nightingale/40/42157_2.png" class="avatar"> Nightingale:</div>
+<blockquote>
+<p>The Man Behind the Man</p>
+</blockquote>
+</aside>
+<p>wheres the other man he’s hiding behind though</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/507">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/507</link>
+        <pubDate>Mon, 13 Sep 2021 15:08:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-89116-507</guid>
+        <source url="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116.rss">[Misc] BotF X - New World Chaos - Signups (8/13)</source>
+      </item>
+      <item>
+        <title>[Misc] BotF X - New World Chaos - Signups (8/13)</title>
+        <dc:creator><![CDATA[Nightingale]]></dc:creator>
+        <description><![CDATA[
+            <p><div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/e/0/e04f22cdd8289ff5b7d07c7d75b5ebdc75bc3434.jpeg" data-download-href="https://forum.throneoflies.com/uploads/default/e04f22cdd8289ff5b7d07c7d75b5ebdc75bc3434" title="image"><img src="https://forum.throneoflies.com/uploads/default/optimized/3X/e/0/e04f22cdd8289ff5b7d07c7d75b5ebdc75bc3434_2_349x500.jpeg" alt="image" data-base62-sha1="w0kv5iCKAA9EKjNjI7JzuHxLsr2" width="349" height="500" srcset="https://forum.throneoflies.com/uploads/default/optimized/3X/e/0/e04f22cdd8289ff5b7d07c7d75b5ebdc75bc3434_2_349x500.jpeg, https://forum.throneoflies.com/uploads/default/optimized/3X/e/0/e04f22cdd8289ff5b7d07c7d75b5ebdc75bc3434_2_523x750.jpeg 1.5x, https://forum.throneoflies.com/uploads/default/optimized/3X/e/0/e04f22cdd8289ff5b7d07c7d75b5ebdc75bc3434_2_698x1000.jpeg 2x" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/e/0/e04f22cdd8289ff5b7d07c7d75b5ebdc75bc3434_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1668×2388 219 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>EliThePsycho - The Man Behind the Man - Fabled</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/506">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/506</link>
+        <pubDate>Mon, 13 Sep 2021 15:01:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-89116-506</guid>
+        <source url="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116.rss">[Misc] BotF X - New World Chaos - Signups (8/13)</source>
+      </item>
+      <item>
+        <title>[Misc] BotF X - New World Chaos - Signups (8/13)</title>
+        <dc:creator><![CDATA[Icibalus]]></dc:creator>
+        <description><![CDATA[
+            <p>it was a trigger for a Hider that was in the setup, which was <em>intended</em> to be its’ only function<br>
+the whole experiment with that setup is that everything actually had quantifiable effects and could only do certain things, but again, my cohost just decided to go against me on that one</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/505">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/505</link>
+        <pubDate>Mon, 13 Sep 2021 13:30:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-89116-505</guid>
+        <source url="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116.rss">[Misc] BotF X - New World Chaos - Signups (8/13)</source>
+      </item>
+      <item>
+        <title>[Misc] BotF X - New World Chaos - Signups (8/13)</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>What did it do</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/504">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/504</link>
+        <pubDate>Mon, 13 Sep 2021 13:25:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-89116-504</guid>
+        <source url="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116.rss">[Misc] BotF X - New World Chaos - Signups (8/13)</source>
+      </item>
+      <item>
+        <title>[Misc] BotF X - New World Chaos - Signups (8/13)</title>
+        <dc:creator><![CDATA[CRichard564]]></dc:creator>
+        <description><![CDATA[
+            <p>Are you joining?</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/503">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/503</link>
+        <pubDate>Mon, 13 Sep 2021 10:31:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-89116-503</guid>
+        <source url="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116.rss">[Misc] BotF X - New World Chaos - Signups (8/13)</source>
+      </item>
+      <item>
+        <title>[Misc] BotF X - New World Chaos - Signups (8/13)</title>
+        <dc:creator><![CDATA[Silviu200530]]></dc:creator>
+        <description><![CDATA[
+            <p>Fines doesn’t make you feel fine</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/502">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/502</link>
+        <pubDate>Mon, 13 Sep 2021 10:12:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-89116-502</guid>
+        <source url="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116.rss">[Misc] BotF X - New World Chaos - Signups (8/13)</source>
+      </item>
+      <item>
+        <title>[Misc] BotF X - New World Chaos - Signups (8/13)</title>
+        <dc:creator><![CDATA[Arctic]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Atlas" data-post="500" data-topic="89116">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/atlas/40/39550_2.png" class="avatar"> Atlas:</div>
+<blockquote>
+<p>what is “cat tax”</p>
+</blockquote>
+</aside>
+<p>feline fine</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/501">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/501</link>
+        <pubDate>Mon, 13 Sep 2021 09:50:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-89116-501</guid>
+        <source url="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116.rss">[Misc] BotF X - New World Chaos - Signups (8/13)</source>
+      </item>
+      <item>
+        <title>[Misc] BotF X - New World Chaos - Signups (8/13)</title>
+        <dc:creator><![CDATA[Atlas]]></dc:creator>
+        <description><![CDATA[
+            <p>what is “cat tax”</p>
+<p>what is going to happen if un gets elected and they institute “cat tax”</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/500">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/500</link>
+        <pubDate>Mon, 13 Sep 2021 04:26:15 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-89116-500</guid>
+        <source url="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116.rss">[Misc] BotF X - New World Chaos - Signups (8/13)</source>
+      </item>
+      <item>
+        <title>[Misc] BotF X - New World Chaos - Signups (8/13)</title>
+        <dc:creator><![CDATA[Nightingale]]></dc:creator>
+        <description><![CDATA[
+            <p>im under the impression that you can’t do rules that you can’t enforce<br>
+like, minions’ nominations dont count is unenforcable because we dont know who the minions are without ST intervention<br>
+while “only people who have payed cat tax publically can vote” is enforcable</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/499">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/499</link>
+        <pubDate>Mon, 13 Sep 2021 04:16:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-89116-499</guid>
+        <source url="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116.rss">[Misc] BotF X - New World Chaos - Signups (8/13)</source>
+      </item>
+      <item>
+        <title>[Misc] BotF X - New World Chaos - Signups (8/13)</title>
+        <dc:creator><![CDATA[GGhana]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Atlas" data-post="406" data-topic="89116">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/atlas/40/39550_2.png" class="avatar"> Atlas:</div>
+<blockquote>
+<p><strong>United Nations</strong> - If all living players vote to ratify you, you run nominations from now on, and you may change the nomination and voting rules, excepte on yourself. Exiling</p>
+</blockquote>
+</aside>
+<p>cant you just ratify them and go “all nominations fail unless you nominate the demon”</p>
+          <p><a href="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/498">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116/498</link>
+        <pubDate>Mon, 13 Sep 2021 02:52:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-89116-498</guid>
+        <source url="https://forum.throneoflies.com/t/misc-botf-x-new-world-chaos-signups-8-13/89116.rss">[Misc] BotF X - New World Chaos - Signups (8/13)</source>
+      </item>
+  </channel>
+</rss>

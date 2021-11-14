@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[Outdated] Undead king bug</title>
+    <link>https://forum.throneoflies.com/t/outdated-undead-king-bug/1083</link>
+    <description>####What happened?
+Dead king came back to life after being voted up as king a second time https://imgur.com/a/q3woe
+
+####What was SUPPOSED to happen?
+The king was supposed to stay dead and another elected
+
+####Steps to reproduce:
+
+1. have 2 people step up as king
+2. vote one
+3. kill the king
+4. the next day it will reappear with the original people
+5. vote the dead king up and he&#39;ll come back to life
+
+
+####Comments:
+
+none</description>
+    
+    <lastBuildDate>Fri, 07 Apr 2017 12:49:46 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forum.throneoflies.com/t/outdated-undead-king-bug/1083.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[Outdated] Undead king bug</title>
+        <dc:creator><![CDATA[ThePlex]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href="https://forum.throneoflies.com/t/outdated-undead-king-bug/1083/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-undead-king-bug/1083/3</link>
+        <pubDate>Thu, 31 Aug 2017 02:44:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-1083-3</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-undead-king-bug/1083.rss">[Outdated] Undead king bug</source>
+      </item>
+      <item>
+        <title>[Outdated] Undead king bug</title>
+        <dc:creator><![CDATA[Malchior]]></dc:creator>
+        <description><![CDATA[
+            <p>I think I understand what happened here after speaking with other people.</p>
+<ol>
+<li>King died, and someone we’ll called Joe died.</li>
+<li>Prompt appears for new king to be chosen.</li>
+<li>Noone of royal blood takes the throne, so chance opens for anyone to take the throne.</li>
+<li>JOE selects to be elected FROM THE GRAVE</li>
+<li>The people vote Joe to be the new King.  He’s resurrected as the new king, but the UI doesn’t adjust to this.  He still shows as dead in the player list.  He still talks in Live chat to the table.</li>
+</ol>
+<p>Expected Results: No prompt to step up to the throne would appear to Joe</p>
+<p>Actual Results: The game didn’t register Joe as dead immediately for King election prompts, UNTIL the table loaded to begin the start of the next day.  As such, when the prompt came up, Joe was able to claim the throne FROM THE GRAVE!</p>
+<p>I’ll try to get a private game of the pre-alpha testers to see if we can test this on our own and reproduce the issue.  That will be later tonight that I attempt this.</p>
+          <p><a href="https://forum.throneoflies.com/t/outdated-undead-king-bug/1083/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-undead-king-bug/1083/2</link>
+        <pubDate>Fri, 07 Apr 2017 12:49:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-1083-2</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-undead-king-bug/1083.rss">[Outdated] Undead king bug</source>
+      </item>
+      <item>
+        <title>[Outdated] Undead king bug</title>
+        <dc:creator><![CDATA[Queen_Alfa]]></dc:creator>
+        <description><![CDATA[
+            <p>###<span class="hashtag">#What</span> happened?<br>
+Dead king came back to life after being voted up as king a second time <a href="https://imgur.com/a/q3woe" class="inline-onebox-loading" rel="noopener nofollow ugc">https://imgur.com/a/q3woe</a></p>
+<p>###<span class="hashtag">#What</span> was SUPPOSED to happen?<br>
+The king was supposed to stay dead and another elected</p>
+<p>###<span class="hashtag">#Steps</span> to reproduce:</p>
+<ol>
+<li>have 2 people step up as king</li>
+<li>vote one</li>
+<li>kill the king</li>
+<li>the next day it will reappear with the original people</li>
+<li>vote the dead king up and he’ll come back to life</li>
+</ol>
+<p>###<span class="hashtag">#Comments:</span></p>
+<p>none</p>
+          <p><a href="https://forum.throneoflies.com/t/outdated-undead-king-bug/1083/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/outdated-undead-king-bug/1083/1</link>
+        <pubDate>Fri, 07 Apr 2017 08:09:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-1083-1</guid>
+        <source url="https://forum.throneoflies.com/t/outdated-undead-king-bug/1083.rss">[Outdated] Undead king bug</source>
+      </item>
+  </channel>
+</rss>

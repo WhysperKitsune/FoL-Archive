@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Clicking Leave in queue when lobby reaches 16 players causes freeze</title>
+    <link>https://forum.throneoflies.com/t/clicking-leave-in-queue-when-lobby-reaches-16-players-causes-freeze/36302</link>
+    <description>#### What happened?
+1. Clicked leave.
+2. The lobby happened to reach 16 players and start the game right as I left the queue.
+3. My game froze, no crash. Did not join the started game or leave the queue.
+#### What was SUPPOSED to happen?
+1. Either I should have left the queue, or the game should have started with me in it, with no freeze.
+
+#### Steps to reproduce:
+Leave a game right as it hits 16 players.
+
+#### Comments:</description>
+    
+    <lastBuildDate>Fri, 12 Jan 2018 09:22:36 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forum.throneoflies.com/t/clicking-leave-in-queue-when-lobby-reaches-16-players-causes-freeze/36302.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Clicking Leave in queue when lobby reaches 16 players causes freeze</title>
+        <dc:creator><![CDATA[rpg711]]></dc:creator>
+        <description><![CDATA[
+            <h4>What happened?</h4>
+<ol>
+<li>Clicked leave.</li>
+<li>The lobby happened to reach 16 players and start the game right as I left the queue.</li>
+<li>My game froze, no crash. Did not join the started game or leave the queue.</li>
+</ol>
+<h4>What was SUPPOSED to happen?</h4>
+<ol>
+<li>Either I should have left the queue, or the game should have started with me in it, with no freeze.</li>
+</ol>
+<h4>Steps to reproduce:</h4>
+<p>Leave a game right as it hits 16 players.</p>
+<h4>Comments:</h4>
+          <p><a href="https://forum.throneoflies.com/t/clicking-leave-in-queue-when-lobby-reaches-16-players-causes-freeze/36302/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/clicking-leave-in-queue-when-lobby-reaches-16-players-causes-freeze/36302/1</link>
+        <pubDate>Fri, 12 Jan 2018 09:22:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-36302-1</guid>
+        <source url="https://forum.throneoflies.com/t/clicking-leave-in-queue-when-lobby-reaches-16-players-causes-freeze/36302.rss">Clicking Leave in queue when lobby reaches 16 players causes freeze</source>
+      </item>
+  </channel>
+</rss>

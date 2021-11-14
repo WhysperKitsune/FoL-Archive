@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>SFoL 64: Duel of the Juggernauts discussion and balance thread</title>
+    <link>https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278</link>
+    <description>## General mechanics:
+* The setup is **open** (all class cards and mechanics are available in the OP); however, the **[color=goldenrod]Hand of Byzantium[/color]** classes are randed. Only the **[color=00A292]Syndicate[/color]** spawns with the same classes and numbers.
+* The **class cap** on **[color=goldenrod]Hand of Byzantium[/color]** classes is **4**, meaning that the same class can&#39;t roll more than 4 times.
+* Executions are both by **majority** and **plurality**, starting **day 1**.
+* The phase lengths are: **48 hour days**, **24 hour nights**. We may change this to **72 hour days** pregame, if enough people want us to do so.
+* There is no **starting King**. **King elections occur on day 2**. Later elections occur **the day after the King dies**.
+* Actions are done by messaging in your class card
+* Only investigative roles and abilities will have feedback (such as being occupied / redirected) unless explicitly stated otherwise.
+*  **[color=00A292]Syndicate[/color]** members will talk through a special Discord server or forum page.
+* Post in classcard what you want on your journal. When you die, the last update to your journal will be revealed to everyone. It has a character limit of 1000 characters.
+* Players should make at least 10 game related posts per day phase. If this cannot be met for a particular reason, the mod should be informed in your role PM. Prods will be sent out in classcards.
+## **The Setup:**
+**27 players** total. 21 **[color=goldenrod]Hand of Byzantium[/color]** (including two unique classes), and 6 **[color=00A292]Syndicate[/color]**. The **[color=00A292]Elder[/color]** is a lost wolf.
+
+1x **[color=goldenrod]Arbiter[/color]**
+1x **[color=goldenrod]Priestess[/color]**
+19x **[color=goldenrod]Random Hand of Byzantium[/color]**
+1x [color = 00A292]**Templar**[/color]
+1x [color = 00A292]**Confessor**[/color]
+1x [color = 00A292]**Harbinger**[/color]
+1x [color = 00A292]**Zealot**[/color]
+1x [color = 00A292]**Archon**[/color]
+1x [color = 00A292]**Elder**[/color]
+## List of classes:
+[details=&quot;Hand of Byzantium&quot;]
+&gt; # [color=goldenrod]The Arbiter[/color] :crossed_swords: :shield:
+&gt;
+&gt;
+&gt;
+&gt; **[color=goldenrod]Hand of Byzantium Special[/color]**
+&gt; **Inside Knowledge (Passive)** - At the start of the first day, you are given the name of another random player who is guaranteed to be a member of the **[color=goldenrod]Hand of Byzantium[/color]**. Additionally, at the start of each day, you will learn which **Reshape Reality** effect the **[color=00A292]Syndicate[/color]** used last night, if any. Revealing any information from this passive within the thread will count as a **claim**, should the **[color=00A292]Syndicate[/color]** notice it.
+&gt; **Tenacity (Passive)** - You are occupation and redirection immune both at night and during the day. You may also use both night abilities at the same time.
+**Entrust (Day)** - Choose a player. You gain a day/night neighborhood chat with that player until your death, at which point the other player will be forcibly removed from the neighborhood. Your target cannot be the player whose name was given to you at the start of the game as part of **Inside Knowledge**. (1 use)
+&gt; **Royal Judgment (Night)** - Learn if a player is a member of the **[color=00A292]Syndicate[/color]**. If they are, you will attack them as well. The attack is regular and does not bypass immunities.
+&gt; **Royal Providence (Night)** - Heal another player, removing bleeding and preventing them from dying tonight. :crown:
+&gt; *Defeat the **[color=00A292]Syndicate[/color]**.*
+
+&gt; # [color=goldenrod]The Priestess[/color] :crossed_swords: :shield:
+&gt;
+&gt;
+&gt;
+&gt; **[color=goldenrod]Hand of Byzantium Special[/color]**
+&gt; **Tenacity (Passive)** - You are occupation and redirection immune both at night and during the day. You may also use both day abilities during the same day (but each of them can only be used once per day).
+**Circle of Worship (Passive)** - You start the game in a neighborhood chat with yourself as the only member. It is called the **Worshipper** neighborhood chat. Everyone in the **Worshipper** neighborhood chat **except you** cannot be targeted by the **[color=00A292]Syndicate[/color]**&#39;s anti-claim mechanics for as long as you are alive. When you die, everyone is ejected from the neighborhood.
+**Invite to Sermons (Day)** - Choose a player. At the start of the night, they will be added to the **Worshipper** neighborhood chat.
+**Cherished Blessing (Day)** - All members of the **Worshipper** neighborhood will be immune to the **[color=00A292]Syndicate[/color]**&#39;s day abilities today (this will not make you immune to anti-claim). (2 uses)
+&gt; **Channel the Fallen (Night)** - Choose a night ability of a dead **[color=goldenrod]Hand of Byzantium[/color]** member. You may use it on any eligible target tonight and it will count as a visit of the dead player instead of yours. However, you cannot use the same player&#39;s ability more than once.
+&gt; **Celestial Protection (Night)** - Unconditionally protect another player from death tonight. This is the only effect which can stop strongman attacks, and it can also be successfully used on the **[color=goldenrod]Arbiter[/color]**. (1 use) :crown: 
+&gt; *Defeat the **[color=00A292]Syndicate[/color]**.*
+
+&gt; # [color=goldenrod]The Actuary[/color]
+&gt;
+&gt;
+&gt;
+&gt; **[color=goldenrod]Hand of Byzantium Investigative[/color]**
+&gt; **Sharp Eyes (Day)** - Choose a player. At the start of the night, if you are still alive, you will be informed if they used any day abilities during the day. (2 uses)
+&gt; **Inventory (Night)** - Choose a player and learn whether they have “more than 2 uses” or “2 or fewer uses” of all their limited-use abilities total.
+&gt; **Check Logs (Night)** - Learn how many abilities a player has successfully used throughout the game. Factional abilities count. (2 uses)
+*Defeat the [color = 00A292]**Syndicate**[/color].*
+
+&gt; # **[color=goldenrod]The Fortuneteller[/color]**
+&gt;
+&gt;
+&gt;
+&gt; **[color=goldenrod]Hand of Byzantium Investigative[/color]**
+&gt; **Numerology (Passive)** - Using **Tarot Card** on **odd** nights gives you information about one additional player, chosen at random -- even from outside the targets you selected.
+&gt; **Shuffle Deck (Night)** - Gain a use of **Tarot Card.**
+&gt; **Tarot Card (Night)** - Choose up to three players other than yourself. At the end of the night, you will learn the class type of up to three of them, at random (with a minimum of one player). Special classes are shown as Investigative. **Tarot Card** does not count as a visit. (0 uses)
+*Defeat the [color = 00A292]**Syndicate**[/color].*
+
+&gt; # [color=goldenrod]The Socialite[/color]
+&gt;
+&gt;
+&gt;
+&gt; **[color=goldenrod]Hand of Byzantium Investigative[/color]**
+&gt; **Royal Blood (Passive)** - Each vote you receive during King elections will count as two.
+&gt; **Guest List (Day)** - At the end of the coming night, you will learn how many players visited you. (2 uses)
+&gt; **Social Links (Night)** - Choose two players. You will learn if they **match**. If their class types are not in the same **grouping** (Killer/Offensive; Support/Social; Special/Investigative), you will receive no match. If their class types are in the same grouping, but still different, you will receive a good match. If their class types are the exact same, you will receive a perfect match.
+&gt; **Faction Links (Night)** - Check if two players have the same alignment. If they do, you will receive a match. If they do not, you will receive no match. Does not bypass framing, godfathers or tailoring. (1 use)
+*Defeat the [color = 00A292]**Syndicate**[/color].*
+
+&gt; # [color=goldenrod]The Watchman[/color]
+&gt;
+&gt;
+&gt;
+&gt; **[color=goldenrod]Hand of Byzantium Investigative[/color]**
+&gt; **Tracking (Day)** - Choose a player. At the end of the coming night, you will learn if they visited someone during that night. (2 uses)
+&gt; **Silent Stalking (Night)** - Learn who a player visits tonight.
+&gt; **Midnight Vigil (Night)** - Learn who visited target player tonight. (2 uses)
+*Defeat the [color = 00A292]**Syndicate**[/color].*
+
+&gt; # **[color=goldenrod]The Coroner[/color]**
+&gt;
+&gt;
+&gt;
+&gt; **[color=goldenrod]Hand of Byzantium Social[/color]**
+&gt; **Grave Focus (Day)** - Target a player. If you successfully use **Exhume** tonight, you will additionally learn whether that player visited target of **Exhume** the night they died. (2 uses)
+&gt; **Exhume (Night)** - Choose a dead player. You will learn the class of the target’s killer. If multiple effects killed the player at the same time, you will learn all of the classes which caused them. If the effect that killed them was a factional ability, you will only be told they were killed by anti-claim or the [color = 00A292]**Syndicate**[/color]’s factional kill. :crown: 
+&gt; **Forensics (Night)** - Choose a dead player. At the end of the night, you will learn all of their visitors throughout the game, but not when they visited that player. Can only be used on players who died on the third night or later. (1 use)
+*Defeat the [color = 00A292]**Syndicate**[/color].*
+
+&gt; # [color=goldenrod]The Crusader[/color]
+&gt;
+&gt;
+&gt;
+&gt; **[color=goldenrod]Hand of Byzantium Killer[/color]**
+&gt; **Providence (Day)** - All [color = 00A292]**Syndicate**[/color] members who attempt to visit you tonight will be prevented and will start bleeding. You cannot use **Hand of God** during the night if you used **Providence** during the day before. (1 use)
+&gt; **Hand of God (Night)** - Guard a player. If a member of the [color = 00A292]**Syndicate**[/color] visits them tonight, you will make them start bleeding without interrupting their action. If more than one member of the **[color = 00A292]Syndicate[/color]** visits them, then you will make one of them bleed at random. :crown: 
+**Deus Vult (Night)** - Attack two players and kill yourself. Even if the ability fails, you are still going to kill yourself. (1 use)
+*Defeat the [color = 00A292]**Syndicate**[/color].*
+
+&gt; # [color=goldenrod]The Duelist[/color]
+&gt;
+&gt;
+&gt;
+&gt; **[color=goldenrod]Hand of Byzantium Killer[/color]**
+&gt; **Royal Blood (Passive)** - Each vote you receive during King elections will count as two.
+&gt; **Schuld (Passive)** - If you kill a member of the **[color=goldenrod]Hand of Byzantium[/color]** with your abilities, all votes you receive in King elections for the remainder of the game will be nullified.
+&gt; **Versetzen (Day)** - You will be night immune tonight. If you block an attack this way, you will gain a use of **Zornhau**. (2 uses)
+&gt; **Mittelhau (Night)** - Redirect a player to yourself, then attack that player. You will be immune to attacks you redirect this way. If you kill a member of the **[color=goldenrod]Hand of Byzantium[/color]** by using this ability, it will become disabled for two nights.
+&gt; **Zornhau (Night)** - Make yourself occupation and redirection immune, then attack a player, bypassing healing and night immunity. (0 uses)
+*Defeat the [color = 00A292]**Syndicate**[/color].*
+
+&gt; # [color=goldenrod]The Thaumaturge[/color]
+&gt;
+&gt;
+&gt;
+&gt; **[color=goldenrod]Hand of Byzantium Killer[/color]**
+&gt; **Thaumaturgic Focus (Passive)** - You are occupation and redirection immune.
+&gt; **Sigil of Inertia (Day)** - Set a Sigil of Inertia on a player. If they attempt to use a day ability today, the Sigil will trigger and they will start bleeding. The bleeding will kill them in two nights, unless they are healed until then. You will be informed when the Sigil triggers. Reusing the ability while a Sigil is still in place will change the player who has the Sigil. The Sigil will not trigger if the target is attacked on the same night you place the Sigil on them. When a Sigil triggers, it is removed from the target and goes on a 1-cycle (day/night) cooldown before you are allowed to use it again.
+&gt; **Sigil of Thunder (Night)** - Set a Sigil of Thunder on a player. If they are attacked, the Sigil will trigger and empower the attack, making it bypass immunity and healing. Can empower the &quot;attack&quot; from Sigil of Fire. You will be informed when the Sigil triggers. Reusing the ability while a Sigil is still in place will change the player who has the Sigil. The Sigil will not trigger if the target is attacked on the same night you place the Sigil on them. When a Sigil triggers, it is removed from the target and goes on a 1-cycle (day/night) cooldown before you are allowed to use it again.
+&gt; **Sigil of Fire (Night)** - Set a Sigil of Fire on a player. If they are attacked, the Sigil will kill the attacker without preventing their actions, and you will be informed (does not bypass night immunity or healing). Reusing the ability while a Sigil is still in place will change the player who has the Sigil. The Sigil will not trigger if the target is attacked on the same night you place the Sigil on them. When a Sigil triggers, it is removed from the target and goes on a 1-cycle (day/night) cooldown before you are allowed to use it again.
+*Defeat the [color = 00A292]**Syndicate**[/color].*
+
+&gt; # [color=goldenrod]The Warrior[/color]
+&gt;
+&gt;
+&gt;
+&gt; **[color=goldenrod]Hand of Byzantium Killer[/color]**
+&gt; **Combat Ready (Passive)** - You are night immune during the first two nights of the game. If you are attacked while Combat Ready is active, you will counterattack the assailant (without bypassing immunity or healing). The counterattack will occur even if the attack bypasses your immunity.
+&gt; **Bloodlust (Passive)** - Whenever you successfully kill a member of the [color = 00A292]**Syndicate**[/color], you gain an additional night of Combat Ready during the next night. If your successful kill was on the first night, then your additional night of immunity will take effect two nights later.
+&gt; **Raging Axes (Night)** - Attack a player. If you kill a member of the **[color=goldenrod]Hand of Byzantium[/color]**, this ability will be disabled for the next two nights and you will appear to investigators as a member of the [color = 00A292]**Syndicate**[/color] during that time. If you killed a member of your faction with this ability while Combat Ready was active, you immediately lose all remaining nights of Combat Ready.
+&gt; **Taunt (Night)** - Redirect a player to yourself. (1 use)
+*Defeat the [color = 00A292]**Syndicate**[/color].*
+
+&gt; # [color=goldenrod]The Bard[/color]
+&gt;
+&gt;
+&gt;
+&gt; **[color=goldenrod]Hand of Byzantium Support[/color]**
+&gt; **Pure Wits (Day)** - You will be occupation and redirection immune tonight. (3 uses)
+&gt; **Crescendo (Night)** - Choose a player. If they attempt to redirect, occupy, or attack someone tonight, their action will bypass immunities and healing.
+&gt; **Allegro (Night)** - Make a player occupation, redirection and night immune tonight. If they are bleeding, they will be healed as well. (2 uses) :crown: 
+*Defeat the [color = 00A292]**Syndicate**[/color].*
+
+&gt; # [color=goldenrod]The Eccentric[/color]
+&gt;
+&gt;
+&gt;
+&gt; **[color=goldenrod]Hand of Byzantium Support[/color]**
+&gt; **Royal Blood (Passive)** - Each vote you receive during King elections will count as two.
+&gt; **Magus/Steam Golem (Night)** - Make a player immune to negative effects tonight, excluding attacks and **Reshape Reality** effects.
+&gt; **Magus/Steam Mirror (Night)** - Choose a player. All other players who visit them tonight will be redirected to themselves. (2 uses)
+*Defeat the [color = 00A292]**Syndicate**[/color].*
+
+&gt; # [color=goldenrod]The Patron[/color]
+&gt;
+&gt;
+&gt;
+&gt; **[color=goldenrod]Hand of Byzantium Support[/color]**
+&gt; **Royal Blood (Passive)** - Each vote you receive during King elections will count as two.
+&gt; **Emergency Funds (Day)** - Choose a player. If they have a limited-use ability with no uses, they will be granted an additional use. If they have multiple limited-use abilities with no uses, one of them will be chosen at random. The target will not be notified until they try to use the ability. (1 use)
+&gt; **Patronage (Night)** - Choose a player. If they use a limited-use ability tonight, the use will not be consumed. The target will not be notified even if the effect triggers.
+*Defeat the [color = 00A292]**Syndicate**[/color].*
+
+&gt; # [color=goldenrod]The Squire[/color]
+&gt;
+&gt;
+&gt;
+&gt; **[color=goldenrod]Hand of Byzantium Support[/color]**
+&gt; **Pick up the Mantle (Night)** - Choose a dead **[color=goldenrod]Hand of Byzantium[/color]** member who was not the **[color=goldenrod]Arbiter[/color]**, the **[color=goldenrod]Priestess[/color]**, a **King**, or a cleaned player. You will inherit their class at the end of the night, with the same number of limited ability uses they had when they died.
+*Defeat the [color = 00A292]**Syndicate**[/color].*
+
+&gt; # [color=goldenrod]The Surgeon[/color]
+&gt;
+&gt;
+&gt;
+&gt; **[color=goldenrod]Hand of Byzantium Support[/color]**
+&gt; **Self-Aid (Passive)** - You are bleeding immune.
+&gt; **Coagulant (Day)** - Make a player permanently immune to bleeding. (1 use) :crown: 
+&gt; **Surgery (Night)** - Heal another player, removing bleeding and preventing them from dying tonight. :crown: 
+&gt; **Miracle Touch (Night)** - Heal a player. They will also be automatically healed on the next night. (1 use) :crown: 
+*Defeat the [color = 00A292]**Syndicate**[/color].*
+
+&gt; # [color=goldenrod]The Druid[/color]
+&gt;
+&gt;
+&gt;
+&gt; **[color=goldenrod]Hand of Byzantium Offensive[/color]**
+&gt; **Isolation (Passive)** - You are occupation and redirection immune.
+&gt; **Glyph of Decay (Day)** - Make a player unhealable tonight, tomorrow, and during the next night. (2 uses) :crown: 
+&gt; **Glyph of Lethargy (Night)** - Occupy a player.
+&gt; **Glyph of Sloth (Night)** - Occupy two target players. (1 use)
+*Defeat the [color = 00A292]**Syndicate**[/color].*
+
+&gt; # [color=goldenrod]The Overseer[/color]
+&gt;
+&gt;
+&gt;
+&gt; **[color=goldenrod]Hand of Byzantium Offensive[/color]**
+&gt; **Overrule (Day)** - Choose a player and another player. If your first target uses a day ability today, they will be redirected to your second target. (2 uses)
+&gt; **Red Tape (Day)** - The **King**&#39;s night abilities will fail tonight. (2 uses)
+&gt; **Order of Relocation (Night)** - Redirect a player to another.
+&gt; **Order of Exchange (Night)** - Redirect two players to each other. (1 use)
+*Defeat the [color = 00A292]**Syndicate**[/color].*
+
+&gt; # [color=goldenrod]The Sentinel[/color]
+&gt;
+&gt;
+&gt;
+&gt; **[color=goldenrod]Hand of Byzantium Offensive[/color]**
+&gt; **Alertness (Day)** - You will be occupation and redirection immune tonight. (2 uses)
+&gt; **Detainment (Night)** - Remove all passives and immunities from a player until the end of the next night. They will not be informed about this. The **[color=00A292]Elder[/color]**, **[color=goldenrod]Arbiter[/color]** and **[color=goldenrod]Priestess[/color]** are immune to this effect, but even if you target them, the ability will go on cooldown. (1-night cooldown)
+&gt; **Curfew (Night)** - Choose a player. If they attempt to use a killing or offensive ability tonight, you will occupy them. (2 uses)
+*Defeat the [color = 00A292]**Syndicate**[/color].*
+[/details]
+
+
+[details=&quot;Syndicate&quot;]
+&gt;# [color=00A292]The Templar[/color] :shield: :crossed_swords:
+&gt;[color=00A292]**Syndicate Killer**[/color]
+**In Nomine Dei (Passive)** - If you perform the factional kill, you will always bypass night immunity and protective effects, excluding the **[color=goldenrod]Priestess[/color]**&#39;s **Celestial Protection**. You may also use both **Purge the Sinners** and **Faith and Steel** on the same day.
+**Purge the Sinners (Day)** - Choose two players. Make one of them start bleeding, and make another **think** they started bleeding. The true bleeding will kill the target in two nights if they are not healed. The fake bleeding will inform the player that they were bled as normal, but it will have no effect. (3 uses) :crown: 
+**Faith and Steel (Day)** - Kill yourself and target player in broad daylight. Nothing will be able to stop this. (1 use)
+**Divine Retribution (Night)** - Only available on even nights. Attack a player who voted you at any point during the previous day. You do not receive bonuses from **In Nomine Dei** while using this ability. :crown: 
+**Massacre (Night)** - Kill target player and all of your target’s visitors.**[color=00A292]Syndicate[/color]** can’t perform the factional kill on the night this ability is used. You do not receive bonuses from **In Nomine Dei** while using this ability. (1 use) :crown: 
+*Defeat the **[color=goldenrod]Hand of Byzantium[/color]**.*
+
+&gt;# [color=00A292]The Confessor[/color] :shield: :crossed_swords:
+&gt;[color=00A292]**Syndicate Investigative**[/color]
+**Syndicate’s Watchmen (Passive)** - At the end of each night, you automatically learn the names of all classes that visited you. If you were visited more than once by the same class, the name of that class will appear several times, corresponding to the number of visits from that class.
+**Contrition (Passive)** - If you perform the factional kill, it will not count as a visit.
+**Omniscience (Day)** - Choose another member of the **[color=00A292]Syndicate[/color]**. At the beginning of the night, you will learn the names of all day abilities used on them during that day. (3 uses)
+**Eyes of the Syndicate (Day)** - Choose one player for each living member of the **[color=00A292]Syndicate[/color]**. At the end of the coming night, if you are alive, you will learn which of those players visited a member of the **[color=00A292]Syndicate[/color]** during the night, and which member was visited by which player. (2 uses)
+**Confession (Night)** - Learn a player&#39;s class and how many remaining uses of limited abilities they have. You will also learn their current logs, if they have any.
+**Vigil (Night)** - Learn who a player visited tonight and who visited them. (3 uses)
+*Defeat the **[color=goldenrod]Hand of Byzantium[/color]**.*
+
+&gt;# [color=00A292]The Harbinger[/color] :shield: :crossed_swords:
+&gt;[color=00A292]**Syndicate Support**[/color]
+**Omen of Remorse (Passive)** - Whenever a player visits you, they become framed until you die (all investigative abilities will return the opposite results if they target a framed player, depending on what the ability is). The **[color=goldenrod]Arbiter[/color]** bypasses this framing completely.
+**Omen of Deceit (Passive)** - If you perform the **factional kill**, your target&#39;s logs will be deleted. You will learn what information they contained.
+**Dominance of Pestilence (Day)** - All players who attempt to occupy or kill you tonight will start bleeding and their visits will be prevented. The bleeding will kill them in two nights if they are not healed. If the **[color=goldenrod]Arbiter[/color]** attempts to investigate you, they will also be prevented and bled. (2 uses)
+**Circle of War (Day)** - Prevent another player from visiting and being visited tonight. (2 uses)
+**Grasp of Famine (Night)** - Heal a player. They will also be immune to occupation and redirection tonight. :crown: 
+**Banner of Death (Night)** - Mark a player for death. All attacks that target a marked player are guaranteed to succeed. The mark takes effect on the night **after** it is placed, but it is permanent and remains on the target even if you die. (2 uses) :crown: 
+*Defeat the **[color=goldenrod]Hand of Byzantium[/color]**.*
+
+&gt;# [color=00A292]The Zealot[/color] :shield: :crossed_swords:
+&gt;[color=00A292]**Syndicate Offensive**[/color]
+**Fanatical Zeal (Passive)** - You are occupation and redirection immune. If anyone attempts to occupy or redirect you, you will be immediately informed. If you manage to redirect a player into killing another, you will be informed and you will a gain a stack of **Zeal**. You can spend a **Zeal** stack during the night to occupy a player as an additional, separate night ability. This night ability still counts as a visit.
+**Overwhelming Aura (Passive)** - At the end of each night, you automatically learn if a **[color=00A292]Syndicate[/color]** member&#39;s night ability failed, and if so, which one. Additionally, if you perform the **factional kill**, you occupy your target before attacking them.
+**Force of Conviction (Day)** - Choose two players. If the first player uses a day ability today, it will be redirected to the second player. If you choose the same player twice, they will be occupied until the end of the day instead. (3 uses)
+**Mirror of Faith (Day)** - Choose a player. All other day abilities used on them today will be automatically redirected to their users. You cannot target yourself. (3 uses)
+**Might of Conviction (Night)** - Choose two players. The first player will be redirected to the second. If you choose the same player twice, you will occupy them instead. You are only seen visiting the first player you choose.
+**Works of Zeal (Night)** - Swap two players. Every other player targeting one of them tonight will be redirected to the other, bypassing redirection immunity. You cannot target yourself. (2 uses)
+*Defeat the **[color=goldenrod]Hand of Byzantium[/color]**.*
+
+&gt;# [color=00A292]The Archon[/color] :shield: :crossed_swords:
+&gt;[color=00A292]**Syndicate Social**[/color]
+**Influence and Affluence (Passive)** - During **King** elections, all votes for you from members of the **[color=goldenrod]Hand of Byzantium[/color]** count as three. As long as you are alive, if votes are tied between two or more players at the end of the day and one of those players is a member of the **[color=00A292]Syndicate[/color]**, the random selection of who is executed will never choose the **[color=00A292]Syndicate[/color]** member.
+**Grand Archbishop (Passive)** - After you die, you can still speak in the **[color=00A292]Syndicate[/color]** chat (you may leave it and join dead chat at any moment). You may use both **Mental Restructuring** and **Rapture** during the same day. Additionally, if you perform the **factional kill**, your vote will secretly count as two during the following day if there are eleven or more players alive.
+**Mental Restructuring (Day)** - Link the minds of two players other than yourself. Tonight, they will be able to talk to each other until the end of the night. At the end of the night, they will be removed from their chat and you will be added to it.
+**Rapture (Day)** - Choose a player other than yourself. If they are executed today, their class and logs will not be revealed. However, they will be revealed in the **[color=00A292]Syndicate[/color]** chat. When you die, the class and logs of that player will be revealed alongside yours. (1 use) :crown: 
+**Scales of the Syndicate (Night)** - Choose two players other than yourself. Tomorrow, one fewer vote will be required to execute the first player and one more vote will be required to execute the second player. Both effects are silent. :crown: 
+**Pearly Gates (Night)** - Choose a dead **[color=00A292]Syndicate[/color]** member whose identity was not hidden by **Rapture** and bring them back to life until the end of the next day. It will be publicly announced that the **[color=00A292]Syndicate[/color]** revived [player] for one final day. They will not be able to vote, and they will not count toward parity, but they will be able to post a total of 50 times and they will be able to use their day abilities as normal. They will also count as alive for the purpose of the **[color=00A292]Syndicate[/color]**&#39;s abilities, such as the **[color=00A292]Confessor[/color]**&#39;s **Eyes of the Syndicate**. (1 use)
+*Defeat the **[color=goldenrod]Hand of Byzantium[/color]**.*
+
+&gt; # [color = 00A292] The Elder [/color] :shield: :crossed_swords:
+&gt;
+&gt; [color = 00A292] **Syndicate Special** [/color]
+&gt; **Alpha and Omega (Passive)**  - Despite being a member of the **[color=00A292]Syndicate[/color]**, you do not know who the other members are and they do not know who you are. You also do not have access to their factional chat or any of their factional abilities, but at the start of each day, you are informed about the current **Reshape Reality** effect the **[color=00A292]Syndicate[/color]** activated last night. If at least half of the living **[color=00A292]Syndicate[/color]** members (rounded up) have received a notification about the **[color=00A292]Elder[/color]** investigating them at any point during the match, you will automatically join their chat when that condition is met. From that point forward, you will also have access to the factional abilities of the **[color=00A292]Syndicate[/color]**.
+&gt; **Immaculate (Passive)**  - You are occupation immune both during the night and during the day. You are also night immune, and you appear to investigators as a member of the **[color=goldenrod]Hand of Byzantium[/color]**, including the **[color=goldenrod]Arbiter[/color]**. If a member of the **[color=00A292]Syndicate[/color]** attempts to attack you, you will be notified and gain a use of **Righteous Wrath**. You lose this passive when you are added to the factional chat.
+&gt; **Righteous Wrath (Day)**  - Kill a player in broad daylight. If you are not in the **[color=00A292]Syndicate[/color]** factional chat, you gain a use of this ability whenever you discover a member of the **[color=00A292]Syndicate[/color]** with **Gaze of the Seer**. - 0 uses.
+**Second Wind (Conditional Day/Night)** - Choose **any** ability of a dead **[color=00A292]Syndicate[/color]** member. If you are using **Second Wind** during the day, you may choose a day ability; if you are using it during the night, you may choose a night ability. After choosing the ability, use it on any eligible target/targets of your choice. You may only use each ability once per game. This ability never counts as a visit.
+&gt; **Gaze of the Seer (Night)**  - Learn if a player is a member of the **[color=00A292]Syndicate[/color]**, bypassing framing and tailoring effects. If they are, they will be informed that the **[color=00A292]Elder[/color]** successfully investigated them last night.
+*Defeat the **[color=goldenrod]Hand of Byzantium[/color]**.*
+[/details]
+
+[details=&quot;Kings&quot;]
+&gt; # [color=goldenrod]The Righteous King[/color] :shield:
+&gt;
+&gt;
+&gt;
+&gt; **[color=goldenrod]Hand of Byzantium Special[/color]**
+&gt; **Dynastic Cycle (Passive)** - If you die, there will be a vote held to crown the next King. The vote will begin on the day immediately after you died.
+&gt; **Head of State (Passive)** - Your vote counts as two. You may use both day abilities at once.
+&gt; **Audience (Day)** - Select up to three players. They will be able to speak in a Royal Chat with you tonight. At the end of the night, all players except you will be removed from the chat.
+&gt; **Bounty (Day)** - You can only use this ability during the first twelve hours of the day, and only if there are thirteen or more players alive. Choose a player who has not been targeted by a **Bounty** at any point during the game. It will be publicly announced that **&quot;The King has posted a bounty for [PLAYER]&#39;s head.&quot;** If they are executed today, there will be an additional execution, regardless of their flip. If they are not executed today, the use of this ability will be refunded. (1 use)
+&gt; **Royal Guard (Night)** - Send a guard to a player. They will be night immune tonight. You can target yourself. (3 uses)
+&gt; **Royal Advisors (Night)** - Send an advisor to a player. If they are visited by the [color = 00A292]**Syndicate**[/color] tonight, you will be informed. (3 uses)
+*Defeat the [color = 00A292]**Syndicate**[/color].*
+
+&gt; # [color=goldenrod]The Prophetic King[/color] :shield:
+&gt;
+&gt;
+&gt;
+&gt; **[color=goldenrod]Hand of Byzantium Special[/color]**
+&gt; **Head of State (Passive)** - Your vote counts as two. You may use both day abilities at once. If you die, there will be a vote held to crown the next King. The vote will begin on the day immediately after you died. Additionally, at the start of each day, you will learn which **Reshape Reality** effect the [color = 00A292]**Syndicate**[/color] used last night, if any. Revealing this information within the thread will count as a **claim**, should the [color = 00A292]**Syndicate**[/color] notice it.
+**Tenacity (Passive)** - You are occupation and redirection immune both at night and during the day. You may also use both night abilities at the same time.
+&gt; **Audience (Day)** - Select up to three players. They will be able to speak in a Royal Chat with you tonight. At the end of the night, all players except you will be removed from the chat.
+&gt; **Bounty (Day)** - You can only use this ability during the first twelve hours of the day, and only if there are thirteen or more players alive. Choose a player who has not been targeted by a **Bounty** at any point during the game. It will be publicly announced that **&quot;The King has posted a bounty for [PLAYER]&#39;s head.&quot;** If they are executed today, there will be an additional execution, regardless of their flip. If they are not executed today, the use of this ability will be refunded. (1 use)
+**Royal Judgment (Night)** - Learn if a player is a member of the [color = 00A292]**Syndicate**[/color]. If they are, you will attack them as well. The attack is regular and does not bypass immunities.
+**Royal Providence (Night)** - Heal another player, removing bleeding and preventing them from dying tonight.
+*Defeat the [color = 00A292]**Syndicate**[/color].*
+**Crowns from [color=goldenrod]Arbiter[/color].**
+
+&gt; # [color=goldenrod]The Purified King[/color] :shield:
+&gt;
+&gt;
+&gt;
+&gt; **[color=goldenrod]Hand of Byzantium Special[/color]**
+&gt; **Head of State (Passive)** - Your vote counts as two. You may use all day abilities at once (but you can only use each ability once per day). If you die, there will be a vote held to crown the next King. The vote will begin on the day immediately after you died. Additionally, you retain the **Circle of Worship** passive and all of the current **Worshipper** neighborhood chat members retain the benefits of the neighborhood.
+**Tenacity (Passive)** - You are occupation and redirection immune both at night and during the day. You may also use both night abilities at the same time.
+**Invite to Sermons (Day)** - Choose a player. At the start of the night, they will be added to the **Worshipper** neighborhood chat.
+**Cherished Blessing (Day)** - All members of the **Worshipper** neighborhood will be immune to the [color = 00A292]**Syndicate**[/color]’s day abilities today. (2 uses)
+&gt; **Bounty (Day)** - You can only use this ability during the first twelve hours of the day, and only if there are thirteen or more players alive. Choose a player who has not been targeted by a **Bounty** at any point during the game. It will be publicly announced that **&quot;The King has posted a bounty for [PLAYER]&#39;s head.&quot;** If they are executed today, there will be an additional execution, regardless of their flip. If they are not executed today, the use of this ability will be refunded. (1 use)
+&gt; **Royal Invitation (Night)** - Choose a player. At the start of the coming day, they will be added to the **Worshipper** neighborhood chat. (3 uses)
+**Channel the Fallen (Night)** - Choose a night ability of a dead **[color=goldenrod]Hand of Byzantium[/color]** member. You may use it on any eligible target tonight and it will count as a visit of the dead player instead of yours. However, you cannot use the same player’s ability more than once.
+*Defeat the [color = 00A292]**Syndicate**[/color].*
+**Crowns from [color=goldenrod]Priestess[/color].**
+
+&gt; # [color = 00A292]The Divine King[/color] :shield:
+&gt;
+&gt;
+&gt;
+&gt; **[color = 00A292]Syndicate Special[/color]**
+&gt; **Dynastic Cycle (Passive)** - If you die, there will be a vote held to crown the next King. The vote will begin on the day immediately after you died.
+&gt; **Head of State (Passive)** - Your vote counts as two. You may use both day abilities at once. You are informed about **Reshape Reality** actions whenever they take effect.
+&gt; **Audience (Day)** - Select up to three players. They will be able to speak in a Royal Chat with you tonight. At the end of the night, all players except you will be removed from the chat, and all living [color = 00A292]**Syndicate**[/color] members who are in the factional chat together will gain access to it. However, none of them will be allowed to post anything there.
+&gt; **Bounty (Day)** - You can only use this ability during the first twelve hours of the day, and only if there are thirteen or more players alive. Choose a player who has not been targeted by a **Bounty** at any point during the game. It will be publicly announced that **&quot;The King has posted a bounty for [PLAYER]&#39;s head.&quot;** If they are executed today, there will be an additional execution, regardless of their flip. If they are not lynched today, the use of this ability will be refunded. If a member of the [color = 00A292]**Syndicate**[/color] is executed this way, the [color = 00A292]**Syndicate**[/color] may assign an additional factional kill tonight, even to the same player. They will be informed about this. (1 use)
+&gt; **Syndicate&#39;s Guard (Night)** - Send a guard to a player. They will be night immune tonight. You can target yourself. (3 uses)
+&gt; **Conspiracy (Night)** - Remove a player&#39;s immunities for tonight, if they have any. (2 uses)
+*Defeat the [color=goldenrod]**Hand of Byzantium**[/color].*
+
+&gt; # [color = 00A292]The Elder King[/color] :shield:
+&gt;
+&gt;
+&gt;
+&gt; **[color = 00A292]Syndicate Special[/color]**
+&gt; **Dynastic Cycle (Passive)** - If you die, there will be a vote held to crown the next King. The vote will begin on the day immediately after you died.
+&gt; **Head of State (Passive)** - Your vote counts as two. You may use all three day abilities at once. You are informed about **Reshape Reality** actions whenever they take effect.
+&gt; **Audience (Day)** - Select up to three players. They will be able to speak in a Royal Chat with you tonight. At the end of the night, all players except you will be removed from the chat.
+&gt; **Bounty (Day)** - You can only use this ability during the first twelve hours of the day, and only if there are thirteen or more players alive. Choose a player who has not been targeted by a **Bounty** at any point during the game. It will be publicly announced that **&quot;The King has posted a bounty for [PLAYER]&#39;s head.&quot;** If they are executed today, there will be an additional execution, regardless of their flip. If they are not executed today, the use of this ability will be refunded. If a member of the [color = 00A292]**Syndicate**[/color] is executed this way, the [color = 00A292]**Syndicate**[/color] may assign an additional factional kill tonight, even to the same player. They will be informed about this. (1 use)
+&gt; **Second Wind (Conditional Day/Night)** - Choose **any** ability of a dead [color = 00A292]**Syndicate**[/color] member. If you are using **Second Wind** during the day, you may choose a day ability; if you are using it during the night, you may choose a night ability. After choosing the ability, use it on any eligible target/targets of your choice. You may only use each ability once per game. This ability never counts as a visit.
+&gt; **Syndicate&#39;s Guard (Night)** - Send a guard to a player. They will be night immune tonight. You can target yourself. (3 uses)
+&gt; **Conspiracy (Night)** - Remove a player&#39;s immunities for tonight, if they have any. (2 uses)
+*Defeat the [color=goldenrod]**Hand of Byzantium**[/color].*
+**Crowns from [color = 00A292]**Elder**[/color].**
+[/details]
+
+## [color = 00A292]**Syndicate**[/color] **mechanics:**
+
+You have a singular **factional kill** per night, which is **compulsory** and **assigned**. One must sacrifice their night action in order to perform the kill. A different **[color=00A292]Syndicate[/color]** member must perform the kill each night until every living member has performed the kill, then the cycle resets.
+
+You have two types of **assigned anti-claim shots** and each can be used **once per day**. Each shot is **assigned**, meaning that the member of the **[color=00A292]Syndicate[/color]** taking it must sacrifice their day ability to do so. A **[color=00A292]Syndicate[/color]** member cannot take the shot if they have already used a day ability in a phase.
+
+The first type is the  **regular shot**. To use it, quote a post which appears to be a hardclaim or a softclaim and name the class you believe the poster to be claiming. If you are correct, you will fire an unstoppable shot at them, killing them unconditionally, unless they are protected by the[color=goldenrod] **Priestess**[/color]. Note that the post you quote does not have to be written in the primary game thread; posts in neighborhood chats are eligible as well.
+
+The second type is the **PR shot**. To use it, quote a post a non-**[color=00A292]Syndicate[/color]**  player wrote, then name a player who you believe to be the [color=goldenrod] **Arbiter**[/color] or the [color=goldenrod] **Priestess**[/color] **based on that post.**  Note that your target does not have to be the same player whose post you quoted. If your[color=goldenrod] **Arbiter/Priestess**[/color] guess is correct, they will immediately die, bypassing everything. However, if your guess is wrong, the shooter will die instead, also bypassing everything. Neighborhood chat posts still count.
+
+The **PR shot** becomes disabled when both the[color=goldenrod] **Arbiter**[/color] and [color=goldenrod] **Priestess**[/color] are dead, since it has no remaining function.
+Finally, the **regular shot** becomes unassigned when there are two or fewer Syndicate members left alive. However, the **PR shot** always remains assigned.
+
+If the **[color=00A292]Elder[/color]** ever becomes the only **[color=00A292]Syndicate[/color]** member left alive, they automatically join the factional chat.
+
+Every night, you may activate a **Reshape Reality** action from a list. You may only activate each action once. The selection is not assigned by any means, and it is made as a **collective decision** in the factional chat. The **[color=00A292]Elder[/color]** will not be able to choose the action until the join the factional chat, but they will be informed which **Reshape Reality** action is in place at the start of each day. 
+
+
+[details=&quot;List of Reshape Reality actions&quot;]
+* [color = 00A292]**The Fool**[/color] - If a member of the **[color=goldenrod]Hand of Byzantium[/color]** is executed tomorrow, the day will be extended by 24 hours and there will be an additional execution. However, during the following night, each member of the [color = 00A292]**Syndicate**[/color] will be able to choose what class they want to appear as, and who they want to be seen visiting. They will appear to investigators as that class, visiting the player(s) of their choice. The **[color=goldenrod]Arbiter[/color]** bypasses this mechanic.
+
+* [color = 00A292]**The Magician**[/color] - Everyone will be occupation and redirection immune during the coming day and night.
+
+* [color = 00A292]**The High Priestess**[/color] - At the start of the coming day, all targets of the **[color=goldenrod]Arbiter[/color]** and **[color=goldenrod]Priestess[/color]**&#39;s abilities during the night will be revealed in the thread, but not which players were targeted by which class and/or ability.
+
+* [color = 00A292]**The Empress**[/color] - During the coming day and night, using limited-use day and night abilities will not consume any uses.
+
+* [color = 00A292]**The Emperor**[/color] - Tomorrow, the King&#39;s vote will count as three. However, they will start bleeding sometime in the middle of the day. If the King is the [color = 00A292]**Divine King**[/color] or [color = 00A292]**Elder King**[/color], the bleeding will be fake, and the King will be informed that the bleeding is fake.
+
+* [color = 00A292]**The Hierophant**[/color] - On the next night, all players will be automatically redirected to their targets from the previous night.
+
+* [color = 00A292]**The Lovers**[/color] - The [color = 00A292]**Syndicate**[/color] chooses two players, one of which is a member of  [color = 00A292]**Syndicate**[/color], as they activate this action. If one of the chosen players dies tomorrow by any means, the other will die as well.
+
+* [color = 00A292]**The Chariot**[/color] - All attacks during the next night will be impossible to stop by occupation or redirection. However, **Killer** classes in the **[color=goldenrod]Hand of Byzantium[/color]** will not receive any penalties for killing members of their faction.
+
+* [color = 00A292]**Strength**[/color] - On the next night, all regular attacks will become strongman attacks, which bypass night immunity and healing. However, all attacks which bypass night immunity and/or healing will become regular attacks.
+
+* [color = 00A292]**The Hermit**[/color] - All living players with **Investigative** classes will be occupied during the next night, but they will also be night immune and they will receive healing.
+
+* [color = 00A292]**Wheel of Fortune**[/color] - A beneficial and harmful effect will be randomized from among the [color = 00A292]**Syndicate**[/color]&#39;s **Reshape Reality** actions and they will both take effect. The [color = 00A292]**Syndicate**[/color], including the [color = 00A292]**Elder**[/color], will know which effects were randomized and put in effect. The **[color=goldenrod]Arbiter[/color]** will only be informed that the effects were randomized, but not what exactly was randomized.
+
+* [color = 00A292]**Justice**[/color] - If a member of the **[color=goldenrod]Hand of Byzantium[/color]** is executed tomorrow, all players on their wagon will have their immunities removed during the following night. However, if a member of the [color = 00A292]**Syndicate**[/color] is executed tomorrow, all players on their wagon will be protected from negative effects, excluding attacks, during the following night. 
+
+* [color = 00A292]**The Hanged Man**[/color] - Whoever is executed tomorrow will gain access to two night abilities, which they can use during the following night and **only** during the following night. They can use both abilities if they want; both are ninja (do not count as visits) and unstoppable. The first ability is an attack, only usable against players who ended the day on the main wagon. The second ability is a heal, only usable on players who did **not** end the day on the main wagon.
+
+* [color = 00A292]**Death**[/color] - At the start of the coming day, the current King will revert to their original class and another player will randomly be chosen to be the new King. The new King can be a member of either faction.
+
+* [color = 00A292]**Temperance**[/color] - All day abilities used tomorrow, excluding factional abilities, will automatically fail. If they were limited-use abilities, the uses will still be consumed. However, all members of the [color = 00A292]**Syndicate**[/color] excluding the [color = 00A292]**Elder**[/color] automatically lose a use of each of their limited day abilities, regardless if they use them or not.
+
+* [color = 00A292]**The Devil**[/color] - During the coming day, three random players will start bleeding at various points of the day. The bleeding will kill them two nights later if they are not healed until then. The same player can be chosen twice or even thrice, but the [color = 00A292]**Syndicate**[/color] members are not informed in advance about who was chosen. Bleeding the same player more than once does not make them bleed out any faster.
+
+* [color = 00A292]**The Tower**[/color] - At the end of the coming day, the King will die and nothing will be able to stop it. However, if the King is a member of the **[color=goldenrod]Hand of Byzantium[/color]**, they will be informed of this in advance and they will be able to secretly choose a player to go down with them. That player will also die at the end of the day, and nothing will be able to stop it either. If the King mentions knowing about this in the thread or a neighborhood chat, and the [color = 00A292]**Syndicate**[/color] points it out in their factional chat while highlighting the specific post, the King will die immediately and their chosen target will live.
+
+* [color = 00A292]**The Star**[/color] - All dead members of the [color = 00A292]**Syndicate**[/color] will be able to use their unlimited-use night abilities on the next night. However, if the **[color=goldenrod]Priestess[/color]** and/or the **[color=goldenrod]Arbiter[/color]** are dead, they will be able to do so as well, and they will be able to use both at the same time.
+
+* [color = 00A292]**The Moon**[/color] - A random member of the **[color=goldenrod]Hand of Byzantium[/color]** will be occupied throughout tomorrow. Another random member of the **[color=goldenrod]Hand of Byzantium[/color]** will be occupied on the coming night. A third random member of the **[color=goldenrod]Hand of Byzantium[/color]** will appear to investigators as a [color = 00A292]**Syndicate**[/color] **Killer** during the coming night. However, on the night after that, the same effects are repeated for members of the [color = 00A292]**Syndicate**[/color], and the same player can be chosen multiple times regardless of the [color = 00A292]**Syndicate**[/color]&#39;s numbers. The members of the [color = 00A292]**Syndicate**[/color] are never informed about who was randomly chosen to suffer from these effects, but the [color = 00A292]**Elder**[/color] and **[color=goldenrod]Arbiter[/color]** are still informed that this **Reshape Reality** action is in play.
+
+* [color = 00A292]**The Sun**[/color] - The [color = 00A292]**Syndicate**[/color] chooses two players. At the start of the coming day, if there are thirteen or more players alive, the two selected players will be publicly announced as &quot;**exempt from execution**&quot; and voting them will be impossible until the end of the day. However, they will also be unable to vote. If at least one of them is a member of the [color = 00A292]**Syndicate**[/color], all other members of the [color = 00A292]**Syndicate**[/color] will have a single silent vote on them throughout the day. The silent votes will not be revealed unless a member of the [color = 00A292]**Syndicate**[/color] is executed while having the silent vote on them (the silent vote will be visible on the executed player). The **[color=00A292]Syndicate[/color]** cannot target themselves with this action if it would make all of them impossible to execute on that day.
+
+* [color = 00A292]**Judgment**[/color] - All dead players will be able to speak in the thread tomorrow, and it will be announced at the start of the day. However, all dead members of the [color = 00A292]**Syndicate**[/color] will be able to use their night abilities during the following night. Typical limits apply -- for example, if a member of the [color = 00A292]**Syndicate**[/color] died with no uses of their limited night ability, they will not be able to use that ability.
+
+* [color = 00A292]**The World**[/color] - Learn the path to victory. If there are fewer than ten players alive at the start of tomorrow, the [color = 00A292]**Syndicate**[/color] will learn their exact classes and which player has which class. However, a random member of the **[color=goldenrod]Hand of Byzantium[/color]** will be revealed by the host as a member of the **[color=goldenrod]Hand of Byzantium[/color]** within the thread, and they will be unconditionally protected from death during the following night. This effect may protect the **[color=goldenrod]Arbiter[/color]** or the **[color=goldenrod]Priestess[/color]**.
+[/details]</description>
+    
+    <lastBuildDate>Sun, 26 Jul 2020 13:57:44 +0000</lastBuildDate>
+    <category>Discussion</category>
+    <atom:link href="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>SFoL 64: Duel of the Juggernauts discussion and balance thread</title>
+        <dc:creator><![CDATA[astand]]></dc:creator>
+        <description><![CDATA[
+            <p>I updated the OP here with the version of setup that passed review.</p>
+<p>Just bumping in case anyone ever wants to host this (I’m always open to cohosting).</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/569">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/569</link>
+        <pubDate>Sun, 26 Jul 2020 13:57:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81278-569</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278.rss">SFoL 64: Duel of the Juggernauts discussion and balance thread</source>
+      </item>
+      <item>
+        <title>SFoL 64: Duel of the Juggernauts discussion and balance thread</title>
+        <dc:creator><![CDATA[Vulgard]]></dc:creator>
+        <description><![CDATA[
+            <p>It would also have the additional benefit of timezone coverage. Nearly every class can do things during both phases.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/568">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/568</link>
+        <pubDate>Thu, 11 Jun 2020 12:27:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81278-568</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278.rss">SFoL 64: Duel of the Juggernauts discussion and balance thread</source>
+      </item>
+      <item>
+        <title>SFoL 64: Duel of the Juggernauts discussion and balance thread</title>
+        <dc:creator><![CDATA[Vulgard]]></dc:creator>
+        <description><![CDATA[
+            <p>This setup is extremely mech-intensive as it is and will require lots of night action / day action resolution. We probably need at least 2 co-hosts.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/567">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/567</link>
+        <pubDate>Thu, 11 Jun 2020 12:24:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81278-567</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278.rss">SFoL 64: Duel of the Juggernauts discussion and balance thread</source>
+      </item>
+      <item>
+        <title>SFoL 64: Duel of the Juggernauts discussion and balance thread</title>
+        <dc:creator><![CDATA[Vulgard]]></dc:creator>
+        <description><![CDATA[
+            <p>Also, removed some of the abilities which would be way too difficult to keep track of.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/566">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/566</link>
+        <pubDate>Thu, 11 Jun 2020 12:23:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81278-566</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278.rss">SFoL 64: Duel of the Juggernauts discussion and balance thread</source>
+      </item>
+      <item>
+        <title>SFoL 64: Duel of the Juggernauts discussion and balance thread</title>
+        <dc:creator><![CDATA[Vulgard]]></dc:creator>
+        <description><![CDATA[
+            <p>Streamlined the wording of classes in the OP, added additional information to the OP and tweaked some of the classes.</p>
+<p>Considering how much protection exists in the setup, I’m tempted to give Syndicate bonus KP, but they already have plenty of strategic KP.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/565">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/565</link>
+        <pubDate>Thu, 11 Jun 2020 12:19:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81278-565</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278.rss">SFoL 64: Duel of the Juggernauts discussion and balance thread</source>
+      </item>
+      <item>
+        <title>SFoL 64: Duel of the Juggernauts discussion and balance thread</title>
+        <dc:creator><![CDATA[Vulgard]]></dc:creator>
+        <description><![CDATA[
+            <p>I’ll go through the classcards and change “lynch” to “execute.” I think this word fits the theme of the setup the best.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/564">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/564</link>
+        <pubDate>Thu, 11 Jun 2020 11:11:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81278-564</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278.rss">SFoL 64: Duel of the Juggernauts discussion and balance thread</source>
+      </item>
+      <item>
+        <title>SFoL 64: Duel of the Juggernauts discussion and balance thread</title>
+        <dc:creator><![CDATA[Jane]]></dc:creator>
+        <description><![CDATA[
+            <p>I’d go for katsi katsay</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/563">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/563</link>
+        <pubDate>Thu, 21 May 2020 19:15:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81278-563</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278.rss">SFoL 64: Duel of the Juggernauts discussion and balance thread</source>
+      </item>
+      <item>
+        <title>SFoL 64: Duel of the Juggernauts discussion and balance thread</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <p>katze katsay katze katsay katze katsay</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/562">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/562</link>
+        <pubDate>Thu, 21 May 2020 19:14:45 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81278-562</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278.rss">SFoL 64: Duel of the Juggernauts discussion and balance thread</source>
+      </item>
+      <item>
+        <title>SFoL 64: Duel of the Juggernauts discussion and balance thread</title>
+        <dc:creator><![CDATA[Vulgard]]></dc:creator>
+        <description><![CDATA[
+            <p>Vul <img src="https://forum.throneoflies.com/images/emoji/twitter/b.png?v=9" title=":b:" class="emoji" alt=":b:">ul Vul <img src="https://forum.throneoflies.com/images/emoji/twitter/b.png?v=9" title=":b:" class="emoji" alt=":b:">ul Vul <img src="https://forum.throneoflies.com/images/emoji/twitter/b.png?v=9" title=":b:" class="emoji" alt=":b:">ul</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/561">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/561</link>
+        <pubDate>Thu, 21 May 2020 19:08:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81278-561</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278.rss">SFoL 64: Duel of the Juggernauts discussion and balance thread</source>
+      </item>
+      <item>
+        <title>SFoL 64: Duel of the Juggernauts discussion and balance thread</title>
+        <dc:creator><![CDATA[Jane]]></dc:creator>
+        <description><![CDATA[
+            <p><s>Time to rant about there being no neuts.</s></p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/560">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/560</link>
+        <pubDate>Thu, 21 May 2020 19:08:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81278-560</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278.rss">SFoL 64: Duel of the Juggernauts discussion and balance thread</source>
+      </item>
+      <item>
+        <title>SFoL 64: Duel of the Juggernauts discussion and balance thread</title>
+        <dc:creator><![CDATA[Vulgard]]></dc:creator>
+        <description><![CDATA[
+            <p>The reason I nerfed Actuary was basically because I saw Geyde ranting about the role somewhere and I agreed with him.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/559">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/559</link>
+        <pubDate>Thu, 21 May 2020 18:51:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81278-559</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278.rss">SFoL 64: Duel of the Juggernauts discussion and balance thread</source>
+      </item>
+      <item>
+        <title>SFoL 64: Duel of the Juggernauts discussion and balance thread</title>
+        <dc:creator><![CDATA[Jane]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Arete" data-post="555" data-topic="81278">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/arete/40/30476_2.png" class="avatar"> Arete:</div>
+<blockquote>
+<p>aret aret aret aret</p>
+</blockquote>
+</aside>
+<p>I think this doesn’t have the same effect.</p>
+<p>It suffers from the same problem “katze katze katze” does, the fact that there’s no variety</p>
+<p>Would suggest Aret Aroot Aret Aroot.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/558">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/558</link>
+        <pubDate>Thu, 21 May 2020 18:36:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81278-558</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278.rss">SFoL 64: Duel of the Juggernauts discussion and balance thread</source>
+      </item>
+      <item>
+        <title>SFoL 64: Duel of the Juggernauts discussion and balance thread</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <h1>Geyde was shot by the Syndicate!</h1>
+<h1>Geyde was a Restaurant!</h1>
+          <p><a href="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/557">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/557</link>
+        <pubDate>Thu, 21 May 2020 18:35:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81278-557</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278.rss">SFoL 64: Duel of the Juggernauts discussion and balance thread</source>
+      </item>
+      <item>
+        <title>SFoL 64: Duel of the Juggernauts discussion and balance thread</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p>uh…this is a wendys</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/556">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/556</link>
+        <pubDate>Thu, 21 May 2020 18:34:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81278-556</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278.rss">SFoL 64: Duel of the Juggernauts discussion and balance thread</source>
+      </item>
+      <item>
+        <title>SFoL 64: Duel of the Juggernauts discussion and balance thread</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>/vote Geyde</strong></p>
+<p>Geyde worried about how invests affect scum</p>
+<p>town don’t worry about scum because town want to kill scum</p>
+<p>Geyde scum</p>
+<p>vote Geyde</p>
+<p>aret aret aret aret</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/555">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/555</link>
+        <pubDate>Thu, 21 May 2020 18:33:42 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81278-555</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278.rss">SFoL 64: Duel of the Juggernauts discussion and balance thread</source>
+      </item>
+      <item>
+        <title>SFoL 64: Duel of the Juggernauts discussion and balance thread</title>
+        <dc:creator><![CDATA[Jane]]></dc:creator>
+        <description><![CDATA[
+            <p>Wrong.</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/554">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/554</link>
+        <pubDate>Thu, 21 May 2020 18:32:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81278-554</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278.rss">SFoL 64: Duel of the Juggernauts discussion and balance thread</source>
+      </item>
+      <item>
+        <title>SFoL 64: Duel of the Juggernauts discussion and balance thread</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p>then nobody can scumread you</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/553">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/553</link>
+        <pubDate>Thu, 21 May 2020 18:32:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81278-553</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278.rss">SFoL 64: Duel of the Juggernauts discussion and balance thread</source>
+      </item>
+      <item>
+        <title>SFoL 64: Duel of the Juggernauts discussion and balance thread</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p>become dybu dabu incarnate</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/552">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/552</link>
+        <pubDate>Thu, 21 May 2020 18:32:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81278-552</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278.rss">SFoL 64: Duel of the Juggernauts discussion and balance thread</source>
+      </item>
+      <item>
+        <title>SFoL 64: Duel of the Juggernauts discussion and balance thread</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            <p>that works less well than you might think because everyone on this site is paranoid about deepwolves</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/551">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/551</link>
+        <pubDate>Thu, 21 May 2020 18:31:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81278-551</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278.rss">SFoL 64: Duel of the Juggernauts discussion and balance thread</source>
+      </item>
+      <item>
+        <title>SFoL 64: Duel of the Juggernauts discussion and balance thread</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p>if you’re a good enough scum then everyone else voting your slot doesn’t even matter since you’ll be able to force the lynch to go to whoever you want</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/550">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/550</link>
+        <pubDate>Thu, 21 May 2020 18:31:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81278-550</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278.rss">SFoL 64: Duel of the Juggernauts discussion and balance thread</source>
+      </item>
+      <item>
+        <title>SFoL 64: Duel of the Juggernauts discussion and balance thread</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p>Ez amirite</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/549">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/549</link>
+        <pubDate>Thu, 21 May 2020 18:31:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81278-549</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278.rss">SFoL 64: Duel of the Juggernauts discussion and balance thread</source>
+      </item>
+      <item>
+        <title>SFoL 64: Duel of the Juggernauts discussion and balance thread</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p>or just don’t get scumread</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/548">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/548</link>
+        <pubDate>Thu, 21 May 2020 18:31:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81278-548</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278.rss">SFoL 64: Duel of the Juggernauts discussion and balance thread</source>
+      </item>
+      <item>
+        <title>SFoL 64: Duel of the Juggernauts discussion and balance thread</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p>Or if you’re Templar then explode the actuary</p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/547">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/547</link>
+        <pubDate>Thu, 21 May 2020 18:29:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81278-547</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278.rss">SFoL 64: Duel of the Juggernauts discussion and balance thread</source>
+      </item>
+      <item>
+        <title>SFoL 64: Duel of the Juggernauts discussion and balance thread</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            <p>what if <code>scum</code></p>
+<p>but <code>invests</code></p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/546">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/546</link>
+        <pubDate>Thu, 21 May 2020 18:28:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81278-546</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278.rss">SFoL 64: Duel of the Juggernauts discussion and balance thread</source>
+      </item>
+      <item>
+        <title>SFoL 64: Duel of the Juggernauts discussion and balance thread</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p><s>just anti claim them lmao</s></p>
+          <p><a href="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/545">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278/545</link>
+        <pubDate>Thu, 21 May 2020 18:28:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81278-545</guid>
+        <source url="https://forum.throneoflies.com/t/sfol-64-duel-of-the-juggernauts-discussion-and-balance-thread/81278.rss">SFoL 64: Duel of the Juggernauts discussion and balance thread</source>
+      </item>
+  </channel>
+</rss>

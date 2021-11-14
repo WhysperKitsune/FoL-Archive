@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>2.1.1 Patch Notes</title>
+    <link>https://forum.throneoflies.com/t/2-1-1-patch-notes/74743</link>
+    <description>## Minor Class/Ability Changes
+
+#### Alchemist:
+* Bleed immunity passive is back.
+
+#### Mastermind:
+* In the Shadows passive has been added back. The Mastermind will appear as Blue Dragon to investigative abilities for the first 3 nights.
+
+#### Reaper:
+* Icy Touch now silences the target player for the entire day and blocks their voting. It now costs 2 souls.
+
+## Major Class/Ability Changes
+
+#### Hunter:
+* Is unique again.
+* Retribution passive has been modified slightly and added back. When the court votes to execute the Hunter, the Hunter will kill the LAST player to accuse them.</description>
+    
+    <lastBuildDate>Tue, 05 Feb 2019 12:59:00 +0000</lastBuildDate>
+    <category>Official Announcements</category>
+    <atom:link href="https://forum.throneoflies.com/t/2-1-1-patch-notes/74743.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>2.1.1 Patch Notes</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>TL;DR EDIT:</strong> This patch never made it out there: We’re going to add some further bug fixes and make it a full patch soon™</p>
+<hr>
+<h1>v2.1.1a</h1>
+<p><strong>Don’t be fooled by the tiny “a”, this was a pretty hefty security/stability patch!</strong></p>
+<ul>
+<li>Security upgrade</li>
+<li>Lobby memory leak fixed</li>
+<li>Added ability for devs to swap regions without a patch if servers go unstable</li>
+<li>Fixed lobby friend “follow” bug (that led to messed up games)</li>
+<li>Limited [self] TTS support for lobby chat. Setup in options. More later.</li>
+<li>Timesnatcher portrait swapped in from placeholder</li>
+<li>Handmaiden portrait swapped in from placeholder</li>
+<li>Numerous class card typos fixed</li>
+</ul>
+<hr>
+<p><img src="/images/emoji/twitter/warning.png?v=9" title=":warning:" class="emoji" alt=":warning:">Since this patch contains security upgrades, unforeseen issues may occur.</p>
+<p><strong>If you encounter a bug, please post logs @ Discord</strong> ( <a href="https://discord.gg/tol" class="inline-onebox-loading">https://discord.gg/tol</a> )'s <span class="hashtag">#bugs</span> section – or in the forum’s <a class="hashtag" href="/c/bug-reports/3">#<span>bug-reports</span></a> (it <em>should</em> cross-post).</p>
+<p>Discuss further in the <a href="https://forum.imperium42.com/t/2-1-1-feedback-thread/74744">2.1.1 Feedback Thread</a> for non-bug related feedback.</p>
+<hr>
+<ul>
+<li><font color="red"><strong>EDIT 1</strong>: Temporarily reverted due to voting bug! It’ll be back soon.</font></li>
+<li><font color="red"><strong>EDIT 2</strong>: Ok, it’s back <img src="/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></font></li>
+<li><font color="red"><strong>EDIT 3</strong>: Nope, it’s gone again – we had some encryption tests that failed, causing gamebreaking failures. Abandoned until a next full-number patch after Chinese New Year</font></li>
+</ul>
+          <p><a href="https://forum.throneoflies.com/t/2-1-1-patch-notes/74743/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-1-1-patch-notes/74743/3</link>
+        <pubDate>Mon, 28 Jan 2019 13:48:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74743-3</guid>
+        <source url="https://forum.throneoflies.com/t/2-1-1-patch-notes/74743.rss">2.1.1 Patch Notes</source>
+      </item>
+      <item>
+        <title>2.1.1 Patch Notes</title>
+        <dc:creator><![CDATA[Ellie]]></dc:creator>
+        <description><![CDATA[
+            <p>Use the <a href="https://forum.imperium42.com/t/2-1-1-feedback-thread/74744" class="inline-onebox-loading">https://forum.imperium42.com/t/2-1-1-feedback-thread/74744</a> for feedback.</p>
+          <p><a href="https://forum.throneoflies.com/t/2-1-1-patch-notes/74743/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-1-1-patch-notes/74743/2</link>
+        <pubDate>Fri, 04 Jan 2019 14:31:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74743-2</guid>
+        <source url="https://forum.throneoflies.com/t/2-1-1-patch-notes/74743.rss">2.1.1 Patch Notes</source>
+      </item>
+      <item>
+        <title>2.1.1 Patch Notes</title>
+        <dc:creator><![CDATA[Ellie]]></dc:creator>
+        <description><![CDATA[
+            <h2>Minor Class/Ability Changes</h2>
+<h4>Alchemist:</h4>
+<ul>
+<li>Bleed immunity passive is back.</li>
+</ul>
+<h4>Mastermind:</h4>
+<ul>
+<li>In the Shadows passive has been added back. The Mastermind will appear as Blue Dragon to investigative abilities for the first 3 nights.</li>
+</ul>
+<h4>Reaper:</h4>
+<ul>
+<li>Icy Touch now silences the target player for the entire day and blocks their voting. It now costs 2 souls.</li>
+</ul>
+<h2>Major Class/Ability Changes</h2>
+<h4>Hunter:</h4>
+<ul>
+<li>Is unique again.</li>
+<li>Retribution passive has been modified slightly and added back. When the court votes to execute the Hunter, the Hunter will kill the LAST player to accuse them.</li>
+</ul>
+          <p><a href="https://forum.throneoflies.com/t/2-1-1-patch-notes/74743/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/2-1-1-patch-notes/74743/1</link>
+        <pubDate>Fri, 04 Jan 2019 14:30:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-74743-1</guid>
+        <source url="https://forum.throneoflies.com/t/2-1-1-patch-notes/74743.rss">2.1.1 Patch Notes</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[Faction Suggestion] The Golden Dragon</title>
+    <link>https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163</link>
+    <description>I was thinking about having a second &quot;Good&quot; faction, with different classes than the Blue Dragon to help make games more diverse. This class would be an alternative to the Blue Dragon, and games would have either Golden Dragon or Yellow Dragon. Here is a suggestion for the faction called &quot;The Golden Dragon&quot;.
+The main differences this faction has over the Blue Dragon are:
+- The Queen is a more &quot;Social&quot; version of the King.
+- The only guaranteed role the Golden Dragon has is &quot;The Bailiff&quot; which works as a nonconvertible Sheriff/Paladin.
+- There are no classes with royal blood, instead the Queen is able to give royal blood to whoever she wants.
+- All royals are able to speak to the Queen and each other at night as long as the Queen is alive.
+- Golden Dragon classes convert into their special unseen classes, and the cult classes may have different abilities than the ones converted from the BD.
+- There is no Prince or jailing of any kind in this faction.
+- The &quot;Healer&quot; of this faction can only heal poison or bleeding a limited number of times, but he can cure poison and protect someone else from attacks on the same night.
+
+I would appreciate comments or feedback. Some of you may have noticed I reused some of my old class suggestions here. I also took some ideas from stuff others have suggested in the past, such as the Queen&#39;s hidden whispers or The Royal Guard&#39;s Dayvig ability.
+
+&lt;big&gt;[color=orange]**The Golden Dragon**[/color]&lt;/big&gt;
+**Objective: Defeat the Unseen or Cult, and any neutrals that seek to do you harm.**
+
+[details=&quot;The Queen&quot;]
+&gt; &lt;big&gt;[color=orange]The Queen[/color]&lt;/big&gt;
+&gt; **Unique Special, Unknown Alignment. Replaces the King.**
+&gt; **Royal Audience (Passive)** - All whispers to and from the Queen are hidden. The Queen can talk with all royals at night.
+&gt; **Loyalty (Passive)** - If the starting Good Queen is executed on trial or killed by a Royal Guard, everyone with Royal Blood will lose it.
+&gt; **The Royal Finger (Day)** - Put someone immediately on trial. 2 uses.
+&gt; **Heir (Day)** - Select a player and give them Royal Blood, or remove it if they already have it. 3 uses if starting Queen, 1 otherwise.
+&gt; **Guards!** - Prevent all visits to a player. Can target yourself. 4 uses if starting Queen, 2 otherwise.
+&gt; **Royal Decree** - Prevent a player from being accused tomorrow. 4 uses if starting Queen, 2 otherwise.
+[/details]
+
+[details=&quot;Investigative Classes&quot;]
+[details=&quot;The Bailiff&quot;]
+&gt; &lt;big&gt;[color=orange]The Bailiff[/color]&lt;/big&gt;
+&gt; **Unique Golden Dragon, Investigative. Cannot be converted. Golden Dragon always start with a Bailiff**
+&gt; **Snoop (Day)** - Read a player&#39;s logs. 1 use.
+&gt; **Investigate (Night)** - Check if a player is a member of the Unseen or the Cult. Unlimited uses. 
+&gt; **Interrogate (Night)** - Select a player. You will know who they visit tonight and who they visited the night before. 3 uses. (Example: &quot;_You interrogated Ivo Bardolf [2]. Ivo Bardolf [2] visited John Doe [5] on Night 5. Ivo Bardolf [2] visited Johanna Doe [4] on Night 4._&quot;).
+[/details]
+
+[details=&quot;The Librarian&quot;]
+&gt; &lt;big&gt;[color=orange]The Librarian[/color]&lt;/big&gt;
+&gt; **Golden Dragon, Investigative. Converts into the Curator or the Seeker.**
+&gt; **Record search (Night)** - Learn a player&#39;s records. Unlimited uses.
+&gt; _Explanation:_
+&gt; _There are three types of records: Medical records, Criminal records and Royal records. You will get one message for every type of record a player has. If a player has no records you will get the message. &quot;Your target has no records.&quot;_
+&gt; _If your target is a Medic/Surgeon/Cult Leader, or has been poisoned/bleeding or attacked and healed before, you will get the following message: &quot;Your target has medical records.&quot;_
+&gt; _If your target has visited or been visited by a member of the Cult/Unseen before, is framed or has visited someone on the night they died (whether they killed them or not) you will get the following message: &quot;Your target has criminal records&quot;._
+&gt; _If your target has ever had royal blood, or has been guarded by the Queen you will get the following message: &quot;Your target has royal records.&quot;_
+&gt; **Extensive research (Night)** - Learn a player&#39;s class type. 3 uses.
+[/details]
+
+
+
+[details=&quot;The Gravekeeper&quot;]
+&gt; &lt;big&gt;[color=orange]The Gravekeeper[/color]&lt;/big&gt;
+&gt; **Golden Dragon, Investigative. Converted into a Mortician or the Seeker**
+&gt; **Change of Faith (Day)** - You will know if the Cult/Unseen converts someone tonight. (You will not know who they converted). 2 uses.
+&gt; **Stalk (Night)** - Select a player. You will know who visits your target. If a Killer, Offensive or Special role visits them you will be alerted. Unlimited uses._(If one of those class types visits your target you will get the following message: &quot;You saw a suspicious figure visit your target last night.&quot;. You wont be alerted if the Mastermind visits your target the first 3 nights)._ 
+&gt; **Exhume (Night)** - Select a dead player. You will get all the notifications they got the night they died. 2 uses. _(Includes stuff that happened to them and the results they got on the night of their death)._
+[/details]
+[/details]
+
+ 
+
+[details=&quot;Support Classes&quot;]
+
+[details=&quot;The Medic&quot;]
+&gt; &lt;big&gt;[color=orange]The Medic[/color]&lt;/big&gt;
+&gt; **Golden Dragon, Support. Converts into the surgeon or the ritualist.**
+&gt; **Toxin Immunity (Passive)** - Immune to poison and bleeding.
+&gt; **Detoxification (Day)** - You will heal a player&#39;s poison or bleeding tonight. 2 uses.
+&gt; **Heal wounds (Night)** - Heal a player&#39;s wounds if they are attacked tonight. Doesn&#39;t heal poison or bleeding. Unlimited uses.
+&gt; **Double shift (Night)** - Select two players. You will heal them if they are attacked tonight. 2 uses.
+[/details]
+
+
+
+[details=&quot;The Mage&quot;]
+&gt; &lt;big&gt;[color=orange]The Mage[/color]&lt;/big&gt;
+&gt; **Golden Dragon, Support. Converts into the enchanter or the ritualist.**
+&gt; **Hocus Pocus! (Night)** - Select a player. He can only be visited by support and killer roles tonight. Unlimited uses. _(Cult leader can visit the player if they are trying to eradicate, but not if they are trying to convert)._ 
+&gt; **Mirror Trick (Night)** - Select a player. They will use their night ability with themselves along with whoever they target. They will not be notified. 3 uses. _(So if your target heals someone else they will heal themselves as well, if they attack someone else they will attack themselves, etc. Doesn&#39;t give the player any kind of feedback, so investigators will not get double results, etc.)_
+[/details]
+[/details]
+
+
+
+[details=&quot;Social Classes&quot;]
+
+[details=&quot;The Maid&quot;]
+&gt; &lt;big&gt;[color=orange]The Maid[/color]&lt;/big&gt;
+&gt; **Golden Dragon, Social. Converts into the cleaner or the apostle.**
+&gt; **Spread Gossip (Day)** - Select a player, they will be able to send an anonymous message to the court. 2 uses, cannot target yourself. _(Message works like a mystic telepathy)._
+&gt; **Expose (Day)** - The next whisper from anyone will be made public. 2 uses.
+&gt; **Hearsay (Night)** - Select two players. They will be able to talk to each other anonymously for the rest of the night. The Maid can hear them, but doesn&#39;t know who is sending the messages. Unlimited uses, cannot target yourself. _(Works like conduit but targets dont know who they are speaking to)._
+&gt; **Eavesdrop (Night)** - Hear the next three messages anyone sends tonight. (Cult/Unseen, Queen Royal Bloodlines, other Maid&#39;s hearsay, Executioner or jailed player, etc). 2 uses.
+[/details]
+
+
+
+[details=&quot;The Elder&quot;]
+&gt; &lt;big&gt;[color=orange]The Elder[/color]&lt;/big&gt;
+&gt; **Golden Dragon, Social. Converts into the old man or the apostle.**
+&gt; **Respect the elderly (Passive)** - If the elder is executed on trial, the exact class and faction of the first person that accused him will be revealed. If the Queen was the first to accuse, then the second person to accuse will be revealed instead.
+&gt; **Moral Support (Day)** - Select a player. Their accusations and votes for pardon or execute will count as two for the rest of the day. Cannot target yourself.  3 uses.
+&gt; **Elder&#39;s Advice (Day)** - Everyone that would abstain on this trial will instead follow the elder&#39;s vote.  2 uses. _(Turns all abstains into executes or pardons depending on what the elder voted. If two elders use this ability with different votes, then both abilities will be canceled)._
+&gt; **Scold (Night)** - Prevent a player from accusing anyone of treason tomorrow. Only your target player will be notified about this. Unlimited uses.
+&gt; **Words of Wisdom (Night)** - Send an anonymous message to the whole court. 3 uses.
+[/details]
+[/details]
+
+
+[details=&quot;Offensive Classes&quot;]
+
+[details=&quot;The Innkeeper&quot;]
+&gt; &lt;big&gt;[color=orange]The Innkeeper[/color]&lt;/big&gt;
+&gt; **Golden Dragon, Offensive. Converts into the Tavern Keeper or invoker.**
+&gt; **Busy man (Passive)** - Immune to occupation and redirection.
+&gt; **Special Mead (Day)** - Serve a special mead instead of beer tonight. Your night abilities will bypass occupy immunity tonight. 1 use.
+&gt; **Special Ale (Day)** - Serve a special ale instead of beer tonight. Everyone occupied by your night abilities tonight will also be occupied the following night. 1 use.
+&gt; **On the house! (Night)** - Give a free beer to a player, occupying them tonight. Unlimited uses.
+&gt; **Dinner Night (Night)** - Make a dinner at a player&#39;s room. Everyone that visits them tonight will be occupied. 3 uses. Cannot be used on yourself.
+[/details]
+
+
+
+[details=&quot;The Captain&quot;]
+&gt; &lt;big&gt;[color=orange]The Captain [/color]&lt;/big&gt;
+&gt; **Golden Dragon, Offensive. Converts into the Commander or Invoker.**
+&gt; **On Duty (Passive)** - Immune to occupation and redirection.
+&gt; **Command (Night)** - Select two players. Force the first player to target the second one. Can force a player to target you, but can&#39;t force them to target themselves. Unlimited uses.
+&gt; **Stand Guard (Night)** - If you are attacked tonight prevent the attack and both you and your attacker will start bleeding and die in one day unless healed. You will not know who attacked you. 2 uses.
+[/details]
+[/details]
+
+[details=&quot;Killer Classes&quot;]
+[details=&quot;The Royal Guard&quot;]
+&gt; &lt;big&gt;[color=orange]The Royal Guard[/color]&lt;/big&gt;
+&gt; **Golden Dragon, Killer. Converts into the Warden or Acolyte**
+&gt; **Public Execution (Day)** - Sacrifice your life to kill a player in plain daylight. Cannot be used until Day 4. Cannot target the Queen. 1 use.
+&gt; **Duel (Night)** - Follow a player tonight. If said player would attack someone, you will prevent said attack and fight them. The wounds of the fight will cause both you and your target to bleed and die in one day unless healed. Unlimited uses. _(Your target will be notified and will know your identity)._
+&gt; **Coup (Night)** - Sacrifice your life to kill the Queen, bypassing her Guards! ability. Cannot be used until Night 4. 1 use.
+[/details]
+
+[details=&quot;The Executioner&quot;]
+&gt; &lt;big&gt;[color=orange]The Executioner[/color]&lt;/big&gt;
+&gt; **Unique Golden Dragon, Killer. Converts into the Hangman or Acolyte.**
+&gt; **Tenacity (Passive)** - Immune to ocupation and redirection
+&gt; **Stalk (Day)** - You will follow a player tonight, learning who they visit. Said player will know you are watching them. Can be used on day 1. Unlimited uses. (Target player will get a message at the beginning of the night saying &quot;The Executioner or Hangman is watching your every move.&quot;).
+&gt; **Questionable Methods (Day)** - Select a player. If they are Neutral, Cult or Unseen they will start bleeding and die in two days. The executioner is not notified if this ability worked or not, and the target player is not notified if they are Golden Dragon. 2 uses.
+&gt; **Death Sentence (Night)** - Sentence a player to death. You will be able to kill them the next night. Cannot be used until night 2. 3 uses. _(This ability has no effects on the player, it just allows you to kill them the following night. Your target is notified if you use this ability on them, so they have the whole day to claim in public and try to convince the executioner that they are good)._
+&gt; **Execute (Night)** - Kill your sentenced player, bypassing everything. Cannot be used until night 3. 1 use.
+[/details]
+[/details]
+
+&lt;big&gt; [color=purple]**Unseen Converts**[/color] &lt;/big&gt;
+[details=&quot;Investigative Classes&quot;]
+
+[details=&quot;The Curator&quot;]
+&gt; &lt;big&gt;[color=purple]The Curator[/color]&lt;/big&gt;
+&gt; **Unseen, Investigative. Converts from the Librarian.**
+&gt; **Extensive research (Night)** - Learn a player&#39;s class type. Unlimited uses.
+&gt; **Fake Logs(Night)** - Swap your logs with another player. 2 uses.
+[/details]
+
+[details=&quot;The Mortician&quot;]
+&gt; &lt;big&gt;[color=purple]The Mortician[/color]&lt;/big&gt;
+&gt; **Unseen, Investigative. Converts from the Gravekeeper.**
+&gt; **Dark Faith (Passive)** - After you die, the Mastermind&#39;s Convert will become available if it was on cooldown, and guarantees that the Mastermind will convert its target. If the target cannot be converted, they will be killed instead.
+&gt; **Stalk (Night)** - Select a player. You will know who visits your target. If a Support or Investigative role visits them you will be alerted. Unlimited uses._(If one of those class types visits your target you will get the following message: &quot;You saw a friendly looking figure visit your target last night.&quot;)._ 
+&gt; **Fake Autopsy (Night)** - Select yourself or a member of the unseen. If said player dies tonight or is executed on trial tomorrow, they will appear as a class of your choice. 2 uses._
+[/details]
+[/details]
+
+ 
+
+[details=&quot;Support Classes&quot;]
+
+[details=&quot;The Surgeon&quot;]
+&gt; &lt;big&gt;[color=purple]The Surgeon[/color]&lt;/big&gt;
+&gt; **Unseen, Support. Converts from the Medic.**
+&gt; **Toxin Immunity (Passive)** - Immune to poison and bleeding.
+&gt; **Placebo (Night)** - Make a poisoned/bleeding player believe they are no longer poisoned/bleeding and prevent healers from visiting them. 2 uses.
+&gt; **Double shift (Night)** - If a member of the unseen would be attacked tonight you will heal them. Also heals poison or bleeding effects on them. 2 uses.
+[/details]
+
+[details=&quot;The Enchanter&quot;]
+&gt; &lt;big&gt;[color=purple]The Enchanter[/color]&lt;/big&gt;
+&gt; **Unseen, Support. Converts from the Mage**
+&gt; **Now you see me... (Night)** - Select a non-unseen player. He can only be visited by the Unseen tonight. 2 uses.
+&gt; **...Now you dont! (Night)** - Select yourself or a member of the unseen. Prevents everyone from visiting them. 2 uses.
+[/details]
+[/details]
+
+
+
+[details=&quot;Social Classes&quot;]
+
+[details=&quot;The Cleaner&quot;]
+&gt; &lt;big&gt;[color=purple]The Cleaner[/color]&lt;/big&gt;
+&gt; **Unseen, Social. Converts from the Maid**
+&gt; **Spread Rumors (Day)** - Select a player, they will be able to send an anonymous message to the court. 2 uses, cannot target yourself. _(Message works like a mystic telepathy)._
+&gt; **Trollbox (Day)** - Target a player and whisper a short phrase into the trollbox. It will appear as if your target said it. Unlimited uses.
+&gt; **Hearsay (Night)** - Select two players. They will be able to talk to each other anonymously for the rest of the night. The Cleaner can hear them, and knows their identity. Unlimited uses, can target yourself. _(Works like conduit but targets dont know who they are speaking to. Unlike the Maid, the messages don&#39;t appear anonymous to the Room Keeper)._
+&gt; **Cleanup (Night)** - Select a player. If said player dies tonight, their class and logs will be hidden. 2 uses.
+[/details]
+
+
+
+[details=&quot;The Old Man&quot;]
+&gt; &lt;big&gt;[color=purple]The Old Man[/color]&lt;/big&gt;
+&gt; **Unseen, Social. Converts from The Elder.**
+&gt;**Loved by the court (Passive)** - If you are executed on trial, you will appear as &quot;The Elder&quot;.
+&gt; **Respect the elderly (Passive)** - If the elder is executed on trial, the first person to accuse him will be revealed as their unseen counterpart. If the player doesn&#39;t have an unseen counterpart, they will appear as &quot;The Assassin&quot; instead. If the Queen was the first to accuse, then the second person to accuse will be revealed instead.
+&gt; **Moral Support (Day)** - Select a player. Their accusations and votes for pardon or execute will count as two for the rest of the day. Cannot target yourself.  3 uses.
+&gt; **Elder&#39;s Advice (Day)** - Everyone that would abstain on this trial will instead follow the elder&#39;s vote.  2 uses. _(Turns all abstains into executes or pardons depending on what the elder voted. If two elders use this ability with different votes, then both abilities will be canceled)._
+&gt; **Scold (Night)** - Prevent a player from accusing anyone of treason tomorrow. Only your target player will be notified about this. Unlimited uses.
+&gt; **Words of Wisdom (Night)** - Send an anonymous message to the whole court. 3 uses.
+[/details]
+[/details]
+
+[details=&quot;Offensive Classes&quot;]
+
+[details=&quot;The Tavern keeper&quot;]
+&gt; &lt;big&gt;[color=purple]The Tavern keeper[/color]&lt;/big&gt;
+&gt; **Unseen, Offensive. Converts from The Innkeeper.**
+&gt; **Busy man (Passive)** - Immune to occupation and redirection.
+&gt; **Special Mead (Day)** - Serve a special mead instead of beer tonight. Your night abilities will bypass occupy immunity tonight. 1 use.
+&gt; **Special Ale (Day)** - Serve a special ale instead of beer tonight. Everyone occupied by your night abilities tonight will also be occupied the following night. 1 use.
+&gt; **On the house! (Night)** - Give a free beer to a player, occupying them tonight. Unlimited uses.
+&gt; **Dinner Night (Night)** - Make a dinner at a player&#39;s room. Everyone that visits them tonight will be occupied. 3 uses. Cannot be used on yourself.
+[/details]
+
+
+[details=&quot;The Commander&quot;]
+&gt; &lt;big&gt;[color=purple]The Commander [/color]&lt;/big&gt;
+&gt; **Unseen, Offensive. Converts from The Captain**
+&gt; **On Duty (Passive)** - Immune to occupation and redirection.
+&gt; **Command (Night)** - Select two players. Force the first player to target the second one. Can force a player to target you, but can&#39;t force them to target themselves. Unlimited uses.
+&gt; **Cruelty (Night)** - Make a player start bleeding. They will die in one day unless healed. 1 use.
+[/details]
+
+[details=&quot;The Hangman&quot;]
+&gt; &lt;big&gt;[color=purple]The Hangman[/color]&lt;/big&gt;
+&gt; **Unseen, Offensive. Converts from the executioner.**
+&gt; **Tenacity (Passive)** - Immune to ocupation and redirection
+&gt; **Stalk (Day)** - You will follow a player tonight, learning who they visit. Said player will know you are watching them. Unlimited uses. (Target player will get a message at the beginning of the night saying &quot;The Executioner or Hangman is watching your every move.&quot;).
+&gt; **Intimidate (Day)** - Intimidate a player. They will be unable to talk, whisper or accuse anyone of treason. They will be unable to edit their logs until the next day. 2 uses.
+&gt; **Death Sentence (Night)** - Sentence a player to death. 3 uses. _(This ability has no effects on the player, it just makes them think the executioner might try to kill them)._
+&gt; **Knock out (Night)** - Make your sentenced player appear dead to the court. They won&#39;t be able to interact with the court in any way or edit their logs, and they won&#39;t count for the max number of votes. They will &quot;revive&quot; the next day unless they are attacked at night. 1 use.
+
+[/details]
+[/details]
+
+[details=&quot;Killer Classes&quot;]
+[details=&quot;The Warden&quot;]
+&gt; &lt;big&gt;[color=purple]The Warden[/color]&lt;/big&gt;
+&gt; **Unseen, Killer. Converts from the Royal Guard.**
+&gt; **Public Execution (Day)** - Sacrifice your life to kill a player in plain daylight. Cannot be used until Day 4. Cannot target the Queen. 1 use.
+&gt; **Second Chance (Night)** - Select a player. If the assassin is unable to kill their target tonight for any reason, you will attack said player. Unlimited uses._
+[/details]
+
+[/details]
+
+
+
+&lt;big&gt; [color=red]**Cult Converts**[/color] &lt;/big&gt;
+
+[details=&quot;The Seeker&quot;]
+&gt; &lt;big&gt;[color=red]The Seeker[/color]&lt;/big&gt;
+&gt; **Cult, Investigative. Converts from investigative roles.**
+&gt; **Mind warp (Night)** - Whoever The Bailiff investigates tonight will appear as a member of the Cult. 1 use.
+&gt; **Gaze (Night)** - Determine a player&#39;s class type. 3 uses.
+[/details]
+
+[details=&quot;The Ritualist&quot;]
+&gt; &lt;big&gt;[color=red]The Ritualist[/color]&lt;/big&gt;
+&gt; **Cult, Support. Converts from support roles.**
+&gt; **Will of Mithras (Passive)** - If you are sacrificed, the Cult Leader’s Eradicate ability will gain an extra charge. 
+&gt; **Brotherhood (Night)** - A chosen Cult member will appear as a member of the Blue Dragon tonight.  3 uses.
+&gt; **Cloak of Corax (Night)** - Prevent everyone but the Cult Leader from visiting a player tonight. 1 use.
+[/details]
+
+
+[details=&quot;The Apostle&quot;]
+&gt; &lt;big&gt;[color=red]The Apostle[/color]&lt;/big&gt;
+&gt; **Cult, Social. Converts from social roles.**
+&gt; **Cult Pressure (Day)** -Select a player. Their accusations and votes for pardon/execution will count as two for the rest of the day. 2 uses. 
+&gt; **Voice of Mithras (Day)** - Select a player. They will be able to send an anonymous message to the court. 2 uses.
+&gt; **Seal of Corax (Night)** - Prevent a player from voting or accusing anyone of treason tomorrow. 3 uses.
+&gt; **Blood Link (Night)** - Select two players. They will be able to talk to each other anonymously for the rest of the night. The Apostle can hear them, and knows their identity. 
+[/details]
+
+[details=&quot;The Invoker&quot;]
+&gt; &lt;big&gt;[color=red]The Invoker[/color]&lt;/big&gt;
+&gt; **Cult, Offensive. Converts from offensive roles.**
+&gt; **Fanatic (Passive)** - Immune to occupation and redirection.
+&gt; **Power of Corax (Day)** - Your night abilities will bypass occupy and redirection immunity tonight. 2 uses.
+&gt; **Chains of Corax (Night)** - Occupy a player. 3 uses.
+&gt; **Strings of Mithras (Night)** - Attempt to control a player, choosing who they target tonight. 2 uses.
+[/details]
+
+[details=&quot;The Acolyte&quot;]
+&gt; &lt;big&gt;[color=red]The Acolyte[/color]&lt;/big&gt;
+&gt; **Cult, Killer. Converts from killer roles.**
+&gt; **Revenge of Mithras** - If you are sacrificed, the cult leader will get one charge of rupture in addition to the normal Eradicate charges.
+&gt; **Heart of Mithras (Night)** - Use an eradicate charge to kill two players tonight. If the Cult leader uses eradicate as well, this ability will fail. 1 use, also uses 1 charge of the Cult Leader&#39;s eradicate.
+&gt; **Ruptured throat (Night)** - Select a player. If they talk or whisper tomorrow they will start bleeding. They will be notified if they are under this ability&#39;s effects. 2 uses.
+[/details]</description>
+    
+    <lastBuildDate>Wed, 25 Apr 2018 15:34:26 +0000</lastBuildDate>
+    <category>Class/Lore/Fanfic</category>
+    <atom:link href="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[Faction Suggestion] The Golden Dragon</title>
+        <dc:creator><![CDATA[CheesyKnives]]></dc:creator>
+        <description><![CDATA[
+            <p>where did he imply he was the first?</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/58">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/58</link>
+        <pubDate>Wed, 25 Apr 2018 15:34:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58163-58</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163.rss">[Faction Suggestion] The Golden Dragon</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Golden Dragon</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <p><em>shhhhhh, green kraken exists. you were not the first to make a new good faction</em></p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/57">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/57</link>
+        <pubDate>Wed, 25 Apr 2018 06:10:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58163-57</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163.rss">[Faction Suggestion] The Golden Dragon</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Golden Dragon</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>Okay, thank you for the feedback, here are some changes I made:</p>
+<ul>
+<li>I changed the mortician’s useless ability (oops).</li>
+<li>I completely changed the executioner and hangman, there is no jailing in the Golden Dragon anymore. Made the hangman a “risky” convert on purpose, can be really powerful but if the unseen doesn’t play their cards right it will be obvious there is a hangman in the game.</li>
+<li>I removed political pressure from the Elder and the Old Man and added another “social” ability that doesn’t involve vote manipulation.</li>
+</ul>
+<p>Stuff Im still thinking about:</p>
+<ul>
+<li>Im not really sure how to change the Maid. A part of me really wants an ability that can hear night conversations, but I agree it could be really underpowered since evils will most likely just don’t talk at night if they know there is a risk of a Maid listening. Also, the ability to read whispers will still make her easy to confirm since there is no other class that can read whispers except maybe Possessor. One change I have in mind is to give her an ability that notifies the maid if a player speaks at night, but won’t reveal their messages.</li>
+<li>I really want to make the Old Man able to choose the class he will reveal his accuser as, but there is no way to do that without removing one of his day abilities which I believe are more important.</li>
+</ul>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/56">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/56</link>
+        <pubDate>Mon, 16 Apr 2018 18:41:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58163-56</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163.rss">[Faction Suggestion] The Golden Dragon</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Golden Dragon</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>Sorry about that, fixed.</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/55">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/55</link>
+        <pubDate>Mon, 16 Apr 2018 18:28:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58163-55</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163.rss">[Faction Suggestion] The Golden Dragon</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Golden Dragon</title>
+        <dc:creator><![CDATA[Htm]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="psychoneirik" data-post="1" data-topic="58163">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/psychoneirik/40/12950_2.png" class="avatar"> psychoneirik:</div>
+<blockquote>
+<p>The Invoker</p>
+<p>Cult, Killer. Converts from killer roles.</p>
+<p>Revenge of Mithras - If you are sacrificed, the cult leader will get one charge of rupture in addition of the normal Eradicate charges.</p>
+<p>Heart of Mithras (Night) - Use an eradicate charge to kill two players tonight. If the Cult leader uses eradicate as well, this ability will fail. 1 use, also uses 1 charge of the Cult Leader’s eradicate.</p>
+<p>Ruptured throat (Night) - Select a player. If they talk or whisper tomorrow they will start bleeding. They will be notified if they are under this ability’s effects. 2 uses.</p>
+</blockquote>
+</aside>
+<p>Btw I don’t mean to be a jerk but the fact that Acolyte has Invoker on it annoys me…</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/54">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/54</link>
+        <pubDate>Mon, 16 Apr 2018 17:19:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58163-54</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163.rss">[Faction Suggestion] The Golden Dragon</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Golden Dragon</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="MaximusPrime" data-post="49" data-topic="58163">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/maximusprime/40/9732_2.png" class="avatar"> MaximusPrime:</div>
+<blockquote>
+<p>Executioner - Only 3 uses of Imprison? Boring(and useless). Give him more night abilities at the very least.</p>
+</blockquote>
+</aside>
+<p>Was trying to be careful since he is not even guaranteed and should match the power of other “normal” classes. Might have been too careful though.</p>
+<aside class="quote no-group" data-username="MaximusPrime" data-post="49" data-topic="58163">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/maximusprime/40/9732_2.png" class="avatar"> MaximusPrime:</div>
+<blockquote>
+<p>Mortician - Dark Faith is useless since you can’t convert with him cause you’d have full slots. Make it the next convert instead or something</p>
+</blockquote>
+</aside>
+<p>Yeah I didnt even think about that xD. Changed it.</p>
+<aside class="quote no-group" data-username="MaximusPrime" data-post="49" data-topic="58163">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/maximusprime/40/9732_2.png" class="avatar"> MaximusPrime:</div>
+<blockquote>
+<p>Hangman - Class card says executioner, also blackmail is too obvious, especially if he is outed as the executioner already. Maybe have it not notify them that they are blackmailed? Also same thing with Executioner, he needs more night abilities.</p>
+</blockquote>
+</aside>
+<p>Didn’t want to give him a free kill like the executioner. Blackmail is risky but could be powerful, the main use is to silence someone important so the assassin can kill them the next night. I could also change it so blackmailed players cannot edit their logs.</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/53">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/53</link>
+        <pubDate>Mon, 16 Apr 2018 17:15:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58163-53</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163.rss">[Faction Suggestion] The Golden Dragon</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Golden Dragon</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>That completely went through my head lol, let me change it.</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/52">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/52</link>
+        <pubDate>Mon, 16 Apr 2018 16:56:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58163-52</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163.rss">[Faction Suggestion] The Golden Dragon</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Golden Dragon</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="psychoneirik" data-post="1" data-topic="58163">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/psychoneirik/40/12950_2.png" class="avatar"> psychoneirik:</div>
+<blockquote>
+<p>Dark Faith (Day) - If the mastermind attempts to convert an immune player tonight, they will be attacked instead. 1 use.</p>
+</blockquote>
+</aside>
+<p>Mortician: “I used dark words. Now convert someone!”</p>
+<p>Mastermind: “Ummm… we are kinda at full capacity?”</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/51">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/51</link>
+        <pubDate>Mon, 16 Apr 2018 16:54:24 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58163-51</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163.rss">[Faction Suggestion] The Golden Dragon</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Golden Dragon</title>
+        <dc:creator><![CDATA[Twil1ight]]></dc:creator>
+        <description><![CDATA[
+            <p>Here is a thing. I would love to see alternative faction to Blue Dragon but also i would expect that classes have slighty less similarities. Bah, i would probably see a big step replacing The Prince with completely different class type with similar power.</p>
+<p>Although it was solid attempt.</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/50">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/50</link>
+        <pubDate>Mon, 16 Apr 2018 06:41:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58163-50</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163.rss">[Faction Suggestion] The Golden Dragon</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Golden Dragon</title>
+        <dc:creator><![CDATA[MaximusPrime]]></dc:creator>
+        <description><![CDATA[
+            <p>Maid - You’ll likely get nothing useful out of Eavesdrop and it’s super confirmable if you manage to see the good Queen’s messages. Gossip is also too confirmable. Change it so your target can send an anonymous message the next day instead and change eavesdrop to allow the maid to see all whispers the next day instead.</p>
+<p>Mortician - Dark Faith is useless since you can’t convert with him cause you’d have full slots. Make it the next convert instead or something</p>
+<p>Executioner - Only 3 uses of Imprison? Boring(and useless). Give him more night abilities at the very least.</p>
+<p>Cleaner - Was it previously named room keeper? Descriptions are kinda weird?</p>
+<p>Old Man - Change up his abilities from pure voting I guess, cause his passive is useless af. People will be on the look out for Old Man, obviously so allow him to choose what the person’s “revealed” role looks like at least. I would replace political pressure tbh, probably removing it from both the Elder and Old Man</p>
+<p>Hangman - Class card says executioner, also blackmail is too obvious, especially if he is outed as the executioner already. Maybe have it not notify them that they are blackmailed? Also same thing with Executioner, he needs more night abilities.</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/49">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/49</link>
+        <pubDate>Mon, 16 Apr 2018 06:40:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58163-49</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163.rss">[Faction Suggestion] The Golden Dragon</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Golden Dragon</title>
+        <dc:creator><![CDATA[Queen_Alfa]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>looks at FoL doing fine with an unconvertable hard counter</strong></p>
+<p>What are yall whining about? If you can’t convert em, just kill em, or use deceit to frame them</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/48">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/48</link>
+        <pubDate>Mon, 16 Apr 2018 02:06:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58163-48</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163.rss">[Faction Suggestion] The Golden Dragon</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Golden Dragon</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Ashe" data-post="46" data-topic="58163">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/ashe/40/10225_2.png" class="avatar"> Ashe:</div>
+<blockquote>
+<p>Urge to “back in my day” rant rising</p>
+</blockquote>
+</aside>
+<p>Back in my day we didn’t have snoops <img src="/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"></p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/47">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/47</link>
+        <pubDate>Mon, 16 Apr 2018 01:17:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58163-47</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163.rss">[Faction Suggestion] The Golden Dragon</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Golden Dragon</title>
+        <dc:creator><![CDATA[Ashe]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Htm" data-post="8" data-topic="58163">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/htm/40/20871_2.png" class="avatar"> Htm:</div>
+<blockquote>
+<p>We already saw what happened with sheriff</p>
+</blockquote>
+</aside>
+<p>Urge to “back in my day” rant rising</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/46">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/46</link>
+        <pubDate>Mon, 16 Apr 2018 00:46:15 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58163-46</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163.rss">[Faction Suggestion] The Golden Dragon</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Golden Dragon</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>TBH some are UP’d</p>
+<p>But as long as unseen are more powerfull than cult</p>
+<p>-Shrugs-</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/45">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/45</link>
+        <pubDate>Sun, 15 Apr 2018 23:13:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58163-45</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163.rss">[Faction Suggestion] The Golden Dragon</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Golden Dragon</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>Some of the converts may be a bit over tuned though, so tell me if one of them seems a bit overpowered.</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/44">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/44</link>
+        <pubDate>Sun, 15 Apr 2018 23:08:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58163-44</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163.rss">[Faction Suggestion] The Golden Dragon</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Golden Dragon</title>
+        <dc:creator><![CDATA[psychoneirik]]></dc:creator>
+        <description><![CDATA[
+            <p>There, I made converts.</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/43">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/43</link>
+        <pubDate>Sun, 15 Apr 2018 23:07:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58163-43</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163.rss">[Faction Suggestion] The Golden Dragon</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Golden Dragon</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Too bad</p>
+<p>They can rot for<br>
+All I care.</p>
+<p>they have enough gold</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/42">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/42</link>
+        <pubDate>Sun, 15 Apr 2018 22:56:17 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58163-42</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163.rss">[Faction Suggestion] The Golden Dragon</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Golden Dragon</title>
+        <dc:creator><![CDATA[Nerbins]]></dc:creator>
+        <description><![CDATA[
+            <p>But the golden dragon needs a squire if it wants to be a good-good.</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/41">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/41</link>
+        <pubDate>Sun, 15 Apr 2018 22:55:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58163-41</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163.rss">[Faction Suggestion] The Golden Dragon</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Golden Dragon</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>It’s in fol</p>
+<p>Go find it <img src="/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/40">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/40</link>
+        <pubDate>Sun, 15 Apr 2018 22:54:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58163-40</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163.rss">[Faction Suggestion] The Golden Dragon</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Golden Dragon</title>
+        <dc:creator><![CDATA[Nerbins]]></dc:creator>
+        <description><![CDATA[
+            <p>Where’s squire? We need a squire.</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/39">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/39</link>
+        <pubDate>Sun, 15 Apr 2018 22:54:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58163-39</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163.rss">[Faction Suggestion] The Golden Dragon</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Golden Dragon</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh look you snooped someone.</p>
+<p>They have reaper logs</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/38">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/38</link>
+        <pubDate>Sun, 15 Apr 2018 22:31:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58163-38</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163.rss">[Faction Suggestion] The Golden Dragon</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Golden Dragon</title>
+        <dc:creator><![CDATA[Htm]]></dc:creator>
+        <description><![CDATA[
+            <p>I think it could be good if snoop was removed and adding better convertibles</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/37">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/37</link>
+        <pubDate>Sun, 15 Apr 2018 22:31:15 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58163-37</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163.rss">[Faction Suggestion] The Golden Dragon</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Golden Dragon</title>
+        <dc:creator><![CDATA[Htm]]></dc:creator>
+        <description><![CDATA[
+            <p>Why what?</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/36">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/36</link>
+        <pubDate>Sun, 15 Apr 2018 22:29:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58163-36</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163.rss">[Faction Suggestion] The Golden Dragon</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Golden Dragon</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Not?</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/35">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/35</link>
+        <pubDate>Sun, 15 Apr 2018 22:29:33 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58163-35</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163.rss">[Faction Suggestion] The Golden Dragon</source>
+      </item>
+      <item>
+        <title>[Faction Suggestion] The Golden Dragon</title>
+        <dc:creator><![CDATA[Memesky]]></dc:creator>
+        <description><![CDATA[
+            <p>Why</p>
+          <p><a href="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/34">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163/34</link>
+        <pubDate>Sun, 15 Apr 2018 22:28:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-58163-34</guid>
+        <source url="https://forum.throneoflies.com/t/faction-suggestion-the-golden-dragon/58163.rss">[Faction Suggestion] The Golden Dragon</source>
+      </item>
+  </channel>
+</rss>

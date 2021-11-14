@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[Theoretical] &quot;All Any&quot;-ish Larger Game Mode</title>
+    <link>https://forum.throneoflies.com/t/theoretical-all-any-ish-larger-game-mode/80020</link>
+    <description>Note: This is more or less a for fun mockup of Town of Salem&#39;s All Any mode and how it could work in ToL. This is not meant to be taken seriously until the average active playerbase grows. For anyone who doesn&#39;t know, All Any is a game mode where All players are given the &quot;Any&quot; role spawn, meaning they could be anything. You can have a game with a Mafia (Unseen/Cult) of 6 or have 3-4 NKs. It&#39;ll usually be chaotic and a for fun mode **that is absolutely not balanced; it&#39;s not *intended* to be.** I cannot stress that enough.
+
+All that said, due to how ToL works over ToS, you can&#39;t exactly have an &quot;All Any&quot; mode when you have stuff like Kingship, converting, and much more powerful NKs, so this is the closest mockup I could make so there&#39;s still some semblance of ToL structure.
+
+&gt; **Spawn List** (more detailed reasoning found in each section below)
+- King: 0-1
+- Blue Dragon: 5-19
+- Unseen: 1-4
+- Cult: 1-5
+- Neutrals: 1-6
+- Neutral Killers: 1-3
+
+&gt; **General**
+- The maximum player size for this game mode is 24, up from 16
+- The King is randomly chosen from one of the following classes: Good King, Unseen King, Cult King, Psycho King, Neutral King, or there can be games where a King doesn&#39;t even spawn!
+- - If there is no King spawn, there will be a normal vote for a King (like normal games when a King dies) on Day 2. Said King will also have &quot;Starting King&quot; abilities.
+- - Psycho King does not count against the number of NKs that can spawn in a game.
+
+&gt; **Blue Dragon**
+- Unique Blue Dragon classes (Hunter, Mystic, and Prince) are now semi-unique and can spawn up to 2.
+- - Mystics cannot use Link Minds nor Conduit on another Mystic nor a player who is already linked (via either ability) by a second Mystic.
+- - If two Princes jail the same target, they will both be able to communicate to each other and the jailed target that night. Either Prince can also choose to execute the target, resulting in the jailed player&#39;s death (if both choose to execute, same thing happens, just both lose a charge instead of one). The other Prince&#39;s chat in the chat history will read &quot;Prince [Other]&quot;, while yours will read &quot;Prince (You)&quot;.
+- - Prince is no longer forcibly spawned but will have a relatively high spawn rate for 1 (and a much lower spawn rate for 2 now that Prince is now semi-unique).
+- Both Sheriffs and Paladins can now find Cult and Unseen (respectively)
+- - Sheriff Scouts will trigger for Cult. If both Cult and Unseen visit a target, a Sheriff will be told that both parties visited the target.
+- - Expert Investigation will alert the Sheriff that the target is Cult or Unseen. Surveille will result in the correct Cult or Unseen class. Framing a Sheriff&#39;s target or Mind Warping the Sheriff will randomly pick between a Cult or Unseen frame feedback. Framed Surveille results will randomly pick between Cult Leader or Assassin.
+- - Paladin&#39;s Smite will now kill a Mastermind in the same way it kills a Cult Leader.
+- - Paladin&#39;s Test Faith will work just like Sheriff&#39;s Expert Investigation above.
+- - Sheriffs and Paladins are no longer forcibly spawned, but have a relatively high spawn rate for 1 (each).
+
+&gt; **Unseen &amp; Cult**
+- A Paladin would be convertible to the Unseen as a Marshal.
+- A Sheriff would be convertible to the Cult as a Seeker.
+- Both the Unseen and Cult are *not* on the same team. The Unseen need to defeat the Blue Dragon, Cult, and all NKs. The Cult need to do the same (but defeating Unseen instead of themselves, obviously).
+- The start-of-game spawn for Unseen is 1-4, and it will always follow the Unseen hierarchy.
+- - If only 1 Unseen spawns, it will always be a Mastermiind and your first convert would convert to an Assassin (and also be given the Apprentice passive). If 3 Unseen spawns, it would be a Mastermind, Assassin, and a randomly chosen Unseen convert. If 4 Unseen spawns, same thing but you get a second random convert. Both converts can be the same converted Unseen class.
+- - If a game started with 4 Unseen, the Assassin dies, and both converted Unseen classes are still alive, one of the two will be randomly chosen as the next Assassin.
+- - Unseen cannot convert *to* 4, but can start a game with 4.
+- The start-of-game spawn for Cult is 1-5.
+- - If only 1 Cult spawns, it will always be a Cult Leader. 2-5 Cult would be a Cult Leader and 1-4 random cultists.
+- - If a CL dies and all remaining Cultists are ones who spawned at the start, the game will randomly choose from the alive cultists to become the next CL since all of them were &quot;the longest living cult member&quot;.
+- - Cult cannot convert *to* 5, but can start a game with 5.
+- The Cult starts with 1 extra charge of Eradicate (4 up from 3), to make up for the extra number of players they may need to kill.
+
+&gt; **Neutral Killers** (and PK)
+- Neutral Killers now have a 1-3 spawn rate. Remember when I said this game mode isn&#39;t balanced?
+- Psycho King is *not* considered in this 1-3 spawn rate. You can have all 3 NKs *and* a PK!
+- NKs are still unique, so if multiple spawn, each one will be different.
+- Should more NKs be added in the future, the spawn rate will increase to match however many NKs exist. (the max player size may also need to change to accommodate the increased killing, but let&#39;s not worry about that for now).
+- NKs are *not* on a team together and still need to defeat all the other factions as well.
+- Should a Possessor use Possess on a Reaper, the attack will fail and the Possess charge will be refunded, unless the Reaper was out of souls.
+
+Note: I&#39;m kinda hung up on a second iteration where NKs are actually on a team, which would be more chaotic. Just for fun, here&#39;s a quick write-up of rules if NKs were on a team (side-note: All instances of &quot;NK&quot; apply to Psycho King too, regardless if they spawned as PK or were an elected NK):
+- All NKs will still win as long as at least 1 NK is still alive, similar to dead BD/Unseen/Cult/Sellswords still able to win if their faction wins.
+- All NKs get a new passive that makes them immune to all NK attacks, even immunity-piercing ones. NKs will also be notified of an NK attack on them by which specific NK and what specific attack rather than just saying &quot;you were attacked by immune&quot;, while the attacking NK will still get the usual &quot;your target was immune&quot; feedback. If you find an immune target as an NK, it might be a good idea to zip it.
+- - Sorcerer&#39;s Perception will trigger on NKs, but the NK target will still be attacked, being notified that the Sorcerer tried to attack them with Magic Missile (letting them know Sorc is in the game).
+- - Sorcerer&#39;s Living Bombs will still explode an NK, but they will simply be notified that they were blown up but immune to it.
+- - Reaper&#39;s Gather Darkness soul cost will be refunded if they tried to attack another NK.
+- NKs do not meet in a room like Unseen or Cult and have no idea how many allies (if any) they have.
+
+&gt; **Neutrals (non-Killers)**
+- Neutrals now have a 1-6 spawn rate.
+- Unique Neutrals (Inquisitor, Pretender, Scorned, and Sellsword) are now semi-unique and can now spawn up to 2. All other Neutrals that were semi-unique (Alchemist, Fool, and Mercenary) are now non-unique and can spawn up to 3.
+- Two Inquisitors can have one or more of the same targets as Heretics.
+- - A player who is marked as a Heretic for both Inquisitors will be alerted with two messages at the beginning of the game. They&#39;re essentially a &quot;double Heretic&quot; who have been so heathenistic that two Inquisitors wish to put them down.
+- Mercenaries now need 9 Brilders to win, up from 6.
+- - If multiple Mercenaries and/or Sellswords use Stand Guard/Stonewall on the same target, they will all succeed. All Mercs will also be given a Brilder per player. Sellswords still allow attacks to go through as usual, but a Merc will block it if the target isn&#39;t occupation-immune (PS: This needs to be a change in the normal game mode too rather than &quot;the smallest number wins&quot;).
+- - - The same also goes for Merc Shields all on the same target. All Shields will trigger and earn each Merc 3 Brilders if they had their Shield break.
+- Two Scorned can mark the same target and will both be credited if their target is executed. The end result is still the same (frames on frames don&#39;t remove a frame).
+- - If they both Disguise the same target and that player is executed, it will randomly pick between one of the two Disguise choices.
+- Sellswords still have the same win condition, only needing to see the Blue Dragon defeated. This means they win with Unseen, Cult, NKs, and even draws.</description>
+    
+    <lastBuildDate>Wed, 08 Jan 2020 11:53:01 +0000</lastBuildDate>
+    <category>Feedback/Suggestions</category>
+    <atom:link href="https://forum.throneoflies.com/t/theoretical-all-any-ish-larger-game-mode/80020.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[Theoretical] &quot;All Any&quot;-ish Larger Game Mode</title>
+        <dc:creator><![CDATA[Zubumafu]]></dc:creator>
+        <description><![CDATA[
+            <p>You simply can’t follow up so many players.<br>
+Even if 30-40 BDs spawn, im certein this will end in evil victory 80% of the time</p>
+          <p><a href="https://forum.throneoflies.com/t/theoretical-all-any-ish-larger-game-mode/80020/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/theoretical-all-any-ish-larger-game-mode/80020/8</link>
+        <pubDate>Wed, 08 Jan 2020 11:53:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80020-8</guid>
+        <source url="https://forum.throneoflies.com/t/theoretical-all-any-ish-larger-game-mode/80020.rss">[Theoretical] &quot;All Any&quot;-ish Larger Game Mode</source>
+      </item>
+      <item>
+        <title>[Theoretical] &quot;All Any&quot;-ish Larger Game Mode</title>
+        <dc:creator><![CDATA[Geyde]]></dc:creator>
+        <description><![CDATA[
+            <p>Could be fun<br>
+I recommend against having extra NKs, if NKs at all</p>
+          <p><a href="https://forum.throneoflies.com/t/theoretical-all-any-ish-larger-game-mode/80020/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/theoretical-all-any-ish-larger-game-mode/80020/7</link>
+        <pubDate>Tue, 07 Jan 2020 05:07:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80020-7</guid>
+        <source url="https://forum.throneoflies.com/t/theoretical-all-any-ish-larger-game-mode/80020.rss">[Theoretical] &quot;All Any&quot;-ish Larger Game Mode</source>
+      </item>
+      <item>
+        <title>[Theoretical] &quot;All Any&quot;-ish Larger Game Mode</title>
+        <dc:creator><![CDATA[Mercenary]]></dc:creator>
+        <description><![CDATA[
+            <p>Make Templar Great Again</p>
+          <p><a href="https://forum.throneoflies.com/t/theoretical-all-any-ish-larger-game-mode/80020/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/theoretical-all-any-ish-larger-game-mode/80020/6</link>
+        <pubDate>Tue, 07 Jan 2020 04:50:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80020-6</guid>
+        <source url="https://forum.throneoflies.com/t/theoretical-all-any-ish-larger-game-mode/80020.rss">[Theoretical] &quot;All Any&quot;-ish Larger Game Mode</source>
+      </item>
+      <item>
+        <title>[Theoretical] &quot;All Any&quot;-ish Larger Game Mode</title>
+        <dc:creator><![CDATA[JakeTheWolfie]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah but the community would still need to say what abilities the Unseen Pally would have</p>
+          <p><a href="https://forum.throneoflies.com/t/theoretical-all-any-ish-larger-game-mode/80020/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/theoretical-all-any-ish-larger-game-mode/80020/5</link>
+        <pubDate>Sun, 05 Jan 2020 07:16:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80020-5</guid>
+        <source url="https://forum.throneoflies.com/t/theoretical-all-any-ish-larger-game-mode/80020.rss">[Theoretical] &quot;All Any&quot;-ish Larger Game Mode</source>
+      </item>
+      <item>
+        <title>[Theoretical] &quot;All Any&quot;-ish Larger Game Mode</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="JakeTheWolfie" data-post="3" data-topic="80020">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/jakethewolfie/40/19497_2.png" class="avatar"> JakeTheWolfie:</div>
+<blockquote>
+<p>There would have to be a Paladin Unseen convert.</p>
+</blockquote>
+</aside>
+<p>There is mentions of a <em>Templar</em> (Unseen Paladin) in the game files. But as far as I know it never existed in game.</p>
+          <p><a href="https://forum.throneoflies.com/t/theoretical-all-any-ish-larger-game-mode/80020/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/theoretical-all-any-ish-larger-game-mode/80020/4</link>
+        <pubDate>Sun, 05 Jan 2020 07:11:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80020-4</guid>
+        <source url="https://forum.throneoflies.com/t/theoretical-all-any-ish-larger-game-mode/80020.rss">[Theoretical] &quot;All Any&quot;-ish Larger Game Mode</source>
+      </item>
+      <item>
+        <title>[Theoretical] &quot;All Any&quot;-ish Larger Game Mode</title>
+        <dc:creator><![CDATA[JakeTheWolfie]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Polarthief" data-post="1" data-topic="80020">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/polarthief/40/3752_2.png" class="avatar"> Polarthief:</div>
+<blockquote>
+<p>A Paladin would be convertible to the Unseen as a Marshal.</p>
+</blockquote>
+</aside>
+<p>Nah, I don’t think that a Paladin &gt; Marshal would really make sense in the mechanics of Unseen. There would have to be a Paladin Unseen convert.</p>
+<aside class="quote no-group" data-username="Polarthief" data-post="1" data-topic="80020">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/polarthief/40/3752_2.png" class="avatar"> Polarthief:</div>
+<blockquote>
+<p>Expert Investigation will alert the Sheriff that the target is Cult or Unseen. Surveille will result in the correct Cult or Unseen class. Framing a Sheriff’s target or Mind Warping the Sheriff will randomly pick between a Cult or Unseen frame feedback. Framed Surveille results will randomly pick between Cult Leader or Assassin.</p>
+</blockquote>
+</aside>
+<p>Idea: Instead of either Cult or Unseen Feedback, this feedback instead, in a color other than the default one: “Your target is suspicious!”<br>
+Surveille still works the same.</p>
+<aside class="quote no-group" data-username="Polarthief" data-post="1" data-topic="80020">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/polarthief/40/3752_2.png" class="avatar"> Polarthief:</div>
+<blockquote>
+<p>Paladin’s Smite will now kill a Mastermind in the same way it kills a Cult Leader.</p>
+</blockquote>
+</aside>
+<p>Mastermind is Naturally death Immune… does smite bypass immunity now?</p>
+<aside class="quote no-group" data-username="Polarthief" data-post="1" data-topic="80020">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/polarthief/40/3752_2.png" class="avatar"> Polarthief:</div>
+<blockquote>
+<p>Paladin’s Test Faith will work just like Sheriff’s Expert Investigation above.</p>
+</blockquote>
+</aside>
+<p>Same thing as Invest for Sheriff</p>
+<p>Something I didn’t see: Is one healer guaranteed for this game mode?</p>
+          <p><a href="https://forum.throneoflies.com/t/theoretical-all-any-ish-larger-game-mode/80020/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/theoretical-all-any-ish-larger-game-mode/80020/3</link>
+        <pubDate>Sun, 05 Jan 2020 03:10:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80020-3</guid>
+        <source url="https://forum.throneoflies.com/t/theoretical-all-any-ish-larger-game-mode/80020.rss">[Theoretical] &quot;All Any&quot;-ish Larger Game Mode</source>
+      </item>
+      <item>
+        <title>[Theoretical] &quot;All Any&quot;-ish Larger Game Mode</title>
+        <dc:creator><![CDATA[JakeTheWolfie]]></dc:creator>
+        <description><![CDATA[
+            <p>How would two princes work if they jailed eachother, or if one jailed the other?</p>
+          <p><a href="https://forum.throneoflies.com/t/theoretical-all-any-ish-larger-game-mode/80020/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/theoretical-all-any-ish-larger-game-mode/80020/2</link>
+        <pubDate>Sun, 05 Jan 2020 03:02:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80020-2</guid>
+        <source url="https://forum.throneoflies.com/t/theoretical-all-any-ish-larger-game-mode/80020.rss">[Theoretical] &quot;All Any&quot;-ish Larger Game Mode</source>
+      </item>
+      <item>
+        <title>[Theoretical] &quot;All Any&quot;-ish Larger Game Mode</title>
+        <dc:creator><![CDATA[Polarthief]]></dc:creator>
+        <description><![CDATA[
+            <p>Note: This is more or less a for fun mockup of Town of Salem’s All Any mode and how it could work in ToL. This is not meant to be taken seriously until the average active playerbase grows. For anyone who doesn’t know, All Any is a game mode where All players are given the “Any” role spawn, meaning they could be anything. You can have a game with a Mafia (Unseen/Cult) of 6 or have 3-4 NKs. It’ll usually be chaotic and a for fun mode <strong>that is absolutely not balanced; it’s not <em>intended</em> to be.</strong> I cannot stress that enough.</p>
+<p>All that said, due to how ToL works over ToS, you can’t exactly have an “All Any” mode when you have stuff like Kingship, converting, and much more powerful NKs, so this is the closest mockup I could make so there’s still some semblance of ToL structure.</p>
+<blockquote>
+<p><strong>Spawn List</strong> (more detailed reasoning found in each section below)</p>
+</blockquote>
+<ul>
+<li>King: 0-1</li>
+<li>Blue Dragon: 5-19</li>
+<li>Unseen: 1-4</li>
+<li>Cult: 1-5</li>
+<li>Neutrals: 1-6</li>
+<li>Neutral Killers: 1-3</li>
+</ul>
+<blockquote>
+<p><strong>General</strong></p>
+</blockquote>
+<ul>
+<li>The maximum player size for this game mode is 24, up from 16</li>
+<li>The King is randomly chosen from one of the following classes: Good King, Unseen King, Cult King, Psycho King, Neutral King, or there can be games where a King doesn’t even spawn!</li>
+<li>
+<ul>
+<li>If there is no King spawn, there will be a normal vote for a King (like normal games when a King dies) on Day 2. Said King will also have “Starting King” abilities.</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>Psycho King does not count against the number of NKs that can spawn in a game.</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p><strong>Blue Dragon</strong></p>
+</blockquote>
+<ul>
+<li>Unique Blue Dragon classes (Hunter, Mystic, and Prince) are now semi-unique and can spawn up to 2.</li>
+<li>
+<ul>
+<li>Mystics cannot use Link Minds nor Conduit on another Mystic nor a player who is already linked (via either ability) by a second Mystic.</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>If two Princes jail the same target, they will both be able to communicate to each other and the jailed target that night. Either Prince can also choose to execute the target, resulting in the jailed player’s death (if both choose to execute, same thing happens, just both lose a charge instead of one). The other Prince’s chat in the chat history will read “Prince [Other]”, while yours will read “Prince (You)”.</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>Prince is no longer forcibly spawned but will have a relatively high spawn rate for 1 (and a much lower spawn rate for 2 now that Prince is now semi-unique).</li>
+</ul>
+</li>
+<li>Both Sheriffs and Paladins can now find Cult and Unseen (respectively)</li>
+<li>
+<ul>
+<li>Sheriff Scouts will trigger for Cult. If both Cult and Unseen visit a target, a Sheriff will be told that both parties visited the target.</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>Expert Investigation will alert the Sheriff that the target is Cult or Unseen. Surveille will result in the correct Cult or Unseen class. Framing a Sheriff’s target or Mind Warping the Sheriff will randomly pick between a Cult or Unseen frame feedback. Framed Surveille results will randomly pick between Cult Leader or Assassin.</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>Paladin’s Smite will now kill a Mastermind in the same way it kills a Cult Leader.</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>Paladin’s Test Faith will work just like Sheriff’s Expert Investigation above.</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>Sheriffs and Paladins are no longer forcibly spawned, but have a relatively high spawn rate for 1 (each).</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p><strong>Unseen &amp; Cult</strong></p>
+</blockquote>
+<ul>
+<li>A Paladin would be convertible to the Unseen as a Marshal.</li>
+<li>A Sheriff would be convertible to the Cult as a Seeker.</li>
+<li>Both the Unseen and Cult are <em>not</em> on the same team. The Unseen need to defeat the Blue Dragon, Cult, and all NKs. The Cult need to do the same (but defeating Unseen instead of themselves, obviously).</li>
+<li>The start-of-game spawn for Unseen is 1-4, and it will always follow the Unseen hierarchy.</li>
+<li>
+<ul>
+<li>If only 1 Unseen spawns, it will always be a Mastermiind and your first convert would convert to an Assassin (and also be given the Apprentice passive). If 3 Unseen spawns, it would be a Mastermind, Assassin, and a randomly chosen Unseen convert. If 4 Unseen spawns, same thing but you get a second random convert. Both converts can be the same converted Unseen class.</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>If a game started with 4 Unseen, the Assassin dies, and both converted Unseen classes are still alive, one of the two will be randomly chosen as the next Assassin.</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>Unseen cannot convert <em>to</em> 4, but can start a game with 4.</li>
+</ul>
+</li>
+<li>The start-of-game spawn for Cult is 1-5.</li>
+<li>
+<ul>
+<li>If only 1 Cult spawns, it will always be a Cult Leader. 2-5 Cult would be a Cult Leader and 1-4 random cultists.</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>If a CL dies and all remaining Cultists are ones who spawned at the start, the game will randomly choose from the alive cultists to become the next CL since all of them were “the longest living cult member”.</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>Cult cannot convert <em>to</em> 5, but can start a game with 5.</li>
+</ul>
+</li>
+<li>The Cult starts with 1 extra charge of Eradicate (4 up from 3), to make up for the extra number of players they may need to kill.</li>
+</ul>
+<blockquote>
+<p><strong>Neutral Killers</strong> (and PK)</p>
+</blockquote>
+<ul>
+<li>Neutral Killers now have a 1-3 spawn rate. Remember when I said this game mode isn’t balanced?</li>
+<li>Psycho King is <em>not</em> considered in this 1-3 spawn rate. You can have all 3 NKs <em>and</em> a PK!</li>
+<li>NKs are still unique, so if multiple spawn, each one will be different.</li>
+<li>Should more NKs be added in the future, the spawn rate will increase to match however many NKs exist. (the max player size may also need to change to accommodate the increased killing, but let’s not worry about that for now).</li>
+<li>NKs are <em>not</em> on a team together and still need to defeat all the other factions as well.</li>
+<li>Should a Possessor use Possess on a Reaper, the attack will fail and the Possess charge will be refunded, unless the Reaper was out of souls.</li>
+</ul>
+<p>Note: I’m kinda hung up on a second iteration where NKs are actually on a team, which would be more chaotic. Just for fun, here’s a quick write-up of rules if NKs were on a team (side-note: All instances of “NK” apply to Psycho King too, regardless if they spawned as PK or were an elected NK):</p>
+<ul>
+<li>All NKs will still win as long as at least 1 NK is still alive, similar to dead BD/Unseen/Cult/Sellswords still able to win if their faction wins.</li>
+<li>All NKs get a new passive that makes them immune to all NK attacks, even immunity-piercing ones. NKs will also be notified of an NK attack on them by which specific NK and what specific attack rather than just saying “you were attacked by immune”, while the attacking NK will still get the usual “your target was immune” feedback. If you find an immune target as an NK, it might be a good idea to zip it.</li>
+<li>
+<ul>
+<li>Sorcerer’s Perception will trigger on NKs, but the NK target will still be attacked, being notified that the Sorcerer tried to attack them with Magic Missile (letting them know Sorc is in the game).</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>Sorcerer’s Living Bombs will still explode an NK, but they will simply be notified that they were blown up but immune to it.</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>Reaper’s Gather Darkness soul cost will be refunded if they tried to attack another NK.</li>
+</ul>
+</li>
+<li>NKs do not meet in a room like Unseen or Cult and have no idea how many allies (if any) they have.</li>
+</ul>
+<blockquote>
+<p><strong>Neutrals (non-Killers)</strong></p>
+</blockquote>
+<ul>
+<li>Neutrals now have a 1-6 spawn rate.</li>
+<li>Unique Neutrals (Inquisitor, Pretender, Scorned, and Sellsword) are now semi-unique and can now spawn up to 2. All other Neutrals that were semi-unique (Alchemist, Fool, and Mercenary) are now non-unique and can spawn up to 3.</li>
+<li>Two Inquisitors can have one or more of the same targets as Heretics.</li>
+<li>
+<ul>
+<li>A player who is marked as a Heretic for both Inquisitors will be alerted with two messages at the beginning of the game. They’re essentially a “double Heretic” who have been so heathenistic that two Inquisitors wish to put them down.</li>
+</ul>
+</li>
+<li>Mercenaries now need 9 Brilders to win, up from 6.</li>
+<li>
+<ul>
+<li>If multiple Mercenaries and/or Sellswords use Stand Guard/Stonewall on the same target, they will all succeed. All Mercs will also be given a Brilder per player. Sellswords still allow attacks to go through as usual, but a Merc will block it if the target isn’t occupation-immune (PS: This needs to be a change in the normal game mode too rather than “the smallest number wins”).</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>
+<ul>
+<li>The same also goes for Merc Shields all on the same target. All Shields will trigger and earn each Merc 3 Brilders if they had their Shield break.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Two Scorned can mark the same target and will both be credited if their target is executed. The end result is still the same (frames on frames don’t remove a frame).</li>
+<li>
+<ul>
+<li>If they both Disguise the same target and that player is executed, it will randomly pick between one of the two Disguise choices.</li>
+</ul>
+</li>
+<li>Sellswords still have the same win condition, only needing to see the Blue Dragon defeated. This means they win with Unseen, Cult, NKs, and even draws.</li>
+</ul>
+          <p><a href="https://forum.throneoflies.com/t/theoretical-all-any-ish-larger-game-mode/80020/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/theoretical-all-any-ish-larger-game-mode/80020/1</link>
+        <pubDate>Sun, 05 Jan 2020 00:37:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-80020-1</guid>
+        <source url="https://forum.throneoflies.com/t/theoretical-all-any-ish-larger-game-mode/80020.rss">[Theoretical] &quot;All Any&quot;-ish Larger Game Mode</source>
+      </item>
+  </channel>
+</rss>

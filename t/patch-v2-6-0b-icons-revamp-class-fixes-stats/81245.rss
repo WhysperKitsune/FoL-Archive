@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Patch v2.6.0b - Icons revamp, Class Fixes, Stats</title>
+    <link>https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245</link>
+    <description>&gt; **Patch v2.6.0:** *Tons of Good \*\*\*\**
+
+# [color=lime]Summary[/color]
+
+1. Tons of notable, class-specific bug fixes.
+2. Added some basic stats to lobby &quot;Account&quot; section.
+3. Revamped nearly *all* non-iconic icons.
+
+__________
+
+## Class Fixes/Balance
+* Fixed a bunch of *convert* abil bugs:
+  * Both Observer/Princess night abils now show feedback upon convert.
+  * Redirecting into someone being converted will now show feedback, as well.
+  * Since this was a shared fix, there are likely other &quot;feedback+convert&quot; combo bugs that will magically resolve from this.
+![image|450x369](upload://1f6GmEowQYPujP2aPWNYFHSuZKJ.jpeg)  
+* Suicide toggle message no longer shows to evil King.
+* Reaper&#39;s *Gather Darkness* abil will no longer desync via a visual bug when attempting to cancel.
+* The way day abilities cancel were backend-revamped, allowing more abilities to cancel and with proper feedback messages, as follows (some fixes, some additions):
+  * Reaper&#39;s *Gather Darkness* abil is now [properly] cancelable + displays cancel feedback msg.
+  * Alchemist&#39;s *Stoneskin* abil is now cancelable + displays cancel feedback msg.
+  * Chronomancer&#39;s *Pocket Dimension* abil is now cancelable + displays cancel feedback msg.
+  * Physician/Ritualist/Herbalist&#39;s *Exhume* abils are now cancelable + displays cancel feedback msg.
+  * Mercenary&#39;s *Don Armor* is now cancelable + displays cancel feedback msg.
+  * *TrollBox* abils now displays cancel feedback msg.
+  * ...and probably others I forgot to list just for flavor text.
+* Sellsword no longer wins with BD King.
+* Maid&#39;s *Nosy Servants* abil can now target reaped/soulless dead players.
+* *Heal* abils will now properly say &quot;did not require&quot; instead of &quot;could not&quot; when healing someone being defended by a Knight.
+* Aristocrat&#39;s *Intrigue* abil no longer spam framed *Heal* abil feedback 2x. This will likely also fix related, gossip-like 2x spam bugs.
+* Hunter&#39;s *Bear Companion* abil priority lowered to ensure abils like *Defend* and *Safeguard* don&#39;t take priority.
+* Fixed Poss Facelift often [unintentionally] showing default disguise when canceling or changing beyond the 1st choice.
+* Fixed *Debauchery*-type abils that was causing targets that had an active, targeted abil to randomly become redirect immune.
+* Prince, Butler and possibly another [Hunter?] no longer announce *suicide* messages (from using a shared mechanic).
+* Inquisitor&#39;s *Holy Blessing* passive abil renamed to *Relentless Pursuit*.
+* Removed the cringy salesman text for the Assassin&#39;s *2-for-1* abil for *hovering*, but kept it in the full description.
+* [color=lime](More below @ v2.6a + v2.6b addendums)[/color]
+
+## Stats
+
+* There is now a stats summary section under &quot;Account&quot; (screenshot below).
+* We will add on to this later. We actually track tons of per-class stats, but we haven&#39;t tested them for accuracy, yet.
+![](https://i.imgur.com/gSEX6pt.png)
+(The stats above are from test accounts, so ignore the math :stuck_out_tongue: )
+
+## Class Cards, Text, Icons
+* **Swapped out *most all* ability icons** for better, higher-quality, more-relevant ones (don&#39;t worry -- we kept the iconic ones). Demo below:
+![image|690x364](upload://i2HkKSrEsduaAawN1SKZiqUeVGD.jpeg)  
+* Removed the bloaty *Hover* tab by popular request.
+* Removed or swapped out some obsolete tips/class summaries.
+* Swapped mentions of *Psychic* to *Mystic* in class card tips.
+* Made the infinity symbol for # charges for less-awkward sizing/alignment compared to numbers.
+* Got rid of the outline on # charges to look more &quot;clean&quot; (and ensured every icon corner has a dark corner area for visibility) + moved it to the bottom-right corner.
+* Mass changed wording of &quot;themself&quot; to &quot;themselves&quot; in class cards and feedback because OCD.
+* Updated tutorial to use the new icons/size/style.
+* *Newcomer* tips will no longer be displayed in the tutorial since players don&#39;t even get access to logs until later.
+
+## Game Over
+* Added a new victory and defeat theme song (30s) to make game over more satisfying.
+* Faded in the winner screen background/text/logo on separate timers to look less &#39;90s.
+* Added the end screen music back (not sure when it went away).
+
+## General
+* Removed live game &quot;disconnected/gray&quot; names to prevent numerous forms of metagaming. ~~This is why we can&#39;t have nice things.~~
+* Online friends list buttons will now disable if they&#39;re starting or in-game. You may still invite users at the end screen or login screen (showing just &#39;Online&#39;) to queue up an invite.
+* *Newcomer* tips are now displayed by starting with an `*` asterisk and displayed in a gray-blue color.
+* The daily *Newcomer* reminder tip to log actions+results now fits on 1 line for most default chat layouts to be less annoying while we burn this meta in new player minds :slight_smile: 
+![image|471x42](upload://dB8NcemMfsPLrp0dkZn7UerDpWV.png) 
+* Fixed lobby &quot;Customize&quot; header from showing the wrong highlighted header when swapping out and back in.
+* Fixed class cards from showing up too early on the loading screen via TAB (that could cause issues if not fully loaded).
+* Set max cap on tutorial whisper box to prevent freeze for someone who would oddly paste thousands of characters inside.
+
+_________
+
+## More
+
+See addendums below for hotfixes.
+
+_________
+
+## Dev Notes
+* Last patch fixed the FPS drops *and* we were able to keep the lighting quality upgrade, woot! Best of both worlds! One day, I&#39;ll completely revamp lighting *completely* at minimal FPS cost (I know a way - just need the time to do it).
+* This was supposed to be a pure bug fix patch, but distractions happen. Oops :) Hope you enjoy the sweet distractions on top of the bug fixes. We&#39;re really excited about these new icons that actually fit way better than the old ones (no more Inquisitor attacking people with spears).</description>
+    
+    <lastBuildDate>Sun, 10 May 2020 13:27:48 +0000</lastBuildDate>
+    <category>Official Announcements</category>
+    <atom:link href="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Patch v2.6.0b - Icons revamp, Class Fixes, Stats</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="SabreOverdrive" data-post="5" data-topic="81245">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/sabreoverdrive/40/19308_2.png" class="avatar"> SabreOverdrive:</div>
+<blockquote>
+<p><em>“Changed <strong>Probe</strong> Icon” Intensifies</em></p>
+</blockquote>
+</aside>
+<p>Here’s the irony. We changed most all icons <em>except</em> Probe!</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/23</link>
+        <pubDate>Sun, 10 May 2020 13:27:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81245-23</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245.rss">Patch v2.6.0b - Icons revamp, Class Fixes, Stats</source>
+      </item>
+      <item>
+        <title>Patch v2.6.0b - Icons revamp, Class Fixes, Stats</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>Adding WIP known bugs for next hotfix</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/22</link>
+        <pubDate>Tue, 05 May 2020 02:42:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81245-22</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245.rss">Patch v2.6.0b - Icons revamp, Class Fixes, Stats</source>
+      </item>
+      <item>
+        <title>Patch v2.6.0b - Icons revamp, Class Fixes, Stats</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>Release candidate being set live within the next few minutes!</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/21</link>
+        <pubDate>Mon, 04 May 2020 07:22:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81245-21</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245.rss">Patch v2.6.0b - Icons revamp, Class Fixes, Stats</source>
+      </item>
+      <item>
+        <title>Patch v2.6.0b - Icons revamp, Class Fixes, Stats</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>Release candidate for v2.6.0b due later today in off-peak</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/20</link>
+        <pubDate>Mon, 04 May 2020 05:22:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81245-20</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245.rss">Patch v2.6.0b - Icons revamp, Class Fixes, Stats</source>
+      </item>
+      <item>
+        <title>Patch v2.6.0b - Icons revamp, Class Fixes, Stats</title>
+        <dc:creator><![CDATA[Kape]]></dc:creator>
+        <description><![CDATA[
+            <p>Yes, I did use it a couple times.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/19</link>
+        <pubDate>Wed, 29 Apr 2020 14:57:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81245-19</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245.rss">Patch v2.6.0b - Icons revamp, Class Fixes, Stats</source>
+      </item>
+      <item>
+        <title>Patch v2.6.0b - Icons revamp, Class Fixes, Stats</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote group-Admin" data-username="í42-Xblade" data-post="16" data-topic="81245">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<ul>
+<li>Nosy Servants - new ability since it now works!</li>
+</ul>
+</blockquote>
+</aside>
+<p>People actually tried to use this ability?</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/18</link>
+        <pubDate>Wed, 29 Apr 2020 13:20:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81245-18</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245.rss">Patch v2.6.0b - Icons revamp, Class Fixes, Stats</source>
+      </item>
+      <item>
+        <title>Patch v2.6.0b - Icons revamp, Class Fixes, Stats</title>
+        <dc:creator><![CDATA[Rogue]]></dc:creator>
+        <description><![CDATA[
+            <p>Does this mean that Cult can’t suicide in their games?</p>
+<aside class="quote group-Admin" data-username="í42-Xblade" data-post="16" data-topic="81245">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>Suicide is now Unseen only, bolstering Unseen.</p>
+</blockquote>
+</aside>
+<p>Typo:</p>
+<blockquote>
+<ul>
+<li>Suicide announcement is no longer seen by the King.</li>
+</ul>
+</blockquote>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/17</link>
+        <pubDate>Wed, 29 Apr 2020 05:31:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81245-17</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245.rss">Patch v2.6.0b - Icons revamp, Class Fixes, Stats</source>
+      </item>
+      <item>
+        <title>Patch v2.6.0b - Icons revamp, Class Fixes, Stats</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>These are all gameplay [beyond lobby] updates. Balance, you mean? New balance updates are pointless if core class bugs exist. In itself, it <em>is</em> balance since abilities will actually do what they say they’re supposed to do. We just added new mechanics [that should’ve existed, but didn’t] to about 10+ abilities!</p>
+<h2>Balance Changes</h2>
+<ul>
+<li>Observer/Princess night abils now show feedback upon converting! They can now finish their ability to get extra investigative info, giving an advantage to the Unseen.</li>
+<li>Redirecting additionally shows feedback, allowing better strategy next day.</li>
+<li>Suicide announcement is no longer seen by the King.</li>
+<li>Reaper’s abilities consume less souls, buffing him.</li>
+<li>Sellsword has less chance to win since can’t win with BD.</li>
+<li>Nosy Servants - new ability since it now works!</li>
+</ul>
+<p>…The list goes on. Heck, Nosy Servants and some Reaper abils didn’t work at <em>all</em>. We can’t leave these kinds of bugs. Since I’m the only full-time dev, bug fixes are essential to progress the game, while balance before bug fixes only stirs a dirty bucket of water around. It’s not as exciting as new forms of balance, but it’s essential to the game’s stability to first knock these out.</p>
+<h2>TL;DR</h2>
+<p>Class fixes <em>are</em> balance changes. If abils didn’t do what they said they’d do, it’s like adding completely new abilities once they are fixed. Or, at least, adding additional mechanics to them.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/16</link>
+        <pubDate>Wed, 29 Apr 2020 05:06:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81245-16</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245.rss">Patch v2.6.0b - Icons revamp, Class Fixes, Stats</source>
+      </item>
+      <item>
+        <title>Patch v2.6.0b - Icons revamp, Class Fixes, Stats</title>
+        <dc:creator><![CDATA[Zubumafu]]></dc:creator>
+        <description><![CDATA[
+            <p>We really need a gameplay update soon</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/15</link>
+        <pubDate>Tue, 28 Apr 2020 18:47:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81245-15</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245.rss">Patch v2.6.0b - Icons revamp, Class Fixes, Stats</source>
+      </item>
+      <item>
+        <title>Patch v2.6.0b - Icons revamp, Class Fixes, Stats</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>Pending:</p>
+<p><a href="https://forum.imperium42.com/t/patch-v2-6-0-live/81245/2?u=%C3%AD42-xblade" class="onebox" target="_blank" rel="noopener">https://forum.imperium42.com/t/patch-v2-6-0-live/81245/2?u=í42-xblade</a></p>
+<p>EDIT: Reverted - back to testing.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/14</link>
+        <pubDate>Mon, 27 Apr 2020 09:35:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81245-14</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245.rss">Patch v2.6.0b - Icons revamp, Class Fixes, Stats</source>
+      </item>
+      <item>
+        <title>Patch v2.6.0b - Icons revamp, Class Fixes, Stats</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>Beta Testing &gt;&gt; Live (Release Candidate)</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/13</link>
+        <pubDate>Mon, 27 Apr 2020 08:32:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81245-13</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245.rss">Patch v2.6.0b - Icons revamp, Class Fixes, Stats</source>
+      </item>
+      <item>
+        <title>Patch v2.6.0b - Icons revamp, Class Fixes, Stats</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>Alpha &gt;&gt; Beta testing</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/12</link>
+        <pubDate>Thu, 23 Apr 2020 04:40:32 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81245-12</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245.rss">Patch v2.6.0b - Icons revamp, Class Fixes, Stats</source>
+      </item>
+      <item>
+        <title>Patch v2.6.0b - Icons revamp, Class Fixes, Stats</title>
+        <dc:creator><![CDATA[TryphonX]]></dc:creator>
+        <description><![CDATA[
+            <p>If this is about the possibility of metagaming, I could find a workaround to keep the feature, but in a way that can’t be metagamed.</p>
+<p>Alive players would only see alive players that have left (not counting reaped).<br>
+Dead players would see both alive and dead players that left.</p>
+<p>It was brought up a while ago, when I added the feature, but we had more serious issues at the time, than the possibility of metagame. Now that a big number of bugs is fixed, I could remove the metagamability of that.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/10</link>
+        <pubDate>Tue, 21 Apr 2020 02:08:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81245-10</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245.rss">Patch v2.6.0b - Icons revamp, Class Fixes, Stats</source>
+      </item>
+      <item>
+        <title>Patch v2.6.0b - Icons revamp, Class Fixes, Stats</title>
+        <dc:creator><![CDATA[Rogue]]></dc:creator>
+        <description><![CDATA[
+            <p>Aight cool, that was my intention, the wiki.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/9</link>
+        <pubDate>Sun, 19 Apr 2020 01:22:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81245-9</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245.rss">Patch v2.6.0b - Icons revamp, Class Fixes, Stats</source>
+      </item>
+      <item>
+        <title>Patch v2.6.0b - Icons revamp, Class Fixes, Stats</title>
+        <dc:creator><![CDATA[Mew151]]></dc:creator>
+        <description><![CDATA[
+            <p>Why take away the offline greyed out? Best thing to be added to the game since Alchemist 4 potions and multiple Hunters in the same patch (RIP, awesome changes) <img src="/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/8</link>
+        <pubDate>Sat, 18 Apr 2020 19:18:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81245-8</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245.rss">Patch v2.6.0b - Icons revamp, Class Fixes, Stats</source>
+      </item>
+      <item>
+        <title>Patch v2.6.0b - Icons revamp, Class Fixes, Stats</title>
+        <dc:creator><![CDATA[TryphonX]]></dc:creator>
+        <description><![CDATA[
+            <p>We’ll give them out to some people when the update is off testing to update the wiki and all that stuff.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/7</link>
+        <pubDate>Sat, 18 Apr 2020 12:35:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81245-7</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245.rss">Patch v2.6.0b - Icons revamp, Class Fixes, Stats</source>
+      </item>
+      <item>
+        <title>Patch v2.6.0b - Icons revamp, Class Fixes, Stats</title>
+        <dc:creator><![CDATA[Rogue]]></dc:creator>
+        <description><![CDATA[
+            <p>Can we get a link to all the image files?</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/6</link>
+        <pubDate>Sat, 18 Apr 2020 12:24:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81245-6</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245.rss">Patch v2.6.0b - Icons revamp, Class Fixes, Stats</source>
+      </item>
+      <item>
+        <title>Patch v2.6.0b - Icons revamp, Class Fixes, Stats</title>
+        <dc:creator><![CDATA[SabreOverdrive]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote group-Admin" data-username="í42-Xblade" data-post="1" data-topic="81245">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p><strong>Swapped out <em>most all</em> ability icons</strong> for better, higher-quality, more-relevant ones (don’t worry – we kept the iconic ones).</p>
+</blockquote>
+</aside>
+<aside class="quote group-Admin" data-username="í42-Xblade" data-post="1" data-topic="81245">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>Revamped nearly <em>all</em> non-iconic icons.</p>
+</blockquote>
+</aside>
+<p><em>“Changed <strong>Probe</strong> Icon” Intensifies</em></p>
+<p>Yes. I made that joke again. Im totally original.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/5</link>
+        <pubDate>Sat, 18 Apr 2020 10:12:25 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81245-5</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245.rss">Patch v2.6.0b - Icons revamp, Class Fixes, Stats</source>
+      </item>
+      <item>
+        <title>Patch v2.6.0b - Icons revamp, Class Fixes, Stats</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/4</link>
+        <pubDate>Sat, 18 Apr 2020 10:08:17 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81245-4</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245.rss">Patch v2.6.0b - Icons revamp, Class Fixes, Stats</source>
+      </item>
+      <item>
+        <title>Patch v2.6.0b - Icons revamp, Class Fixes, Stats</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/3</link>
+        <pubDate>Sun, 12 Apr 2020 13:45:32 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81245-3</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245.rss">Patch v2.6.0b - Icons revamp, Class Fixes, Stats</source>
+      </item>
+      <item>
+        <title>Patch v2.6.0b - Icons revamp, Class Fixes, Stats</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p><font color="lime">Additionally:</font></p>
+<hr>
+<h2>v2.6a</h2>
+<ul>
+<li>Fixed breaking bug for top-left panel.</li>
+<li>Removed “drawn” stat.</li>
+<li>Fixed tutorial “Assassinate” showing incorrect name/hover text.</li>
+<li>Some last-second icon changes.</li>
+</ul>
+<hr>
+<h2>v2.6b</h2>
+<blockquote>
+<p>v2.6.0~v2.6.0a Bugs</p>
+</blockquote>
+<ul>
+<li>Night abils now interact normally again after n2.</li>
+<li>Make v2.6’s new Victory theme song fanfare less abrupt.</li>
+<li>Suicide btn now shows correctly from v2.6</li>
+<li>Fixed negative win stat caching on loss (instead of losses++).</li>
+<li>More last-second icon changes.</li>
+</ul>
+<blockquote>
+<p>Live Bugs</p>
+</blockquote>
+<ul>
+<li>Fixed some ability spam exploits that would allow # of ability charges to go higher than what’s expected.</li>
+<li>Fixed several types of “Cannot Be Healed” &lt;&gt; “Does Not Require Healing” inconsistencies.</li>
+<li>Fixed an bug/exploit that allowed you to use both day abilities with the following combo:
+<ol>
+<li>When using a day ability when you have 2 day abilities…</li>
+<li>And the ability selected is <em>cancelable</em>…</li>
+<li>And has no target panel.</li>
+</ol>
+<ul>
+<li>For example, this fixed still being allowed to use Reaper’s <em>Icy Touch</em> after using <em>Gather Darkness</em>.</li>
+<li>This also fixed abils that were <em>cancelable</em>, but would remove charges if you clicked it since it wasn’t technically supposed to be clickable at that time (eg, <em>Exhume</em> after you already used <em>Inoculate</em>).</li>
+</ul>
+</li>
+<li>Possessor disguised as Cult will no longer trigger cult wins visual bug</li>
+<li>Handmaiden’s <em>Prying Servants</em> and similar abilities now allow targeting the dead Possessor body using his <em>Possess</em> abil.</li>
+<li>Corrected the color style for when a Butler ends your life via poison.</li>
+<li>Fixed incorrect Possessor class cards day tip info.</li>
+<li>Clamped class cards top left flags so they can’t drag.</li>
+</ul>
+<hr>
+<h2>v2.6.1</h2>
+<p><a href="https://forum.imperium42.com/t/patch-v2-6-1-beta-testing/81687" class="onebox" target="_blank" rel="noopener">https://forum.imperium42.com/t/patch-v2-6-1-beta-testing/81687</a></p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/2</link>
+        <pubDate>Sun, 12 Apr 2020 13:44:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81245-2</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245.rss">Patch v2.6.0b - Icons revamp, Class Fixes, Stats</source>
+      </item>
+      <item>
+        <title>Patch v2.6.0b - Icons revamp, Class Fixes, Stats</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <blockquote>
+<p><strong>Patch v2.6.0:</strong> <em>Tons of Good ****</em></p>
+</blockquote>
+<h1><font color="lime">Summary</font></h1>
+<ol>
+<li>Tons of notable, class-specific bug fixes.</li>
+<li>Added some basic stats to lobby “Account” section.</li>
+<li>Revamped nearly <em>all</em> non-iconic icons.</li>
+</ol>
+<hr>
+<h2>Class Fixes/Balance</h2>
+<ul>
+<li>Fixed a bunch of <em>convert</em> abil bugs:
+<ul>
+<li>Both Observer/Princess night abils now show feedback upon convert.</li>
+<li>Redirecting into someone being converted will now show feedback, as well.</li>
+<li>Since this was a shared fix, there are likely other “feedback+convert” combo bugs that will magically resolve from this.<br>
+<img src="/uploads/default/original/3X/0/8/08b75e2384498386de200b758381646ed6451795.jpeg" alt="image" data-base62-sha1="1f6GmEowQYPujP2aPWNYFHSuZKJ" width="450" height="369">
+</li>
+</ul>
+</li>
+<li>Suicide toggle message no longer shows to evil King.</li>
+<li>Reaper’s <em>Gather Darkness</em> abil will no longer desync via a visual bug when attempting to cancel.</li>
+<li>The way day abilities cancel were backend-revamped, allowing more abilities to cancel and with proper feedback messages, as follows (some fixes, some additions):
+<ul>
+<li>Reaper’s <em>Gather Darkness</em> abil is now [properly] cancelable + displays cancel feedback msg.</li>
+<li>Alchemist’s <em>Stoneskin</em> abil is now cancelable + displays cancel feedback msg.</li>
+<li>Chronomancer’s <em>Pocket Dimension</em> abil is now cancelable + displays cancel feedback msg.</li>
+<li>Physician/Ritualist/Herbalist’s <em>Exhume</em> abils are now cancelable + displays cancel feedback msg.</li>
+<li>Mercenary’s <em>Don Armor</em> is now cancelable + displays cancel feedback msg.</li>
+<li>
+<em>TrollBox</em> abils now displays cancel feedback msg.</li>
+<li>…and probably others I forgot to list just for flavor text.</li>
+</ul>
+</li>
+<li>Sellsword no longer wins with BD King.</li>
+<li>Maid’s <em>Nosy Servants</em> abil can now target reaped/soulless dead players.</li>
+<li>
+<em>Heal</em> abils will now properly say “did not require” instead of “could not” when healing someone being defended by a Knight.</li>
+<li>Aristocrat’s <em>Intrigue</em> abil no longer spam framed <em>Heal</em> abil feedback 2x. This will likely also fix related, gossip-like 2x spam bugs.</li>
+<li>Hunter’s <em>Bear Companion</em> abil priority lowered to ensure abils like <em>Defend</em> and <em>Safeguard</em> don’t take priority.</li>
+<li>Fixed Poss Facelift often [unintentionally] showing default disguise when canceling or changing beyond the 1st choice.</li>
+<li>Fixed <em>Debauchery</em>-type abils that was causing targets that had an active, targeted abil to randomly become redirect immune.</li>
+<li>Prince, Butler and possibly another [Hunter?] no longer announce <em>suicide</em> messages (from using a shared mechanic).</li>
+<li>Inquisitor’s <em>Holy Blessing</em> passive abil renamed to <em>Relentless Pursuit</em>.</li>
+<li>Removed the cringy salesman text for the Assassin’s <em>2-for-1</em> abil for <em>hovering</em>, but kept it in the full description.</li>
+<li><font color="lime">(More below @ v2.6a + v2.6b addendums)</font></li>
+</ul>
+<h2>Stats</h2>
+<ul>
+<li>There is now a stats summary section under “Account” (screenshot below).</li>
+<li>We will add on to this later. We actually track tons of per-class stats, but we haven’t tested them for accuracy, yet.<br>
+<img src="https://i.imgur.com/gSEX6pt.png" alt=""><br>
+(The stats above are from test accounts, so ignore the math <img src="/images/emoji/twitter/stuck_out_tongue.png?v=9" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"> )</li>
+</ul>
+<h2>Class Cards, Text, Icons</h2>
+<ul>
+<li>
+<strong>Swapped out <em>most all</em> ability icons</strong> for better, higher-quality, more-relevant ones (don’t worry – we kept the iconic ones). Demo below:<br>
+<img src="/uploads/default/original/3X/7/e/7e753c0047deb383e43ed0399525ad51196c4807.jpeg" alt="image" data-base62-sha1="i2HkKSrEsduaAawN1SKZiqUeVGD" width="690" height="364">
+</li>
+<li>Removed the bloaty <em>Hover</em> tab by popular request.</li>
+<li>Removed or swapped out some obsolete tips/class summaries.</li>
+<li>Swapped mentions of <em>Psychic</em> to <em>Mystic</em> in class card tips.</li>
+<li>Made the infinity symbol for # charges for less-awkward sizing/alignment compared to numbers.</li>
+<li>Got rid of the outline on # charges to look more “clean” (and ensured every icon corner has a dark corner area for visibility) + moved it to the bottom-right corner.</li>
+<li>Mass changed wording of “themself” to “themselves” in class cards and feedback because OCD.</li>
+<li>Updated tutorial to use the new icons/size/style.</li>
+<li>
+<em>Newcomer</em> tips will no longer be displayed in the tutorial since players don’t even get access to logs until later.</li>
+</ul>
+<h2>Game Over</h2>
+<ul>
+<li>Added a new victory and defeat theme song (30s) to make game over more satisfying.</li>
+<li>Faded in the winner screen background/text/logo on separate timers to look less '90s.</li>
+<li>Added the end screen music back (not sure when it went away).</li>
+</ul>
+<h2>General</h2>
+<ul>
+<li>Removed live game “disconnected/gray” names to prevent numerous forms of metagaming. <s>This is why we can’t have nice things.</s>
+</li>
+<li>Online friends list buttons will now disable if they’re starting or in-game. You may still invite users at the end screen or login screen (showing just ‘Online’) to queue up an invite.</li>
+<li>
+<em>Newcomer</em> tips are now displayed by starting with an <code>*</code> asterisk and displayed in a gray-blue color.</li>
+<li>The daily <em>Newcomer</em> reminder tip to log actions+results now fits on 1 line for most default chat layouts to be less annoying while we burn this meta in new player minds <img src="/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"><br>
+<img src="/uploads/default/original/3X/5/f/5f4f15290838ce50b829ef1364d68591a73098e1.png" alt="image" data-base62-sha1="dB8NcemMfsPLrp0dkZn7UerDpWV" width="471" height="42">
+</li>
+<li>Fixed lobby “Customize” header from showing the wrong highlighted header when swapping out and back in.</li>
+<li>Fixed class cards from showing up too early on the loading screen via TAB (that could cause issues if not fully loaded).</li>
+<li>Set max cap on tutorial whisper box to prevent freeze for someone who would oddly paste thousands of characters inside.</li>
+</ul>
+<hr>
+<h2>More</h2>
+<p>See addendums below for hotfixes.</p>
+<hr>
+<h2>Dev Notes</h2>
+<ul>
+<li>Last patch fixed the FPS drops <em>and</em> we were able to keep the lighting quality upgrade, woot! Best of both worlds! One day, I’ll completely revamp lighting <em>completely</em> at minimal FPS cost (I know a way - just need the time to do it).</li>
+<li>This was supposed to be a pure bug fix patch, but distractions happen. Oops <img src="/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> Hope you enjoy the sweet distractions on top of the bug fixes. We’re really excited about these new icons that actually fit way better than the old ones (no more Inquisitor attacking people with spears).</li>
+</ul>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245/1</link>
+        <pubDate>Sun, 12 Apr 2020 13:43:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81245-1</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-6-0b-icons-revamp-class-fixes-stats/81245.rss">Patch v2.6.0b - Icons revamp, Class Fixes, Stats</source>
+      </item>
+  </channel>
+</rss>

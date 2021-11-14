@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[Class Suggestion] Saboteur (Neutral Offensive)</title>
+    <link>https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125</link>
+    <description>**Lore:** The Saboteur is someone who takes pleasure in sabotaging people&#39;s efforts.
+
+Name - Saboteur
+Faction - Neutral
+Class - Offensive
+
+Win Condition: Successfully sabotage five players&#39; actions.
+
+**Passive:**
+Sneaky: occupation and redirect immune; cannot be bypassed
+
+Spite: death immune once
+
+**Night Abilities:**
+
+Sabotage (Night, Unlimited)
+Target a player. If they are able to be Sabotaged and take any action, it is changed this night.  You can only successfully Sabotage each player once.  Once your win condition is met, this ability is disabled.  Will not use up limited abilities&#39; uses. King, Neutral Killers, Mystics and Illusionists cannot be Sabotaged.
+Feedback: &quot;You sabotaged Target&#39;s actions.&quot;
+                  &quot;You could not sabotage Target’s actions. A Court Wizard cast magic barrier on Target, or Target 
+                    did not take an action, or Target is Sabotage immune.”
+
+Conceal (Night, 2 uses)
+Prevent visits to you.
+Feedback: &quot;You prevented visitors to you.&quot;
+
+**Notes:**
+Here is how each class&#39; abilities will change if targeted for Sabotage.  Their feedback also changes and you can see them in the quotes.  And to make sure the players know they were sabotaged, the feedback will be in a different color than the usual color.
+**Alchemist**
+[details=&quot;Summary&quot;]
+-Crimson Potion (changes from healing target to lethally poisoning target, instantly killing them)
+	“You poisoned Target.” or if they’re death immune: “Target was immune to your poison.”
+
+-Emerald Potion (changes from lethally poisoning target to healing target)
+	“You healed Target.” or if they did not require healing: “Target did not require healing.”
+[/details]
+**Assassin**
+[details=&quot;Summary&quot;]
+-Assassinate and 2-For-1 (changes from attacking target(s) to guarding them)
+	“You guarded Target last night.”
+[/details]
+**Butler and Servant**
+[details=&quot;Summary&quot;]
+-Serve Wine (changes from occupying them to ensuring their actions succeed; overrides occupations, preventions, and redirects from other classes)
+	“You got Target sober, ensuring them from taking any action.”
+
+-Concentrated Wine (changes from occupying visitors to ensuring their actions on you succeed; overrides occupation from other classes)
+	“You served water to everyone visiting you.”
+[/details]
+**Court Wizard**
+[details=&quot;Summary&quot;]
+-Magic Barrier (changes from protecting players from negative effects to preventing positive effects such as healing and guarding and allowing everything else)
+	“You cast a magic portal on Target.”
+
+-Tornado (changes from swapping two targets with each other to forcing them to target each other)
+	“You forced Target1 and Target2 to target each other.” or if one of them is redirect immune: “You could not force Target1 nor Target2 to target each other.”
+[/details]
+**Cult Leader**
+[details=&quot;Summary&quot;]
+-Brainwash (changes from converting a target to cult to failing the convert)
+	“Your flimsy argument failed to convince Target to join the Cult.”
+
+-Eradicate (changes from attacking targets to guarding them)
+	“You guarded Target.”
+[/details]
+**Drunk and Alcoholic**
+[details=&quot;Summary&quot;]
+-Debauchery (changes the Drunk’s immunity to conversion and both Drunk’s and Alcoholic’s immunity to occupation to removing the Drunk’s immunity from conversion and removing the Drunk’s and Alcoholic’s immunity to attacks)
+	“You let Target target you.”
+
+-Happy Hour (changes from removing immunities and occupying to granting night immunity from death, occupation, visit preventions, and redirects and ensures their actions succeed; overrides occupations, visit preventions, and redirects from other classes)
+	“You granted Target immunities for the night.”
+[/details]
+**Duchess**
+[details=&quot;Summary&quot;]
+-Flirt (changes from knowing a class type to randomly guessing a class type)
+	“Target’s class type may be random Class Type.”
+
+-Dark Wisp (changes from concealing Unseen to ensuring Sheriff checks are accurate)
+	“Your dark wisp is rebelling!”
+[/details]
+**Enforcer**
+[details=&quot;Summary&quot;]
+-Protection (changes from guarding and preventing visitors to ensuring visits to the target succeed, including killing actions; overrides visit preventions and guards from other classes)
+	“You let people visit Target.”
+
+-Frenzy (changes from ensuring the assassin kills someone to preventing the assassin from killing anyone)
+	“You prevented the Assassin from killing their target.”
+[/details]
+**Fool**
+[details=&quot;Summary&quot;]
+-Hide (changes from granting death immunity and prevents visits to jumping in front of a target of an attack and taking the attack)
+	“You jumped in front of Target of attack taking the attack meant for them onto yourself.”
+
+-Deceive (changes from making yourself appear as a unseen/cult member to making yourself appear as a Blue Dragon member)
+	“You proved your innocence.”
+[/details]
+ **Herbalist**
+[details=&quot;Summary&quot;]
+-Drug (changes from making a target believe they were attacked and healed to believing they were redirected to you)
+	“You made Target believe they were redirected to you last night.”
+
+-Defile (changes from making a target appear as a certain Class to making it appear as a Class that’s already dead, randomly selected)
+	“Target will appear as a dead person’s class in the morning.”
+[/details]
+**Hunter**
+[details=&quot;Summary&quot;]
+-Wolf Companion (changes from bleeding a target to guarding a target)
+	“You sent a wolf to guard Target.”
+
+-Bear Companion (changes from killing visitors attacking you to killing visitors guarding or healing you and still removes the visitor’s night death immunity, and removes the hunter’s conversion and night death immunity)
+	“Your bear attacked players guarding or healing you last night.” and if no one guarded or healed the hunter: “Your bear did not detect any healers or guardians.”
+[/details]
+**Inquisitor**
+[details=&quot;Summary&quot;]
+-Find Magic (changes from knowing if a person is a magic user or not to just guessing)
+	“Target may or may not be a magic user.”
+
+-Ruthless Efficiency (changes from attacking a target to guarding a target)
+	“You guarded Target last night.”
+[/details]
+**Invoker**
+[details=&quot;Summary&quot;]
+-Chains of Corax (changes from occupying a target to ensuring their actions succeed; overrides occupations, preventions, and redirects from other classes)
+	“You ensured Target could take action.”
+
+-Strings of Mithras (changes from forcing a target to target a player to targeting you)
+	“You forced Target1 to target you.”
+[/details]
+**King**
+[details=&quot;Summary&quot;]
+This is one of the Sabotage immune classes.
+[/details]
+**Knight**
+[details=&quot;Summary&quot;]
+-Defend (changes from guarding a target to attacking them)
+	“You attacked Target” and if the target is death immune: “Target was immune to your attack.”
+
+-Cold Steel (changes from attacking a target to guarding them)
+	“You guarded Target last night.”
+[/details]
+**Marshal**
+[details=&quot;Summary&quot;]
+-Probe (changes from knowing a target’s class to randomly guessing a class and neutrality)
+	“Target’s class may be random Class or a neutral.”
+[/details]
+**Mastermind**
+[details=&quot;Summary&quot;]
+-Convert (changes from attempting to convert a target to failing the convert)
+	“Your flimsy argument failed to convince Target to join the Unseen.”
+
+-Foresight (changes from knowing a person’s converted class type to guessing their class type and convertability)
+	“Target’s converted class type may be random Class type or they cannot be converted.”
+[/details]
+**Mercenary**
+[details=&quot;Summary&quot;]
+-Stand Guard (changes from preventing visits and granting night death immunity to your contract and yourself to ensuring visits to your contract go through and both you and your contract are not night death immune; overrides guards, and visit preventions from other classes)
+	“You opened wide the door to Target’s room.”
+
+-Rebound (changes from preventing and attacking visiting players to your target to ensuring their visits succeed and guarding all visiting players; overrides guards, and visit preventions from other classes)
+	“You guarded someone while they visited Target.”
+[/details]
+**Mystic and Illusionist**
+[details=&quot;Summary&quot;]
+These are two of the Sabotage immune classes.
+[/details]
+**Nightwatch**
+[details=&quot;Summary&quot;]
+-Follow (changes from knowing for sure who your target visited and who visited your target to guessing who your target visited and who visited your target)
+	“Target may have visited random Player.” and “random Player may have visited Target.”
+
+-Watch Carefully (changes from knowing a target’s class to guessing a random class)
+	“Target may be a/an/the random Class Name.”
+[/details]
+**Noble and Aristocrat and Apostle**
+[details=&quot;Summary&quot;]
+-Maid Spy (changes from spying on a target to giving the target your logbook)
+	“You sent a maid to give your information to Target.”
+
+-Snoop (changes from checking a target’s logbook to randomly selecting a target that is already dead and checking their logbook)
+	“You looked at the dead Target’s logbook.”
+[/details]
+**Observer**
+[details=&quot;Summary&quot;]
+-Follow (changes from knowing who your target visited and who visited your target to guessing who your target visited and who visited your target, randomly selecting one person that your target could have visited and one person that could have visited your target)
+	“Target may have visited Random Player last night.” and “Random Player may have visited Target last night.”
+
+-Peek (changes from knowing the target’s faction to guessing the target’s faction)
+	“Target may be a member of the Blue Dragon/Unseen/Cult.” or “Target may be neutral.”
+[/details]
+**Paladin**
+[details=&quot;Summary&quot;]
+-Smite (changes from watching over a target to both you and your target converting to Cult if Cult has room; if not, read below to see what happens)
+	“You hoped the Cult would visit Target.” and if the Cult brainwashed one of you and has room for both of you and your target is convertable: “You and Target were initiated into the Cult.” or if the Cult does not have room for both of you or your target is convert immune: (if the Paladin was targeted or the targeted is convert immune) “You attacked Target because the Cult has no need for an additional member.” or (if the Target was targeted) “You took your own life in anguish for being unable to join the Cult.” (cannot be healed)
+
+-Test Faith (changes from knowing if a target is a member of the cult or not to guessing if they are or not)
+	“Target may be a member of the Cult.” or “Target may not be suspicious.” (randomly selected)
+[/details]
+**Physician**
+[details=&quot;Summary&quot;]
+-Heal (changes from healing to poisoning target)
+	“You poisoned Target last night.” or if the target is protected by a Court Wizard, is already poisoned or already dead: “You could not poison Target.”
+
+-Self-Care (changes from healing yourself to poisoning yourself; this overrides the poison immunity of the Physician)
+	“You poisoned yourself last night.”
+[/details]
+**Poacher**
+[details=&quot;Summary&quot;]
+-Spike Traps (changes from occupying a player and preventing visits to ensuring the player’s actions succeed and visits to the target succeed; overrides occupations, visit preventions, redirects, and guards from other classes)
+	“You opened the door to Target’s room.”
+
+-Snare Trap (changes from occupying a player for two nights to making them occupy and visit prevention immune for two nights if they leave the room the night you set the trap)
+	“You propped open the door for Target.”
+[/details]
+**Prince**
+[details=&quot;Summary&quot;]
+-Execute (changes from executing target to executing yourself; can be healed)
+	“You executed yourself.”
+[/details]
+**Princess**
+[details=&quot;Summary&quot;]
+-Flirt (changes from giving two class types to giving the correct class type and one random incorrect class type that’s not normally paired with the correct flirt class type pairings.  The results will be in either order: incorrect and correct, or correct and incorrect)
+	“Target may be a correct/random-incorrect Class type or a random-incorrect/correct Class type.”
+
+-Will-o-wisp (changes from knowing if a target attacked anyone to knowing if the target guarded or healed anyone)
+	“Target guarded/healed someone last night.” or “Target did not heal or guard anyone last night.”
+[/details]
+**Psycho King**
+[details=&quot;Summary&quot;]
+This is one of the Sabotage immune classes.
+[/details]
+**Possessor**
+[details=&quot;Summary&quot;]
+This is one of the Sabotage immune classes.
+[/details]
+**Reaper**
+[details=&quot;Summary&quot;]
+This is one of the Sabotage immune classes.
+[/details]
+**Ritualist**
+[details=&quot;Summary&quot;]
+-Teleportation (changes from swapping two targets to causing them to target each other)
+	“You forced Target1 and Target2 to target each other.” or if one of the targets is redirect immune: “You could not force Target1 nor Target2 to target each other.”
+
+-Brotherhood (changes from making a target appear not suspicious to pointing them out to a random player as a member of the cult)
+	“You revealed Target to be a member of the Cult.”
+[/details]
+**Sage**
+[details=&quot;Summary&quot;]
+-Tornado (changes from swapping two targets with each other to forcing them to target each other)
+	“You forced Target1 and Target2 to target each other.” or if one of the targets is redirect immune: “You could not force Target1 nor Target2 to target each other.”
+
+-Wall of Fire (changes from preventing everyone but the assassin to visit the target to preventing just the assassin from visiting the target)
+	“You cast an Assassin prevention wall around Target’s room.”
+[/details]
+**Scorned**
+[details=&quot;Summary&quot;]
+-Frame (changes from making the target appear as a member of the unseen/cult to making them appear as a member of the Blue Dragon)
+	“You proved Target’s innocence.”
+[/details]
+**Seeker**
+[details=&quot;Summary&quot;]
+-Gaze (changes from knowing a class type to randomly guessing a class type)
+	“Target’s class type may be random Class Type.”
+
+-Identify (changes from knowing if a player is a member of the Blue Dragon/Cult/Neutral to guessing completely)
+	“Target may be a member of the Blue Dragon/Cult or is neutral.”
+[/details]
+**Sheriff**
+[details=&quot;Summary&quot;]
+-Investigate (changes from knowing if a target is a member of the unseen or not to guessing if they are or not)
+	“Target may be a member of the Unseen.” or “Target may not be suspicious.” (randomly selected)
+[/details]
+**Sorcerer**
+[details=&quot;Summary&quot;]
+This is one of the Sabotage immune classes.
+[/details]</description>
+    
+    <lastBuildDate>Mon, 23 Apr 2018 16:19:47 +0000</lastBuildDate>
+    <category>Class/Lore/Fanfic</category>
+    <atom:link href="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[Class Suggestion] Saboteur (Neutral Offensive)</title>
+        <dc:creator><![CDATA[deafdood]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Shurian" data-post="78" data-topic="59125">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shurian/40/20666_2.png" class="avatar"> Shurian:</div>
+<blockquote>
+<p>Cult Leader: I LULLED SO HARD ITS TOO GOOD! <img src="/images/emoji/twitter/heart.png?v=9" title=":heart:" class="emoji" alt=":heart:"> Eradicate is too precious to be used as a guard however. I wouldn’t turn both attacks into a guard, would change only one (first target).</p>
+</blockquote>
+</aside>
+<p>You forgot the part where sabotaged limited abilities won’t be used up</p>
+<aside class="quote no-group" data-username="Shurian" data-post="78" data-topic="59125">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shurian/40/20666_2.png" class="avatar"> Shurian:</div>
+<blockquote>
+<p>CURRENT LIST</p>
+<p>Visit Prevention &gt; Barrier &gt; Redirection/Occupy &gt; Healing &gt; Misc Abilities &gt; Investigations/Killing &gt; Conversions</p>
+</blockquote>
+</aside>
+<p>Hard question.  But for Sabotage to successfully work, it has to be before visit prevention and yet I don’t have the Saboteur as visit prevention immune nor barrier immune.  Sabotage could change abilities that prevent visits or barriers, so it has to be before visit prevention…</p>
+<p>I guess they’d have to put in a check for the Saboteur to check to see if the Target could be visited by the Saboteur and have the Sabotage go through if the Saboteur can visit the Target. Then go through the current list after the ability is changed by Sabotage.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/80">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/80</link>
+        <pubDate>Mon, 23 Apr 2018 16:15:28 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59125-80</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125.rss">[Class Suggestion] Saboteur (Neutral Offensive)</source>
+      </item>
+      <item>
+        <title>[Class Suggestion] Saboteur (Neutral Offensive)</title>
+        <dc:creator><![CDATA[Shurian]]></dc:creator>
+        <description><![CDATA[
+            <p>Also, it can be BD oriented at times, so outing yourself is not a bad idea. Be careful. I would add something more like Sabotage 5 players Successfully Survive to the end of the game.</p>
+<p>Because by Night 5, you would have ideally gotten 3~4 Sabotages. Jail is a possibility after all. The Unseen or Cult may kill people off as well. If they kill too many people, you may lose as there are not many people left to sabotage. (I’ve seen some extreme cases, like a day 4 with 8 people remaining)</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/79">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/79</link>
+        <pubDate>Mon, 23 Apr 2018 14:31:20 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59125-79</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125.rss">[Class Suggestion] Saboteur (Neutral Offensive)</source>
+      </item>
+      <item>
+        <title>[Class Suggestion] Saboteur (Neutral Offensive)</title>
+        <dc:creator><![CDATA[Shurian]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m here! And ready to biggie this.</p>
+<p>Imma check what I see.</p>
+<h3><font color="blue">PART A</font></h3>
+<blockquote>
+<p><strong>Heal&gt;&lt;Kill</strong> (<font color="grey">Alchemist</font>)<br>
+<strong>Guard</strong> (<font color="purple">Assassin</font>)<br>
+<strong>Go people. Come.</strong> (<font color="blue">Butler</font>/<font color="purple">Servant</font>)<br>
+<strong>Prevent Positive</strong> + <strong>Force 2 people to target each other</strong> (<font color="blue">Court Wizard</font>)<br>
+<strong>FILMSYARGUMENT</strong>+ <strong>Guard</strong> (<font color="red">Cult Leader</font>)<br>
+<strong>Suicide move</strong>+<strong>Granting Immunities</strong> (<font color="blue">Drunk</font>)</p>
+</blockquote>
+<p><font color="grey">Alchemist</font> doesn’t care either way, Sabotaging an Alch usually helps the Alchemist, so eyy it’s all fine and dandy!</p>
+<p><font color="purple">Assassin</font>: Sabotage hurts him sooooo much, it will be fun to see an Assassin with this class lul.</p>
+<p><font color="blue">Butler</font>/<font color="purple">Servant</font>: Ensuring they do their action… Interesting Idea! Something like Frenzy I’m imagining?</p>
+<blockquote>
+<p><font color="gree">Court Wizard</font>: Good one. Preventing all Positives (Healing, Empowering, Guard) Is pretty good. People who try to heal them however, do they get a failed message? (“You could not heal [14] last night.” / “You could not guard [14] last night.”)</p>
+<p>Tornado however is kinda good for the CW, as he can confirm himself with the ability and say “Hey I was sabotaged last night.” I like the CW one in general though.</p>
+</blockquote>
+<p><font color="red">Cult Leader</font>: I LULLED SO HARD ITS TOO GOOD! <img src="/images/emoji/twitter/heart.png?v=9" title=":heart:" class="emoji" alt=":heart:"> Eradicate is too precious to be used as a guard however. I wouldn’t turn both attacks into a guard, would change only one (first target).</p>
+<p><font color="blue">Drunk/Alcoholic</font>: The first one makes perfect sense gamebalance wise. The second one about giving immunities? I have my doubts but I cannot put my finger on it. (It looks REALLY FUN)</p>
+<p>Current Look: Really challenging class on current glance, to prolong the game to the point that you can win. Also, Where in the precedence list does Sabotage come in?</p>
+<p>CURRENT LIST<br>
+Visit Prevention &gt; Barrier &gt; Redirection/Occupy &gt; Healing &gt; Misc Abilities &gt; Investigations/Killing &gt; Conversions</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/78">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/78</link>
+        <pubDate>Mon, 23 Apr 2018 14:25:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59125-78</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125.rss">[Class Suggestion] Saboteur (Neutral Offensive)</source>
+      </item>
+      <item>
+        <title>[Class Suggestion] Saboteur (Neutral Offensive)</title>
+        <dc:creator><![CDATA[Shurian]]></dc:creator>
+        <description><![CDATA[
+            <p>Heya! I noticed this! Seems interesting, will come again later to comment on everything!</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/77">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/77</link>
+        <pubDate>Mon, 23 Apr 2018 08:52:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59125-77</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125.rss">[Class Suggestion] Saboteur (Neutral Offensive)</source>
+      </item>
+      <item>
+        <title>[Class Suggestion] Saboteur (Neutral Offensive)</title>
+        <dc:creator><![CDATA[MaximusPrime]]></dc:creator>
+        <description><![CDATA[
+            <p>So sabotage is basically like mindwarp for investigative and make other do opposite?</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/76">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/76</link>
+        <pubDate>Mon, 23 Apr 2018 05:30:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59125-76</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125.rss">[Class Suggestion] Saboteur (Neutral Offensive)</source>
+      </item>
+      <item>
+        <title>[Class Suggestion] Saboteur (Neutral Offensive)</title>
+        <dc:creator><![CDATA[deafdood]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Firelitten1" data-post="74" data-topic="59125" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+ Firelitten1:</div>
+<blockquote>
+<p>Prince: I am prince</p>
+<p>Sab: oh nice</p>
+<p>3 days later</p>
+<p>Fool:I am mastermind exe me</p>
+<p>King and court: let prince exe may be a fool</p>
+<p>Sab:nice</p>
+<p>Prince:okay</p>
+<p>Prince was found dead</p>
+</blockquote>
+</aside>
+<p>That’d be the best honestly, but really if it’s 3 days later people should already be aware of a Saboteur since people will be getting the sabotaged abilities messages and making people aware of it, so I’m betting Prince wouldn’t exe until the Saboteur is safely dead.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/75">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/75</link>
+        <pubDate>Sun, 22 Apr 2018 11:28:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59125-75</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125.rss">[Class Suggestion] Saboteur (Neutral Offensive)</source>
+      </item>
+      <item>
+        <title>[Class Suggestion] Saboteur (Neutral Offensive)</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Prince: I am prince<br>
+Sab: oh nice</p>
+<p>3 days later<br>
+Fool:I am mastermind exe me<br>
+King and court: let prince exe may be a fool<br>
+Sab:nice<br>
+Prince:okay</p>
+<p>Prince was found dead</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/74">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/74</link>
+        <pubDate>Sun, 22 Apr 2018 11:22:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59125-74</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125.rss">[Class Suggestion] Saboteur (Neutral Offensive)</source>
+      </item>
+      <item>
+        <title>[Class Suggestion] Saboteur (Neutral Offensive)</title>
+        <dc:creator><![CDATA[deafdood]]></dc:creator>
+        <description><![CDATA[
+            <p>Only if the Prince does his night action as explained above, or else the Sabotage will fail and the Saboteur will probably not try again and move on to another player.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/73">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/73</link>
+        <pubDate>Sun, 22 Apr 2018 06:19:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59125-73</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125.rss">[Class Suggestion] Saboteur (Neutral Offensive)</source>
+      </item>
+      <item>
+        <title>[Class Suggestion] Saboteur (Neutral Offensive)</title>
+        <dc:creator><![CDATA[Memesky]]></dc:creator>
+        <description><![CDATA[
+            <p>I liked cuz you can exe urself as prince lul</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/72">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/72</link>
+        <pubDate>Sat, 21 Apr 2018 21:42:33 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59125-72</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125.rss">[Class Suggestion] Saboteur (Neutral Offensive)</source>
+      </item>
+      <item>
+        <title>[Class Suggestion] Saboteur (Neutral Offensive)</title>
+        <dc:creator><![CDATA[CheesyKnives]]></dc:creator>
+        <description><![CDATA[
+            <p>no i mean like</p>
+<p>Say x targets y. Instead of x targeting y , x targets x, or themself. <img src="/images/emoji/twitter/stuck_out_tongue.png?v=9" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:">something like that.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/71">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/71</link>
+        <pubDate>Sat, 21 Apr 2018 18:49:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59125-71</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125.rss">[Class Suggestion] Saboteur (Neutral Offensive)</source>
+      </item>
+      <item>
+        <title>[Class Suggestion] Saboteur (Neutral Offensive)</title>
+        <dc:creator><![CDATA[deafdood]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="CheesyKnives" data-post="69" data-topic="59125">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/cheesyknives/40/11086_2.png" class="avatar"> CheesyKnives:</div>
+<blockquote>
+<p>(Maybe redirects the action to themself?)</p>
+</blockquote>
+</aside>
+<p>Drunk?  Come on.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/70">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/70</link>
+        <pubDate>Sat, 21 Apr 2018 18:48:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59125-70</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125.rss">[Class Suggestion] Saboteur (Neutral Offensive)</source>
+      </item>
+      <item>
+        <title>[Class Suggestion] Saboteur (Neutral Offensive)</title>
+        <dc:creator><![CDATA[CheesyKnives]]></dc:creator>
+        <description><![CDATA[
+            <p>The main problem with this is , while it’s fun , this class would have to be restricted to a forum setting as coding it in-game would probably take a lotta work.<br>
+Fix that and it will make this class a whole lot better.<br>
+(Maybe redirects the action to themself?)</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/69">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/69</link>
+        <pubDate>Sat, 21 Apr 2018 18:47:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59125-69</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125.rss">[Class Suggestion] Saboteur (Neutral Offensive)</source>
+      </item>
+      <item>
+        <title>[Class Suggestion] Saboteur (Neutral Offensive)</title>
+        <dc:creator><![CDATA[Twil1ight]]></dc:creator>
+        <description><![CDATA[
+            <p>The best advice  i can give ya is submit this class when the devs are actually looking for some wacky suggestions.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/68">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/68</link>
+        <pubDate>Sat, 21 Apr 2018 18:44:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59125-68</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125.rss">[Class Suggestion] Saboteur (Neutral Offensive)</source>
+      </item>
+      <item>
+        <title>[Class Suggestion] Saboteur (Neutral Offensive)</title>
+        <dc:creator><![CDATA[deafdood]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Twil1ight" data-post="66" data-topic="59125">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/twil1ight/40/15561_2.png" class="avatar"> Twil1ight:</div>
+<blockquote>
+<p>Honestly, the best thing in this class is that it would be fun expierence when you got… like 3-4 times and that’s it.</p>
+<p>On the other side, we have a neutral with one of the easiest goal to complete, who is only frustrating people with their sabotage making their abillity useless. Also this guy is not unique… hell no, it’s just don’t gonna work.</p>
+<p>Also making a role who is basically denial of purpose Social Deduction Games is completely out of place. <img src="/images/emoji/twitter/confused.png?v=9" title=":confused:" class="emoji" alt=":confused:"></p>
+</blockquote>
+</aside>
+<p>I’m not hearing any suggestions…</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/67">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/67</link>
+        <pubDate>Sat, 21 Apr 2018 18:40:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59125-67</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125.rss">[Class Suggestion] Saboteur (Neutral Offensive)</source>
+      </item>
+      <item>
+        <title>[Class Suggestion] Saboteur (Neutral Offensive)</title>
+        <dc:creator><![CDATA[Twil1ight]]></dc:creator>
+        <description><![CDATA[
+            <p>Honestly, the best thing in this class is that it would be fun expierence when you got… like 3-4 times and that’s it.</p>
+<p>On the other side, we have a neutral with one of the easiest goal to complete, who is only frustrating people with their sabotage making their abillity useless. Also this guy is not unique… hell no, it’s just don’t gonna work.</p>
+<p>Also making a role who is basically denial of purpose Social Deduction Games is completely out of place. <img src="/images/emoji/twitter/confused.png?v=9" title=":confused:" class="emoji" alt=":confused:"></p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/66">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/66</link>
+        <pubDate>Sat, 21 Apr 2018 18:23:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59125-66</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125.rss">[Class Suggestion] Saboteur (Neutral Offensive)</source>
+      </item>
+      <item>
+        <title>[Class Suggestion] Saboteur (Neutral Offensive)</title>
+        <dc:creator><![CDATA[deafdood]]></dc:creator>
+        <description><![CDATA[
+            <p>I guess it’s just easier to keep both as Sabotage immune then.  Mind Warp seems hard to Sabotage and I don’t know the opposite of erasing a person’s chat history.  LOL.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/65">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/65</link>
+        <pubDate>Sat, 21 Apr 2018 18:19:54 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59125-65</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125.rss">[Class Suggestion] Saboteur (Neutral Offensive)</source>
+      </item>
+      <item>
+        <title>[Class Suggestion] Saboteur (Neutral Offensive)</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>If mystic is sabatage immune you basically can tell if they are converted</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/64">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/64</link>
+        <pubDate>Sat, 21 Apr 2018 18:18:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59125-64</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125.rss">[Class Suggestion] Saboteur (Neutral Offensive)</source>
+      </item>
+      <item>
+        <title>[Class Suggestion] Saboteur (Neutral Offensive)</title>
+        <dc:creator><![CDATA[deafdood]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Firelitten1" data-post="61" data-topic="59125" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+ Firelitten1:</div>
+<blockquote>
+<p>Yea pretty happy</p>
+</blockquote>
+</aside>
+<p>Mystic is Sabotage immune for an obvious reason.  But what about Illusionist?  Do you have any advice on how to Sabotage Illusionist’s abilities?</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/63">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/63</link>
+        <pubDate>Sat, 21 Apr 2018 18:15:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59125-63</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125.rss">[Class Suggestion] Saboteur (Neutral Offensive)</source>
+      </item>
+      <item>
+        <title>[Class Suggestion] Saboteur (Neutral Offensive)</title>
+        <dc:creator><![CDATA[deafdood]]></dc:creator>
+        <description><![CDATA[
+            <p>Yay!  Thanks for your help!</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/62">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/62</link>
+        <pubDate>Sat, 21 Apr 2018 17:49:28 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59125-62</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125.rss">[Class Suggestion] Saboteur (Neutral Offensive)</source>
+      </item>
+      <item>
+        <title>[Class Suggestion] Saboteur (Neutral Offensive)</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Yea pretty happy</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/61">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/61</link>
+        <pubDate>Sat, 21 Apr 2018 17:48:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59125-61</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125.rss">[Class Suggestion] Saboteur (Neutral Offensive)</source>
+      </item>
+      <item>
+        <title>[Class Suggestion] Saboteur (Neutral Offensive)</title>
+        <dc:creator><![CDATA[deafdood]]></dc:creator>
+        <description><![CDATA[
+            <p>Ok are you completely happy with this class now?  No problems in the sabotage abilities or elsewhere?</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/60">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/60</link>
+        <pubDate>Sat, 21 Apr 2018 17:47:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59125-60</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125.rss">[Class Suggestion] Saboteur (Neutral Offensive)</source>
+      </item>
+      <item>
+        <title>[Class Suggestion] Saboteur (Neutral Offensive)</title>
+        <dc:creator><![CDATA[deafdood]]></dc:creator>
+        <description><![CDATA[
+            <p>I just realized sometimes players don’t take any night actions.  I changed the Feedback under Sabotage to reflect that. Check it out.</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/59">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/59</link>
+        <pubDate>Sat, 21 Apr 2018 17:43:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59125-59</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125.rss">[Class Suggestion] Saboteur (Neutral Offensive)</source>
+      </item>
+      <item>
+        <title>[Class Suggestion] Saboteur (Neutral Offensive)</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Probally not?</p>
+<p>Wasn’t his fault?</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/58">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/58</link>
+        <pubDate>Sat, 21 Apr 2018 17:42:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59125-58</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125.rss">[Class Suggestion] Saboteur (Neutral Offensive)</source>
+      </item>
+      <item>
+        <title>[Class Suggestion] Saboteur (Neutral Offensive)</title>
+        <dc:creator><![CDATA[deafdood]]></dc:creator>
+        <description><![CDATA[
+            <p>Should knight suicide on any of his sabotaged abilities?</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/57">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/57</link>
+        <pubDate>Sat, 21 Apr 2018 17:42:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59125-57</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125.rss">[Class Suggestion] Saboteur (Neutral Offensive)</source>
+      </item>
+      <item>
+        <title>[Class Suggestion] Saboteur (Neutral Offensive)</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Yea</p>
+          <p><a href="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/56">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125/56</link>
+        <pubDate>Sat, 21 Apr 2018 17:41:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-59125-56</guid>
+        <source url="https://forum.throneoflies.com/t/class-suggestion-saboteur-neutral-offensive/59125.rss">[Class Suggestion] Saboteur (Neutral Offensive)</source>
+      </item>
+  </channel>
+</rss>

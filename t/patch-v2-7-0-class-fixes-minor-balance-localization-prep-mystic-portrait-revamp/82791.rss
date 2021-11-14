@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Patch v2.7.0 - Class fixes, minor balance, localization prep, Mystic portrait revamp</title>
+    <link>https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791</link>
+    <description>&gt; [color=lime]**Balance, fixes, QoL, and localization prep**[/color]
+
+![v2.7-Cover-800x450.min|690x388](upload://hh168GQw1E93tKZH78msMgqHPj0.png) 
+
+## Localization
+* Dynamic ability feedback has been localized: Chinese is not ready, but the coding to them is now ready for it (eg, instead of &quot;you attacked blah&quot;, it&#39;ll now check the language and return the appropriate text). This was a huge change that affected English texts: Please report any inconsistencies.
+
+## Class Fixes/Balance
+* *Debauchery* and *Strings of Mithras* abils can no longer target the King in the 2nd target slot (meaning they can no longer target the King *at all*, anymore).
+  * The goal here was to remove *safe Debauches*, meaning players now have to make a conscious decision where they want their redirect target to end up on: *rather than just King.* 
+  * Debauching to King allowed players to ignore conversion and, even if a King died, it was either: 
+    1. ...a plus for BD (because EK), 
+    2. ...or they just replaced the old GK with a new one (normally, killing GK by BD has its negatives: either the Execution Penalty, or Butler Suicide).
+* The Fool now always shows as a positive match vs the Maid&#39;s *Matchmake* abil (while not framed).
+  * The Fool&#39;s auto &quot;is [non-framed] match&quot; and Scorned&#39;s auto &quot;isn&#39;t match&quot; is now added to *Matchmake* memo.
+  * Currently, if not framing, the Fool is always shown as incompatible to the Maid; rewarding the Fool simply for existing rather than actually using their ability designed to incriminate themselves. This, also, in turn, makes Maid an easier class to &#39;prove&#39; themselves with than the other investigatives. 
+  * By making Fool default to being always compatible, Fool will be encouraged to be more calculated with their frames, making the class require more depth to win with.
+* *Frenzy*&#39;s bypass was only working with 2-for-1: Fixed to also work for Assassinate. --Tryphon
+* Court Wizard&#39;s *Clear Mind* abil now works again vs Cult&#39;s Brainwash abil.
+* Cult Leader&#39;s *Blood of Mithras* abil will no longer allow click when clicking your *Rupture* abil on Day 2+ then canceling target selection.
+* Cult Leader&#39;s *Blood of Mithras* abil can no longer target the Cult King.
+* Some evil notifications such as `{some evil ally} will attack {x}` was alerting the Cultseen King (such as *Blood of Mithras* and *Expose*): This should no longer happen. This may have only been happening to day ability alerts.
+* *Spike Traps* has been fixed after not actually working for a *long time* (where it seems like no one triggered the trap -- ever).
+* Fixed Reaper&#39;s *Icy Touch* abil that was not showing *you do not have enough souls* instead of nothing, should something go wrong (such as a desync).
+* *Mind Warp* abils now have an added memo: `*Only affects Blue Dragon investigatives`
+* When a Mystic uses a night ability, they now auto-switch immediately to the &quot;Mystic&quot; tab.
+* Fixed **starting** Unseen King only partially flagged as starting. This affected the initial class cards you saw (leaving out *Guard!* abil) and may have affected other checks for starting Kings.
+* *Mastermind* was having some issues with Matchmaking + Neutrals. Fixed this for both *pre* and *&quot;post&quot;* *In The Shadows*:
+![image|334x500](upload://uz7FOVs2UFCW0fwrdYWN5FY2Pm9.jpeg) 
+* Fixed Reaper&#39;s day abils that would allow multi-casting day abilities (should you have enough souls) among other strange effects when you use *Gather Darkness*:
+![](https://media1.giphy.com/media/LrAWDExLAChbC7TEEn/giphy.gif)
+* Handmaiden&#39;s *Analyze* abil can no longer target the same person 2x.
+* New, initiated Cult members will no longer show the Cult icon when a Cult King is present.
+
+## Stability/Optimization
+* Fixed *GameSparks* (our data server) socket connection, which would randomly cause an `{ error: timeout }` error shown in logs to roughly 1% of players which would cause either disconnection or inability to login.
+  * ~~Reverted during beta: Found some issues to hint it&#39;s not ready, yet. Close, but not yet.~~
+    * The bug we encountered seemed separate! *Re*-reverted.
+  * If you&#39;re super technical, this is actually [an open source issue](https://github.com/Imperium42/gs-csharp-community-sdk/issues/4).
+* Updated to a new version of *Photon* (our realtime server) which should fix the `timed out (P)` login screen error that prevented some users from logging in.
+* Made class cards load async (prevents a small freeze when loading everything - loads a little at a time, instead) =&gt; There’s a chance you may temporarily see some individual texts/pictures loading, but with the reward of greatly improved performance.
+
+## Non-Breaking Feedback Fixes
+* Princess&#39; *Willowisp* abil now shows feedback if the target didn&#39;t attack anyone. *This could have been a local bug, but fairly sure live!*
+* Clarified Noble&#39;s *Gossip* abil feedback in class cards by extending the orange text of exceptions:
+&gt; *[color=orange]&quot;...with restrictions: No conversion, attack, King, Debauchery, self-targeted, instant-evil-confirming or other Gossip abilities.&quot;[/color]*
+* `You were healed {target} last night` string that literally said target instead of the player&#39;s name
+* *Surveillance* abil&#39;s &quot;action word&quot; feedback spelling (`surveille` &gt;&gt; surveil).
+* *Expose* abil typo saying that you will reveal who the `&gt;Prince` imprisons.
+* Fixed Facelift cancel flavor text typo, &quot;remaining seen as the `(Class Name`&quot;.
+* Fixed *Icy Touch* abil&#39;s &quot;You silenced `{target1PName}`&quot; typo.
+* Added a period to the end of *Walking Bomb* abil feedback, and worded it to sound less awkward.
+* Possessor&#39;s *Facelift* abil now includes a pronoun and shows the stylized color of that class name&#39;s faction:
+![image|494x44](upload://z37lPLkQ0KxJhETvPlajrua3q6N.png) 
+* Whenever you get feedback tips regarding &quot;This could have been...&quot;, it *most* should now consistently show in order from BD &gt;&gt; Unseen &gt;&gt; Cult &gt;&gt; Neutral &gt;&gt; Misc (eg, Suicide) and in alphabetical order from within each category.
+![image|518x78](upload://mL4lkdce4liDZpcYH9003mFev9r.png) 
+
+## Settings
+* Revamped to be smaller, tabbed, and more-scalable (future changes == faster).
+* New *gameplay* setting: &quot;Auto-Show Class Cards&quot;. Default ON.
+    ![image|512x448](upload://eddS0AOSglYkDvfcM4TkI9RCH9p.jpeg)  
+    * This will show your class cards ASAP when loaded into the game (above the loading screen, a few seconds before the game starts).
+    * As most new players forget about their class cards, this should help players learn their classes. For veterans, it&#39;s nice to have an extra few seconds knowing your class - I bet most will keep it on. 
+    * Since you&#39;re probably wondering: I can&#39;t make it show earlier than this since classes aren&#39;t actually assigned until all players are verified to be in-game and connected.
+
+## Art/Sfx
+* Sorcerer&#39;s *Detonate* abil now triggers an arcane explosion sfx instead of the default death-slice sfx.
+* *Mastermind* got a slight lighting bump/crop - probably only noticeable if you compare side-by-side.
+* *Ritualist* got a slight lighting bump.
+* *Reaper* got a slight lighting bump.
+* *Intrigue* abil icon slightly changed to vary from *Gossip*.
+* *Mystic* portrait completely revamped:
+![image|587x492](upload://hWA0K0fSI6kbDz7cB1264CiK24J.jpeg) 
+
+## More Stats
+* Added a variety of individual **legacy** class stats (WIP) --Tryphon
+  * Note that only *starting* evil classes show here: Non-legacy stats will be improved later.
+  * ~~We&#39;ll polish it up (eg, hover fx) later~~ Nvm, added hovers.
+![image|424x500](upload://6rVYUyr698wm9qz9JzFTxbStabd.jpeg)
+
+## General Improvements
+* Class card description text areas are now *scrollable* (with a gradient fade-out) instead of long texts being crammed in with small font size.
+* Class card &quot;notifications&quot; (feedback) sections are now mostly-sync&#39;d with the code: Whatever feedback you see in-game should be sync&#39;d with what you see in the class cards. That said, MANY missing feedback entries have been added and/or corrected.
+* Mainly for offpeak timezones: If you are in queue for more than x period of time, the host can &quot;start early&quot; with 8+ players like private matches. Lobby chat will announce *who* can start. This is based on # of players online:
+  * If you are in queue for more than 10 mins when &gt;= 50 players.
+  * If you are in queue for more than 7 mins when &lt; 50 players.
+  * The cooldown may be adjusted next patch - we&#39;ll see.
+
+## Misc
+* &quot;Main Chat&quot; more-intuitively renamed to &quot;Lobby Chat&quot;.
+* The left banner area now dynamically adds and removes different banners (instead of just swapping out 1), showing up to 4 at a time as events come and go. Demo:
+![image|270x500](upload://7JC1V9fIRe8rpVr6pXMGSX6YGa9.jpeg) 
+  * Also added a link to our Wikia&#39;s lore section since it&#39;s not yet found within the game (and would be a localization nightmare - maybe later lol).
+* Added Unity Analytics to track basic metrics, like retention, to make better decisions. This also gives us the option to seek funding, which is generally insta-deny without retention stats :slight_smile: Unity Analytics is &quot;eh&quot; -- we may swap to something better in the future (we used GameAnalytics a while back for the charts, but they didn&#39;t work out well when they broke our stats). I was playing around with Epic analytics, but it&#39;s too new to be used here, so Unity it is :) Updated privacy policy to include this mention.
+* Every ability script was improved for scalability and readability (making future bug fixes/balance changes significantly easier/faster): Although this was vigorously tested in alpha, we couldn&#39;t test all combos -- Please report any inconsistencies.
+
+__________
+
+## FAQ
+
+**WOW, this patch took stupidly long: What the heck were you doing?**
+Localization. *Oh, so much localization...* It wouldn&#39;t have been bad if I started with it, but with all the dynamic text we have (`{x} killed {y}. Could&#39;ve been because of {z1, z2, z3}.`). Even Chinese unicode periods/commas are different - and have a &quot;built-in&quot; space character. Let&#39;s just say that these *entire* patch notes took less time than the single paragraph at the top mentioning localization.
+
+It was.... tedious. I&#39;m not done, but at this point, I&#39;m 99% done (just need store localizations and polish the reported bugs).
+
+**What else?**
+* Well, I also prettified *every* day/night ability that was not yet prettified -- this makes future fixes/changes faster/scalable.
+* I found a bunch of bugs while having to test ~150 abilities one at a time: It was sort of a good thing I had to do this or I wouldn&#39;t have found these fixes! With all the bug fixes in the past few months and this patch... we&#39;re looking super stable, lately.
+* Well, the patch would&#39;ve been boring if I didn&#39;t spice it up with some minor balance!
+* I was also spending resources looking into publishers/investors! Oh, yes. It&#39;s official. We&#39;re actively seeking partners.
+
+_________
+
+# Hotfixes:
+https://forum.imperium42.com/t/mini-patch-v2-7-0a/83031</description>
+    
+    <lastBuildDate>Sat, 25 Jul 2020 12:05:08 +0000</lastBuildDate>
+    <category>Official Announcements</category>
+    <atom:link href="https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Patch v2.7.0 - Class fixes, minor balance, localization prep, Mystic portrait revamp</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <h2>Hotfixes</h2>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://forum.throneoflies.com/uploads/default/original/3X/d/5/d566b4f6795a18cead5f1d881831332b0e3c2f96.png" class="site-icon" width="32" height="32">
+      <a href="https://forum.throneoflies.com" target="_blank" rel="noopener">Forum of Lies | Throne of Lies | by Imperium42</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/362;"><img src="https://forum.throneoflies.com/uploads/default/optimized/2X/c/c28299203b1cc350be6161e42f27f58a0bf979dc_2_690x362.png" class="thumbnail" width="690" height="362" srcset="https://forum.throneoflies.com/uploads/default/optimized/2X/c/c28299203b1cc350be6161e42f27f58a0bf979dc_2_690x362.png, https://forum.throneoflies.com/uploads/default/optimized/2X/c/c28299203b1cc350be6161e42f27f58a0bf979dc_2_1035x543.png 1.5x, https://forum.throneoflies.com/uploads/default/original/2X/c/c28299203b1cc350be6161e42f27f58a0bf979dc.png 2x" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/2X/c/c28299203b1cc350be6161e42f27f58a0bf979dc_2_10x10.png"></div>
+
+<h3><a href="https://forum.throneoflies.com" target="_blank" rel="noopener">Forum of Lies | Throne of Lies | by Imperium42</a></h3>
+
+<p>Hosting Forum of Lies, derived from "Throne of Lies" online social deduction game on Steam @ discord.gg/tol</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791/15</link>
+        <pubDate>Sat, 25 Jul 2020 12:05:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82791-15</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791.rss">Patch v2.7.0 - Class fixes, minor balance, localization prep, Mystic portrait revamp</source>
+      </item>
+      <item>
+        <title>Patch v2.7.0 - Class fixes, minor balance, localization prep, Mystic portrait revamp</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>Live (Release Candidate)!</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791/14</link>
+        <pubDate>Fri, 24 Jul 2020 09:36:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82791-14</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791.rss">Patch v2.7.0 - Class fixes, minor balance, localization prep, Mystic portrait revamp</source>
+      </item>
+      <item>
+        <title>Patch v2.7.0 - Class fixes, minor balance, localization prep, Mystic portrait revamp</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Shrimpy" data-post="11" data-topic="82791">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shrimpy/40/15828_2.png" class="avatar"> Shrimpy:</div>
+<blockquote>
+<p>and is incompatible with all when framing.</p>
+</blockquote>
+</aside>
+<p>My understanding is they’d have cultseen compatibility rules while framing. Which is the same as now</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791/13</link>
+        <pubDate>Sun, 19 Jul 2020 06:11:54 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82791-13</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791.rss">Patch v2.7.0 - Class fixes, minor balance, localization prep, Mystic portrait revamp</source>
+      </item>
+      <item>
+        <title>Patch v2.7.0 - Class fixes, minor balance, localization prep, Mystic portrait revamp</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Shrimpy" data-post="11" data-topic="82791">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shrimpy/40/15828_2.png" class="avatar"> Shrimpy:</div>
+<blockquote>
+<p>So Fool matches all when not framing, and is incompatible with all when framing. That’s exactly how I wish it were, but if that was originally written then I totally missed it.</p>
+</blockquote>
+</aside>
+<p>That is it - I’ll change wording in OP.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791/12</link>
+        <pubDate>Fri, 17 Jul 2020 12:22:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82791-12</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791.rss">Patch v2.7.0 - Class fixes, minor balance, localization prep, Mystic portrait revamp</source>
+      </item>
+      <item>
+        <title>Patch v2.7.0 - Class fixes, minor balance, localization prep, Mystic portrait revamp</title>
+        <dc:creator><![CDATA[Shrimpy]]></dc:creator>
+        <description><![CDATA[
+            <p>So Fool matches all when not framing, and is incompatible with all when framing.  That’s exactly how I wish it were, but if that was originally written then I totally missed it.</p>
+<p>The Scorned being incompatible with everyone though, that still doesn’t make sense.  Like <a class="mention" href="/u/theblueelixir">@TheBlueElixir</a> said, they should match all except their target.  They’ve got it way too rough being incompatible with everyone.  That’s even worse then the NKs.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791/11</link>
+        <pubDate>Fri, 17 Jul 2020 03:27:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82791-11</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791.rss">Patch v2.7.0 - Class fixes, minor balance, localization prep, Mystic portrait revamp</source>
+      </item>
+      <item>
+        <title>Patch v2.7.0 - Class fixes, minor balance, localization prep, Mystic portrait revamp</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote group-Admin quote-modified" data-username="í42-Xblade" data-post="6" data-topic="82791" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<h2>Changes Since Beta (WIP)</h2>
+<p>Not all of these were edited to OP, yet.</p>
+<ul>
+<li>
+<s>Fixed <em>GameSparks</em> (our data server) socket connection, which would randomly cause an <code>{ error: timeout }</code> error shown in logs to roughly 1% of players which would cause either disconnection or inability to login.</s>
+<ul>
+<li>Reverted during beta: Found some issues to hint it’s not ready, yet. Close, but not yet.</li>
+<li>If you’re super technical, this is actually [an open source issue]</li>
+</ul>
+</li>
+<li>Made class cards load async (prevents a small freeze when loading everything - loads a little at a time, instead) =&gt; There’s a chance you may temporarily see some individual texts/pictures loading, but with the reward of greatly improved performance.</li>
+</ul>
+</blockquote>
+</aside>
+<p>in this message there’s no hyperlink</p>
+<p>the one in the OP works though</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791/10</link>
+        <pubDate>Fri, 17 Jul 2020 01:39:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82791-10</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791.rss">Patch v2.7.0 - Class fixes, minor balance, localization prep, Mystic portrait revamp</source>
+      </item>
+      <item>
+        <title>Patch v2.7.0 - Class fixes, minor balance, localization prep, Mystic portrait revamp</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="duddino" data-post="8" data-topic="82791">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/duddino/40/29699_2.png" class="avatar"> duddino:</div>
+<blockquote>
+<p>was this supposed to be a hyperlink?</p>
+</blockquote>
+</aside>
+<p>Link works for me. Maybe not on mobile? Not sure.<br>
+<img src="https://forum.throneoflies.com/uploads/default/original/3X/b/0/b012e9f395d9b08095f44d098a73fe01a179198b.png" alt="image" data-base62-sha1="p7Cyzma8ssRpez8uT2TcRn9lrV9" width="401" height="64"></p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791/9</link>
+        <pubDate>Fri, 17 Jul 2020 01:36:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82791-9</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791.rss">Patch v2.7.0 - Class fixes, minor balance, localization prep, Mystic portrait revamp</source>
+      </item>
+      <item>
+        <title>Patch v2.7.0 - Class fixes, minor balance, localization prep, Mystic portrait revamp</title>
+        <dc:creator><![CDATA[duddino]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote group-Admin" data-username="í42-Xblade" data-post="6" data-topic="82791">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>[an open source issue]</p>
+</blockquote>
+</aside>
+<p>was this supposed to be a hyperlink?</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791/8</link>
+        <pubDate>Thu, 16 Jul 2020 18:26:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82791-8</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791.rss">Patch v2.7.0 - Class fixes, minor balance, localization prep, Mystic portrait revamp</source>
+      </item>
+      <item>
+        <title>Patch v2.7.0 - Class fixes, minor balance, localization prep, Mystic portrait revamp</title>
+        <dc:creator><![CDATA[Soulshade55r]]></dc:creator>
+        <description><![CDATA[
+            <p>Looks pretty intresting I’m all for the small drunk/fool changes, Really like the new Mystic art ;p</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791/7</link>
+        <pubDate>Thu, 16 Jul 2020 05:22:42 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82791-7</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791.rss">Patch v2.7.0 - Class fixes, minor balance, localization prep, Mystic portrait revamp</source>
+      </item>
+      <item>
+        <title>Patch v2.7.0 - Class fixes, minor balance, localization prep, Mystic portrait revamp</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <h1>Changes Since Beta (WIP)</h1>
+<h2>7/16</h2>
+<p>Not all of these were edited to OP, yet.</p>
+<ul>
+<li>Fixed <em>GameSparks</em> (our data server) socket connection, which would randomly cause an <code>{ error: timeout }</code> error shown in logs to roughly 1% of players which would cause either disconnection or inability to login.
+<ul>
+<li>
+<s>Reverted during beta: Found some issues to hint it’s not ready, yet. Close, but not yet.</s>
+<ul>
+<li>Reverted the revert - seems to be a separate bug</li>
+</ul>
+</li>
+<li>If you’re super technical, this is actually [an open source issue]</li>
+</ul>
+</li>
+<li>Made class cards load async (prevents a small freeze when loading everything - loads a little at a time, instead) =&gt; There’s a chance you may temporarily see some individual texts/pictures loading, but with the reward of greatly improved performance.</li>
+</ul>
+<h2>7/17</h2>
+<ul>
+<li>Added a variety of individual <strong>legacy</strong> class stats (WIP) --Tryphon
+<ul>
+<li>Note that only <em>starting</em> evil classes show here: Non-legacy stats will be improved later.</li>
+<li>
+<s>We’ll polish it up (eg, hover fx) later</s> Nvm, added hovers.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/2/d/2d3570d529777cadf5b60afd486f4505e3e048b7.jpeg" data-download-href="https://forum.throneoflies.com/uploads/default/2d3570d529777cadf5b60afd486f4505e3e048b7" title="image"><img src="https://forum.throneoflies.com/uploads/default/original/3X/2/d/2d3570d529777cadf5b60afd486f4505e3e048b7.jpeg" alt="image" data-base62-sha1="6rVYUyr698wm9qz9JzFTxbStabd" width="424" height="500" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/2/d/2d3570d529777cadf5b60afd486f4505e3e048b7_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">453×533 83.7 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div>
+</li>
+</ul>
+</li>
+</ul>
+<h2>7/18</h2>
+<ul>
+<li>Handmaiden’s <em>Analyze</em> abil can no longer target the same person 2x.</li>
+<li>New, initiated Cult members will no longer show the Cult icon when a Cult King is present.</li>
+<li>Reverted the GameSparks bug fix revert (yep, reverted the revert :P) Was a separate error. We’re gonna try it.</li>
+</ul>
+<h2>7/20</h2>
+<ul>
+<li>Fixed Reaper’s day abils that would allow multi-casting day abilities (should you have enough souls) among other strange effects when you use  <em>Gather Darkness</em> :<br>
+<img src="https://media1.giphy.com/media/LrAWDExLAChbC7TEEn/giphy.gif" alt="" width="480" height="201">
+</li>
+</ul>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791/6</link>
+        <pubDate>Wed, 15 Jul 2020 16:26:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82791-6</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791.rss">Patch v2.7.0 - Class fixes, minor balance, localization prep, Mystic portrait revamp</source>
+      </item>
+      <item>
+        <title>Patch v2.7.0 - Class fixes, minor balance, localization prep, Mystic portrait revamp</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Shrimpy" data-post="2" data-topic="82791">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shrimpy/40/15828_2.png" class="avatar"> Shrimpy:</div>
+<blockquote>
+<p>senseless</p>
+</blockquote>
+</aside>
+<blockquote>
+<p>Currently, if not framing, the Fool is always shown as incompatible to the Maid; rewarding the Fool simply for existing rather than actually <em>using their ability designed to incriminate themselves</em> . This, also, in turn, makes Maid an easier class to ‘prove’ themselves with than the other investigatives.</p>
+<p>By making Fool default to being always compatible, Fool will be encouraged to be more calculated with their frames, making the class require more depth to win with.</p>
+</blockquote>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791/5</link>
+        <pubDate>Wed, 15 Jul 2020 05:31:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82791-5</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791.rss">Patch v2.7.0 - Class fixes, minor balance, localization prep, Mystic portrait revamp</source>
+      </item>
+      <item>
+        <title>Patch v2.7.0 - Class fixes, minor balance, localization prep, Mystic portrait revamp</title>
+        <dc:creator><![CDATA[TheBlueElixir]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Shrimpy" data-post="2" data-topic="82791">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/shrimpy/40/15828_2.png" class="avatar"> Shrimpy:</div>
+<blockquote>
+<p>Now the backwardness is even more enforced and even without any explanation</p>
+</blockquote>
+</aside>
+<p>heres one, from a player</p>
+<p>Fool can be caught incompatible and get handed the win. They dont have to even time their frames, look suspicious, cause chaos</p>
+<p>they just gotta…exist, really. Thats not rewarding for anyone involved because it doesnt require skill on anyone’s part.</p>
+<p>this change makes Fools winning by luck alot less likely(theres always the chance they acted suspicious in order to get matchmaked, but it usually has at least a hint of luck)</p>
+<p>scorned should probably only be incomp with marked players, but thats its own tangent and the scorned doesnt(and shouldnt) effect the fool change.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791/3</link>
+        <pubDate>Wed, 15 Jul 2020 02:40:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82791-3</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791.rss">Patch v2.7.0 - Class fixes, minor balance, localization prep, Mystic portrait revamp</source>
+      </item>
+      <item>
+        <title>Patch v2.7.0 - Class fixes, minor balance, localization prep, Mystic portrait revamp</title>
+        <dc:creator><![CDATA[Shrimpy]]></dc:creator>
+        <description><![CDATA[
+            <p>I like everything except the Mystic art and the senseless Scorned/Fool/Maid interaction.  I complain about this all the time.  Now the backwardness is even more enforced and even without any explanation …</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791/2</link>
+        <pubDate>Wed, 15 Jul 2020 02:13:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82791-2</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791.rss">Patch v2.7.0 - Class fixes, minor balance, localization prep, Mystic portrait revamp</source>
+      </item>
+      <item>
+        <title>Patch v2.7.0 - Class fixes, minor balance, localization prep, Mystic portrait revamp</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <blockquote>
+<p><font color="lime"><strong>Balance, fixes, QoL, and localization prep</strong></font></p>
+</blockquote>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/7/9/79116bded5aae46386bfbb7dd14bc599b3d3a9ae.png" data-download-href="https://forum.throneoflies.com/uploads/default/79116bded5aae46386bfbb7dd14bc599b3d3a9ae" title="v2.7-Cover-800x450.min"><img src="https://forum.throneoflies.com/uploads/default/optimized/3X/7/9/79116bded5aae46386bfbb7dd14bc599b3d3a9ae_2_690x388.png" alt="v2.7-Cover-800x450.min" data-base62-sha1="hh168GQw1E93tKZH78msMgqHPj0" width="690" height="388" srcset="https://forum.throneoflies.com/uploads/default/optimized/3X/7/9/79116bded5aae46386bfbb7dd14bc599b3d3a9ae_2_690x388.png, https://forum.throneoflies.com/uploads/default/original/3X/7/9/79116bded5aae46386bfbb7dd14bc599b3d3a9ae.png 1.5x, https://forum.throneoflies.com/uploads/default/original/3X/7/9/79116bded5aae46386bfbb7dd14bc599b3d3a9ae.png 2x" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/7/9/79116bded5aae46386bfbb7dd14bc599b3d3a9ae_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">v2.7-Cover-800x450.min</span><span class="informations">800×450 113 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div></p>
+<h2>Localization</h2>
+<ul>
+<li>Dynamic ability feedback has been localized: Chinese is not ready, but the coding to them is now ready for it (eg, instead of “you attacked blah”, it’ll now check the language and return the appropriate text). This was a huge change that affected English texts: Please report any inconsistencies.</li>
+</ul>
+<h2>Class Fixes/Balance</h2>
+<ul>
+<li>
+<em>Debauchery</em> and <em>Strings of Mithras</em> abils can no longer target the King in the 2nd target slot (meaning they can no longer target the King <em>at all</em>, anymore).
+<ul>
+<li>The goal here was to remove <em>safe Debauches</em>, meaning players now have to make a conscious decision where they want their redirect target to end up on: <em>rather than just King.</em>
+</li>
+<li>Debauching to King allowed players to ignore conversion and, even if a King died, it was either:
+<ol>
+<li>…a plus for BD (because EK),</li>
+<li>…or they just replaced the old GK with a new one (normally, killing GK by BD has its negatives: either the Execution Penalty, or Butler Suicide).</li>
+</ol>
+</li>
+</ul>
+</li>
+<li>The Fool now always shows as a positive match vs the Maid’s <em>Matchmake</em> abil (while not framed).
+<ul>
+<li>The Fool’s auto “is [non-framed] match” and Scorned’s auto “isn’t match” is now added to <em>Matchmake</em> memo.</li>
+<li>Currently, if not framing, the Fool is always shown as incompatible to the Maid; rewarding the Fool simply for existing rather than actually using their ability designed to incriminate themselves. This, also, in turn, makes Maid an easier class to ‘prove’ themselves with than the other investigatives.</li>
+<li>By making Fool default to being always compatible, Fool will be encouraged to be more calculated with their frames, making the class require more depth to win with.</li>
+</ul>
+</li>
+<li>
+<em>Frenzy</em>’s bypass was only working with 2-for-1: Fixed to also work for Assassinate. --Tryphon</li>
+<li>Court Wizard’s <em>Clear Mind</em> abil now works again vs Cult’s Brainwash abil.</li>
+<li>Cult Leader’s <em>Blood of Mithras</em> abil will no longer allow click when clicking your <em>Rupture</em> abil on Day 2+ then canceling target selection.</li>
+<li>Cult Leader’s <em>Blood of Mithras</em> abil can no longer target the Cult King.</li>
+<li>Some evil notifications such as <code>{some evil ally} will attack {x}</code> was alerting the Cultseen King (such as <em>Blood of Mithras</em> and <em>Expose</em>): This should no longer happen. This may have only been happening to day ability alerts.</li>
+<li>
+<em>Spike Traps</em> has been fixed after not actually working for a <em>long time</em> (where it seems like no one triggered the trap – ever).</li>
+<li>Fixed Reaper’s <em>Icy Touch</em> abil that was not showing <em>you do not have enough souls</em> instead of nothing, should something go wrong (such as a desync).</li>
+<li>
+<em>Mind Warp</em> abils now have an added memo: <code>*Only affects Blue Dragon investigatives</code>
+</li>
+<li>When a Mystic uses a night ability, they now auto-switch immediately to the “Mystic” tab.</li>
+<li>Fixed <strong>starting</strong> Unseen King only partially flagged as starting. This affected the initial class cards you saw (leaving out <em>Guard!</em> abil) and may have affected other checks for starting Kings.</li>
+<li>
+<em>Mastermind</em> was having some issues with Matchmaking + Neutrals. Fixed this for both <em>pre</em> and <em>“post”</em> <em>In The Shadows</em>:<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/d/6/d639a42a9ca8b28abf5458ea90be425e90254279.jpeg" data-download-href="https://forum.throneoflies.com/uploads/default/d639a42a9ca8b28abf5458ea90be425e90254279" title="image"><img src="https://forum.throneoflies.com/uploads/default/optimized/3X/d/6/d639a42a9ca8b28abf5458ea90be425e90254279_2_334x500.jpeg" alt="image" data-base62-sha1="uz7FOVs2UFCW0fwrdYWN5FY2Pm9" width="334" height="500" srcset="https://forum.throneoflies.com/uploads/default/optimized/3X/d/6/d639a42a9ca8b28abf5458ea90be425e90254279_2_334x500.jpeg, https://forum.throneoflies.com/uploads/default/original/3X/d/6/d639a42a9ca8b28abf5458ea90be425e90254279.jpeg 1.5x, https://forum.throneoflies.com/uploads/default/original/3X/d/6/d639a42a9ca8b28abf5458ea90be425e90254279.jpeg 2x" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/d/6/d639a42a9ca8b28abf5458ea90be425e90254279_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">496×742 152 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div>
+</li>
+<li>Fixed Reaper’s day abils that would allow multi-casting day abilities (should you have enough souls) among other strange effects when you use <em>Gather Darkness</em>:<br>
+<img src="https://media1.giphy.com/media/LrAWDExLAChbC7TEEn/giphy.gif" alt="" width="480" height="201">
+</li>
+<li>Handmaiden’s <em>Analyze</em> abil can no longer target the same person 2x.</li>
+<li>New, initiated Cult members will no longer show the Cult icon when a Cult King is present.</li>
+</ul>
+<h2>Stability/Optimization</h2>
+<ul>
+<li>Fixed <em>GameSparks</em> (our data server) socket connection, which would randomly cause an <code>{ error: timeout }</code> error shown in logs to roughly 1% of players which would cause either disconnection or inability to login.
+<ul>
+<li>
+<s>Reverted during beta: Found some issues to hint it’s not ready, yet. Close, but not yet.</s>
+<ul>
+<li>The bug we encountered seemed separate! <em>Re</em>-reverted.</li>
+</ul>
+</li>
+<li>If you’re super technical, this is actually <a href="https://github.com/Imperium42/gs-csharp-community-sdk/issues/4">an open source issue</a>.</li>
+</ul>
+</li>
+<li>Updated to a new version of <em>Photon</em> (our realtime server) which should fix the <code>timed out (P)</code> login screen error that prevented some users from logging in.</li>
+<li>Made class cards load async (prevents a small freeze when loading everything - loads a little at a time, instead) =&gt; There’s a chance you may temporarily see some individual texts/pictures loading, but with the reward of greatly improved performance.</li>
+</ul>
+<h2>Non-Breaking Feedback Fixes</h2>
+<ul>
+<li>Princess’ <em>Willowisp</em> abil now shows feedback if the target didn’t attack anyone. <em>This could have been a local bug, but fairly sure live!</em>
+</li>
+<li>Clarified Noble’s <em>Gossip</em> abil feedback in class cards by extending the orange text of exceptions:</li>
+</ul>
+<blockquote>
+<p><em><font color="orange">“…with restrictions: No conversion, attack, King, Debauchery, self-targeted, instant-evil-confirming or other Gossip abilities.”</font></em></p>
+</blockquote>
+<ul>
+<li>
+<code>You were healed {target} last night</code> string that literally said target instead of the player’s name</li>
+<li>
+<em>Surveillance</em> abil’s “action word” feedback spelling (<code>surveille</code> &gt;&gt; surveil).</li>
+<li>
+<em>Expose</em> abil typo saying that you will reveal who the <code>&gt;Prince</code> imprisons.</li>
+<li>Fixed Facelift cancel flavor text typo, "remaining seen as the <code>(Class Name</code>".</li>
+<li>Fixed <em>Icy Touch</em> abil’s "You silenced <code>{target1PName}</code>" typo.</li>
+<li>Added a period to the end of <em>Walking Bomb</em> abil feedback, and worded it to sound less awkward.</li>
+<li>Possessor’s <em>Facelift</em> abil now includes a pronoun and shows the stylized color of that class name’s faction:<br>
+<img src="https://forum.throneoflies.com/uploads/default/original/3X/f/5/f5a655dbb26bf149b24ad54573c0c4cd3835d715.png" alt="image" data-base62-sha1="z37lPLkQ0KxJhETvPlajrua3q6N" width="494" height="44">
+</li>
+<li>Whenever you get feedback tips regarding “This could have been…”, it <em>most</em> should now consistently show in order from BD &gt;&gt; Unseen &gt;&gt; Cult &gt;&gt; Neutral &gt;&gt; Misc (eg, Suicide) and in alphabetical order from within each category.<br>
+<img src="https://forum.throneoflies.com/uploads/default/original/3X/9/f/9f81f4581b01d797ba6115bf0b343ca866a677e5.png" alt="image" data-base62-sha1="mL4lkdce4liDZpcYH9003mFev9r" width="518" height="78">
+</li>
+</ul>
+<h2>Settings</h2>
+<ul>
+<li>Revamped to be smaller, tabbed, and more-scalable (future changes == faster).</li>
+<li>New <em>gameplay</em> setting: “Auto-Show Class Cards”. Default ON.<br>
+<img src="https://forum.throneoflies.com/uploads/default/original/3X/6/3/639d1b8dba6f0119c56ff5b370d11c54690426f3.jpeg" alt="image" data-base62-sha1="eddS0AOSglYkDvfcM4TkI9RCH9p" width="512" height="448">
+<ul>
+<li>This will show your class cards ASAP when loaded into the game (above the loading screen, a few seconds before the game starts).</li>
+<li>As most new players forget about their class cards, this should help players learn their classes. For veterans, it’s nice to have an extra few seconds knowing your class - I bet most will keep it on.</li>
+<li>Since you’re probably wondering: I can’t make it show earlier than this since classes aren’t actually assigned until all players are verified to be in-game and connected.</li>
+</ul>
+</li>
+</ul>
+<h2>Art/Sfx</h2>
+<ul>
+<li>Sorcerer’s <em>Detonate</em> abil now triggers an arcane explosion sfx instead of the default death-slice sfx.</li>
+<li>
+<em>Mastermind</em> got a slight lighting bump/crop - probably only noticeable if you compare side-by-side.</li>
+<li>
+<em>Ritualist</em> got a slight lighting bump.</li>
+<li>
+<em>Reaper</em> got a slight lighting bump.</li>
+<li>
+<em>Intrigue</em> abil icon slightly changed to vary from <em>Gossip</em>.</li>
+<li>
+<em>Mystic</em> portrait completely revamped:<br>
+<img src="https://forum.throneoflies.com/uploads/default/original/3X/7/d/7dc42fce7d7caab3360f78e3689763d0ca906e1d.jpeg" alt="image" data-base62-sha1="hWA0K0fSI6kbDz7cB1264CiK24J" width="587" height="492">
+</li>
+</ul>
+<h2>More Stats</h2>
+<ul>
+<li>Added a variety of individual <strong>legacy</strong> class stats (WIP) --Tryphon
+<ul>
+<li>Note that only <em>starting</em> evil classes show here: Non-legacy stats will be improved later.</li>
+<li>
+<s>We’ll polish it up (eg, hover fx) later</s> Nvm, added hovers.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/2/d/2d3570d529777cadf5b60afd486f4505e3e048b7.jpeg" data-download-href="https://forum.throneoflies.com/uploads/default/2d3570d529777cadf5b60afd486f4505e3e048b7" title="image"><img src="https://forum.throneoflies.com/uploads/default/original/3X/2/d/2d3570d529777cadf5b60afd486f4505e3e048b7.jpeg" alt="image" data-base62-sha1="6rVYUyr698wm9qz9JzFTxbStabd" width="424" height="500" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/2/d/2d3570d529777cadf5b60afd486f4505e3e048b7_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">453×533 83.7 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div>
+</li>
+</ul>
+</li>
+</ul>
+<h2>General Improvements</h2>
+<ul>
+<li>Class card description text areas are now <em>scrollable</em> (with a gradient fade-out) instead of long texts being crammed in with small font size.</li>
+<li>Class card “notifications” (feedback) sections are now mostly-sync’d with the code: Whatever feedback you see in-game should be sync’d with what you see in the class cards. That said, MANY missing feedback entries have been added and/or corrected.</li>
+<li>Mainly for offpeak timezones: If you are in queue for more than x period of time, the host can “start early” with 8+ players like private matches. Lobby chat will announce <em>who</em> can start. This is based on # of players online:
+<ul>
+<li>If you are in queue for more than 10 mins when &gt;= 50 players.</li>
+<li>If you are in queue for more than 7 mins when &lt; 50 players.</li>
+<li>The cooldown may be adjusted next patch - we’ll see.</li>
+</ul>
+</li>
+</ul>
+<h2>Misc</h2>
+<ul>
+<li>“Main Chat” more-intuitively renamed to “Lobby Chat”.</li>
+<li>The left banner area now dynamically adds and removes different banners (instead of just swapping out 1), showing up to 4 at a time as events come and go. Demo:<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/3/6/36373110cdfb8132d5f2198bb5ed6cba62ca46bd.jpeg" data-download-href="https://forum.throneoflies.com/uploads/default/36373110cdfb8132d5f2198bb5ed6cba62ca46bd" title="image"><img src="https://forum.throneoflies.com/uploads/default/original/3X/3/6/36373110cdfb8132d5f2198bb5ed6cba62ca46bd.jpeg" alt="image" data-base62-sha1="7JC1V9fIRe8rpVr6pXMGSX6YGa9" width="270" height="500" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/3/6/36373110cdfb8132d5f2198bb5ed6cba62ca46bd_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">362×668 114 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div>
+<ul>
+<li>Also added a link to our Wikia’s lore section since it’s not yet found within the game (and would be a localization nightmare - maybe later lol).</li>
+</ul>
+</li>
+<li>Added Unity Analytics to track basic metrics, like retention, to make better decisions. This also gives us the option to seek funding, which is generally insta-deny without retention stats <img src="https://forum.throneoflies.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> Unity Analytics is “eh” – we may swap to something better in the future (we used GameAnalytics a while back for the charts, but they didn’t work out well when they broke our stats). I was playing around with Epic analytics, but it’s too new to be used here, so Unity it is <img src="https://forum.throneoflies.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> Updated privacy policy to include this mention.</li>
+<li>Every ability script was improved for scalability and readability (making future bug fixes/balance changes significantly easier/faster): Although this was vigorously tested in alpha, we couldn’t test all combos – Please report any inconsistencies.</li>
+</ul>
+<hr>
+<h2>FAQ</h2>
+<p><strong>WOW, this patch took stupidly long: What the heck were you doing?</strong><br>
+Localization. <em>Oh, so much localization…</em> It wouldn’t have been bad if I started with it, but with all the dynamic text we have (<code>{x} killed {y}. Could've been because of {z1, z2, z3}.</code>). Even Chinese unicode periods/commas are different - and have a “built-in” space character. Let’s just say that these <em>entire</em> patch notes took less time than the single paragraph at the top mentioning localization.</p>
+<p>It was… tedious. I’m not done, but at this point, I’m 99% done (just need store localizations and polish the reported bugs).</p>
+<p><strong>What else?</strong></p>
+<ul>
+<li>Well, I also prettified <em>every</em> day/night ability that was not yet prettified – this makes future fixes/changes faster/scalable.</li>
+<li>I found a bunch of bugs while having to test ~150 abilities one at a time: It was sort of a good thing I had to do this or I wouldn’t have found these fixes! With all the bug fixes in the past few months and this patch… we’re looking super stable, lately.</li>
+<li>Well, the patch would’ve been boring if I didn’t spice it up with some minor balance!</li>
+<li>I was also spending resources looking into publishers/investors! Oh, yes. It’s official. We’re actively seeking partners.</li>
+</ul>
+<hr>
+<h1>Hotfixes:</h1>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://forum.throneoflies.com/uploads/default/original/3X/d/5/d566b4f6795a18cead5f1d881831332b0e3c2f96.png" class="site-icon" width="32" height="32">
+      <a href="https://forum.throneoflies.com" target="_blank" rel="noopener">Forum of Lies | Throne of Lies | by Imperium42</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/362;"><img src="https://forum.throneoflies.com/uploads/default/optimized/2X/c/c28299203b1cc350be6161e42f27f58a0bf979dc_2_690x362.png" class="thumbnail" width="690" height="362" srcset="https://forum.throneoflies.com/uploads/default/optimized/2X/c/c28299203b1cc350be6161e42f27f58a0bf979dc_2_690x362.png, https://forum.throneoflies.com/uploads/default/optimized/2X/c/c28299203b1cc350be6161e42f27f58a0bf979dc_2_1035x543.png 1.5x, https://forum.throneoflies.com/uploads/default/original/2X/c/c28299203b1cc350be6161e42f27f58a0bf979dc.png 2x" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/2X/c/c28299203b1cc350be6161e42f27f58a0bf979dc_2_10x10.png"></div>
+
+<h3><a href="https://forum.throneoflies.com" target="_blank" rel="noopener">Forum of Lies | Throne of Lies | by Imperium42</a></h3>
+
+<p>Hosting Forum of Lies, derived from "Throne of Lies" online social deduction game on Steam @ discord.gg/tol</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791/1</link>
+        <pubDate>Tue, 14 Jul 2020 15:32:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-82791-1</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-7-0-class-fixes-minor-balance-localization-prep-mystic-portrait-revamp/82791.rss">Patch v2.7.0 - Class fixes, minor balance, localization prep, Mystic portrait revamp</source>
+      </item>
+  </channel>
+</rss>

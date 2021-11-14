@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Patch v2.6.1 - Class fixes (oh, so many)</title>
+    <link>https://forum.throneoflies.com/t/patch-v2-6-1-class-fixes-oh-so-many/81687</link>
+    <description>## v2.6.0-Specific Fixes (Regression)
+
+* Fixed Scout/Imprison/Blood of Mithras that become un-cancelable. This was partially a general fix, so others may have also been fixed.
+* Butler&#39;s *Poisoned Wine* abil now works vs starting King.
+* Fixed *Eradicate* abil icon that was too bright at the bottom-right, hiding the # of charges.
+* Tweaked some other icons to be darker at the bottom-right.
+* Fixed the visual text bug that was showing `You healed {Target1PName} last night.`
+
+## Live Fixes
+* Fixed the ability spam exploits for 0-target abilities.
+* Fixed *Debauchery* and *Strings of Mithras* redirect abils from showing 0 feedback when an active ability **with 0 target panels** (like *Bear Companion*) is used.
+* Fixed *Spectator Mode* for private rooms.
+* Fixed some healing DNR&lt;&gt;CNH feedback, such as Heal on a 2nd-night *Reaped* target that was showing DNR instead of CNH.
+* Inquisitor should no longer win when dead before all the Heathen&#39;s.
+* *Matchmake* abil should no longer initially target herself when also a Heathen.
+* Fixed all forms of *Safeguard* that was randomly causing temporary death immunity @ night to NOT sync (so the ability wouldn&#39;t do anything).
+* Fixed *Suicide* abil inconsistencies.
+* Dying during the day will now properly show the death status icon (skull) and remove other status icons.
+* Fixed dev/backer/tutorial post-execution sfx for body landing (x3).
+* Transferring deaths via *Distort Reality* abil will now remove the &quot;delayed death&quot; status icon.
+* Tutorial &quot;Lacerate&quot; abil will now show the correct # of charges.
+
+___________
+
+## [color=lime]v2.6.1a[/color]
+
+* Fixed missing icons for *Prying Servants* , *Spike Traps* , *Rewind* and *Follow* abils.
+* ~~*Matchmake* abil&#39;s initial target now has a better anti-King check.~~ (Didn&#39;t seem to be what was causing the issue. I&#39;ll have a new hotfix soon)
+___________
+
+## Dev Notes
+
+This is a big game with over 50 classes and roughly 150 abilities - even with the help of local testing (I test with 3 computers) and test realm (avg 8 players over 1~2 hours per session), new bugs are inevitable since we cannot possibly test all scenarios (and building unit testers would occupy me for months since the code isn&#39;t optimized for testers). 
+
+That said, sometimes bugs simply cannot be found until pushed live due to a lack of data from `150!` combos (that&#39;s `100,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000` potential combos). 
+
+Bare with me~ seeing a new bug will *never* mean we introduced more than we fixed.
+___________
+
+## Looking for v2.6.0/a/b?
+
+https://forum.imperium42.com/t/patch-v2-6-0b-live/81245/2</description>
+    
+    <lastBuildDate>Thu, 14 May 2020 06:36:03 +0000</lastBuildDate>
+    <category>Official Announcements</category>
+    <atom:link href="https://forum.throneoflies.com/t/patch-v2-6-1-class-fixes-oh-so-many/81687.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Patch v2.6.1 - Class fixes (oh, so many)</title>
+        <dc:creator><![CDATA[SweetyCake]]></dc:creator>
+        <description><![CDATA[
+            <p>Hey Xblade, just got back after almost a year lol<br>
+But seem like Prince having some bug<br>
+If you unselected someone for jail, the jail button is broken for that day</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-6-1-class-fixes-oh-so-many/81687/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-6-1-class-fixes-oh-so-many/81687/9</link>
+        <pubDate>Thu, 14 May 2020 06:36:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81687-9</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-6-1-class-fixes-oh-so-many/81687.rss">Patch v2.6.1 - Class fixes (oh, so many)</source>
+      </item>
+      <item>
+        <title>Patch v2.6.1 - Class fixes (oh, so many)</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <h2>v2.6.1a Live <img src="https://forum.throneoflies.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:">
+</h2>
+<ul>
+<li>Fixed missing icons for  <em>Prying Servants</em>  ,  <em>Spike Traps</em>  ,  <em>Rewind</em>  and  <em>Follow</em>  abils.</li>
+<li>
+<em>Matchmake</em>  abil’s initial target now has a better anti-King check.</li>
+</ul>
+<p>Seems stable!</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-6-1-class-fixes-oh-so-many/81687/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-6-1-class-fixes-oh-so-many/81687/8</link>
+        <pubDate>Wed, 13 May 2020 15:07:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81687-8</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-6-1-class-fixes-oh-so-many/81687.rss">Patch v2.6.1 - Class fixes (oh, so many)</source>
+      </item>
+      <item>
+        <title>Patch v2.6.1 - Class fixes (oh, so many)</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>Live!</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-6-1-class-fixes-oh-so-many/81687/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-6-1-class-fixes-oh-so-many/81687/7</link>
+        <pubDate>Wed, 13 May 2020 11:52:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81687-7</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-6-1-class-fixes-oh-so-many/81687.rss">Patch v2.6.1 - Class fixes (oh, so many)</source>
+      </item>
+      <item>
+        <title>Patch v2.6.1 - Class fixes (oh, so many)</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <h2>Added</h2>
+<ul>
+<li>Transferring deaths via <em>Distort Reality</em> abil will now remove the “delayed death” status icon.</li>
+<li>Tutorial “Lacerate” abil will now show the correct # of charges.</li>
+<li>Fixed the ability spam exploits for 0-target abilities.</li>
+</ul>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-6-1-class-fixes-oh-so-many/81687/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-6-1-class-fixes-oh-so-many/81687/6</link>
+        <pubDate>Wed, 13 May 2020 11:21:28 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81687-6</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-6-1-class-fixes-oh-so-many/81687.rss">Patch v2.6.1 - Class fixes (oh, so many)</source>
+      </item>
+      <item>
+        <title>Patch v2.6.1 - Class fixes (oh, so many)</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <h2>v2.6.0-Specific Fixes (Regression)</h2>
+<ul>
+<li>Fixed Scout/Imprison/Blood of Mithras that become un-cancelable. This was partially a general fix, so others may have also been fixed.</li>
+<li>Butler’s <em>Poisoned Wine</em> abil now works vs starting King.</li>
+<li>Fixed <em>Eradicate</em> abil icon that was too bright at the bottom-right, hiding the # of charges.</li>
+<li>Tweaked some other icons to be darker at the bottom-right.</li>
+<li>Fixed the visual text bug that was showing <code>You healed {Target1PName} last night.</code>
+</li>
+</ul>
+<h2>Live Fixes</h2>
+<ul>
+<li>Fixed the ability spam exploits for 0-target abilities.</li>
+<li>Fixed <em>Debauchery</em> and <em>Strings of Mithras</em> redirect abils from showing 0 feedback when an active ability <strong>with 0 target panels</strong> (like <em>Bear Companion</em>) is used.</li>
+<li>Fixed <em>Spectator Mode</em> for private rooms.</li>
+<li>Fixed some healing DNR&lt;&gt;CNH feedback, such as Heal on a 2nd-night <em>Reaped</em> target that was showing DNR instead of CNH.</li>
+<li>Inquisitor should no longer win when dead before all the Heathen’s.</li>
+<li>
+<em>Matchmake</em> abil should no longer initially target herself when also a Heathen.</li>
+<li>Fixed all forms of <em>Safeguard</em> that was randomly causing temporary death immunity @ night to NOT sync (so the ability wouldn’t do anything).</li>
+<li>Fixed <em>Suicide</em> abil inconsistencies.</li>
+<li>Dying during the day will now properly show the death status icon (skull) and remove other status icons.</li>
+<li>Fixed dev/backer/tutorial post-execution sfx for body landing (x3).</li>
+<li>Transferring deaths via <em>Distort Reality</em> abil will now remove the “delayed death” status icon.</li>
+<li>Tutorial “Lacerate” abil will now show the correct # of charges.</li>
+</ul>
+<hr>
+<h2><font color="lime">v2.6.1a</font></h2>
+<ul>
+<li>Fixed missing icons for <em>Prying Servants</em> , <em>Spike Traps</em> , <em>Rewind</em> and <em>Follow</em> abils.</li>
+<li>
+<s><em>Matchmake</em> abil’s initial target now has a better anti-King check.</s> (Didn’t seem to be what was causing the issue. I’ll have a new hotfix soon)</li>
+</ul>
+<hr>
+<h2>Dev Notes</h2>
+<p>This is a big game with over 50 classes and roughly 150 abilities - even with the help of local testing (I test with 3 computers) and test realm (avg 8 players over 1~2 hours per session), new bugs are inevitable since we cannot possibly test all scenarios (and building unit testers would occupy me for months since the code isn’t optimized for testers).</p>
+<p>That said, sometimes bugs simply cannot be found until pushed live due to a lack of data from <code>150!</code> combos (that’s <code>100,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000</code> potential combos).</p>
+<p>Bare with me~ seeing a new bug will <em>never</em> mean we introduced more than we fixed.</p>
+<hr>
+<h2>Looking for v2.6.0/a/b?</h2>
+<p><a href="https://forum.imperium42.com/t/patch-v2-6-0b-live/81245/2" class="onebox" target="_blank" rel="noopener">https://forum.imperium42.com/t/patch-v2-6-0b-live/81245/2</a></p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v2-6-1-class-fixes-oh-so-many/81687/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v2-6-1-class-fixes-oh-so-many/81687/1</link>
+        <pubDate>Mon, 11 May 2020 09:41:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-81687-1</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v2-6-1-class-fixes-oh-so-many/81687.rss">Patch v2.6.1 - Class fixes (oh, so many)</source>
+      </item>
+  </channel>
+</rss>

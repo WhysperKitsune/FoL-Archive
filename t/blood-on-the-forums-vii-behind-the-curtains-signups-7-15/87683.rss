@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Blood on the Forums VII - Behind the Curtains - Signups (7/15)</title>
+    <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683</link>
+    <description>
+Greetings, for the seventh time, to Blood on the Forums! Hosted by @Amelia! For this game, we’ve really done it now. A custom script made by us, featuring a mixture of familiar characters you all know and love, as well as a few new ones! Hold on tight, everyone, this game will absolutely get wacky.
+
+[details=”Character List”]
+This game will be running an entirely custom script, with our little treat to you, a few of the newly revealed kickstarter characters. The rest of the characters are from the various other base scripts, and should be mostly familiar to people who’ve played the base 3. Word of advice, pay attention to the new characters, they all have wacky effects all on their own.
+
+Townsfolk:
+[color=29b6f6]**Clockmaker**[/color]: You start the game knowing how many steps there are from the Demon to their nearest Minion.
+[color=29b6f6]**Librarian**[/color]: You start knowing that one of two players is a particular Outsider, or none are in play.
+[color=29b6f6]**Pixie**[/color]: You start the game knowing an in-play Townsfolk. If you are mad that you are this Townsfolk, you gain their ability when they die.
+[color=29b6f6]**Empath**[/color]: Each night, you learn how many of your living neighbors are Evil.
+[color=29b6f6]**Dreamer**[/color]: Each night, choose a player. You will learn 1 Good and 1 Evil character, one of which is their true character.
+[color=29b6f6]**Chambermaid**[/color]: Each night, choose 2 alive players (but not yourself). You learn how many wake tonight due to their own ability.
+[color=29b6f6]**Flowergirl**[/color]: Each night (but not the first), you learn if a Demon player voted the previous day.
+[color=29b6f6]**Town Crier**[/color]: Each night (but not the first), you learn if a Minion player nominated the previous day.
+[color=29b6f6]**Monk**[/color]: Each night (but not the first), choose a player (you may not choose yourself); they are safe from the Demon tonight.
+[color=29b6f6]**Seamstress**[/color]: Once per game, at night, choose 2 players (but not yourself). Learn if they are the same alignment.
+[color=29b6f6]**Slayer**[/color]: Once per game, during the day, publicly choose a player. If they are a Demon, they die.
+[color=29b6f6]**Soldier**[/color]: You are safe from the Demon.
+[color=29b6f6]**Poppy Grower**[/color]: Minion and Demon players do not learn who each other are. If you die, they learn who each other are that night.
+
+Outsiders:
+[color=29b6f6]**Recluse**[/color]: You might register as Evil and as a Minion or Demon at any time, even if you are dead.
+[color=29b6f6]**Heretic**[/color]: Whoever wins the game will instead lose the game, and whoever loses the game will instead win the game, even if you are dead.
+[color=29b6f6]**Drunk**[/color]: You think you are a Townsfolk character, but the ability that you think you have instead malfunctions.
+[color=29b6f6]**Politician**[/color]: If you were the player most responsible for your alignment losing, you change alignment and win, even if dead.
+
+Minions:
+[color=red]**Poisoner**[/color]: Each night, choose a player; their ability malfunctions until dusk.
+[color=red]**Cerenovus**[/color]: Each night, choose a player and a Good character; that player is &quot;mad&quot; that they are that character tomorrow, or might be executed.
+[color=red]**Scarlet Woman**[/color]: If there are 5 or more players alive and the Demon dies, you become the new Demon.
+[color=red]**Marionette**[/color]: You think you are a Townsfolk or Outsider character, but the ability you think you have instead malfunctions. The Demon knows who you are. [You neighbor the Demon]
+
+Demons:
+[color=red]**Lil’ Monsta**[/color]: Each night, the Minions choose who babysits the Lil’ Monsta; that player “is the Demon”. Each night (but not the first), a player dies. [+1 Minion]
+[color=red]**Imp**[/color]: Each night (but not the first), choose a player; they die. If you kill yourself this way, a Minion becomes the Imp.
+[color=red]**Vortox**[/color]: Each night (but not the first), choose a player; they die. Townsfolk abilities yield false information. Each day, if no one is executed; Evil wins.
+[color=red]**Fang Gu**[/color]: Each night (but not the first), choose a player; they die. The first Outsider this kills will instead become an Evil Fang Gu and you will die instead. [+1 Outsider]
+
+
+[/details]
+[details=&quot;Town Composition&quot;]
+
+This game is designed for a variable number of players, and thus the composition of the game is able to change depending on how many players join. The following list denotes the standard composition of the game at each possible player count.
+
+Total Players: Townsfolk/Outsiders/Minions/Demons
+5: 3/0/1/1
+6: 3/1/1/1
+7: 5/0/1/1
+8: 5/1/1/1
+9: 5/2/1/1
+10: 7/0/2/1
+11: 7/1/2/1
+12: 7/2/2/1
+13: 9/0/3/1
+14: 9/1/3/1
+15: 9/2/3/1
+
+Every character in-game is unique in that more than one of the same character will never appear at the start of the game (there can never be two Clockmakers at the start, for example).
+
+Certain characters may contain parts of their ability which modify the game setup; some add character types (and subtract others to compensate), while others change elements of the game entirely. Be sure to take notice of these. You’ll find them in [square brackets], like those ones.
+
+[/details]
+[details=&quot;Phase Length&quot;]
+
+Each day phase will last for no longer than 48 hours.
+12 hours: Discussion phase. Nominations may not be cast at this time.
+12 hours: Nomination phase. Players who wish to nominate may do so at this time, and votes may begun to be cast during this time as well.
+24 hours: Vote finalization. During this time, votes may be cast freely on any existing nomination, but no new nominations may be made. Once this time ends or all votes have been locked in, the day will resolve.
+
+The night phase will last for no more than 24 hours. If all relevant actions have been submitted and processed, Storytellers reserve the right to begin the next day early. 
+[/details]
+
+[details=&quot;Storyteller&quot;]
+
+The Storyteller is the key moderator for the game; All ability uses at night must be sent to the Storyteller via private message, and Storyteller will have the final say on any open-ended ability behaviors. Storyteller’s goal is to keep the game both fun and balanced, and they’ll often be trying to make it last as long as possible; however, the Storyteller may not alter any existing rules to accomplish this.
+[/details]
+
+[details=&quot;The Fabled&quot;]
+The Fabled aren&#39;t really characters so much as special modifiers that the Storyteller can put in play to tweak the game. For example, the Angel can be put into play to help keep newer players from being targeted, or the Buddhist can be put into play to keep the more experienced players from dominating the discussion. Fabled will always be announced when they are in play, along with their effect upon gamestate. A breakdown of Fabled characters can be found below.
+
+**Angel:** Something bad might happen to whomever is most responsible for the death of a new player.
+**Buddhist:** Veteran players may not speak for the first six hours of the day phase.
+**Doomsayer:** If more than four players live, each living player may publicly invoke the Doomsayer once per game to cause a player of their own alignment to die.
+**Fiddler:** Once per game, at night, the Demon secretly chooses a player of an opposing alignment; All players then choose which of these two wins the game.
+**Hell’s Librarian:** Something bad might happen to whomever speaks when the Storyteller calls for silence.
+**Djinn:** The two specified characters cannot both be in play, however Evil knows which ones are. Or, the Djinn&#39;s special rule is in play instead, known as a &quot;jinx.&quot;
+The following Fabled character must be added before the game begins; please speak to the Storyteller if you wish to see it added.
+**Revolutionary:** Two neighboring players are known to be the same alignment. Once per game, one of them may register falsely.
+[/details]
+[details=&quot;Scum Info&quot;]
+
+On the first night of the game, when relatively few characters act, the evil characters will all be woken to learn who one another are. Evil players will not be allowed to communicate at night. The Demon will be told who all of their Minions are, and the Minions will know who the Demon is and who all of the other Minions are. However, the Minions and the Demon will not learn which specific characters any of their fellow evils are. The Demon will additionally be told three characters that are not in play, to serve as safe claims. They may claim any of these, none of these, or simply hand the claims off to Minions; however they think they will be best served.
+
+Note, however, that Monsta is part of this script. As such, resort to Monsta Jam for a refresher on what happens in this case. Additionally, if the Poppy Grower is in play, the Minions and Demons do not know whom their allies are until the Poppy Grower’s demise. Naturally, this can also lead to some strange situations where the current Demon and Minions are different players than when they started as when the info goes out. When the Poppy Grower dies, the team will learn of all players who are currently Demons and Minions, even if they didn’t start as such. Note that the Demon will still receive the three not-in-play characters in a Poppy Grower game, just not their allies.
+[/details]
+
+[details=&quot;Malfunctions&quot;]
+
+The primary source of interference with abilities in this game is the malfunction. A class that is malfunctioning is not told that they are malfunctioning; if the character is one that gathers information, then the information they receive that night is arbitrary (open-ended, Storyteller may resolve at their discretion), otherwise, the malfunctioning character’s ability simply does not have any effect.
+
+[/details]
+
+[details=&quot;Nominations and Voting&quot;]
+Once the discussion phase has ended, the Storyteller will formally announce the opening of the nomination phase. Players must be nominated before they may be voted on that day. Each player may only be nominated once per day, and each player may only nominate once per day.
+When a nomination is opened, the storyteller begins to track votes for that nomination. The players may precast votes, but the votes will lock in a clockhand format. Starting with the player below the nominee on the list, and working downwards, the votes will be locked if they are cast. As an example, take the following five players;
+&gt; Alex
+Brianna
+Cameron
+Derek
+Ellen
+
+Brianna is nominated. Cameron’s vote will be locked as soon as he places it, because he is the first person below Brianna on the list. Derek may cast his vote before Cameron, and may alter his vote if Cameron has not yet voted, but once Cameron has voted and had his vote locked, Derek’s vote will be the next to lock, and if it is placed when Cameron’s vote locks, then Derek’s vote will lock as the vote cast by Derek at that time.
+Any votes that are not cast by EoD will be considered votes to pardon. If the count of votes to execute is more than half of the number of living players (not half+1, that&#39;s an important distinction), and is the highest count of votes against any player that day, the accused will be considered “about to die”. At the end of the day or when all votes on all nominations have been cast, the player who is “about to die” will be executed. If there is a tie between two or more players for the highest count of votes, the day will end with no execution. The Storyteller may only declare an early end to voting if it is no longer possible to tie or exceed the highest nomination.
+
+[/details]
+[details=&quot;Whispers&quot;]
+
+Players may whisper each other in-game through private messages. Whispers must, however, be publicly announced, typically by requesting permission to whisper (a standard format is /whisper [Player]). Whispers to your neighbors (those seated next to you) do not have to be announced. Once a whisper has been declared and accepted, the two players may whisper via private message until one of them speaks publicly in the game chat, at which point the whisper is considered over and the players must declare whispers again if they wish to whisper.
+
+[/details]
+
+[details=&quot;Death&quot;]
+
+When a player dies, nothing is revealed about their character and they are allowed to stay in the game and speak. They may not nominate and they will have only one vote token (this will allow them to cast a vote to execute) for the entire game. Evil players who die may thus continue to help their allies by keeping up their claim and spreading misinformation, and good players may similarly help their allies by retaining relevant info that others may have forgotten in the heat of the game. Once a player dies, their ability stops working, which means that a player killed before they would perform their ability will not perform their ability, and any ability with a persistent effect will end upon the player’s death.
+
+[/details]
+
+[details=&quot;Victory&quot;]
+
+Good wins by eliminating all Demons (Minions do not necessarily need to die for Good to win, but eliminating Minions can be helpful). Evil wins by reducing the game to two living players (irrespective of either player’s alignment). The Storyteller may also declare a victory for Evil if Good may no longer possibly win (for example, if only evil players are left alive and thus no one would nominate the Demon). Certain class abilities may present alternate routes to victory; these classes, if able to appear, will be made known on the class list. In the event of a tie (both teams would win simultaneously), Good wins.
+
+[/details]
+
+
+[details=&quot;Jinxes&quot;]
+With this specific set of characters, comes... 5 jinxes. Yes, 5 of them. Pay attention, because they change how certain characters might work.
+
+Marionette + Lil&#39; Monsta - Marionette neighbors a Minion instead of the Demon. They do not wake with the other Minions to choose the babysitter.
+Marionette + Poppy Grower - the Demon learns who the Marionette is after the Poppy Grower&#39;s death, but the Marionette knows nothing.
+Lil&#39; Monsta + Poppy Grower - Minions do not wake together, but instead will be asked each day, individually if they want to babysit Monsta. The first one who accepts gets Monsta.
+Lil&#39; Monsta + Scarlet Woman - If the current babysitter dies, the Scarlet Woman immediately becomes the new babysitter.
+Scarlet Woman + Fang Gu - If the Fang Gu dies from choosing an Outsider, the Scarlet Woman will not become the new Fang Gu.
+[/details]
+
+The player list can be found below; just ping myself with /in and the seat you want (yes, I let you choose).
+
+1. Intensify
+2. Oogway
+3. EliThePsycho
+4. 
+5.
+6. 
+7.  SkyRED
+8. PokemonKidRyan
+9. 
+10. 
+11. Gorta
+12.
+13. YouButWorse
+14.
+15. 
+
+Backups (although I&#39;d rather you just join if there&#39;s room):
+1.
+
+Spectators (informed unless you make that godawful joke):
+1. Marshal
+2. Jane
+3. Pidgeon
+4. Arete
+5. Tilgarial
+6. Dogze
+7. Corn
+
+&lt;Small&gt; co host found, no worries</description>
+    
+    <lastBuildDate>Thu, 29 Apr 2021 22:41:56 +0000</lastBuildDate>
+    <category>Signups</category>
+    <atom:link href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Signups (7/15)</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p>Game thread whoa</p>
+<aside class="quote quote-modified" data-post="1" data-topic="87741">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="20" height="20" src="/user_avatar/forum.throneoflies.com/amelia/40/38850_2.png" class="avatar">
+    <a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-night-1-7-7/87741">Blood on the Forums VII - Behind the Curtains - Night 1 (7/7)</a> <a class="badge-wrapper  bullet" href="/c/forum-matches/fol-ongoing/18"><span class="badge-category-parent-bg" style="background-color: #BF1E2E;"></span><span class="badge-category-bg" style="background-color: #BF1E2E;"></span><span style="" data-drop-close="true" class="badge-category clear-badge">Ongoing</span></a>
+  </div>
+  <blockquote>
+    Greetings, for the seventh time, to Blood on the Forums! Hosted by <a class="mention" href="/u/amelia">@Amelia</a>! For this game, we’ve really done it now. A custom script made by us, featuring a mixture of familiar characters you all know and love, as well as a few new ones! Hold on tight, everyone, this game will absolutely get wacky. 
+<details><summary>Character List</summary>This game will be running an entirely custom script, with our little treat to you, a few of the newly revealed kickstarter characters. The rest of the characters are from the various ot…</details>
+  </blockquote>
+</aside>
+
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/156">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/156</link>
+        <pubDate>Thu, 29 Apr 2021 22:41:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87683-156</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683.rss">Blood on the Forums VII - Behind the Curtains - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Signups (7/15)</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/155">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/155</link>
+        <pubDate>Thu, 29 Apr 2021 21:22:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87683-155</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683.rss">Blood on the Forums VII - Behind the Curtains - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Signups (7/15)</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <h1>I’m going to pretend I didn’t forget to close signups for 2 hours</h1>
+<h1>They closed yes</h1>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/154">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/154</link>
+        <pubDate>Thu, 29 Apr 2021 21:15:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87683-154</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683.rss">Blood on the Forums VII - Behind the Curtains - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Signups (7/15)</title>
+        <dc:creator><![CDATA[Intensify]]></dc:creator>
+        <description><![CDATA[
+            <p>The real Legion was the friends we made along the way</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/153">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/153</link>
+        <pubDate>Thu, 29 Apr 2021 18:39:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87683-153</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683.rss">Blood on the Forums VII - Behind the Curtains - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Signups (7/15)</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p>The Mere threat of Legion changes a lot</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/152">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/152</link>
+        <pubDate>Thu, 29 Apr 2021 17:19:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87683-152</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683.rss">Blood on the Forums VII - Behind the Curtains - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Signups (7/15)</title>
+        <dc:creator><![CDATA[thepigeonnyc]]></dc:creator>
+        <description><![CDATA[
+            <p>But Legion didn’t spawn</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/151">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/151</link>
+        <pubDate>Thu, 29 Apr 2021 17:10:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87683-151</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683.rss">Blood on the Forums VII - Behind the Curtains - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Signups (7/15)</title>
+        <dc:creator><![CDATA[Intensify]]></dc:creator>
+        <description><![CDATA[
+            <p>Because it was Legion Brewing</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/150">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/150</link>
+        <pubDate>Thu, 29 Apr 2021 15:45:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87683-150</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683.rss">Blood on the Forums VII - Behind the Curtains - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Signups (7/15)</title>
+        <dc:creator><![CDATA[thepigeonnyc]]></dc:creator>
+        <description><![CDATA[
+            <p>OK but Shortnight 3 was just Trouble Brewing, why doesn’t that count</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/149">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/149</link>
+        <pubDate>Thu, 29 Apr 2021 15:38:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87683-149</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683.rss">Blood on the Forums VII - Behind the Curtains - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Signups (7/15)</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p>Clown fiesta doesn’t count</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/148">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/148</link>
+        <pubDate>Thu, 29 Apr 2021 14:33:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87683-148</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683.rss">Blood on the Forums VII - Behind the Curtains - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Signups (7/15)</title>
+        <dc:creator><![CDATA[thepigeonnyc]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Amelia" data-post="1" data-topic="87683">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/amelia/40/38850_2.png" class="avatar"> Amelia:</div>
+<blockquote>
+<p>for the seventh time</p>
+</blockquote>
+</aside>
+<p>*ninth</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/147">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/147</link>
+        <pubDate>Thu, 29 Apr 2021 14:31:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87683-147</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683.rss">Blood on the Forums VII - Behind the Curtains - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Signups (7/15)</title>
+        <dc:creator><![CDATA[CRichard564]]></dc:creator>
+        <description><![CDATA[
+            <p>Just allow anyone including me to take a  seat 4Head.</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/146">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/146</link>
+        <pubDate>Thu, 29 Apr 2021 04:18:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87683-146</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683.rss">Blood on the Forums VII - Behind the Curtains - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Signups (7/15)</title>
+        <dc:creator><![CDATA[EliThePsycho]]></dc:creator>
+        <description><![CDATA[
+            <p>that isn’t that bad</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/145">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/145</link>
+        <pubDate>Thu, 29 Apr 2021 01:17:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87683-145</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683.rss">Blood on the Forums VII - Behind the Curtains - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Signups (7/15)</title>
+        <dc:creator><![CDATA[Intensify]]></dc:creator>
+        <description><![CDATA[
+            <p><s>Marionette that thinks they’re a Poppy Grower</s></p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/144">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/144</link>
+        <pubDate>Thu, 29 Apr 2021 01:11:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87683-144</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683.rss">Blood on the Forums VII - Behind the Curtains - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Signups (7/15)</title>
+        <dc:creator><![CDATA[CRichard564]]></dc:creator>
+        <description><![CDATA[
+            <p>Wait blacklists include miscs.<br>
+Also mental health says no.</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/143">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/143</link>
+        <pubDate>Thu, 29 Apr 2021 00:56:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87683-143</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683.rss">Blood on the Forums VII - Behind the Curtains - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Signups (7/15)</title>
+        <dc:creator><![CDATA[EliThePsycho]]></dc:creator>
+        <description><![CDATA[
+            <p>if there isn’t an outsider by default Aemeria will probably just<br>
+include a Fang Gu</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/142">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/142</link>
+        <pubDate>Thu, 29 Apr 2021 00:48:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87683-142</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683.rss">Blood on the Forums VII - Behind the Curtains - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Signups (7/15)</title>
+        <dc:creator><![CDATA[EliThePsycho]]></dc:creator>
+        <description><![CDATA[
+            <p>Marionette who thinks they’re Politican<br>
+Marionette who thinks they’re Heretic<br>
+Marionette who is me who thinks they’re the slayer (this one is mean <code>:(</code>)</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/141">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/141</link>
+        <pubDate>Thu, 29 Apr 2021 00:48:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87683-141</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683.rss">Blood on the Forums VII - Behind the Curtains - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Signups (7/15)</title>
+        <dc:creator><![CDATA[CRichard564]]></dc:creator>
+        <description><![CDATA[
+            <p>This is where I make the decision to signup so there are outsiders, or not because mental health go brrr.</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/140">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/140</link>
+        <pubDate>Thu, 29 Apr 2021 00:47:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87683-140</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683.rss">Blood on the Forums VII - Behind the Curtains - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Signups (7/15)</title>
+        <dc:creator><![CDATA[EliThePsycho]]></dc:creator>
+        <description><![CDATA[
+            <p>Amelia you weren’t supposed to tell me I was the marionette</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/139">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/139</link>
+        <pubDate>Thu, 29 Apr 2021 00:46:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87683-139</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683.rss">Blood on the Forums VII - Behind the Curtains - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Signups (7/15)</title>
+        <dc:creator><![CDATA[CRichard564]]></dc:creator>
+        <description><![CDATA[
+            <p>Is this when I make 8 alt accounts to fill it up?</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/138">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/138</link>
+        <pubDate>Wed, 28 Apr 2021 23:54:28 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87683-138</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683.rss">Blood on the Forums VII - Behind the Curtains - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Signups (7/15)</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <h1>Probably going to close signups around ~ <span data-date="2021-04-29" data-time="14:00:00" class="discourse-local-date" data-timezone="America/Chicago" data-email-preview="2021-04-29T19:00:00Z UTC">2021-04-29T19:00:00Z</span> if we don’t get anymore</h1>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/137">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/137</link>
+        <pubDate>Wed, 28 Apr 2021 21:46:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87683-137</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683.rss">Blood on the Forums VII - Behind the Curtains - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Signups (7/15)</title>
+        <dc:creator><![CDATA[EliThePsycho]]></dc:creator>
+        <description><![CDATA[
+            <p>nerd</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/136">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/136</link>
+        <pubDate>Wed, 28 Apr 2021 21:11:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87683-136</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683.rss">Blood on the Forums VII - Behind the Curtains - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Signups (7/15)</title>
+        <dc:creator><![CDATA[thepigeonnyc]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m hallucinating, right?</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/135">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/135</link>
+        <pubDate>Wed, 28 Apr 2021 18:59:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87683-135</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683.rss">Blood on the Forums VII - Behind the Curtains - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Signups (7/15)</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p>If only I knew</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/134">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/134</link>
+        <pubDate>Wed, 28 Apr 2021 18:32:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87683-134</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683.rss">Blood on the Forums VII - Behind the Curtains - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Signups (7/15)</title>
+        <dc:creator><![CDATA[cornthecarrot]]></dc:creator>
+        <description><![CDATA[
+            <p>no u</p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/133">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/133</link>
+        <pubDate>Wed, 28 Apr 2021 18:32:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87683-133</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683.rss">Blood on the Forums VII - Behind the Curtains - Signups (7/15)</source>
+      </item>
+      <item>
+        <title>Blood on the Forums VII - Behind the Curtains - Signups (7/15)</title>
+        <dc:creator><![CDATA[Intensify]]></dc:creator>
+        <description><![CDATA[
+            <p><s>Also hold on how come Corn gets the cool book thing reeee</s></p>
+          <p><a href="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/132">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683/132</link>
+        <pubDate>Wed, 28 Apr 2021 18:31:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87683-132</guid>
+        <source url="https://forum.throneoflies.com/t/blood-on-the-forums-vii-behind-the-curtains-signups-7-15/87683.rss">Blood on the Forums VII - Behind the Curtains - Signups (7/15)</source>
+      </item>
+  </channel>
+</rss>

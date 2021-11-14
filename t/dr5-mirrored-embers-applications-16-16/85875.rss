@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>DR5 - Mirrored Embers - Applications - 16/16</title>
+    <link>https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875</link>
+    <description>&lt;div align=&quot;center&quot;&gt;
+
+![DR5 Logo|690x307](upload://zqKFNQzVPrkIDHfR2olPJ0I8WfC.jpeg) 
+
+# DR5: Mirrored Embers
+
+A killing game.
+Hosted by @Arete and @Icibalus.
+
+&lt;/div&gt;
+
+**What is this?**
+
+- Dangan Ronpa is a forum game based on the approximately popular game series of the same named, except because I&#39;m hosting it, there will be a *minimal* amount of anime.
+- In the game, you explore the map in the **Daily Life** phase, uncover evidence in the **Deadly Life** phase, and attempt to bring the killer to justice in the **Class Trial**. You can perform actions that could be- well, just about anything an actual human could do.
+- In the game, the majority of players will be [color=teal]**Participants**[/color], but one player, lurking among them, will be the nefarious [color=brown]**Mastermind**[/color], plotting their destruction.
+- There are two ways to win as a [color=teal]**Participant**[/color]:
+- - Survive the killing game, unveil all the Blackened, and expose the Mastermind in the **FINAL TRIAL**
+- - Commit murder and survive to escape the town.
+- There are two ways for the [color=brown]**Mastermind**[/color] to win:
+- - Ensure the Participants fail to expose N murderers. The value of N is unknown, even to the [color=brown]**Mastermind**[/color].
+- - Survive the **FINAL TRIAL** without being exposed.
+- Note that the [color=brown]**Mastermind**[/color] *cannot* directly kill, but they have other... advantages that they can use to help bring the [color=teal]**Participants**[/color] down.
+- There are also the neutral [color=red]**Wildcards**[/color], who win by doing:
+- - Something. You don&#39;t know what, but something.
+
+**Daily Life**
+
+- During this phase, players may perform actions freely (explained below), explore the academy, and do incredibly stupid and completely unjustifiable actions for the sake of ephemeral comedy.
+- Throughout the map are secret items, hidden rooms, puzzles, and at least one secret passage. Some of these items are murder weapons. Do with them what their name suggests and you might win.
+- During **Daily Life**, players have the option to become **Blackened** by comitting murder. This action is tiring, but could potentially win you the game if you go undetected.
+- During this phase, the game will change between **Day** and **Night**, on a 12/12 cycle.
+- The following changes will occur during night time:
+- 1. Murders have a +2% chance of succeeding at night time, thanks to the low visibility.
+- 2. Sleeping in your dorm room will gain you +30% of your AP per hour, and will allow you to have 150% more than your AP maximum. This is opposed to sleeping during the day, which grants +20% per hour and does not allow you to exceed your AP maximum.
+- 3. The base cost for moving between locations will become 2 AP instead of 1 AP.
+- This phase will end when a body is discovered by a group of three or more players encountering a dead body. This could, of course, include the **Blackened**.
+
+**Deadly Life**
+
+ - Players may investigate the school once more, but not to explore. Instead, they must determine the identity of the killer by finding evidence. The phase lasts for 24 hours.
+- This phase is fairly simple, so I shall use the rest of this section to explain some finer points of homicide:
+- - Killing a player is a mix of RNG and stats, and costs 40% of your total AP to work up the nerve to murder.
+- - When a murder happens, it&#39;s extremely likely that physical evidence will be left behind, and there&#39;s not much you can do to stop that. Mostly blood.
+- - Due to magical wards in place in the town, all items marked with blood cannot be dropped outside of the building the murder was comitted in.
+- - Items involved in the murder that are not covered with blood can be placed anywhere, but cannot be easily destroyed.
+- - A maximum of 2 players may be murdered in each Daily Life phase. If two seperate murders were comitted, only the  murderer of the first body to be disco :b: ered is Blackened. There are only a few, niche, exceptions to this rule:
+- - - If the bodies were discovered simultaneously, the murder which was committed first chronologicaly decides the Blackened.
+- - - If the murderer of the first victim is then murdered, their murderer will be the Blackened.
+- - - If both murders were committed simultaneously and discovered simultaneously, the Blackened will be decided by luck.
+- - A dead player can be Blackened in cases of suicide. However, without access to necromancy, it is impossible to win this way.
+
+**Class Trial**
+- For 48 hours, players may freely discuss the murder, the evidence, and the identity of the killer. No actions may be performed except for showing the class evidence in your inventory.
+- Players may vote **privately** during the Class Trial. If all players have voted, the phase will end early.
+- Votes are **weighted** according to your INT stat. Please check later sections.
+- If all players excepting the Mastermind and the Blackened vote correctly, the trial is automatically a success.
+
+**Items And Stats**
+
+- There are 5 stats in the game:
+- - STR - How strong you are, your ability to perform physically taxing actions.
+- - CON - How resistant you are, rarely used for stat rolls, but determines AP.
+- - AGI - How fast and dexterous you are.
+- - INT - How smart you are, determines your vote weight in class trials, and affects your ability to perform complex, precise actions. 
+- - LUK - Your affinity for the endless stream of random bullshit endemic to killing games.
+- In addition, all players (unless otherwise stated) have 5 **Public Item Slots** and 1 **Private Item Slot**, each of which can hold one item.
+- **Public Item Slots** can be inspected at any time. However, you may only check another player&#39;s **Public Slots** a maximum of 3 times per cycle.
+- **Private Item Slots** cannot be checked normally. However, during the Deadly Life phase, one **Private Item Slot** from each player will temporarily become public.
+- It is possible to steal another player&#39;s items from one of their **Public Slots** by passing a roll of (AGI/2)%
+
+**IMPORTANT STAT INFO (FOR NERDS (AND ALSO PEOPLE WHO WANT TO LIVE))**
+
+- Melee Attack Kill Chance = (50 + (Attacker STR - Defender STR)/2 + Weapon Attack - (Defender&#39;s LUK/8))%
+- Projectile Kill Chance = (50 + (Attacker AGI  - Defender AGI)/2 + Weapon Attack - (Defender&#39;s LUK/8))%
+- Poision Kill Chance = 100%, unless an antidode is found.
+- Time Until Poison Kill = (Poison Power)*(1+Defender&#39;s CON/5).  Symptoms will be experienced depending on the poison.
+- Electrocution, Drowning, Burn, And Miscellaneous Kill Chance = 100% - (Victim&#39;s CON/2 + LUK/5). Advantage (roll twice, if  either roll kills, the victim is dead) may be given for strong miscellaneous methods, Disadvantage (roll twice, the victim may only die if both kill) may be given for weak miscellaneous methods of murder. Use with caution.
+- Maximum AP = 25 + CON/4
+- Vote Weight = 80 + INT/2
+
+**AP And Actions**
+
+- All players begin the game with an amount of AP. Moving rooms costs 1 AP during the day (2 AP at night). 
+- **All actions, unless otherwise stated, cost 1 AP**
+- Murdering another player costs 40% of your total AP to attempt.
+ - AP may be recovered by the following methods:
+- - Sleeping. During the day, recover 20% of your max AP each hour. At night, this moves up to 30% of your max AP.
+- - Eating.
+- - Magic
+
+**Roles, and also Magic**
+
+- All players will have a role granting them special abilities. You are free to reveal these abilities, but note that there are.. certain incentives not to claim your true capabilities. These cards also include a name and gender.
+- Each role has a one-use ***ULTIMATE ABILITY***, which can only be used **once per game**, but have exceedingly powerful effects.
+- Magic exists within this game, allowing players to violate the laws of physics, and additionally the laws of taste. However, magic obeys ***very*** strict rules, and is very hard to keep a secret. It cannot be used as a catch-all. Be sure to familliarise yourself with the arcane if you wish to use it as a weapon, or uncover the nature of its&#39; use.
+
+# **Map**
+
+---- 
+
+![image|556x500](upload://7edxAeQa28Eo9nxtLRsnhMtm1cG.jpeg) 
+
+Each of the building areas marked by a letter has their own unique minimap in 3D.  See them below:
+
+**A, B, and C - Dorm Rooms**
+
+
+[details=]
+![Dorm Rooms|414x384](upload://yZnhNUrsjS3nuIKklnkG692d4sR.png) 
+[/details]
+
+**D - Deluxe Dorm Rooms**
+
+
+[details=&quot;&quot;]
+![image|504x500](upload://e9kW2TAobavo2sHk4EwH7ZMdtlb.png) 
+[/details]
+
+**E - Hospital**
+
+[details=&quot;&quot;]
+![image|623x500](upload://iDCNt3tNfae1I47zLpQHymHHyaJ.png) 
+[/details]
+
+**F - Bank**
+
+
+[details=&quot;&quot;]
+![Feybrook Arcane Ventures|524x500](upload://uldRwmb2bbyeEkNyMx2GitzKDUu.png) 
+[/details]
+
+**G - Senate**
+
+
+[details=&quot;&quot;]
+![image|525x499](upload://wTwZIAuCPVglghl4TxsoRoIcQ0t.png) 
+[/details]
+
+**H - Library**
+
+
+[details=&quot;&quot;]
+![image|584x500](upload://sReALUgscaeFbUCipjrCBAHOjMo.png) 
+[/details]
+
+------------
+
+**Changes From Previous Games (TL;DR)**
+
+- The nature of discovering bodies has changed somewhat.
+- Some of the wording has been changed to be a bit more naturalistic.
+- Magic exists and can be manipulated as part of the game. Otherwise, the game will stick more closely to reality. Expect slightly more detail forensics-wise.
+
+**Signups**
+
+1. Jane
+2. DatBird
+3. Amelia
+4. ArcticXI
+5. Apprentice
+6. katze 
+7. Marluxion
+8. SirDerpsALot
+9. Trochillidae
+10. min
+11.  Nightingale
+12. eevee
+13. MistyX
+14. Light
+15. Wazza
+16. TrustworthyLiberal
+
+**Wishes To Make It Known That They Are Not Signed Up**
+- ATNoName
+
+
+**Backups**
+- PokemonKidRyan
+- EliThePsycho
+- YouButWorse
+- Conduit
+- WindwardAway
+- CRichrd564
+- KyoDaz
+- an_gorta_pratai
+- Italy
+
+**Spectators**
+- thepigeonnyc (Reluctantly informed, but you&#39;re on thin ice after that joke)
+- Cheeki (Informed)
+- Marshal (Informed)</description>
+    
+    <lastBuildDate>Wed, 10 Feb 2021 14:18:27 +0000</lastBuildDate>
+    <category>Signups</category>
+    <atom:link href="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>DR5 - Mirrored Embers - Applications - 16/16</title>
+        <dc:creator><![CDATA[Shurian]]></dc:creator>
+        <description><![CDATA[
+            <p>Thank god I posted in applications</p>
+          <p><a href="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/894">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/894</link>
+        <pubDate>Wed, 10 Feb 2021 14:18:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85875-894</guid>
+        <source url="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875.rss">DR5 - Mirrored Embers - Applications - 16/16</source>
+      </item>
+      <item>
+        <title>DR5 - Mirrored Embers - Applications - 16/16</title>
+        <dc:creator><![CDATA[Shurian]]></dc:creator>
+        <description><![CDATA[
+            <p>If I were the merchant<br>
+This game will be fun<br>
+If not<br>
+Well… merchant to me first :3</p>
+          <p><a href="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/893">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/893</link>
+        <pubDate>Wed, 10 Feb 2021 14:13:24 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85875-893</guid>
+        <source url="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875.rss">DR5 - Mirrored Embers - Applications - 16/16</source>
+      </item>
+      <item>
+        <title>DR5 - Mirrored Embers - Applications - 16/16</title>
+        <dc:creator><![CDATA[Nightingale]]></dc:creator>
+        <description><![CDATA[
+            <p>yes</p>
+          <p><a href="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/892">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/892</link>
+        <pubDate>Wed, 10 Feb 2021 13:44:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85875-892</guid>
+        <source url="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875.rss">DR5 - Mirrored Embers - Applications - 16/16</source>
+      </item>
+      <item>
+        <title>DR5 - Mirrored Embers - Applications - 16/16</title>
+        <dc:creator><![CDATA[GGhana]]></dc:creator>
+        <description><![CDATA[
+            <p>This setup is cursed</p>
+<p>also why won’t merchant claim day 1</p>
+          <p><a href="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/891">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/891</link>
+        <pubDate>Wed, 10 Feb 2021 13:11:42 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85875-891</guid>
+        <source url="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875.rss">DR5 - Mirrored Embers - Applications - 16/16</source>
+      </item>
+      <item>
+        <title>DR5 - Mirrored Embers - Applications - 16/16</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>/informed spectator</strong></p>
+          <p><a href="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/890">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/890</link>
+        <pubDate>Wed, 03 Feb 2021 09:55:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85875-890</guid>
+        <source url="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875.rss">DR5 - Mirrored Embers - Applications - 16/16</source>
+      </item>
+      <item>
+        <title>DR5 - Mirrored Embers - Applications - 16/16</title>
+        <dc:creator><![CDATA[Shurian]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>/informed spectator</strong></p>
+          <p><a href="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/889">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/889</link>
+        <pubDate>Wed, 03 Feb 2021 05:18:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85875-889</guid>
+        <source url="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875.rss">DR5 - Mirrored Embers - Applications - 16/16</source>
+      </item>
+      <item>
+        <title>DR5 - Mirrored Embers - Applications - 16/16</title>
+        <dc:creator><![CDATA[Icibalus]]></dc:creator>
+        <description><![CDATA[
+            <h1>[!] All roles have been sent out.</h1>
+          <p><a href="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/888">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/888</link>
+        <pubDate>Tue, 02 Feb 2021 19:42:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85875-888</guid>
+        <source url="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875.rss">DR5 - Mirrored Embers - Applications - 16/16</source>
+      </item>
+      <item>
+        <title>DR5 - Mirrored Embers - Applications - 16/16</title>
+        <dc:creator><![CDATA[Whysper]]></dc:creator>
+        <description><![CDATA[
+            <p>/informed spec</p>
+          <p><a href="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/887">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/887</link>
+        <pubDate>Tue, 02 Feb 2021 19:23:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85875-887</guid>
+        <source url="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875.rss">DR5 - Mirrored Embers - Applications - 16/16</source>
+      </item>
+      <item>
+        <title>DR5 - Mirrored Embers - Applications - 16/16</title>
+        <dc:creator><![CDATA[Icibalus]]></dc:creator>
+        <description><![CDATA[
+            <h1>Roles will be sent out in 5 minutes. Please remain quiet.</h1>
+          <p><a href="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/886">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/886</link>
+        <pubDate>Tue, 02 Feb 2021 18:55:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85875-886</guid>
+        <source url="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875.rss">DR5 - Mirrored Embers - Applications - 16/16</source>
+      </item>
+      <item>
+        <title>DR5 - Mirrored Embers - Applications - 16/16</title>
+        <dc:creator><![CDATA[Nightingale]]></dc:creator>
+        <description><![CDATA[
+            <p>I have a new avi so I’m probably not changing it for the next 24 hours<br>
+rip that plan</p>
+          <p><a href="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/885">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/885</link>
+        <pubDate>Tue, 02 Feb 2021 17:04:20 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85875-885</guid>
+        <source url="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875.rss">DR5 - Mirrored Embers - Applications - 16/16</source>
+      </item>
+      <item>
+        <title>DR5 - Mirrored Embers - Applications - 16/16</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p><div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/2/a/2a31c26174b6e7047df59f35f64d85997e64c5ca.jpeg" data-download-href="https://forum.throneoflies.com/uploads/default/2a31c26174b6e7047df59f35f64d85997e64c5ca" title="image"><img src="https://forum.throneoflies.com/uploads/default/optimized/3X/2/a/2a31c26174b6e7047df59f35f64d85997e64c5ca_2_646x500.jpeg" alt="image" data-base62-sha1="61gF4U969qcfAVZA8xnfHN4WVKO" width="646" height="500" srcset="https://forum.throneoflies.com/uploads/default/optimized/3X/2/a/2a31c26174b6e7047df59f35f64d85997e64c5ca_2_646x500.jpeg, https://forum.throneoflies.com/uploads/default/original/3X/2/a/2a31c26174b6e7047df59f35f64d85997e64c5ca.jpeg 1.5x, https://forum.throneoflies.com/uploads/default/original/3X/2/a/2a31c26174b6e7047df59f35f64d85997e64c5ca.jpeg 2x" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/2/a/2a31c26174b6e7047df59f35f64d85997e64c5ca_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">840×650 137 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div></p>
+          <p><a href="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/884">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/884</link>
+        <pubDate>Tue, 02 Feb 2021 16:58:15 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85875-884</guid>
+        <source url="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875.rss">DR5 - Mirrored Embers - Applications - 16/16</source>
+      </item>
+      <item>
+        <title>DR5 - Mirrored Embers - Applications - 16/16</title>
+        <dc:creator><![CDATA[SirDerpsAlot]]></dc:creator>
+        <description><![CDATA[
+            <p>Geometry is sad</p>
+          <p><a href="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/883">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/883</link>
+        <pubDate>Tue, 02 Feb 2021 16:50:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85875-883</guid>
+        <source url="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875.rss">DR5 - Mirrored Embers - Applications - 16/16</source>
+      </item>
+      <item>
+        <title>DR5 - Mirrored Embers - Applications - 16/16</title>
+        <dc:creator><![CDATA[Trochilidae]]></dc:creator>
+        <description><![CDATA[
+            <p>i just now realized your pfp is joy</p>
+          <p><a href="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/882">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/882</link>
+        <pubDate>Tue, 02 Feb 2021 16:38:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85875-882</guid>
+        <source url="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875.rss">DR5 - Mirrored Embers - Applications - 16/16</source>
+      </item>
+      <item>
+        <title>DR5 - Mirrored Embers - Applications - 16/16</title>
+        <dc:creator><![CDATA[min]]></dc:creator>
+        <description><![CDATA[
+            <p>sad</p>
+          <p><a href="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/881">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/881</link>
+        <pubDate>Tue, 02 Feb 2021 16:37:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85875-881</guid>
+        <source url="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875.rss">DR5 - Mirrored Embers - Applications - 16/16</source>
+      </item>
+      <item>
+        <title>DR5 - Mirrored Embers - Applications - 16/16</title>
+        <dc:creator><![CDATA[Trochilidae]]></dc:creator>
+        <description><![CDATA[
+            <p>no</p>
+          <p><a href="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/880">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/880</link>
+        <pubDate>Tue, 02 Feb 2021 16:28:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85875-880</guid>
+        <source url="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875.rss">DR5 - Mirrored Embers - Applications - 16/16</source>
+      </item>
+      <item>
+        <title>DR5 - Mirrored Embers - Applications - 16/16</title>
+        <dc:creator><![CDATA[min]]></dc:creator>
+        <description><![CDATA[
+            <p>Stop replying so much while I’m asleep</p>
+          <p><a href="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/879">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/879</link>
+        <pubDate>Tue, 02 Feb 2021 16:26:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85875-879</guid>
+        <source url="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875.rss">DR5 - Mirrored Embers - Applications - 16/16</source>
+      </item>
+      <item>
+        <title>DR5 - Mirrored Embers - Applications - 16/16</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p>considering you killed one of my most dangerous enemies and were also pretty dangerous</p>
+<p>you helped me so much lmao</p>
+          <p><a href="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/878">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/878</link>
+        <pubDate>Tue, 02 Feb 2021 15:59:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85875-878</guid>
+        <source url="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875.rss">DR5 - Mirrored Embers - Applications - 16/16</source>
+      </item>
+      <item>
+        <title>DR5 - Mirrored Embers - Applications - 16/16</title>
+        <dc:creator><![CDATA[DatBird]]></dc:creator>
+        <description><![CDATA[
+            <p>Originally it was just gonna be self defense but then gghana entered and I was like sure get rid of scummy. And sorry appel</p>
+          <p><a href="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/877">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/877</link>
+        <pubDate>Tue, 02 Feb 2021 15:56:42 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85875-877</guid>
+        <source url="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875.rss">DR5 - Mirrored Embers - Applications - 16/16</source>
+      </item>
+      <item>
+        <title>DR5 - Mirrored Embers - Applications - 16/16</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p>also you killed the Ultimate Mortician so thanks for that (:</p>
+          <p><a href="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/876">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/876</link>
+        <pubDate>Tue, 02 Feb 2021 15:56:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85875-876</guid>
+        <source url="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875.rss">DR5 - Mirrored Embers - Applications - 16/16</source>
+      </item>
+      <item>
+        <title>DR5 - Mirrored Embers - Applications - 16/16</title>
+        <dc:creator><![CDATA[Italy]]></dc:creator>
+        <description><![CDATA[
+            <p>i immediately started keeping my distance when you revealed you dug up a massive spear</p>
+          <p><a href="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/875">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/875</link>
+        <pubDate>Tue, 02 Feb 2021 15:55:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85875-875</guid>
+        <source url="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875.rss">DR5 - Mirrored Embers - Applications - 16/16</source>
+      </item>
+      <item>
+        <title>DR5 - Mirrored Embers - Applications - 16/16</title>
+        <dc:creator><![CDATA[Italy]]></dc:creator>
+        <description><![CDATA[
+            <p>the more thought in a plan, the more likely something unexpected happens</p>
+          <p><a href="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/874">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/874</link>
+        <pubDate>Tue, 02 Feb 2021 15:55:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85875-874</guid>
+        <source url="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875.rss">DR5 - Mirrored Embers - Applications - 16/16</source>
+      </item>
+      <item>
+        <title>DR5 - Mirrored Embers - Applications - 16/16</title>
+        <dc:creator><![CDATA[DatBird]]></dc:creator>
+        <description><![CDATA[
+            <p>And I be like spear go brrrrrrr</p>
+          <p><a href="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/873">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/873</link>
+        <pubDate>Tue, 02 Feb 2021 15:55:20 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85875-873</guid>
+        <source url="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875.rss">DR5 - Mirrored Embers - Applications - 16/16</source>
+      </item>
+      <item>
+        <title>DR5 - Mirrored Embers - Applications - 16/16</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m the mastermind<br>
+sorry everyone I ruined the game</p>
+<div class="spoiler">
+<p>i’m not in so don’t take this seriously</p>
+</div>
+          <p><a href="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/872">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/872</link>
+        <pubDate>Tue, 02 Feb 2021 15:55:17 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85875-872</guid>
+        <source url="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875.rss">DR5 - Mirrored Embers - Applications - 16/16</source>
+      </item>
+      <item>
+        <title>DR5 - Mirrored Embers - Applications - 16/16</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p>RNG god</p>
+<p>you could’ve just been outted :wowee:</p>
+          <p><a href="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/871">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/871</link>
+        <pubDate>Tue, 02 Feb 2021 15:53:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85875-871</guid>
+        <source url="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875.rss">DR5 - Mirrored Embers - Applications - 16/16</source>
+      </item>
+      <item>
+        <title>DR5 - Mirrored Embers - Applications - 16/16</title>
+        <dc:creator><![CDATA[DatBird]]></dc:creator>
+        <description><![CDATA[
+            <p>Imagine murder and theres 0 downsides and u walk free no trial</p>
+          <p><a href="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/870">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875/870</link>
+        <pubDate>Tue, 02 Feb 2021 15:52:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-85875-870</guid>
+        <source url="https://forum.throneoflies.com/t/dr5-mirrored-embers-applications-16-16/85875.rss">DR5 - Mirrored Embers - Applications - 16/16</source>
+      </item>
+  </channel>
+</rss>

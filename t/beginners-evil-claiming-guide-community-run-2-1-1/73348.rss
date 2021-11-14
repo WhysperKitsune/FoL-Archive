@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</title>
+    <link>https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348</link>
+    <description>**To whoever is reading this, this guide will no longer be updated.** 
+Thank you for generally being cool people. I will still be posting art online as **Southrobin**. 
+If you want to contact me, my dms on discord are open. Have a good one.
+
+
+Disclaimer: Not all strategies are listed here, be creative!
+**Useful Links:** [Class Interactions QnA](https://forum.imperium42.com/t/throne-of-lies-interactions-q-a/67664) - [Mid Game References](http://tol.wikia.com/wiki/Mid-Game_Reference) - [All Classes](https://tol.wikia.com/wiki/Classes) - [Abilities n Feedback](https://tol.wikia.com/wiki/Abilities_and_Feedback)
+
+## &lt;font color=&quot;LightBlue&quot;&gt;Important Updates in the Most Recent Patch, 2.1.0: &lt;/font&gt;
+Hunter is now unique again and has their arrow back! Alchs have bleed immunity again. 
+Mm has cannot be found till n3 again etc.
+Latest patch: https://forum.imperium42.com/t/2-1-1-patch-notes/74743
+
+## &lt;font color=&quot;LightBlue&quot;&gt; General Game Info&lt;/font&gt;
+* 1 fewer neutral spawns in a 15 player game.
+* There is at least one healer per game. (Physician, Chronomancer, Alchemist).
+* There is a ****maximum of 3** of the same non-unique BD classes** in a game.
+And a max of 2 non-unique neutrals.
+Some unique classes are the NK, Mystic, Prince, Pretender, Sellsword, Scorned, Inquisitor.
+* If there are three or more people claiming the same class, they are generally seen as **suspicious** due to the low odds for three of the same class to spawn.
+
+## &lt;font color=&quot;LightBlue&quot;&gt;Bussing / Common ToL Vocabulary&lt;/font&gt;
+Commonly used terms: [Mid-Game Refs](https://tol.wikia.com/wiki/Mid-Game_Reference#Players.27_Vocabulary)
+
+* **Bussing** is throwing someone of the same faction as you &quot;under the bus&quot;. You pretend to find them, and out them to someone trustworthy or publicly in the court. This gains you credibility and buys you time.
+* BD refers to the Blue Dragon, the &quot;good&quot; faction in the game. NK refers to the Neutral Killer. (Possessor/Sorcerer/Reaper)
+* MM and CL are the Mastermind and the Cult Leader respectively. They are the evil leaders of the Unseen and Cult respectively.
+* Scumreading is when you can &quot;read&quot; who evils may be from &quot;suspicious&quot; behaviour or speech.
+**Some bussing strategies.**
+* _Usually_ the person bussing is the converter (The Mastermind and the CL) because they need trust from BD the most.
+* Try to buss only when the converter Convert Ability cooldown is off the night you bus. If you convert someone and bus another, you have 1 less evil member for an entire night, so that may be risky. 
+* Bussing is even better for Unseen, since they only have a max of 3 anyway, then replace its lost member place that night with a successful convert. Again, there can be exceptions, but that’s the safest pick when in doubt to when to bus.
+* You can buss your teammate together with another scum friend. Not only it confirms two people with checks on the bussed person, forcing legit BD feedback appearing as wrong, it also confirms you AND your friend. A niche example: MM claiming Drunk that forced their Assassin (previously Drunk that MM got logs from to use) into someone. However, a Butler says that claim is a lie, cause target was immune to redirection and occupy. Your second scum member shows up with another argument, like confirming MM’s visits, confirming an occ on the Assassin or directly incriminating the Butler with something. Depending how it’s done, it can either buy time or just completely remove BD sight on you, granting you the late-game easily.
+* Bussing doesn’t need to end on an execution the following day! It is, actually, even better if the person you are bussing come up with a good excuse to live another day, just to be investigated and come up as Unseen anyway. It wastes A LOT of time for BD (night investigating and day executing), gives you another life to rethink strategies and also gets you the trust you intended to have.
+* An underused gambit is the same idea for Unseen, converting a sheriff the same night he’s likely to surv the MM and find you as MM. Usethe 2 seconds in the twilight phase where night switches to day to tell them &quot; **bus me as Mastermind tomorrow**. It pretty much locks them as BD for the rest of the game and will get the BD to incorrectly eliminate them from being an Unseen.
+
+## &lt;font color=&quot;LightBlue&quot;&gt;General Evil Claims (No Princess/Pretender in Game)&lt;/font&gt;
+* There are a few ways of playing as an evil. If you&#39;re new to the game, laying low or asking for your teammates to bus you at night may be an option. As your skill level increases, you may want to try other strategies, such as being an aggressive evil and taking someone down with you before you die.
+
+* Easy/ Beginner claims are the **Knight, Court Wizard, Chronomancer, Physician and the Alchemist.** These are hard for you prove unless you get a &quot;confirmed&quot; heal, guard, or swap. However, these claims have the drawback of being untrustworthy and will only buy you a couple of days at best.
+
+* Medium difficulty claims are **Sheriff/ Paladin/ Princess/ Maid**. These are good if you can pick up hints of what classes people could be or who evils are via scumreading.
+As an nk, if you hit someone you believe to be mm, it might be worth pretending to be an investigative who “found” mm N4 onwards. 
+If you want to play evils aggressively for example, Sheriff and Maid are great assassin/CL/Seeker claims not because you can go under the radar. But because you can take someone down with you and cause chaos while possibly gaining majority before they can lynch you.
+
+* Or maybe, you could claim Princess or Knight as an excuse to ask people for claims for information. Because as Princess, you cross-reference your checks with others, or the Knight can threaten to CS them if they do not claim. This can get bonus info beyond an evil&#39;s abilities (not to mention it can cause more misslynches).
+
+* Your goal as scum is to keep BD from reaching a critical mass of confirmed players at all costs. 
+
+* Hard difficulty claims are the **Observer**. They are usually trusted because poorly faked observer logs are easily spotted. So only attempt this if you can confidently do good fake logs.
+
+* Generally Avoid Claiming / Ballsy plays: **Mystic, Noble, Prince, Mercenary.** These classes are easily proven and counterclaimed. (Links, Noble twin and force vote, already a confirmed prince in game, and stand guard can be easily confirmed.) These may buy you a night, but are not recommended to be used long term except in rare situations. Use **Hunter** claims situationally as it is also a unique class.
+
+* A small but risky strategy: If you hit someone that was NOT immune but they still survived, at the beginning of the next day whisper to the person you attacked “I healed you last night” to get the credit if they were healed.
+
+* If you did not know there was a princess in game and claimed outside your possible class type, you can claim that you were **Framed** by a Scorned or an investigative was **mindwarped** (Cult games only). Use only as a last ditch effort.
+
+* If you are outed as a confirmed evil, the Prince is dead and there are no knights in game, you might consider acting like a Fool to dissuade the court from executing you on the stand. Again, only use as a LAST RESORT.
+
+## What to claim as &lt;font color=&quot;Purple&quot;&gt;The Mastermind?&lt;/font&gt;
+The most important Unseen class. You look like a BD to investigators for the first 3 Nights, after that you can be found as an unseen. You generally need to survive for as long as you possibly can.
+* With princess in game: Special/Investigative classes.
+*  Eg. Princess, Pretender (in a neuts in game), Observer (must be confident in your log faking skills!), Sheriff / Paladin, Maid.
+
+* If no princess: General evil claims or swap claims with your converted Unseen. 
+You can pretend to be the class that your converted unseen member previously was. And use the logs that they previously had. Eg. You managed to convert a butler into a servant. You could swap logs with them and get a &quot;confirmed&quot; occupation on someone, making you appear to be less like an MM. (This requires a lot of team cooperation and good log faking!)
+
+* NOTE: **Bussing** an unseen may be necessary to earn trust and buy time! Always let your unseen know in advance before outing them.
+
+* With Patch 2.0.2 and the MM&#39;s new whisper listening ability, Little Birds, it is NOT RECOMMENDED to claim Noble. This is because the MM does not have the ability to noble twin vote, and will immediately out you as a &quot;fake noble&quot;.
+
+* Strategy Guides: https://forum.imperium42.com/t/guide-how-to-mm-for-dummies-v-1-0-15/36679
+
+ (More Suggestions wanted!)
+
+
+## What to claim as &lt;font color=&quot;Purple&quot;&gt;The Assassin? &lt;/font&gt;
+* With princess in game: Killer/Offensive Classes. Eg. Knight, Butler, Drunk, Hunter (be prepared to counterclaim a real hunter.)
+
+* More suggestions needed!!
+
+## What to claim as a &lt;font color=&quot;Purple&quot;&gt;Converted Unseen Class?&lt;/font&gt;
+* **Usually** you can get away with **claiming your previous class** before conversion.
+* However, if converted early as **The Mystic** and you have not claimed yet, its best to change your claim since a converted mystic is easily snuffed out. If it&#39;s late game, you can still pretend to be the mystic by cooperating with your team or a trustworthy neutral that you&#39;ve &quot;linked&quot; them the previous night.
+* Additionally, if you play aggressively as an evil (eg as the Sage, Herbalist or Enforcer), you may want to **fake claim as another class**.  For example, getting converted as a Knight and deciding to use Frenzy on an outed Prince. Avoid claiming Knight as it is obvious an Enforcer is in play and all knights are immediately suspicious. Or if you’re a converted Physician, and the Assassin plans on poisoning then you should claim another class as a Herbalist.
+
+## What to claim as &lt;font color=&quot;Red&quot;&gt;The Cult Leader?&lt;/font&gt;
+* With Princess in game: Special/ Investigative Classes.Eg. **Princess, Pretender, Observer** (must be confident in your log faking skills!), **Sheriff / Paladin, Maid.**
+As a princess claim, work with your seeker to get information, as well as open claims from the court. Pretender may work if it&#39;s a neuts in game.
+* The Cult Leader has slightly less pressure to survive compared to the Mastermind due to the oldest Cult turning into the CL after the old one dies. It is still important that you try to stay alive and avoid being jailed as long as possible so you can get as many converts and eradicates off successfully.
+
+## What to claim as &lt;font color=&quot;Red&quot;&gt;The Apostle?&lt;/font&gt;
+* With the Princess: Support classes eg: **Court Wizard, Physician, Chronomancer.**
+* NOTE: Claiming a Noble/Mystic is generally not recommended as an Apostle, due to the Noble&#39;s Noble twin ability and the Mystic&#39;s Link, which the Apostle lacks. Only continue to claim Noble/Mystic if you&#39;ve claimed early game and get converted late game. 
+* Without a princess: **Princess, Maid**. As an apostle, you have information on people&#39;s claims from whispers and can decently use them to fake Princess or Maid logs.
+
+## What to claim as &lt;font color=&quot;Red&quot;&gt;The Invoker?&lt;/font&gt;
+*  Killer / Offensive Classes. **Butler, Drunk, Hunter.** You still keep/ have occupation immunity, and have night abilities similar to the Butler and Drunk. Be prepared to counterclaim a real hunter if you&#39;re a hunter claim.
+*  OR Your previous class, eg the **Knight**.
+
+## What to claim as &lt;font color=&quot;Red&quot;&gt;The Ritualist?&lt;/font&gt;
+* Support Classes. **Physician, Court Wizard, your previous class.**
+You have similar abilities as the Phys (Exhume)/ CW (Teleportation), and hence makes faking logs easier.
+
+## What to claim as &lt;font color=&quot;Red&quot;&gt;The Seeker?&lt;/font&gt;
+*  Investigative Classes. **Princess, Observer, Paladin, Maid.**
+*  You have similar abilities as the Princess (Gaze)/ Observer (Identify), and hence makes faking logs easier. With the information obtained from Gaze, you may also choose to fake Maid or Alchemist logs.
+* Find the main threats to the cult and conversion targets.
+* Finding a support/invest/offensive player in most situations means a safe conversion. Tell your CL of this at the beginning of the night.
+* Finding players as Killer or Social is risky business for conversion. Pay attention to the claims. If a player says they were linked and you found 4 as Social, you likely found the mystic.
+* Finding the NK can be used to confirm any of your cult members, as they can “out” the NK for credibility. For reference, when determining if the player is the neutral killer you may want to ask the king what that player claimed.
+* Finding the prince is important. A tip for finding them in most games is to look at what players did NOT whisper the king, and then narrow it down from there. Or alternatively, look out for players who constantly whisper and work with the king. They could be the Prince working closely with the king.
+
+
+## What to claim as &lt;font color=&quot;Pink&quot;&gt;The Inquisitor?&lt;/font&gt;
+* Three players (your targets to kill, heathens) know you exist at the start of the game. Be CERTAIN to not to cast any suspicion on yourself. If checked to be Neutral or Special/Investigative by a Princess, the likelihood of death by lynch is extremely high. 
+* Do not claim Beginner General Evil classes as they are susp, and because the heathens will want anybody that ‘could’ be inq dead.
+* Consider classes that rarely draw suspicion, such as **Observer or even the Hunter in rare scenarios** given your ‘ninja’ status (cannot be followed).
+* **Sheriff/Paladin** is a decent inquisitor claim. Once the Prince and a heathen is dead, or if 2 heathens are dead, you can accuse a heathen of being scum. If there is still 1 left, then stab them at night before you can be executed.
+* Aggressive Knight can sometimes work for similar reasons but isn’t as effective as Sheriff/Pally, because a heathen might suspect you as being the Inq.
+
+## What to claim as &lt;font color=&quot;Pink&quot;&gt;The Sellsword?&lt;/font&gt;
+The sellsword is generally an expendable evil, because casting suspicion on themselves or others buys the Cult/ Unseen /NK more time to win.
+*  **Butler / Mercenary / Hunter** (be prepared to counterclaim the real hunter, and sacrifice yourself to get the real one killed!) / **Knight** (casting suspicion on yourself to buy evils time)
+* SS can alternatively cast suspicion on other BD members by pretending to be an **Investigative class**. (Eg Calling a non-K/O BD a K/O and getting them lynched.)
+* In addition to making others seem suspicious, you are also suspicious for giving false information, giving evils more time.
+* NOTE: If the Prince is outed, the sellsword can also out themselves in the last five seconds of the day that they&#39;re stonewalling the prince. This is because the Prince cannot jail in the last 5 seconds of of the day, giving evils a chance to attack the Prince scot free.
+
+## What to claim as &lt;font color=&quot;Pink&quot;&gt;The Pretender?&lt;/font&gt;
+* **The Princess / Investigative Claims / General Evil claims**
+The Pretender generally can claim and play as a regular princess as she has the tools similar to a normal princess. Claim early and give logs to trustworthy players daily.
+
+* General evil claims are less likely to be voted up as a King due to them generally seeming more &quot;scummy&quot;. Use with caution.
+
+## What to claim as &lt;font color=&quot;Pink&quot;&gt;The Scorned?&lt;/font&gt;
+
+* Scorned has to fight a battle to get 2 marked targets of their choice lynched. Claiming an investigative class (**Sheriff, Paladin, Observer, Princess, Maid**) is generally recommended.
+
+* Proper use of Disguise can alleviate some of the pressure and &quot;confirm&quot; you, so that you&#39;re trustworthy enough to secure future executions. For example, claiming 5 to be a killer who visited a dead BD, as you had disguised them as assassin the night before.
+
+* If the court is Neuts in, **the alchemist** might be a decent claim.
+Disguise someone as Neutral Killer and claim to have bombed them mid-late game. Then push to get them executed. Beware, doing so may provoke the evils to bleed you.
+
+## What to claim as &lt;font color=&quot;Pink&quot;&gt;The Alchemist?&lt;/font&gt;
+* For neuts in games, claiming your actual class, the Alchemist is usually fine. Normally, you&#39;d want to have a confirmed heal on someone so as to &quot;prove yourself&quot;. 
+* Personally I DO NOT recommend bombing, or at the very least avoid it early game. This is because a Physician can exhume your kill as done by an alchemist, and then proceed to lead the charge on you. Or, a hunter can bear and kill you instantly. The court would not hesitate to kill an alchemist, especially if they have no other leads that day.
+
+
+## What to claim as &lt;font color=&quot;Pink&quot;&gt;The Fool?&lt;/font&gt;
+* The fool is a special class who WANTS to be killed in day court. You normally appear as Support/Social to a Princess flirt, or Killer/Offensive the night you frame yourself.
+* Claim **general evil claims such as Knight or Court Wizard** as these are generally suspicious.
+* Pick classes which have 2 or more people already claiming. Since a maximum of 3 of the same class is possible, this makes you automatically look suspicious.
+* Write incomplete/unfinished logs. Eg a Sheriff log without a scout, Court Wizard logs without Clear Minds / Tornadoes, or Physician logs without any exhumes.
+* Use your Trollboxes as necessary to throw suspicion on yourself. And frame yourself as needed. For example, using a trollbox near the end of day or during trial (e.g. when there are zero nightkills, TB that (your number) was occupied and there are no kills, then follow up with a frame on yourself).
+* Think like the evils (Use the similar fake claims as unseen/cult would, claim knight getting occupied when there are zero night kills, etc)
+* Avoid getting jailed by claiming I can prove myself tonight for knight, hunter claims. Then say you are occupied (for knights) or unable to wolf as a hunter.
+* In Neuts Out games, outright claiming alch or merc can be an option. This is especially so when other neutrals have been executed for just being neut before. Another take on this is to get pushed up and plead as a pretender, scorned, or inquisitor (Note that the inquisitor doesn’t work as a very good claim without one actually in the game, and even then can be risky.)
+* Claiming Princess and flirting dead people may make people think that you are the MM or Pretender, which can possibly get you your win.
+
+* Risky strategy: There has to be no drunks/butlers alive. If you know the number of an important class (eg the Prince), out yourself as a Sellsword in the last 5s and that you will stonewall that person. Then, use hide that night. Next day, the court wonders why you are still alive as an SS, and you get hanged. Note, since the fool lost their occupy immunity in Patch 2.1.0, if someone occupies you, you can fail to hide and perhaps lose. Use with caution.
+
+* In general, do not be too obvious or outright about being a fool. Else you might be Prince executed, Hunter wolfed, or Cold Steeled by a knight!
+![VonKarma](https://forum.imperium42.com/uploads/default/original/2X/b/b1ee6ede92958623dd12c277084e525bdf5cc3e6.png)
+
+*  WIP Suggestions wanted!
+
+## What to claim as &lt;font color=&quot;Pink&quot;&gt;The Reaper?&lt;/font&gt;
+* With princess in game: Killer/Offensive Classes. Eg. **Knight, Butler, Drunk, Hunter** (be prepared to counterclaim a real hunter.)
+
+* Some Reapers use the death note late game to pretend to &quot;CS&quot; someone to be confirmed. Note that this only works if no one notices the person was reaped, and that you change your death note after that one kill.
+
+* For beginners, if no princess: **Physician/ Chronomancer** / General Evil claims.
+The physician has an immunity to bleeds/poisons by the Cult/Unseen/Hunter wolfs. At the same time, the reaper is able to survive bleeds/poisons because each time they &quot;die&quot;, they use up a soul to stay alive. Hence, they are able to fake being a Physician due to this immunity. Late game though, the lack of unconfirmed heals can make you look suspicious.
+
+*  Leavers in the game? Reap them for free souls without notifying BD of a reaper game. Physicians won’t exhume leavers thinking they only suicided as well, further delaying the reveal of a reaper game. Be sure not to open your deathnote though, or it’ll be left on the corpse and reveal that someone attacked them
+
+* Sometimes it may be better to try and get a king executed if they are super passive or seem evil instead of using souls to reap them. However, reaping the starting king is definitely a viable choice because his allies can easily out you. Don’t empower reap king early, as they’ll likely ally early on. 
+
+* Use Circle of Death wisely, be sure you can get several deaths with it, otherwise it is a waste of souls.
+
+* Be alert of the cult/unseen&#39;s possible numbers and reap the assassin/ CL as necessary. If their numbers grow too big, they will earn majority and you will die. Don’t hurt their faction too much though, because their kill power per night is very useful.
+
+* Reaping drunks, butlers, and knights is a must due to their ability to occupy / redirect / defend their targets. Reaping princesses and observers is also a good idea, but there is the chance that princess claims could be mm or pretender, wasting you a night.
+
+* For experienced players, you can avoid claiming physician/knight as those are common reaper claim. If bled, you can even claim bleeding so BD will heal you and likely leave you alone. If there are no healers left, just claim chronomancer if possible.
+
+* If you’re running low on souls and it’s mid/late game try reaping king so you can become king. Your power comes from your accumulation of souls late game and if you don’t have that, then you’re severely weakened, especially if it’s an unseen game. Princess/pretender claims recommend if you do, although that can backfire if there are too many (mm+pretender). Other royals could also work(not Noble unless you have enough souls to chill/reap people), although have to have good logs though!
+
+* Assassin’s distract disables your day abilities for 20 seconds, which is important late game. Be prepared and have fast fingers or you’ll likely lose!
+
+* If it’s an unseen game, you don’t need to reap the whisperers because the mm will likely handle those.
+
+* Faking reaped nearly never works. It’s usually a bad idea to try it.
+
+* Reaping bleeding people is sometimes a good idea. They won’t be immune(cause mm) and will likely not have knights on them. Observers might follow them to check healers though, although they are uncommon
+
+* If you’re going to claim alchemist, don’t do it day one as you will possibly be checked and definitely don’t do it if you were attacked n1, as alchemists are immune N1.
+
+* If you do happen to find the mm, it’s a good idea out him around d5 as sheriff or princess. It’ll give you credibility as well as crippling the Unseen. You will have to judge if it’s a good idea to out him yourself though.
+
+* If you have 0 souls and you get attacked, you will die, regardless of a successful reap or not (it used to be that you survived but not anymore). If you have one and get attacked you’ll live.
+
+* Accusing someone and chilling them does work sometimes, but you have to judge whether or not it’s worth your souls. They might out you in their logs as well.
+
+* If you are redirected to yourself(cw etc) you cannot reap yourself.
+
+* If the mercenaries /alchemists / sellsword refuses to be on your side, you may want to consider reaping them. This is because they may prevent you from visiting or occ you, stopping you from accumulating any souls.
+
+* Weird risky reaper strats: If you are somehow in a game with a ton of knights/observers on an outed prince, you can try chilling the prince and asking if he’s reaped to deter protectives/ observers on him that night because they think that he is reaped.
+
+* Your reap bypasses a mercenary&#39;s shield.
+
+* Reaping the king n2 works quite often, however if you are somehow prevented from doing it (king guard or knight defend) then it can cost you the game later.
+
+* Knights tend to stop guarding the king after n3-4 unless the king explicitly asks them to.
+
+* If people are aware there is a Reaper in play, you may spare Physicians safely. This is because they are not a direct threat to you. Especially if they have no confirmed heals, you might be able to get them executed for being a &quot;possible reaper&quot;.
+* Get Drunks and Butlers out asap, you are not occupy immune. If they realise that they have occupied you and there are no reaper kills, it is a telling sign that you are a reaper.
+
+* Strangely enough, some reapers claim Noble. You&#39;d have to be excellent at guessing people&#39;s classes or claims from whisper patterns and behaviour in chat and faking gossips. And also cross your fingers that people don&#39;t ask you to noble twin. 
+
+
+## What to claim as &lt;font color=&quot;Pink&quot;&gt;The Possessor?&lt;/font&gt;
+* With princess in game: Killer/Offensive Classes. Eg **Knight, Butler, Drunk, Hunter.**
+The Princess and the Maid are your worst enemies in the court, because you always appear as Killer/Offensive to them, even if you jump to someone who was not originally K/O. The Maid will also find you as not compatible with most people in the court. You&#39;d want to get them out of the game as soon as possible.
+* If no princess: Most classes in game. Be prepared to disguise your body in the day as your claim before jumping to seem like an actual player died. Do not make it obvious there is a possessor in game.
+* If you **jumped to someone, generally pick the class that they claimed**. Adjust their logs as necessary, or their claim, if it is a weak one. Try to mimic the previous person&#39;s logs, behaviour and speech patterns so that no one realises that that player was jumped.
+
+* If you&#39;re feeling ballsy or lucky, you may consider a risky Observer claim. 
+Since the Possessor Puppet Strings people to attack others, you have some information on who visits whom, which can help you to fake your logs. In addition, knowing whispers of the player you controlled could possibly give you some information of their class. (This is recommended if there are no observers in game.)
+For example, puppet string 8 to 2 .
+8 whispered to king saying inv 13 ns
+then u can whisper to king follow 8, x &gt; [8] &gt; 13.
+Sometimes you may add the dead person to visit the puppet person.
+Or even claim that 8 is the killer.
+
+* If you jumped into the King. Be prepared for players to ask you to point to prove you&#39;re not the possessor. (The Poss cannot use the King&#39;s abilities if they jump to the King.) You&#39;d want to vote up suspicious people in court, or redirect attention to others early in the day, so that the court forgets to ask you to point.
+
+* As possessor I like to fake invest like princess/maid/obs(don’t claim Hunter or Noble, it’s overrated) and have fake sus checks on people, then fake reaped and jump the next night(make sure you don’t hit an immune though or it could backfire).
+
+* If you are going to fake a reaper game using jumps(its a good idea because it causes confusion and makes BD look through the wrong claims for nk), then killing physicians are your top priority, as their exhume will out you(and butlers/drunks), even though they usually pose next to no threat to you. (Note that if a drunk/butler already targeted you then the only way you can fake this is with face-lifting as an occ imm/deb imm class)
+It’s also good to kill knights if you’re using this strategy because if you accidentally get your stringed target dead through a knight guard, then it’ll be clear that it’s a Possessor game if the knight is smart and has a deathnote. You can mostly avoid this if you don’t try to kill the obvious knight guard targets though. Additionally, It’s always smart to kill observers but if you think you can trick them into visiting the person you’re going to kill, then it could be worth it to not kill them, although that also has the chance to backfire and reveal it as a Possessor game.
+
+* Kill priority: Observer&amp;gt;Physician(only if faking reaper game)&amp;gt;Princess&amp;gt;Drunk&amp;gt;Butler&amp;gt;Maid&amp;gt;Knight
+[tl;dr kill physicians if you are faking reaper game and always kill observers and princesses if you think they will flirt you. Jumping to a previously flirted princess target can be decent, as they are unlikely to flirt them again, and jumping to confirmed targets vary]
+
+* Try to string active whisperers, but not the super obvious ones that could have an observer on them(if there is one. Obs spawn chances are *usually* pretty low but if it’s a cult game, then watch out for seekers claiming obs). Stringing invests(not sheriff/pala) are best as you can gain lots of info through them, and so can stringing alchemists, although they sometimes have observers on them.
+
+* If you string someone and they whisper to king that they happened to visit the dead person that night then it’s good to fake obs and out that they visited the dead player as they can’t deny it and you probably won’t be jailed/lynched unless someone happened to visit them, as you would be able to see all visitors if you were real.
+
+* If you can deduce prince quickly and jump to him before he outs/has protectives on him, then you’re pretty much fine as long as people don’t suspect a Possessor game, otherwise you may need to jump soon(it’s also treat for keeping protectives on you)
+
+* If you jump into Cult Leader or Assassin you want to jump out ASAP because the evil faction will very likely out you. Smart evils will also know who you jumped to if they happen to attack that player the same night. There’s pretty much no way to counter this besides not jumping into he night kill target.
+
+* Always be wary if executing fools as you lose a use of your Mind Control and Possess and you’re severely weakened without those
+
+* If you find that the mm is still alive and near the end kf the game, then you want to keep 2 other people alive as you cannot win if the mm is alive in the last 2 unless they gamethrow and turn into assassin or suicide. Leave another person alive and mind control the them into voting the mm.
+
+* Keep all claims you have in private notes and be prepared to create/change/fix logs when you jump. Also be sure to continue logs exactly as they were written or rewrite them once you jump, as that can out you to more experienced players.
+
+* Don’t jump into poisoned/bleeding players as healers will receive “dnr” when they try to heal you. If there are no healers, then it will be suspicious when you don’t die.
+
+* General scum tip: Killing Merc early game can be useful as they tend to shield/sg princes and stop converts a lot which can be a detriment to you. Up to the player though, but as Possessor you have twice the chance to get prevented as you visit two people
+
+* Risky, but possibly beneficial jumps: jumping as a knight who CSed someone scummy(if you try to fake CS you could get found out as poss if they’re confirmable) or guarded your jump target or a Butler who tried to occupy your jump target so you don’t have to create fake logs for that night.
+
+* Try not to leave fake neutral bodies after you jump. It’s better to leave fake corpses as BD instead as 1) if you do accidentally jump into a neutral, you can claim it and use the minimum 2 neutrals stratgey to try and stay alive if they don’t suspect a Possessor game yet and 2) it’s just generally not as suspicious and doesn’t cause chaos. It also doesn’t do anything for you and doesn’t throw suspicion on other players.
+
+* Being flexible is the most important part when playing Possessor. You frequently have to adapt to new situations so having this skill will boost your winrate by a lot(for any class, not just poss, but poss experiences it more usually)
+
+* [Possessor Guide by NuclearBurrito (30th June 2018)](https://forum.imperium42.com/t/possessor-guide/68764/6)
+
+## What to claim as &lt;font color=&quot;Pink&quot;&gt;The Sorcerer?&lt;/font&gt;
+* With princess in game: Killer/Offensive Classes. Eg **Knight, Butler, Drunk, Hunter.** (Be prepared to counterclaim a real hunter!)
+* General evil claims
+* You could consider working with neutrals in game to side with you lategame.
+* The Sorcerer has a hard time killing the King lategame because you cannot place a Walking bomb on them. You could predict people who may step up to be the king, place a bomb on them before they step up, and vote for them to be the king. This is so that you have a way to kill the King lategame, so you&#39;re not stuck in a 1V1 situation with them.
+*  WIP Suggestions wanted!
+
+## What to do as &lt;font color=&quot;Pink&quot;&gt;The Psycho King?&lt;/font&gt;
+* Personally, the Reaper and the Possessor have powerful late game abilities, such as chill and  being able to force someone to vote another. You should only step to be the King if you believe you can play a better game as PK than your original NK class.
+* If you are psycho king, you need to kill physicians quickly as an exhume will out that the king killed them. They will also stop your attacks now. Additionally, if you attack a bearing hunter, they will receive a message that they were attacked but immune but that their bear did not detect any attackers, outing you as a psycho king.
+* Risky psycho king strat: If you were just elected and it’s still early in the game or there have been a lot of lynches, AND you got a successful reap the night before, you can change your deathnote to a sorc bomb deathnote so it seems like 2 players were bombed (the reaped player and the player that you target with fatal guards)
+
+Not all strategies are listed here and there are probably many other ways of claiming as evils, especially if you&#39;re good at faking logs. Be creative, and dare to try out new ideas!
+This guide is community run, so if you have suggestions, please share!
+Thank you, and hope this helps in your quest to win as an evil!
+
+To whoever is reading this, this guide will no longer be updated. 
+I have been struggling with my mental health in recent weeks, and much has happened recently that has worsened it. I have put my heart into this game, but I need to focus more on my own wellbeing than spend hours on a community that does not appreciate the effort I have put in. 
+Thank you for generally being cool people. I will still be posting art online as **Southrobin**. 
+If you want to contact me, my dms on discord are open. Have a good one.</description>
+    
+    <lastBuildDate>Sun, 22 Mar 2020 14:18:01 +0000</lastBuildDate>
+    <category>General</category>
+    <atom:link href="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>Well it must exist, because at some point the game goes from winnable to not winnable in games where BD loses.</p>
+          <p><a href="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/182">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/182</link>
+        <pubDate>Sun, 22 Mar 2020 14:18:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73348-182</guid>
+        <source url="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348.rss">Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</source>
+      </item>
+      <item>
+        <title>Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</title>
+        <dc:creator><![CDATA[anon97870008]]></dc:creator>
+        <description><![CDATA[
+            <p>But when players cant know that its a LyLo or MyLo<br>
+It doesnt matter if it theoretically exists for an allknowing system<br>
+Since it has no impact to the game<br>
+Therefore it doesnt exist</p>
+          <p><a href="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/181">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/181</link>
+        <pubDate>Sat, 29 Feb 2020 05:41:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73348-181</guid>
+        <source url="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348.rss">Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</source>
+      </item>
+      <item>
+        <title>Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            <p>Not knowing it’s a LyLo situation doesn’t make it not a LyLo situation</p>
+<p>like I said a few posts back,</p>
+<aside class="quote no-group" data-username="Arete" data-post="173" data-topic="73348">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/arete/40/30476_2.png" class="avatar"> Arete:</div>
+<blockquote>
+<p>it’s less obvious when a situation is MyLo/LyLo due to the complexity of rolemadness set-ups, but that doesn’t mean it doesn’t <em>exist</em></p>
+</blockquote>
+</aside>
+          <p><a href="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/180">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/180</link>
+        <pubDate>Sat, 29 Feb 2020 05:38:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73348-180</guid>
+        <source url="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348.rss">Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</source>
+      </item>
+      <item>
+        <title>Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</title>
+        <dc:creator><![CDATA[anon97870008]]></dc:creator>
+        <description><![CDATA[
+            <p>Sorry for knowing what matters</p>
+          <p><a href="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/179">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/179</link>
+        <pubDate>Sat, 29 Feb 2020 05:36:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73348-179</guid>
+        <source url="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348.rss">Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</source>
+      </item>
+      <item>
+        <title>Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</title>
+        <dc:creator><![CDATA[Ami]]></dc:creator>
+        <description><![CDATA[
+            <p>ok<br>
+read your post again<br>
+then look at the definitions of mylo abd lylo<br>
+then read your post again for a third time</p>
+          <p><a href="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/178">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/178</link>
+        <pubDate>Sat, 29 Feb 2020 05:36:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73348-178</guid>
+        <source url="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348.rss">Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</source>
+      </item>
+      <item>
+        <title>Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</title>
+        <dc:creator><![CDATA[anon97870008]]></dc:creator>
+        <description><![CDATA[
+            <p>You dont know which abilities or how many converts they have. Your MyLo is in fact none, if Assa has 2f1<br>
+Your LyLo is none, since the players have no way to know he’s occimmune for sure</p>
+          <p><a href="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/177">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/177</link>
+        <pubDate>Sat, 29 Feb 2020 05:35:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73348-177</guid>
+        <source url="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348.rss">Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</source>
+      </item>
+      <item>
+        <title>Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</title>
+        <dc:creator><![CDATA[anon97870008]]></dc:creator>
+        <description><![CDATA[
+            <p>Its not a lylo/mylo situation from the perspective of the players<br>
+And thats the only thing which counts here</p>
+          <p><a href="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/176">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/176</link>
+        <pubDate>Sat, 29 Feb 2020 05:33:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73348-176</guid>
+        <source url="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348.rss">Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</source>
+      </item>
+      <item>
+        <title>Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</title>
+        <dc:creator><![CDATA[Ami]]></dc:creator>
+        <description><![CDATA[
+            <p>do you not understand lylo</p>
+          <p><a href="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/175">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/175</link>
+        <pubDate>Sat, 29 Feb 2020 05:19:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73348-175</guid>
+        <source url="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348.rss">Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</source>
+      </item>
+      <item>
+        <title>Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</title>
+        <dc:creator><![CDATA[anon97870008]]></dc:creator>
+        <description><![CDATA[
+            <p>Its actually not. What is the Assassin claiming?</p>
+          <p><a href="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/174">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/174</link>
+        <pubDate>Sat, 29 Feb 2020 05:19:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73348-174</guid>
+        <source url="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348.rss">Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</source>
+      </item>
+      <item>
+        <title>Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            <p>That’s not quite right – it’s less obvious when a situation is MyLo/LyLo due to the complexity of rolemadness set-ups, but that doesn’t mean it doesn’t <em>exist</em></p>
+<p>for example:</p>
+<ul>
+<li>
+<p>Princess</p>
+</li>
+<li>
+<p>Observer</p>
+</li>
+<li>
+<p>Sheriff</p>
+</li>
+<li>
+<p>Assassin<br>
+^ this is a MyLo scenario</p>
+</li>
+<li>
+<p>Butler</p>
+</li>
+<li>
+<p>Drunk</p>
+</li>
+<li>
+<p>Occ immune Assassin<br>
+^ this is a LyLo scenario</p>
+</li>
+</ul>
+          <p><a href="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/173">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/173</link>
+        <pubDate>Sat, 29 Feb 2020 05:17:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73348-173</guid>
+        <source url="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348.rss">Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</source>
+      </item>
+      <item>
+        <title>Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</title>
+        <dc:creator><![CDATA[anon97870008]]></dc:creator>
+        <description><![CDATA[
+            <p>Neither MyLo nor LyLo does exist in Tol, so you can ignore that</p>
+          <p><a href="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/172">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/172</link>
+        <pubDate>Sat, 29 Feb 2020 05:13:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73348-172</guid>
+        <source url="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348.rss">Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</source>
+      </item>
+      <item>
+        <title>Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            <p>MyLo doesn’t actually stand for mislynches, it stands for ‘<strong>M</strong>isl<strong>y</strong>nch and <strong>Lo</strong>se’ (the point in the game where if no one is lynched, town can still win, but if a townie is mislynched, town loses)</p>
+<p>Contrast with ‘LyLo,’ ‘Lynch-or-lose,’ the point in the game where town must lynch correctly or they lose</p>
+          <p><a href="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/171">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/171</link>
+        <pubDate>Sat, 29 Feb 2020 02:14:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73348-171</guid>
+        <source url="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348.rss">Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</source>
+      </item>
+      <item>
+        <title>Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</title>
+        <dc:creator><![CDATA[EVO]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Geyde" data-post="28" data-topic="73348">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/geyde/40/32764_2.png" class="avatar"> Geyde:</div>
+<blockquote>
+<p>MyLo (mislynches)</p>
+</blockquote>
+</aside>
+<p>Why the ‘Lo’ for ‘Lynches?’</p>
+          <p><a href="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/170">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/170</link>
+        <pubDate>Sat, 29 Feb 2020 02:07:17 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73348-170</guid>
+        <source url="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348.rss">Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</source>
+      </item>
+      <item>
+        <title>Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</title>
+        <dc:creator><![CDATA[Planterror]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="southrobin" data-post="1" data-topic="73348">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/southrobin/40/7277_2.png" class="avatar"> southrobin:</div>
+<blockquote>
+<p>More suggestions needed!!</p>
+</blockquote>
+</aside>
+<p>Without a princess in game, an assassin could fake chronomancer or physician as they control who is bleeding (except if a hunter is in game)</p>
+<p>Of course i revive a dead forum page.</p>
+          <p><a href="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/169">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/169</link>
+        <pubDate>Sat, 27 Jul 2019 01:04:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73348-169</guid>
+        <source url="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348.rss">Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</source>
+      </item>
+      <item>
+        <title>Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</title>
+        <dc:creator><![CDATA[southrobin]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>To whoever is reading this, this guide will no longer be updated.</strong></p>
+<p>I have been struggling with my mental health in recent weeks, and much has happened recently that has worsened it. I have put my heart into this game, but I need to focus more on my own wellbeing than spend hours on a community that does not appreciate the effort I have put in.</p>
+<p>Thank you for generally being cool people. I will still be posting art online as <strong>Southrobin</strong>.<br>
+If you want to contact me, my dms on discord are open. Have a good one.</p>
+          <p><a href="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/167">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/167</link>
+        <pubDate>Fri, 01 Feb 2019 11:59:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73348-167</guid>
+        <source url="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348.rss">Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</source>
+      </item>
+      <item>
+        <title>Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</title>
+        <dc:creator><![CDATA[Kape]]></dc:creator>
+        <description><![CDATA[
+            <p>Noble is a great claim, it wins me so many games :^)</p>
+          <p><a href="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/166">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/166</link>
+        <pubDate>Thu, 24 Jan 2019 03:38:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73348-166</guid>
+        <source url="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348.rss">Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</source>
+      </item>
+      <item>
+        <title>Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</title>
+        <dc:creator><![CDATA[MaximusPrime]]></dc:creator>
+        <description><![CDATA[
+            <p>literally anything but knight/what your mm is claiming/your convert</p>
+          <p><a href="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/165">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/165</link>
+        <pubDate>Thu, 24 Jan 2019 01:08:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73348-165</guid>
+        <source url="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348.rss">Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</source>
+      </item>
+      <item>
+        <title>Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</title>
+        <dc:creator><![CDATA[southrobin]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks, missed out updating this.</p>
+<p>Now updated again.</p>
+<p>Also suggestions for assassin’s class claims wanted!</p>
+          <p><a href="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/164">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/164</link>
+        <pubDate>Thu, 24 Jan 2019 01:05:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73348-164</guid>
+        <source url="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348.rss">Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</source>
+      </item>
+      <item>
+        <title>Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</title>
+        <dc:creator><![CDATA[Lightsin]]></dc:creator>
+        <description><![CDATA[
+            <p>For a second thought it was Mercenary doing this again</p>
+          <p><a href="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/163">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/163</link>
+        <pubDate>Sat, 19 Jan 2019 18:01:42 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73348-163</guid>
+        <source url="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348.rss">Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</source>
+      </item>
+      <item>
+        <title>Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</title>
+        <dc:creator><![CDATA[Kape]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="southrobin" data-post="1" data-topic="73348">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/southrobin/40/7277_2.png" class="avatar"> southrobin:</div>
+<blockquote>
+<p>Since Patch 2.1.0 and hunter’s no longer being unique, claiming hunter as assassin now is a lot more viable.</p>
+</blockquote>
+</aside>
+<p>And now unique again.</p>
+          <p><a href="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/162">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/162</link>
+        <pubDate>Sat, 19 Jan 2019 17:15:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73348-162</guid>
+        <source url="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348.rss">Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</source>
+      </item>
+      <item>
+        <title>Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</title>
+        <dc:creator><![CDATA[Shrimpy]]></dc:creator>
+        <description><![CDATA[
+            <p>so I’m not the only person who tried that lol</p>
+          <p><a href="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/161">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/161</link>
+        <pubDate>Wed, 26 Dec 2018 20:43:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73348-161</guid>
+        <source url="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348.rss">Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</source>
+      </item>
+      <item>
+        <title>Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</title>
+        <dc:creator><![CDATA[CetaComputer]]></dc:creator>
+        <description><![CDATA[
+            <p>Maybe put in its viable to claim Merc as Reaper<br>
+You can use circle to fake guards so lets see n3 I say oh I guarded this guy if circle killed nobody <em>which it usually does and even if it kills one person you can still say you guarded as bd wont put 2 and 2 together</em> and say oh I got 2 brilders from that and people will think oh they got 2 brilders the other 2 nights I have like a 85% win rate with this tactic if played right</p>
+          <p><a href="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/160">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/160</link>
+        <pubDate>Wed, 26 Dec 2018 03:51:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73348-160</guid>
+        <source url="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348.rss">Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</source>
+      </item>
+      <item>
+        <title>Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</title>
+        <dc:creator><![CDATA[Pug]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/southrobin">@southrobin</a> there are multiple mentions of how the hunter is unique in this guide.</p>
+<p>also reaper’s chill is now distract, alch no longer viable seeker claim. There is more but these are the ones which are the most important.</p>
+<p>also poss and mm are no longer occ immune.</p>
+          <p><a href="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/159">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/159</link>
+        <pubDate>Wed, 12 Dec 2018 23:30:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73348-159</guid>
+        <source url="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348.rss">Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</source>
+      </item>
+      <item>
+        <title>Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</title>
+        <dc:creator><![CDATA[southrobin]]></dc:creator>
+        <description><![CDATA[
+            <p>Now updated to 2.1.0, sort of.<br>
+Added in a section with a link to the most recent patch, updated the sections in the guide to 2.1.0.</p>
+<p>Suggestions are now all added in until this post.</p>
+<p>Poke me if there is still any outdated info or there are more claim ideas. Thanks &lt;3</p>
+          <p><a href="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/158">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/158</link>
+        <pubDate>Sun, 09 Dec 2018 15:52:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73348-158</guid>
+        <source url="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348.rss">Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</source>
+      </item>
+      <item>
+        <title>Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</title>
+        <dc:creator><![CDATA[Marcus_Doodalee]]></dc:creator>
+        <description><![CDATA[
+            <p>Poss doesnt necessarily need to become psycho king, butlers/occupiers are your biggest threat however</p>
+          <p><a href="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/157">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348/157</link>
+        <pubDate>Thu, 06 Dec 2018 05:01:45 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-73348-157</guid>
+        <source url="https://forum.throneoflies.com/t/beginners-evil-claiming-guide-community-run-2-1-1/73348.rss">Beginner&#39;s Evil Claiming Guide [Community Run] 2.1.1</source>
+      </item>
+  </channel>
+</rss>

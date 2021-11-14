@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Noble was prevented from having any visitors</title>
+    <link>https://forum.throneoflies.com/t/noble-was-prevented-from-having-any-visitors/16122</link>
+    <description>#### What happened?
+During the later stages in a 16-player game there were 6 players left. 2 alchemists, MM (me) and assassin, a neutral king and a noble. King was guarding himself and alchemists kept healing the king giving the assassin and me multiple nights to wrap things up. Then the following happened:
+nX: try kill king and convert noble: king was healed and mm was &quot;prevented from visiting noble&quot; (e.g. the message displayed when you target an ice warded player)
+dX+1: execute alch 1
+nX+1: assassin kill alch 2 and convert noble and mm was &quot;prevented from visiting noble&quot; 
+dX+2: no executes
+nX+2: assassin attack king and convert noble. This way king couldn&#39;t guard both and either king would die or noble converted and unseen would win. mm was &quot;prevented from visiting noble&quot; and king guarded himself
+dX+3: execute assassin
+nX+3: convert noble and mm was &quot;prevented from visiting noble&quot; 
+dX+4: execute mm and BD and king win
+
+#### What was SUPPOSED to happen?
+noble should have been converted at some point and unseen would have won immediately (he was only bd left with alchs and neutral king)
+
+#### Steps to reproduce:
+What possible triggers the &quot;prevented from visiting&quot; message has and which of those flags does not get cleared properly. During the game I converted a CW to a sage (he didn&#39;t ward the noble the night he was converted). But he did cast wall of fire the night after when the assassin tried to kill the noble and that kill failed as well. So maybe it is wall of fire related
+#### Comments:
+Also: during dX+3 (when assassin was executed) I could not press the dirty work button between the execution and the beginning of the night when i was the only unseen left.</description>
+    
+    <lastBuildDate>Mon, 20 Nov 2017 06:45:01 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forum.throneoflies.com/t/noble-was-prevented-from-having-any-visitors/16122.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Noble was prevented from having any visitors</title>
+        <dc:creator><![CDATA[Turambar]]></dc:creator>
+        <description><![CDATA[
+            <h4>What happened?</h4>
+<p>During the later stages in a 16-player game there were 6 players left. 2 alchemists, MM (me) and assassin, a neutral king and a noble. King was guarding himself and alchemists kept healing the king giving the assassin and me multiple nights to wrap things up. Then the following happened:<br>
+nX: try kill king and convert noble: king was healed and mm was “prevented from visiting noble” (e.g. the message displayed when you target an ice warded player)<br>
+dX+1: execute alch 1<br>
+nX+1: assassin kill alch 2 and convert noble and mm was “prevented from visiting noble”<br>
+dX+2: no executes<br>
+nX+2: assassin attack king and convert noble. This way king couldn’t guard both and either king would die or noble converted and unseen would win. mm was “prevented from visiting noble” and king guarded himself<br>
+dX+3: execute assassin<br>
+nX+3: convert noble and mm was “prevented from visiting noble”<br>
+dX+4: execute mm and BD and king win</p>
+<h4>What was SUPPOSED to happen?</h4>
+<p>noble should have been converted at some point and unseen would have won immediately (he was only bd left with alchs and neutral king)</p>
+<h4>Steps to reproduce:</h4>
+<p>What possible triggers the “prevented from visiting” message has and which of those flags does not get cleared properly. During the game I converted a CW to a sage (he didn’t ward the noble the night he was converted). But he did cast wall of fire the night after when the assassin tried to kill the noble and that kill failed as well. So maybe it is wall of fire related</p>
+<h4>Comments:</h4>
+<p>Also: during dX+3 (when assassin was executed) I could not press the dirty work button between the execution and the beginning of the night when i was the only unseen left.</p>
+          <p><a href="https://forum.throneoflies.com/t/noble-was-prevented-from-having-any-visitors/16122/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/noble-was-prevented-from-having-any-visitors/16122/1</link>
+        <pubDate>Mon, 20 Nov 2017 06:45:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-16122-1</guid>
+        <source url="https://forum.throneoflies.com/t/noble-was-prevented-from-having-any-visitors/16122.rss">Noble was prevented from having any visitors</source>
+      </item>
+  </channel>
+</rss>

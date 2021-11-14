@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Preview of Patch 1.1.0</title>
+    <link>https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205</link>
+    <description># Patch will be out in the next few days.
+
+## General:
+* New simplified game mode called Casual. (If it is popular enough, new players will be required to play X number of games of it.)
+* Old game mode now named Classic.
+* Everyone can now draw in their deathnote.
+* Spy/Cult Maid no longer counts as a visit.
+* Disabled the early game over checks for the time being. (Games would end when they shouldn&#39;t, even when things like DK&#39;s and abilities were accounted for.)
+* New female armor and crossbow execution added.
+
+## Assassin:
+* Distract now usable during trials.
+
+## Enforcer:
+* Removed Armored passive.
+* Protection now prevents visits to targeted Unseen member.
+
+## King:
+* Removed Allies from starting King.
+* Added Night Ability Order to starting King - Prevent a player from voting tomorrow. 4 uses.
+* Abilities no longer count as visiting.
+
+## Knight:
+* Changed Sacrifice icon.
+
+## Mastermind:
+* Into the Shadows now hides the Mastermind&#39;s occupy immunity again.
+
+## Princess:
+* Flirt now show Killer/Support and Offensive/Social.
+
+## Psycho King:
+* Now permanently death immune at night.
+* Abilities no longer count as visiting.
+
+## Ritualist:
+* Tornado reduced to two uses.
+* Brotherhood changed to single target, uses increased to three.
+
+## Sorcerer:
+* Magic Dust uses reduced to 2.
+* Circle of Death uses reduced to 2.
+* New Day Ability Magic Cloak - Hides your visits at night. 2 uses.
+
+## Bug Fixes:
+* Fixed a bug with some abilities not being usable during trials.
+* No longer shows multiple healing messages.
+* Fixed a bug where sometimes people wouldn&#39;t show up as visiting. The only abilities or classes that shouldn&#39;t show up as visiting will say so in the class card.
+* Some others.
+
+_______________________
+
+# Casual Game Mode:
+
+## Core Differences:
+* Changed almost all Blue Dragon classes and their conversions.
+* Prince remains the same.
+* The max number of each non-unique Blue Dragon class is 3.
+* Only the Unseen can spawn.
+* The Sorcerer and Inquisitor cannot spawn, but all other neutrals still can.
+* There is no Royal Blood.
+
+## Magistrate - Investigative Blue Dragon
+* Spawns every game, is unique, and is unconvertable.
+* Day Ability Scout - Send a scout to watch a player. You will be alerted if they are converted.
+* Night Ability Expert Investigation - Determine if a player is part of the Unseen.
+* Night Ability Surveillance - Prevent visitors and learn the name of those that try. You will be alerted if an Unseen member tries. 3 uses.
+
+## Inspector - Investigative Blue Dragon
+* Night Ability Examine - Limit a player&#39;s class type down to two options. Works the same way as the Princess&#39; Flirt.
+* Night Ability Window Peek - Discover a player&#39;s faction. 2 uses.
+
+## Champion - Killer Blue Dragon
+* Passive Armored - Your armor will protect you from the first attacker blocked by &lt;i&gt;Sacrifice&lt;/i&gt;.
+* Night Ability Sacrifice - Protect a player, giving your life to kill their attackers.
+* Night Ability Entrench - You will become death and conversion immune, and will kill any attackers. Bypasses night immunity. 2 uses.
+
+## Steward - Offensive Blue Dragon
+* Passive Dutiful - Immune to occupation and target changing.
+* Night Ability Serve Wine - Occupy a player by getting them drunk.
+* Night Ability Debauchery - Cause a player to target you. You will be immune to all attacks redirected. 2 uses.
+
+## Mystic - Social Blue Dragon
+* Passive Call the Dead - Communicate with the dead at night.
+* Day Ability Telepathy - Telepathically send a message to everyone, they will not know who sent it. 2 uses.
+* Day Ability Private Matter - All whispers to and from you will be hidden from the public. 2 uses.
+* Night Ability Read Mind - See whispers to and from a player tomorrow. Cannot target King. Does not count as visiting.
+
+## Medic - Support Blue Dragon
+* Passive Remedy Studies - Immune to Nightshade poisoning.
+* Night Ability First Aid - Heal a player back to life if they were attacked.
+* Night Ability Quarantine - Heal a player&#39;s poison and prevent all visitors. Can only be used on a player once.
+
+## Sleuth - Investigative Unseen (Converted from Inspector)
+* Night Ability Study - Discover a player&#39;s class type.
+* Night Ability Watch Carefully - Discover a player&#39;s class. 2 uses.
+
+## Gladiator - Support Unseen (Converted from Champion)
+* Night Ability Protection - Protect an Unseen member and prevent others from visiting.
+* Night Ability Frenzy - Guarantees the Assassin will kill their target. 1 use.
+
+## Attendant - Offensive Unseen (Converted from Steward)
+* Passive Dutiful - Immune to occupation and target changing.
+* Night Ability Serve Wine - Occupy a player by getting them drunk.
+* Nigh Ability Drugged Wine - Drug a player and then force them to target someone. 2 uses.
+
+## Seer - Social Unseen (Converted from Mystic)
+* Day Ability Telepathy - Telepathically send a message to everyone, they will not know who sent it. 2 uses.
+* Day Ability Private Matter - All whispers to and from you will be hidden from the public. 2 uses.
+* Night Ability Read Mind - See whispers to and from a player tomorrow. Cannot target King. Does not count as visiting.
+* Night Ability Mind Warp - Cause a player to receive incorrect feedback from their abilities.
+
+## Sawbones - Support Unseen (Converted from Medic)
+* Night Ability Abscission - Make an Unseen member appear as Blue Dragon tonight.
+* Night Ability Drug - Causes a player to believe they were attacked and healed. 2 uses.</description>
+    
+    <lastBuildDate>Mon, 05 Mar 2018 05:00:26 +0000</lastBuildDate>
+    <category>Official Announcements</category>
+    <atom:link href="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Preview of Patch 1.1.0</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>HE LISTENED PRAISE BE</p>
+<p>all hail boslof <img src="/images/emoji/twitter/breast_feeding.png?v=9" title=":breast_feeding:" class="emoji" alt=":breast_feeding:"></p>
+          <p><a href="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/43">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/43</link>
+        <pubDate>Mon, 05 Mar 2018 05:00:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-40205-43</guid>
+        <source url="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205.rss">Preview of Patch 1.1.0</source>
+      </item>
+      <item>
+        <title>Preview of Patch 1.1.0</title>
+        <dc:creator><![CDATA[Ellie]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/42">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/42</link>
+        <pubDate>Sat, 27 Jan 2018 10:36:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-40205-42</guid>
+        <source url="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205.rss">Preview of Patch 1.1.0</source>
+      </item>
+      <item>
+        <title>Preview of Patch 1.1.0</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>Bos please no Neuts ;(</p>
+          <p><a href="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/41">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/41</link>
+        <pubDate>Fri, 26 Jan 2018 22:47:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-40205-41</guid>
+        <source url="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205.rss">Preview of Patch 1.1.0</source>
+      </item>
+      <item>
+        <title>Preview of Patch 1.1.0</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>Wait what why</p>
+<p>Fuck</p>
+          <p><a href="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/40">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/40</link>
+        <pubDate>Fri, 26 Jan 2018 22:42:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-40205-40</guid>
+        <source url="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205.rss">Preview of Patch 1.1.0</source>
+      </item>
+      <item>
+        <title>Preview of Patch 1.1.0</title>
+        <dc:creator><![CDATA[Eran_Shmuel]]></dc:creator>
+        <description><![CDATA[
+            <p>So whats the point of the new king?<br>
+I dont get it, it’s worst then the royal blood check, and now king wont die due to guards so bd should just exe every king d4 unless they got a good lead,</p>
+<p>King need a social ability, and prevnting from voting doesn’t help bd more then its help cult/unseen.</p>
+          <p><a href="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/39">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/39</link>
+        <pubDate>Fri, 26 Jan 2018 22:38:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-40205-39</guid>
+        <source url="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205.rss">Preview of Patch 1.1.0</source>
+      </item>
+      <item>
+        <title>Preview of Patch 1.1.0</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="orangeandblack5" data-post="37" data-topic="40205">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/orangeandblack5/40/33172_2.png" class="avatar"> orangeandblack5:</div>
+<blockquote>
+<p>Especially with no Fool or new Noble.</p>
+</blockquote>
+</aside>
+<p>Hate to burst your bubble but casual has every Neutral except for Sorcerer and Inquisitor.</p>
+          <p><a href="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/38">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/38</link>
+        <pubDate>Fri, 26 Jan 2018 22:02:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-40205-38</guid>
+        <source url="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205.rss">Preview of Patch 1.1.0</source>
+      </item>
+      <item>
+        <title>Preview of Patch 1.1.0</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>Honestly though, the Casual mode, funnily enough, has the potential to be much more competitive than the “base” game.</p>
+<p>It will be a much cleaner experience, and I have a feeling that I will enjoy it much more. Especially with no Fool or new Noble.</p>
+          <p><a href="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/37">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/37</link>
+        <pubDate>Fri, 26 Jan 2018 21:28:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-40205-37</guid>
+        <source url="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205.rss">Preview of Patch 1.1.0</source>
+      </item>
+      <item>
+        <title>Preview of Patch 1.1.0</title>
+        <dc:creator><![CDATA[TinyDeer]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh boy. My initial reaction to this patch was that of dismay. But I’m willing to wait and see - I tend to overreact and think changes will be a bigger deal than they end up being in reality. That being said:</p>
+<ul>
+<li>
+<p>I argued strongly against splitting the player base and will continue to do so until proven wrong. I think it’s <strong>bad</strong> for the community to split ‘serious’ players with people playing for fun. Although that’s not the intent of Casual, it’s true that it’s essentially an easy mode. For the hard or ‘serious’ mode, an increase in competitiveness --&gt; caring more about winning --&gt; more rage at bad plays --&gt; less fun/enjoyable to play. Also, I think it’s a <em>positive</em> to put new players in the same setting as more experienced players - I enjoy giving tips to newbies and would like to have that opportunity while still playing a complex game. I don’t want to see the kind of “Go back to Casual” insults that infest ToS.</p>
+</li>
+<li>
+<p>I don’t see how the King is very relevant without Allies, and I don’t see why it needed to be removed entirely (couldn’t we have just made Neutrals not show up in the check, similar to Sheriff?). What incentive does the BD have to let the King lead early game, or to claim to him? What’s the incentive not to execute the King at the earliest opportunity? He has to have something to offer the BD either on his own, or through pressure/suspicion.</p>
+</li>
+<li>
+<p>The distract change is <img src="/images/emoji/twitter/star_struck.png?v=9" title=":star_struck:" class="emoji" alt=":star_struck:">!  Really looking forward to seeing, making, and suffering under these plays. <img src="/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+</li>
+</ul>
+          <p><a href="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/36">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/36</link>
+        <pubDate>Fri, 26 Jan 2018 21:03:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-40205-36</guid>
+        <source url="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205.rss">Preview of Patch 1.1.0</source>
+      </item>
+      <item>
+        <title>Preview of Patch 1.1.0</title>
+        <dc:creator><![CDATA[RHCube]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Ellie" data-post="1" data-topic="40205">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/ellie/40/8749_2.png" class="avatar"> Ellie:</div>
+<blockquote>
+<p>Distract now usable during trials.</p>
+</blockquote>
+</aside>
+<p>This is a good start, but it’s still underpowered.  it should last the entire day.</p>
+<aside class="quote no-group" data-username="Ellie" data-post="1" data-topic="40205">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/ellie/40/8749_2.png" class="avatar"> Ellie:</div>
+<blockquote>
+<p>Added Night Ability Order to starting King - Prevent a player from voting tomorrow. 4 uses.</p>
+</blockquote>
+</aside>
+<p>This is a good allies replacement, but it’s a bit underpowered.  It should prevent voting, speaking, and using day abilities.  Or replace it with this ability:<br>
+Confine - During the day, your target will not be able to speak to or hear anyone but you.  They may not be voted up for treason or targeted by day abilities.  They may not use day abilities.  Everyone will be told who you confine.</p>
+<aside class="quote no-group" data-username="Ellie" data-post="1" data-topic="40205">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/ellie/40/8749_2.png" class="avatar"> Ellie:</div>
+<blockquote>
+<p>Into the Shadows now hides the Mastermind’s occupy immunity again.</p>
+</blockquote>
+</aside>
+<p>Shouldn’t it be Can’t touch this instead? Because if it was for only 3 nights then it would still be underpowered.</p>
+<aside class="quote no-group" data-username="Ellie" data-post="1" data-topic="40205">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/ellie/40/8749_2.png" class="avatar"> Ellie:</div>
+<blockquote>
+<p>Tornado reduced to two uses.<br>
+Brotherhood changed to single target, uses increased to three.</p>
+</blockquote>
+</aside>
+<p>Why? Tornado was fine at 3 uses.  And this brotherhood nerf is too much.  It should just be reworked.</p>
+<aside class="quote no-group" data-username="Ellie" data-post="1" data-topic="40205">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/ellie/40/8749_2.png" class="avatar"> Ellie:</div>
+<blockquote>
+<p>Magic Dust uses reduced to 2.</p>
+</blockquote>
+</aside>
+<p>Why? Inquisitor needs a rework, not a buff.  Now it will be even harder to win as sorc.</p>
+<aside class="quote no-group" data-username="Ellie" data-post="1" data-topic="40205">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/ellie/40/8749_2.png" class="avatar"> Ellie:</div>
+<blockquote>
+<p>Circle of Death uses reduced to 2.</p>
+</blockquote>
+</aside>
+<p>Why? Circle of death needed a buff, not a nerf.  At least make it so it’s usable at any time, can target self, and bypasses night immunity if you won’t revert this.</p>
+          <p><a href="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/35">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/35</link>
+        <pubDate>Fri, 26 Jan 2018 20:31:20 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-40205-35</guid>
+        <source url="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205.rss">Preview of Patch 1.1.0</source>
+      </item>
+      <item>
+        <title>Preview of Patch 1.1.0</title>
+        <dc:creator><![CDATA[Hippolytus]]></dc:creator>
+        <description><![CDATA[
+            <p>Late game order is very strong, especially when combined with kings double vote. It is not as powerful as allies, but it still has a lot of potential, it’s just more nuanced and hidden compared to the in-your-face simple power of allies.</p>
+<p>Allies was broken af and a crutch for people who don’t know how to play social deduction games.</p>
+          <p><a href="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/34">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/34</link>
+        <pubDate>Fri, 26 Jan 2018 20:26:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-40205-34</guid>
+        <source url="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205.rss">Preview of Patch 1.1.0</source>
+      </item>
+      <item>
+        <title>Preview of Patch 1.1.0</title>
+        <dc:creator><![CDATA[Solic]]></dc:creator>
+        <description><![CDATA[
+            <p>Preventing a single player from voting is really the replacement of the powerful allies? This completely cripples any importance the starting king has and he is more like another noble now, without the powerful snoop. Noone will feel compelled to claim to king and evil king cannot find evil anymore. This change is horrendous in my opinion. The only real problem with allies was that it could find neutrals and there was no claiming against that. NK’s, except the sorcerer, already had a defense against that in the form of chilling/jumping/killing king early.<br>
+Do not support this change at all. It is nerfed harder than the “find royals king”, which was atrocious and quickly changed back. It is funny that order even has limited uses.</p>
+          <p><a href="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/33">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/33</link>
+        <pubDate>Fri, 26 Jan 2018 20:05:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-40205-33</guid>
+        <source url="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205.rss">Preview of Patch 1.1.0</source>
+      </item>
+      <item>
+        <title>Preview of Patch 1.1.0</title>
+        <dc:creator><![CDATA[Ami]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Ellie" data-post="1" data-topic="40205">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/ellie/40/8749_2.png" class="avatar"> Ellie:</div>
+<blockquote>
+<p>Mastermind:</p>
+<p>Into the Shadows now hides the Mastermind’s occupy immunity again.</p>
+</blockquote>
+</aside>
+<p>I feel like the MM lore wise can’t make up his mind to water or not water down the drunk or butler’s wine</p>
+          <p><a href="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/32">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/32</link>
+        <pubDate>Fri, 26 Jan 2018 19:54:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-40205-32</guid>
+        <source url="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205.rss">Preview of Patch 1.1.0</source>
+      </item>
+      <item>
+        <title>Preview of Patch 1.1.0</title>
+        <dc:creator><![CDATA[Ami]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Ellie" data-post="1" data-topic="40205">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/ellie/40/8749_2.png" class="avatar"> Ellie:</div>
+<blockquote>
+<p>Removed Allies from starting King.</p>
+</blockquote>
+</aside>
+<p>ding dong the witch is dead</p>
+          <p><a href="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/31">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/31</link>
+        <pubDate>Fri, 26 Jan 2018 19:52:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-40205-31</guid>
+        <source url="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205.rss">Preview of Patch 1.1.0</source>
+      </item>
+      <item>
+        <title>Preview of Patch 1.1.0</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>That’s fair.</p>
+          <p><a href="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/30">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/30</link>
+        <pubDate>Fri, 26 Jan 2018 19:16:33 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-40205-30</guid>
+        <source url="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205.rss">Preview of Patch 1.1.0</source>
+      </item>
+      <item>
+        <title>Preview of Patch 1.1.0</title>
+        <dc:creator><![CDATA[PennilessImp749]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="orangeandblack5" data-post="27" data-topic="40205" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/orangeandblack5/40/33172_2.png" class="avatar"> orangeandblack5:</div>
+<blockquote>
+<p>I’m probably swapping to Casual full-time</p>
+<p>Looks more fun than the normal mode tbh</p>
+</blockquote>
+</aside>
+<p>Im probably gonna play Casual Mode more than Normal Mode, but still I dont think its good to split player base…</p>
+<p>And dont agree to FORCING people to play X mode before they can play Y mode.</p>
+<p>Imagine if Call of Duty they forced you to Play SIngle Player Campain before you can Start Multiplayer.</p>
+          <p><a href="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/29">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/29</link>
+        <pubDate>Fri, 26 Jan 2018 19:15:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-40205-29</guid>
+        <source url="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205.rss">Preview of Patch 1.1.0</source>
+      </item>
+      <item>
+        <title>Preview of Patch 1.1.0</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <h1>copy-paste from ptr notes</h1>
+<p>Hey Boslof, I’ve been giving it some thought, and I think the King needs a bit more tweaking before launch.</p>
+<p>Order is potentially strong on the King, but they need to live for a decent amount of time for it to reach its full potential. However, without Allies, I don’t see this happening very often.</p>
+<p>Don’t get me wrong - removing Allies is AMAZING. However, which is more valuable - Order, or a confirmed BD King? I’d be willing to bet that our Day 4 King executions will jump up by a lot once this patch hits, simply because Order isn’t really worth it.</p>
+<p>I don’t know how much you’ve read of my “Some Ideas” mini-megathread, but I think that the solution to this is to give the starting BD King a few special mechanics. If you give the starting BD King an ability the BD will be unwilling to lose, and you punish the BD for incorrectly executing a BD King, the regicide rate is unlikely to spike as much. My personal suggestions are below, but pretty much anything works as long as it achieves this end goal.</p>
+<aside class="quote no-group" data-username="orangeandblack5">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/orangeandblack5/40/33172_2.png" class="avatar"> orangeandblack5:</div>
+<blockquote>
+<blockquote>
+<p>BD Boon: Starting Good King’s guards protect against conversion as well as kills.</p>
+<p>BD Punishment: If a Good King dies to public execution or Butler, the royal bloodline is useless and royals may not step up early.</p>
+</blockquote>
+</blockquote>
+</aside>
+          <p><a href="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/28">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/28</link>
+        <pubDate>Fri, 26 Jan 2018 19:12:45 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-40205-28</guid>
+        <source url="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205.rss">Preview of Patch 1.1.0</source>
+      </item>
+      <item>
+        <title>Preview of Patch 1.1.0</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m probably swapping to Casual full-time</p>
+<p>Looks more fun than the normal mode tbh</p>
+          <p><a href="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/27">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/27</link>
+        <pubDate>Fri, 26 Jan 2018 19:11:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-40205-27</guid>
+        <source url="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205.rss">Preview of Patch 1.1.0</source>
+      </item>
+      <item>
+        <title>Preview of Patch 1.1.0</title>
+        <dc:creator><![CDATA[PennilessImp749]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="NuclearBurrito" data-post="24" data-topic="40205" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/nuclearburrito/40/4723_2.png" class="avatar"> NuclearBurrito:</div>
+<blockquote>
+<p>And they will. That is no excuse to force them to learn everything at once. This way new players can learn faster and also in an environment separate from those who already learned.</p>
+</blockquote>
+</aside>
+<p>Yea I can understand that but sometimes its better to play against people who are both new and experienced.<br>
+It adds another layer of Possibilities.</p>
+          <p><a href="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/26">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/26</link>
+        <pubDate>Fri, 26 Jan 2018 19:07:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-40205-26</guid>
+        <source url="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205.rss">Preview of Patch 1.1.0</source>
+      </item>
+      <item>
+        <title>Preview of Patch 1.1.0</title>
+        <dc:creator><![CDATA[Yattien]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="NuclearBurrito" data-post="24" data-topic="40205">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/nuclearburrito/40/4723_2.png" class="avatar"> NuclearBurrito:</div>
+<blockquote>
+<p>This way new players can learn faster and also in an environment separate from those who already learned.</p>
+</blockquote>
+</aside>
+<p>They aren’t learning the full game though. They are learning the basics, yes, but in reality they are learning a different version, with different classes and with a whole faction excluded. Players who’ve learned in casual and want to move onto normal basically need to learn the full game again, aside from the basics of <em>how</em> the game works.</p>
+          <p><a href="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/25</link>
+        <pubDate>Fri, 26 Jan 2018 19:03:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-40205-25</guid>
+        <source url="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205.rss">Preview of Patch 1.1.0</source>
+      </item>
+      <item>
+        <title>Preview of Patch 1.1.0</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>And they will. That is no excuse to force them to learn everything at once. This way new players can learn faster and also in an environment separate from those who already learned.</p>
+          <p><a href="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/24</link>
+        <pubDate>Fri, 26 Jan 2018 19:01:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-40205-24</guid>
+        <source url="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205.rss">Preview of Patch 1.1.0</source>
+      </item>
+      <item>
+        <title>Preview of Patch 1.1.0</title>
+        <dc:creator><![CDATA[PennilessImp749]]></dc:creator>
+        <description><![CDATA[
+            <p>I don’t like idea Casual Mode, and splitting player base.<br>
+You are just confusing new players.<br>
+People want to play the game.</p>
+<p>People Dont Know how to play a game when they start… Its called Learning.<br>
+And we All Learn to play…</p>
+<p>I learned… like everyone else.<br>
+Its part of the Game.</p>
+<p>If people arent prepared to learn then dont play.</p>
+          <p><a href="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/23</link>
+        <pubDate>Fri, 26 Jan 2018 18:59:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-40205-23</guid>
+        <source url="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205.rss">Preview of Patch 1.1.0</source>
+      </item>
+      <item>
+        <title>Preview of Patch 1.1.0</title>
+        <dc:creator><![CDATA[Lily]]></dc:creator>
+        <description><![CDATA[
+            <p>What?</p>
+          <p><a href="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/22</link>
+        <pubDate>Fri, 26 Jan 2018 18:58:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-40205-22</guid>
+        <source url="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205.rss">Preview of Patch 1.1.0</source>
+      </item>
+      <item>
+        <title>Preview of Patch 1.1.0</title>
+        <dc:creator><![CDATA[CheesyKnives]]></dc:creator>
+        <description><![CDATA[
+            <p>ITS A TRAP!</p>
+<p>im sorry not sorry.</p>
+          <p><a href="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/21</link>
+        <pubDate>Fri, 26 Jan 2018 18:58:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-40205-21</guid>
+        <source url="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205.rss">Preview of Patch 1.1.0</source>
+      </item>
+      <item>
+        <title>Preview of Patch 1.1.0</title>
+        <dc:creator><![CDATA[NuclearBurrito]]></dc:creator>
+        <description><![CDATA[
+            <p>I saw something about the starting king having 6 uses of guard. Is this true and if so can you put it in the patch notes?</p>
+          <p><a href="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/20</link>
+        <pubDate>Fri, 26 Jan 2018 18:58:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-40205-20</guid>
+        <source url="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205.rss">Preview of Patch 1.1.0</source>
+      </item>
+      <item>
+        <title>Preview of Patch 1.1.0</title>
+        <dc:creator><![CDATA[Lily]]></dc:creator>
+        <description><![CDATA[
+            <p>She!!! The Sorcerer is a girl.</p>
+          <p><a href="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205/19</link>
+        <pubDate>Fri, 26 Jan 2018 18:55:45 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-40205-19</guid>
+        <source url="https://forum.throneoflies.com/t/preview-of-patch-1-1-0/40205.rss">Preview of Patch 1.1.0</source>
+      </item>
+  </channel>
+</rss>

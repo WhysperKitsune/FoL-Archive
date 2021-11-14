@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Castle Desolation - Concept</title>
+    <link>https://forum.throneoflies.com/t/castle-desolation-concept/87687</link>
+    <description>
+Combat
+---
+Works on a roll system similar to VLDR, with losing all health causing a player to be knocked out. If a knocked out player is attacked again, they die. The only exception here is critical hits, which will deal x2 damage and bypass the knockout stage. In addition, players can submit retaliatory actions such as fleeing, countering, or what have you.
+
+Stats and Formulae
+---
+Stats will be from 1-100. Passing the cap is possible. Aside from the stats present in Death City, INT is also added.
+A = Attacked. D = Defender.
+
+Formulae:
+
+Hit chance = 65% + 0.5%*A.PRE-0.4%*D.AGI 
+
+Critical Chance =15%+0.3%*A.LUK (Bypasses KO)
+
+Max HP = 250+5*CON
+
+Melee Damage = A.STR+A.WeaponATK*rand(8...12)
+
+Ranged Damage = A.PRE+A.WeaponATK*rand(8...12)
+
+Magic/Explosives Damage = A.INT+A.WeaponATK*rand(8...12)
+
+Poison and Burn Damage = INT/3 per hour.
+
+Inventory
+---
+* Each player by default begins with two private item slots and five public item slots.
+* Each player also gains a weapon slot, an armor slot, and an off-hand slot.
+* Each player has an infinite inventory where they can hold Crystals.
+* Anyone can check another player’s public slot, but the private slot, equipment slots, and crystal slots will remain hidden unless the player is knocked out.
+* A player can dual-wield if they have a passive or a crystal that allows them to. Dual wielding means that your second weapon will  also attack for x0.7 of it&#39;s normal damage. You may only dual-wield 1H melee weapons.
+
+Claiming
+---
+You&#39;re allowed to claim. The wincons are fairly varied and some may overlap with others so it will be fairly easy to fakeclaim.
+
+Flips
+---
+If a player is murdered, then only their murderer will learn their alignment. If a player is executed, then only the Sovereign will learn their alignment.
+
+Alignments
+---
+
+|--|Lawful|Neutral|Chaotic|
+|--|--|--|--|
+|**Good**| [color=steblue]**Lawful Good**[/color]|[color=steblue]**Neutral Good**[/color]|[color=steblue]**Chaotic Good**[/color]
+|**Neutral**| [color=grey]**Lawful Neutral**[/color]|[color=grey]**True Neutral**[/color]|[color=grey]**Chaotic Neutral**[/color]
+|**Evil**| [color=firebrick]**Lawful Evil**[/color]|[color=firebrick]**Neutral Evil**[/color]|[color=firebrick]**Chaotic Evil**[/color]
+
+Wincons
+---
+
+Lawful vs Chaos: Less effect here than in Death City. Lawful wincons were way too much of a pain to pursue as there was very little agency. Main point of the game will be the Good v. Evil conflict.
+
+Good vs Evil: In general Good wincons deal with helping remove evils or escaping while Evil wincons deal with going against good-aligned players or preventing the progression towards the escape.
+
+All good players will be able to win with each other, however evil wincons will clash harder than they did in Death City.
+
+Kill Penalties
+----------
+**Blood Moon**: 
+* Once a player is murdered or other certain conditions are met, a Blood Moon will be on the sky for six hours, which will be announced in the main thread, and the Blood Moon Counter will be raised by 1.
+* If another player is murdered during a Blood Moon then the duration will refresh without raising the Blood Moon Counter. 
+* Once a Blood Moon counter reaches eight, the game will end and everyone who has not escaped will die.
+* You may escape during a Blood Moon.
+
+**Bloodied vs Bloodless**: Bloodied players have killed in the match, bloodless have not. This distinction matters in regards to passives and wincons.
+
+Sovereign
+-----------
+* The game begin with a Good-aligned Sovereign. The Sovereign can appoint up to three heirs. Once the Sovereign dies then a random heir will be chosen as the new Sovereign. Heirs may choose to decline becoming a sovereign.
+* Sovereigns can call execution votes.
+* Items called Skull Tokens exist. They can be used to give the voted player an additional vote for execution and are casted publicly.
+* Lawful players gain +1 to all stats when they are Lords.
+
+Crystals
+-----------
+Crystals are powerful items with strong passive abilities that can be found across the map. They are semi-rare, but they are relatively fragile and can be easily destroyed. Destroying them grants the destroyer EXP. Once every crystal in a chapter has been obtained, a new chapter will begin.
+
+Gate of Glory
+-----------
+After a player&#39;s wincon is fulfilled, they escape by going through the Gates of Glory. The Gates of Glory are activated once ten crystals are place on the slots of the Gates of Glory. Though Evils do not need the Gates of Glory to be active and can go through them as long as their win-con is satisfied and may have wincons pertaining to sabotaging the Gates of Glory as well.
+
+* All Good-aligned players need to go through the GoG to win and they must activate it beforehand.
+* Neutrals have wincons that do not require them to escape. They are less neutrals and more like true wild cards.
+* Some but not all Evil-aligned players need to go through the GoG to win, but they do not need to activate it beforehand. The only side requirement that evils have is that they need to destroy four crystals.l
+
+Map
+---
+In progress.
+
+Endgame
+-----------
+For the game to truly end there are two methods to happen:
+
+A) Once there are five or less players alive who have not escaped then the game will end in twenty-four hours. If the remaining players do not finish up their wincon, they lose.
+
+B) If an Eight Blood Moon happens, then it&#39;s rock falls everyone dies, including evils. In short evils should avoid raising the Blood Moon Counter as well, which means taking the Blood Moon period as an opportunity to kill if they are required as per the wincon.</description>
+    
+    <lastBuildDate>Sat, 15 May 2021 14:55:31 +0000</lastBuildDate>
+    <category>Forum Matches</category>
+    <atom:link href="https://forum.throneoflies.com/t/castle-desolation-concept/87687.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Castle Desolation - Concept</title>
+        <dc:creator><![CDATA[Silviu200530]]></dc:creator>
+        <description><![CDATA[
+            <p>Ohhhhh, I see. Thanks.</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-concept/87687/122">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-concept/87687/122</link>
+        <pubDate>Sat, 15 May 2021 14:55:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87687-122</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-concept/87687.rss">Castle Desolation - Concept</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Concept</title>
+        <dc:creator><![CDATA[Apprentice]]></dc:creator>
+        <description><![CDATA[
+            <p>look at formulas it’s in in OP</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-concept/87687/121">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-concept/87687/121</link>
+        <pubDate>Sat, 15 May 2021 14:49:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87687-121</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-concept/87687.rss">Castle Desolation - Concept</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Concept</title>
+        <dc:creator><![CDATA[Silviu200530]]></dc:creator>
+        <description><![CDATA[
+            <p>Hey, what does intelligence do?</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-concept/87687/120">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-concept/87687/120</link>
+        <pubDate>Sat, 15 May 2021 14:38:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87687-120</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-concept/87687.rss">Castle Desolation - Concept</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Concept</title>
+        <dc:creator><![CDATA[Silviu200530]]></dc:creator>
+        <description><![CDATA[
+            <p>Yessss.</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-concept/87687/119">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-concept/87687/119</link>
+        <pubDate>Fri, 07 May 2021 17:39:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87687-119</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-concept/87687.rss">Castle Desolation - Concept</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Concept</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <p>They won’t have Grimoires. Only evils will.</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-concept/87687/118">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-concept/87687/118</link>
+        <pubDate>Fri, 07 May 2021 15:39:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87687-118</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-concept/87687.rss">Castle Desolation - Concept</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Concept</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <p>The kind of purpose here is to encourage Evils to further their own agenda and mess good players up by doing more things rather than just break crystals and kill good players. I’m planning on making the wincons more active so if there’s one related to the LoH then it’s probably not going to be as simple as guarding it.</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-concept/87687/117">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-concept/87687/117</link>
+        <pubDate>Fri, 07 May 2021 15:38:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87687-117</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-concept/87687.rss">Castle Desolation - Concept</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Concept</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <p>Eh, no since they also serve other importances.</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-concept/87687/116">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-concept/87687/116</link>
+        <pubDate>Fri, 07 May 2021 15:35:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87687-116</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-concept/87687.rss">Castle Desolation - Concept</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Concept</title>
+        <dc:creator><![CDATA[EliThePsycho]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Alice" data-post="105" data-topic="87687">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/alice/40/32176_2.png" class="avatar"> Alice:</div>
+<blockquote>
+<p>Each Evil Class will have a grimoire of their class</p>
+</blockquote>
+</aside>
+<p>Me, who has a grimoire of everybody’s class:<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://forum.throneoflies.com/uploads/default/original/3X/f/d/fd0a541d6b916b4ef9f39618ef731b816967e460.jpeg" data-download-href="https://forum.throneoflies.com/uploads/default/fd0a541d6b916b4ef9f39618ef731b816967e460" title="image"><img src="https://forum.throneoflies.com/uploads/default/optimized/3X/f/d/fd0a541d6b916b4ef9f39618ef731b816967e460_2_525x500.jpeg" alt="image" data-base62-sha1="A6uVAEM1mLjhQPbjRUT9HJmK1fG" width="525" height="500" srcset="https://forum.throneoflies.com/uploads/default/optimized/3X/f/d/fd0a541d6b916b4ef9f39618ef731b816967e460_2_525x500.jpeg, https://forum.throneoflies.com/uploads/default/original/3X/f/d/fd0a541d6b916b4ef9f39618ef731b816967e460.jpeg 1.5x, https://forum.throneoflies.com/uploads/default/original/3X/f/d/fd0a541d6b916b4ef9f39618ef731b816967e460.jpeg 2x" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/f/d/fd0a541d6b916b4ef9f39618ef731b816967e460_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">714×680 142 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-concept/87687/115">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-concept/87687/115</link>
+        <pubDate>Fri, 07 May 2021 15:34:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87687-115</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-concept/87687.rss">Castle Desolation - Concept</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Concept</title>
+        <dc:creator><![CDATA[Solic]]></dc:creator>
+        <description><![CDATA[
+            <p>How would neutrals factor into this?</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-concept/87687/114">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-concept/87687/114</link>
+        <pubDate>Fri, 07 May 2021 15:32:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87687-114</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-concept/87687.rss">Castle Desolation - Concept</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Concept</title>
+        <dc:creator><![CDATA[Solic]]></dc:creator>
+        <description><![CDATA[
+            <p>Guarding a static room seems like one of the more passive wincons you wanted to avoid if that would be part of it.</p>
+<p>I’d suggest to possibly make this randomly appear in existing rooms to make it more dynamic and defending it then also more interesting, since there might be more props you can use in defense. Something like submerging in a lake environment or surrounding it with bookcases in a library. You might also need to search for it then. This will avoid a guarding role being, go to light crystal, auto defense actions up, afk.</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-concept/87687/113">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-concept/87687/113</link>
+        <pubDate>Fri, 07 May 2021 15:31:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87687-113</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-concept/87687.rss">Castle Desolation - Concept</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Concept</title>
+        <dc:creator><![CDATA[Apprentice]]></dc:creator>
+        <description><![CDATA[
+            <p><img src="https://forum.throneoflies.com/images/emoji/twitter/flushed.png?v=9" title=":flushed:" class="emoji only-emoji" alt=":flushed:"></p>
+<p>Could you give me that grimoire for no reason at all?  I just want to read it haha</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-concept/87687/112">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-concept/87687/112</link>
+        <pubDate>Fri, 07 May 2021 14:48:32 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87687-112</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-concept/87687.rss">Castle Desolation - Concept</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Concept</title>
+        <dc:creator><![CDATA[Italy]]></dc:creator>
+        <description><![CDATA[
+            <p>can these still be destroyed</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-concept/87687/111">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-concept/87687/111</link>
+        <pubDate>Fri, 07 May 2021 14:44:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87687-111</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-concept/87687.rss">Castle Desolation - Concept</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Concept</title>
+        <dc:creator><![CDATA[Silviu200530]]></dc:creator>
+        <description><![CDATA[
+            <p>Almost everyone loves puzzles as long as they understand what they need to do~ is every mechanic here be part of a puzzle one way or another?</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-concept/87687/110">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-concept/87687/110</link>
+        <pubDate>Fri, 07 May 2021 08:37:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87687-110</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-concept/87687.rss">Castle Desolation - Concept</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Concept</title>
+        <dc:creator><![CDATA[Silviu200530]]></dc:creator>
+        <description><![CDATA[
+            <p>*a quest</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-concept/87687/109">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-concept/87687/109</link>
+        <pubDate>Fri, 07 May 2021 04:59:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87687-109</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-concept/87687.rss">Castle Desolation - Concept</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Concept</title>
+        <dc:creator><![CDATA[Silviu200530]]></dc:creator>
+        <description><![CDATA[
+            <p>I was thinking that those NPCs would give you question or something like that but they seem to be more acting like mobs.</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-concept/87687/108">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-concept/87687/108</link>
+        <pubDate>Fri, 07 May 2021 04:55:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87687-108</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-concept/87687.rss">Castle Desolation - Concept</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Concept</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="katze" data-post="106" data-topic="87687">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/katze/40/37589_2.png" class="avatar"> katze:</div>
+<blockquote>
+<p>giving fakeclaims is reasonable but i expect at least 3-4 evils to trueclaim</p>
+</blockquote>
+</aside>
+<p>Doubt it. I actually put more incentive for Goods to kill Evils this time around such as them dropping a Crystal and giving EXP, so I don’t think that a repeat of Night’s “claim Evil Chapter I and survive until the last chatper” shit would happen again.</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-concept/87687/107">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-concept/87687/107</link>
+        <pubDate>Fri, 07 May 2021 03:58:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87687-107</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-concept/87687.rss">Castle Desolation - Concept</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Concept</title>
+        <dc:creator><![CDATA[katze]]></dc:creator>
+        <description><![CDATA[
+            <p>giving fakeclaims is reasonable but i expect at least 3-4 evils to trueclaim</p>
+<p>myself included if i play</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-concept/87687/106">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-concept/87687/106</link>
+        <pubDate>Fri, 07 May 2021 03:53:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87687-106</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-concept/87687.rss">Castle Desolation - Concept</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Concept</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <p>In addition, remember the folders that I placed around Death City that contained info on each evil character? I’m basically making a mechanic out of it called the Grimoire System.</p>
+<p>Each Evil Class will have a grimoire of their class. If they obtain their own grimoire, then they will receive a shit-ton of buffs. If a Good player obtains an Evil player’s grimoire and the evil is dead, then the grimoire will give some slight passive buffs to them.</p>
+<p>In addition, this means that evils need to fall to a safeclaim class as if they claim their actual class with a fake alignment+wincon then they’ll still be outed.</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-concept/87687/105">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-concept/87687/105</link>
+        <pubDate>Fri, 07 May 2021 01:12:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87687-105</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-concept/87687.rss">Castle Desolation - Concept</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Concept</title>
+        <dc:creator><![CDATA[Apprentice]]></dc:creator>
+        <description><![CDATA[
+            <p>h e a d b u t t</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-concept/87687/104">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-concept/87687/104</link>
+        <pubDate>Fri, 07 May 2021 01:04:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87687-104</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-concept/87687.rss">Castle Desolation - Concept</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Concept</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <p>Each player begins with a weapon, so you won’t need to use your bare hands to break it if you rush it right when the game begins.</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-concept/87687/103">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-concept/87687/103</link>
+        <pubDate>Fri, 07 May 2021 01:03:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87687-103</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-concept/87687.rss">Castle Desolation - Concept</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Concept</title>
+        <dc:creator><![CDATA[Apprentice]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m going to headbutt it really hard until it breaks</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-concept/87687/102">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-concept/87687/102</link>
+        <pubDate>Fri, 07 May 2021 01:02:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87687-102</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-concept/87687.rss">Castle Desolation - Concept</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Concept</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <p>Obviously, there may be wincons related to it.</p>
+<p>Guarding/Attacking the LoH should probably add a more dynamic and strategic element to the game.</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-concept/87687/101">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-concept/87687/101</link>
+        <pubDate>Fri, 07 May 2021 01:01:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87687-101</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-concept/87687.rss">Castle Desolation - Concept</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Concept</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <p>So… I’ve come up with a new mechanic that will tie in with NPCs. I’ve called it the Light of Hope.</p>
+<h1>
+<a name="light-of-hope-1" class="anchor" href="#light-of-hope-1"></a>Light of Hope</h1>
+<p>In short, the LoH is a giant Crystal that’s located in a specific room in the castle. while the LoH is working, good players do +30% damage to NPCs. This should help you guys burn through the map. However, keep in mind that it’s possible for Evils to destroy the LoH. Once it’s been destroyed, Goods will lose this bonus and instead evils will gain +30% damage against Good-aligned players when the LoH is destroyed. Good players need to wait 6 hours before they can use a Shard of Light to repair it, where it will become immune to Evil attacks for 6 hours.</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-concept/87687/100">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-concept/87687/100</link>
+        <pubDate>Fri, 07 May 2021 01:00:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87687-100</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-concept/87687.rss">Castle Desolation - Concept</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Concept</title>
+        <dc:creator><![CDATA[Apprentice]]></dc:creator>
+        <description><![CDATA[
+            <p>yeah makes sense I like this way better</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-concept/87687/99">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-concept/87687/99</link>
+        <pubDate>Wed, 05 May 2021 22:14:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87687-99</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-concept/87687.rss">Castle Desolation - Concept</source>
+      </item>
+      <item>
+        <title>Castle Desolation - Concept</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <p>The problem with an Evil Sovereign is that I’m designing the started Sovereign to be a team-based class. Since Evils are going to be mainly lone wolfy roles then and Evil Sovereign is… eh.</p>
+          <p><a href="https://forum.throneoflies.com/t/castle-desolation-concept/87687/98">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/castle-desolation-concept/87687/98</link>
+        <pubDate>Wed, 05 May 2021 22:11:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-87687-98</guid>
+        <source url="https://forum.throneoflies.com/t/castle-desolation-concept/87687.rss">Castle Desolation - Concept</source>
+      </item>
+  </channel>
+</rss>

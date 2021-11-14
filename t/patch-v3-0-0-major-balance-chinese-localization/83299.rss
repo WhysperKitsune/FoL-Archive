@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Patch v3.0.0: Major Balance / 中文 Chinese Localization</title>
+    <link>https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299</link>
+    <description>![](https://media3.giphy.com/media/IhgYbAyKiPxs0k3VPY/giphy.gif)
+
+* **Status:** LIVE (Patch notes final)
+* **Short URL:** &lt;https://toli.es/patch-v3&gt;
+
+# [color=ff3535]**Major Balance Changes (x13)**[/color]
+
+The thought process behind each balance change will be bulleted below.
+
+## ![blueDragon-128x128|32x32](upload://daZG28QX5ZwfVuPMyVl7ESIRVxc.png) [color=#0097ED]Blue Dragon (Balance)[/color]
+
+**[color=#ff3535]1. Court Wizard received an ability set revamp.[/color]**
+  * ![image|690x330](upload://mw4TjOefYat0T2tqepMbw7xsK0g.jpeg)   
+  * The old *Empower* abil was a complicated mess for multiple reasons: It was hard to understand for new players, sometimes even for veterans - and for all that, it wasn&#39;t even satisfying to use.
+  * By giving the player more control over what their primary night action does to any target of their choice, the class should overall become a lot more enjoyable to play and a ton easier to understand for newcomers. By further adding separate ability names, descriptions and icons to bind to memory, this further helps streamline the learning process for all players.
+  * To prevent temporary immunity to occupy and redirection, yet still allow the CW to be occupyable/redirectable (sort of a paradox), we had to be creative: In this approach, the CW will &quot;undo&quot; an occupy/redirection -- therefore, when this happens, it will be revealed that the CW intensified you. **Example:**
+  ![image|649x173](upload://sLzZ2RqPKmkeJQ4O2qsvaMgjRyk.png) 
+  * As a bonus, *Empower* was not scalable at all - happy to see it go away from a dev&#39;s perspective.
+
+**[color=#ff3535]2. Increased Observer&#39;s spawn chance to be higher (similar to other BD).[/color]**
+  * The Observer, despite being equally balanced to other classes, had a rarer spawn chance due to a previous version of him being very strong. However, after the previous nerf, it should no longer disrupt balance. 
+  * Allowing the Observer to spawn more often will allow players to experience more content and make it easier for new players to get into the game because it will remove an *unwritten exception* to the spawn rules. 
+  * This should also saturate the potential spawns, making other classes appear less often, giving players a higher chance to play different classes and more-likely to not end up with 3 of the same class.
+
+**[color=#ff3535]3. Chronomancer&#39;s *Distort Reality* abil is now unable to pick the King as 2nd target.[/color]**
+  * Distorting Reality had a risk of moving a delayed death to a strong Blue Dragon class. This could be bypassed by moving it to the King, because he is not only able to protect himself, but also a potential evil class. By picking King as the 2nd target, the Chronomancer was able to rather safely defuse the delayed death, as well as potentially kill the King. Additionally, because of the previous removal of Drunk&#39;s *Debauch* targeting to King, this change should also be added to the game for similar reasons of no BD penalty for killing the King.
+
+## ![unseen-32|32x32](upload://h1oyzk2oXiWyzpfFvYrC2nJ8UVu.png) [color=#AA017D]Evil (Balance)[/color]
+
+**[color=#ff3535]1. Mastermind loses *Little Bird* day ability.[/color]**
+  * AKA &quot;Bolt the Bird&quot; nerf, *Little Bird* was an ability capable of stopping players from whispering *simply by existing*. This meant that it effectively removes one of the major mechanics in the game: *whispering*. Because of this, alternative ways of sharing information were strongly discouraged.
+  * It has come to the point where a Mastermind isn&#39;t even required to use his ability or even spawn for players to still be terrified of it&#39;s strength. As such, we would like to see how the game fares without the paranoia and limitations created by this singular ability.
+* If this reverts back to all-whisper metas (shame on you ;p), we can always come back to this in some compromised form.
+
+## ![neutral-white-128|32x32](upload://gzsenH13SoZYFSCg9OYPTCRSLDQ.png)![killer|32x32](upload://u5YJAJ6sGdd61GRjXzYp1UWIZzJ.png)  [color=white]Neutral Killer (Balance)[/color]
+
+**[color=#ff3535]1. Replaced the Sorcerer&#39;s *Bomb Swap* abil to *Escape Fate*.[/color]**
+
+* &gt; ![image|540x146](upload://yrzwcOkHxDliXDMeTO45qZbIF28.png)
+* We will change up the pardon messages to either be King **or** Sorcerer.
+* *Bomb Swap* was rarely used and, in most situations, *a waste of a day for the Sorcerer*. 
+* She also had trouble later in the game when numbers get lower. While the other NKs could control the court during the day and avoid being voted up (*Reap* and *Silence* type abils, as well as *Force Vote* type abils), Sorc was left with no additional help to protect herself from being voted out. Because of this, it&#39;s difficult to win with her. 
+* That said, a *Force Pardon* type ability helps her end the game in a victory without being dependent on other Neutrals.
+  &gt; ![image|584x499](upload://4fapjVhcnGE6lc8PDUzIfFx4i3Z.jpeg) 
+
+**[color=#ff3535]2. Reaper&#39;s *Circle of Death* # of souls cost lowered from 2 to **1**.[/color]**
+  * *Circle of Death*, due to it&#39;s originally-high cost of 2 souls, and *another* 1 soul you wouldn&#39;t get from using *Reap*, is a rather **big investment for little gain**. 
+  * Lowering the cost of the ability allows players to use it more often and without the big risk it currently creates for the Reaper. 1-cost *Circle* also allows the Reaper to use it N1 without risking death - which would be a bigger risk for outing early as a priority Blue Dragon class.
+
+**[color=#ff3535]3. Reaper&#39;s *Circle of Death* can now target *himself* and the *King*.[/color]**
+  * This adds some utility to the ability by letting the Reaper *Circle* himself to prevent investigatives from finding him that night and possibly preventing a resurgence of the *Whisper King Meta*.
+
+## ![neutral-white-128|32x32](upload://gzsenH13SoZYFSCg9OYPTCRSLDQ.png) [color=white]Neutral Non-Killer (Balance)[/color]
+
+**[color=#ff3535]1. Sellsword&#39;s *Initimidate* abil has been swapped out with *Divert*:[/color]**
+  * &gt; ![image|426x123](upload://cZKuI4JdlxOl4iXeEKgmtq3477F.png) 
+  * Originally, *Intimidate* overlapped in its use with *Stonewall*, as well as having the chance of occupying your allies. This made *Intimidate* an ability you would rather want to **avoid** using.
+  * Changing it to a *Debauchery*-like ability offers Sellswords the ability to help out their allies without disrupting their actions, as well as it would allow them to redirect healers into their bleeding allies. This change would also make Drunk a more-difficult class to confirm which would overall improve the balance of the game.
+
+**[color=#ff3535]2. Inquisitor can no longer target the *starting* King with his abilities.[/color]**
+  * The *starting* King could never be heretic, anyway. The only reason why you would want to attack him is to step up as Neut King, which is not a proper usage of Ruthless Efficiency (some people stab King n1 to step as King d2 to not have to play Inq). *Elected* Kings need to be targetable still, since there can be heretic elected Kings.
+
+**[color=#ff3535]3. Inquisitor *heretics* are now only non-King Blue Dragon faction members (with the exception of Prince/Hunter).[/color]**
+  * Being a Cult/Unseen *heretic* didn&#39;t not feel good, especially for Unseen -- because starting Assassin is extremely important to the faction due to the *Apprentice* abil passive.
+  * It also didn&#39;t feel good for Inquisitors, themselves, since there are various scenarios where said *heretic* Assassin could become the next Mastermind; therefore becoming effectively unkillable at night.
+  * In addition to the above, this change may make Inquisitors reconsider an open-claim less -- which would contribute to solving the issue of open-claiming neutrals.
+
+**[color=#ff3535]4. Mercenary is now unique.[/color]**
+  * ⚠️[color=red]**CURRENTLY NOT WORKING** -- will fix when we find the cause[/color]
+  * Mercenary is a very influential and helpful for the Blue Dragons Neutral class. Her abilities focus on protecting others, so most players are rather open to keeping her around. Due her ability of being able to protect and deny abilities to this extent, she was made **Unique**, in a way to balance her. 
+  * Additionally, when 2 Mercenaries spawn, the one that has the lower number has an easier way of winning due to how core mechanics of priorities work (if 2 Mercenaries Guard the same target the one with the lower number gets awarded with the occupation). This makes being the 2nd one to spawn a rather big pain and disheartening.
+
+**[color=#ff3535]5. Increase the amount of Brilders required for Mercenary to win from 6 **to 7**[/color]**
+  * Mercenary already has her fairly easy-to-fulfill win condition: By removing a few sources of *occupation* this patch, this class will now have it *even easier* to fulfill her win condition; so making it slightly more-difficult to win seems like an appropriate balance.
+
+**[color=#ff3535]6. The Fool&#39;s *Poor Fellow* passive abil punishment reduced to just **1-day** always.[/color]**
+  * The Fool, after being executed, stops any further executions for some time. Due to how easily it can be given, the old way was *too punishing* for players. Losing 2 days of trials was very disruptive to gameplay and, depending on the situation, it can even lose games for Blue Dragon. 
+  * Reducing punishment to only 1 day should make it less of a pain, while still making players be on the lookout for Fools.
+
+[color=lime]**Thank you dev panel members for taking lead on the direction of this balance patch!**[/color]
+_________
+
+## Notable Class Fixes
+* Reaper (and possibly other 2-day-ability classes) cancel exploits fixed.
+* Maid&#39;s *Matchmake* abil will no longer sometimes show no feedback. Thx `@Kaien` + @Planterror 
+* Maid&#39;s *Matchmake* abil will have better matches vs Mastermind&#39;s *In The Shadows* passive abil.
+* Fixed the old bug where Drunk wasn&#39;t receiving feedback for using *Debauchery* abil on a target that used a 0-target ability (such as Mystic&#39;s *Mind Link* abil). Thx @Stoneage + @Arete
+* Fixed a rare bug major bug (that&#39;s been here since launch that was hard to catch) that caused desyncing when creating a new game, caused by room names not being unique. This was rejecting every server call since the room name was looking at an OLD game that wasn&#39;t live. This fixed a few combo bugs that sometimes occurred:
+    * Follow bugs
+    * Rich presence bugs
+    * Gp cache not matching server
+    * Bonus gp grants (eg, Brilders/death abils)
+    * Skewed stats
+    * Failed reporting a player
+    * Anything relating to relying on a check based on the room name (surely several others)
+* *Debauchery*-type abils now works again with 2-target abilities.
+* Numerous ability resolve priorities have been altered to prevent unexpected theoretical combo errors due to order used, such as missing Gossip among other oddities (from inconveniences to major bugs) due to priority orders.
+* Psycho King&#39;s attack, when target is death immune, will now show the same feedback that others see. Thx `@Torino`
+* Fixed *Heal* showing CNH instead of DNR for an active Possess.
+* *Matchmake* will now return *Incompatible* if Scorned is matched with someone framed.
+* Fixed 2-target abilities that shouldn&#39;t allow targeting the King in target panel **2**.
+* Fixed Chronomancer&#39;s *Pocket Dimension* to work vs bleeding out.
+* *Inquisitor&#39;s* attack will no longer result in DNR instead of CNH for the healer.
+* Ritualist&#39;s *Teleportation* target 2 panel can no longer target the King.
+* *Hunter&#39;s Mark* abil&#39;s occupy mini-revamped: Should work way better, now.
+  * Eg, vs Sorcerer, among others.
+  * Still may not work properly vs Knight, however (WIP - this ability&#39;s code is a pain :slight_smile: ).
+* Fixed targeting for abils that would allow self-targeting in 2nd target panel, but not 1st; such as *Strings of Mithras*
+* Apostle can no longer use *Cult Pressure* on other Cult members (definitely not intended :P)
+* Sorcerer&#39;s &quot;You sensed something was off&quot; feedback has returned.
+* Fixed Chrono&#39;s *Pocket Dimension* not working when you die from a bleed when you use *Time Warp* at night.
+* Better status syncing between masters to prevent weirdness.
+* When healing someone recently smited, it now shows &quot;Could Not Heal&quot; instead of something else.
+* *Stand Guard* no longer awards brilders to those already occ immune.
+* *Hunters Mark* no longer says that you attacked &quot;and occupied&quot; them if you didn&#39;t occ them (eg, they were occ immune).
+* Butler&#39;s *Concentrated Wine* abil no longer bypasses occupy immunity.
+* If you get occupied on a night you get converted, that night now counts towards occ immunity.
+* Physician&#39;s *Heal* now gives proper CNH feedback to unhealable attacks.
+  * Note that Self Heal probably does *not* - will work on this in a future mini patch.
+
+## Minor Class Fixes
+* Fixed Inquisitor&#39;s *Interrogate* abil grammar. Thx `@Kaien`
+* Fixed contradicting wording of *Matchmake* abil description. Thx `@Corn`
+* Aristocrat&#39;s *Intrigue* abil description now matches exceptions to *Gossip*. Thx `@thereaper633`
+* Fixed some feedback &quot;perspective bugs&quot; (eg, target&lt;&gt;&quot;you&quot; or target&lt;&gt;&quot;sameTargetButShouldntBe&quot;). 
+  * These get confusing: If you see anymore of these bugs, please include as many details as possible. If you redirected someone, please let me know what classes they ended up being.
+* Fixed Conduit %TARGET% feedback.
+* Added memo to Paladin&#39;s *Smite* ability that it bypasses death immunity for clarity.
+* Fixed for &quot;x, y and z&quot; list-style feedback errors (fixes or&lt;&gt;and &amp; misplaced periods). Thx @Stoneage 
+  &gt; ![image|516x58](upload://aGrVJTqNlmRQMbjrKybCvBuQo5q.png) 
+* Fixed *Disguise* abil feedback from being ridiculous (the verb &#39;disguise&#39; was being replaced with the entire ability description). Thx @Stoneage 
+  &gt; ![image|488x59](upload://iiAFumxSQZtuSUwaIFMcBytwPZl.png) 
+* Your &quot;last classes played&quot; list cache was not being updated for the session (unless you restarted): This is now fixed (resulting in less *chance* of getting the same class for the session).
+* Removed redundant &quot;you attacked x&quot; after &quot;you occd and attacked x&quot; from *Hunters Mark* abil.
+* *Hunters Mark* abil now properly displays [gossip] feedback when occ failed.
+* *Hunters Mark* abil swapped the word, &quot;them&quot;, with &quot;target 1&quot; since &quot;them&quot; can incorrectly imply *both* targets.
+
+## Class QoL
+* Surviving an attack due to *death immunity* now has a tip appended, should you have tips enabled in options:
+    &gt; ...&quot;this could be because of one of your [passive] abilities, the King or the Court Wizard&quot;
+* Whenever you switch chat tabs, you&#39;ll now auto-focus the input field where you type (this includes when Mystic uses their night abils).
+* ~~Mystic&#39;s *Link Minds* and *Conduit* abil notifications will mirror in Mystic chat to better keep track.~~
+  * **Delayed:** Not working as intended.
+* Mystic&#39;s *Conduit* abil now has separate sfx from *Mind Link*.
+* Maid&#39;s night tips tab is now a cheatsheet full of *Matchmake* abil combos:
+  ![image|690x237](upload://irECOidORWnlDjfkVPu9RUgoUjT.png)    
+* Princess also gets a *Flirt* abil cheatsheet:
+  ![image|451x325](upload://fGxEwKv9xHmCKCnqIr0bSyETuF7.png) 
+* Several misc. better wording for memos/ability descriptions.
+* Conversions against disconnected players will now fail at ability resolve time (now that players are instantly killed off when d/c&#39;d - see next section).
+* If target was *Smited*, *Time Warp* abil will now say you &quot;could not delay&quot; their death (rather than &quot;x did not die&quot;).
+
+## Disconnection
+* d/c&#39;s are now killed off the following morning:
+![image|550x193](upload://a633ebGaIVzXfG03Ifa3sFUpWX5.png) 
+* &quot;x has left the game&quot; will now only show **once**.
+* Ignoring the screenshot above in yellow, d/c&#39;s are now in a blue that stands out more:
+  ![image|501x131](upload://clVpJ1o4YaskIln7BRtX4pA1Tev.png) 
+
+## Localization: Chinese (中文)
+* Just added 1000+ new phrases, focusing on ability feedback!
+* We are about 99% localized, now.
+* Fixed lobby top-left and top-right spacers (that made the buttons look uncentered).
+* Changed lore link to go to a localized Wikia (although WIP).
+* Bottom region now says either &quot;English&quot; or &quot;中文&quot; to be less confusing.
+* **Notes:** 
+  * Store is not yet fully translated.
+  * Vocabulary is not yet translated. 
+  * Patch notes will *not* be in Chinese [yet] until we get a publisher to assist with this in the future (not enough resources, currently).
+* English cancel flavor text needed to be a bit more generic or it&#39;s a bit impossible to translate.
+* Removed the Chinese&lt;&gt;English switcher due to an overwhelming number of issues switching back and forth: It&#39;s like coding the game twice, similar to reconnection: This seems to be why most online games don&#39;t allow you to swap languages mid-game :/ Apologies!
+
+## General / QoL
+* Replaced the start sfx with something more dramatic (with both bass + treble), also lasting a few seconds instead of 1/2 second. I also fixed a bug that would sometimes cause the &quot;game starting&quot; sfx  to cutoff early, if you&#39;re a speedy loader. Thx @anon97870008
+* Start sfx will now bypass in-game (NOT Windows) mute and *temporarily* set minimum in-game volume threshold just for this sfx to prevent afk matches (benefiting both the user and other players, assuming they actually wanna play if they had the chance). **Not this patch,** but later: I&#39;ll add an option to turn this off (default on).
+* Added ability hover sfx for the 2 day/night parent buttons. Added 5% random pitch shift for flavor. Also added this to the tutorial.
+* *Left Game* (Disconnected) system messages are now a [color=#258abc]darker cyan[/color] color to stand out more through chat spam.
+* Fixed our Steam library&#39;s floating text logo from incorrect upload. Thx @alitnk
+* Better lobby anchoring (position adjustments) for non-standard resolutions
+* Upgraded Unity from 2020.1 beta to 2020.1 stable.
+* OCD-centered a loading tip that had an entire line for only one word, reducing from 3 lines to 2.
+* Fixed some pitch shift sfx for non-hovers: Some abilities and clicks may sound slightly different each use.
+* Added some class card scrolling sfx.
+* Adjusted the weapon store mask so it&#39;s not cutting off *Vortex Amulet*.
+* Fixed vertical-center of options resolution in lobby.
+* Double gold gp weekend banner link on the left of lobby now more-intuitively links https://forum.throneoflies.com/t/double-gold-gp-weekends/82790 instead of Discord (although not so informative, can always edit).
+* Fixed underline thickness. Some may still be uneven due to custom line spacing, but it&#39;ll at least be legible.
+* Added some missing hover/click sfx to the tutorial.
+* Added more Glossary terms.
+* Class Cards *Notifications* name replaced with *Feedback* for consistency.
+* Butler and King&#39;s feedback for cancel was removed (leftover/experimental).
+* Better memos for *Teleportation* and *Tornado* abils.
+* Better class card ability text masking when scrolling.
+* Fixed the settings cog button in the tutorial that wasn&#39;t previously interacting.
+* Moved tutorial settings cog to front of tutorial overlay
+* Made Newcomer &#39;Squire&#39; incognito title button disable more obvious
+* Tutorial can no longer target already-dead targets with *Assassinate*.
+* You are now given a hint to stop telling people to report others after doing so a couple times.
+* `/r` command to reply to the last player to whisper you. It automatically replaces itself to `/w &lt;number&gt;` upon typing it to avoid last second whisper confusion.
+* Attackers are now told the possible causes of death immunity upon hitting a death immune target.
+* No longer automatically switching to mystic tab to avoid evils sending sensitive info to the mystic.
+* Fixed bug where the text above the player list would say &quot;Unable to start a trial.&quot; when you could actually start one.
+* Added some new hotkeys. `LeftCtrl+L` for logbook and `LeftCtrl+EmoteNumber` for each emote.
+* Fixed lobby UI&#39;s &quot;match found&quot; panel sometimes stacking over the main screen with placeholder values.
+* Fixed the freeze if you hung out at the end screen for too long.
+* Pressing enter in lobby no longer takes you to the lobby chat.
+* Host&#39;s name is now **bold** in public lobbies as well.
+* Class stats should be a little more consistent now.
+
+## Art
+* Nightwatch got a portrait revamp (#baldByChoice):
+  ![](https://i.imgur.com/uPsgEDr.png)
+
+--Xblade
+https://discord.gg/tol
+
+_________
+
+&gt; [color=lime]**Related:**[/color]
+&gt; * https://forum.throneoflies.com/t/patch-v2-7-0-live/82791 
+&gt; * https://forum.throneoflies.com/t/mini-patch-v2-7-0a/83031 
+&gt; * https://forum.throneoflies.com/t/mini-patch-v2-7-0b/83087</description>
+    
+    <lastBuildDate>Wed, 16 Sep 2020 20:30:12 +0000</lastBuildDate>
+    <category>Official Announcements</category>
+    <atom:link href="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Patch v3.0.0: Major Balance / 中文 Chinese Localization</title>
+        <dc:creator><![CDATA[thepigeonnyc]]></dc:creator>
+        <description><![CDATA[
+            <p>How did empowering support work in the ability order?</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/93">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/93</link>
+        <pubDate>Wed, 16 Sep 2020 20:30:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-83299-93</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299.rss">Patch v3.0.0: Major Balance / 中文 Chinese Localization</source>
+      </item>
+      <item>
+        <title>Patch v3.0.0: Major Balance / 中文 Chinese Localization</title>
+        <dc:creator><![CDATA[RHCube]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote group-Admin quote-modified" data-username="í42-Xblade" data-post="1" data-topic="83299">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<ul>
+<li><img src="https://forum.throneoflies.com/uploads/default/optimized/3X/9/d/9dd022d2ed5f04981ff132ae10d3ff97bb775398_2_690x330.jpeg" alt="image" data-base62-sha1="mw4TjOefYat0T2tqepMbw7xsK0g" width="690" height="330" srcset="https://forum.throneoflies.com/uploads/default/optimized/3X/9/d/9dd022d2ed5f04981ff132ae10d3ff97bb775398_2_690x330.jpeg, https://forum.throneoflies.com/uploads/default/original/3X/9/d/9dd022d2ed5f04981ff132ae10d3ff97bb775398.jpeg 1.5x, https://forum.throneoflies.com/uploads/default/original/3X/9/d/9dd022d2ed5f04981ff132ae10d3ff97bb775398.jpeg 2x" data-small-upload="https://forum.throneoflies.com/uploads/default/optimized/3X/9/d/9dd022d2ed5f04981ff132ae10d3ff97bb775398_2_10x10.png"></li>
+</ul>
+</blockquote>
+</aside>
+<ul>
+<li>I don’t think icy veins is necessary. We already have 2(potentially 3 with king) support classes focusing on saving someone from death. Here’s a possible fix: Intensify will make it so your target may not receive any incorrect feedback tonight. Also, the name could use some work, but idk what it should be changed to.</li>
+</ul>
+<aside class="quote group-Admin" data-username="í42-Xblade" data-post="1" data-topic="83299">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>Increased Observer’s spawn chance to be higher (similar to other BD).</p>
+</blockquote>
+</aside>
+<p>nothing to say here, great change.</p>
+<aside class="quote group-Admin" data-username="í42-Xblade" data-post="1" data-topic="83299">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>Chronomancer’s <em>Distort Reality</em> abil is now unable to pick the King as 2nd target.</p>
+</blockquote>
+</aside>
+<p>I think that this is fine for starter kings, however elected kings have a much higher chance of being evil and are easier to detect. Plus this means that there is now only one BD class which could potentially kill the king.</p>
+<aside class="quote group-Admin" data-username="í42-Xblade" data-post="1" data-topic="83299">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>Mastermind loses <em>Little Bird</em> day ability.</p>
+</blockquote>
+</aside>
+<p>This is good, however I do think that there should be another unseen class with a whisper reading ability. Maybe observer?</p>
+<aside class="quote group-Admin" data-username="í42-Xblade" data-post="1" data-topic="83299">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>Replaced the Sorcerer’s <em>Bomb Swap</em> abil to <em>Escape Fate</em> .</p>
+</blockquote>
+</aside>
+<ul>
+<li>
+<p>Question: Does this also prevent the sorcerer from being voted up for the rest of the day? Because if not then it would be pretty weak late game</p>
+</li>
+<li>
+<p>I think bomb swap should remain, just merge it with the main bombing ability. So it would be: Place a bomb on a new target or swap a bomb off an old target.</p>
+</li>
+<li>
+<p>Escape fate should be able to be used during other trials so you could frame other people.</p>
+</li>
+</ul>
+<aside class="quote group-Admin" data-username="í42-Xblade" data-post="1" data-topic="83299">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<ol start="2">
+<li>Reaper’s <em>Circle of Death</em> # of souls cost lowered from 2 to <strong>1</strong> .</li>
+</ol>
+</blockquote>
+</aside>
+<p>Nothing to say here. It was too costly before.</p>
+<aside class="quote group-Admin" data-username="í42-Xblade" data-post="1" data-topic="83299">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>Reaper’s <em>Circle of Death</em> can now target <em>himself</em> and the <em>King</em> .</p>
+</blockquote>
+</aside>
+<p>Again, nothing to say here either.</p>
+<aside class="quote group-Admin" data-username="í42-Xblade" data-post="1" data-topic="83299">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p><strong>1. Sellsword’s <em>Initimidate</em> abil has been swapped out with <em>Divert</em> :</strong></p>
+<ul>
+<li>
+<blockquote>
+<p><img src="https://forum.throneoflies.com/uploads/default/original/3X/5/b/5b15065c5ad91c3f633e7299d8f38490e22be407.png" alt="image" data-base62-sha1="cZKuI4JdlxOl4iXeEKgmtq3477F" width="426" height="123"></p>
+</blockquote>
+</li>
+<li>
+<p>Originally, <em>Intimidate</em> overlapped in its use with <em>Stonewall</em> , as well as having the chance of occupying your allies. This made <em>Intimidate</em> an ability you would rather want to <strong>avoid</strong> using.</p>
+</li>
+<li>
+<p>Changing it to a <em>Debauchery</em> -like ability offers Sellswords the ability to help out their allies without disrupting their actions, as well as it would allow them to redirect healers into their bleeding allies. This change would also make Drunk a more-difficult class to confirm which would overall improve the balance of the game.</p>
+</li>
+</ul>
+</blockquote>
+</aside>
+<p>This change is good for sellsword, however it makes butler a bit more confirmable. My suggestion would be to add a new neutral offensive class, Witch(Not sure if the name could use some work), which has an unlimited use tornado and the old intimade. If balance would be a concern then just make it so only one of SS/Witch could spawn in a game</p>
+<aside class="quote group-Admin" data-username="í42-Xblade" data-post="1" data-topic="83299">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>Inquisitor can no longer target the <em>starting</em> King with his abilities.</p>
+</blockquote>
+</aside>
+<p>Good change.</p>
+<aside class="quote group-Admin" data-username="í42-Xblade" data-post="1" data-topic="83299">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<ol start="3">
+<li>Inquisitor <em>heretics</em> are now only non-King Blue Dragon faction members (with the exception of Prince/Hunter).</li>
+</ol>
+</blockquote>
+</aside>
+<ul>
+<li>I’m not a fan of this. Neutrals should be more neutral than leaning towards a certain faction(SS works because there is only one of them, and mercenary works as a potential counter). We already have one scum-sided neutral so an additional one is too much, especially since it’s basically a mini-NK. Neutrals with a killing ability especially shouldn’t be leaning towards one faction.</li>
+</ul>
+<blockquote>
+<ul>
+<li>Being a Cult/Unseen  <em>heretic</em>  didn’t not feel good, especially for Unseen – because starting Assassin is extremely important to the faction due to the  <em>Apprentice</em>  abil passive.</li>
+</ul>
+</blockquote>
+<p>Just change it so an inquisitor can’t have a starting assassin as a heretic then. I don’t see how being a heretic is a problem for the cult either.</p>
+<aside class="quote group-Admin" data-username="í42-Xblade" data-post="1" data-topic="83299">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>therefore becoming effectively unkillable at night.</p>
+</blockquote>
+</aside>
+<p>That could be fixed by changing the inquisitor’s win condition to “Cause the death of 3 heretics”. So voting would work as well(but only if they vote execute)</p>
+<aside class="quote group-Admin" data-username="í42-Xblade" data-post="1" data-topic="83299">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>In addition to the above, this change may make Inquisitors reconsider an open-claim less – which would contribute to solving the issue of open-claiming neutrals.</p>
+</blockquote>
+</aside>
+<p>I agree that neutrals open claiming is a problem, however that could be fixed by making neutrals more chaotic(aka anti-everyone, like NKs) instead of leaning towards a certain faction.</p>
+<aside class="quote group-Admin quote-modified" data-username="í42-Xblade" data-post="1" data-topic="83299">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p><strong>Mercenary is now unique.</strong></p>
+<ul>
+<li>Mercenary is a very influential and helpful for the Blue Dragons Neutral class. Her abilities focus on protecting others, so most players are rather open to keeping her around. Due her ability of being able to protect and deny abilities to this extent, she was made <strong>Unique</strong> , in a way to balance her.</li>
+<li>Additionally, when 2 Mercenaries spawn, the one that has the lower number has an easier way of winning due to how core mechanics of priorities work (if 2 Mercenaries Guard the same target the one with the lower number gets awarded with the occupation). This makes being the 2nd one to spawn a rather big pain and disheartening.</li>
+</ul>
+<p><strong>5. Increase the amount of Brilders required for Mercenary to win from 6 <strong>to 7</strong></strong></p>
+<ul>
+<li>Mercenary already has her fairly easy-to-fulfill win condition: By removing a few sources of <em>occupation</em> this patch, this class will now have it <em>even easier</em> to fulfill her win condition; so making it slightly more-difficult to win seems like an appropriate balance.</li>
+</ul>
+</blockquote>
+</aside>
+<p>Good changes, 6 was too easy to win.</p>
+<aside class="quote group-Admin" data-username="í42-Xblade" data-post="1" data-topic="83299">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>The Fool’s <em>Poor Fellow</em> passive abil punishment reduced to just <strong>1-day</strong> always.</p>
+</blockquote>
+</aside>
+<p>Good change. Maybe you could make it so the fool could chose their revenge? Like choosing between one day of trials, killing one person(like hunter), etc.</p>
+<p>Overall it’s a good patch. I don’t have too many complaints.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/92">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/92</link>
+        <pubDate>Mon, 14 Sep 2020 17:31:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-83299-92</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299.rss">Patch v3.0.0: Major Balance / 中文 Chinese Localization</source>
+      </item>
+      <item>
+        <title>Patch v3.0.0: Major Balance / 中文 Chinese Localization</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <h2>v3.0.0b (Live now)</h2>
+<p>• Fixed spam when becoming Occupy Immune.<br>
+• Fixed Cult Leader Eradicate being unable to target king as second target.<br>
+• Fixed Cult Sacrifice menu not being able to open again.<br>
+• Fixed heals (both Alch and Phys).<br>
+• Possibly fixed Inquisitor having two heretics.<br>
+• Fixed Merc feedback showing %X%.<br>
+• Fixed some abilities triggering twice (reported as Sellsword double feedback).<br>
+• Fixed emote exploits.<br>
+• Fixed End Game chat functions.<br>
+• Updated some class cards.<br>
+• Possibly fixed Elected King showing us their previous class for Evils.<br>
+• Host may now lose their host status when they have 300+ms ping (was previously set to 150+ms).</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/91">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/91</link>
+        <pubDate>Sat, 12 Sep 2020 11:55:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-83299-91</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299.rss">Patch v3.0.0: Major Balance / 中文 Chinese Localization</source>
+      </item>
+      <item>
+        <title>Patch v3.0.0: Major Balance / 中文 Chinese Localization</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>Patch live!</p>
+<h2>v3.0.0a (Arriving Soon)</h2>
+<ul>
+<li>Fixes false-positive rejoin spam.</li>
+</ul>
+          <p><a href="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/90">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/90</link>
+        <pubDate>Fri, 11 Sep 2020 02:25:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-83299-90</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299.rss">Patch v3.0.0: Major Balance / 中文 Chinese Localization</source>
+      </item>
+      <item>
+        <title>Patch v3.0.0: Major Balance / 中文 Chinese Localization</title>
+        <dc:creator><![CDATA[Marshal]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="boukers" data-post="88" data-topic="83299">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/boukers/40/2419_2.png" class="avatar"> boukers:</div>
+<blockquote>
+<p>and there is a neutral / BD ability that can see whispers but not see who sent them / who they were sent to</p>
+</blockquote>
+</aside>
+<p>no<br>
+no<br>
+no<br>
+no</p>
+<p>that is old ToS spy</p>
+<p>people wouldn’t ever use day whispers and it would be effectively the same as no whispers</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/89">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/89</link>
+        <pubDate>Thu, 10 Sep 2020 16:49:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-83299-89</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299.rss">Patch v3.0.0: Major Balance / 中文 Chinese Localization</source>
+      </item>
+      <item>
+        <title>Patch v3.0.0: Major Balance / 中文 Chinese Localization</title>
+        <dc:creator><![CDATA[boukers]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="orangeandblack5" data-post="61" data-topic="83299">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/orangeandblack5/40/33172_2.png" class="avatar"> orangeandblack5:</div>
+<blockquote>
+<p>I do, however, think there is a genuine possibility that <em>only</em> letting evil players whisper could provide a net benefit to the game - issue is, nobody has yet tried this, so it remains purely theory.</p>
+</blockquote>
+</aside>
+<p>This is a really cool idea.</p>
+<p>If only evils can whisper, and there is a neutral / BD ability that can see whispers but not see who sent them / who they were sent to, it might create some interesting interactions.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/88">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/88</link>
+        <pubDate>Thu, 10 Sep 2020 16:32:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-83299-88</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299.rss">Patch v3.0.0: Major Balance / 中文 Chinese Localization</source>
+      </item>
+      <item>
+        <title>Patch v3.0.0: Major Balance / 中文 Chinese Localization</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>Done <img src="https://forum.throneoflies.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> Will patch my tomorrow morning (EST night)</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/87">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/87</link>
+        <pubDate>Thu, 10 Sep 2020 14:24:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-83299-87</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299.rss">Patch v3.0.0: Major Balance / 中文 Chinese Localization</source>
+      </item>
+      <item>
+        <title>Patch v3.0.0: Major Balance / 中文 Chinese Localization</title>
+        <dc:creator><![CDATA[Soulshade55r]]></dc:creator>
+        <description><![CDATA[
+            <p>I think what will happen is Prince in general will out d2 because he already currently outs d2 because of claim train meta.</p>
+<p>Meh I feel like people will abuse it just because it will increase slight odds for bd.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/86">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/86</link>
+        <pubDate>Thu, 10 Sep 2020 03:55:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-83299-86</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299.rss">Patch v3.0.0: Major Balance / 中文 Chinese Localization</source>
+      </item>
+      <item>
+        <title>Patch v3.0.0: Major Balance / 中文 Chinese Localization</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>There have been tons of changes since then - the king is less valuable. If people decide to <s>be douchey and</s> go back to whisper meta, we’ll patch it out. Pretty simple.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/85">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/85</link>
+        <pubDate>Thu, 10 Sep 2020 03:06:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-83299-85</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299.rss">Patch v3.0.0: Major Balance / 中文 Chinese Localization</source>
+      </item>
+      <item>
+        <title>Patch v3.0.0: Major Balance / 中文 Chinese Localization</title>
+        <dc:creator><![CDATA[Mercenary]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Polarthief" data-post="83" data-topic="83299">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/polarthief/40/3752_2.png" class="avatar"> Polarthief:</div>
+<blockquote>
+<p>MM losing Little Bird: I will personally shame literally everyone who tries to go back to Whisper King meta.</p>
+</blockquote>
+</aside>
+<p>Whisper meta rates drop to 0%</p>
+<p>Yeah we have a problem on the game again. You can’t pretend it’s solid changes.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/84">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/84</link>
+        <pubDate>Sat, 05 Sep 2020 12:05:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-83299-84</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299.rss">Patch v3.0.0: Major Balance / 中文 Chinese Localization</source>
+      </item>
+      <item>
+        <title>Patch v3.0.0: Major Balance / 中文 Chinese Localization</title>
+        <dc:creator><![CDATA[Polarthief]]></dc:creator>
+        <description><![CDATA[
+            <ul>
+<li>CW: Great changes overall. This should make CW a lot more useful.</li>
+<li>Obs spawn rate: Good. He’s not OP anymore anyway.</li>
+<li>Chrono DR no longer on King: Solid.</li>
+<li>MM losing Little Bird: I will personally shame literally everyone who tries to go back to Whisper King meta.</li>
+<li>Sorc Escape Fate: Good change, but I still think dead bombs kinda suck. I doubt there’s a way we could get a third day ability in there to be able to swap a bomb <em>and</em> place one? Idk, Sorc’s the hardest NK to win as it is, even with a free day of escape fate, there’s a good chance you’ll just be occupied at night anyway. Maybe Escape Fate can be an ultimate cooldown, like also make you immune to occupation, redirection, and your bomb explosions also pierce healing for that night? I know that sounds like a lot, but I feel like a single heal or occupy will foil your plans if you don’t kill <em>everyone</em> that night. TL;DR: Good change, but I still think Sorc will lose a lot.</li>
+<li>Reaper CoD -1 soul: Good change, now the total cost is 2 souls down from 3. Still kinda expensive though and idk if getting occupied wastes your souls or not (it shouldn’t if it currently does).</li>
+<li>Reaper CoD on any target: Good.</li>
+<li>SS Divert: Oh my god what an ingenious change. This effectively makes SS like the “Witch” from Town of Salem which can greatly help the SS figure out who is a killer and potentially ally with them. Also taking Drunk down a notch is a massive boon since Drunk is so good for BD and them being less confirmable is great.</li>
+<li>Inq can’t target starting King: Good.</li>
+<li>Heretics can only be BD players: Yeah I’m good with that. I wouldn’t mind if another Neut could also be a heretic. This effectively does lock Inq into an “Evil” Neut like SS, Fool, and Scorned, which I’m fine with though.</li>
+<li>Merc is unique: Good, good.</li>
+<li>Merc needs an extra Brilder to win: Mmn less good, but I think it’s fine.</li>
+<li>Fool early execution nerfed to 1d: Good change.</li>
+</ul>
+<p>Overall, solid list of changes here! <img src="https://forum.throneoflies.com/images/emoji/twitter/+1.png?v=9" title=":+1:" class="emoji" alt=":+1:"></p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/83">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/83</link>
+        <pubDate>Fri, 04 Sep 2020 22:31:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-83299-83</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299.rss">Patch v3.0.0: Major Balance / 中文 Chinese Localization</source>
+      </item>
+      <item>
+        <title>Patch v3.0.0: Major Balance / 中文 Chinese Localization</title>
+        <dc:creator><![CDATA[Iteration]]></dc:creator>
+        <description><![CDATA[
+            <p>I don’t know if I’m just experiencing the meta differently than what some of the above mentions.</p>
+<p>I find most players don’t whisper because the meta is bound in public claiming. Public claiming grants the benefit for invests to check certain people they might find suspicious based on their claimed actions and supports know who are more likely to be attacked.</p>
+<p>However I do see whispers in most games. Most of the time it’s people whispering neutral claims in an attempt to use their abilities for their faction’s benefit. But it could as well be invests/supports whispering king/prince to either report their logs/findings or to coordinate their heals.<br>
+Some people also whisper around to confirmed claims to share their perception of suspicious claims.</p>
+<p>I disagree that whispers are completely non-existent in the current meta. And IIRC the MM only has 2 birds? So the MM needs a really good fortuneteller to know when it matters and activate it ahead of time.</p>
+<p>Again I don’t believe most people are not whispering because they fear the MM listening in. I think the public claim meta is what keeps most players posting publicly and not resort to whispers.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/82">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/82</link>
+        <pubDate>Fri, 04 Sep 2020 08:17:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-83299-82</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299.rss">Patch v3.0.0: Major Balance / 中文 Chinese Localization</source>
+      </item>
+      <item>
+        <title>Patch v3.0.0: Major Balance / 中文 Chinese Localization</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <h2>Added (v3.0.0-x7)</h2>
+<ul>
+<li>Sorcerer’s “You sensed something was off” feedback has returned.</li>
+<li>Fixed Chrono’s <em>Pocket Dimension</em> not working when you die from a bleed when you use <em>Time Warp</em> at night.</li>
+<li>Better status syncing between masters to prevent weirdness.</li>
+<li>TryphonX added some stuff to patch notes (you’ll need to find it - sorry <img src="https://forum.throneoflies.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> )</li>
+</ul>
+<h2>Added (v3.0.0-x8)</h2>
+<ul>
+<li>Fixed the freeze if you hung out at the end screen for too long.</li>
+<li>…I don’t have time for this anymore, just editing into patch notes ;p</li>
+</ul>
+          <p><a href="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/81">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/81</link>
+        <pubDate>Mon, 31 Aug 2020 15:31:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-83299-81</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299.rss">Patch v3.0.0: Major Balance / 中文 Chinese Localization</source>
+      </item>
+      <item>
+        <title>Patch v3.0.0: Major Balance / 中文 Chinese Localization</title>
+        <dc:creator><![CDATA[Yattien]]></dc:creator>
+        <description><![CDATA[
+            <p>EDIT: Rephrasing this start part: Unless you can find a way to balance whispers so that you have them used but not abused, remove whispers altogether.</p>
+<p>This just sets the game back to the various metas that, as I said, prevented a lot of peoples actual participation in the game. We removed the Mystics private whispers because it was abused and turned the game into a single player game. Birds was added in the first place to try and stop WKM. And now you’re going backwards. And I’m tired of seeing this game go backwards instead of forward. We’re going back to a game that is a wall of pink text with the king voting someone up with no context and just saying “exe”.</p>
+<p>You can’t really refuse to participate in it either, as inevitably it becomes the norm and if you refuse you are upped and exed. If enough people do manage to refuse and maintain a balance then good for them but we’ve seen from the past that this doesn’t happen.</p>
+<p>Though as I phrased it on Discord:</p>
+<blockquote>
+<p>Can this game never actually go forward and do new things, rather than repeating the mistakes of the past or rehashing the same old stuff?</p>
+</blockquote>
+<p>Edited this a lot due to bad phrasing and being more aggressive than intended.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/80">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/80</link>
+        <pubDate>Mon, 31 Aug 2020 11:17:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-83299-80</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299.rss">Patch v3.0.0: Major Balance / 中文 Chinese Localization</source>
+      </item>
+      <item>
+        <title>Patch v3.0.0: Major Balance / 中文 Chinese Localization</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>Like</p>
+<p>At no point has it ever been impossible to not abuse whispers</p>
+<p>Yet it always happens anyways</p>
+<p>Clearly player engagement is not the most critical factor</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/79">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/79</link>
+        <pubDate>Mon, 31 Aug 2020 02:06:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-83299-79</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299.rss">Patch v3.0.0: Major Balance / 中文 Chinese Localization</source>
+      </item>
+      <item>
+        <title>Patch v3.0.0: Major Balance / 中文 Chinese Localization</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>The issue is that removing that engagement <em>is</em> basically the appeal of the strategy</p>
+<p>Reducing a complex problem to a simpler one</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/78">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/78</link>
+        <pubDate>Mon, 31 Aug 2020 02:05:33 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-83299-78</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299.rss">Patch v3.0.0: Major Balance / 中文 Chinese Localization</source>
+      </item>
+      <item>
+        <title>Patch v3.0.0: Major Balance / 中文 Chinese Localization</title>
+        <dc:creator><![CDATA[Napoleon]]></dc:creator>
+        <description><![CDATA[
+            <p>Considering how VFR meta is more engaging for most people - I don’t think we will see a jump towards WKM</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/77">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/77</link>
+        <pubDate>Sun, 30 Aug 2020 23:14:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-83299-77</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299.rss">Patch v3.0.0: Major Balance / 中文 Chinese Localization</source>
+      </item>
+      <item>
+        <title>Patch v3.0.0: Major Balance / 中文 Chinese Localization</title>
+        <dc:creator><![CDATA[Yattien]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote group-Admin" data-username="í42-Xblade" data-post="1" data-topic="83299">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/%C3%AD42-xblade/40/2827_2.png" class="avatar"> í42-Xblade:</div>
+<blockquote>
+<p>It has come to the point where a Mastermind isn’t even required to use his ability or even spawn for players to still be terrified of it’s strength. As such, we would like to see how the game fares without the paranoia and limitations created by this singular ability.</p>
+</blockquote>
+</aside>
+<p>We know how the game fares without it…it’s been removed and added about 5 times. We always end up with WKM which ends up boring for everyone but the King and/or Prince as all the information filters through the King. I’ve not played in a good while again but to be honest, looking in and finding this is being discussed/removed <em>again</em> is a little sad.</p>
+<p><em>Edit</em> - I <em>might</em> be wrong on how many times it’s been removed and added again, it just feels as though the constant meta’s for the game is WKM or whatever they called the one going down the list cos they couldn’t whisper anymore. Both create boring game play.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/76">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/76</link>
+        <pubDate>Sun, 30 Aug 2020 21:43:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-83299-76</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299.rss">Patch v3.0.0: Major Balance / 中文 Chinese Localization</source>
+      </item>
+      <item>
+        <title>Patch v3.0.0: Major Balance / 中文 Chinese Localization</title>
+        <dc:creator><![CDATA[orangeandblack5]]></dc:creator>
+        <description><![CDATA[
+            <p>Arguably it doesn’t work that well in non-turbo either</p>
+<p>It’s marginally better than modkills when phases are longer but it starts to cone with its own downsides when people can replace in while having spectated</p>
+<p>So I’ll grant it’s probably not better than modkills in turbos but it’s not really “good” anywhere</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/75">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/75</link>
+        <pubDate>Tue, 25 Aug 2020 16:41:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-83299-75</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299.rss">Patch v3.0.0: Major Balance / 中文 Chinese Localization</source>
+      </item>
+      <item>
+        <title>Patch v3.0.0: Major Balance / 中文 Chinese Localization</title>
+        <dc:creator><![CDATA[Napoleon]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Jane" data-post="72" data-topic="83299" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/jane/40/32683_2.png" class="avatar"> Jane:</div>
+<blockquote>
+<p>Probably a bad suggestion, but can’t you make a sort of replacement system like we have here?</p>
+<p>Like, pull someone from a queue (who isn’t in a party) into the game?</p>
+</blockquote>
+</aside>
+<p>It doesn’t work that well in a turbo game</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/74">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/74</link>
+        <pubDate>Tue, 25 Aug 2020 16:19:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-83299-74</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299.rss">Patch v3.0.0: Major Balance / 中文 Chinese Localization</source>
+      </item>
+      <item>
+        <title>Patch v3.0.0: Major Balance / 中文 Chinese Localization</title>
+        <dc:creator><![CDATA[Soulshade55r]]></dc:creator>
+        <description><![CDATA[
+            <p>That would be absurdly annoying to alot of players and have the same issues with reconnecting (I’m pretty sure).</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/73">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/73</link>
+        <pubDate>Tue, 25 Aug 2020 15:42:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-83299-73</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299.rss">Patch v3.0.0: Major Balance / 中文 Chinese Localization</source>
+      </item>
+      <item>
+        <title>Patch v3.0.0: Major Balance / 中文 Chinese Localization</title>
+        <dc:creator><![CDATA[Jane]]></dc:creator>
+        <description><![CDATA[
+            <p>Probably a bad suggestion, but can’t you make a sort of replacement system like we have here?</p>
+<p>Like, pull someone from a queue (who isn’t in a party) into the game?</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/72">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/72</link>
+        <pubDate>Tue, 25 Aug 2020 15:27:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-83299-72</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299.rss">Patch v3.0.0: Major Balance / 中文 Chinese Localization</source>
+      </item>
+      <item>
+        <title>Patch v3.0.0: Major Balance / 中文 Chinese Localization</title>
+        <dc:creator><![CDATA[Soulshade55r]]></dc:creator>
+        <description><![CDATA[
+            <p>If it causes more problems then it’s worth then fair enough It is something I miss because of sometimes having bad connection but honestly most of the time it’s going to be fine</p>
+<p>While not a direct balance change I do think it will have a positive outcome on games.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/71">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/71</link>
+        <pubDate>Tue, 25 Aug 2020 15:26:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-83299-71</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299.rss">Patch v3.0.0: Major Balance / 中文 Chinese Localization</source>
+      </item>
+      <item>
+        <title>Patch v3.0.0: Major Balance / 中文 Chinese Localization</title>
+        <dc:creator><![CDATA[í42-Xblade]]></dc:creator>
+        <description><![CDATA[
+            <p>Unfortunately, reconnection will <em>never</em> return - which is why so many games don’t support it. It’s like coding the entire game twice, and opens up to soo many exploits/bugs. Even with my experience, I’ll leave reconnection to the AAA studios (although even Borderlands couldn’t do it). I’d have to have already known how to r/c and build the game with it in mind from the very beginning (not later). It’s like building a 60-story building, then deciding you want your 50th story to be 50% higher <em>after</em> it’s built.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/70">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/70</link>
+        <pubDate>Tue, 25 Aug 2020 15:20:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-83299-70</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299.rss">Patch v3.0.0: Major Balance / 中文 Chinese Localization</source>
+      </item>
+      <item>
+        <title>Patch v3.0.0: Major Balance / 中文 Chinese Localization</title>
+        <dc:creator><![CDATA[Soulshade55r]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks this has been a issue for a long time I hate games where I get unseen/cult and Mastermind or Cult leader dc’s and literally cannot have any converts until n3.</p>
+<p>I do wish reconnecting would come back because I’ve been randomly dc’d by the servers but this is actually a great change that will help lessen evils (or even bd) getting screwed over by a random dc.</p>
+          <p><a href="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/69">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299/69</link>
+        <pubDate>Tue, 25 Aug 2020 15:11:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-83299-69</guid>
+        <source url="https://forum.throneoflies.com/t/patch-v3-0-0-major-balance-chinese-localization/83299.rss">Patch v3.0.0: Major Balance / 中文 Chinese Localization</source>
+      </item>
+  </channel>
+</rss>

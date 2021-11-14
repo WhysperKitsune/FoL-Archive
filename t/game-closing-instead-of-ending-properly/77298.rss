@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Game Closing instead of ending properly</title>
+    <link>https://forum.throneoflies.com/t/game-closing-instead-of-ending-properly/77298</link>
+    <description>#### What happened?
+At the end of the game, I got immediately sent to the end screen, and got rewarded 38 gold, and a chat message at the bottom said simply the game was closed. This skipped the part where I would be able to MVP people, and it didn&#39;t show any of the participants, so I could not report anyone.
+
+![image|489x499](upload://ban8HfKxH7F7T7eYrDz2tu9KlV2.jpeg) 
+
+![image|324x500](upload://1wV7G9eJKa4rKlaXc0tDUB6Sv6q.jpeg) 
+
+#### What was SUPPOSED to happen?
+The game was supposed to end normally, with BD having won, and I was supposed to be given a chance to mvp people before being given the gold for winning, and then I should have gotten to a screen showing who all the players were and who the three MVPs were. As this was a double gold weekend, I should have gotten 150 gold, not 38.
+
+#### Steps to reproduce:
+Win the game as mystic against unseen and reaper while playing as mystic and surviving until the end.
+
+#### Comments:
+This is the second time this has happened to me. It does not happen most games, and I don&#39;t know exactly what the conditions are for this happening. I never encountered this problem before the recent king rework.</description>
+    
+    <lastBuildDate>Mon, 22 Jul 2019 09:56:43 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forum.throneoflies.com/t/game-closing-instead-of-ending-properly/77298.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Game Closing instead of ending properly</title>
+        <dc:creator><![CDATA[Navi]]></dc:creator>
+        <description><![CDATA[
+            <p>Just had this happen to me. Pretty much the same thing as OP happened to me.<br>
+After it happened I alt-F4ed.</p>
+<p><a class="attachment" href="/uploads/short-url/h0gDmCZIoEIdiJrOtf0ju5o49tw.txt">output_log.txt</a> (469.1 KB)</p>
+<p>EDIT: Happened again. Both times this has happened my game has been running very slowly</p>
+<p><a class="attachment" href="/uploads/short-url/d5DpdEfniV8LObA1N3oGhpaIy8C.txt">output_log.txt</a> (1000.8 KB)</p>
+          <p><a href="https://forum.throneoflies.com/t/game-closing-instead-of-ending-properly/77298/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/game-closing-instead-of-ending-properly/77298/4</link>
+        <pubDate>Mon, 22 Jul 2019 05:44:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-77298-4</guid>
+        <source url="https://forum.throneoflies.com/t/game-closing-instead-of-ending-properly/77298.rss">Game Closing instead of ending properly</source>
+      </item>
+      <item>
+        <title>Game Closing instead of ending properly</title>
+        <dc:creator><![CDATA[zarock]]></dc:creator>
+        <description><![CDATA[
+            <p>I have reopened my game many times since this has happened. The bug has not reoccurred for me since then.</p>
+          <p><a href="https://forum.throneoflies.com/t/game-closing-instead-of-ending-properly/77298/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/game-closing-instead-of-ending-properly/77298/3</link>
+        <pubDate>Tue, 02 Jul 2019 02:44:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-77298-3</guid>
+        <source url="https://forum.throneoflies.com/t/game-closing-instead-of-ending-properly/77298.rss">Game Closing instead of ending properly</source>
+      </item>
+      <item>
+        <title>Game Closing instead of ending properly</title>
+        <dc:creator><![CDATA[Navi]]></dc:creator>
+        <description><![CDATA[
+            <p>Have you reopened the game since this has happened? If not your logs should still be available on your pc here:</p>
+<p>On Windows:</p>
+<blockquote>
+<p>%userprofile%\appdata\LocalLow\Imperium42 Game Studio\Throne of Lies\output_log.txt</p>
+</blockquote>
+<p>On Mac:</p>
+<blockquote>
+<p>~/Library/Logs/Unity/Player.log</p>
+</blockquote>
+<p>On Linux</p>
+<blockquote>
+<p>~/.config/unity3d/Imperium42 Game Studio/Throne of Lies/Player.log</p>
+</blockquote>
+<p>If you can copy them and upload them here, that should help the devs find the problem. If you have opened the game since then they may have been overwritten, so you’ll have to wait for the bug to happen again before uploading them.</p>
+          <p><a href="https://forum.throneoflies.com/t/game-closing-instead-of-ending-properly/77298/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/game-closing-instead-of-ending-properly/77298/2</link>
+        <pubDate>Tue, 02 Jul 2019 01:47:15 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-77298-2</guid>
+        <source url="https://forum.throneoflies.com/t/game-closing-instead-of-ending-properly/77298.rss">Game Closing instead of ending properly</source>
+      </item>
+      <item>
+        <title>Game Closing instead of ending properly</title>
+        <dc:creator><![CDATA[zarock]]></dc:creator>
+        <description><![CDATA[
+            <h4>What happened?</h4>
+<p>At the end of the game, I got immediately sent to the end screen, and got rewarded 38 gold, and a chat message at the bottom said simply the game was closed. This skipped the part where I would be able to MVP people, and it didn’t show any of the participants, so I could not report anyone.</p>
+<p><img src="/uploads/default/original/2X/4/4e4418e2731c91a250e68f710105fdfe6421f5c4.jpeg" alt="image" data-base62-sha1="ban8HfKxH7F7T7eYrDz2tu9KlV2" width="489" height="499"></p>
+<p><img src="/uploads/default/original/2X/0/0abadc92cbecf10f933196e35e56ce0fb49fe29a.jpeg" alt="image" data-base62-sha1="1wV7G9eJKa4rKlaXc0tDUB6Sv6q" width="324" height="500"></p>
+<h4>What was SUPPOSED to happen?</h4>
+<p>The game was supposed to end normally, with BD having won, and I was supposed to be given a chance to mvp people before being given the gold for winning, and then I should have gotten to a screen showing who all the players were and who the three MVPs were. As this was a double gold weekend, I should have gotten 150 gold, not 38.</p>
+<h4>Steps to reproduce:</h4>
+<p>Win the game as mystic against unseen and reaper while playing as mystic and surviving until the end.</p>
+<h4>Comments:</h4>
+<p>This is the second time this has happened to me. It does not happen most games, and I don’t know exactly what the conditions are for this happening. I never encountered this problem before the recent king rework.</p>
+          <p><a href="https://forum.throneoflies.com/t/game-closing-instead-of-ending-properly/77298/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/game-closing-instead-of-ending-properly/77298/1</link>
+        <pubDate>Sun, 30 Jun 2019 22:17:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-77298-1</guid>
+        <source url="https://forum.throneoflies.com/t/game-closing-instead-of-ending-properly/77298.rss">Game Closing instead of ending properly</source>
+      </item>
+  </channel>
+</rss>

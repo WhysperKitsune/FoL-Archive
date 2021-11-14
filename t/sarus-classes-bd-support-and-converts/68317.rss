@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Saru&#39;s Classes - BD Support and Converts</title>
+    <link>https://forum.throneoflies.com/t/sarus-classes-bd-support-and-converts/68317</link>
+    <description>So yeah, here&#39;s the final part of my BD classes. So far I have a support based on patronage, a bard, a magitech/hextech-like inventor, an attempt to recreate the Priest without its past issues of being boring and having no skill involved while also being too strong, and finally a more thematic version of FoL&#39;s Squire with a few of my touches added in order to solve the night immunity vs. dying night 1 dilemma.
+
+
+&gt; # [color = &quot;steblue&quot;] The Bard [/color] 
+&gt; **[color = &quot;steblue&quot;] Blue Dragon Support [/color]** 
+**Pure Wits (Day)** - For the day the Bard will be immune to Troll Box, Chill, and Distract. In the coming night the Bard will be immune to being occupied at night and immune to target changing. - 3 uses 
+**Crescendo (Night)** - If the Bard’s target is redirecting, occupying, or attacking, then they will bypass immunities during this night. - Infinite uses 
+**Allegro (Night)** - For this night, the Bard’s target will be healed from Bleeding and Poison and gain both occupation immunity and night immunity. - 2 uses 
+*Defeat the Unseen or Cult and any neutrals that seek to do you harm.*
+
+Converts to:
+&gt; # [color = &quot;purple&quot;] The Minstrel [/color] 
+&gt; **[color = &quot;purple&quot;] Unseen Support [/color]** 
+**Silvertongue (Passive)** - The Minstrel will appear as Blue Dragon for faction checks.
+**Pure Wits (Day)** - For the day the Minstrel will be immune to Troll Box, Chill, and Distract. In the coming night the Minstrel will be immune to being occupied at night and immune to target changing. - 3 uses 
+**Ballad (Night)** - Select an Unseen player and for this night, the Minstrel’s target will be shown as Blue Dragon for faction checks. - Infinite uses 
+**Crescendo (Night)** - If the Minstrel’s target is redirecting, occupying, or attacking, then they will bypass immunities and preventions during this night. - 2 uses 
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*
+----
+&gt; # [color = &quot;steblue&quot;] The Eccentric [/color] 
+&gt; **[color = &quot;steblue&quot;] Blue Dragon Support [/color]** 
+**Royal Blood (Passive)** - As a Royal, you can put your name forward for nominations to become the next King.
+**Magus/Steam Field (Day)** - The Eccentric deploys a M/S Field around them, giving them night immunity for this night. - 2 uses 
+**Magus/Steam Golem (Night)** - Sends out a M/S Golem to guard the Eccentric’s target player, giving them night immunity for this night. - Infinite uses 
+**Magus/Steam Mirror (Night)** - The Eccentric puts outs a M/S Mirror on their target’s room, causing any player visiting them to visit themselves and also bypasses redirection immunity. - 2 uses 
+*Defeat the Unseen or Cult and any neutrals that seek to do you harm.*
+
+Converts to:
+&gt; # [color = &quot;purple&quot;] The Lunatic [/color] 
+&gt; **[color = &quot;purple&quot;] Unseen Offensive [/color]** 
+**Royal Blood (Passive)** - As a Royal, you can put your name forward for nominations to become the next King.
+**Magus/Steam Pulse (Day)** - The Lunatic releases a M/S Pulse around a chosen member of the Unseen, causing all players who visit them to be prevented from visited and occupied for the next night. - 2 uses 
+**Magus/Steam Irradiator (Night)** - Sends out a M/S Irradiator to a target, preventing any healing on them this night. Cannot be used on the same target twice in a row. - Infinite uses 
+**Magus/Steam Explosive (Night)** - The Lunatic gives the Assassin a M/S Explosive, causing them to kill all players who visit their target in addition to their target. - 1 use 
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*
+---------------
+&gt; # [color = &quot;steblue&quot;] The Priestess [/color] 
+&gt; **[color = &quot;steblue&quot;] Blue Dragon Support [/color]** 
+**Confession (Day)** - If a Blue Dragon-aligned player is executed this day then for the coming night they cannot use dead chat and will be informed that Confession was used, but they can be revived via Forgiveness. - Two uses 
+**Ressurection (Day)** - If the Priestess dies the following night, then they will automatically resurrect themselves in the next night. In between death and resurrection, the Priestess cannot use dead chat. The Reaper’s Reap and the Possessor’s Possess bypasses Resurrection. - 1 use 
+**Bind Soul (Night)** - If the targeted player dies this night, then they will be resurrected the next night provided that they are not a member of the Unseen or the Cult. If the player was killed while their soul was bound, they will be notified. In between death and resurrection, the player cannot use dead chat. The Reaper’s Reap and the Possessor’s Possess bypasses Bind Soul. - Infinite uses 
+**Forgiveness (Night)** - If a Blue Dragon-aligned player was executed during the previous day and Confession was used, then the Priestess can resurrect them. - One uses 
+*Defeat the Unseen or Cult and any neutrals that seek to do you harm.*
+
+Converts to:
+&gt; # [color = &quot;purple&quot;] The Pardoner [/color] 
+&gt; **[color = &quot;purple&quot;] Unseen Support [/color]** 
+**Patience (Passive)** - While an Unseen player remains in limbo, then the Mastermind cannot convert nor will any promotions happen as the player in limbo will be still considered alive.
+**Clemency (Day)** - If the Pardoner dies the following night, then they will flip as Priestess and then automatically resurrect themselves in the next night afterwards. In between death and resurrection, the Pardoner cannot use dead chat. The Reaper’s Reap and the Possessor’s Possess bypasses Clemency. - 2 uses 
+**Amnesty (Day)** - Selects an Unseen player and if they are executed during the day then they will flip a class of the Pardoner&#39;s choosing and for the coming night they cannot use dead chat and will be informed that Amnesty was used. - 1 uses 
+**Reincarnation (Night)** - Selects an Unseen player. If the targeted player dies this night, then they will flip a class chosen by the Pardoner. They will then be resurrected the next night. In between death and resurrection, the player cannot use dead chat. The Reaper’s Reap and the Possessor’s Possess bypasses Reincarnation. - Infinite uses 
+**Indulgence (Night)** - If the Pardoner successfully used Amnesty the previous day, then they can revive the executed Unseen player this night. - Infinite uses 
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*
+-----
+&gt; # [color = &quot;steblue&quot;] The Patron [/color] 
+&gt; **[color = &quot;steblue&quot;] Blue Dragon Support [/color]** 
+**Royal Blood (Passive)** - As a Royal, you can put your name forward for nominations to become the next King.
+**Emergency Funds (Day)** - If the Patron’s target has a limited usage ability with zero uses, then the Patron will give them an additional use. Does not work on the Prince and cannot target the King. - 2 uses 
+**Patronage (Night)** - If the Patron’s target uses a limited-usage ability this coming night, then they will not consume a use of it. - Infinite uses 
+*Defeat the Unseen or Cult and any neutrals that seek to do you harm.*
+
+Converts to:
+&gt; # [color = &quot;purple&quot;] The Auditor [/color] 
+&gt; **[color = &quot;purple&quot;] Unseen Offensive [/color]** 
+**Royal Blood (Passive)** - As a Royal, you can put your name forward for nominations to become the next King.
+**Black Market (Passive)** - Upon becoming the Assassin, the user will gain one additional use of 2-for-1 and two additional uses of Nightshade Poison.
+**Audit (Night)** - Checks if the Auditor’s target has the Royal Blood passive. If they have it then the target will not be able to step up during the Royalty phase while the Auditor is alive. - Infinite uses 
+**Confiscate (Night)** - If the target has any abilities with finite usage, then the Auditor will remove one usage from each of their abilities. - 3 uses 
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*
+
+----
+And finally, here&#39;s my take on FoL&#39;s Squire/Page. Skill names have been modified to add a more thematic feel to his skill names and also conditional immunity has been given in order to prevent issues such as they dying n1 while at the same time discouraging them from not remembering a class to keep the immunity.
+
+&gt; # [color = &quot;steblue&quot;] The Squire [/color] 
+&gt; **[color = &quot;steblue&quot;] Blue Dragon Support [/color]** 
+**Cowardice (Passive)** - Grants night immunity to the Squire for the first three nights or until the Squire remembers a class, whichever comes first.
+**Pick up the Mantle (Night)** - Allows the Squire to select a non-unique Blue Dragon-aligned class from the Graveyard. The Squire will change his class to the selected one by the end of the night. - Infinite uses 
+*Defeat the Unseen or Cult and any neutrals that seek to do you harm.*
+
+Converts to:
+&gt; # [color = &quot;purple&quot;] The Page [/color] 
+&gt; **[color = &quot;purple&quot;] Unseen Support [/color]** 
+**Innocent Youth (Passive)** - Causes the Page to appear as a member of the Blue Dragon to faction checks until they remember a class. When converted, the Mastermind&#39;s visit will not show to Scouts.
+**Ascending Villain (Night)** - Allows the Page to select a Blue Dragon-aligned class from the Graveyard. The Page in turn will become their Unseen equivalent by the end of the night. - Infinite uses 
+*Defeat the Blue Dragon and any neutrals that seek to do you harm.*</description>
+    
+    <lastBuildDate>Tue, 26 Jun 2018 01:42:59 +0000</lastBuildDate>
+    <category>Class/Lore/Fanfic</category>
+    <atom:link href="https://forum.throneoflies.com/t/sarus-classes-bd-support-and-converts/68317.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Saru&#39;s Classes - BD Support and Converts</title>
+        <dc:creator><![CDATA[Planterror]]></dc:creator>
+        <description><![CDATA[
+            <p>The minstrel seems like a powerful convert though, a convert that can’t be found as unseen.<br>
+<s>oh my god social deduction so hard</s></p>
+          <p><a href="https://forum.throneoflies.com/t/sarus-classes-bd-support-and-converts/68317/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sarus-classes-bd-support-and-converts/68317/11</link>
+        <pubDate>Tue, 26 Jun 2018 01:42:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-68317-11</guid>
+        <source url="https://forum.throneoflies.com/t/sarus-classes-bd-support-and-converts/68317.rss">Saru&#39;s Classes - BD Support and Converts</source>
+      </item>
+      <item>
+        <title>Saru&#39;s Classes - BD Support and Converts</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <p>Err, care to word your question in a more lucid manner?</p>
+<p>If you’re asking about the order of skill activations, resurrections would work as a last resort. The current order of night actions is:</p>
+<ol>
+<li>Occupation, Redirection, Guard;</li>
+<li>Attacks;</li>
+<li>Healing;</li>
+<li>Investigative abilities;</li>
+<li>Conversion.</li>
+</ol>
+<p>In short, first the game will check if the target is being guarded by a Knight. If not then they’ll check if they are night immune. If not then they’ll check if they are being healed. If not then if Bind Soul or Reincarnation is used on the target then it’s effect will be activated. Basically, the Priestess is a last line of defense for a target.</p>
+          <p><a href="https://forum.throneoflies.com/t/sarus-classes-bd-support-and-converts/68317/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sarus-classes-bd-support-and-converts/68317/10</link>
+        <pubDate>Mon, 25 Jun 2018 23:27:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-68317-10</guid>
+        <source url="https://forum.throneoflies.com/t/sarus-classes-bd-support-and-converts/68317.rss">Saru&#39;s Classes - BD Support and Converts</source>
+      </item>
+      <item>
+        <title>Saru&#39;s Classes - BD Support and Converts</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <p>Wait.</p>
+<p>Physician this dude v assassin</p>
+          <p><a href="https://forum.throneoflies.com/t/sarus-classes-bd-support-and-converts/68317/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sarus-classes-bd-support-and-converts/68317/9</link>
+        <pubDate>Mon, 25 Jun 2018 23:12:33 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-68317-9</guid>
+        <source url="https://forum.throneoflies.com/t/sarus-classes-bd-support-and-converts/68317.rss">Saru&#39;s Classes - BD Support and Converts</source>
+      </item>
+      <item>
+        <title>Saru&#39;s Classes - BD Support and Converts</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <blockquote>
+<p>But the dead BD player should still be able to see dead chat they just can’t use it</p>
+</blockquote>
+<p>Not being able to use dead chat means neither typing nor being able to see messages. Essentially, when a player dies with their soul binded or given Clemency provided they’re BD, they don’t count as technically dead and are instead stuck in a state of limbo. Albeit Clemency only lasts until the following night and if the player is not revived via Forgiveness the coming night then they will die for real and are able to use dead chat. In short, this is less of a resurrection and more of a delayed healing as true resurrections such as the old Priest is a mechanic extremely detrimental to game balance.</p>
+<blockquote>
+<p>the player probably won’t stay to be resurrected.</p>
+</blockquote>
+<blockquote>
+<p>Confession (Day) - If a Blue Dragon-aligned player is executed this day then for the coming night they cannot use dead chat and <strong>will be informed that Confession was used</strong>, but they can be revived via Forgiveness. - Two uses</p>
+</blockquote>
+<blockquote>
+<p>Bind Soul (Night) - If the targeted player dies this night, then they will be resurrected the next night provided that they are not a member of the Unseen or the Cult. <strong>If the player was killed while their soul was bound, they will be notified.</strong> In between death and resurrection, the player cannot use dead chat. The Reaper’s Reap and the Possessor’s Possess bypasses Bind Soul. - Infinite uses</p>
+</blockquote>
+<p>My design here is that if a player dies they will also be given a “You have been given clemency!” or “Your soul has been binded!” message in green text, similar to healing, as the next sentence after their death message. Since the player will be notified that they are now in limbo instead of being dead, there is no reason why they should leave.</p>
+<p>While pseudo-resurrection is still a mechanic, there is no dead interaction with this class at all which fits in with i42’s vision for the game.</p>
+          <p><a href="https://forum.throneoflies.com/t/sarus-classes-bd-support-and-converts/68317/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sarus-classes-bd-support-and-converts/68317/8</link>
+        <pubDate>Mon, 25 Jun 2018 23:10:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-68317-8</guid>
+        <source url="https://forum.throneoflies.com/t/sarus-classes-bd-support-and-converts/68317.rss">Saru&#39;s Classes - BD Support and Converts</source>
+      </item>
+      <item>
+        <title>Saru&#39;s Classes - BD Support and Converts</title>
+        <dc:creator><![CDATA[Htm]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Alice" data-post="6" data-topic="68317">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/alice/40/32176_2.png" class="avatar"> Alice:</div>
+<blockquote>
+<blockquote>
+<p>No death interaction plz</p>
+</blockquote>
+<p>They won’t be able to interact with the dead because:</p>
+<blockquote>
+<p>Confession (Day) - If a Blue Dragon-aligned player is executed this day <strong>then for the coming night they cannot use dead chat and will be informed that Confession was used</strong> , but they can be revived via Forgiveness. - Two uses</p>
+</blockquote>
+<p>Plus, this ability relies on the Priestess correctly predicting that the court would execute a Blue Dragon as it only has two uses and so in one of its uses they must use Confession during the day.</p>
+</blockquote>
+</aside>
+<p>But the dead BD player should still be able to see dead chat they just can’t use it</p>
+<aside class="quote no-group" data-username="Htm" data-post="2" data-topic="68317">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/htm/40/20871_2.png" class="avatar"> Htm:</div>
+<blockquote>
+<p>the player probably won’t stay to be resurrected.</p>
+</blockquote>
+</aside>
+<p>And also this is a big problem with the Priestess</p>
+          <p><a href="https://forum.throneoflies.com/t/sarus-classes-bd-support-and-converts/68317/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sarus-classes-bd-support-and-converts/68317/7</link>
+        <pubDate>Mon, 25 Jun 2018 20:28:25 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-68317-7</guid>
+        <source url="https://forum.throneoflies.com/t/sarus-classes-bd-support-and-converts/68317.rss">Saru&#39;s Classes - BD Support and Converts</source>
+      </item>
+      <item>
+        <title>Saru&#39;s Classes - BD Support and Converts</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Htm" data-post="2" data-topic="68317">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/htm/40/20871_2.png" class="avatar"> Htm:</div>
+<blockquote>
+<p>No death interaction plz</p>
+</blockquote>
+</aside>
+<p>They won’t be able to interact with the dead because:</p>
+<blockquote>
+<p>Confession (Day) - If a Blue Dragon-aligned player is executed this day <strong>then for the coming night they cannot use dead chat and will be informed that Confession was used</strong>, but they can be revived via Forgiveness. - Two uses</p>
+</blockquote>
+<p>Plus, this ability relies on the Priestess correctly predicting that the court would execute a Blue Dragon as it only has two uses and so in one of its uses they must use Confession during the day.</p>
+<aside class="quote no-group" data-username="Htm" data-post="2" data-topic="68317">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/htm/40/20871_2.png" class="avatar"> Htm:</div>
+<blockquote>
+<p>Especially this one, resurrection is kind of OP and the player probably won’t stay to be resurrected. Also this class isn’t unique</p>
+</blockquote>
+</aside>
+<blockquote>
+<p>Confession (Day) - If a Blue Dragon-aligned player is executed this day then for the coming night they <strong>cannot use dead chat and will be informed that Confession was used</strong>, but they can be revived via Forgiveness. - Two uses</p>
+</blockquote>
+<blockquote>
+<p>Bind Soul (Night) - If the targeted player dies this night, then they will be resurrected the next night provided that they are not a member of the Unseen or the Cult. <strong>If the player was killed while their soul was bound, they will be notified. In between death and resurrection, the player cannot use dead chat.</strong> The Reaper’s Reap and the Possessor’s Possess bypasses Bind Soul. - Infinite uses</p>
+</blockquote>
+<p>Again, the Priestess has no dead interaction and this is not exactly a resurrection per-se and rather puts the “dead” player in a state of limbo. In order to resurrect a player via Forgiveness, the Priestess needs to be able to correctly predict if the person executed during the day is a member of the Blue Dragon, and she only has 2 shots to do it as Confession does not have unlimited uses.</p>
+<p>If the Priestess wants to revive a player via Bind Soul, then she must correctly predict who is going to be attacked. This is roughly the same town-reading done by Physicians and Knight to predict who the Assassin/CL/NK is going to attack.</p>
+<p>In short, this is less of the old Priest/ToS Retributionist and more of a protective class with a different flavor.</p>
+<blockquote>
+<p>confirmable</p>
+</blockquote>
+<p>This basically requires the Priestess to pull off a proper resurrection in order for her to confirm herself. It’ll be very likely for an unskilled/unlucky Priestess to never get a resurrection off the entire game. Even than in Unseen games, a Pardoner would be more likely to pull a reincarnation off than a Priestess so a revived player wouldn’t necessarily be 100% confirmed at times, especially because of the game’s conversion element.</p>
+<blockquote>
+<p>This could really OP<br>
+Minstrel, if converted before the MM’s BD veil goes away could be OP. Minstrel targets assassin, MM appears as BD, Minstrel appears as BD<br>
+Meaning all of the Unseen are disguised and it’s infinite uses.</p>
+</blockquote>
+<p>This would have two nights most where the Unseen is fully disguised. The Minstrel will only be able to use Ballad after he’s converted, ergo not in n1, and the MM is shown as Unseen after n3. So assuming the Minstrel was converted the earliest possible, then the Unseen will have only 2 nights of being fully disguised, which would technically be the same as the usage of Dark Wisp. Even then, we still have the new Investigative empower to counter abilities like this and it’s still possible to find the MM and the Assassin via social deduction or mechanic confirmation.</p>
+<blockquote>
+<p>So basically like a stronger frenzy</p>
+</blockquote>
+<p>A weaker one that also works with offensive classes. Crescendo doesn’t bypass healing or Knights. Sages and Enforcers still do a better job than the Minstrel at killing outed Princes.</p>
+          <p><a href="https://forum.throneoflies.com/t/sarus-classes-bd-support-and-converts/68317/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sarus-classes-bd-support-and-converts/68317/6</link>
+        <pubDate>Mon, 25 Jun 2018 20:16:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-68317-6</guid>
+        <source url="https://forum.throneoflies.com/t/sarus-classes-bd-support-and-converts/68317.rss">Saru&#39;s Classes - BD Support and Converts</source>
+      </item>
+      <item>
+        <title>Saru&#39;s Classes - BD Support and Converts</title>
+        <dc:creator><![CDATA[Htm]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Alice" data-post="1" data-topic="68317">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/alice/40/32176_2.png" class="avatar"> Alice:</div>
+<blockquote>
+<p><strong>Crescendo (Night)</strong> - If the Minstrel’s target is redirecting, occupying, or attacking, then they will bypass immunities and preventions during this night. - 2 uses</p>
+</blockquote>
+</aside>
+<p>So basically like a stronger frenzy</p>
+          <p><a href="https://forum.throneoflies.com/t/sarus-classes-bd-support-and-converts/68317/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sarus-classes-bd-support-and-converts/68317/5</link>
+        <pubDate>Mon, 25 Jun 2018 16:37:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-68317-5</guid>
+        <source url="https://forum.throneoflies.com/t/sarus-classes-bd-support-and-converts/68317.rss">Saru&#39;s Classes - BD Support and Converts</source>
+      </item>
+      <item>
+        <title>Saru&#39;s Classes - BD Support and Converts</title>
+        <dc:creator><![CDATA[Htm]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Alice" data-post="1" data-topic="68317">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/alice/40/32176_2.png" class="avatar"> Alice:</div>
+<blockquote>
+<p><strong>Ballad (Night)</strong> - Select an Unseen player and for this night, the Minstrel’s target will be shown as Blue Dragon for faction checks. - Infinite uses</p>
+</blockquote>
+</aside>
+<p>This could really OP</p>
+<p>Minstrel, if converted before the MM’s BD veil goes away could be OP. Minstrel targets assassin, MM appears as BD, Minstrel appears as BD</p>
+<p>Meaning all of the Unseen are disguised and it’s infinite uses.</p>
+          <p><a href="https://forum.throneoflies.com/t/sarus-classes-bd-support-and-converts/68317/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sarus-classes-bd-support-and-converts/68317/4</link>
+        <pubDate>Mon, 25 Jun 2018 16:36:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-68317-4</guid>
+        <source url="https://forum.throneoflies.com/t/sarus-classes-bd-support-and-converts/68317.rss">Saru&#39;s Classes - BD Support and Converts</source>
+      </item>
+      <item>
+        <title>Saru&#39;s Classes - BD Support and Converts</title>
+        <dc:creator><![CDATA[Firekitten]]></dc:creator>
+        <description><![CDATA[
+            <ul>
+<li>confirmable</li>
+</ul>
+          <p><a href="https://forum.throneoflies.com/t/sarus-classes-bd-support-and-converts/68317/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sarus-classes-bd-support-and-converts/68317/3</link>
+        <pubDate>Mon, 25 Jun 2018 16:36:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-68317-3</guid>
+        <source url="https://forum.throneoflies.com/t/sarus-classes-bd-support-and-converts/68317.rss">Saru&#39;s Classes - BD Support and Converts</source>
+      </item>
+      <item>
+        <title>Saru&#39;s Classes - BD Support and Converts</title>
+        <dc:creator><![CDATA[Htm]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Alice" data-post="1" data-topic="68317">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.throneoflies.com/user_avatar/forum.throneoflies.com/alice/40/32176_2.png" class="avatar"> Alice:</div>
+<blockquote>
+<p><strong>Forgiveness (Night)</strong> - If a Blue Dragon-aligned player was executed during the previous day and Confession was used, then the Priestess can resurrect them. - One uses</p>
+</blockquote>
+</aside>
+<p>No death interaction plz</p>
+<p>Especially this one, resurrection is kind of OP and the player probably won’t stay to be resurrected. Also this class isn’t unique</p>
+          <p><a href="https://forum.throneoflies.com/t/sarus-classes-bd-support-and-converts/68317/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sarus-classes-bd-support-and-converts/68317/2</link>
+        <pubDate>Mon, 25 Jun 2018 16:13:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-68317-2</guid>
+        <source url="https://forum.throneoflies.com/t/sarus-classes-bd-support-and-converts/68317.rss">Saru&#39;s Classes - BD Support and Converts</source>
+      </item>
+      <item>
+        <title>Saru&#39;s Classes - BD Support and Converts</title>
+        <dc:creator><![CDATA[Alice]]></dc:creator>
+        <description><![CDATA[
+            <p>So yeah, here’s the final part of my BD classes. So far I have a support based on patronage, a bard, a magitech/hextech-like inventor, an attempt to recreate the Priest without its past issues of being boring and having no skill involved while also being too strong, and finally a more thematic version of FoL’s Squire with a few of my touches added in order to solve the night immunity vs. dying night 1 dilemma.</p>
+<blockquote>
+<h1><font color="steblue"> The Bard </font></h1>
+<p><strong><font color="steblue"> Blue Dragon Support </font></strong><br>
+<strong>Pure Wits (Day)</strong> - For the day the Bard will be immune to Troll Box, Chill, and Distract. In the coming night the Bard will be immune to being occupied at night and immune to target changing. - 3 uses<br>
+<strong>Crescendo (Night)</strong> - If the Bard’s target is redirecting, occupying, or attacking, then they will bypass immunities during this night. - Infinite uses<br>
+<strong>Allegro (Night)</strong> - For this night, the Bard’s target will be healed from Bleeding and Poison and gain both occupation immunity and night immunity. - 2 uses<br>
+<em>Defeat the Unseen or Cult and any neutrals that seek to do you harm.</em></p>
+</blockquote>
+<p>Converts to:</p>
+<blockquote>
+<h1><font color="purple"> The Minstrel </font></h1>
+<p><strong><font color="purple"> Unseen Support </font></strong><br>
+<strong>Silvertongue (Passive)</strong> - The Minstrel will appear as Blue Dragon for faction checks.<br>
+<strong>Pure Wits (Day)</strong> - For the day the Minstrel will be immune to Troll Box, Chill, and Distract. In the coming night the Minstrel will be immune to being occupied at night and immune to target changing. - 3 uses<br>
+<strong>Ballad (Night)</strong> - Select an Unseen player and for this night, the Minstrel’s target will be shown as Blue Dragon for faction checks. - Infinite uses<br>
+<strong>Crescendo (Night)</strong> - If the Minstrel’s target is redirecting, occupying, or attacking, then they will bypass immunities and preventions during this night. - 2 uses<br>
+<em>Defeat the Blue Dragon and any neutrals that seek to do you harm.</em></p>
+</blockquote>
+<hr>
+<blockquote>
+<h1><font color="steblue"> The Eccentric </font></h1>
+<p><strong><font color="steblue"> Blue Dragon Support </font></strong><br>
+<strong>Royal Blood (Passive)</strong> - As a Royal, you can put your name forward for nominations to become the next King.<br>
+<strong>Magus/Steam Field (Day)</strong> - The Eccentric deploys a M/S Field around them, giving them night immunity for this night. - 2 uses<br>
+<strong>Magus/Steam Golem (Night)</strong> - Sends out a M/S Golem to guard the Eccentric’s target player, giving them night immunity for this night. - Infinite uses<br>
+<strong>Magus/Steam Mirror (Night)</strong> - The Eccentric puts outs a M/S Mirror on their target’s room, causing any player visiting them to visit themselves and also bypasses redirection immunity. - 2 uses<br>
+<em>Defeat the Unseen or Cult and any neutrals that seek to do you harm.</em></p>
+</blockquote>
+<p>Converts to:</p>
+<blockquote>
+<h1><font color="purple"> The Lunatic </font></h1>
+<p><strong><font color="purple"> Unseen Offensive </font></strong><br>
+<strong>Royal Blood (Passive)</strong> - As a Royal, you can put your name forward for nominations to become the next King.<br>
+<strong>Magus/Steam Pulse (Day)</strong> - The Lunatic releases a M/S Pulse around a chosen member of the Unseen, causing all players who visit them to be prevented from visited and occupied for the next night. - 2 uses<br>
+<strong>Magus/Steam Irradiator (Night)</strong> - Sends out a M/S Irradiator to a target, preventing any healing on them this night. Cannot be used on the same target twice in a row. - Infinite uses<br>
+<strong>Magus/Steam Explosive (Night)</strong> - The Lunatic gives the Assassin a M/S Explosive, causing them to kill all players who visit their target in addition to their target. - 1 use<br>
+<em>Defeat the Blue Dragon and any neutrals that seek to do you harm.</em></p>
+</blockquote>
+<hr>
+<blockquote>
+<h1><font color="steblue"> The Priestess </font></h1>
+<p><strong><font color="steblue"> Blue Dragon Support </font></strong><br>
+<strong>Confession (Day)</strong> - If a Blue Dragon-aligned player is executed this day then for the coming night they cannot use dead chat and will be informed that Confession was used, but they can be revived via Forgiveness. - Two uses<br>
+<strong>Ressurection (Day)</strong> - If the Priestess dies the following night, then they will automatically resurrect themselves in the next night. In between death and resurrection, the Priestess cannot use dead chat. The Reaper’s Reap and the Possessor’s Possess bypasses Resurrection. - 1 use<br>
+<strong>Bind Soul (Night)</strong> - If the targeted player dies this night, then they will be resurrected the next night provided that they are not a member of the Unseen or the Cult. If the player was killed while their soul was bound, they will be notified. In between death and resurrection, the player cannot use dead chat. The Reaper’s Reap and the Possessor’s Possess bypasses Bind Soul. - Infinite uses<br>
+<strong>Forgiveness (Night)</strong> - If a Blue Dragon-aligned player was executed during the previous day and Confession was used, then the Priestess can resurrect them. - One uses<br>
+<em>Defeat the Unseen or Cult and any neutrals that seek to do you harm.</em></p>
+</blockquote>
+<p>Converts to:</p>
+<blockquote>
+<h1><font color="purple"> The Pardoner </font></h1>
+<p><strong><font color="purple"> Unseen Support </font></strong><br>
+<strong>Patience (Passive)</strong> - While an Unseen player remains in limbo, then the Mastermind cannot convert nor will any promotions happen as the player in limbo will be still considered alive.<br>
+<strong>Clemency (Day)</strong> - If the Pardoner dies the following night, then they will flip as Priestess and then automatically resurrect themselves in the next night afterwards. In between death and resurrection, the Pardoner cannot use dead chat. The Reaper’s Reap and the Possessor’s Possess bypasses Clemency. - 2 uses<br>
+<strong>Amnesty (Day)</strong> - Selects an Unseen player and if they are executed during the day then they will flip a class of the Pardoner’s choosing and for the coming night they cannot use dead chat and will be informed that Amnesty was used. - 1 uses<br>
+<strong>Reincarnation (Night)</strong> - Selects an Unseen player. If the targeted player dies this night, then they will flip a class chosen by the Pardoner. They will then be resurrected the next night. In between death and resurrection, the player cannot use dead chat. The Reaper’s Reap and the Possessor’s Possess bypasses Reincarnation. - Infinite uses<br>
+<strong>Indulgence (Night)</strong> - If the Pardoner successfully used Amnesty the previous day, then they can revive the executed Unseen player this night. - Infinite uses<br>
+<em>Defeat the Blue Dragon and any neutrals that seek to do you harm.</em></p>
+</blockquote>
+<hr>
+<blockquote>
+<h1><font color="steblue"> The Patron </font></h1>
+<p><strong><font color="steblue"> Blue Dragon Support </font></strong><br>
+<strong>Royal Blood (Passive)</strong> - As a Royal, you can put your name forward for nominations to become the next King.<br>
+<strong>Emergency Funds (Day)</strong> - If the Patron’s target has a limited usage ability with zero uses, then the Patron will give them an additional use. Does not work on the Prince and cannot target the King. - 2 uses<br>
+<strong>Patronage (Night)</strong> - If the Patron’s target uses a limited-usage ability this coming night, then they will not consume a use of it. - Infinite uses<br>
+<em>Defeat the Unseen or Cult and any neutrals that seek to do you harm.</em></p>
+</blockquote>
+<p>Converts to:</p>
+<blockquote>
+<h1><font color="purple"> The Auditor </font></h1>
+<p><strong><font color="purple"> Unseen Offensive </font></strong><br>
+<strong>Royal Blood (Passive)</strong> - As a Royal, you can put your name forward for nominations to become the next King.<br>
+<strong>Black Market (Passive)</strong> - Upon becoming the Assassin, the user will gain one additional use of 2-for-1 and two additional uses of Nightshade Poison.<br>
+<strong>Audit (Night)</strong> - Checks if the Auditor’s target has the Royal Blood passive. If they have it then the target will not be able to step up during the Royalty phase while the Auditor is alive. - Infinite uses<br>
+<strong>Confiscate (Night)</strong> - If the target has any abilities with finite usage, then the Auditor will remove one usage from each of their abilities. - 3 uses<br>
+<em>Defeat the Blue Dragon and any neutrals that seek to do you harm.</em></p>
+</blockquote>
+<hr>
+<p>And finally, here’s my take on FoL’s Squire/Page. Skill names have been modified to add a more thematic feel to his skill names and also conditional immunity has been given in order to prevent issues such as they dying n1 while at the same time discouraging them from not remembering a class to keep the immunity.</p>
+<blockquote>
+<h1><font color="steblue"> The Squire </font></h1>
+<p><strong><font color="steblue"> Blue Dragon Support </font></strong><br>
+<strong>Cowardice (Passive)</strong> - Grants night immunity to the Squire for the first three nights or until the Squire remembers a class, whichever comes first.<br>
+<strong>Pick up the Mantle (Night)</strong> - Allows the Squire to select a non-unique Blue Dragon-aligned class from the Graveyard. The Squire will change his class to the selected one by the end of the night. - Infinite uses<br>
+<em>Defeat the Unseen or Cult and any neutrals that seek to do you harm.</em></p>
+</blockquote>
+<p>Converts to:</p>
+<blockquote>
+<h1><font color="purple"> The Page </font></h1>
+<p><strong><font color="purple"> Unseen Support </font></strong><br>
+<strong>Innocent Youth (Passive)</strong> - Causes the Page to appear as a member of the Blue Dragon to faction checks until they remember a class. When converted, the Mastermind’s visit will not show to Scouts.<br>
+<strong>Ascending Villain (Night)</strong> - Allows the Page to select a Blue Dragon-aligned class from the Graveyard. The Page in turn will become their Unseen equivalent by the end of the night. - Infinite uses<br>
+<em>Defeat the Blue Dragon and any neutrals that seek to do you harm.</em></p>
+</blockquote>
+          <p><a href="https://forum.throneoflies.com/t/sarus-classes-bd-support-and-converts/68317/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/sarus-classes-bd-support-and-converts/68317/1</link>
+        <pubDate>Mon, 25 Jun 2018 06:02:28 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-68317-1</guid>
+        <source url="https://forum.throneoflies.com/t/sarus-classes-bd-support-and-converts/68317.rss">Saru&#39;s Classes - BD Support and Converts</source>
+      </item>
+  </channel>
+</rss>

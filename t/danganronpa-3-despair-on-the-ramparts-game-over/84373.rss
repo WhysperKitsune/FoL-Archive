@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Danganronpa 3 - Despair on the Ramparts - Game Over</title>
+    <link>https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373</link>
+    <description>co-designed by @Jane
+co-hosted by @Trochilidae
+
+# Gameplay
+
+* Works similar to other misc/forum matches such as Sulit’s recent VLDR.
+* Fifteen players are selected as Participants, one is selected as the Mastermind.
+* Participants have two differing wincons. They either become a Blackened and survive the Class Trial, or they survive the Final Trial and expose the Mastermind. Throughout the game you can search around the castle for clues that can lead to the Mastermind or accessories that can help you in your murder plot. However, some participants such as Wildcards may have alternate wincons.
+* The Mastermind’s wincon is to survive being detected in the Final Trial and remain unexposed or for an N amount of Class Trials to select an incorrect player who is not the Mastermind as the Blackened. The Mastermind also has several benefits and tools the Participants lack, but they cannot become the Blackened. The N is unknown even for the Mastermind.
+* Failing a class trial won’t end the game for the Spotless students, but failing a hidden pre-determined amount will. This amount is decided before the game begins and will not be revealed to anyone.
+* This is how the game phases work
+
+
+[details=&quot;Phases&quot;]
+Daily Life begins.
+A person finds the body, can be the Blackened who found it.
+Game transitions into Deadly Life.
+Twenty-four hours pass.
+Class Trial begins.
+48 hours pass or the entire class agrees on a blackened.
+Next chapter begins with Daily Life.
+[/details]
+
+
+* Each player begins with a limited number of action points. It costs one action point to move anywhere on the map or to take any action. Action points are based on your CON stat.  **Action points will be more limited than they were in previous Dangan games to encourage decision making instead of rushing**
+
+# Murders
+
+* Killing a player is decided by a mixture of RNG and stats. If a kill fails then the would-be victim is not notified. To attempt a murder it costs 40% of your total AP.
+* When a murder happens, the murder weapon will be bloodied. In addition if the kill was done in via a melee range then the killer will be splattered in blood. This will require them to change clothes, wash themselves, or use something like a blanket to prevent blood from splattering on them. Bloodied items can only be disposed of the room the murder happened or a room that had one tile adjacent to it.
+* Murders can only happen during the Daily Life Phase.
+* Accessories to murder can only be dropped in the room or the one adjacent to where the murder happened.
+* Up to two players can be murdered in a single chapter. In the case both players are murdered by the same person or the first Blackened is murdered, then the Blackened to be found will always be the double murderer or the player who murdered the first Blackened.
+* It is possible for the Blackened to also be the victim in the case of suicide.
+* In the case of two different Blackeneds for two victims the Blackened to be found will be the killer of the victim whose body was first discovered, and the killer of the other victim will just become a normal participant. If both bodies are discovered at the same time the Blackened will be determined randomly between the two and informed as such.
+
+# Stealing
+
+* Anyone may attempt to steal an item from another player’s public slot once per phase. They must know that item is in their inventory from checking it or seeing it. You will roll AGI% to steal.   You will roll AGI%/2 for your attempt to go unnoticed.
+
+# Map
+
+* 1st Floor:
+
+![image|502x499](upload://wHkSUuf7U3LBw8bLu5Jd0VWx3U.png) 
+
+* 2nd Floor:
+
+![Screen Shot 2020-10-27 at 3.23.20 PM|389x499](upload://lV8Mw8iSyGRQRj3qb5OiDpG0yU2.png)
+
+
+* additional floors may be unlocked as the game progresses
+* Be advised that like in Alice’s games, there  *is*  as single hidden passageway that connects two rooms together
+
+# Nighttime
+
+* Day/Night will rotate on a 12/12 cycle starting with daytime in Daily Life.
+* The Dining Room (main thread) will be closed at Night and everyone there will be kicked out
+* The Library and Kitchen will also be locked at this time
+* It costs 2 AP to move at night (still 1 AP to complete any action)
+* Sleeping in your dorm will regen 30% of your AP per hour instead of 20% up to a max of 150% at night.
+* Visibility is slightly lower and murder is slightly more likely to succeed
+
+# Rolecards
+
+* Each player gets one with their character name, talent, gender, stats, and four abilities which can be passives or actives. Each player will have a powerful one use ultimate as one of these abilities.
+Additionally, some players may have additional wincons.
+* Claiming and fakeclaiming are both allowed.  **Fakeclaiming is heavily encouraged in this game particularly. There will be very limited ways for other players to find out your talent and there will be benefits to hide it even as someone who does not intend to murder**
+
+# Wildcards
+
+* There will not be an Agent or Traitors in this setup, however there will be 2-3 wildcards. They will be slightly different from how they worked in DR2. They might just have slightly tweaked wincons, or need to complete an objective before becoming a normal participant. They exist to bring excitement and unpredictability to the game
+
+# Motives
+
+Periodically the Mastermind will be able to add customized motives to the game, at the maximum of one motive per chapter. These motives can include alternative wincons, changing game mechanics, and whatnot. There will be a special announcement by Monokuma for each motive when they are issued.
+
+# Item Slots
+
+* Each player by default begins with one private item slots and five public item slots.
+* Anyone can check another player’s public slot, but the private slot will remain hidden regardless. However you can check only up to two times per Daily+Deadly Life Phase and one additional time per Class Trial Phase.
+* However, during Deadly Life the private slot will temporary turn into a public slot.
+
+# Stats
+
+* Melee Attack Kill Chance- 50%+(Attacker STR-Defender STR)/2+Weapon ATK-Defender LUK/8
+* Projectile Attack Kill Chance- 50%+(Attacker AGI-Defender AGI)/2+Weapon ATK-Defender LUK/8
+* Poison Attack Kill Chance- 100% unless an antidote is found. Time To Kill = (Initial Time)*(1+Victim’s CON/50)
+* Electrocution, Drowning, and Burn Kill Chance- 100%-(Victim’s CON/2+Victim’s LUK/5)
+* Searching will always net results regardless of AGI/INT.
+* Maximum AP = 25+CON/4
+* Vote Weight = 80+INT/2
+
+# tldr changes from recent games
+
+* Fakeclaiming is more practical and potentially beneficial
+* AP is more limited
+* No traitors/agent just slightly tweaked wildcards to add depth to the game
+* A bit more clarification on 2 people killing at the same time in the same room
+* MM will still have a camera account with which to view rooms like in DR2. Hosts will log in periodically to prevent angleshooting (please don’t anyway)
+* Spec chat will be in a discord server
+
+# Players
+
+1. PokemonKidRyan - **[color=hotpink] Ishiyama Wazuka [/color]**
+2. Emilia - **[color=skyblue]Okuda Nobuyuki[/color]**
+3. Amelia - **[color=hotpink] Umemura Kagami[/color]**
+4. ElithePsycho - **[color=hotpink] Wakatsuchi Ine[/color]**
+5. ~~min - **[color=skyblue]Shiroma Kosaku[/color]**~~ **Murdered CH3**
+6. ~~GGhana - **[color=skyblue]Kuramoto Taro[/color]**~~  **Murdered CH1**
+7. Italy - **[color=skyblue]Kimura Satoshi[/color]**
+8. CRichard564 - **[color=skyblue]Kaiba Ichizo[/color]**
+9. Whysper - **[color=hotpink]Horikiri Homugi[/color]**
+10. ~~Marshal - **[color=hotpink]Sakakibara Noriko[/color]**~~ **Murdered CH3**
+11. TrustworthyLiberal - **[color=skyblue]Niwa Katashi[/color]**
+12. ~~Zone_Q11 - **[color=hotpink]Fujimoto Azusa [/color]**~~  **Murdered CH2**
+13. Light - **[color=hotpink]Mizuno Cho[/color]**
+14. ~~DatBird - **[color=skyblue]Izumi Yodo[/color]**~~  **Escaped with motive CH1**
+15. ~~Alice - **[color=hotpink]Ishikura Saeko[/color]**~~ - **Correctly found as CH2 Blackened**
+16. ~~Appelsiini - **[color=skyblue]Amano Masutaro[/color]**~~  **Murdered CH1**
+
+# Spectators
+
+1. Chloe
+2. katze
+3. TheBlueElixir
+4. Jane
+5. Geyde
+6. sulit
+7. Arete
+
+# Backup
+
+1. Mistyx
+2. an_gorta_pratai
+3. Insanity</description>
+    
+    <lastBuildDate>Sat, 02 Jan 2021 18:58:10 +0000</lastBuildDate>
+    <category>Completed</category>
+    <atom:link href="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Danganronpa 3 - Despair on the Ramparts - Game Over</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p>Ah yes</p>
+<p>This makes perfect sense</p>
+          <p><a href="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6240">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6240</link>
+        <pubDate>Sat, 02 Jan 2021 18:58:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84373-6240</guid>
+        <source url="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373.rss">Danganronpa 3 - Despair on the Ramparts - Game Over</source>
+      </item>
+      <item>
+        <title>Danganronpa 3 - Despair on the Ramparts - Game Over</title>
+        <dc:creator><![CDATA[Icibalus]]></dc:creator>
+        <description><![CDATA[
+            <p>see arete only noticed this because i liked the post<br>
+this was meant to be an epic admission of guilt but i guess i<br>
+accidentally manipulated arete???<br>
+so that’s pretty gamer</p>
+          <p><a href="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6239">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6239</link>
+        <pubDate>Sat, 02 Jan 2021 18:55:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84373-6239</guid>
+        <source url="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373.rss">Danganronpa 3 - Despair on the Ramparts - Game Over</source>
+      </item>
+      <item>
+        <title>Danganronpa 3 - Despair on the Ramparts - Game Over</title>
+        <dc:creator><![CDATA[Arete]]></dc:creator>
+        <description><![CDATA[
+            <p>OKAY UPDATE</p>
+<p>This post was supposed to say ‘me and Ici’ but I typoed and didn’t notice it until now</p>
+<p>sorry <a class="mention" href="/u/icibalus">@Icibalus</a></p>
+          <p><a href="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6238">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6238</link>
+        <pubDate>Sat, 02 Jan 2021 18:51:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84373-6238</guid>
+        <source url="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373.rss">Danganronpa 3 - Despair on the Ramparts - Game Over</source>
+      </item>
+      <item>
+        <title>Danganronpa 3 - Despair on the Ramparts - Game Over</title>
+        <dc:creator><![CDATA[EliThePsycho]]></dc:creator>
+        <description><![CDATA[
+            <p>and i had the other one</p>
+          <p><a href="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6237">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6237</link>
+        <pubDate>Mon, 14 Dec 2020 22:39:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84373-6237</guid>
+        <source url="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373.rss">Danganronpa 3 - Despair on the Ramparts - Game Over</source>
+      </item>
+      <item>
+        <title>Danganronpa 3 - Despair on the Ramparts - Game Over</title>
+        <dc:creator><![CDATA[Icibalus]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Amelia" data-post="6235" data-topic="84373">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="/user_avatar/forum.throneoflies.com/amelia/40/35432_2.png" class="avatar"> Amelia:</div>
+<blockquote>
+<p>There were even kunai available to murder with smh</p>
+</blockquote>
+</aside>
+<p>there was<br>
+i have no idea where it went but there was one hidden in one of the stairwells</p>
+          <p><a href="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6236">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6236</link>
+        <pubDate>Mon, 14 Dec 2020 14:39:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84373-6236</guid>
+        <source url="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373.rss">Danganronpa 3 - Despair on the Ramparts - Game Over</source>
+      </item>
+      <item>
+        <title>Danganronpa 3 - Despair on the Ramparts - Game Over</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p>There were even kunai available to murder with smh</p>
+<p>if I wasn’t Mastermind it would’ve been compulsory for me to use kunai</p>
+          <p><a href="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6235">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6235</link>
+        <pubDate>Mon, 14 Dec 2020 14:29:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84373-6235</guid>
+        <source url="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373.rss">Danganronpa 3 - Despair on the Ramparts - Game Over</source>
+      </item>
+      <item>
+        <title>Danganronpa 3 - Despair on the Ramparts - Game Over</title>
+        <dc:creator><![CDATA[Icibalus]]></dc:creator>
+        <description><![CDATA[
+            <p>unfortunately nothing matching the meme potential of kunaigeddon happened this game<br>
+but sparshal came close</p>
+          <p><a href="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6234">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6234</link>
+        <pubDate>Mon, 14 Dec 2020 14:02:45 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84373-6234</guid>
+        <source url="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373.rss">Danganronpa 3 - Despair on the Ramparts - Game Over</source>
+      </item>
+      <item>
+        <title>Danganronpa 3 - Despair on the Ramparts - Game Over</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p>Sparshalgeddon</p>
+          <p><a href="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6233">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6233</link>
+        <pubDate>Mon, 14 Dec 2020 13:57:25 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84373-6233</guid>
+        <source url="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373.rss">Danganronpa 3 - Despair on the Ramparts - Game Over</source>
+      </item>
+      <item>
+        <title>Danganronpa 3 - Despair on the Ramparts - Game Over</title>
+        <dc:creator><![CDATA[Icibalus]]></dc:creator>
+        <description><![CDATA[
+            <p>sparshal</p>
+<p>bottom text</p>
+          <p><a href="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6232">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6232</link>
+        <pubDate>Mon, 14 Dec 2020 13:53:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84373-6232</guid>
+        <source url="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373.rss">Danganronpa 3 - Despair on the Ramparts - Game Over</source>
+      </item>
+      <item>
+        <title>Danganronpa 3 - Despair on the Ramparts - Game Over</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p>I don’t know why in god’s name he did that</p>
+<p>But it indirectly led to sparshal</p>
+          <p><a href="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6231">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6231</link>
+        <pubDate>Mon, 14 Dec 2020 13:46:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84373-6231</guid>
+        <source url="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373.rss">Danganronpa 3 - Despair on the Ramparts - Game Over</source>
+      </item>
+      <item>
+        <title>Danganronpa 3 - Despair on the Ramparts - Game Over</title>
+        <dc:creator><![CDATA[Aelin]]></dc:creator>
+        <description><![CDATA[
+            <p>Also, me setting the stable on fire was entirely +EV until Marshal ran into it</p>
+          <p><a href="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6230">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6230</link>
+        <pubDate>Mon, 14 Dec 2020 05:53:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84373-6230</guid>
+        <source url="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373.rss">Danganronpa 3 - Despair on the Ramparts - Game Over</source>
+      </item>
+      <item>
+        <title>Danganronpa 3 - Despair on the Ramparts - Game Over</title>
+        <dc:creator><![CDATA[Aelin]]></dc:creator>
+        <description><![CDATA[
+            <p>Huzzah<br>
+I’m angry at the way this turned out<br>
+But that’s okay</p>
+          <p><a href="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6229">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6229</link>
+        <pubDate>Mon, 14 Dec 2020 05:52:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84373-6229</guid>
+        <source url="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373.rss">Danganronpa 3 - Despair on the Ramparts - Game Over</source>
+      </item>
+      <item>
+        <title>Danganronpa 3 - Despair on the Ramparts - Game Over</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p>But italy</p>
+<p>If the time bomb ticked off in chapter 4 a cornucopia with murder weapons would have surfaced</p>
+          <p><a href="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6228">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6228</link>
+        <pubDate>Sat, 12 Dec 2020 18:49:25 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84373-6228</guid>
+        <source url="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373.rss">Danganronpa 3 - Despair on the Ramparts - Game Over</source>
+      </item>
+      <item>
+        <title>Danganronpa 3 - Despair on the Ramparts - Game Over</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p>Wasn’t the slightest bit surprised</p>
+          <p><a href="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6227">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6227</link>
+        <pubDate>Sat, 12 Dec 2020 18:48:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84373-6227</guid>
+        <source url="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373.rss">Danganronpa 3 - Despair on the Ramparts - Game Over</source>
+      </item>
+      <item>
+        <title>Danganronpa 3 - Despair on the Ramparts - Game Over</title>
+        <dc:creator><![CDATA[Italy]]></dc:creator>
+        <description><![CDATA[
+            <p>amelia i have to know<br>
+first reaction when i drank poison in front of literally everyone</p>
+          <p><a href="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6226">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6226</link>
+        <pubDate>Sat, 12 Dec 2020 18:36:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84373-6226</guid>
+        <source url="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373.rss">Danganronpa 3 - Despair on the Ramparts - Game Over</source>
+      </item>
+      <item>
+        <title>Danganronpa 3 - Despair on the Ramparts - Game Over</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p>Also I had to read</p>
+<p>All of those whispers</p>
+<p>It certainly was something :^)</p>
+          <p><a href="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6225">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6225</link>
+        <pubDate>Sat, 12 Dec 2020 16:09:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84373-6225</guid>
+        <source url="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373.rss">Danganronpa 3 - Despair on the Ramparts - Game Over</source>
+      </item>
+      <item>
+        <title>Danganronpa 3 - Despair on the Ramparts - Game Over</title>
+        <dc:creator><![CDATA[DatBird]]></dc:creator>
+        <description><![CDATA[
+            <p>I had 0 clue. U and TL were the two people I trusted</p>
+          <p><a href="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6224">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6224</link>
+        <pubDate>Sat, 12 Dec 2020 16:01:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84373-6224</guid>
+        <source url="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373.rss">Danganronpa 3 - Despair on the Ramparts - Game Over</source>
+      </item>
+      <item>
+        <title>Danganronpa 3 - Despair on the Ramparts - Game Over</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p><s>also I definitely slipped to dat I could see whispers when he told me he didn’t want to group with you</s></p>
+          <p><a href="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6223">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6223</link>
+        <pubDate>Sat, 12 Dec 2020 14:53:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84373-6223</guid>
+        <source url="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373.rss">Danganronpa 3 - Despair on the Ramparts - Game Over</source>
+      </item>
+      <item>
+        <title>Danganronpa 3 - Despair on the Ramparts - Game Over</title>
+        <dc:creator><![CDATA[Marshal]]></dc:creator>
+        <description><![CDATA[
+            <p>I actually would have</p>
+<p>because your claimed wincon, like… couldn’t kill! which would have basically outted you!</p>
+<p>but I realized it a little too late <img src="https://forum.throneoflies.com/images/emoji/twitter/expressionless.png?v=9" title=":expressionless:" class="emoji" alt=":expressionless:"></p>
+          <p><a href="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6222">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6222</link>
+        <pubDate>Sat, 12 Dec 2020 14:39:33 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84373-6222</guid>
+        <source url="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373.rss">Danganronpa 3 - Despair on the Ramparts - Game Over</source>
+      </item>
+      <item>
+        <title>Danganronpa 3 - Despair on the Ramparts - Game Over</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p><s>I mean I thought you of all people would figure out your green was phony so you had to go splat</s></p>
+          <p><a href="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6221">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6221</link>
+        <pubDate>Sat, 12 Dec 2020 14:15:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84373-6221</guid>
+        <source url="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373.rss">Danganronpa 3 - Despair on the Ramparts - Game Over</source>
+      </item>
+      <item>
+        <title>Danganronpa 3 - Despair on the Ramparts - Game Over</title>
+        <dc:creator><![CDATA[Marshal]]></dc:creator>
+        <description><![CDATA[
+            <p>I had a fake green on u and a poe of like 4 ppl including you smh</p>
+          <p><a href="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6220">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6220</link>
+        <pubDate>Sat, 12 Dec 2020 14:13:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84373-6220</guid>
+        <source url="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373.rss">Danganronpa 3 - Despair on the Ramparts - Game Over</source>
+      </item>
+      <item>
+        <title>Danganronpa 3 - Despair on the Ramparts - Game Over</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p><s>I’m also sad I didn’t go with lighting the Library on fire with a painting for the chapter 2 arson</s></p>
+          <p><a href="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6219">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6219</link>
+        <pubDate>Sat, 12 Dec 2020 14:02:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84373-6219</guid>
+        <source url="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373.rss">Danganronpa 3 - Despair on the Ramparts - Game Over</source>
+      </item>
+      <item>
+        <title>Danganronpa 3 - Despair on the Ramparts - Game Over</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p>Huh</p>
+<p>I feel like that would be rather important if someone… actually solved it</p>
+          <p><a href="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6218">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6218</link>
+        <pubDate>Sat, 12 Dec 2020 14:01:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84373-6218</guid>
+        <source url="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373.rss">Danganronpa 3 - Despair on the Ramparts - Game Over</source>
+      </item>
+      <item>
+        <title>Danganronpa 3 - Despair on the Ramparts - Game Over</title>
+        <dc:creator><![CDATA[Icibalus]]></dc:creator>
+        <description><![CDATA[
+            <p>he did not</p>
+          <p><a href="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6217">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6217</link>
+        <pubDate>Sat, 12 Dec 2020 14:01:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84373-6217</guid>
+        <source url="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373.rss">Danganronpa 3 - Despair on the Ramparts - Game Over</source>
+      </item>
+      <item>
+        <title>Danganronpa 3 - Despair on the Ramparts - Game Over</title>
+        <dc:creator><![CDATA[Amelia]]></dc:creator>
+        <description><![CDATA[
+            <p>Did app not tell you the solution to it :wowee:</p>
+          <p><a href="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6216">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373/6216</link>
+        <pubDate>Sat, 12 Dec 2020 13:59:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-84373-6216</guid>
+        <source url="https://forum.throneoflies.com/t/danganronpa-3-despair-on-the-ramparts-game-over/84373.rss">Danganronpa 3 - Despair on the Ramparts - Game Over</source>
+      </item>
+  </channel>
+</rss>

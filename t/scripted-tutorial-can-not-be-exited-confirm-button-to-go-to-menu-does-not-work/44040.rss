@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Scripted Tutorial can not be exited / confirm button to go to menu does not work</title>
+    <link>https://forum.throneoflies.com/t/scripted-tutorial-can-not-be-exited-confirm-button-to-go-to-menu-does-not-work/44040</link>
+    <description>#### What happened?
+
+The confirm button to go to main menu does not work when clicked
+
+#### What was SUPPOSED to happen?
+
+Tutorial should close and user should be sent back to main menu. Cancel the scripted tutorial.
+
+#### Steps to reproduce:
+
+Start scripted tutorial click on options button. Then click on the exit button. Then try confirming the exit to main menu. (it does not matter if that happens during a forced click on a button event or in free mode. You simply can&#39;t exit the scripted tutorial except with forcefully closing the game.
+
+http://steamcommunity.com/sharedfiles/filedetails/?id=1295729148
+
+#### Comments:
+
+Version 1.0.18e1
+
+In general you cant click anything in the tutorial except for the scripted enabled boxed except for the options. Bad thing about that is you can&#39;t actually exit the tutorial as somehow that is disabled. In my opinion that is already a bug in itself. Let people cancel the tutorial at any time if they wish to. Forcing them to continue with the tutorial to actually stop it or having to close the game forcefully does not help regain players. (It also is bad for testing issues)
+
+Additionally to that the button is not disabled so if you actually want them to stay in the tutorial (which I would highly advice not to) then make the button be inactive and non click able.</description>
+    
+    <lastBuildDate>Fri, 09 Feb 2018 09:21:10 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forum.throneoflies.com/t/scripted-tutorial-can-not-be-exited-confirm-button-to-go-to-menu-does-not-work/44040.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Scripted Tutorial can not be exited / confirm button to go to menu does not work</title>
+        <dc:creator><![CDATA[sayyadin]]></dc:creator>
+        <description><![CDATA[
+            <h4>What happened?</h4>
+<p>The confirm button to go to main menu does not work when clicked</p>
+<h4>What was SUPPOSED to happen?</h4>
+<p>Tutorial should close and user should be sent back to main menu. Cancel the scripted tutorial.</p>
+<h4>Steps to reproduce:</h4>
+<p>Start scripted tutorial click on options button. Then click on the exit button. Then try confirming the exit to main menu. (it does not matter if that happens during a forced click on a button event or in free mode. You simply can’t exit the scripted tutorial except with forcefully closing the game.</p>
+<p><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1295729148" class="onebox" target="_blank" rel="noopener nofollow ugc">http://steamcommunity.com/sharedfiles/filedetails/?id=1295729148</a></p>
+<h4>Comments:</h4>
+<p>Version 1.0.18e1</p>
+<p>In general you cant click anything in the tutorial except for the scripted enabled boxed except for the options. Bad thing about that is you can’t actually exit the tutorial as somehow that is disabled. In my opinion that is already a bug in itself. Let people cancel the tutorial at any time if they wish to. Forcing them to continue with the tutorial to actually stop it or having to close the game forcefully does not help regain players. (It also is bad for testing issues)</p>
+<p>Additionally to that the button is not disabled so if you actually want them to stay in the tutorial (which I would highly advice not to) then make the button be inactive and non click able.</p>
+          <p><a href="https://forum.throneoflies.com/t/scripted-tutorial-can-not-be-exited-confirm-button-to-go-to-menu-does-not-work/44040/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.throneoflies.com/t/scripted-tutorial-can-not-be-exited-confirm-button-to-go-to-menu-does-not-work/44040/1</link>
+        <pubDate>Fri, 09 Feb 2018 09:21:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.throneoflies.com-post-44040-1</guid>
+        <source url="https://forum.throneoflies.com/t/scripted-tutorial-can-not-be-exited-confirm-button-to-go-to-menu-does-not-work/44040.rss">Scripted Tutorial can not be exited / confirm button to go to menu does not work</source>
+      </item>
+  </channel>
+</rss>
