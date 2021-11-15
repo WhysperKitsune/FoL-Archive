@@ -1,0 +1,2227 @@
+Initialize engine version: 5.6.3p3 (88d4ddf6344a)
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 3GB (ID=0x1c02)
+    Vendor:   NVIDIA
+    VRAM:     2997 MB
+    Driver:   23.21.13.8813
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\GameAnalytics.dll (this message is harmless)
+Loading E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\GameAnalytics.dll into Unity Child Domain
+Platform assembly: E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\BouncyCastle_GameSparks.dll (this message is harmless)
+Loading E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\BouncyCastle_GameSparks.dll into Unity Child Domain
+Platform assembly: E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\GameSparks.Api.dll (this message is harmless)
+Loading E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\GameSparks.Api.dll into Unity Child Domain
+Platform assembly: E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\GameSparks.dll (this message is harmless)
+Loading E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\GameSparks.dll into Unity Child Domain
+Platform assembly: E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\GameSparksRT.dll (this message is harmless)
+Loading E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\GameSparksRT.dll into Unity Child Domain
+Platform assembly: E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+Platform assembly: E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\System.Windows.Forms.dll (this message is harmless)
+Loading E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\System.Windows.Forms.dll into Unity Child Domain
+Platform assembly: E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\UnityEngine.CrashLog.dll (this message is harmless)
+Loading E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\UnityEngine.CrashLog.dll into Unity Child Domain
+- Completed reload, in  0.039 seconds
+Platform assembly: E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on Reporter
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+OnLevelWasLoaded was found on LobbyPhoton
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+OnLevelWasLoaded was found on GameSparksMgr
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+OnLevelWasLoaded was found on MySteamFriends
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+Platform assembly: E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Boo.Lang.dll (this message is harmless)
+OnLevelWasLoaded was found on PhotonMgr
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.570842 ms
+Platform assembly: E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Mono.Data.Sqlite.dll (this message is harmless)
+Platform assembly: E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\System.Data.dll (this message is harmless)
+Custom id is enabled. Initialize is delayed until custom id has been set.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Login] @ resetUI
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[CommonMono] @ Awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PhotonMgr] @ Awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+10101 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGIN] @ PreLoadNewScene: DO NOT EXIT PLAY MODE UNTIL SCENE LOADS... UNITY WILL CRASH!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGIN] @ CheckApiStatus
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ToL-API] Checking online status..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ToL-API] Waiting for callback..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Login] (WAIT) @ waitServices
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=green>[Login] Steam: READY (Service 1 of 3)</color>
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] @ GetSteamName
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] Welcome, SteamManager!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGIN] @ LoadSteamNameIntoUI
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=#FBFF00FF>[Login] Waiting on TolApi...</color>
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ setAnalytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ (WAIT) waitStableConnection
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ waitStableConnection : hasInternet (READY)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS]*WARN @ waitStableConnection: !GS.Available! Waiting for 30s (this is normal at init)...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ Start (DONE)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] @ Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] @ GetSteamName
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] Welcome, SteamManager!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] @ getGameLanguage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] GameLanguage: english
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] gameLanguageCodeISO6391: en
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PhotonMgr] @ Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'NobleMessage') is missing!
+ 
+(Filename:  Line: 1744)
+
+Platform assembly: E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\System.Xml.dll (this message is harmless)
+Fallback handler could not load library E:/steam/steamapps/common/Throne of Lies/ThroneOfLies_Data/Mono/libc
+Fallback handler could not load library E:/steam/steamapps/common/Throne of Lies/ThroneOfLies_Data/Mono/.\libc
+Fallback handler could not load library E:/steam/steamapps/common/Throne of Lies/ThroneOfLies_Data/Mono/libc
+The referenced script on this Behaviour (Game Object 'ResetPassBtn') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'FBLinkBtn') is missing!
+ 
+(Filename:  Line: 1744)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Setting up 2 worker threads for Enlighten.
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+  Thread -> id: 580 -> priority: 1 
+  Thread -> id: 2c70 -> priority: 1 
+[Login] 'LobbyMain' scene is PRE-LOADED!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ToL-API] Successful callback: UnityEngine.WWW
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ToL-API-Callback (CheckIsOnline)] {"status":"ONLINE"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ToL-API] STATUS >> ONLINE
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=green>[Login] TolApi: READY (Service 2 of 3)</color>
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Login] (WAIT) @ waitServices : isGSReady==False // readyToSteamAuth==True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=#FBFF00FF>[Login] Waiting on GS...</color>
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ GsServiceHandler // available? True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=green>[GS] INITIALIZED (isGSReady == true)!</color>
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ PrepSteamConnectReqGetNewTicket // cancelOldTicket? True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] @ GetAuthSessionTicket
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] Cancelling old auth ticket..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] Waiting for OnGetAuthSessionTicketResponse...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=green>[Login] GS: READY (Service 3 of 3)</color>
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=lime>[Login] (READY) @ waitServices</color>
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGIN] @ ToggleSteamBtnInteract
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ waitStableConnection : isGSAvail (READY)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ (READY) waitStableConnection
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] Callback [163 - GetAuthSessionTicketResponse] - 5 -- k_EResultOK
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] Successful OnGetAuthSessionTicketresponse!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] PrepSteamConnectReqGetNewTicket: We now have a steam ticket. Ready for Steam auth!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] @ GetSteamName
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] Welcome, SteamManager!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] @ GetSteamName
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] Welcome, SteamManager!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ SteamConnectRequestWithTicket
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGIN] Steam LOGIN btn was clicked..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+==========================================
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGGING-IN] @ LoginWithSteamGS()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGIN] @ ToggleSteamBtnInteract
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ PrepSteamConnectReqGetNewTicket // cancelOldTicket? True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] @ GetAuthSessionTicket
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] Cancelling old auth ticket..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] Waiting for OnGetAuthSessionTicketResponse...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] SteamConnectRequestWithTicket success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] WELCOME (UserId): 59d6429c1a2c6004f237d5f2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] GS_INFO >> version:5.5.7.139 // apiKey:u316884P1Sv7 // apiStage:live, deviceId:3c67a235468b145dd8c7ffba1e5c7c54cddbbcb9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSMgrInfo] @ TitleData
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSMgrInfo] @ TitleNews
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGIN] @ gsSetNews (from gsMgr.afterAuthReqSuccess)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] (WAIT) @ getTitleNews
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] (READY) @ getTitleNews
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGIN] Got title news - placing in news UI..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGIN] Assigning (3) News..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Login] Found news headline: Read our Rules @
+throneofli.es/rules
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Login] Found news headline: Welcome to v1.0!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Login] Found news headline: Matchmaking/LFG
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+==========================================
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ AccountDetailsRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ listGameFriendsRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] [WAITING] @ waitPostSteamAuthCallsDone
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ prepConnectToPhotonAfterAuth
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PhotonMgr] @ PhotonConnect (SetAuthVals)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PhotonMgr] Settings >> playerName (displayName): AverieAutumn // userId (username): 59d6429c1a2c6004f237d5f2 // gameVer: v1.0.10e1 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] Callback [163 - GetAuthSessionTicketResponse] - 6 -- k_EResultOK
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] Successful OnGetAuthSessionTicketresponse!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] PrepSteamConnectReqGetNewTicket: We now have a steam ticket. Ready for Steam auth!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] [WAITING] @ prepSteamConnectRequestWithTicketWaitGSInit...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] [READY] @ prepSteamConnectRequestWithTicketWaitGSInit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] @ GetSteamName
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] Welcome, SteamManager!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] @ GetSteamName
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] Welcome, SteamManager!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ SteamConnectRequestWithTicket
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] accountDetailsRequest success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] gp == 2650 // raw? True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSMgr] @ addInvListsToSession
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] listGameFriendsRequest success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] SteamConnectRequestWithTicket success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] WELCOME (UserId): 59d6429c1a2c6004f237d5f2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] GS_INFO >> version:5.5.7.139 // apiKey:u316884P1Sv7 // apiStage:live, deviceId:3c67a235468b145dd8c7ffba1e5c7c54cddbbcb9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ AccountDetailsRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ listGameFriendsRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] [WAITING] @ waitPostSteamAuthCallsDone
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ prepConnectToPhotonAfterAuth
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PhotonMgr] @ PhotonConnect (SetAuthVals)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: InitializingApplication
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PhotonMgr] Settings >> playerName (displayName): AverieAutumn // userId (username): 59d6429c1a2c6004f237d5f2 // gameVer: v1.0.10e1 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGIN] Successful PrepSteamConnectReqGetNewTicket callback: True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+==========================================
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGGED-IN] @ ProcessLoginResult()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGGED-IN] About to verify email: kalynayos@outlook.com
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGGING-IN] @ afterLoginInitVerify
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGGING-IN] linkedSteamId == mySteamId. Steam verified.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+==========================================
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGGING-IN] ShowNewTerms()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGGING-IN] ALREADY SEEN Latest terms -- Logging into lobby..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+==========================================
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGGING-IN] PrepLobbyAfterTermsAcceptGS()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGGING-IN] @ CheckVersion
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] serverVer == v1.0.10e1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Common] MyVer: v1.0.10e1 / ServerVer: v1.0.10e1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] forcePatchOnVerMismatch == True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ updateSingleStatDataInt: timesLoggedIn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ updatePlayerStats
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] accountDetailsRequest success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] gp == 2650 // raw? True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSMgr] @ addInvListsToSession
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Warning/GameAnalytics: Could not add error event: Datastore not initialized
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] listGameFriendsRequest success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] updatePlayerStats success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] Successful updatePlayerStats!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGGING-IN] Saved stats for timesLoggedIn!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGIN-TO-LOBBY] **CHANGING SCENES IN 0.2 SECONDS..**
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PhotonMgr] @ OnJoinedLobby: [re]ConnectedAndReady=True // UserId=59d6429c1a2c6004f237d5f2 // Nickname=AverieAutumn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGIN-TO-LOBBY] Callbacks returned. Lobby loaded. Changing NOW!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+==========================================
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnloadTime: 5.204738 ms
+[Common] FOUND LAUNCH ARG 1: -force-d3d11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ItemStore] @ Awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ OnLevelWasLoaded: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+===============================
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] Initializing item store...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ItemStore] @ initItemStore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] ARMOR_NOBLE_F item found in user inv!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] ARMOR_STARTER_M item found in user inv!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ItemStore] Finished loading scrolls. Updating myChar and caching my equipped items...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ItemStore] @ custShowMyEquippedWep. Wep: WEAPON_VORTEX_AMULET
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+===============================
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] Grabbing queue of messages to popup!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ listMessageRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnLevelWasLoaded: Checking for reconnection to Photon! State = Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[FriendsList] @ Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] lobbyWelcomed == True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ BoslofLobbyInit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ InitLobbyUI
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ SetDisplayNameUI: AverieAutumn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] selectedTitle == Squire
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] getSelectedAvatarStr == http://i.imgur.com/YetNbUJ.png
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] gp == 2650 // raw? False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ updateGpShown: 2650
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ToL-API] @ DiscordGetUsersOnline
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ToL-API] Waiting for callback..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ checkInitJoinedLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Analytics] @ GAInit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Initializing with custom id: AverieAutumn:59d6429c1a2c6004f237d5f2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+
+Unloading 119 unused Assets to reduce memory usage. Loaded Objects now: 65611.
+Total: 77.441597 ms (FindLiveObjects: 2.335556 ms CreateObjectMapping: 4.758784 ms MarkObjects: 40.301506 ms  DeleteObjects: 30.045162 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 65611.
+Total: 49.834854 ms (FindLiveObjects: 2.470570 ms CreateObjectMapping: 5.883019 ms MarkObjects: 41.313816 ms  DeleteObjects: 0.166867 ms)
+
+[GS] [READY] @ waitPostSteamAuthCallsDone: Ready (from GS) to change scenes!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+==================================
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] listMessageRequest success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] [READY] @ waitPostSteamAuthCallsDone: Ready (from GS) to change scenes!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+==================================
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnJoinedLobby - Region: us / from mmCrumbs: disconnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] Starting lobby polling now.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ joinedPhotonLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ (Init) checkReconnectToLiveGame
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] (WAITING) @ updateLobbyStats
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] (READY 1/2) @ updateLobbyStats
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] initLobbyStatsDone==ALMOST
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ listGameFriendsRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Warning/GameAnalytics: Could not set custom01 dimension value to 'Win'. Value not found in available custom01 dimension values
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\System.Transactions.dll (this message is harmless)
+[GS] joinedPhotonLobby success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] (READY 2/2) @ updateLobbyStats
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] initLobbyStatsDone==true
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ToL-API] Successful callback: UnityEngine.WWW
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ToL-API-Callback (CheckIsOnline)] {"onlineCount":722}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ToL-API] numDiscordOnline: 722
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ DiscordGetUsersOnline: 722
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: E:\steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Mono.Security.dll (this message is harmless)
+[GSInfo] sawInteractiveTutorial == False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ hasSeenScripted: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ mmVerifyVersion
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] serverVer == v1.0.10e1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Common] MyVer: v1.0.10e1 / ServerVer: v1.0.10e1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] OnStartMMClick - CONNECTING from mmBread status: connectedIdle / Photon status: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ ConnectThenJoinOrCreateRoom / Photon state: Connected / mmCrumbs: connectedIdle
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ generateRoomPropsHash
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ (DONE) generateRoomPropsHash: (System.String)C0=(System.Int32)0, (System.String)C1=(System.String)Matchmaking, (System.String)C3=(System.Int32)1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ (WAIT) checkWaitConnectedReady
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] (READY 1/2) @ checkWaitConnectedReady >> ConnectedAndReady!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ joinRandomCustomRoom: Should already be validated earlier @ prepJoinRandomRoom!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getSqlFilter: random// extraParam==
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] sqlFilter==C0 = 0 AND C1 = "Matchmaking"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ generateRoomPropsHash
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ (DONE) generateRoomPropsHash: (System.String)C0=(System.Int32)0, (System.String)C1=(System.String)Matchmaking, (System.String)C3=(System.Int32)1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnLeftLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] listGameFriendsRequest success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[xScroller] @ destroyFriendsList
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Operation failed: OperationResponse 226: ReturnCode: 32765 (Game full). Parameters: {} Server: GameServer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnPhotonJoinRoomFailed: System.Object[]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby]*ERR @ OnPhotonJoinRoomFailed: 32765 - Game full
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ cancelMMAfterLeaveDisconnectKickFail: Failed to Join
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby]**ERR @ cancelMMAfterLeaveDisconnectKickFail: NOT connectedAndReady - Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ cancelMMAfterLeaveDisconnectKickFailUI: Failed to Join
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ OnLobbyStatisticsUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PhotonMgr] @ OnJoinedLobby: [re]ConnectedAndReady=True // UserId=59d6429c1a2c6004f237d5f2 // Nickname=AverieAutumn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnJoinedLobby - Region: us / from mmCrumbs: disconnecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ joinedPhotonLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] joinedPhotonLobby success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] sawInteractiveTutorial == False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ hasSeenScripted: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ mmVerifyVersion
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] serverVer == v1.0.10e1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Common] MyVer: v1.0.10e1 / ServerVer: v1.0.10e1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] OnStartMMClick - CONNECTING from mmBread status: connectedIdle / Photon status: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ ConnectThenJoinOrCreateRoom / Photon state: Connected / mmCrumbs: connectedIdle
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ generateRoomPropsHash
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ (DONE) generateRoomPropsHash: (System.String)C0=(System.Int32)0, (System.String)C1=(System.String)Matchmaking, (System.String)C3=(System.Int32)1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ (WAIT) checkWaitConnectedReady
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] (READY 1/2) @ checkWaitConnectedReady >> ConnectedAndReady!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ joinRandomCustomRoom: Should already be validated earlier @ prepJoinRandomRoom!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getSqlFilter: random// extraParam==
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] sqlFilter==C0 = 0 AND C1 = "Matchmaking"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ generateRoomPropsHash
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ (DONE) generateRoomPropsHash: (System.String)C0=(System.Int32)0, (System.String)C1=(System.String)Matchmaking, (System.String)C3=(System.Int32)1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnLeftLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Operation failed: OperationResponse 226: ReturnCode: 32765 (Game full). Parameters: {} Server: GameServer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnPhotonJoinRoomFailed: System.Object[]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby]*ERR @ OnPhotonJoinRoomFailed: 32765 - Game full
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ cancelMMAfterLeaveDisconnectKickFail: Failed to Join
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby]**ERR @ cancelMMAfterLeaveDisconnectKickFail: NOT connectedAndReady - Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ cancelMMAfterLeaveDisconnectKickFailUI: Failed to Join
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ OnLobbyStatisticsUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PhotonMgr] @ OnJoinedLobby: [re]ConnectedAndReady=True // UserId=59d6429c1a2c6004f237d5f2 // Nickname=AverieAutumn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnJoinedLobby - Region: us / from mmCrumbs: disconnecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ joinedPhotonLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] sawInteractiveTutorial == False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ hasSeenScripted: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ mmVerifyVersion
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] serverVer == v1.0.10e1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Common] MyVer: v1.0.10e1 / ServerVer: v1.0.10e1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] OnStartMMClick - CONNECTING from mmBread status: connectedIdle / Photon status: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ ConnectThenJoinOrCreateRoom / Photon state: Connected / mmCrumbs: connectedIdle
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ generateRoomPropsHash
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ (DONE) generateRoomPropsHash: (System.String)C0=(System.Int32)0, (System.String)C1=(System.String)Matchmaking, (System.String)C3=(System.Int32)1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ (WAIT) checkWaitConnectedReady
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] (READY 1/2) @ checkWaitConnectedReady >> ConnectedAndReady!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ joinRandomCustomRoom: Should already be validated earlier @ prepJoinRandomRoom!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getSqlFilter: random// extraParam==
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] sqlFilter==C0 = 0 AND C1 = "Matchmaking"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ generateRoomPropsHash
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ (DONE) generateRoomPropsHash: (System.String)C0=(System.Int32)0, (System.String)C1=(System.String)Matchmaking, (System.String)C3=(System.Int32)1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] joinedPhotonLobby success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnLeftLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Operation failed: OperationResponse 226: ReturnCode: 32765 (Game full). Parameters: {} Server: GameServer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnPhotonJoinRoomFailed: System.Object[]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby]*ERR @ OnPhotonJoinRoomFailed: 32765 - Game full
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ cancelMMAfterLeaveDisconnectKickFail: Failed to Join
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby]**ERR @ cancelMMAfterLeaveDisconnectKickFail: NOT connectedAndReady - Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ cancelMMAfterLeaveDisconnectKickFailUI: Failed to Join
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ OnLobbyStatisticsUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PhotonMgr] @ OnJoinedLobby: [re]ConnectedAndReady=True // UserId=59d6429c1a2c6004f237d5f2 // Nickname=AverieAutumn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnJoinedLobby - Region: us / from mmCrumbs: disconnecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ joinedPhotonLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] sawInteractiveTutorial == False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ hasSeenScripted: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ mmVerifyVersion
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] serverVer == v1.0.10e1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Common] MyVer: v1.0.10e1 / ServerVer: v1.0.10e1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] OnStartMMClick - CONNECTING from mmBread status: connectedIdle / Photon status: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ ConnectThenJoinOrCreateRoom / Photon state: Connected / mmCrumbs: connectedIdle
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ generateRoomPropsHash
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ (DONE) generateRoomPropsHash: (System.String)C0=(System.Int32)0, (System.String)C1=(System.String)Matchmaking, (System.String)C3=(System.Int32)1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ (WAIT) checkWaitConnectedReady
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] (READY 1/2) @ checkWaitConnectedReady >> ConnectedAndReady!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ joinRandomCustomRoom: Should already be validated earlier @ prepJoinRandomRoom!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getSqlFilter: random// extraParam==
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] sqlFilter==C0 = 0 AND C1 = "Matchmaking"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ generateRoomPropsHash
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ (DONE) generateRoomPropsHash: (System.String)C0=(System.Int32)0, (System.String)C1=(System.String)Matchmaking, (System.String)C3=(System.Int32)1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] joinedPhotonLobby success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnLeftLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Operation failed: OperationResponse 226: ReturnCode: 32765 (Game full). Parameters: {} Server: GameServer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnPhotonJoinRoomFailed: System.Object[]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby]*ERR @ OnPhotonJoinRoomFailed: 32765 - Game full
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ cancelMMAfterLeaveDisconnectKickFail: Failed to Join
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby]**ERR @ cancelMMAfterLeaveDisconnectKickFail: NOT connectedAndReady - Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ cancelMMAfterLeaveDisconnectKickFailUI: Failed to Join
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ OnLobbyStatisticsUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PhotonMgr] @ OnJoinedLobby: [re]ConnectedAndReady=True // UserId=59d6429c1a2c6004f237d5f2 // Nickname=AverieAutumn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnJoinedLobby - Region: us / from mmCrumbs: disconnecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ joinedPhotonLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] joinedPhotonLobby success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Warning/GameAnalytics: Event queue: Failed to send events.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] sawInteractiveTutorial == False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ hasSeenScripted: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ mmVerifyVersion
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] serverVer == v1.0.10e1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Common] MyVer: v1.0.10e1 / ServerVer: v1.0.10e1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] OnStartMMClick - CONNECTING from mmBread status: connectedIdle / Photon status: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ ConnectThenJoinOrCreateRoom / Photon state: Connected / mmCrumbs: connectedIdle
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ generateRoomPropsHash
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ (DONE) generateRoomPropsHash: (System.String)C0=(System.Int32)0, (System.String)C1=(System.String)Matchmaking, (System.String)C3=(System.Int32)1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ (WAIT) checkWaitConnectedReady
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] (READY 1/2) @ checkWaitConnectedReady >> ConnectedAndReady!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ joinRandomCustomRoom: Should already be validated earlier @ prepJoinRandomRoom!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getSqlFilter: random// extraParam==
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] sqlFilter==C0 = 0 AND C1 = "Matchmaking"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ generateRoomPropsHash
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ (DONE) generateRoomPropsHash: (System.String)C0=(System.Int32)0, (System.String)C1=(System.String)Matchmaking, (System.String)C3=(System.Int32)1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnLeftLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Operation failed: OperationResponse 226: ReturnCode: 32765 (Game full). Parameters: {} Server: GameServer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnPhotonJoinRoomFailed: System.Object[]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby]*ERR @ OnPhotonJoinRoomFailed: 32765 - Game full
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ cancelMMAfterLeaveDisconnectKickFail: Failed to Join
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby]**ERR @ cancelMMAfterLeaveDisconnectKickFail: NOT connectedAndReady - Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ cancelMMAfterLeaveDisconnectKickFailUI: Failed to Join
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ OnLobbyStatisticsUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PhotonMgr] @ OnJoinedLobby: [re]ConnectedAndReady=True // UserId=59d6429c1a2c6004f237d5f2 // Nickname=AverieAutumn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnJoinedLobby - Region: us / from mmCrumbs: disconnecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ joinedPhotonLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] sawInteractiveTutorial == False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ hasSeenScripted: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ mmVerifyVersion
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] serverVer == v1.0.10e1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Common] MyVer: v1.0.10e1 / ServerVer: v1.0.10e1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] OnStartMMClick - CONNECTING from mmBread status: connectedIdle / Photon status: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ ConnectThenJoinOrCreateRoom / Photon state: Connected / mmCrumbs: connectedIdle
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ generateRoomPropsHash
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ (DONE) generateRoomPropsHash: (System.String)C0=(System.Int32)0, (System.String)C1=(System.String)Matchmaking, (System.String)C3=(System.Int32)1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ (WAIT) checkWaitConnectedReady
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] (READY 1/2) @ checkWaitConnectedReady >> ConnectedAndReady!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ joinRandomCustomRoom: Should already be validated earlier @ prepJoinRandomRoom!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getSqlFilter: random// extraParam==
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] sqlFilter==C0 = 0 AND C1 = "Matchmaking"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ generateRoomPropsHash
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ (DONE) generateRoomPropsHash: (System.String)C0=(System.Int32)0, (System.String)C1=(System.String)Matchmaking, (System.String)C3=(System.Int32)1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] joinedPhotonLobby success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnLeftLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Operation failed: OperationResponse 226: ReturnCode: 32765 (Game full). Parameters: {} Server: GameServer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnPhotonJoinRoomFailed: System.Object[]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby]*ERR @ OnPhotonJoinRoomFailed: 32765 - Game full
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ cancelMMAfterLeaveDisconnectKickFail: Failed to Join
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby]**ERR @ cancelMMAfterLeaveDisconnectKickFail: NOT connectedAndReady - Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ cancelMMAfterLeaveDisconnectKickFailUI: Failed to Join
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ OnLobbyStatisticsUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PhotonMgr] @ OnJoinedLobby: [re]ConnectedAndReady=True // UserId=59d6429c1a2c6004f237d5f2 // Nickname=AverieAutumn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnJoinedLobby - Region: us / from mmCrumbs: disconnecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ joinedPhotonLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] joinedPhotonLobby success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] sawInteractiveTutorial == False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ hasSeenScripted: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ mmVerifyVersion
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] serverVer == v1.0.10e1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Common] MyVer: v1.0.10e1 / ServerVer: v1.0.10e1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] OnStartMMClick - CONNECTING from mmBread status: connectedIdle / Photon status: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ ConnectThenJoinOrCreateRoom / Photon state: Connected / mmCrumbs: connectedIdle
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ generateRoomPropsHash
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ (DONE) generateRoomPropsHash: (System.String)C0=(System.Int32)0, (System.String)C1=(System.String)Matchmaking, (System.String)C3=(System.Int32)1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ (WAIT) checkWaitConnectedReady
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] (READY 1/2) @ checkWaitConnectedReady >> ConnectedAndReady!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ joinRandomCustomRoom: Should already be validated earlier @ prepJoinRandomRoom!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getSqlFilter: random// extraParam==
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] sqlFilter==C0 = 0 AND C1 = "Matchmaking"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ generateRoomPropsHash
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ (DONE) generateRoomPropsHash: (System.String)C0=(System.Int32)0, (System.String)C1=(System.String)Matchmaking, (System.String)C3=(System.Int32)1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnLeftLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Operation failed: OperationResponse 226: ReturnCode: 32765 (Game full). Parameters: {} Server: GameServer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnPhotonJoinRoomFailed: System.Object[]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby]*ERR @ OnPhotonJoinRoomFailed: 32765 - Game full
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ cancelMMAfterLeaveDisconnectKickFail: Failed to Join
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby]**ERR @ cancelMMAfterLeaveDisconnectKickFail: NOT connectedAndReady - Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ cancelMMAfterLeaveDisconnectKickFailUI: Failed to Join
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ OnLobbyStatisticsUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PhotonMgr] @ OnJoinedLobby: [re]ConnectedAndReady=True // UserId=59d6429c1a2c6004f237d5f2 // Nickname=AverieAutumn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnJoinedLobby - Region: us / from mmCrumbs: disconnecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ joinedPhotonLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] sawInteractiveTutorial == False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ hasSeenScripted: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ mmVerifyVersion
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] serverVer == v1.0.10e1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Common] MyVer: v1.0.10e1 / ServerVer: v1.0.10e1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] OnStartMMClick - CONNECTING from mmBread status: connectedIdle / Photon status: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ ConnectThenJoinOrCreateRoom / Photon state: Connected / mmCrumbs: connectedIdle
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ generateRoomPropsHash
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ (DONE) generateRoomPropsHash: (System.String)C0=(System.Int32)0, (System.String)C1=(System.String)Matchmaking, (System.String)C3=(System.Int32)1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ (WAIT) checkWaitConnectedReady
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] (READY 1/2) @ checkWaitConnectedReady >> ConnectedAndReady!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ joinRandomCustomRoom: Should already be validated earlier @ prepJoinRandomRoom!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getSqlFilter: random// extraParam==
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] sqlFilter==C0 = 0 AND C1 = "Matchmaking"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ generateRoomPropsHash
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ (DONE) generateRoomPropsHash: (System.String)C0=(System.Int32)0, (System.String)C1=(System.String)Matchmaking, (System.String)C3=(System.Int32)1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] joinedPhotonLobby success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnLeftLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Operation failed: OperationResponse 226: ReturnCode: 32765 (Game full). Parameters: {} Server: GameServer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnPhotonJoinRoomFailed: System.Object[]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby]*ERR @ OnPhotonJoinRoomFailed: 32765 - Game full
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ cancelMMAfterLeaveDisconnectKickFail: Failed to Join
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby]**ERR @ cancelMMAfterLeaveDisconnectKickFail: NOT connectedAndReady - Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ cancelMMAfterLeaveDisconnectKickFailUI: Failed to Join
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ OnLobbyStatisticsUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PhotonMgr] @ OnJoinedLobby: [re]ConnectedAndReady=True // UserId=59d6429c1a2c6004f237d5f2 // Nickname=AverieAutumn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnJoinedLobby - Region: us / from mmCrumbs: disconnecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ joinedPhotonLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] sawInteractiveTutorial == False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ hasSeenScripted: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ mmVerifyVersion
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] serverVer == v1.0.10e1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Common] MyVer: v1.0.10e1 / ServerVer: v1.0.10e1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] OnStartMMClick - CONNECTING from mmBread status: connectedIdle / Photon status: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ ConnectThenJoinOrCreateRoom / Photon state: Connected / mmCrumbs: connectedIdle
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ createSQLRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PhotonMgr] @ generateRoomNameFromMaster
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ GenerateRoomOptionsSQLLobby // isPrivate? True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ generateRoomPropsHash
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ (DONE) generateRoomPropsHash: (System.String)C0=(System.Int32)1, (System.String)C1=(System.String)Matchmaking, (System.String)C3=(System.Int32)1, (System.String)C2=(System.String)tol-r-averieautumn-59d6429c1a2c6004f237d5f2-1562=
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] joinedPhotonLobby success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnLeftLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnPhotonCustomRoomPropertiesChanged: propertiesThatChanged.ToStringFull() == {254=True, 253=True, C2=tol-r-averieautumn-59d6429c1a2c6004f237d5f2-1562=, 250={C0,C1,C2,C3}, 248=1, C3=1, C0=1, 246=1, C1=Matchmaking, 255=16}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnPhotonCustomRoomPropertiesChanged: (System.Byte)254=(System.Boolean)True, (System.Byte)253=(System.Boolean)True, (System.String)C2=(System.String)tol-r-averieautumn-59d6429c1a2c6004f237d5f2-1562=, (System.Byte)250=(System.String[])System.String[], (System.Byte)248=(System.Int32)1, (System.String)C3=(System.Int32)1, (System.String)C0=(System.Int32)1, (System.Byte)246=(System.Int32)1, (System.String)C1=(System.String)Matchmaking, (System.Byte)255=(System.Byte)16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnPhotonCustomRoomPropertiesChanged: propertiesThatChanged.ToStringFull() == {curScn=LobbyMain}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnPhotonCustomRoomPropertiesChanged: (System.String)curScn=(System.String)LobbyMain
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnCreatedRoom from serverAddress: 173.193.192.23:5056
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby]*WARN @ OnCreatedRoom: TESTING TTL!!!!!!!!!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+========================
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby-ROOM] @ => OnJoinedRoom (You also come here AFTER OnCreatedRoom)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI]*WARNING @ UIMMSearching: MMStartBtn was not clicked before getting here: Maybe friend invite? Calling OnStartMMClick()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ toggleChat. setOn? True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ joinedPhotonRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby-ROOM] Private match = True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby-ROOM] number of players inside the room: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] Private Room (Room: 'tol-r-averieautumn-59d6429c1a2c6004f237d5f2-1562=' visible,open 1/16 players.)? True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ ToggleChangeHostBtnShow: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] Private Room (Room: 'tol-r-averieautumn-59d6429c1a2c6004f237d5f2-1562=' visible,open 1/16 players.)? True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ ToggleChangeHostBtnShow: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+========================
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] joinedPhotonRoom success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ searchForGroupGame: Left room. (WAITING) on lobby...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+===============================================================
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnLeftRoom -- WAITING for Photon.ConnectedAndReady...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ toggleChat. setOn? False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] Private Room (Room: 'tol-r-averieautumn-59d6429c1a2c6004f237d5f2-1562=' visible,open 1/16 players.)? True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ OnLobbyStatisticsUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PhotonMgr] @ OnJoinedLobby: [re]ConnectedAndReady=True // UserId=59d6429c1a2c6004f237d5f2 // Nickname=AverieAutumn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnJoinedLobby - Region: us / from mmCrumbs: leavingRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ joinedPhotonLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnConnectedToMaster - Left room after reconnected to master
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ leftRoomReadyAfterMaster
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ cancelMMAfterLeaveDisconnectKickFail: Ready (Left Room)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ cancelMMAfterLeaveDisconnectKickFailUI: Ready (Left Room)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ searchForGroupGame: (READY) Joined lobby! Now finding random room...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ generateRoomPropsHash
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ (DONE) generateRoomPropsHash: (System.String)C0=(System.Int32)0, (System.String)C1=(System.String)Matchmaking, (System.String)C3=(System.Int32)1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ (WAIT) checkWaitConnectedReady
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] (READY 1/2) @ checkWaitConnectedReady >> ConnectedAndReady!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ joinRandomCustomRoom: Should already be validated earlier @ prepJoinRandomRoom!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getSqlFilter: random// extraParam==
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] sqlFilter==C0 = 0 AND C1 = "Matchmaking"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ generateRoomPropsHash
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ (DONE) generateRoomPropsHash: (System.String)C0=(System.Int32)0, (System.String)C1=(System.String)Matchmaking, (System.String)C3=(System.Int32)1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] joinedPhotonLobby success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnLeftLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Operation failed: OperationResponse 226: ReturnCode: 32765 (Game full). Parameters: {} Server: GameServer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnPhotonJoinRoomFailed: System.Object[]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby]*ERR @ OnPhotonJoinRoomFailed: 32765 - Game full
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ cancelMMAfterLeaveDisconnectKickFail: Failed to Join
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby]**ERR @ cancelMMAfterLeaveDisconnectKickFail: NOT connectedAndReady - Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ cancelMMAfterLeaveDisconnectKickFailUI: Failed to Join
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ OnLobbyStatisticsUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PhotonMgr] @ OnJoinedLobby: [re]ConnectedAndReady=True // UserId=59d6429c1a2c6004f237d5f2 // Nickname=AverieAutumn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnJoinedLobby - Region: us / from mmCrumbs: disconnecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ joinedPhotonLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] joinedPhotonLobby success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] sawInteractiveTutorial == False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ hasSeenScripted: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ mmVerifyVersion
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] serverVer == v1.0.10e1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Common] MyVer: v1.0.10e1 / ServerVer: v1.0.10e1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] OnStartMMClick - CONNECTING from mmBread status: connectedIdle / Photon status: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ ConnectThenJoinOrCreateRoom / Photon state: Connected / mmCrumbs: connectedIdle
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ generateRoomPropsHash
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ (DONE) generateRoomPropsHash: (System.String)C0=(System.Int32)0, (System.String)C1=(System.String)Matchmaking, (System.String)C3=(System.Int32)1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ (WAIT) checkWaitConnectedReady
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] (READY 1/2) @ checkWaitConnectedReady >> ConnectedAndReady!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ joinRandomCustomRoom: Should already be validated earlier @ prepJoinRandomRoom!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getSqlFilter: random// extraParam==
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] sqlFilter==C0 = 0 AND C1 = "Matchmaking"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ generateRoomPropsHash
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ (DONE) generateRoomPropsHash: (System.String)C0=(System.Int32)0, (System.String)C1=(System.String)Matchmaking, (System.String)C3=(System.Int32)1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnLeftLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Operation failed: OperationResponse 226: ReturnCode: 32765 (Game full). Parameters: {} Server: GameServer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnPhotonJoinRoomFailed: System.Object[]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby]*ERR @ OnPhotonJoinRoomFailed: 32765 - Game full
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ cancelMMAfterLeaveDisconnectKickFail: Failed to Join
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby]**ERR @ cancelMMAfterLeaveDisconnectKickFail: NOT connectedAndReady - Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ cancelMMAfterLeaveDisconnectKickFailUI: Failed to Join
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ OnLobbyStatisticsUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PhotonMgr] @ OnJoinedLobby: [re]ConnectedAndReady=True // UserId=59d6429c1a2c6004f237d5f2 // Nickname=AverieAutumn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnJoinedLobby - Region: us / from mmCrumbs: disconnecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ joinedPhotonLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] joinedPhotonLobby success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGIN] @ OnQuitBtnClick
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[QuitConfirm] @ OnExitNowBtnClick
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Common] QUITTING GAME NOW! // quitReason==PlayerClickedQuit // hackyQuit? True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

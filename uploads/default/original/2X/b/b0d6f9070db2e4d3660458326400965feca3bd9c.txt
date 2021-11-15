@@ -1,0 +1,106 @@
+Initialize engine version: 5.6.5p1 (b5fcd78dd1ab)
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+d3d11: failed to create device and context (887a0004).
+GfxDevice: creating device client; threaded=1
+d3d11: failed to create device and context (887a0004).
+[Vulkan init] extensions: count=3
+[Vulkan init] extensions: name=VK_KHR_surface, enabled=1
+[Vulkan init] extensions: name=VK_KHR_win32_surface, enabled=1
+[Vulkan init] extensions: name=VK_EXT_debug_report, enabled=0
+Vulkan error VK_ERROR_INITIALIZATION_FAILED (-3) file: C:\buildslave\unity\build\Runtime/GfxDevice/vulkan/VKContext.cpp, line: 279
+Crash!!!
+SymInit: Symbol-SearchPath: '.;C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies;C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Gebruiker'
+OS-Version: 10.0.16299 () 0x300-0x1
+C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies.exe:ThroneOfLies.exe (00910000), size: 19038208 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies.exe', fileVersion: 5.6.5.64727
+C:\WINDOWS\SYSTEM32\ntdll.dll:ntdll.dll (772A0000), size: 1626112 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\ntdll.dll', fileVersion: 10.0.16299.402
+C:\WINDOWS\System32\KERNEL32.DLL:KERNEL32.DLL (74C90000), size: 851968 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\KERNEL32.DLL', fileVersion: 10.0.16299.431
+C:\WINDOWS\System32\KERNELBASE.dll:KERNELBASE.dll (76780000), size: 1929216 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\KERNELBASE.dll', fileVersion: 10.0.16299.402
+C:\WINDOWS\System32\USER32.dll:USER32.dll (765F0000), size: 1527808 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\USER32.dll', fileVersion: 10.0.16299.125
+C:\WINDOWS\System32\win32u.dll:win32u.dll (73F20000), size: 90112 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\win32u.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\SYSTEM32\HID.DLL:HID.DLL (72870000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\HID.DLL', fileVersion: 10.0.16299.15
+C:\WINDOWS\System32\msvcrt.dll:msvcrt.dll (76C10000), size: 774144 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\msvcrt.dll', fileVersion: 7.0.16299.125
+C:\WINDOWS\System32\GDI32.dll:GDI32.dll (76BE0000), size: 139264 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\GDI32.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\System32\gdi32full.dll:gdi32full.dll (74EF0000), size: 1437696 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\gdi32full.dll', fileVersion: 10.0.16299.402
+C:\WINDOWS\System32\msvcp_win.dll:msvcp_win.dll (746F0000), size: 507904 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\msvcp_win.dll', fileVersion: 10.0.16299.248
+C:\WINDOWS\System32\ucrtbase.dll:ucrtbase.dll (744E0000), size: 1142784 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\ucrtbase.dll', fileVersion: 10.0.16299.248
+C:\WINDOWS\System32\ole32.dll:ole32.dll (751B0000), size: 1011712 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\ole32.dll', fileVersion: 10.0.16299.371
+C:\WINDOWS\SYSTEM32\VERSION.dll:VERSION.dll (72B70000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\VERSION.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\System32\combase.dll:combase.dll (74250000), size: 2383872 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\combase.dll', fileVersion: 10.0.16299.402
+C:\WINDOWS\System32\RPCRT4.dll:RPCRT4.dll (74130000), size: 778240 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\RPCRT4.dll', fileVersion: 10.0.16299.371
+C:\WINDOWS\System32\SspiCli.dll:SspiCli.dll (73CC0000), size: 131072 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\SspiCli.dll', fileVersion: 10.0.16299.98
+C:\WINDOWS\System32\CRYPTBASE.dll:CRYPTBASE.dll (73CB0000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\CRYPTBASE.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (74600000), size: 356352 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\bcryptPrimitives.dll', fileVersion: 10.0.16299.98
+C:\WINDOWS\System32\sechost.dll:sechost.dll (74C40000), size: 274432 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\sechost.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\System32\SHLWAPI.dll:SHLWAPI.dll (73F40000), size: 282624 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\SHLWAPI.dll', fileVersion: 10.0.16299.402
+C:\WINDOWS\System32\ADVAPI32.dll:ADVAPI32.dll (74BC0000), size: 491520 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\ADVAPI32.dll', fileVersion: 10.0.16299.371
+C:\WINDOWS\System32\SHELL32.dll:SHELL32.dll (752B0000), size: 20135936 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\SHELL32.dll', fileVersion: 10.0.16299.431
+C:\WINDOWS\System32\cfgmgr32.dll:cfgmgr32.dll (73CE0000), size: 229376 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\cfgmgr32.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\System32\shcore.dll:shcore.dll (74660000), size: 557056 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\shcore.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\System32\windows.storage.dll:windows.storage.dll (76CD0000), size: 6053888 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\windows.storage.dll', fileVersion: 10.0.16299.431
+C:\WINDOWS\System32\kernel.appcore.dll:kernel.appcore.dll (73F90000), size: 57344 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\kernel.appcore.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\System32\powrprof.dll:powrprof.dll (76B40000), size: 282624 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\powrprof.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\System32\profapi.dll:profapi.dll (74770000), size: 81920 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\System32\profapi.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\System32\WS2_32.dll:WS2_32.dll (75140000), size: 417792 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\WS2_32.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\System32\OLEAUT32.dll:OLEAUT32.dll (73E10000), size: 602112 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\OLEAUT32.dll', fileVersion: 10.0.16299.431
+C:\WINDOWS\SYSTEM32\OPENGL32.dll:OPENGL32.dll (5F530000), size: 913408 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\OPENGL32.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\SYSTEM32\WINMM.dll:WINMM.dll (6A7C0000), size: 147456 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINMM.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\System32\IMM32.dll:IMM32.dll (744B0000), size: 151552 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\IMM32.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\SYSTEM32\GLU32.dll:GLU32.dll (5F4A0000), size: 151552 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\GLU32.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\SYSTEM32\winmmbase.dll:winmmbase.dll (6A790000), size: 143360 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\winmmbase.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\SYSTEM32\DNSAPI.dll:DNSAPI.dll (6AE10000), size: 606208 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\DNSAPI.dll', fileVersion: 10.0.16299.334
+C:\WINDOWS\System32\NSI.dll:NSI.dll (73F10000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\NSI.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (73280000), size: 196608 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL', fileVersion: 10.0.16299.15
+C:\WINDOWS\SYSTEM32\WINHTTP.dll:WINHTTP.dll (71B80000), size: 708608 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINHTTP.dll', fileVersion: 10.0.16299.371
+C:\Program Files (x86)\Steam\gameoverlayrenderer.dll:gameoverlayrenderer.dll (526F0000), size: 1327104 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\gameoverlayrenderer.dll', fileVersion: 4.51.98.14
+C:\WINDOWS\System32\PSAPI.DLL:PSAPI.DLL (75050000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\PSAPI.DLL', fileVersion: 10.0.16299.15
+C:\WINDOWS\system32\uxtheme.dll:uxtheme.dll (72BB0000), size: 495616 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\uxtheme.dll', fileVersion: 10.0.16299.15
+C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Mono\mono.dll:mono.dll (10000000), size: 2297856 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Mono\mono.dll', fileVersion: 1.0.0.1
+C:\WINDOWS\SYSTEM32\MSWSOCK.dll:MSWSOCK.dll (72800000), size: 348160 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MSWSOCK.dll', fileVersion: 10.0.16299.15
+C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Plugins\AudioPluginDissonance.dll:AudioPluginDissonance.dll (505D0000), size: 872448 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Plugins\AudioPluginDissonance.dll'
+C:\WINDOWS\System32\MSCTF.dll:MSCTF.dll (094A0000), size: 1327104 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\MSCTF.dll', fileVersion: 10.0.16299.402
+C:\WINDOWS\system32\dwmapi.dll:dwmapi.dll (72B80000), size: 143360 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\dwmapi.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\SYSTEM32\d3d11.dll:d3d11.dll (567F0000), size: 2351104 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\d3d11.dll', fileVersion: 10.0.16299.248
+C:\WINDOWS\SYSTEM32\dxgi.dll:dxgi.dll (56750000), size: 602112 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dxgi.dll', fileVersion: 10.0.16299.98
+C:\WINDOWS\SYSTEM32\bcrypt.dll:bcrypt.dll (72710000), size: 102400 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\bcrypt.dll', fileVersion: 10.0.16299.125
+C:\WINDOWS\SYSTEM32\vulkan-1.dll:vulkan-1.dll (61090000), size: 143360 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\vulkan-1.dll'
+C:\WINDOWS\SYSTEM32\MSVCR120.dll:MSVCR120.dll (72980000), size: 974848 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MSVCR120.dll', fileVersion: 12.0.21005.1
+C:\WINDOWS\SYSTEM32\ntmarta.dll:ntmarta.dll (72620000), size: 163840 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\ntmarta.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\SYSTEM32\nvoglv32.dll:nvoglv32.dll (68D80000), size: 25612288 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\nvoglv32.dll', fileVersion: 21.21.13.6909
+C:\WINDOWS\System32\SETUPAPI.dll:SETUPAPI.dll (74790000), size: 4349952 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\SETUPAPI.dll', fileVersion: 10.0.16299.248
+C:\WINDOWS\SYSTEM32\WTSAPI32.dll:WTSAPI32.dll (72CE0000), size: 61440 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WTSAPI32.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (096E0000), size: 1576960 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dbghelp.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\SYSTEM32\DEVOBJ.dll:DEVOBJ.dll (72C30000), size: 139264 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\DEVOBJ.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\System32\WINTRUST.dll:WINTRUST.dll (76B90000), size: 286720 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\WINTRUST.dll', fileVersion: 10.0.16299.431
+C:\WINDOWS\System32\MSASN1.dll:MSASN1.dll (76770000), size: 57344 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\MSASN1.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\System32\CRYPT32.dll:CRYPT32.dll (74D60000), size: 1581056 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\CRYPT32.dll', fileVersion: 10.0.16299.402
+C:\Program Files (x86)\Steam\SteamOverlayVulkanLayer.dll:SteamOverlayVulkanLayer.dll (5F480000), size: 131072 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\SteamOverlayVulkanLayer.dll'
+
+========== OUTPUTING STACK TRACE ==================
+
+0x610A0BDF (vulkan-1) vkEnumeratePhysicalDevices
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00C16750)
+0x00C16750 (ThroneOfLies) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00C18436)
+0x00C18436 (ThroneOfLies) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00C03DEA)
+0x00C03DEA (ThroneOfLies) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00B942AC)
+0x00B942AC (ThroneOfLies) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00B961D8)
+0x00B961D8 (ThroneOfLies) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 010077A3)
+0x010077A3 (ThroneOfLies) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00986DBA)
+0x00986DBA (ThroneOfLies) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 011609D8)
+0x011609D8 (ThroneOfLies) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 0119E664)
+0x0119E664 (ThroneOfLies) 
+0x74CA8674 (KERNEL32) BaseThreadInitThunk
+0x77304B47 (ntdll) RtlGetAppContainerNamedObjectPath
+0x77304B17 (ntdll) RtlGetAppContainerNamedObjectPath
+
+========== END OF STACKTRACE ===========
+
+**** Crash! ****
