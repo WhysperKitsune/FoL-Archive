@@ -1,0 +1,4827 @@
+Initialize engine version: 5.6.5p4 (10861494ddb7)
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   24.21.14.1163
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\GameAnalytics.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\GameAnalytics.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\BouncyCastle_GameSparks.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\BouncyCastle_GameSparks.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\GameSparks.Api.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\GameSparks.Api.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\GameSparks.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\GameSparks.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\GameSparksRT.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\GameSparksRT.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\NestedPrefabs.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\NestedPrefabs.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\System.Windows.Forms.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\System.Windows.Forms.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\UnityEngine.CrashLog.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\UnityEngine.CrashLog.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\TextMeshPro-5.6-Runtime.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\TextMeshPro-5.6-Runtime.dll into Unity Child Domain
+- Completed reload, in  0.048 seconds
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on CommonScriptMono
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+OnLevelWasLoaded was found on Reporter
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+OnLevelWasLoaded was found on LobbyPhoton
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+OnLevelWasLoaded was found on GameSparksMgr
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+OnLevelWasLoaded was found on MySteamFriends
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Boo.Lang.dll (this message is harmless)
+OnLevelWasLoaded was found on PhotonMgr
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+desktop: 1920x1080 59Hz; virtual: 5760x2160 at -3840,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 8.225388 ms
+[PhotonMgr] @ Awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Login] @ resetUI
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[CommonMono] @ Awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Mono.Data.Sqlite.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\System.Data.dll (this message is harmless)
+[Discord] init @ OnEnable
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PhotonMgr] @ Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGIN] @ _preLoadNewScene: DO NOT EXIT PLAY MODE UNTIL SCENE LOADS... UNITY WILL CRASH!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Login] 'LobbyNew' scene is PRE-LOADED!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGIN] @ CheckApiStatusFromRemote
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ToL-API] Checking online status..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ToL-API] Waiting for callback..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Login] (WAIT) @ _WaitServicesBeforeEnableLogin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=green>[Login] Steam: READY (Service 1 of 3)</color>
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] @ GetSteamName
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] Welcome, we are bipolar!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGIN] @ LoadSteamNameIntoUI
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=#FBFF00FF>[Login] Waiting on TolApi...</color>
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGIN] @ CheckApiStatusFromRemote
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ToL-API] Checking online status..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ToL-API] Waiting for callback..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=green>[Login] TolApi: READY (Service 2 of 3)</color>
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Login] (WAIT) @ _WaitServicesBeforeEnableLogin : isGSReady==False // readyToSteamAuth==True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ setAnalytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[CommonMono] @ Start: The date/time (UTC) is 10/20/2018 8:37:58 AM on v2.0.1b
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ (WAIT) waitStableConnection
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ waitStableConnection : hasInternet (READY)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS]*WARN @ waitStableConnection: !GS.Available! Waiting for 30s (this is normal at init)...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ waitStableConnection : isGSAvail (READY)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ (READY) waitStableConnection: a damn fine connection!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ Start (DONE)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] @ Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] @ GetSteamName
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] Welcome, we are bipolar!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] @ getGameLanguage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] GameLanguage: english
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] gameLanguageCodeISO6391: en
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GAStarter] Initializing GameAnalytics (GA)...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\System.Xml.dll (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Throne of Lies/ThroneOfLies_Data/Mono/libc
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Throne of Lies/ThroneOfLies_Data/Mono/.\libc
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Throne of Lies/ThroneOfLies_Data/Mono/libc
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\System.Transactions.dll (this message is harmless)
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2160 -> priority: 1 
+  Thread -> id: 2b40 -> priority: 1 
+  Thread -> id: 2a08 -> priority: 1 
+  Thread -> id: 19b4 -> priority: 1 
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Mono.Security.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Mono.Data.Tds.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\System.Drawing.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Accessibility.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Mono.WebBrowser.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\Mono.Posix.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\System.Xml.Linq.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Managed\System.Runtime.Serialization.dll (this message is harmless)
+[ToL-API] Successful callback: UnityEngine.WWW
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ToL-API-Callback (CheckIsOnline)] {"status":"ONLINE"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ToL-API] STATUS >> ONLINE
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ToL-API] Successful callback: UnityEngine.WWW
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ToL-API-Callback (CheckIsOnline)] {"status":"ONLINE"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ToL-API] STATUS >> ONLINE
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+[GS]*WARN @ grantDeadLeaverGpToastMsgHandlerBase: Skipping incoming popup (not in lobby)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ GsServiceHandler // available? True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=green>[GS] INITIALIZED (isGSReady == true)!</color>
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ PrepSteamConnectReqGetNewTicket // cancelOldTicket? True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] @ GetAuthSessionTicket
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] Cancelling old auth ticket..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] Waiting for OnGetAuthSessionTicketResponse...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] Callback [163 - GetAuthSessionTicketResponse] - 2 -- k_EResultOK
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] Successful OnGetAuthSessionTicketresponse!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] PrepSteamConnectReqGetNewTicket: We now have a steam ticket. Ready for Steam auth!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] @ GetSteamName
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] Welcome, we are bipolar!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] @ GetSteamName
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STEAM] Welcome, we are bipolar!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ SteamConnectRequestWithTicket
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=#FBFF00FF>[Login] Wait2_AuthSteam: READY! Now waiting on Wait3_AuthPhoton (Auth 2 of 2)...</color>
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] SteamConnectRequestWithTicket success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] WELCOME (UserId / pid / gsid): 5a5ddb0f1726eb050d78d2ad
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] GS_INFO >> version:5.6.3.205 // apiKey:u316884P1Sv7 // apiStage:live, deviceId:16cb95d2d0ff71e8accb6286f6b2a9fe10c7211d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSMgrInfo] @ TitleData
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSMgrInfo] @ TitleNews
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGIN] @ gsSetNews (from gsMgr.afterAuthReqSuccess)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] (WAIT) @ _GetTitleNews
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] (READY) @ _GetTitleNews
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGIN] Got title news - placing in news UI..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGIN] Assigning (10) News..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Login] Found news headline: Servers Back Up!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Login] Found news headline: 'Moon Festival' is LIVE!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Login] Found news headline: 'Moon Festival' @ Midnight EST!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Login] Found news headline: New Chinese Discord!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Login] Found news headline: v2.0 Anniversary
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Login] Found news headline: Upcoming Events
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Login] Found news headline: v1.1.x
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Login] Found news headline: v1.1 is Live!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Login] Found news headline: Read our Rules @
+throneofli.es/rules
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Login] Found news headline: Welcome to v1.0!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+==========================================
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ setSocialData
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"TwitchUser":{"twitchUserId":null}}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS]*WARN @ deserializeSocialData: !twitchUser - skipping social data (making new empty)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ setCachedPlayerMatchData
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"_id":"5a5ddb0f1726eb050d78d2ad","syncVer":3,"lastRoom":"tol-r-ashera-5b023e462f91e705356250b7-4234=","lastStartClass":"Sheriff","isEligibleToReconnect":false,"lastClassArr":["CourtWizard","Hunter","Chronomancer","Scorned","Inquisitor","Fool","Alchemist","Assassin","Assassin","CultLeader","Maid","Butler","Assassin","Prince","CourtWizard","King","Maid","CourtWizard","Sorcerer","Sheriff"]}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+cachedPlayerMatchDataJson=={"_id":"5a5ddb0f1726eb050d78d2ad","syncVer":3,"lastRoom":"tol-r-ashera-5b023e462f91e705356250b7-4234=","lastStartClass":"Sheriff","isEligibleToReconnect":false,"lastClassArr":["CourtWizard","Hunter","Chronomancer","Scorned","Inquisitor","Fool","Alchemist","Assassin","Assassin","CultLeader","Maid","Butler","Assassin","Prince","CourtWizard","King","Maid","CourtWizard","Sorcerer","Sheriff"]}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CachedPlayerMatchData _cachedPlayerMatchData==GSMgrInfo+CachedPlayerMatchData
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSMgrInfo] te (timedEvents)==GSMgrInfo+TimedEvents
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ AccountDetailsRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ updateSingleStatDataInt: timesLoggedIn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ updatePlayerStats
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] [WAITING] @ waitPostSteamAuthCallsDone
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] [READY] @ waitPostSteamAuthCallsDone: Ready (from GS) to change scenes after item store is init'd!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+==================================
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] [READY] @ waitPostSessionAndStoreBeforeLogin: Ready (from GS) to login
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+==================================
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LoginPromoMgr] @ InitAfterGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ PrepConnectToPhotonAfterAuth
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSMgrInfo] branch==LIVE_LIVE
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=purple>[GSMgr]*WARN @ PrepConnectToPhotonAfterAuth: Connecting to Photon with gs branch=='LIVE_LIVE'!</color>
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PhotonMgr] @ PhotonConnectGS (SetAuthVals) // pid==5a5ddb0f1726eb050d78d2ad
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] Successful GsServiceHandler => PrepSteamConnectReqGetNewTicket
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Login] @ OnLoginWithSteamGSInitSuccess
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] accountDetailsRequest success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] gp == 4151 // raw? True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSMgr] @ addInvListsToSession
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] updatePlayerStats success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] Successful updatePlayerStats!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PhotonMgr] @ OnJoinedLobby: [re]ConnectedAndReady=True // UserId=5a5ddb0f1726eb050d78d2ad // Nickname=BipTheBoneDaddy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ joinSpectatorToggle // isSpectator==False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ setPhotonPlayerPropBool: isSpectator // newBoolVal==False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=#FBFF00FF>[Login] Wait3_AuthPhoton: READY! Seems like we can stop waiting now!</color>
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=green>[Login] GS: READY (Service 3 of 3)! Yielding 1s to catch up</color>
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=lime>[Login] (READY) @ waitServices</color>
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGIN] @ ToggleSteamBtnInteract
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGIN] Steam LOGIN btn was clicked..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+==========================================
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGGING-IN] @ LoginWithSteamGS()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGIN] @ ToggleSteamBtnInteract
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+==========================================
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGGED-IN] @ ProcessLoginResult()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGGED-IN] About to verify email
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGGING-IN] @ afterLoginInitVerify
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGGING-IN] linkedSteamId == mySteamId. Steam verified.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+==========================================
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGGING-IN] ShowNewTerms()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGGING-IN] ALREADY SEEN Latest terms -- Logging into lobby..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+==========================================
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGGING-IN] PrepLobbyAfterTermsAcceptGS()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGGING-IN] @ CheckVersion
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] serverVer == v2.0.1b
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Common] MyVer: v2.0.1b / ServerVer: v2.0.1b
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] forcePatchOnVerMismatch == True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Login] @ _LoginSuccess
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGIN-TO-LOBBY] @ _changeSceneASAP: **CHANGING SCENES IN 1 SECOND..**
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LOGIN-TO-LOBBY] Callbacks returned. Lobby loaded. Changing NOW!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+==========================================
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnloadTime: 5.501796 ms
+[Twitch] @ Awake (DontDestroy + Singleton)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSMgr]*WARN @ GetTwitchUser: Found socialData, BUT !socialData.twitchUser >> Returning null
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[FriendsList] @ Awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[AccountLinks] @ Awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Common] FOUND LAUNCH ARG 1: -force-d3d11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ItemStore] @ Awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LobbyPromoMgr] @ Awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnLevelWasLoaded: Checking for reconnection to Photon! State = Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ OnLevelWasLoaded: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+===============================
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] Initializing item store...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+===============================
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] Grabbing queue of messages to popup!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ listMessageRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[FriendsList] @ Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ toggleChat. setOn? False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ mmVerifyVersion
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] serverVer == v2.0.1b
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Common] MyVer: v2.0.1b / ServerVer: v2.0.1b
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ PreMatchCheck
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ initGdpr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ GDPRCheckIsEligible
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] allowFollow==True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[AccountLinks] @ Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ BoslofLobbyInit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ InitLobbyUI
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ SetDisplayNameUI: BipTheBoneDaddy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] gp == 4151 // raw? False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ updateGpShown: 4151
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] initLobbyStatsDone==ALMOST
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ToL-API] @ DiscordGetUsersOnline
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ToL-API] Waiting for callback..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ SaveDiscordUserAtLobbyInit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ checkInitJoinedLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] PUN ver: 1.88 gameVer: // v2.0.1b
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Analytics] @ GAInit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Initializing with custom id: 5a5ddb0f1726eb050d78d2ad
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ UpdateDiscordBot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ItemStore] @ Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] WAITING @ _waitGSInitToInitItemStore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] READY @ _waitGSInitToInitItemStore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ItemStore] @ initItemStore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ItemStore] Finished loading scrollers. Updating myChar and caching my equipped items...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryAddWepScrollerContent
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryAddArmorScrollerContent
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryAddEmoteScrollerContent
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryAddDNColorScrollerContent
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ TryAddAvatarScrollerContent
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryAddTitleScrollerContent
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryUpdateUnlockedDNColors
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryPrepWepFallback
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryPrepArmorFallback
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryPrepEmoteFallback
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryPrepDNColorFallbacks
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryPrepAvatarFallback
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryPrepTitleFallback
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryCacheWep
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryCacheArmor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryCacheEmote
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryCacheAvatar
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryCacheTitle
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ validateCacheLogErrs
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ItemStore] @ addEquippedItemsToMyCharAndUI
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryEquipWepToCharAndUI
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryEquipArmorToCharAndUI
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryEquipEmoteToCharAndUI
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryEquipAvatarToCharAndUI
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryEquipTitlesToCharAndUI
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LobbyPromoMgr] @ Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[API] @ SendDiscordJoinCreateHook
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ToL-API] Waiting for callback..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+
+Unloading 121 unused Assets to reduce memory usage. Loaded Objects now: 62444.
+Total: 117.574272 ms (FindLiveObjects: 2.216225 ms CreateObjectMapping: 3.339941 ms MarkObjects: 110.384102 ms  DeleteObjects: 1.633765 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 62444.
+Total: 116.260384 ms (FindLiveObjects: 2.075303 ms CreateObjectMapping: 3.094181 ms MarkObjects: 111.013611 ms  DeleteObjects: 0.076799 ms)
+
+[GS] listMessageRequest success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] _showLobbyMsgs.MessageList: GRANT_DEAD_LEAVER_GP_TOAST_MSG
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] PreMatchCheck success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] Eligible for reconnection (lastRoom==tol-r-ashera-5b023e462f91e705356250b7-4234=): False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] GDPRCheckIsEligible success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] isEligible (GDPR)? True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ gdprReqDataSetIsEligible
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Warning/GameAnalytics: A custom user id must be set before SDK is initialized.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ToL-API] Successful callback: UnityEngine.WWW
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ToL-API-Callback (CheckIsOnline)] {"onlineCount":883}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ToL-API] numDiscordOnline: 883
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ DiscordGetUsersOnline: 883
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ToL-API] Successful callback: UnityEngine.WWW
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[API] Callback (SendDiscordJoinCreateHook): {"success":true}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[API] SendDiscordJoinCreateHook - SUCCESS: True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ grantDeadLeaverGpToastMsg
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] grantDeadLeaverGpToastMsg msg body == <color=#FBFF00FF>90gp Granted!
+<color=#FEFFB9FF>(+0gp Bonus)</color></color>
+<u>Lost</u> as Sheriff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GenericWindow] @ initWindow
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[CommonMono] (WAITING-Tween) @ toastTween
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] gp == 4151 // raw? False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ updateGpShown: 4241
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[CommonMono] (WAITING-5s) @ toastTween
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ startMM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ mmVerifyVersion
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] serverVer == v2.0.1b
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Common] MyVer: v2.0.1b / ServerVer: v2.0.1b
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ ConnectThenJoinOrCreateRoom / Photon state: Connected / mmCrumbs: disconnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ PreMatchCheck
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] PreMatchCheck success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] Eligible for reconnection (lastRoom==tol-r-ashera-5b023e462f91e705356250b7-4234=): False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ initPrepJoinRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ generateRoomPropsHash
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ (DONE) generateRoomPropsHash: (System.String)C0=(System.Int32)0, (System.String)C1=(System.String)Matchmaking, (System.String)C3=(System.Int32)1, (System.String)C4=(System.Int32)0, (System.String)C5=(System.Int32)0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ prepJoinRandomRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ (WAIT) checkWaitConnectedReadyJoinedLobby. tryAgain? False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] (READY 2/2) @ checkWaitConnectedReady >> ConnectedAndReady!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ joinRandomRoomNow: Should already be validated earlier @ prepJoinRandomRoom!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getSqlFilter: matchmakingRandomClassicMode// extraParam==Classic
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] sqlFilter==C0 = 0 AND C1 = "Matchmaking" AND C4 = 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ generateRoomPropsHash
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ (DONE) generateRoomPropsHash: (System.String)C0=(System.Int32)0, (System.String)C1=(System.String)Matchmaking, (System.String)C3=(System.Int32)1, (System.String)C4=(System.Int32)0, (System.String)C5=(System.Int32)0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnLeftLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ setUserAsPlayerWaitGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ joinedPhotonRoom // joinAsSpec==False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+========================
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby-ROOM] @ => OnJoinedRoom (You also come here AFTER OnCreatedRoom)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby-ROOM] Joined: tol-r-nala-5b3941bb0b2045052174c933-9796=
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] Private Room (Room: 'tol-r-nala-5b3941bb0b2045052174c933-9796=' visible,open 9/16 players.)? False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ toggleChat. setOn? True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby-ROOM] number of expectedPlayers inside room 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby-ROOM] Private match = False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby-ROOM] number of TOTAL PEOPLE (+specs) inside the room: 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby-ROOM] number of PLAYERS ONLY (-specs) inside the room: 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby-ROOM] number of SPECTATORS ONLY (-players) inside the room: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresenceLobbyOrRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresence
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: numSpectators
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at LobbyPhoton.OnJoinedRoom () [0x00000] in <filename unknown>:0 
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+NetworkingPeer:SendMonoMessage(PhotonNetworkingMessage, Object[])
+NetworkingPeer:OnEvent(EventData)
+ExitGames.Client.Photon.PeerBase:DeserializeMessageAndCallback(Byte[])
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update()
+ 
+(Filename:  Line: -1)
+
+[GS] joinedPhotonRoom success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ setPhotonRoomPropBoolAsInt: numSpectators // newIntVal==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ joinSpectatorToggle // isSpectator==False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ setPhotonPlayerPropBool: isSpectator // newBoolVal==False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[CommonMono] (READY) @ toastTween
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ dismissMessageRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] dismissMessageRequest success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnPhotonPlayerConnected(newPlayer): ruin358
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresenceLobbyOrRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresence
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: numSpectators
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnPhotonPlayerConnected(newPlayer): sweensween
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresenceLobbyOrRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresence
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: numSpectators
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnPhotonPlayerConnected(newPlayer): Augustine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresenceLobbyOrRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresence
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: numSpectators
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnPhotonPlayerConnected(newPlayer): Duckodile
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresenceLobbyOrRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresence
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: numSpectators
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=pink>[Lobby] @ OnPhotonPlayerDisconnected: Augustine<color=pink>
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnPhotonPlayerConnected(newPlayer): Angulo
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresenceLobbyOrRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresence
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: numSpectators
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=pink>[Lobby] @ OnPhotonPlayerDisconnected: Charrlous968<color=pink>
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnPhotonPlayerConnected(newPlayer): Charrlous968
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresenceLobbyOrRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresence
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: numSpectators
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnPhotonPlayerConnected(newPlayer): Remedy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresenceLobbyOrRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresence
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: numSpectators
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnPhotonPlayerConnected(newPlayer): lilfox
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresenceLobbyOrRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresence
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: numSpectators
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnPhotonPlayerConnected(newPlayer): alive
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresenceLobbyOrRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresence
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: numSpectators
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ InitPrepChangeScene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ PrepLoadDaySceneAllClients: We load the game scene from the master - the clients will auto-load thereafter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] Showing STARTING loading screen...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ MatchStartedFromLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresenceLeavingLobbyStartingMatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresence
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitStartingMatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: numSpectators
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ PrepLoadDaySceneAllClients: We load the game scene from the master - the clients will auto-load thereafter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] Showing STARTING loading screen...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ MatchStartedFromLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresenceLeavingLobbyStartingMatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresence
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitStartingMatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: numSpectators
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ PrepLoadDaySceneAllClients: We load the game scene from the master - the clients will auto-load thereafter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] Showing STARTING loading screen...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ MatchStartedFromLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresenceLeavingLobbyStartingMatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresence
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitStartingMatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: numSpectators
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ PrepLoadDaySceneAllClients: We load the game scene from the master - the clients will auto-load thereafter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] Showing STARTING loading screen...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ MatchStartedFromLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresenceLeavingLobbyStartingMatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresence
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitStartingMatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: numSpectators
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ PrepLoadDaySceneAllClients: We load the game scene from the master - the clients will auto-load thereafter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] Showing STARTING loading screen...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ MatchStartedFromLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresenceLeavingLobbyStartingMatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresence
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitStartingMatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: numSpectators
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ PrepLoadDaySceneAllClients: We load the game scene from the master - the clients will auto-load thereafter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] Showing STARTING loading screen...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ MatchStartedFromLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresenceLeavingLobbyStartingMatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresence
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitStartingMatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: numSpectators
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ PrepLoadDaySceneAllClients: We load the game scene from the master - the clients will auto-load thereafter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] Showing STARTING loading screen...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ MatchStartedFromLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresenceLeavingLobbyStartingMatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresence
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitStartingMatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: numSpectators
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ PrepLoadDaySceneAllClients: We load the game scene from the master - the clients will auto-load thereafter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] Showing STARTING loading screen...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ MatchStartedFromLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresenceLeavingLobbyStartingMatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresence
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitStartingMatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: numSpectators
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] MatchStartedFromLobby success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ PrepLoadDaySceneAllClients: We load the game scene from the master - the clients will auto-load thereafter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] Showing STARTING loading screen...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ MatchStartedFromLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresenceLeavingLobbyStartingMatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresence
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitStartingMatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: numSpectators
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ PrepLoadDaySceneAllClients: We load the game scene from the master - the clients will auto-load thereafter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] Showing STARTING loading screen...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ MatchStartedFromLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresenceLeavingLobbyStartingMatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresence
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitStartingMatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: numSpectators
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ PrepLoadDaySceneAllClients: We load the game scene from the master - the clients will auto-load thereafter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] Showing STARTING loading screen...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ MatchStartedFromLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresenceLeavingLobbyStartingMatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresence
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitStartingMatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: numSpectators
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ PrepLoadDaySceneAllClients: We load the game scene from the master - the clients will auto-load thereafter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] Showing STARTING loading screen...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ MatchStartedFromLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresenceLeavingLobbyStartingMatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresence
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitStartingMatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: numSpectators
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ PrepLoadDaySceneAllClients: We load the game scene from the master - the clients will auto-load thereafter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] Showing STARTING loading screen...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ MatchStartedFromLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresenceLeavingLobbyStartingMatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresence
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitStartingMatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: numSpectators
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ PrepLoadDaySceneAllClients: We load the game scene from the master - the clients will auto-load thereafter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] Showing STARTING loading screen...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ MatchStartedFromLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresenceLeavingLobbyStartingMatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresence
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitStartingMatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: numSpectators
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ PrepLoadDaySceneAllClients: We load the game scene from the master - the clients will auto-load thereafter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] Showing STARTING loading screen...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ MatchStartedFromLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresenceLeavingLobbyStartingMatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresence
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitStartingMatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: numSpectators
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] MatchStartedFromLobby success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] MatchStartedFromLobby success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropBool: isPrivateGroup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropBool: valInt==1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] MatchStartedFromLobby success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] MatchStartedFromLobby success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] MatchStartedFromLobby success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] MatchStartedFromLobby success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] MatchStartedFromLobby success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] MatchStartedFromLobby success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] MatchStartedFromLobby success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] MatchStartedFromLobby success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[StartGameCtrl] Start (+loading screen)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[VERSION] v2.0.1b
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ checkIsRoomPrivate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'Throne_Chair_Camera') is missing!
+ 
+(Filename:  Line: 1744)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 848.106689 ms
+[GS] @ OnLevelWasLoaded: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 85 unused Assets to reduce memory usage. Loaded Objects now: 64151.
+Total: 127.392471 ms (FindLiveObjects: 2.334960 ms CreateObjectMapping: 3.152939 ms MarkObjects: 96.696655 ms  DeleteObjects: 25.207182 ms)
+
+[AsyncGameObjStartup] @ Start: Showing LOADING screen with %...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[REJOIN] Player is joining game for first time.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] MatchStartedFromLobby success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] checkIsRoomPrivate success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Room is Private False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] MatchStartedFromLobby success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] MatchStartedFromLobby success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] MatchStartedFromLobby success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+[AsyncGameObjStartup] READY! HIDING % loading screen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Check Loaded 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Check Loaded 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Check Loaded 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Check Loaded 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Check Loaded 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Check Loaded 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Check Loaded 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Enabled Name UI
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DESTROYING PLAYERS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Check Loaded 7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disabled Name UI
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[INIT] Register 16 PObjects
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RequestOwnership(): 1017 from: 1 Time: 15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RequestOwnership(): 1031 from: 1 Time: 15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RequestOwnership(): 1049 from: 1 Time: 15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] gp == 4241 // raw? False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] INITILIAZED PLAYERUI
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] INITILIAZED PLAYER 0 OUT OF 16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] INITILIAZED PLAYER 1 OUT OF 16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] INITILIAZED PLAYER 2 OUT OF 16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] INITILIAZED PLAYER 3 OUT OF 16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] INITILIAZED PLAYER 4 OUT OF 16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] INITILIAZED PLAYER 5 OUT OF 16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] INITILIAZED PLAYER 6 OUT OF 16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] INITILIAZED PLAYER 7 OUT OF 16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] INITILIAZED PLAYER 8 OUT OF 16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] INITILIAZED PLAYER 9 OUT OF 16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] INITILIAZED PLAYER 10 OUT OF 16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] INITILIAZED PLAYER 11 OUT OF 16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] INITILIAZED PLAYER 12 OUT OF 16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] INITILIAZED PLAYER 13 OUT OF 16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] INITILIAZED PLAYER 14 OUT OF 16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] INITILIAZED PLAYER 15 OUT OF 16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] PLAYERUI LOADED CLASS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] PLACED PLAYER 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] PLACED PLAYER 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] PLACED PLAYER 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] PLACED PLAYER 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] PLACED PLAYER 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] PLACED PLAYER 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] PLACED PLAYER 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] PLACED PLAYER 7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] PLACED PLAYER 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] PLACED PLAYER 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] PLACED PLAYER 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] PLACED PLAYER 11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] PLACED PLAYER 12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] PLACED PLAYER 13
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] PLACED PLAYER 14
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] PLACED PLAYER 15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] INIT WPNS 16 16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] INIT LOAD ROOMS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found Unseen Room
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found Graveyard Room
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found Prison Room
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found Cult Room
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER INIT] Hiding Loading Screen!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ matchLoaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresenceInGame
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresence
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInGameEndPhase
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: numSpectators
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+[GS] matchLoaded success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Check Loaded 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Check Loaded 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Check Loaded 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Check Loaded 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Check Loaded 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Check Loaded 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Check Loaded 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Check Loaded 7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Check Loaded 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Check Loaded 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Game is Ready
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Check Loaded 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PHASE] Switching to day: False Currently Day: True DayNum: 1 Time: 432.84
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Day End
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+[GS] @ GameNewNight
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NIGHT SETUP] Spawn Rooms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NIGHT SETUP] Enable Night UI
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NIGHT SETUP] Set if abilities are usable
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 14597 unused Assets to reduce memory usage. Loaded Objects now: 94582.
+Total: 153.017303 ms (FindLiveObjects: 4.332732 ms CreateObjectMapping: 6.848598 ms MarkObjects: 138.654266 ms  DeleteObjects: 3.180977 ms)
+
+[GS] GameNewNight success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 94591.
+Total: 148.664810 ms (FindLiveObjects: 3.652992 ms CreateObjectMapping: 5.639305 ms MarkObjects: 139.265244 ms  DeleteObjects: 0.106544 ms)
+
+[PHASE] Switching to day: True Currently Day: False DayNum: 1 Time: 483.5388
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DAY] Setup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ACTIVITY] OnPhotonPlayerActivityChanged 5b7898092e386a0516b331bb
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ACTIVITY] Player disconnected? True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER DIED] Player 9 died
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER DIED] Turning on class display
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Check Room
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PHASE] Switching to day: False Currently Day: True DayNum: 2 Time: 589.9742
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Day End
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+[GS] @ GameNewNight
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresenceInGame
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresence
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInGameEndPhase
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: numSpectators
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NIGHT SETUP] Spawn Rooms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NIGHT SETUP] Enable Night UI
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NIGHT SETUP] Set if abilities are usable
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 95387.
+Total: 155.682617 ms (FindLiveObjects: 3.859742 ms CreateObjectMapping: 5.951624 ms MarkObjects: 145.759094 ms  DeleteObjects: 0.111664 ms)
+
+[GS] GameNewNight success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ gameClassChanged
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1072 unused Assets to reduce memory usage. Loaded Objects now: 95053.
+Total: 156.509125 ms (FindLiveObjects: 3.661038 ms CreateObjectMapping: 5.775107 ms MarkObjects: 144.106567 ms  DeleteObjects: 2.966181 ms)
+
+[GS] gameClassChanged success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PHASE] Switching to day: True Currently Day: False DayNum: 2 Time: 640.6288
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DAY] Setup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Start Trial for Player 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+End Trial
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Execute 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[EXECUTION] Execution of 3 Ended.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER DIED] Player 3 died
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER DIED] Turning on class display
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PHASE] Switching to day: False Currently Day: True DayNum: 3 Time: 791.88
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Day End
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+[GS] @ GameNewNight
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresenceInGame
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresence
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInGameEndPhase
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: numSpectators
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NIGHT SETUP] Spawn Rooms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NIGHT SETUP] Enable Night UI
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NIGHT SETUP] Set if abilities are usable
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 96730.
+Total: 167.402283 ms (FindLiveObjects: 3.961167 ms CreateObjectMapping: 5.811190 ms MarkObjects: 157.502884 ms  DeleteObjects: 0.126536 ms)
+
+[GS] GameNewNight success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 96779.
+Total: 166.083755 ms (FindLiveObjects: 3.694683 ms CreateObjectMapping: 5.653446 ms MarkObjects: 156.626892 ms  DeleteObjects: 0.108495 ms)
+
+[ACTIVITY] OnPhotonPlayerActivityChanged 5b3941bb0b2045052174c933
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ACTIVITY] Player disconnected? True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PHASE] Switching to day: True Currently Day: False DayNum: 3 Time: 843.04
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DAY] Setup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sorting Player Dead List
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER DIED] Player 0 died
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+King just died.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER DIED] Turning on class display
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Check Room
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER DIED] Player 1 died
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER DIED] Turning on class display
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Check Room
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ACTIVITY] OnPhotonPlayerActivityChanged 5aa381f4241ecd051951cdd0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ACTIVITY] Player disconnected? True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[KING] Make player 2 King.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ gameClassChanged
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] gameClassChanged success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PHASE] Switching to day: False Currently Day: True DayNum: 4 Time: 1038.877
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Day End
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+[GS] @ GameNewNight
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresenceInGame
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresence
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInGameEndPhase
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: numSpectators
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NIGHT SETUP] Spawn Rooms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NIGHT SETUP] Enable Night UI
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NIGHT SETUP] Set if abilities are usable
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 723 unused Assets to reduce memory usage. Loaded Objects now: 98147.
+Total: 184.886322 ms (FindLiveObjects: 3.859254 ms CreateObjectMapping: 5.860196 ms MarkObjects: 167.212585 ms  DeleteObjects: 7.954030 ms)
+
+[GS] GameNewNight success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ACTIVITY] OnPhotonPlayerActivityChanged 5a7982acfca5830517130934
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ACTIVITY] Player disconnected? True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 98220.
+Total: 195.862366 ms (FindLiveObjects: 4.682354 ms CreateObjectMapping: 6.616736 ms MarkObjects: 184.452347 ms  DeleteObjects: 0.110201 ms)
+
+[PHASE] Switching to day: True Currently Day: False DayNum: 4 Time: 1089.618
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DAY] Setup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sorting Player Dead List
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER DIED] Player 2 died
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+King just died.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER DIED] Turning on class display
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Check Room
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER DIED] Player 10 died
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER DIED] Turning on class display
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Check Room
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ACTIVITY] OnPhotonPlayerActivityChanged 5a167cc95c345e050a87d45f
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ACTIVITY] Player disconnected? True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ACTIVITY] OnPhotonPlayerActivityChanged 59ee137a0ee6fa050b977d60
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ACTIVITY] Player disconnected? True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[KING] Make player 7 King.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ gameClassChanged
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] gameClassChanged success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Start Trial for Player 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TAKEOVER] Attempting to take over MC due to slow timer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TAKEOVER] Attempting to take over MC due to slow timer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+End Trial
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Execute 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Magic Object Hit ObjContainer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Magic Object Hit ObjContainer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[EXECUTION] Execution of 6 Ended.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER DIED] Player 6 died
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER DIED] Turning on class display
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PHASE] Switching to day: False Currently Day: True DayNum: 5 Time: 1343.373
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Day End
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ GameNewNight
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+[Discord] @ UpdatePresenceInGame
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresence
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInGameEndPhase
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: numSpectators
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NIGHT SETUP] Spawn Rooms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NIGHT SETUP] Enable Night UI
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NIGHT SETUP] Set if abilities are usable
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 716 unused Assets to reduce memory usage. Loaded Objects now: 100431.
+Total: 191.824646 ms (FindLiveObjects: 3.995544 ms CreateObjectMapping: 5.920173 ms MarkObjects: 181.592941 ms  DeleteObjects: 0.315489 ms)
+
+[GS] GameNewNight success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ACTIVITY] OnPhotonPlayerActivityChanged 5bcaccb1b0504a0c98da12fa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ACTIVITY] Player disconnected? True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ gameClassChanged
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1301 unused Assets to reduce memory usage. Loaded Objects now: 100603.
+Total: 191.948975 ms (FindLiveObjects: 4.048694 ms CreateObjectMapping: 6.011845 ms MarkObjects: 181.364487 ms  DeleteObjects: 0.523214 ms)
+
+[GS] gameClassChanged success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PHASE] Switching to day: True Currently Day: False DayNum: 5 Time: 1395.391
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DAY] Setup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ACTIVITY] OnPhotonPlayerActivityChanged 5a71aae4e6793a05059ecb96
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ACTIVITY] Player disconnected? True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER DIED] Player 12 died
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER DIED] Turning on class display
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Check Room
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Start Trial for Player 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+End Trial
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Execute 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[EXECUTION] Execution of 5 Ended.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER DIED] Player 5 died
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER DIED] Turning on class display
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ gameClassChanged
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] gameClassChanged success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PHASE] Switching to day: False Currently Day: True DayNum: 6 Time: 1565.357
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Day End
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ GameNewNight
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+[Discord] @ UpdatePresenceInGame
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresence
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInGameEndPhase
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: numSpectators
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NIGHT SETUP] Spawn Rooms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NIGHT SETUP] Enable Night UI
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NIGHT SETUP] Set if abilities are usable
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 1504 unused Assets to reduce memory usage. Loaded Objects now: 102181.
+Total: 201.492645 ms (FindLiveObjects: 4.174743 ms CreateObjectMapping: 5.983563 ms MarkObjects: 190.826492 ms  DeleteObjects: 0.507366 ms)
+
+[GS] GameNewNight success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 102219.
+Total: 200.965546 ms (FindLiveObjects: 4.274461 ms CreateObjectMapping: 5.901643 ms MarkObjects: 190.664108 ms  DeleteObjects: 0.125317 ms)
+
+[PHASE] Switching to day: True Currently Day: False DayNum: 6 Time: 1617.41
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DAY] Setup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER DIED] Player 8 died
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PLAYER DIED] Turning on class display
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Check Room
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DESTROYING PLAYERS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.146882 ms
+[GS] @ OnLevelWasLoaded: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 12297 unused Assets to reduce memory usage. Loaded Objects now: 64225.
+Total: 242.523773 ms (FindLiveObjects: 2.737488 ms CreateObjectMapping: 5.396471 ms MarkObjects: 157.346130 ms  DeleteObjects: 77.043198 ms)
+
+[End] @ Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End] @ init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End] (WAITING) for gsRdy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End] (READY) gsRdy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: gameMode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End] @ initEndSceneScript()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+[End] @ assignColors
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End] isSpectator? False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End] @ loadContainers
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End] @ loadBtnsFromContainers
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End-Stats] @ initMasterStats. Mode == Classic
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End] pCount==16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End] @ processPlayerData[16]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End] startFaction ==  BlueDragon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End] startClass ==  Maid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End] finalFaction ==  BlueDragon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End] finalClass ==  Maid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End] username ==  BipTheBoneDaddy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End] @ setShowGp. Won==True // isSpec==False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End] gpOffset==1 / pCount==16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End] adjustedGp==150 // roundedGp==150 // bonusGpAmt==0 // totalGpEarned==150
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] gp == 4241 // raw? False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End] @ hideExtraRows
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End] @ setWinningFactionIcon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End] Winner: Blue Dragon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresenceEndGame
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ UpdatePresence
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ rpInfo.constructor.rpInitEndGame
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ getPhotonRoomPropInt: numSpectators
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] getPhotonRoomPropInt: valInt==0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End] @ sendStatsAndAnalytics: tol-r-nala-5b3941bb0b2045052174c933-9796=
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End-Stats] @ setMasterStats: 16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End-Stats] isUnseenGame? False. isCultGame? True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End-Stats] @ setFinalStatsCasualClassic
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End-Stats] @ setFinalStatsCasualClassic
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End-Stats] @ setFinalStatsCasualClassic
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End-Stats] @ setFinalStatsCasualClassic
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End-Stats] @ setFinalStatsCasualClassic
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End-Stats] @ setFinalStatsCasualClassic
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End-Stats] @ setFinalStatsCasualClassic
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End-Stats] BD (Good) King spawned this game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End-Stats] @ setFinalStatsCasualClassic
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End-Stats] @ setFinalStatsCasualClassic
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End-Stats] @ setFinalStatsCasualClassic
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End-Stats] @ setFinalStatsCasualClassic
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End-Stats] @ setFinalStatsCasualClassic
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End-Stats] @ setFinalStatsCasualClassic
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End-Stats] @ setFinalStatsCasualClassic
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End-Stats] @ setFinalStatsCasualClassic
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End-Stats] @ setFinalStatsCasualClassic
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End] @ findWinningFactions
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End] endMatchStats == [End] endMatchStats == matchVer: v2.0.1b, matchCount: 1, matchPlayersCountStart: 0, matchTotalPlayersCount: 16, matchEndingPlayersCount: 9, matchPlayersCountEnd: 0, matchBDWon: 1, matchKingWon: 1, matchUnseenSpawned: 0, matchCultSpawned: 1,
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End] Winners (Friendly) == Blue Dragon + Good King
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End] Setting self stats
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End] @ GSGameOverData (PLAYER) // mcInfo==
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End] Sending MC game over: tol-r-nala-5b3941bb0b2045052174c933-9796=
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End] Sending client game over: tol-r-nala-5b3941bb0b2045052174c933-9796=
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End] @ gsGameOverClient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ GameOverClient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End] isMaster? False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End] @ finalEvents // isMaster: False // globalStatsSent: False // USE_MOCK_STATS: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=yellow>[End]*WARN @ finalEvents (stats-finalEvents): Normally, here we'd 'RpcStatsSent' IF MASTER. However, you're either NOT master, globalStatsSent is ALREADY sent, or using mock stats.</color>
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Requeue] @ Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End-Stats] @ Start()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 783 unused Assets to reduce memory usage. Loaded Objects now: 43067.
+Total: 96.746635 ms (FindLiveObjects: 1.564767 ms CreateObjectMapping: 3.070288 ms MarkObjects: 81.329849 ms  DeleteObjects: 10.780995 ms)
+
+[GS] GameOverClient success: {
+    "@class": ".LogEventResponse",
+    "requestId": "636756303619759132_39",
+    "scriptData": {
+        "isPlayer": true,
+        "matchPlayerSelfUpdateRes": true,
+        "newStatus": "In-Game (End)",
+        "newRoomName": "tol-r-nala-5b3941bb0b2045052174c933-9796=",
+        "pDataRes": true,
+        "pStatsIncRes": true
+    }
+}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] sd == GameSparks.Core.GSData
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End]**ERR @ GameOverClient: System.InvalidOperationException: Nullable object must have a value.
+  at System.Nullable`1[System.Int64].get_Value () [0x00000] in <filename unknown>:0 
+  at GameSparksMgr+<GameOverClient>c__AnonStorey28.<>m__0 (GameSparks.Api.Responses.LogEventResponse response) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[End] Successful gsGameOverClient => GameOverClient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS]*WARN @ friendCameOnlineMsgHandlerBase: Skipping incoming ScriptMessage_friendOnlineMessage (not in lobby)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Requeue] @ PrepReturnToLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Requeue] @ OnLeftRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Requeue] @ returnToLobbyNow
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+**LOADING 'LobbyNew' SCENE NOW!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.309191 ms
+[Twitch] @ Awake (DontDestroy + Singleton)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Twitch]**WARN @ TwitchMgr: DESTROYING dupe (probably finished a game + returned to lobby)!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSMgr]*WARN @ GetTwitchUser: Found socialData, BUT !socialData.twitchUser >> Returning null
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ACTk] MenuParticles: self-destroying, other instance already exists & only one instance allowed!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[FriendsList] @ Awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[AccountLinks] @ Awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Common] FOUND LAUNCH ARG 1: -force-d3d11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ItemStore] @ Awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LobbyPromoMgr] @ Awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnLevelWasLoaded: Checking for reconnection to Photon! State = Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ OnLevelWasLoaded: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+===============================
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] Initializing item store...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+===============================
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] Grabbing queue of messages to popup!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ listMessageRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 65 unused Assets to reduce memory usage. Loaded Objects now: 53757.
+Total: 107.850189 ms (FindLiveObjects: 1.615723 ms CreateObjectMapping: 3.040056 ms MarkObjects: 103.068848 ms  DeleteObjects: 0.125074 ms)
+
+[FriendsList] @ Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ initGdpr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ GDPRCheckIsEligible
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] allowFollow==True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[AccountLinks] @ Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+[Lobby] @ BoslofLobbyInit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ InitLobbyUI
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ SetDisplayNameUI: BipTheBoneDaddy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] gp == 4391 // raw? False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ updateGpShown: 4391
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ToL-API] @ DiscordGetUsersOnline
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ToL-API] Waiting for callback..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Discord] @ SaveDiscordUserAtLobbyInit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ checkInitJoinedLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] PUN ver: 1.88 gameVer: // v2.0.1b
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Analytics] @ GAInit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Initializing with custom id: 5a5ddb0f1726eb050d78d2ad
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ UpdateDiscordBot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ItemStore] @ Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] WAITING @ _waitGSInitToInitItemStore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] READY @ _waitGSInitToInitItemStore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ItemStore] @ initItemStore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ItemStore] Finished loading scrollers. Updating myChar and caching my equipped items...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryAddWepScrollerContent
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryAddArmorScrollerContent
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryAddEmoteScrollerContent
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Warning/GameAnalytics: A custom user id must be set before SDK is initialized.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryAddDNColorScrollerContent
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ TryAddAvatarScrollerContent
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryAddTitleScrollerContent
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryUpdateUnlockedDNColors
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryPrepWepFallback
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryPrepArmorFallback
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryPrepEmoteFallback
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryPrepDNColorFallbacks
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryPrepAvatarFallback
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryPrepTitleFallback
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryCacheWep
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryCacheArmor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryCacheEmote
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryCacheAvatar
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryCacheTitle
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ validateCacheLogErrs
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ItemStore] @ addEquippedItemsToMyCharAndUI
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryEquipWepToCharAndUI
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryEquipArmorToCharAndUI
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryEquipEmoteToCharAndUI
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryEquipAvatarToCharAndUI
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ tryEquipTitlesToCharAndUI
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LobbyPromoMgr] @ Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] listMessageRequest success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] _showLobbyMsgs.MessageList: friendOnlineMessage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 63109.
+Total: 132.903534 ms (FindLiveObjects: 2.145520 ms CreateObjectMapping: 3.491590 ms MarkObjects: 127.171341 ms  DeleteObjects: 0.094110 ms)
+
+[API] @ SendDiscordJoinCreateHook
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ToL-API] Waiting for callback..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] GDPRCheckIsEligible success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] isEligible (GDPR)? True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ gdprReqDataSetIsEligible
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ToL-API] Successful callback: UnityEngine.WWW
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ToL-API-Callback (CheckIsOnline)] {"onlineCount":855}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ToL-API] numDiscordOnline: 855
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ DiscordGetUsersOnline: 855
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ToL-API] Successful callback: UnityEngine.WWW
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[API] Callback (SendDiscordJoinCreateHook): {"success":true}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[API] SendDiscordJoinCreateHook - SUCCESS: True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[PhotonMgr] @ OnJoinedLobby: [re]ConnectedAndReady=True // UserId=5a5ddb0f1726eb050d78d2ad // Nickname=BipTheBoneDaddy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ joinSpectatorToggle // isSpectator==False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Photon] @ setPhotonPlayerPropBool: isSpectator // newBoolVal==False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ toggleChat. setOn? False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UI] @ mmVerifyVersion
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GSInfo] serverVer == v2.0.1b
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Common] MyVer: v2.0.1b / ServerVer: v2.0.1b
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] @ PreMatchCheck
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnJoinedLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] Starting lobby polling now.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=pink>[GS] @ joinedPhotonLobby</color>
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] @ OnReceivedRoomListUpdate (init)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] initLobbyStatsDone==ALMOST
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Lobby] initLobbyStatsDone==true
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] PreMatchCheck success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] Eligible for reconnection (lastRoom==tol-r-nala-5b3941bb0b2045052174c933-9796=): False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GS] joinedPhotonLobby success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[QuitConfirm] @ OnExitNowBtnClick
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Common] QUITTING GAME NOW! // quitReason==PlayerClickedQuit // hackyQuit? True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

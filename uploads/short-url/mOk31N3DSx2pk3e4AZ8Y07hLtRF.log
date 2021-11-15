@@ -1,0 +1,1200 @@
+Initialize engine version: 2020.1.0b2 (14d43bf8b596)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/Throne of Lies/ThroneOfLies_Data/UnitySubsystems
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   
+    VRAM:     8079 MB
+    Driver:   26.21.14.4274
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+WARNING: Shader Unsupported: 'Hidden/Nature/Terrain/Utilities' - All passes removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/Nature/Terrain/Utilities' - Setting to default shader.
+UnloadTime: 6.766500 ms
+[StartMgr] @ Start
+[StartMgr] @ _startWaitInitScenePreloaded // WAITING
+[CommonMono] @ Awake
+[CommonMono] @ Start: The date/time (UTC) is 5/15/2020 8:17:25 PM on v2.6.1b
+[DiscordCtrl] @ OnEnable: init
+[DiscordMgr] @ Awake
+[DiscordMgr] @ Start
+[GSUnity] @ Awake
+[GS] @ Start
+[GS] @ initGSHaveSecret
+[GS] @ (WAIT) waitStableConnection
+[GS] @ waitStableConnection : hasInternet (READY)
+[GS]*WARN @ waitStableConnection: !GS.Available! Waiting for 30s (this is normal at init)...
+[GSUnity] @ Start: Initializing with settings: GameSparksSettings-3-LIVE-LIVE
+[Lang] @ Awake
+[LangCtrl] @ GetcurrentLang : Steam
+[LocalPrefs] Found saved Lang pref, 'Lang'==English
+[Lang] L==English
+[PhotonMgr] @ Awake
+[PhotonMgr] @ Start
+[PlatformMgr] @ Awake
+[SteamMgr] @ Awake
+[SteamFriends] @ Awake
+[SteamMgr] @ Start
+[SteamMgr] @ _setSteamPlatformWhenAvailable (WAITING)
+[SteamMgr] @ _setSteamPlatformWhenAvailable (RDY)
+[PlatformMgr] @ SetSteam
+[SteamMgr] @ Start: Starting coroutine...
+[SteamMgr] @ iStart: Waiting for client...
+[SteamFriends] @ Start
+[SteamClient] @ Start
+[SteamClient] INITIALIZING STEAM NOW (START)...
+[SteamClient] INITIALIZING STEAM NOW (DONE) // isValid==True
+[SteamClient] Steam Initialized: Welcome, Bip // 76561198058945873
+[SteamMgr] @ iStart: READY! Initializing...
+[SteamMgr] @ initSteamMgr
+[SteamMgr] @ GetSteamName
+[SteamMgr] Welcome, Bip!
+[SteamMgr] @ GetSteamID64
+[SteamMgr] @ GetGameLanguage
+[SteamMgr] GetGameLanguage: english
+[SteamMgr] gameLanguageCodeISO6391: en
+[SteamMgr] @ registerCallbacks
+[SteamMgr] @ registerCallResults
+[SteamMgr] @ _GetAuthSessionTicketStr
+[SteamFriends] @ InitSteamFriends
+[ToL-API] Waiting for callback from WaitForRequest (from initPing)...
+[Twitch] @ Awake
+[SteamMgr] @ generateFreshAuthTicketOnly
+[TwitchMgr] @ Start
+[StartMgr] @ StartPreloadingSceneAsync: Login
+[StartMgr] @ _waitPreviousTaskThenPreloadSceneAsync: Ready to preload: 'Login' (No need to wait/queue)
+[StartMgr] @ PreloadSceneAddAsyncNow
+[StartMgr] @ _waitPreload90: LoginScreen
+[StartMgr] _startWaitInitScenePreloaded // READY - Init Scene Preloaded // InitScene==Login // Prepping to activate...
+[StartMgr] @ _changeSceneSequence: Login // WAITING
+[StartMgr] @ _waitQueuedForPrevOp // Checking if we need to wait before we load scene: Login
+[StartMgr]*WARN @ _changeSceneSequence: !shouldFadeToBlack
+[StartMgr] @ onScenePreloaded90: LoginScreen
+[StartMgr] @ _unloadSceneAsync: Start
+[StartMgr]*WARN @ checkIsValidToUnloadScene: Skipping since 'Start' scene // Breaking...
+[Login] @ resetUI
+[GS] @ OnActiveSceneChanged: LoginScreen
+[LangCtrl] @ GetcurrentLang : Steam
+[LocalPrefs] Found saved Lang pref, 'Lang'==English
+[StartMgr] @ StartPreloadingSceneAsync: Lobby
+[StartMgr] @ _waitPreviousTaskThenPreloadSceneAsync (WAITING) to finish: 'Login' >> When done, we'll preload: 'Lobby'
+[Login] (WAIT) @ _WaitServicesBeforeEnableLogin
+<color=#F4F435>[Login] @ _wait0BasicConnection (WAIT)...</color>
+<color=green>[Login] _wait0BasicConnection: READY // Has Internet Connection</color>
+[StartMgr] @ _fadeInSceneToTransparentAfterValidation
+[StartMgr] _fadeInSceneToTransparentAfterValidation: fadeToTransparent==True
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 3280 -> priority: 1 
+  Thread -> id: 3018 -> priority: 1 
+  Thread -> id: 42fc -> priority: 1 
+  Thread -> id: 1744 -> priority: 1 
+<color=#F4F435>[Login] @ _wait1AuthPlatformInit (WAIT)...</color>
+[DiscordMgr] @ OnReady (OnReadyInfo)
+[DiscordMgr] @ updatePresenceInitOnRdy
+[StartMgr] @ OnSceneOpCompleteIncludingFades: LoginScreen
+[StartMgr] @ _waitPreviousTaskThenPreloadSceneAsync (DONE) // Ready for new scene ops!
+[StartMgr] @ PreloadSceneAddAsyncNow
+[StartMgr] @ _waitPreload90: LobbyNew
+[GS] @ GsServiceHandler // available? True
+<color=green>[GS] INITIALIZED (isGSReady == true)!</color>
+[GS] @ _gsInitLoginSceneWaitPlatform (WAIT)
+[GS] @ _gsInitWaitPlatform (WAIT)
+[GS] @ _gsInitWaitPlatform (RDY)
+[GS] @ _gsInitLoginSceneWaitPlatform (RDY): About to _waitSteamInitThenFlagRdy
+[GS] @ _waitSteamInitThenFlagRdy (WAIT)
+[GS] @ _waitSteamInitThenFlagRdy (READY)
+[GS] @ _waitSteamInitThenFlagRdy: GS + Steam is ready >> Ready for Steam auth // Logging in first to get title info
+[LangCtrl] @ GetcurrentLang : Steam
+[LocalPrefs] Found saved Lang pref, 'Lang'==English
+[GS] @ steamConnectRequestWithTicket // Attempt #1
+<color=green>[Login] _wait1AuthPlatformInit: READY // plat==steam</color>
+[Login] @ loadSteamNameLogosIntoUI // steamName==Bip
+<color=#F4F435>[Login] @ _wait2GSPreAuthNonce (WAIT)...</color>
+<color=green>[Login] _wait2GSPreAuthNonce: READY</color>
+[GS] @ waitStableConnection : isGSAvail (READY)
+[GS] @ (READY) waitStableConnection: a damn fine connection!
+<color=#F4F435>[Login] @ _wait3GSInitLogin (WAIT)...</color>
+<color=green>[Login] _wait3GSInitLogin: READY</color>
+<color=#F4F435>[Login] @ _wait4GSInitLogin (WAIT)...</color>
+[StartMgr] @ onScenePreloaded90: LobbyNew
+[GS]*WARN @ grantDeadLeaverGpToastMsgHandlerBase: Skipping incoming popup (not in lobby)
+[ToL-API] Successful callback: UnityEngine.Networking.UnityWebRequest
+[API] Callback (initPing): {"status":"ONLINE"}
+<color=green>[API] initPing - SUCCESS - API Online</color>
+[GS] @ OnAuthRes
+[GS] OnAuthRes success (Attempt #1!
+[GS] WELCOME (UserId / pid / gsid): 5a5ddb0f1726eb050d78d2ad
+[GS] GS_INFO >> version:5.6.5.214 // apiStage:live, deviceId:08acb5cdfe8dd101b740af35c44c16cf257dd99c
+[GSMgrInfo] @ TitleData
+[GSMgrInfo] @ TitleNews
+[GS] (WAIT) @ _GetTitleNews
+[GS] (READY) @ _GetTitleNews
+[Login] Assigning (10) News..
+[Login] Found news headline: Hotfix v2.6.1b
+[Login] Found news headline: Mini v2.6.1a
+[Login] Found news headline: Patch v2.6.1
+[Login] Found news headline: Major Patch v2.6b
+[Login] Found news headline: v2.5.4b Hotfix
+[Login] Found news headline: v2.5.4a Hotfix
+[Login] Found news headline: v2.5.4 Mini Patch
+[Login] Found news headline: v2.5.2: Bug Fix + QoL
+[Login] Found news headline: v2.5.1a: Bug Fix/Stability Patch
+[Login] Found news headline: Free Weekend!
+==========================================
+[GSInfo]**WARN @ PlayerDataInner (Constructor): takenSurveyArr NOT found! Skipping. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[GS] @ setSocialData
+{"TwitchUser":{"twitchUserId":null}}
+[GS]*WARN @ deserializeSocialData: !twitchUser - skipping social data (making new empty)
+cachedPlayerMatchDataJson=={"_id":"5a5ddb0f1726eb050d78d2ad","syncVer":3,"lastRoom":"tol-r-bip-5a5ddb0f1726eb050d78d2ad-4075=","lastStartClass":"CultLeader","isEligibleToReconnect":false,"lastClassArr":["King","Princess","Princess","Knight","Hunter","Sorcerer","Princess","Mystic","Sheriff","Physician","Paladin","Princess","Mercenary","Alchemist","Observer","Scorned","Drunk","Noble","Prince","CultLeader"],"lastRegion":"us"}
+CachedPlayerMatchData _cachedPlayerMatchData==GSMgrInfo+CachedPlayerMatchData
+[GSMgrInfo] te (timedEvents)==GSMgrInfo+TimedEvents
+[GS] @ AccountDetailsRequest
+[GS] [WAITING] @ waitPostSteamAuthCallsDone
+[GS] @ PrepConnectToPhotonAfterAuth
+[GSMgrInfo] branch==LIVE_LIVE
+<color=purple>[GSMgr] Connecting to Photon with gs branch=='LIVE_LIVE'!</color>
+[Photon] @ initPhotonConnectGS // region==us
+[PhotonMgr] @ PhotonConnectGS (SetAuthVals) // pid==5a5ddb0f1726eb050d78d2ad
+[PhotonMgr] CHANGING Region from (Default): us to (New): us
+[PhotonMgr] CONNECTING // region==us // ready==True // _gameVer==v2.6.1b
+Using WebSocket to connect NameServer (AuthMode is AuthOnceWss). 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Protocol switch from: Udp to: WebSocketSecure. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[PhotonMgr] @ connectToPhotonWithSettings: isSuccess==True
+ClientWebSocket: System.Net.WebSockets.Managed.ClientWebSocket 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[GS] accountDetailsRequest success!
+[GSInfo] gp == 61107 // raw? True
+[GSMgr] @ addInvListsToSession
+[GS] [READY] @ waitPostSessionAndStoreBeforeLogin: Ready (from GS) to login
+==================================
+[LoginPromoMgr] @ InitAfterGS
+<color=green>[Login] _wait4GSInitLogin: READY</color>
+<color=#F4F435>[Login] @ _wait5PhotonAuth (WAIT)...</color>
+Using PhotonServerSettings.Protocol when leaving the NameServer (AuthMode is AuthOnceWss): Udp 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Protocol switch from: WebSocketSecure to: Udp. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Using PhotonServerSettings.Protocol when leaving the NameServer (AuthMode is AuthOnceWss): Udp 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[PhotonMgr] @ OnConnectedToPhoton // Region==us // pGameVer==v2.6.1b //IsBannedPendingClosed==False
+[Photon] @ OnJoinedLobby (OnConnectedToMaster)
+[PhotonMgr] @ OnJoinedLobby: [re]ConnectedAndReady=True // UserId=5a5ddb0f1726eb050d78d2ad // Nickname=Bip // region==us // gameVersion==v2.6.1b
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+[PhotonMgr] @ joinSpectatorToggle // isSpectator==False
+[PhotonMgr] @ setPhotonPlayerPropBool: isSpectator // newBoolVal==False // fromFunc==setUserAsPlayerPlayerProps
+<color=green>[Login] _wait5PhotonAuth: READY</color>
+<color=#F4F435>[Login] @ _wait6Processing (WAIT)...</color>
+<color=green>[Login] _wait6Processing: READY</color>
+<color=lime>[Login] (READY) @ waitServices</color>
+[Login] @ ToggleSteamBtnInteract // setInteractable==True
+[Login] Steam LOGIN btn was clicked/invoked..
+==========================================
+[LOGGING-IN] @ LoginWithSteamGS()
+[Login] @ ToggleSteamBtnInteract // setInteractable==False
+==========================================
+[LOGGED-IN] @ ProcessLoginResult()
+[LOGGED-IN] About to verify email
+[LOGGING-IN] @ afterLoginInitVerify
+[LOGGING-IN] linkedSteamId == mySteamId. Steam verified.
+==========================================
+[LOGGING-IN] ShowNewTerms()
+[LOGGING-IN] ALREADY SEEN Latest terms -- Logging into lobby..
+==========================================
+[LOGGING-IN] _prepLobbyAfterTermsAcceptGS()
+[LOGGING-IN] @ CheckVersion
+[GSInfo] serverVer == v2.6.1b
+[Common] MyVer: v2.6.1b / ServerVer: v2.6.1b
+[GSInfo] forcePatchOnVerMismatch == True
+[Login] @ _LoginSuccess
+[Login] @ _LoginSuccess
+[Login] @ _changeSceneASAP: **CHANGING SCENES SOON**
+[LOGIN-TO-LOBBY] Callbacks returned. Lobby loaded. Changing NOW!
+==========================================
+[StartMgr] @ _changeSceneSequence: Lobby // WAITING
+[StartMgr] @ _waitQueuedForPrevOp // Checking if we need to wait before we load scene: Lobby
+[TwitchLobbyUI] @ Awake
+[Lang] @ Awake
+[FriendsList] @ Awake
+[AccountLinks] @ Awake
+[ItemStore] @ Awake
+[DestroyOtherAudioListenersOnAwake]*WARN @ Awake: DESTROYING (immediately) AudioListener on: Main Camera
+[LobbyPromoMgr] @ Awake
+[ccDepot]**WARN @ Awake: Dupe singleton! Probably a testing clone, no worries. Destroying this.
+[ccAbilDepot]**WARN @ Awake: Dupe singleton! Probably a testing clone, no worries. Destroying this.
+[GS] @ OnActiveSceneChanged: LobbyNew
+===============================
+[GS] Initializing item store...
+===============================
+[GS] Grabbing queue of messages to popup!
+[GS] @ listMessageRequest
+[Lobby] @ OnActiveSceneChanged: Checking for reconnection to Photon! State==Connected
+[TwitchLobbyUI] @ Start
+[GSMgr]*WARN @ GetTwitchUser: Found socialData, BUT !socialData.twitchUser >> Returning null
+[LangCtrl] @ GetcurrentLang : Steam
+[LocalPrefs] Found saved Lang pref, 'Lang'==English
+[FriendsList] @ Start
+[UI] @ toggleChat. setOn? False
+[UI] @ mmVerifyVersion
+[GSInfo] serverVer == v2.6.1b
+[Common] MyVer: v2.6.1b / ServerVer: v2.6.1b
+[UI] @ initGdpr
+[GS] @ GDPRCheckIsEligible
+[UI] allowFollow==True
+[UI] @ toggleChat. setOn? False
+[UI] @ mmVerifyVersion
+[GSInfo] serverVer == v2.6.1b
+[Common] MyVer: v2.6.1b / ServerVer: v2.6.1b
+[UI] @ resetForceRefreshFriendsTimer
+[UI] @ _waitThenEnableBtn (WAITING 60s)
+[AccountLinks] @ Start
+[Lobby] @ Start
+[Lobby] @ BoslofLobbyInit
+[Lobby] @ InitLobbyUI
+[UI] @ SetDisplayNameUI: Bip
+[GSInfo] gp == 61107 // raw? False
+[UI] @ updateGpShown: 61107
+[Lobby] initLobbyStatsDone==ALMOST
+[Lobby] (READY 2/2) @ updateLobbyStats
+[Lobby] initLobbyStatsDone==true
+[ToL-API] @ DiscordGetUsersOnline
+[ToL-API] Waiting for callback from WaitForRequest (from DiscordGetUsersOnline)...
+[DiscordMgr] @ SaveDiscordUserAtLobbyInit
+[GS] @ SaveDiscordUser
+[Lobby] @ checkInitJoinedLobby
+[SteamMgr] @ CachedSteamInfo.CancelTicket
+[Photon] PUN ver: 1.101 gameVer: // v2.6.1b
+[StartMgr] @ StartPreloadingSceneAsync: DayOrTutorial
+[StartMgr] @ _waitPreviousTaskThenPreloadSceneAsync (WAITING) to finish: 'Lobby' >> When done, we'll preload: 'DayOrTutorial'
+[ItemStore] @ Start
+[GS] WAITING @ _waitGSInitToInitItemStore
+[GS] READY @ _waitGSInitToInitItemStore
+[ItemStore] @ initItemStore
+[ItemStore] Finished loading scrollers. Updating myChar and caching my equipped items...
+[GS] @ tryAddWepScrollerContent
+[GS] @ tryAddArmorScrollerContent
+[GS] @ tryAddEmoteScrollerContent
+[GS] @ tryAddDNColorScrollerContent
+[GS] @ TryAddAvatarScrollerContent
+[GS] @ tryAddTitleScrollerContent
+[GS] @ tryUpdateUnlockedDNColors
+[GS] @ tryPrepWepFallback
+[GS] @ tryPrepArmorFallback
+[GS] @ tryPrepEmoteFallback
+[GS] @ tryPrepDNColorFallbacks
+[GS] @ tryPrepAvatarFallback
+[GS] @ tryPrepTitleFallback
+[GS] @ tryCacheWep
+[GS] @ tryCacheArmor
+[GS] @ tryCacheEmote
+[GS] @ tryCacheAvatar
+[GS] @ tryCacheTitle
+[GS] @ validateCacheLogErrs
+[ItemStore] @ addEquippedItemsToMyCharAndUI
+[GS] @ tryEquipWepToCharAndUI
+[GS] @ tryEquipArmorToCharAndUI
+[GS] @ tryEquipEmoteToCharAndUI
+[GS] @ tryEquipAvatarToCharAndUI
+[GS] @ tryEquipTitlesToCharAndUI
+[LobbyPromoMgr] @ Start
+[LobbyPromoMgr] Special banner patch
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 73506.
+Total: 185.406300 ms (FindLiveObjects: 3.319300 ms CreateObjectMapping: 5.299300 ms MarkObjects: 176.667200 ms  DeleteObjects: 0.120100 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 74160.
+Total: 170.080600 ms (FindLiveObjects: 2.622300 ms CreateObjectMapping: 4.988800 ms MarkObjects: 162.329500 ms  DeleteObjects: 0.139600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+[StartMgr] @ _unloadSceneAsync: Login
+[ToL-API] Successful callback: UnityEngine.Networking.UnityWebRequest
+[ToL-API-Callback (CheckIsOnline)] {"onlineCount":1939}
+[ToL-API] numDiscordOnline: 1939
+[Lobby] @ DiscordGetUsersOnline: 1939
+[Lobby] @ OnJoinedLobby
+[Lobby] Starting lobby polling now.
+<color=pink>[GS] @ joinedPhotonLobby</color>
+[DiscordMgr] @ OnInitJoinedLobbyCheckQueuedJoin
+[UI] @ toggleChat. setOn? False
+[GS] listMessageRequest success!
+[GS] _showLobbyMsgs.MessageList: GRANT_DEAD_LEAVER_GP_TOAST_MSG
+[GS] GDPRCheckIsEligible success!
+[GS] isEligible (GDPR)? True
+[UI] @ gdprReqDataSetIsEligible
+[GS] SaveDiscordUser success!
+[Lobby] (READY 2/2) @ updateLobbyStats
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 74813.
+Total: 172.940400 ms (FindLiveObjects: 2.718800 ms CreateObjectMapping: 4.293600 ms MarkObjects: 165.799800 ms  DeleteObjects: 0.127700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+[StartMgr] @ _fadeInSceneToTransparentAfterValidation
+[StartMgr] _fadeInSceneToTransparentAfterValidation: fadeToTransparent==True
+
+Unloading 90 unused Assets to reduce memory usage. Loaded Objects now: 73226.
+Total: 184.686400 ms (FindLiveObjects: 2.776200 ms CreateObjectMapping: 4.194900 ms MarkObjects: 177.211500 ms  DeleteObjects: 0.503400 ms)
+
+[GS] joinedPhotonLobby success!
+[Lobby] @ onJoinedPhotonLobbyRes // Success==True
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 75190.
+Total: 186.813800 ms (FindLiveObjects: 3.136100 ms CreateObjectMapping: 4.841300 ms MarkObjects: 178.635400 ms  DeleteObjects: 0.200300 ms)
+
+[StartMgr] @ OnSceneOpCompleteIncludingFades: LobbyNew
+[UI] @ toggleChat. setOn? False
+[UI] @ startMM
+[UI] @ mmVerifyVersion
+[GSInfo] serverVer == v2.6.1b
+[Common] MyVer: v2.6.1b / ServerVer: v2.6.1b
+[Lobby] @ ConnectThenJoinOrCreateRoom / Photon state: Connected / mmCrumbs: InLobby
+[GS] @ PreMatchCheck
+[GS] [READY] @ waitPostSteamAuthCallsDone: Ready (from GS) to change scenes after item store is init'd!
+==================================
+[StartMgr] @ _waitPreviousTaskThenPreloadSceneAsync (DONE) // Ready for new scene ops!
+[StartMgr] @ PreloadSceneAddAsyncNow
+[StartMgr] @ _waitPreload90: DayAsync
+[StartMgr] @ onScenePreloaded90: DayAsync
+[GS] PreMatchCheck success!
+[GS] Eligible for reconnection (lastRoom==tol-r-bip-5a5ddb0f1726eb050d78d2ad-4075=): False
+[Lobby] @ initPrepJoinRoom
+[PhotonMgr] @ generateRoomPropsHash
+[PhotonMgr] @ (DONE) generateRoomPropsHash: (System.String)C0=(System.Int32)0, (System.String)C1=(System.String)Matchmaking, (System.String)C3=(System.Int32)1, (System.String)C4=(System.Int32)0, (System.String)C5=(System.Int32)0
+[Lobby] @ prepJoinRandomRoom
+[Lobby] @ (WAIT) _checkWaitConnectedReadyJoinedLobby. tryAgain? False
+[Lobby] (READY 2/2) @ checkWaitConnectedReady >> ConnectedAndReady!
+[Lobby] @ joinRandomRoomNow: Should already be validated earlier @ prepJoinRandomRoom!
+[PhotonMgr] @ getSqlFilter: matchmakingRandomClassicMode// extraParam==Classic
+[PhotonMgr] sqlFilter==C0 = 0 AND C1 = "Matchmaking" AND C4 = 0
+[PhotonMgr] @ generateRoomPropsHash
+[PhotonMgr] @ (DONE) generateRoomPropsHash: (System.String)C0=(System.Int32)0, (System.String)C1=(System.String)Matchmaking, (System.String)C3=(System.Int32)1, (System.String)C4=(System.Int32)0, (System.String)C5=(System.Int32)0
+[Lobby] @ OnLeftLobby
+Using PhotonServerSettings.Protocol when leaving the NameServer (AuthMode is AuthOnceWss): Udp 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[LobbyChat] @ Awake
+[PhotonMgr] @ getPhotonRoomPropInt: gameMode // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+[PhotonMgr] @ setUserAsPlayerWaitGS
+========================
+[Lobby-ROOM:1] @ OnJoinedRoom (You also come here AFTER OnCreatedRoom)
+[PhotonMgr] @ getPhotonRoomPropStr: roomName
+[PhotonMgr] getPhotonRoomPropInt: valStr==tol-r-urgetopurge-5af5d45f802b13054b9009d4-1266=
+[Lobby-ROOM:2a] Joined: tol-r-urgetopurge-5af5d45f802b13054b9009d4-1266= // About to handle 'Queue as Group' leader, if from old group
+[PhotonMgr] @ getPhotonRoomPropInt: gameMode // FROM func==CachedPhotonGroup (Constructor)
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==CachedPhotonGroup (Constructor)
+[Lobby-ROOM:2b] About to detect if private group...
+[Lobby-ROOM:3] About to check if original creator of the room...
+[Lobby-ROOM:4a] Updating the join room update cache...
+[Lobby-ROOM:4b] Setting Photon room/player props...
+[PhotonMgr] @ SetInitPlayerRoomPropsAfterJoinedRoomGS
+[PhotonMgr] @ setPhotonRoomPropBoolAsInt: numSpectators // newIntVal==0 // fromFunc==SetInitPhotonPlayerRoomPropsAfterJoinedRoomGS
+[PhotonMgr] @ joinSpectatorToggle // isSpectator==False
+[PhotonMgr] @ setPhotonPlayerPropBool: isSpectator // newBoolVal==False // fromFunc==setUserAsPlayerPlayerProps
+[Lobby-ROOM:5] Verifying the integrity of the room...
+[Lobby] Private Room (Room: 'tol-r-urgetopurge-5af5d45f802b13054b9009d4-1266=' visible,open 8/16 players.)? False
+[Lobby-ROOM:6] Removing myself from expected users...
+[Lobby-ROOM:7] Toggling chat on and showing Discord msg...
+[UI] @ toggleChat. setOn? True
+[Lobby-ROOM:8] Setting some general join room logs...
+[Lobby-ROOM] number of expectedPlayers inside room 0
+[Lobby-ROOM] @ joinRoomLogs: Private match==False
+[Lobby-ROOM] @ joinRoomLogs: number of TOTAL PEOPLE (+specs) inside the room: 8
+[Lobby-ROOM] @ joinRoomLogs: number of PLAYERS ONLY (-specs) inside the room: 8
+[Lobby-ROOM] joinRoomLogs: number of SPECTATORS ONLY (-players) inside the room: 0
+[Lobby-ROOM:9b] Setting Discord RP for room...
+[DiscordMgr] @ UpdatePresenceLobbyOrRoom
+[DiscordMgr] @ setInRoomOrPlayerConnectedStatus
+[PhotonMgr] @ getPhotonRoomPropInt: gameMode // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+[DiscordMgr] @ UpdatePresence
+[Discord] @ rpInfo.constructor
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+[PhotonMgr] @ getPhotonRoomPropInt: numSpectators // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+[Lobby-ROOM:10b] Joining room + setting GS live db presence...
+[Lobby] @ gsJoinRoomSetLiveDbSetPresence
+[GS] @ joinedPhotonRoom // joinAsSpec==False
+[Lobby-ROOM:11] READY!
+========================
+[GS] @ grantDeadLeaverGpToastMsgPopup
+[GS] grantDeadLeaverGpToastMsgPopup msg body == <color=#F4F435>45gp Granted!
+<color=#FEFFB9FF>(+0gp Bonus)</color></color>
+<u>Lost</u> as Cult Leader
+[GenericWindow] @ initWindow
+[CommonMono] (WAITING-Tween) @ toastTween
+[GSInfo] gp == 61107 // raw? False
+[UI] @ updateGpShown: 61152
+[GS] joinedPhotonRoom success!
+[CommonMono] (WAITING-5s) @ toastTween
+[CommonMono] (READY) @ toastTween
+[GS] @ dismissMessageRequest
+[GS] dismissMessageRequest success!
+<color=pink>[Lobby] @ OnPhotonPlayerDisconnected: Shrok<color=pink>
+<color=pink>[Lobby] @ OnPhotonPlayerDisconnected: Bonespear<color=pink>
+[UI] _waitThenEnableBtn (READY)
+[Lobby] @ OnPhotonPlayerConnected(newPlayer): Thief (5bcf1886bac468050de654ad)
+[Lobby] OnPhotonPlayerConnected: Checking if full player slots...
+[Lobby] OnPhotonPlayerConnected: Checking if OVER-full player slots...
+[Lobby] OnPhotonPlayerConnected: isPrivate==False // isFullPlayerSlots==False // isOverfullPlayers==False // isJoiningPlayerSpec==False
+[DiscordMgr] @ UpdatePresenceLobbyOrRoom
+[DiscordMgr] @ setInRoomOrPlayerConnectedStatus
+[PhotonMgr] @ getPhotonRoomPropInt: gameMode // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+[DiscordMgr] @ UpdatePresence
+[Discord] @ rpInfo.constructor
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+[PhotonMgr] @ getPhotonRoomPropInt: numSpectators // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+[Lobby] @ OnPhotonPlayerConnected(newPlayer): CornerTakenQuickly (5a4255e0858d0104fb5c526f)
+[Lobby] OnPhotonPlayerConnected: Checking if full player slots...
+[Lobby] OnPhotonPlayerConnected: Checking if OVER-full player slots...
+[Lobby] OnPhotonPlayerConnected: isPrivate==False // isFullPlayerSlots==False // isOverfullPlayers==False // isJoiningPlayerSpec==False
+[DiscordMgr] @ UpdatePresenceLobbyOrRoom
+[DiscordMgr] @ setInRoomOrPlayerConnectedStatus
+[PhotonMgr] @ getPhotonRoomPropInt: gameMode // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+[DiscordMgr] @ UpdatePresence
+[Discord] @ rpInfo.constructor
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+[PhotonMgr] @ getPhotonRoomPropInt: numSpectators // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+[Lobby] @ OnPhotonPlayerConnected(newPlayer): CountVlad (5a9475fee395f2050d273252)
+[Lobby] OnPhotonPlayerConnected: Checking if full player slots...
+[Lobby] OnPhotonPlayerConnected: Checking if OVER-full player slots...
+[Lobby] OnPhotonPlayerConnected: isPrivate==False // isFullPlayerSlots==False // isOverfullPlayers==False // isJoiningPlayerSpec==False
+[DiscordMgr] @ UpdatePresenceLobbyOrRoom
+[DiscordMgr] @ setInRoomOrPlayerConnectedStatus
+[PhotonMgr] @ getPhotonRoomPropInt: gameMode // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+[DiscordMgr] @ UpdatePresence
+[Discord] @ rpInfo.constructor
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+[PhotonMgr] @ getPhotonRoomPropInt: numSpectators // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+<color=pink>[Lobby] @ OnPhotonPlayerDisconnected: Thief<color=pink>
+[Lobby] @ OnPhotonPlayerConnected(newPlayer): FinnleyR (5e6ea58d5820070522689aaf)
+[Lobby] OnPhotonPlayerConnected: Checking if full player slots...
+[Lobby] OnPhotonPlayerConnected: Checking if OVER-full player slots...
+[Lobby] OnPhotonPlayerConnected: isPrivate==False // isFullPlayerSlots==False // isOverfullPlayers==False // isJoiningPlayerSpec==False
+[DiscordMgr] @ UpdatePresenceLobbyOrRoom
+[DiscordMgr] @ setInRoomOrPlayerConnectedStatus
+[PhotonMgr] @ getPhotonRoomPropInt: gameMode // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+[DiscordMgr] @ UpdatePresence
+[Discord] @ rpInfo.constructor
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+[PhotonMgr] @ getPhotonRoomPropInt: numSpectators // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+[Lobby] @ OnPhotonPlayerConnected(newPlayer): FollowZombie (59d8cfab0242f3050b99be53)
+[Lobby] OnPhotonPlayerConnected: Checking if full player slots...
+[Lobby] OnPhotonPlayerConnected: Checking if OVER-full player slots...
+[Lobby] OnPhotonPlayerConnected: isPrivate==False // isFullPlayerSlots==False // isOverfullPlayers==False // isJoiningPlayerSpec==False
+[DiscordMgr] @ UpdatePresenceLobbyOrRoom
+[DiscordMgr] @ setInRoomOrPlayerConnectedStatus
+[PhotonMgr] @ getPhotonRoomPropInt: gameMode // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+[DiscordMgr] @ UpdatePresence
+[Discord] @ rpInfo.constructor
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+[PhotonMgr] @ getPhotonRoomPropInt: numSpectators // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+[Lobby] @ OnPhotonPlayerConnected(newPlayer): uncomfortablytall (5e881750d337b10521ebf2f3)
+[Lobby] OnPhotonPlayerConnected: Checking if full player slots...
+[Lobby] OnPhotonPlayerConnected: Checking if OVER-full player slots...
+[Lobby] OnPhotonPlayerConnected: isPrivate==False // isFullPlayerSlots==False // isOverfullPlayers==False // isJoiningPlayerSpec==False
+[DiscordMgr] @ UpdatePresenceLobbyOrRoom
+[DiscordMgr] @ setInRoomOrPlayerConnectedStatus
+[PhotonMgr] @ getPhotonRoomPropInt: gameMode // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+[DiscordMgr] @ UpdatePresence
+[Discord] @ rpInfo.constructor
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+[PhotonMgr] @ getPhotonRoomPropInt: numSpectators // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+[Lobby] @ OnPhotonPlayerConnected(newPlayer): Zack660 (5a1f8a985c345e050a653309)
+[Lobby] OnPhotonPlayerConnected: Checking if full player slots...
+[Lobby] OnPhotonPlayerConnected: Checking if OVER-full player slots...
+[Lobby] OnPhotonPlayerConnected: isPrivate==False // isFullPlayerSlots==False // isOverfullPlayers==False // isJoiningPlayerSpec==False
+[DiscordMgr] @ UpdatePresenceLobbyOrRoom
+[DiscordMgr] @ setInRoomOrPlayerConnectedStatus
+[PhotonMgr] @ getPhotonRoomPropInt: gameMode // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+[DiscordMgr] @ UpdatePresence
+[Discord] @ rpInfo.constructor
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+[PhotonMgr] @ getPhotonRoomPropInt: numSpectators // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+[Lobby] @ OnPhotonPlayerConnected(newPlayer): NeutralKiller (5e573c2c6857cc0523ce9fbc)
+[Lobby] OnPhotonPlayerConnected: Checking if full player slots...
+[Lobby] OnPhotonPlayerConnected: Checking if OVER-full player slots...
+[Lobby] OnPhotonPlayerConnected: isPrivate==False // isFullPlayerSlots==False // isOverfullPlayers==False // isJoiningPlayerSpec==False
+[DiscordMgr] @ UpdatePresenceLobbyOrRoom
+[DiscordMgr] @ setInRoomOrPlayerConnectedStatus
+[PhotonMgr] @ getPhotonRoomPropInt: gameMode // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+[DiscordMgr] @ UpdatePresence
+[Discord] @ rpInfo.constructor
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+[PhotonMgr] @ getPhotonRoomPropInt: numSpectators // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+[Lobby] @ OnPhotonPlayerConnected(newPlayer): Raf (5e92bc049400d905038bdf77)
+[Lobby] OnPhotonPlayerConnected: Checking if full player slots...
+[Lobby] OnPhotonPlayerConnected: Checking if OVER-full player slots...
+[Lobby] OnPhotonPlayerConnected: isPrivate==False // isFullPlayerSlots==False // isOverfullPlayers==False // isJoiningPlayerSpec==False
+[DiscordMgr] @ UpdatePresenceLobbyOrRoom
+[DiscordMgr] @ setInRoomOrPlayerConnectedStatus
+[PhotonMgr] @ getPhotonRoomPropInt: gameMode // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+[DiscordMgr] @ UpdatePresence
+[Discord] @ rpInfo.constructor
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+[PhotonMgr] @ getPhotonRoomPropInt: numSpectators // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+[Lobby] @ OnPhotonPlayerConnected(newPlayer): RobUblind267 (5e148befe8ffc60525cdcd33)
+[Lobby] OnPhotonPlayerConnected: Checking if full player slots...
+[Lobby] OnPhotonPlayerConnected: Checking if OVER-full player slots...
+[Lobby] OnPhotonPlayerConnected: isPrivate==False // isFullPlayerSlots==False // isOverfullPlayers==False // isJoiningPlayerSpec==False
+[DiscordMgr] @ UpdatePresenceLobbyOrRoom
+[DiscordMgr] @ setInRoomOrPlayerConnectedStatus
+[PhotonMgr] @ getPhotonRoomPropInt: gameMode // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+[DiscordMgr] @ UpdatePresence
+[Discord] @ rpInfo.constructor
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+[PhotonMgr] @ getPhotonRoomPropInt: numSpectators // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+[Lobby] @ OnPhotonPlayerConnected(newPlayer): Alicia (5a410fc0355aa804e3bf63f8)
+[Lobby] OnPhotonPlayerConnected: Checking if full player slots...
+[Lobby] OnPhotonPlayerConnected: Checking if OVER-full player slots...
+[Lobby] OnPhotonPlayerConnected: isPrivate==False // isFullPlayerSlots==True // isOverfullPlayers==False // isJoiningPlayerSpec==False
+[DiscordMgr] @ UpdatePresenceLobbyOrRoom
+[DiscordMgr] @ setInRoomOrPlayerConnectedStatus
+[PhotonMgr] @ getPhotonRoomPropInt: gameMode // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+[DiscordMgr] @ UpdatePresence
+[Discord] @ rpInfo.constructor
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+[PhotonMgr] @ getPhotonRoomPropInt: numSpectators // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+[Lobby] OnPhotonPlayerConnected: isFullAndNotAlreadyStarted >> READY >> Heading to InitPrepChangeScene()
+[Lobby] @ InitPrepChangeSceneAllClients
+[Lobby] @ PrepLoadDaySceneAllClientsAndMC: We load the game scene from the master - the clients will auto-load thereafter
+[Lobby] PrepLoadDaySceneAllClientsAndMC: Showing STARTING loading screen...
+[Lobby] @ _toggleLobbyLoadingPnlEnsureLoad: Showing STARTING loading screen w/timeout...
+[PhotonMgr] @ getPhotonRoomPropInt: gameMode // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+[GS] @ MatchStartedFromLobby
+[DiscordMgr] @ UpdatePresenceStartedGame
+[DiscordMgr] @ setStartingGamePresenceStatus
+[PhotonMgr] @ getPhotonRoomPropInt: gameMode // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+[DiscordMgr] @ UpdatePresence
+[Discord] @ rpInfo.constructor
+[Discord] @ rpInfo.constructor.rpInitStartingMatch
+[Discord] @ rpInfo.constructor.rpInitLobbyJoinedRoom
+[PhotonMgr] @ getPhotonRoomPropInt: numSpectators // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+[GS] MatchStartedFromLobby success!
+[GSInfo] gp == 61152 // raw? False
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[LobbyPhoton] sending pi: 3694, ARMOR_FROST_M, WEAPON_BLOOD_STAFF, 1, 13, 8, Hollow, AVATAR_CLASS_KING_PRETENDER, 20, 5a5ddb0f1726eb050d78d2ad
+[Classes]*WARN @ CheckisKing: It's very rare classExt is generic 'King' from old system!
+[Lobby] @ RpcChangeSceneToDay (MC+CLIENTS): Loading level => ASYNC + ADDITIVELY...
+[StartMgr] @ StartPreloadingSceneAsync: DayOrTutorial
+[StartMgr]*WARN @ StartPreloadingSceneAsync: Scene is already preloaded/active! Aborting.
+[StartMgr] @ _changeSceneSequence: DayOrTutorial // WAITING
+[StartMgr] @ _waitQueuedForPrevOp // Checking if we need to wait before we load scene: DayOrTutorial
+[MATCH] @ Initializing
+[GS] @ checkIsRoomPrivate
+[PredefinedClassList] @ Start
+[StartMgr]*WARN @ _changeSceneSequence: !shouldFadeToBlack
+[GS] @ OnActiveSceneChanged: DayAsync
+[Lobby] @ OnActiveSceneChanged: Checking for reconnection to Photon! State==Connected
+[MusicPlaylist] @ _fadeOutThenDestroy (START)
+[AsyncGameObjStartup] @ Start: Showing LOADING screen with %...
+[DestroyOtherAudioListenersOnAwake]*WARN @ Awake: DESTROYING (immediately) AudioListener on: Camera
+[DayLoaded] @ Start: Player is joining game for first time.
+[StartMgr] @ _unloadSceneAsync: Lobby
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+[GS] checkIsRoomPrivate success!
+[MATCH] Room is Private False
+
+Unloading 715 unused Assets to reduce memory usage. Loaded Objects now: 78529.
+Total: 183.972300 ms (FindLiveObjects: 3.945400 ms CreateObjectMapping: 4.311500 ms MarkObjects: 175.117500 ms  DeleteObjects: 0.597500 ms)
+
+[StartMgr] @ _fadeInSceneToTransparentAfterValidation
+[StartMgr] _fadeInSceneToTransparentAfterValidation: fadeToTransparent==False
+[AsyncGameObjStartup] READY! HIDING % loading screen
+[StartMgr] @ OnSceneOpCompleteIncludingFades: DayAsync
+[LobbyChat] @ Awake
+[MATCH] @ RpcStartLoading: 0 22:22:21.0879395
+RequestOwnership(): 1014 from: 1 Time: 388
+RequestOwnership(): 1032 from: 1 Time: 388
+RequestOwnership(): 1046 from: 1 Time: 388
+[SGC] @ InitPlayersClient
+[GSInfo] gp == 61152 // raw? False
+[SGC] Init Weps
+The referenced script on this Behaviour (Game Object 'FX_BlackHole') is missing! 
+(Filename:  Line: 334)
+
+[SGC] Finalize Weps
+[DrawingImage] @ setColorBtns // colorsLength==13
+[DrawingImage] @ setQuill
+[DrawingImage] @ setQuill
+[DrawingImage] @ setQuill
+[DrawingImage] @ setQuill
+[DrawingImage] @ setQuill
+[DrawingImage] @ setQuill
+[DrawingImage] @ setQuill
+[DrawingImage] @ setQuill
+[DrawingImage] @ setQuill
+[DrawingImage] @ setQuill
+[DrawingImage] @ setQuill
+[DrawingImage] @ setQuill
+[DrawingImage] @ setQuill
+[GS] @ matchLoaded
+[DiscordMgr] @ UpdatePresenceInGame
+[PhotonMgr] @ getPhotonRoomPropInt: gameMode // FROM func==UpdatePresenceInGame
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==UpdatePresenceInGame
+[DiscordMgr] @ UpdatePresence
+[Discord] @ rpInfo.constructor
+[PhotonMgr] @ getPhotonRoomPropInt: gameMode // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+[Discord] @ rpInfo.constructor.rpInGameEndPhase
+[PhotonMgr] @ getPhotonRoomPropInt: numSpectators // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+[GS] matchLoaded success!
+Game is Ready
+SoftMask will not work on HeaderText (TMPro.TextMeshProUGUI) because material Overlock-Bold-SDF-Outline (UnityEngine.Material) doesn't support masking. Add masking support to your material or set Graphic's material to None to use a default one. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+[GS] @ GameNewNight
+
+Unloading 168 unused Assets to reduce memory usage. Loaded Objects now: 120279.
+Total: 305.753300 ms (FindLiveObjects: 5.587000 ms CreateObjectMapping: 6.407500 ms MarkObjects: 293.463000 ms  DeleteObjects: 0.295500 ms)
+
+[GS] GameNewNight success!
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 120325.
+Total: 326.339800 ms (FindLiveObjects: 6.020500 ms CreateObjectMapping: 6.564700 ms MarkObjects: 313.612800 ms  DeleteObjects: 0.141400 ms)
+
+[GameEnding] @ StartCheckGameOverInit
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+[GS] @ GameNewNight
+[DiscordMgr] @ UpdatePresenceInGame
+[PhotonMgr] @ getPhotonRoomPropInt: gameMode // FROM func==UpdatePresenceInGame
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==UpdatePresenceInGame
+[DiscordMgr] @ UpdatePresence
+[Discord] @ rpInfo.constructor
+[PhotonMgr] @ getPhotonRoomPropInt: gameMode // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+[Discord] @ rpInfo.constructor.rpInGameEndPhase
+[PhotonMgr] @ getPhotonRoomPropInt: numSpectators // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 121800.
+Total: 329.421700 ms (FindLiveObjects: 6.721900 ms CreateObjectMapping: 4.897000 ms MarkObjects: 317.581900 ms  DeleteObjects: 0.220200 ms)
+
+[GS] GameNewNight success!
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 121826.
+Total: 326.777400 ms (FindLiveObjects: 5.362800 ms CreateObjectMapping: 4.686100 ms MarkObjects: 316.534900 ms  DeleteObjects: 0.193000 ms)
+
+[GameEnding] @ StartCheckGameOverInit
+Magic Object Hit ObjContainer
+Magic Object Hit ObjContainer
+[GameEnding] @ StartCheckGameOverInit
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+[GS] @ GameNewNight
+[DiscordMgr] @ UpdatePresenceInGame
+[PhotonMgr] @ getPhotonRoomPropInt: gameMode // FROM func==UpdatePresenceInGame
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==UpdatePresenceInGame
+[DiscordMgr] @ UpdatePresence
+[Discord] @ rpInfo.constructor
+[PhotonMgr] @ getPhotonRoomPropInt: gameMode // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+[Discord] @ rpInfo.constructor.rpInGameEndPhase
+[PhotonMgr] @ getPhotonRoomPropInt: numSpectators // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 123646.
+Total: 369.396800 ms (FindLiveObjects: 5.656400 ms CreateObjectMapping: 5.338500 ms MarkObjects: 358.211500 ms  DeleteObjects: 0.190000 ms)
+
+[GS] GameNewNight success!
+[GS] @ gameClassChanged
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 123675.
+Total: 352.316900 ms (FindLiveObjects: 5.611100 ms CreateObjectMapping: 4.998900 ms MarkObjects: 341.519900 ms  DeleteObjects: 0.186300 ms)
+
+[GS] gameClassChanged success!
+[GameEnding] @ StartCheckGameOverInit
+[GS] @ gameClassChanged
+[GS] gameClassChanged success!
+[GS]*WARN @ friendCameOnlineMsgHandlerBase: Skipping incoming ScriptMessage_friendOnlineMessage (not in lobby)
+[GameEnding] @ StartCheckGameOverInit
+[GS]*WARN @ friendRichPresenceChangedMsgHandlerBase: Skipping incoming popup (not in lobby)
+[GS]*WARN @ friendRichPresenceChangedMsgHandlerBase: Skipping incoming popup (not in lobby)
+[GS]*WARN @ friendCameOnlineMsgHandlerBase: Skipping incoming ScriptMessage_friendOnlineMessage (not in lobby)
+[GS]*WARN @ friendRichPresenceChangedMsgHandlerBase: Skipping incoming popup (not in lobby)
+Magic Object Hit ObjContainer
+[GS]*WARN @ friendRichPresenceChangedMsgHandlerBase: Skipping incoming popup (not in lobby)
+Magic Object Hit ObjContainer
+[GameEnding] @ StartCheckGameOverInit
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+[GS] @ GameNewNight
+[DiscordMgr] @ UpdatePresenceInGame
+[PhotonMgr] @ getPhotonRoomPropInt: gameMode // FROM func==UpdatePresenceInGame
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==UpdatePresenceInGame
+[DiscordMgr] @ UpdatePresence
+[Discord] @ rpInfo.constructor
+[PhotonMgr] @ getPhotonRoomPropInt: gameMode // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+[Discord] @ rpInfo.constructor.rpInGameEndPhase
+[PhotonMgr] @ getPhotonRoomPropInt: numSpectators // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 126586.
+Total: 400.483900 ms (FindLiveObjects: 6.271100 ms CreateObjectMapping: 5.111400 ms MarkObjects: 388.919500 ms  DeleteObjects: 0.181400 ms)
+
+[GS] GameNewNight success!
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 126693.
+Total: 387.864200 ms (FindLiveObjects: 6.385900 ms CreateObjectMapping: 4.936600 ms MarkObjects: 376.325300 ms  DeleteObjects: 0.216100 ms)
+
+[GameEnding] @ StartCheckGameOverInit
+[GS]*WARN @ friendRichPresenceChangedMsgHandlerBase: Skipping incoming popup (not in lobby)
+[GS]*WARN @ friendRichPresenceChangedMsgHandlerBase: Skipping incoming popup (not in lobby)
+[GS] @ silentMsgLobbyOnly. LobbyOnly? True
+[GS]*WARN @ silentMsg: Skipping incoming silent msg (not in lobby)
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+[GS] @ GameNewNight
+[DiscordMgr] @ UpdatePresenceInGame
+[PhotonMgr] @ getPhotonRoomPropInt: gameMode // FROM func==UpdatePresenceInGame
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==UpdatePresenceInGame
+[DiscordMgr] @ UpdatePresence
+[Discord] @ rpInfo.constructor
+[PhotonMgr] @ getPhotonRoomPropInt: gameMode // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+[Discord] @ rpInfo.constructor.rpInGameEndPhase
+[PhotonMgr] @ getPhotonRoomPropInt: numSpectators // FROM func==getGameModeInt
+[PhotonMgr] getPhotonRoomPropInt: valInt==0 // FROM func==getGameModeInt
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 128387.
+Total: 413.267100 ms (FindLiveObjects: 6.160000 ms CreateObjectMapping: 4.915500 ms MarkObjects: 401.990100 ms  DeleteObjects: 0.201000 ms)
+
+[GS] GameNewNight success!
+[CommonMono] @ _shakeScreenThenDisable (START) // d==0.5
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 128455.
+Total: 409.176800 ms (FindLiveObjects: 5.320300 ms CreateObjectMapping: 4.775100 ms MarkObjects: 398.897500 ms  DeleteObjects: 0.183600 ms)
+
+[CommonMono] @ _shakeScreenThenDisable (END)
+[GameEnding] @ StartCheckGameOverInit
+[GameEnding] @ StartCheckGameOverInit
+[GS]*WARN @ friendRichPresenceChangedMsgHandlerBase: Skipping incoming popup (not in lobby)
+[GS] @ LeftLiveGameCleanly
+[PhotonMgr] @ SetLastInGameDirtyDC: None // stack==  at System.Environment.get_StackTrace () <0x00000 + 0xffffffff> 0 in <00000000000000000000000000000000>:0 
+  at PhotonMgr.SetLastInGameDirtyDC (StartGameCtrl+CritErrPopupType _errType) <0x00000 + 0xffffffff> 0 in <00000000000000000000000000000000>:0 
+  at StartGameCtrl.localPlayerReturnToLobby (StartGameCtrl+CritErrPopupType errPopupToShow) <0x00000 + 0xffffffff> 0 in <00000000000000000000000000000000>:0 
+  at OldMoatGames.AnimatedGifPlayer+OnLoadErrorAction.Invoke () <0x00000 + 0xffffffff> 0 in <00000000000000000000000000000000>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () <0x00000 + 0xffffffff> 0 in <00000000000000000000000000000000>:0 
+  at System.EventHandler`1[TEventArgs].Invoke (System.Object sender, TEventArgs e) <0x00000 + 0xffffffff> 0 in <00000000000000000000000000000000>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) <0x00000 + 0xffffffff> 0 in <00000000000000000000000000000000>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ReleaseMouse (UnityEngine.EventSystems.PointerEventData pointerEvent, UnityEngine.GameObject currentOverGo) <0x00000 + 0xffffffff> 0 in <00000000000000000000000000000000>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMousePress (UnityEngine.EventSystems.PointerInputModule+MouseButtonEventData data) <0x00000 + 0xffffffff> 0 in <00000000000000000000000000000000>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMouseEvent (System.Int32 id) <0x00000 + 0xffffffff> 0 in <00000000000000000000000000000000>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () <0x00000 + 0xffffffff> 0 in <00000000000000000000000000000000>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () <0x00000 + 0xffffffff> 0 in <00000000000000000000000000000000>:0 
+[StartMgr] @ StartPreloadingSceneAsync: Lobby
+[StartMgr] @ _waitPreviousTaskThenPreloadSceneAsync: Ready to preload: 'Lobby' (No need to wait/queue)
+[StartMgr] @ PreloadSceneAddAsyncNow
+[StartMgr] @ _waitPreload90: LobbyNew
+[StartMgr] @ _changeSceneSequence: Lobby // WAITING
+[StartMgr] @ _waitQueuedForPrevOp // Checking if we need to wait before we load scene: Lobby
+Using PhotonServerSettings.Protocol when leaving the NameServer (AuthMode is AuthOnceWss): Udp 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Using PhotonServerSettings.Protocol when leaving the NameServer (AuthMode is AuthOnceWss): Udp 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[StartMgr] @ onScenePreloaded90: LobbyNew
+[GS] LeftLiveGameCleanly success!
+[TwitchLobbyUI] @ Awake
+[Lang] @ Awake
+[FriendsList] @ Awake
+[AccountLinks] @ Awake
+[ItemStore] @ Awake
+[DestroyOtherAudioListenersOnAwake]*WARN @ Awake: DESTROYING (immediately) AudioListener on: DayCamera
+[LobbyPromoMgr] @ Awake
+[ccDepot]**WARN @ Awake: Dupe singleton! Probably a testing clone, no worries. Destroying this.
+[ccAbilDepot]**WARN @ Awake: Dupe singleton! Probably a testing clone, no worries. Destroying this.
+[GS] @ OnActiveSceneChanged: LobbyNew
+===============================
+[GS] Initializing item store...
+===============================
+[GS] Grabbing queue of messages to popup!
+[GS] @ listMessageRequest
+[Lobby] @ OnActiveSceneChanged: Checking for reconnection to Photon! State==InitializingApplication
+[Lobby] @ OnActiveSceneChanged: Checking for reconnection to Photon! State==InitializingApplication
+[TwitchLobbyUI] @ Start
+[GSMgr]*WARN @ GetTwitchUser: Found socialData, BUT !socialData.twitchUser >> Returning null
+[LangCtrl] @ GetcurrentLang : Steam
+[LocalPrefs] Found saved Lang pref, 'Lang'==English
+[FriendsList] @ Start
+[FriendsList]*WARNING @ Start: NOT connected to Photon (YET)! Trying again in 1s (Attempt 1/10)
+[UI] @ initGdpr
+[GS] @ GDPRCheckIsEligible
+[UI] allowFollow==True
+[UI] @ toggleChat. setOn? False
+[UI] @ mmVerifyVersion
+[GSInfo] serverVer == v2.6.1b
+[Common] MyVer: v2.6.1b / ServerVer: v2.6.1b
+[UI] @ resetForceRefreshFriendsTimer
+[UI] @ _waitThenEnableBtn (WAITING 60s)
+[AccountLinks] @ Start
+[Lobby] @ Start
+[Lobby] @ BoslofLobbyInit
+[Lobby] @ InitLobbyUI
+[UI] @ SetDisplayNameUI: Bip
+[GSInfo] gp == 61152 // raw? False
+[UI] @ updateGpShown: 61152
+[ToL-API] @ DiscordGetUsersOnline
+[ToL-API] Waiting for callback from WaitForRequest (from DiscordGetUsersOnline)...
+[DiscordMgr] @ SaveDiscordUserAtLobbyInit
+[GS] @ SaveDiscordUser
+[Lobby] @ checkInitJoinedLobby
+[SteamMgr] @ CachedSteamInfo.CancelTicket
+[Photon] PUN ver: 1.101 gameVer: // v2.6.1b
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+[StartMgr] @ StartPreloadingSceneAsync: DayOrTutorial
+[StartMgr]*WARN @ StartPreloadingSceneAsync: Scene is already preloaded/active! Aborting.
+[ItemStore] @ Start
+[GS] WAITING @ _waitGSInitToInitItemStore
+[GS] READY @ _waitGSInitToInitItemStore
+[ItemStore] @ initItemStore
+[ItemStore] Finished loading scrollers. Updating myChar and caching my equipped items...
+[GS] @ tryAddWepScrollerContent
+[GS] @ tryAddArmorScrollerContent
+[GS] @ tryAddEmoteScrollerContent
+[GS] @ tryAddDNColorScrollerContent
+[GS] @ TryAddAvatarScrollerContent
+[GS] @ tryAddTitleScrollerContent
+[GS] @ tryUpdateUnlockedDNColors
+[GS] @ tryPrepWepFallback
+[GS] @ tryPrepArmorFallback
+[GS] @ tryPrepEmoteFallback
+[GS] @ tryPrepDNColorFallbacks
+[GS] @ tryPrepAvatarFallback
+[GS] @ tryPrepTitleFallback
+[GS] @ tryCacheWep
+[GS] @ tryCacheArmor
+[GS] @ tryCacheEmote
+[GS] @ tryCacheAvatar
+[GS] @ tryCacheTitle
+[GS] @ validateCacheLogErrs
+[ItemStore] @ addEquippedItemsToMyCharAndUI
+[GS] @ tryEquipWepToCharAndUI
+[GS] @ tryEquipArmorToCharAndUI
+[GS] @ tryEquipEmoteToCharAndUI
+[GS] @ tryEquipAvatarToCharAndUI
+[GS] @ tryEquipTitlesToCharAndUI
+[LobbyPromoMgr] @ Start
+[LobbyPromoMgr] Special banner patch
+
+Unloading 68 unused Assets to reduce memory usage. Loaded Objects now: 85022.
+Total: 230.864100 ms (FindLiveObjects: 4.476600 ms CreateObjectMapping: 5.061700 ms MarkObjects: 220.946800 ms  DeleteObjects: 0.378800 ms)
+
+[GS] listMessageRequest success!
+[GS] _showLobbyMsgs.MessageList: FRIEND_RICH_PRESENCE_CHANGED_MSG
+[GS] _showLobbyMsgs.MessageList: friendOfflineMsg
+[GS] _showLobbyMsgs.MessageList: FRIEND_RICH_PRESENCE_CHANGED_MSG
+[GS] _showLobbyMsgs.MessageList: FRIEND_RICH_PRESENCE_CHANGED_MSG
+[GS] _showLobbyMsgs.MessageList: FRIEND_RICH_PRESENCE_CHANGED_MSG
+[GS] _showLobbyMsgs.MessageList: FRIEND_RICH_PRESENCE_CHANGED_MSG
+[GS] _showLobbyMsgs.MessageList: friendOnlineMessage
+[GS] _showLobbyMsgs.MessageList: FRIEND_RICH_PRESENCE_CHANGED_MSG
+[GS] _showLobbyMsgs.MessageList: FRIEND_RICH_PRESENCE_CHANGED_MSG
+[GS] _showLobbyMsgs.MessageList: friendOnlineMessage
+[GS] GDPRCheckIsEligible success!
+[GS] isEligible (GDPR)? True
+[UI] @ gdprReqDataSetIsEligible
+[GS] SaveDiscordUser success!
+[StartMgr] @ _unloadSceneAsync: DayOrTutorial
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 284 unused Assets to reduce memory usage. Loaded Objects now: 73951.
+Total: 253.044500 ms (FindLiveObjects: 4.731100 ms CreateObjectMapping: 5.449000 ms MarkObjects: 240.368300 ms  DeleteObjects: 2.495800 ms)
+
+[Photon] @ OnJoinedLobby (OnConnectedToMaster)
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+[PhotonMgr] @ OnJoinedLobby: [re]ConnectedAndReady=True // UserId=5a5ddb0f1726eb050d78d2ad // Nickname=Bip // region==us // gameVersion==v2.6.1b
+[PhotonMgr] @ joinSpectatorToggle // isSpectator==False
+[PhotonMgr] @ setPhotonPlayerPropBool: isSpectator // newBoolVal==False // fromFunc==setUserAsPlayerPlayerProps
+[PhotonMgr]**WARN @ setRoomIfNull: !room -- returning null
+[PhotonMgr]**WARN @ setRoomIfNull: !room -- returning null
+[PhotonMgr]*WARN @ GetNumSpectators: !r. Returning 0
+[UI] @ toggleChat. setOn? False
+[UI] @ mmVerifyVersion
+[GSInfo] serverVer == v2.6.1b
+[Common] MyVer: v2.6.1b / ServerVer: v2.6.1b
+[UI] @ resetForceRefreshFriendsTimer
+[UI] @ _waitThenEnableBtn (WAITING 60s)
+[Lobby] @ OnJoinedLobby
+[Lobby] Starting lobby polling now.
+<color=pink>[GS] @ joinedPhotonLobby</color>
+[DiscordMgr] @ OnInitJoinedLobbyCheckQueuedJoin
+[UI] @ toggleChat. setOn? False
+[Lobby] @ OnReceivedRoomListUpdate (init)
+[Lobby] initLobbyStatsDone==ALMOST
+[Lobby] (READY 2/2) @ updateLobbyStats
+[Lobby] initLobbyStatsDone==true
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 74603.
+Total: 228.467800 ms (FindLiveObjects: 2.822700 ms CreateObjectMapping: 4.299700 ms MarkObjects: 221.242200 ms  DeleteObjects: 0.102600 ms)
+
+[ToL-API] Successful callback: UnityEngine.Networking.UnityWebRequest
+[ToL-API-Callback (CheckIsOnline)] {"onlineCount":1934}
+[ToL-API] numDiscordOnline: 1934
+[Lobby] @ DiscordGetUsersOnline: 1934
+[Lobby] @ OnJoinedLobby
+<color=pink>[GS] @ joinedPhotonLobby</color>
+[DiscordMgr] @ UpdatePresenceLobbyOrRoom
+[DiscordMgr] @ UpdatePresence
+[Discord] @ rpInfo.constructor
+[Discord] @ rpInfo.constructor.rpInitLobbyIdle
+[StartMgr] @ _fadeInSceneToTransparentAfterValidation
+[StartMgr] _fadeInSceneToTransparentAfterValidation: fadeToTransparent==True
+[GS] joinedPhotonLobby success!
+[Lobby] @ onJoinedPhotonLobbyRes // Success==True
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+[GS] joinedPhotonLobby success!
+[Lobby] @ onJoinedPhotonLobbyRes // Success==True
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 77193.
+Total: 237.931300 ms (FindLiveObjects: 3.023100 ms CreateObjectMapping: 4.367300 ms MarkObjects: 230.430100 ms  DeleteObjects: 0.110600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 77845.
+Total: 240.704800 ms (FindLiveObjects: 3.184100 ms CreateObjectMapping: 4.546700 ms MarkObjects: 232.862400 ms  DeleteObjects: 0.111200 ms)
+
+[StartMgr] @ OnSceneOpCompleteIncludingFades: LobbyNew
+[QuitConfirm] @ OnExitNowBtnClick
+[Common] @ QuitGameNow: QUITTING GAME NOW! // quitReason==PlayerClickedQuit // hackyQuit? False
+[Common]*WARN @ QuitGameNow: FORCE_HACKY_QUIT // HACKY_QUIT==False
+[Common] @ tellGSClientShutdownThenDCAsync
+[GS] @ OnCloseGameCleanly
+[GS]*WARN @ startMsgQueuePopups: Incoming 'FRIEND_RICH_PRESENCE_CHANGED_MSG', Dismissed
+[GS] @ dismissMessageRequest
+[GS]*WARN @ startMsgQueuePopups: Incoming 'friendOfflineMessage', Dismissed
+[GS] @ dismissMessageRequest
+[GS]*WARN @ startMsgQueuePopups: Incoming 'FRIEND_RICH_PRESENCE_CHANGED_MSG', Dismissed
+[GS] @ dismissMessageRequest
+[GS]*WARN @ startMsgQueuePopups: Incoming 'FRIEND_RICH_PRESENCE_CHANGED_MSG', Dismissed
+[GS] @ dismissMessageRequest
+[GS]*WARN @ startMsgQueuePopups: Incoming 'FRIEND_RICH_PRESENCE_CHANGED_MSG', Dismissed
+[GS] @ dismissMessageRequest
+[GS]*WARN @ startMsgQueuePopups: Incoming 'FRIEND_RICH_PRESENCE_CHANGED_MSG', Dismissed
+[GS] @ dismissMessageRequest
+[GS]*WARN @ startMsgQueuePopups: Incoming 'friendOnlineMessage': Dismissed
+[GS] @ dismissMessageRequest
+[GS]*WARN @ startMsgQueuePopups: Incoming 'FRIEND_RICH_PRESENCE_CHANGED_MSG', Dismissed
+[GS] @ dismissMessageRequest
+[GS]*WARN @ startMsgQueuePopups: Incoming 'FRIEND_RICH_PRESENCE_CHANGED_MSG', Dismissed
+[GS] @ dismissMessageRequest
+[GS]*WARN @ startMsgQueuePopups: Incoming 'friendOnlineMessage': Dismissed
+[GS] @ dismissMessageRequest
+[GS] @ OnCloseGameCleanly => CLOSE_GAME_CLEANLY // Success?True
+[GS] @ DisconnectGS
+[Common] @ QuitFinal // hackyQuit==True
+[Common] @ QuitGameNow: Killing process (hacky quit)...
+Crash!!!
+SymInit: Symbol-SearchPath: '.;C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies;C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 534, UserName: 'Gertjan'
+OS-Version: 10.0.0
+C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies.exe:ThroneOfLies.exe (00007FF60F4F0000), size: 671744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2020.1.0.54331
+C:\WINDOWS\SYSTEM32\ntdll.dll:ntdll.dll (00007FFE4E320000), size: 2031616 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.815
+C:\WINDOWS\System32\KERNEL32.DLL:KERNEL32.DLL (00007FFE4D110000), size: 729088 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.778
+C:\WINDOWS\System32\KERNELBASE.dll:KERNELBASE.dll (00007FFE4BD50000), size: 2768896 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.815
+C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\UnityPlayer.dll:UnityPlayer.dll (00007FFDF10D0000), size: 28151808 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2020.1.0.54331
+C:\WINDOWS\System32\USER32.dll:USER32.dll (00007FFE4DEB0000), size: 1654784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.836
+C:\WINDOWS\System32\win32u.dll:win32u.dll (00007FFE4C3A0000), size: 135168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.836
+C:\WINDOWS\System32\GDI32.dll:GDI32.dll (00007FFE4C9F0000), size: 155648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\gdi32full.dll:gdi32full.dll (00007FFE4BAB0000), size: 1654784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.836
+C:\WINDOWS\System32\msvcp_win.dll:msvcp_win.dll (00007FFE4C000000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.815
+C:\WINDOWS\System32\ucrtbase.dll:ucrtbase.dll (00007FFE4C0A0000), size: 1024000 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.815
+C:\WINDOWS\System32\ole32.dll:ole32.dll (00007FFE4D460000), size: 1404928 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.693
+C:\WINDOWS\System32\combase.dll:combase.dll (00007FFE4D790000), size: 3366912 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.815
+C:\WINDOWS\System32\RPCRT4.dll:RPCRT4.dll (00007FFE4DC80000), size: 1179648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.628
+C:\WINDOWS\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (00007FFE4B2B0000), size: 524288 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.836
+C:\WINDOWS\System32\advapi32.dll:advapi32.dll (00007FFE4DDA0000), size: 667648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.752
+C:\WINDOWS\System32\msvcrt.dll:msvcrt.dll (00007FFE4D630000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.18362.1
+C:\WINDOWS\SYSTEM32\VERSION.dll:VERSION.dll (00007FFE44070000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\sechost.dll:sechost.dll (00007FFE4D2B0000), size: 618496 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.693
+C:\WINDOWS\System32\SHLWAPI.dll:SHLWAPI.dll (00007FFE4DE50000), size: 335872 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\SETUPAPI.dll:SETUPAPI.dll (00007FFE4C580000), size: 4653056 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\cfgmgr32.dll:cfgmgr32.dll (00007FFE4BC50000), size: 303104 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.387
+C:\WINDOWS\System32\bcrypt.dll:bcrypt.dll (00007FFE4C370000), size: 155648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.267
+C:\WINDOWS\System32\SHELL32.dll:SHELL32.dll (00007FFE4CA20000), size: 7225344 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.815
+C:\WINDOWS\System32\shcore.dll:shcore.dll (00007FFE4C4D0000), size: 692224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.836
+C:\WINDOWS\System32\windows.storage.dll:windows.storage.dll (00007FFE4B330000), size: 7856128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.836
+C:\WINDOWS\System32\profapi.dll:profapi.dll (00007FFE4B260000), size: 143360 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.693
+C:\WINDOWS\System32\powrprof.dll:powrprof.dll (00007FFE4B210000), size: 303104 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\UMPDC.dll:UMPDC.dll (00007FFE4B1E0000), size: 65536 (result: 0), SymType: '-deferred-', PDB: ''
+C:\WINDOWS\System32\kernel.appcore.dll:kernel.appcore.dll (00007FFE4B1F0000), size: 69632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\cryptsp.dll:cryptsp.dll (00007FFE4C1A0000), size: 94208 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\OLEAUT32.dll:OLEAUT32.dll (00007FFE4E050000), size: 802816 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.836
+C:\WINDOWS\System32\IMM32.dll:IMM32.dll (00007FFE4C3D0000), size: 188416 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.387
+C:\WINDOWS\System32\CRYPT32.dll:CRYPT32.dll (00007FFE4C220000), size: 1347584 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.592
+C:\WINDOWS\System32\MSASN1.dll:MSASN1.dll (00007FFE4B290000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\SYSTEM32\WINMM.dll:WINMM.dll (00007FFE49270000), size: 147456 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\WS2_32.dll:WS2_32.dll (00007FFE4D5C0000), size: 454656 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.387
+C:\WINDOWS\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FFE186A0000), size: 1400832 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.387
+C:\WINDOWS\SYSTEM32\WINHTTP.dll:WINHTTP.dll (00007FFE44DE0000), size: 983040 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.778
+C:\WINDOWS\SYSTEM32\HID.DLL:HID.DLL (00007FFE49DF0000), size: 57344 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\SYSTEM32\WINMMBASE.dll:WINMMBASE.dll (00007FFE49110000), size: 184320 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\SYSTEM32\GLU32.dll:GLU32.dll (00007FFE2C4E0000), size: 180224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.387
+C:\WINDOWS\SYSTEM32\dxcore.dll:dxcore.dll (00007FFE49E50000), size: 131072 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\Program Files (x86)\Steam\gameoverlayrenderer64.dll:gameoverlayrenderer64.dll (00007FFE184C0000), size: 1957888 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 5.86.32.43
+C:\WINDOWS\System32\PSAPI.DLL:PSAPI.DLL (00007FFE4E2D0000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\system32\uxtheme.dll:uxtheme.dll (00007FFE494B0000), size: 626688 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.449
+C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\GameAssembly.dll:GameAssembly.dll (00007FFDE6D30000), size: 33214464 (result: 0), SymType: '-deferred-', PDB: ''
+C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (00007FFE4A760000), size: 237568 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\baselib.dll:baselib.dll (00007FFE16E00000), size: 495616 (result: 0), SymType: '-deferred-', PDB: ''
+C:\WINDOWS\System32\MSCTF.dll:MSCTF.dll (00007FFE4E190000), size: 1269760 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.752
+C:\WINDOWS\SYSTEM32\d3d11.dll:d3d11.dll (00007FFE482C0000), size: 2469888 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.387
+C:\WINDOWS\SYSTEM32\dxgi.dll:dxgi.dll (00007FFE49EE0000), size: 962560 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.815
+C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_ab1f86d7947528e0\nvldumdx.dll:nvldumdx.dll (00007FFE44080000), size: 978944 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 26.21.14.4274
+C:\WINDOWS\SYSTEM32\cryptnet.dll:cryptnet.dll (00007FFE44020000), size: 192512 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\SYSTEM32\cryptbase.dll:cryptbase.dll (00007FFE4AC20000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\WINTRUST.DLL:WINTRUST.DLL (000001E85B710000), size: 376832 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.387
+C:\WINDOWS\System32\imagehlp.dll:imagehlp.dll (00007FFE4D6E0000), size: 118784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\system32\rsaenh.dll:rsaenh.dll (00007FFE4A5C0000), size: 208896 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_ab1f86d7947528e0\nvwgf2umx.dll:nvwgf2umx.dll (00007FFE0BCC0000), size: 40501248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 26.21.14.4274
+C:\WINDOWS\system32\nvspcap64.dll:nvspcap64.dll (00007FFE0E360000), size: 2899968 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.20.2.34
+C:\WINDOWS\SYSTEM32\ntmarta.dll:ntmarta.dll (00007FFE4A240000), size: 200704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\clbcatq.dll:clbcatq.dll (00007FFE4D350000), size: 663552 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2001.12.10941.16384
+C:\WINDOWS\system32\wbem\wbemprox.dll:wbemprox.dll (00007FFE3B680000), size: 69632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\SYSTEM32\wbemcomn.dll:wbemcomn.dll (00007FFE3B5F0000), size: 540672 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\system32\wbem\wbemsvc.dll:wbemsvc.dll (00007FFE3A910000), size: 81920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\system32\wbem\fastprox.dll:fastprox.dll (00007FFE3A930000), size: 1052672 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\SYSTEM32\amsi.dll:amsi.dll (00007FFE38C60000), size: 86016 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\SYSTEM32\USERENV.dll:USERENV.dll (00007FFE4B0D0000), size: 151552 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.387
+C:\WINDOWS\SYSTEM32\mscms.dll:mscms.dll (00007FFE45CA0000), size: 712704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.836
+C:\WINDOWS\SYSTEM32\ColorAdapterClient.dll:ColorAdapterClient.dll (00007FFE45C00000), size: 94208 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.836
+C:\WINDOWS\SYSTEM32\icm32.dll:icm32.dll (00007FFE44EE0000), size: 274432 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.836
+C:\WINDOWS\System32\MMDevApi.dll:MMDevApi.dll (00007FFE46D30000), size: 466944 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.387
+C:\WINDOWS\System32\DEVOBJ.dll:DEVOBJ.dll (00007FFE4AFE0000), size: 172032 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.387
+C:\WINDOWS\SYSTEM32\AUDIOSES.DLL:AUDIOSES.DLL (00007FFE46560000), size: 1429504 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.815
+C:\WINDOWS\SYSTEM32\wintypes.dll:wintypes.dll (00007FFE470D0000), size: 1388544 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.836
+C:\WINDOWS\SYSTEM32\resourcepolicyclient.dll:resourcepolicyclient.dll (00007FFE49890000), size: 81920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\SYSTEM32\xinput1_3.dll:xinput1_3.dll (0000000000400000), size: 122880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 9.18.944.0
+C:\WINDOWS\SYSTEM32\dcomp.dll:dcomp.dll (00007FFE48980000), size: 1949696 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.836
+C:\WINDOWS\SYSTEM32\dwmapi.dll:dwmapi.dll (00007FFE49980000), size: 184320 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.267
+C:\WINDOWS\SYSTEM32\TextInputFramework.dll:TextInputFramework.dll (00007FFE402B0000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.693
+C:\WINDOWS\SYSTEM32\CoreMessaging.dll:CoreMessaging.dll (00007FFE49030000), size: 868352 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.836
+C:\WINDOWS\SYSTEM32\CoreUIComponents.dll:CoreUIComponents.dll (00007FFE46230000), size: 3317760 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.207
+C:\Windows\System32\Windows.UI.dll:Windows.UI.dll (00007FFE40470000), size: 1380352 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.836
+C:\Windows\System32\InputHost.dll:InputHost.dll (00007FFE40350000), size: 1159168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.836
+C:\Windows\System32\PROPSYS.dll:PROPSYS.dll (00007FFE476E0000), size: 983040 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.18362.815
+C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\ThroneOfLies_Data\Plugins\x86_64\discord-rpc.dll:discord-rpc.dll (00007FFE13F80000), size: 638976 (result: 0), SymType: '-deferred-', PDB: ''
+C:\WINDOWS\system32\napinsp.dll:napinsp.dll (00007FFE479B0000), size: 90112 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\system32\pnrpnsp.dll:pnrpnsp.dll (00007FFE44210000), size: 106496 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\mswsock.dll:mswsock.dll (00007FFE4AA50000), size: 421888 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.815
+C:\WINDOWS\SYSTEM32\DNSAPI.dll:DNSAPI.dll (00007FFE4A7A0000), size: 831488 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.815
+C:\WINDOWS\System32\NSI.dll:NSI.dll (00007FFE4D6D0000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.449
+C:\WINDOWS\System32\winrnr.dll:winrnr.dll (00007FFE479A0000), size: 57344 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\system32\NLAapi.dll:NLAapi.dll (00007FFE48B60000), size: 114688 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.693
+C:\WINDOWS\system32\wshbth.dll:wshbth.dll (00007FFE2A510000), size: 86016 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\Program Files (x86)\Steam\steamapps\common\Throne of Lies\steam_api64.DLL:steam_api64.DLL (0000000071600000), size: 266240 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 4.28.51.7
+C:\Program Files (x86)\Steam\steamclient64.dll:steamclient64.dll (00007FFDE5AD0000), size: 19251200 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 5.86.32.43
+C:\WINDOWS\SYSTEM32\Secur32.dll:Secur32.dll (00007FFE358B0000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\Program Files (x86)\Steam\vstdlib_s64.dll:vstdlib_s64.dll (00007FFE16D80000), size: 507904 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 5.86.32.43
+C:\Program Files (x86)\Steam\tier0_s64.dll:tier0_s64.dll (00007FFE13E00000), size: 1523712 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 5.86.32.43
+C:\WINDOWS\SYSTEM32\SSPICLI.DLL:SSPICLI.DLL (00007FFE4B100000), size: 192512 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\fwpuclnt.dll:fwpuclnt.dll (00007FFE45C20000), size: 487424 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.207
+C:\Windows\System32\rasadhlp.dll:rasadhlp.dll (00007FFE445E0000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\SYSTEM32\dhcpcsvc6.DLL:dhcpcsvc6.DLL (00007FFE46060000), size: 90112 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.815
+C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL:dhcpcsvc.DLL (00007FFE46040000), size: 114688 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.815
+C:\WINDOWS\SYSTEM32\gpapi.dll:gpapi.dll (00007FFE49E00000), size: 139264 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\SYSTEM32\mfplat.dll:mfplat.dll (00007FFE23C50000), size: 2072576 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.836
+C:\WINDOWS\SYSTEM32\RTWorkQ.DLL:RTWorkQ.DLL (00007FFE3C5D0000), size: 192512 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\SYSTEM32\mfreadwrite.dll:mfreadwrite.dll (00007FFDFD5C0000), size: 1282048 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.719
+C:\WINDOWS\SYSTEM32\Mf.dll:Mf.dll (00007FFE12D60000), size: 532480 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.657
+C:\WINDOWS\SYSTEM32\MFCORE.DLL:MFCORE.DLL (00007FFE1C870000), size: 4112384 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.836
+C:\WINDOWS\SYSTEM32\ksuser.dll:ksuser.dll (00007FFE03370000), size: 36864 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\mfmp4srcsnk.dll:mfmp4srcsnk.dll (00007FFE13B30000), size: 2945024 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.778
+C:\WINDOWS\SYSTEM32\CompPkgSup.DLL:CompPkgSup.DLL (00007FFE36CB0000), size: 196608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\Windows\System32\Windows.Media.dll:Windows.Media.dll (00007FFE111D0000), size: 7770112 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.836
+C:\Windows\System32\Windows.ApplicationModel.dll:Windows.ApplicationModel.dll (00007FFE3D550000), size: 921600 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.836
+C:\Windows\System32\twinapi.appcore.dll:twinapi.appcore.dll (00007FFE49620000), size: 2494464 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.836
+C:\Windows\System32\RMCLIENT.dll:RMCLIENT.dll (00007FFE49A90000), size: 167936 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.267
+C:\Windows\System32\msmpeg2vdec.dll:msmpeg2vdec.dll (00007FFE12AE0000), size: 2576384 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.753
+C:\Windows\System32\mfperfhelper.dll:mfperfhelper.dll (00007FFE129B0000), size: 1232896 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\Windows\System32\AppXDeploymentClient.dll:AppXDeploymentClient.dll (00007FFE460E0000), size: 917504 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.836
+C:\Windows\System32\StateRepository.Core.dll:StateRepository.Core.dll (00007FFE45970000), size: 716800 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.836
+C:\Windows\System32\FirewallAPI.dll:FirewallAPI.dll (00007FFE4A180000), size: 573440 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.449
+C:\Windows\System32\fwbase.dll:fwbase.dll (00007FFE4A120000), size: 188416 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.449
+C:\Windows\System32\Windows.StateRepositoryPS.dll:Windows.StateRepositoryPS.dll (00007FFE2D480000), size: 1265664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.836
+C:\WINDOWS\SYSTEM32\capauthz.dll:capauthz.dll (00007FFE46850000), size: 323584 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\msvproc.dll:msvproc.dll (00007FFE12830000), size: 1515520 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.387
+C:\Windows\System32\colorcnv.dll:colorcnv.dll (00007FFE2C5C0000), size: 241664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\Windows\System32\msdmo.dll:msdmo.dll (00007FFE40C20000), size: 45056 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\Windows\System32\MSAudDecMFT.dll:MSAudDecMFT.dll (00007FFE13730000), size: 454656 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.778
+C:\WINDOWS\SYSTEM32\iertutil.dll:iertutil.dll (00007FFE3EF00000), size: 2777088 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 11.0.18362.815
+C:\WINDOWS\SYSTEM32\avrt.dll:avrt.dll (00007FFE46D20000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FFE41410000), size: 2048000 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+
+========== OUTPUTTING STACK TRACE ==================
+
+0x00007FFDE820E51E (GameAssembly) WriteZStream
+0x00007FFDE821CBED (GameAssembly) WriteZStream
+0x00007FFDE819811F (GameAssembly) WriteZStream
+0x00007FFDE71509E7 (GameAssembly) WriteZStream
+0x00007FFDE74E6EB4 (GameAssembly) WriteZStream
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00007FFDE6DD7F9C)
+0x00007FFDE6DD7F9C (GameAssembly) (function-name not available)
+0x00007FFDE6ECD920 (GameAssembly) UnityPalGetTimeZoneDataForID
+0x00007FFDF18E35A0 (UnityPlayer) Baselib_Thread_YieldExecution
+0x00007FFDF18F4922 (UnityPlayer) Baselib_Thread_YieldExecution
+0x00007FFDF18FD3B3 (UnityPlayer) Baselib_Thread_YieldExecution
+0x00007FFDF18FD468 (UnityPlayer) Baselib_Thread_YieldExecution
+0x00007FFDF168C810 (UnityPlayer) UnityMain
+0x00007FFDF17A44D7 (UnityPlayer) UnityMain
+0x00007FFDF17A4577 (UnityPlayer) UnityMain
+0x00007FFDF17A7CDB (UnityPlayer) UnityMain
+0x00007FFDF1593B7E (UnityPlayer) AbortShim::operator=
+0x00007FFDF15929BA (UnityPlayer) AbortShim::operator=
+0x00007FFDF1596C5D (UnityPlayer) AbortShim::operator=
+0x00007FFDF1597D4B (UnityPlayer) UnityMain
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00007FF60F4F11F2)
+0x00007FF60F4F11F2 (ThroneOfLies) (function-name not available)
+0x00007FFE4D127BD4 (KERNEL32) BaseThreadInitThunk
+0x00007FFE4E38CE51 (ntdll) RtlUserThreadStart
+
+========== END OF STACKTRACE ===========
+
+A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
+ * C:/Users/Gertjan/AppData/Local/Temp/Imperium42 Game Studio/Throne of Lies/Crashes
