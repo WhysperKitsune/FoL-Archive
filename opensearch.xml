@@ -3,8 +3,8 @@
   <ShortName>Forum of Lies | Throne of Lies | by Imperium42 Search</ShortName>
   <Description>Search for posts on Forum of Lies | Throne of Lies | by Imperium42</Description>
   <Tags>discourse forum</Tags>
-    <Image type="image/png">https://forum.throneoflies.com/uploads/default/optimized/3X/3/c/3c4589975736c98aaeb36800f5e7300fd53a82be_2_32x32.png</Image>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://forum.throneoflies.com/opensearch.xml"/>
-  <Url type="text/html" template="https://forum.throneoflies.com/search?q={searchTerms}"/>
+    <Image type="image/png">https://fol-archive.netlify.app/uploads/default/optimized/3X/3/c/3c4589975736c98aaeb36800f5e7300fd53a82be_2_32x32.png</Image>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://fol-archive.netlify.app/opensearch.xml"/>
+  <Url type="text/html" template="https://fol-archive.netlify.app/search?q={searchTerms}"/>
   <Query role="example" searchTerms="search term"/>
 </OpenSearchDescription>
