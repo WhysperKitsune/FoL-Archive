@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Cannot select monitor</title>
-    <link>https://forum.throneoflies.com/t/cannot-select-monitor/36363</link>
+    <link>https://fol-archive.netlify.app/t/cannot-select-monitor/36363</link>
     <description>#### What happened?
 
 I just installed the game and tried to launch, everything opens fine until I try to select which monitor the game should display on, but there are no options. If I click play then the application launches (can see on taskbar) and the music begins playing, but I cannot maximize it. Same issue if windowed mode is selected.
@@ -25,30 +25,30 @@ My computer detects the monitor no problem, and I have had no issues remotely li
     
     <lastBuildDate>Fri, 12 Jan 2018 20:26:40 +0000</lastBuildDate>
     <category>Support</category>
-    <atom:link href="https://forum.throneoflies.com/t/cannot-select-monitor/36363.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fol-archive.netlify.app/t/cannot-select-monitor/36363.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Cannot select monitor</title>
         <dc:creator><![CDATA[omega]]></dc:creator>
         <description><![CDATA[
             <p>Ahh was on that earlier but didn’t change the scaling, now working perfectly, cheers Ashe!</p>
-          <p><a href="https://forum.throneoflies.com/t/cannot-select-monitor/36363/3">Read full topic</a></p>
+          <p><a href="https://fol-archive.netlify.app/t/cannot-select-monitor/36363/3">Read full topic</a></p>
         ]]></description>
-        <link>https://forum.throneoflies.com/t/cannot-select-monitor/36363/3</link>
+        <link>https://fol-archive.netlify.app/t/cannot-select-monitor/36363/3</link>
         <pubDate>Fri, 12 Jan 2018 20:26:40 +0000</pubDate>
         <guid isPermaLink="false">forum.throneoflies.com-post-36363-3</guid>
-        <source url="https://forum.throneoflies.com/t/cannot-select-monitor/36363.rss">Cannot select monitor</source>
+        <source url="https://fol-archive.netlify.app/t/cannot-select-monitor/36363.rss">Cannot select monitor</source>
       </item>
       <item>
         <title>Cannot select monitor</title>
         <dc:creator><![CDATA[Ashe]]></dc:creator>
         <description><![CDATA[
             <p>This seems to be an issue with Windows 10 (and possibly other operating systems) and Unity games. To fix this, you have to go into your GPU Control Panel. The following are instructions for Nvidia Control Panel, but while it should be possible with other GPU Control Panels it may be slightly different to navigate. Under Display &gt; Adjust Desktop Size and Position, you will find a menu for scaling. If it is not already, change the Scaling Mode to “No Scaling”, and Perform Scaling on: to “Display”. Then, try opening ToL up, and you should see it can now select your display, and it should open properly. If that doesn’t fix the problem, tick the box “Override the scaling mode set by games and programs”, and then try again. Hopefully this helps!</p>
-          <p><a href="https://forum.throneoflies.com/t/cannot-select-monitor/36363/2">Read full topic</a></p>
+          <p><a href="https://fol-archive.netlify.app/t/cannot-select-monitor/36363/2">Read full topic</a></p>
         ]]></description>
-        <link>https://forum.throneoflies.com/t/cannot-select-monitor/36363/2</link>
+        <link>https://fol-archive.netlify.app/t/cannot-select-monitor/36363/2</link>
         <pubDate>Fri, 12 Jan 2018 19:45:54 +0000</pubDate>
         <guid isPermaLink="false">forum.throneoflies.com-post-36363-2</guid>
-        <source url="https://forum.throneoflies.com/t/cannot-select-monitor/36363.rss">Cannot select monitor</source>
+        <source url="https://fol-archive.netlify.app/t/cannot-select-monitor/36363.rss">Cannot select monitor</source>
       </item>
       <item>
         <title>Cannot select monitor</title>
@@ -64,12 +64,12 @@ My computer detects the monitor no problem, and I have had no issues remotely li
 <h4>Comments:</h4>
 <p>My computer detects the monitor no problem, and I have had no issues remotely like this in the past with any game. Tried using DirectX11 and Vulkan launch otions but no help. Hopefully the screenshot makes it clear what I am on about.</p>
 <p><img src="/uploads/default/original/2X/6/6231cfc885976bbde7b09297b7e2334c371b9da2.jpg" alt="NoMonitor" data-base62-sha1="e0FvOhbfCYAcpZTzeqGY5DSmo0O" width="480" height="472"></p>
-          <p><a href="https://forum.throneoflies.com/t/cannot-select-monitor/36363/1">Read full topic</a></p>
+          <p><a href="https://fol-archive.netlify.app/t/cannot-select-monitor/36363/1">Read full topic</a></p>
         ]]></description>
-        <link>https://forum.throneoflies.com/t/cannot-select-monitor/36363/1</link>
+        <link>https://fol-archive.netlify.app/t/cannot-select-monitor/36363/1</link>
         <pubDate>Fri, 12 Jan 2018 18:07:58 +0000</pubDate>
         <guid isPermaLink="false">forum.throneoflies.com-post-36363-1</guid>
-        <source url="https://forum.throneoflies.com/t/cannot-select-monitor/36363.rss">Cannot select monitor</source>
+        <source url="https://fol-archive.netlify.app/t/cannot-select-monitor/36363.rss">Cannot select monitor</source>
       </item>
   </channel>
 </rss>
