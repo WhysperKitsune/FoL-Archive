@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Game won&#39;t load</title>
-    <link>https://forum.throneoflies.com/t/game-wont-load/38819</link>
+    <link>https://fol-archive.netlify.app/t/game-wont-load/38819</link>
     <description>#### What happened?
 
 Title. When on the screen for graphical setting, this happened:
@@ -114,66 +114,66 @@ None</description>
     
     <lastBuildDate>Sun, 21 Jan 2018 11:16:25 +0000</lastBuildDate>
     <category>Bug Reports</category>
-    <atom:link href="https://forum.throneoflies.com/t/game-wont-load/38819.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fol-archive.netlify.app/t/game-wont-load/38819.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Game won&#39;t load</title>
         <dc:creator><![CDATA[TryphonX]]></dc:creator>
         <description><![CDATA[
             
-          <p><a href="https://forum.throneoflies.com/t/game-wont-load/38819/6">Read full topic</a></p>
+          <p><a href="https://fol-archive.netlify.app/t/game-wont-load/38819/6">Read full topic</a></p>
         ]]></description>
-        <link>https://forum.throneoflies.com/t/game-wont-load/38819/6</link>
+        <link>https://fol-archive.netlify.app/t/game-wont-load/38819/6</link>
         <pubDate>Sun, 21 Jan 2018 16:43:07 +0000</pubDate>
         <guid isPermaLink="false">forum.throneoflies.com-post-38819-6</guid>
-        <source url="https://forum.throneoflies.com/t/game-wont-load/38819.rss">Game won&#39;t load</source>
+        <source url="https://fol-archive.netlify.app/t/game-wont-load/38819.rss">Game won&#39;t load</source>
       </item>
       <item>
         <title>Game won&#39;t load</title>
         <dc:creator><![CDATA[Icibalus]]></dc:creator>
         <description><![CDATA[
             <p>Issue solved.</p>
-          <p><a href="https://forum.throneoflies.com/t/game-wont-load/38819/5">Read full topic</a></p>
+          <p><a href="https://fol-archive.netlify.app/t/game-wont-load/38819/5">Read full topic</a></p>
         ]]></description>
-        <link>https://forum.throneoflies.com/t/game-wont-load/38819/5</link>
+        <link>https://fol-archive.netlify.app/t/game-wont-load/38819/5</link>
         <pubDate>Sun, 21 Jan 2018 11:16:25 +0000</pubDate>
         <guid isPermaLink="false">forum.throneoflies.com-post-38819-5</guid>
-        <source url="https://forum.throneoflies.com/t/game-wont-load/38819.rss">Game won&#39;t load</source>
+        <source url="https://fol-archive.netlify.app/t/game-wont-load/38819.rss">Game won&#39;t load</source>
       </item>
       <item>
         <title>Game won&#39;t load</title>
         <dc:creator><![CDATA[Icibalus]]></dc:creator>
         <description><![CDATA[
             <p>There dosen’t appear to be a ‘perform scalling on’ setting on my GPU.</p>
-          <p><a href="https://forum.throneoflies.com/t/game-wont-load/38819/4">Read full topic</a></p>
+          <p><a href="https://fol-archive.netlify.app/t/game-wont-load/38819/4">Read full topic</a></p>
         ]]></description>
-        <link>https://forum.throneoflies.com/t/game-wont-load/38819/4</link>
+        <link>https://fol-archive.netlify.app/t/game-wont-load/38819/4</link>
         <pubDate>Sun, 21 Jan 2018 11:14:48 +0000</pubDate>
         <guid isPermaLink="false">forum.throneoflies.com-post-38819-4</guid>
-        <source url="https://forum.throneoflies.com/t/game-wont-load/38819.rss">Game won&#39;t load</source>
+        <source url="https://fol-archive.netlify.app/t/game-wont-load/38819.rss">Game won&#39;t load</source>
       </item>
       <item>
         <title>Game won&#39;t load</title>
         <dc:creator><![CDATA[Icibalus]]></dc:creator>
         <description><![CDATA[
             <p>Having trouble getting to my GPU control panel, I’ll get back to you.</p>
-          <p><a href="https://forum.throneoflies.com/t/game-wont-load/38819/3">Read full topic</a></p>
+          <p><a href="https://fol-archive.netlify.app/t/game-wont-load/38819/3">Read full topic</a></p>
         ]]></description>
-        <link>https://forum.throneoflies.com/t/game-wont-load/38819/3</link>
+        <link>https://fol-archive.netlify.app/t/game-wont-load/38819/3</link>
         <pubDate>Sun, 21 Jan 2018 11:01:07 +0000</pubDate>
         <guid isPermaLink="false">forum.throneoflies.com-post-38819-3</guid>
-        <source url="https://forum.throneoflies.com/t/game-wont-load/38819.rss">Game won&#39;t load</source>
+        <source url="https://fol-archive.netlify.app/t/game-wont-load/38819.rss">Game won&#39;t load</source>
       </item>
       <item>
         <title>Game won&#39;t load</title>
         <dc:creator><![CDATA[Ashe]]></dc:creator>
         <description><![CDATA[
             <p>This seems to be an issue with Windows 10 (and possibly other operating systems) and Unity games. To fix this, you have to go into your GPU Control Panel. The following are instructions for Nvidia Control Panel, but while it should be possible with other GPU Control Panels it may be slightly different to navigate. Under Display &gt; Adjust Desktop Size and Position, you will find a menu for scaling. If it is not already, change the Scaling Mode to “No Scaling”, and Perform Scaling on: to “Display”. Then, try opening ToL up, and you should see it can now select your display, and it should open properly. If that doesn’t fix the problem, tick the box “Override the scaling mode set by games and programs”, and then try again. Hopefully this fixes it!</p>
-          <p><a href="https://forum.throneoflies.com/t/game-wont-load/38819/2">Read full topic</a></p>
+          <p><a href="https://fol-archive.netlify.app/t/game-wont-load/38819/2">Read full topic</a></p>
         ]]></description>
-        <link>https://forum.throneoflies.com/t/game-wont-load/38819/2</link>
+        <link>https://fol-archive.netlify.app/t/game-wont-load/38819/2</link>
         <pubDate>Sun, 21 Jan 2018 10:52:22 +0000</pubDate>
         <guid isPermaLink="false">forum.throneoflies.com-post-38819-2</guid>
-        <source url="https://forum.throneoflies.com/t/game-wont-load/38819.rss">Game won&#39;t load</source>
+        <source url="https://fol-archive.netlify.app/t/game-wont-load/38819.rss">Game won&#39;t load</source>
       </item>
       <item>
         <title>Game won&#39;t load</title>
@@ -267,12 +267,12 @@ Add a delegate to SceneManager.sceneLoaded instead to get notifications after sc
 <p>I’m not certain how this happened, but hopefully the logs might indicate something.</p>
 <h4>Comments:</h4>
 <p>None</p>
-          <p><a href="https://forum.throneoflies.com/t/game-wont-load/38819/1">Read full topic</a></p>
+          <p><a href="https://fol-archive.netlify.app/t/game-wont-load/38819/1">Read full topic</a></p>
         ]]></description>
-        <link>https://forum.throneoflies.com/t/game-wont-load/38819/1</link>
+        <link>https://fol-archive.netlify.app/t/game-wont-load/38819/1</link>
         <pubDate>Sun, 21 Jan 2018 10:44:06 +0000</pubDate>
         <guid isPermaLink="false">forum.throneoflies.com-post-38819-1</guid>
-        <source url="https://forum.throneoflies.com/t/game-wont-load/38819.rss">Game won&#39;t load</source>
+        <source url="https://fol-archive.netlify.app/t/game-wont-load/38819.rss">Game won&#39;t load</source>
       </item>
   </channel>
 </rss>

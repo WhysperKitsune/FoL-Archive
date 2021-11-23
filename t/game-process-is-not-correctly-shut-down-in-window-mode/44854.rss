@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Game process is not correctly shut down in window mode</title>
-    <link>https://forum.throneoflies.com/t/game-process-is-not-correctly-shut-down-in-window-mode/44854</link>
+    <link>https://fol-archive.netlify.app/t/game-process-is-not-correctly-shut-down-in-window-mode/44854</link>
     <description>#### What happened?
 
 The game process is not correctly closed then you start the game in fullscreen mode switch to window mode within the game and then close it with the close screen with the X button. Windows for example shows a program has stopped working as it appears to not be closed but instead seems forcefully closed for windows.
@@ -26,19 +26,19 @@ Looks like some event listener is missing there or looks for the wrong call. Som
     
     <lastBuildDate>Tue, 13 Feb 2018 21:03:47 +0000</lastBuildDate>
     <category>Bug Reports</category>
-    <atom:link href="https://forum.throneoflies.com/t/game-process-is-not-correctly-shut-down-in-window-mode/44854.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fol-archive.netlify.app/t/game-process-is-not-correctly-shut-down-in-window-mode/44854.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Game process is not correctly shut down in window mode</title>
         <dc:creator><![CDATA[PennilessImp749]]></dc:creator>
         <description><![CDATA[
             <p>its been like that since launch for me Everytime I close the game with X in corner this happens to me.</p>
 <p>I hoped they would have fixed it…</p>
-          <p><a href="https://forum.throneoflies.com/t/game-process-is-not-correctly-shut-down-in-window-mode/44854/2">Read full topic</a></p>
+          <p><a href="https://fol-archive.netlify.app/t/game-process-is-not-correctly-shut-down-in-window-mode/44854/2">Read full topic</a></p>
         ]]></description>
-        <link>https://forum.throneoflies.com/t/game-process-is-not-correctly-shut-down-in-window-mode/44854/2</link>
+        <link>https://fol-archive.netlify.app/t/game-process-is-not-correctly-shut-down-in-window-mode/44854/2</link>
         <pubDate>Tue, 13 Feb 2018 21:03:47 +0000</pubDate>
         <guid isPermaLink="false">forum.throneoflies.com-post-44854-2</guid>
-        <source url="https://forum.throneoflies.com/t/game-process-is-not-correctly-shut-down-in-window-mode/44854.rss">Game process is not correctly shut down in window mode</source>
+        <source url="https://fol-archive.netlify.app/t/game-process-is-not-correctly-shut-down-in-window-mode/44854.rss">Game process is not correctly shut down in window mode</source>
       </item>
       <item>
         <title>Game process is not correctly shut down in window mode</title>
@@ -55,12 +55,12 @@ Looks like some event listener is missing there or looks for the wrong call. Som
 <p>Minor bug as I doubt people encounter it naturally.</p>
 <p>Version 1.0.18e1</p>
 <p>Looks like some event listener is missing there or looks for the wrong call. Something is just still working although it should just end the process.</p>
-          <p><a href="https://forum.throneoflies.com/t/game-process-is-not-correctly-shut-down-in-window-mode/44854/1">Read full topic</a></p>
+          <p><a href="https://fol-archive.netlify.app/t/game-process-is-not-correctly-shut-down-in-window-mode/44854/1">Read full topic</a></p>
         ]]></description>
-        <link>https://forum.throneoflies.com/t/game-process-is-not-correctly-shut-down-in-window-mode/44854/1</link>
+        <link>https://fol-archive.netlify.app/t/game-process-is-not-correctly-shut-down-in-window-mode/44854/1</link>
         <pubDate>Mon, 12 Feb 2018 13:17:42 +0000</pubDate>
         <guid isPermaLink="false">forum.throneoflies.com-post-44854-1</guid>
-        <source url="https://forum.throneoflies.com/t/game-process-is-not-correctly-shut-down-in-window-mode/44854.rss">Game process is not correctly shut down in window mode</source>
+        <source url="https://fol-archive.netlify.app/t/game-process-is-not-correctly-shut-down-in-window-mode/44854.rss">Game process is not correctly shut down in window mode</source>
       </item>
   </channel>
 </rss>
