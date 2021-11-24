@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Toggle/untoggle radio buttons untoggles/toggles the effect even when canceling</title>
-    <link>https://forum.throneoflies.com/t/toggle-untoggle-radio-buttons-untoggles-toggles-the-effect-even-when-canceling/44039</link>
+    <link>https://fol-archive.netlify.app/t/toggle-untoggle-radio-buttons-untoggles-toggles-the-effect-even-when-canceling/44039</link>
     <description>#### What happened?
 
 When you untoggle and toggle the fullscreen radio button and close the settings screen with the x button or cancel the untoggle still takes effect although it is still considered toggled. It also shows as the wrong radio button when opening settings again. Meaning it still says it is fullscreen although it is not.
@@ -28,7 +28,7 @@ It also looks as if reading the settings does not read the real settings but tak
     
     <lastBuildDate>Fri, 09 Feb 2018 09:04:20 +0000</lastBuildDate>
     <category>Bug Reports</category>
-    <atom:link href="https://forum.throneoflies.com/t/toggle-untoggle-radio-buttons-untoggles-toggles-the-effect-even-when-canceling/44039.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fol-archive.netlify.app/t/toggle-untoggle-radio-buttons-untoggles-toggles-the-effect-even-when-canceling/44039.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Toggle/untoggle radio buttons untoggles/toggles the effect even when canceling</title>
         <dc:creator><![CDATA[sayyadin]]></dc:creator>
@@ -45,12 +45,12 @@ It also looks as if reading the settings does not read the real settings but tak
 <p>Interesting side effect with this bug. Once you caused it to happen you have to do the thing twice before it can be reproduced. Meaning  you have to open options again and do the same thing to keep recreating the bug. But it is very consistent on the second time doing it to still keep switching the radio button effect.</p>
 <p>It also looks as if reading the settings does not read the real settings but takes the cached value.<br>
 <img src="/uploads/default/original/2X/f/f48d99d5d35b1bdee66a8b4fa3f735afdc534ba6.PNG" alt="FullscreenOrNot" data-base62-sha1="yTpSDWB4Prq8qbfelBNMm4be05M" width="690" height="413">As you can force the game to tell you this way that you are playing in a certain configuration although you do not. meaning it tells you that you have vsynch/show fps/full screen/camera rotate/extra info enabled but in fact it is disabled. (or the other way around)</p>
-          <p><a href="https://forum.throneoflies.com/t/toggle-untoggle-radio-buttons-untoggles-toggles-the-effect-even-when-canceling/44039/1">Read full topic</a></p>
+          <p><a href="https://fol-archive.netlify.app/t/toggle-untoggle-radio-buttons-untoggles-toggles-the-effect-even-when-canceling/44039/1">Read full topic</a></p>
         ]]></description>
-        <link>https://forum.throneoflies.com/t/toggle-untoggle-radio-buttons-untoggles-toggles-the-effect-even-when-canceling/44039/1</link>
+        <link>https://fol-archive.netlify.app/t/toggle-untoggle-radio-buttons-untoggles-toggles-the-effect-even-when-canceling/44039/1</link>
         <pubDate>Fri, 09 Feb 2018 09:04:20 +0000</pubDate>
         <guid isPermaLink="false">forum.throneoflies.com-post-44039-1</guid>
-        <source url="https://forum.throneoflies.com/t/toggle-untoggle-radio-buttons-untoggles-toggles-the-effect-even-when-canceling/44039.rss">Toggle/untoggle radio buttons untoggles/toggles the effect even when canceling</source>
+        <source url="https://fol-archive.netlify.app/t/toggle-untoggle-radio-buttons-untoggles-toggles-the-effect-even-when-canceling/44039.rss">Toggle/untoggle radio buttons untoggles/toggles the effect even when canceling</source>
       </item>
   </channel>
 </rss>
